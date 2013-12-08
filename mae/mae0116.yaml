@@ -1,0 +1,50 @@
+courses:
+  activation: 01/01/2013
+  assessment: Usuais.
+  bibliography: '1.  D.A.Botter, G.A.Paula, J.G. Leite, L.K. Cordani, NOÇÕES DE ESTATÍSTICA
+    - COM APOIO COMPUTACIONAL. Versão preliminar - agosto de 1996.  São Paulo, IMEUSP,
+    201p.
+
+    2.  P.A. Morettin, W.O. Bussab, ESTATÍSTICA BÁSICA. 5ed. São  Paulo: Editora Saraiva,
+    2002,   520p.
+
+    3.  G.E. Noether, INTRODUÇÃO À ESTATÍSTICA: UMA ABORDAGEM NÃO-PARAMÉTRICA.  2ed.  Rio
+    de Janeiro, Guanabara Dois, 1983.  258p.
+
+    4.  M.N. Magalhães e A.C. Pedroso de Lima,  NOÇÕES DE PROBABILIDADE
+
+    E ESTATÍSTICA. 4ed. EDUSP, São Paulo, 2002. 392p.
+
+    5.   J.F. Soares, .A L. Siqueira,    INTRODUÇÃO À ESTATÍSTICA MÉDICA. 1ed. Departamento
+    de Estatística, UFMG, Estatística Aplicada - Biociências, 1999.
+
+    6. W.Mendenhall, J.E. Reinmuth,   STATISTICS FOR MANAGEMENT AND ECONOMICS. 3rd
+    edition, North Scituate, Duxburry Press, Massachussets, c1978. 789p.
+
+    7.   R.J. Wonnacott, T.H. Wonnaccot,   INTRODUCTORY STATISTICS. 5ed., John  Wiley
+    (Wiley Series), c1990.
+
+    8. T.H. Wonnacott, R.J. Wonnacott, INTRODUÇÃO À ESTATÍSTICA. Livros Técnicos e
+    Científicos, Rio de Janeiro, 1980.'
+  course: '1. Amostras, representação gráfica de dados amostrais, medidas descritivas
+    de uma amostra.
+
+    2. Distribuições binomial  e normal.
+
+    3. Inferência: estimação e teste de hipóteses.
+
+    4. Distribuição de quiquadrado, testes de independência e aderência.
+
+    5. Regressão e correlação.
+
+    6. Espaços amostrais, probabilidade em espaços amostrais discretos.'
+  course_name: MAE0116 - Noções de Estatística
+  lecture_credits: '4'
+  objectives: Fornecer as idéias básicas da metodologia estatística.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20131208101509'
+digest: ORLV5NERK2F4MO4X66G43WIG53THWS5S
+updated_at: '20131208101509'
+url: https://web.archive.org/web/20131208101509id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAE0116&codcur=47011&codhab=0
