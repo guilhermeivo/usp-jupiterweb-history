@@ -1,0 +1,27 @@
+courses:
+  activation: 01/01/2002
+  assessment: A média final será média ponderada da nota do semestre com a da recuperação
+    com o peso p entre 1 e 4.
+  bibliography: 1) M. Barone Jr., ÁLGEBRA LINEAR, 3a. ed., Ed. IME-USP. 2) J.L. Boldrini,
+    S.I.R. Costa, V.L. Figueiredo e H.G. Wetzler, ÁLGEBRA LINEAR, 3a ed., Ed. Harper-Row
+    do Brasil. 3) C.A. Callioli, H.H. Domingues, R.C.F. Costa, ÁLGEBRA LINEAR E APLICAÇÕES,
+    4a ed., Ed. Atual.
+  course: Espaços Vetorias reais e complexos. Dependência e independência linear.
+    Base. Dimensão. Subespaços. Soma direta. Transformações lineares. Núcleo e imagem.
+    Isomorfismo. Matriz de uma transformação linear. Autovalores e Autovetores. Subespaços
+    invariantes. Diagonalização de operadores. Noções de forma canônica de Jordan.
+    Espaços com produto interno. Ortogonalidade. Isometrias. Uma introdução aos operadores
+    auto-adjuntos.
+  course_name: 'MAT3211 - Álgebra Linear
+
+    Linear Algebra'
+  lecture_credits: '4'
+  objectives: Levar os alunos ao uso de ferramentas algébricas, visando as demais
+    disciplinas.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20150302063129'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20150302063129'
+url: https://web.archive.org/web/20150302063129id_/http://uspdigital.usp.br:80/jupiterweb/obterDisciplina?sgldis=MAT3211
