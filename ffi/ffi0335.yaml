@@ -1,0 +1,41 @@
+courses:
+  activation: 01/01/2013
+  assessment: 'Uma prova obrigatória + trabalho (opcional), a critério do docente.
+    Critério de aprovação: média final + nota de recuperação = média aritimética igual
+    ou superior a 5,0. Época de realização: de acordo com o calendário da Pró-Reitoria
+    de Graduação.'
+  bibliography: Paul A. Tipler, Física para Cientistas e Engenheiros, Volume 2, 4ª
+    Edição, Editora LTC (2000).
+  course: 'Carga elétrica: conceito de carga elétrica, quantização de carga elétrica,
+    conservação de carga elétrica. Condutores e Isolantes, Lei de Coulomb, Corrente
+    Elétrica e Circuitos de corrente contínua: resistência e Lei de Ohm, Energia nos
+    Circuitos Elétricos, FEM e Baterias, Amperímetros, Voltímetros e Ohmimetros. Combinação
+    de Resistores (serie e Paralelo), Regras de Kirchhoff, Capacitância e Capacitores.
+    O armazenamento de Energia Elétrica, Combinação de Capacitores, Dielétricos. Circuitos
+    RC, Descarga de um capacitor, Carga de um capacitor.  Campo elétrico: o campo
+    elétrico, linhas de campo, campo elétrico devido a carga pontual, dipolo e outras
+    geometrias. Potencial elétrico: energia potencial elétrica, potencial elétrico,
+    potencial devido a carga e outras geometrias.Campos magnéticos: o campo magnético,
+    a descoberta do elétron, força magnética, momento de dipolo magnético, Fontes
+    de Campo Magnético Indução e indutância: Lei de indução de Faraday e Lei de Lenz,
+    indução e transferência de energia, campos elétricos induzidos. Circuitos em corrente
+    alternada: corrente alternada, oscilações forçadas, circuitos simples e RLC série.
+    Lei de Gauss para a eletricidade, Lei de Gauss para o magnetismo, Lei de Ampere,
+    Equações de Maxwell.'
+  course_name: 'FFI0335 - Física III
+
+    Physics III'
+  instructors: '95341 - Antonio Carlos Hernandes
+
+    3428274 - Jean Claude MPeko'
+  lecture_credits: '4'
+  objectives: Fornecer ao aluno noções básicas de circuitos elétricos em corrente
+    contínua e corrente alternada e dar uma visão global dos conceitos fundamentais
+    de eletricidade e magnetismo.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20150513100624'
+digest: U5DOUBHJBEQECJ67MPXD2RVDBIMWLE33
+updated_at: '20150513100624'
+url: https://web.archive.org/web/20150513100624id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FFI0335&codcur=55030&codhab=200
