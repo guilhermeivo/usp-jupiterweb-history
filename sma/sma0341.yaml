@@ -1,0 +1,58 @@
+courses:
+  activation: 01/01/2007
+  assessment: 'de aprovação: a nota final (MF) do aluno que realizou provas de recuperação
+    dependerá da média do semestre (MS) e da média das provas de recuperação (MR),
+    como segue:
+
+    MF=5 se 5 <= MR <= 10 - MS;
+
+    MF = (MS + MR) / 2 se MR   10 - MS
+
+    MF = MS se MR   5.'
+  bibliography: "Livros-textos:\n· CASTRUCCI, B., Elementos de teoria dos conjuntos,\
+    \ Série professor n.3, São Paulo, 1976.\n· DIAS, I., GODOY, S.M.S. Elementos de\
+    \ Matemática \x96 Notas de Aula.\n· LIPSCHUTZ, S., Topologia geral. São Paulo,\
+    \ McGraw-Hill do Brasil, 1973.\n· MONTEIRO, L.H.J., Álgebra moderna. São Paulo,\
+    \ LpM, 1966.\n· MORASH, R.P., Bridge to Abstract Mathematics, The Handom House/\
+    \ Birkhäuser Mathematics Series,1987.\nComplementares:\n· BLOCH, E. D., Proofs\
+    \ and fundamentals: a First course in abstract mathematics. Boston: Birkhäuser,\
+    \ 2000.\n· LIPSCHUTZ, S., Teoria dos conjuntos, McGraw-Hill do Brasil, 1978."
+  course: 'Noções de lógica. Estratégias de provas: provas diretas, provas por contra-positiva
+    e por contradição.
+
+    Conjuntos: subconjuntos, operações com conjuntos, produtos cartesianos.
+
+    Relações: relações binárias, relações de equivalência, relações de ordem.
+
+    Funções: conceito, imagem inversa e imagem direta, funções injetoras e sobrejetoras,
+    função inversa, composição de função.
+
+    Noções de cardinalidade: conjuntos equivalentes, conjuntos enumeráveis e contáveis,
+    o "continuum", o conceito de cardinalidade.
+
+    Os números naturais: Axioma de Peano, indução.
+
+    Os números inteiros: construção lógico-formal do conjunto dos números inteiros,
+    imersão de N em Z, operações e relação de ordem em Z,  valor absoluto, divisibilidade,
+    máximo divisor comum, mínimo múltiplo comum, primos.
+
+    Os números racionais: a divisão em Z, construção dos números racionais, operações
+    e relações de ordem, valor absoluto, números racionais decimais.
+
+    Basic notions of  logic; sets; relations; functions; cardinality; Natural (N),
+    Integers(Z) and Rational (Q) numbers.'
+  course_name: 'SMA0341 - Elementos de Matemática
+
+    Foundations of Mathematics'
+  lecture_credits: '4'
+  objectives: 'Apresentar conceitos básicos para o estudo da matemática.
+
+    This lecture course aims to introduce students to the basic concepts in the  study  of
+    mathematics.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20150513094948'
+digest: KMTCTCHWJN4ZI5J55MG6TVOIEGLIC4DJ
+updated_at: '20150513094948'
+url: https://web.archive.org/web/20150513094948id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0341&codcur=55030&codhab=100
