@@ -1,0 +1,34 @@
+courses:
+  activation: 01/01/1995
+  assessment: 'Uma prova obrigatória+trabalho (opcional), a critério do docente. Critério
+    de Aprovação : média final + nota
+
+    recuperação = média aritmética igual ou superior a 5,0. Época de
+
+    Realização: até uma semana antes da data para entrega das notas.'
+  bibliography: '(IFSC) Curso de Física Básica -H.M.Nussenzveig: 1.Mecânica; 2. Fluídos,
+    Oscilações e Ondas, Calor.
+
+    (Campus)FÍSICA para Cientistas e Engenheiros - Paul Tipler - Vol.2'
+  course: '(IFSC): Gravitação; Cinemática e Dinâmica de Corpos Rígidos; Forças de
+    Inércia; Estática dos Fluídos; Noções de Hidrodinâmica; Movimento Harmônico Simples;
+    Oscilações Amortecidas e Forçadas; Leis da Termodinâmica e Propiredades dos Gases;
+    Teoria Cinética dos Gases.
+
+    (CAMPUS): Gravidade; Mecânica dos sólidos e mecânica dos fluidos - OSCILAÇÕES
+    E ONDAS: Oscilações; Ondas numa corda; Som - TERMODINÂMICA: Temperatura; Calorimetria;
+    Máquinas Térmicas.'
+  course_name: 'FCM0102 - Física II
+
+    Physics II (Fluids mechanics, oscillations and waves, thermodynamics)'
+  instructors: 70909 - Roberto Mendonça Faria
+  lecture_credits: '6'
+  objectives: O curso é continuação de Física I, dando procedimento à elaboração em
+    bases sólidas da mecânica e termodinâmica.
+  practical_credits: '0'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20150513093139'
+digest: YOVBD5FCM2NB6HEMGRW3XVRXF2RIOOLD
+updated_at: '20150513093139'
+url: https://web.archive.org/web/20150513093139id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FCM0102&codcur=55030&codhab=300
