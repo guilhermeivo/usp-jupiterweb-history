@@ -1,0 +1,25 @@
+courses:
+  activation: 01/01/1995
+  assessment: 'Uma prova obrigatória+trabalho opcional (a critério do docente). Critério
+    de Aprovação: média final+nota de recuperação = média aritmética igual ou superior
+    a 5,0. Época de Realização: até uma semana antes da data máxima para entrega das
+    notas.'
+  bibliography: FÍSICA para Cientistas e Engenheiros - Paul Tipler - Vol.1
+  course: 'Sistemas de medida. MECÂNICA: Movimento em uma dimensão; Movimento em duas
+    e três dimensões; As leis de Newton ; Trabalho e energia; Sistemas de partículas
+    e conservação do momento; Rotação; Equilíbrio estático de um corpo rígido.'
+  course_name: 'FCM0101 - Física I
+
+    Physics I (Introduction to Classical Mechanics)'
+  instructors: '47913 - Sérgio Carlos Zilio
+
+    79360 - Vanderlei Salvador Bagnato'
+  lecture_credits: '6'
+  objectives: Expor o aluno a um contato mais íntimo com a mecânica.
+  practical_credits: '0'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20150513145955'
+digest: BVPFPNFTNKXD6QBBF3BKJQPU7RMILACZ
+updated_at: '20150513145955'
+url: https://web.archive.org/web/20150513145955id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FCM0101&codcur=55060&codhab=1
