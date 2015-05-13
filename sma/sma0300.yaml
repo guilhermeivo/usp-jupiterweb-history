@@ -1,0 +1,42 @@
+courses:
+  activation: 01/01/2009
+  assessment: 'Número de provas: no mínimo uma (01) e no máximo duas (02) provas.Critério
+    de aprovação: a nota final (MF) do aluno que realizou provas de recuperação dependerá
+    da média do semestre (MS) e da média das provas de recuperação (MR), como segue:MF=5
+    se 5 <= MR <= 10 - MS; MF = (MS + MR) / 2 se MR > 10 - MSMF = MS se MR < 5.'
+  bibliography: 'Livros textos:
+
+    .WINTERLE, P., STEINBRUCH, A.,  Geometria Analítica, Um tratamento vetorial, Rio
+    de Janeiro: MacGraw- Hill, 1987.
+
+    .CAROLI, A., CALLIOLI, C.A, FEITOSA, M.O., Matrizes, vetores e geometria analítica,
+    9 ed, São Paulo: Nobel, 1978.
+
+    .BOULOS, P., CAMARGO, I., Geometria analítica - um tratamento vetorial, Rio de
+    Janeiro: McGraw-Hill,  1987.'
+  course: 'Coordenadas cartesianas.  Vetores. Dependência linear. Bases. Produto escalar.
+    Produto vetorial. Translação e rotação. Retas e planos. Distância e ângulo. Cônicas.
+    Equações reduzidas das superfícies quádricas. Coordenadas polares, cilíndricas
+    e esféricas.
+
+    Cartesian coordinates. Vectors. Linear dependence. Basis. Dot product. Vector
+    product. Translation and rotation. Lines and planes. Distance and angle. Conics.  Reduced
+    equation of a quadric surface. Polar, cylindrical and spherical coordinates.'
+  course_name: 'SMA0300 - Geometria Analítica
+
+    Analytic Geometry'
+  lecture_credits: '4'
+  objectives: 'Visa familiarizar os alunos com a geometria analítica no plano e no
+    espaço, com ênfase nos seus aspectos geométricos e suas traduções em coordenadas
+    cartesianas
+
+    The discipline aims at familiarizing students with analytic geometry in 2 and
+    3 dimensions, emphasizing its geometric aspects and their translations into Cartesian
+    coordinates.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20150513094905'
+digest: 5ZBHT4KML4NCVX7VJMZN3LAN6WENDDKY
+updated_at: '20150513094905'
+url: https://web.archive.org/web/20150513094905id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0300&codcur=55030&codhab=100
