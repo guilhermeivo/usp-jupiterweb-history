@@ -1,0 +1,50 @@
+courses:
+  activation: 01/01/2012
+  assessment: 'de Aprovação: NP+(Mrec/2,5), se Mrec >= 7,5; ou Max {NP,Mrec}, se Mrec
+    <= 5,0;
+
+    ou 5,0,  se 5,0 <= Mrec < 7,5.( NP=1ª avaliação, Mrec=prova recuperação)'
+  bibliography: 'Complementar:
+
+    - PFLEEGER, SHARI L. "Engenharia de Software - Teoria e Prática", 2ª Edição, Makron
+    Books, 2004.
+
+    - FOWLER, M.; SCOTT, K.; UML Essencial, Bookman, 2000.
+
+    - PRESSMAN,R.S. Engenharia de Software, Makron Books, 2000.
+
+    - RUMBAUGH, J.; JACOBSON, I.; BOOCH, G.; The Unified Modeling Language Reference
+    Manual, Addison-Wesley Publishing Company, 1999.
+
+    - CONALLEN, J.; Building Web Applications with UML, Addison-Wesley, 1999.
+
+    - GHEZZI,C.; JAZAYERI,M.; MANDRIOLI,D. Fundamentals of Software Engineering, Prentice
+    Hall, 1991.
+
+    - VON MAYRHAUSER, A. Software engineering: methods and management, Academic Press,
+    1990.
+
+    - FAIRLEY,R.E. Software Engineering Concepts, New York, McGraw-Hill, 1987 (364p).'
+  course: 'Introdução e objetivos da Engenharia de Software. Processo de Desenvolvimento
+    de Software. Modelos de Processos: do linear aos interativos e ágeis. Planejamento
+    e Gestão de Projetos. Técnicas e Métodos de Análise e Especificação de requisitos:
+    características, problemas, conceitos básicos. Métricas e Estimativas de software.
+    Gerenciamento de Configuração de Software. Visão Geral das Fases de Análise e
+    Projeto de Software. Visão Geral de Qualidade de Software, (qualidade de produto
+    e qualidade de processo (CMMI, MPS-BR, ISO 12207, IS 9126)). Métodos e Critérios
+    para verificação e validação: inspeção e teste de software. Manutenção de software.
+    Aulas práticas para a utilização de ferramentas de apoio às atividades de desenvolvimento
+    de software.'
+  course_name: 'SSC0130 - Engenharia de Software
+
+    Software Engineering'
+  lecture_credits: '4'
+  objectives: Oferecer uma visão geral do processo de desenvolvimento de Software
+    e dos problemas que a engenharia de software tem por objetivo resolver.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20150924204018'
+digest: DTZV2HE32S3OPSPURMCB33KY7MQ6XSXZ
+updated_at: '20150924204018'
+url: https://web.archive.org/web/20150924204018id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0130&codcur=55041&codhab=0
