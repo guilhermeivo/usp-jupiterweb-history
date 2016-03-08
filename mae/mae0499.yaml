@@ -1,0 +1,29 @@
+courses:
+  activation: 01/01/2012
+  assessment: Usuais.
+  bibliography: 'S. M. Ross, Introduction to Probability Models, 10th ed., Amsterdam:
+    Academic Press, 2010.
+
+    P. A. Ferrari, A. Galves, Acoplamento em Processos Estocásticos e Aplicações,
+    XXI Colóquio Brasileiro de Matemática, IMPA, 1997.
+
+    H. M. Taylor, S. Karlin, An Introduction to Stochastic Modeling, 3rd ed., San
+    Diego: Academic Press, 1998.'
+  course: "1.\tRevisão das distribuições contínuas: uniforme, exponencial, gama.\n\
+    2.\tDistribuições condicionais e esperança condicional.\n3.\tIntrodução aos processos\
+    \ estocásticos, trajetórias e séries temporais (motivação).\n4.\tCadeias de Markov:\
+    \ passeios aleatórios simples, Galton-Watson, nascimento e morte.\n5.\tProcesso\
+    \ de Poisson e tempos exponenciais.\n6.\tProcessos de Markov.\n7.\tNoções de processos\
+    \ estacionários."
+  course_name: 'MAE0499 - Processos Estocásticos
+
+    Stochastic Processes'
+  lecture_credits: '4'
+  objectives: Fornecer noções básicas de probabilidade e processos estocásticos.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20160308064130'
+digest: CL4DH7WDYSNZX2SHD6EASHCLGA64OUNW
+updated_at: '20160308064130'
+url: https://web.archive.org/web/20160308064130id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAE0499
