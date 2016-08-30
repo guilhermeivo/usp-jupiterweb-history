@@ -1,0 +1,30 @@
+courses:
+  activation: 01/01/2014
+  assessment: 1 (uma) prova de recuperação.
+  bibliography: '1. H. Guidorizzi, UM CURSO DE CÁLCULO, volume II, Livros Técnicos
+    e Científicos, Rio de Janeiro, 1965.
+
+    2. J. STEWART, Cálculo, Vol. II, 6ª edição, Cengage Learning Edições Ltda, 2010.'
+  course: "Funções de duas ou mais variáveis: limites, continuidade, diferenciabilidade.\
+    \ ; Gradiente; Regra da cadeia; Teorema do Valor Médio; Derivadas de ordem superior;\
+    \ Teorema de Schwarz (enunciado); Fórmula de Taylor; Máximos e Mínimos; Multiplicadores\
+    \ de Lagrange.\nFunctions of two or more variables: limits, continuity, diferentiability;\
+    \ Gradient; Chain Rule; Mean Value Theorem;Higher ordederivatives;  Schwarz\x92\
+    s Theorem (statement); Taylor´s Formula; Maximum and Minimum; Lagrange multipliers."
+  course_name: 'MAT2454 - Cálculo Diferencial e Integral II
+
+    Differential and Integral Calculus II'
+  deactivation: ''
+  lecture_credits: '4'
+  objectives: 'Aprimorar o conhecimento e as habilidades dos alunos introduzindo o
+    cálculo diferencial de funções de duas ou mais variáveis.
+
+    Enhance the knowledge and the abilities of the students introducing differential
+    calculus for functions of two or more variables.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20160830001141'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20160830001141'
+url: https://web.archive.org/web/20160830001141id_/http://uspdigital.usp.br:80/jupiterweb/obterDisciplina?sgldis=MAT2454
