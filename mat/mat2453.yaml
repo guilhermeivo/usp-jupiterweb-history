@@ -1,0 +1,41 @@
+courses:
+  activation: 01/01/2014
+  assessment: 1 (uma) prova de recuperação.
+  bibliography: '1.  J. STEWART, Cálculo, Vol. I, 6ª edição, Cengage Learning Edições
+    Ltda, 2010.
+
+    2. H. GUIDORIZZI, Um curso de Cálculo, Vol. I, Livros Técnicos e Científicos,
+    5a edição, 2001.'
+  course: 'Funções trigonométricas. Funções exponenciais. Função composta e função
+    inversa. Limites: noção intuitiva, propriedades algébricas. Teorema do Confronto.
+    Continuidade. Derivadas: definição, interpretações geométrica e física. Regras
+    de derivação, regra de cadeia, derivada da função inversa e derivação implícita.
+    Aplicações. Teorema do valor médio e consequências. Regras de L''Hospital. Gráficos.
+    Resolução de problemas de Máximos e Mínimos. Integral de Riemann. Técnicas de
+    integração. Aplicações: cálculos de volumes de revolução, comprimento de curvas.
+    Fórmula de Taylor.
+
+    Trigometric functions. Exponential functions. Composite and inverse functions.
+    Limits: intuitive concept, algebraic properties. Squeeze Theorem. Continuity.
+    Derivatives: definition, geometric and physical interpretations. Derivation rules,
+    Chain Rule, derivative of  the inverse and implicit functions. Applications. Mean
+    Value Theorem and consequences. Graphics.  Maximum-Minimum problems. The Riemann
+    Integral. Integration techniques. Applications:computation of volumes of solids
+    of revolution, length of curves. Taylor´s Formula.'
+  course_name: 'MAT2453 - Cálculo Diferencial e Integral I
+
+    Differential and Integral Calculus I'
+  deactivation: ''
+  lecture_credits: '6'
+  objectives: 'Familiarizar o aluno com as noções de limite, derivada e integral de
+    funções de uma variável, destacando aspectos geométricos e interpretações físicas.
+
+    Familiarize the student with the concepts of limits, derivative and integral of
+    functions of one variable, emphasizing geometrical aspects and physical interpretations.'
+  practical_credits: '0'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20160830004606'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20160830004606'
+url: https://web.archive.org/web/20160830004606id_/http://uspdigital.usp.br:80/jupiterweb/obterDisciplina?sgldis=MAT2453
