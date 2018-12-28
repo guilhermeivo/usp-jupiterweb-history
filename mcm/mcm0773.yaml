@@ -1,0 +1,34 @@
+courses:
+  activation: 01/01/2011
+  assessment: Média de conceito e notas de trabalhos (exercícios, seminários e relatórios)
+    maior ou igual a 5,0.
+  bibliography: 'Samuel Hahnemann - Organon da arte de curar, Doenças Crônicas e Matéria
+    Médica Pura.
+
+    James Tyler Kent - Lições de filosofia homeopática.
+
+    Portal FMUSP / Apoio à Comunidade FMUSP (Material Didático) / Homeopatia - Disciplina
+    - Material Didático.
+
+    http://www.fm.usp.br/homeopatia/.'
+  course: Visões histórica, social e política da homeopatia. Fundamentos da homeopatia.
+    Concepção homeopática do processo saúde-doença. Semiologia homeopática. Diagnósticos
+    e prognósticos homeopáticos. Prescrição homeopática. Matéria médica homeopática.
+    Repertório homeopático. Farmacotécnica homeopática. Pesquisa homeopática.
+  course_name: MCM0773 - Fundamentos da Homeopatia
+  deactivation: ''
+  instructors: 66053 - Milton de Arruda Martins
+  lecture_credits: '3'
+  objectives: Transmitir o conhecimento teórico dos principais fundamentos homeopáticos,
+    para que os estudantes possam diferenciá-Ios e integrá-Ios às demais disciplinas
+    e especialidades médicas. Exemplificar esses fundamentos teóricos na prática clínica
+    homeopática (casos clínicos, seminários, experimentação patogenética etc.). Fundamentar
+    cientificamente o modelo homeopático através de trabalhos nas áreas das pesquisas
+    básica e clínica.
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20181228115123'
+digest: IBQOXPTFL42QXIBQBB2OVXKAQVSSH2WH
+updated_at: '20181228115123'
+url: https://web.archive.org/web/20181228115123id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=mcm0773&nomdis=
