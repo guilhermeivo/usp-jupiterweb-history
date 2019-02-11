@@ -1,0 +1,118 @@
+courses:
+  activation: 01/01/2013
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: "BIBLIOGRAFIA PRINCIPAL:\nDAMODARAN, Answath. Avaliação de Empresas.\
+    \ 2ª ed São Paulo: Pearson Prentice Hall, 2007.\nPORTER, Michael E. Estratégia\
+    \ Competitiva. Técnicas para análise de indústrias e da concorrência. 2a. Edição.\
+    \ Rio de Janeiro: Campus, 2005.\nPALEPU, K.G., HEALY P. M. BERNARD, V. L. Business\
+    \ Analysis & Valuation. Using Financial Statement. Text and cases. Quarta Edição.\
+    \ Cencage Learning\nBESANKO, D. DRANOVE, D. SHANLEY, M. SHAEFER, S., A Economia\
+    \ da Estratégia. 3ª. Edição. Porto Alegre: Bookman, 2006.\nBIBLIOGRAFIA COMPLEMENTAR:\n\
+    AKERLOF, G. A. The Market for \x91Lemons\x92: Quality and the Market Mechanism,\
+    \ Quarterly Journal of Economics, Vol. 84, pp. 488\x96500, 1970.\nALENCAR, Roberta\
+    \ Carvalho de. Nível de disclosure e custo de capital próprio no mercado brasileiro.\
+    \ 2008. 104 f. Tese (Doutorado em Controladoria e Contabilidade) \x96 Faculdade\
+    \ de Economia, Administração e Contabilidade, Universidade de São Paulo (USP),\
+    \ São Paulo, 2008.\nASSAF NETO, Alexandre. Estrutura e análise de balanços. 9.\
+    \ ed. São Paulo : Atlas, 2010.\nGALDI, Fernando Caio. Estratégias de investimento\
+    \ em ações baseadas na análise de demonstrações contábeis: é possível prever o\
+    \ sucesso? Tese [Doutorado em Controladoria e Contabilidade]. São Paulo \x96 Faculdade\
+    \ de Economia, Administração e Contabilidade da Universidade de São Paulo, 2008.\n\
+    IUDÍCIBUS, Sérgio de. Análise de balanços: análise da liquidez e do endividamento;\
+    \ análise do giro; rentabilidade e alavancagem financeira. 10. ed. São Paulo :\
+    \ Atlas, 2009.\nJENSEN, M. C. and MECKLING, W. H., Theory of the Firm: Managerial\
+    \ Behavior, Agency Costs and Ownership Structure, Journal of Financial Economics,\
+    \ Vol. 3, pp. 305\x9660, 1976.\nLIMA, Gerlando Augusto Sampaio Franco de. 2007.\
+    \ Utilização da teoria da divulgação para avaliação da relação do nível de disclosure\
+    \ com o custo da dívida das empresas brasileiras. Tese (Doutorado em Controladoria\
+    \ e Contabilidade) \x96 Faculdade de Economia, Administração e Contabilidade,\
+    \ Universidade de São Paulo (USP), São Paulo, 2007.\nLOPES, A. B., A Informação\
+    \ Contábil e o Mercado de Capitais. Thomson, 2002.\nLUNDHOLM, R. J., A Tutorial\
+    \ on the Ohlson and Feltman/Ohlson Models: Answers to Some Frequently Asked Questions,\
+    \ Contemporary Accounting Research, Vol. 11, No. 2, pp. 749\x9661, (Journal Collection\
+    \ in the Precinct Library.) 1995.\nMARION, José Carlos. Análise das demonstrações\
+    \ contábeis. 5. ed. São Paulo: Atlas, 2009.\nMARTINS, Eliseu. Análise avançada\
+    \ das demonstrações contábeis. São Paulo: Atlas, 2012.\nMARTINS, Eliseu. Avaliação\
+    \ de empresas: da mensuração contábil à econômica. São Paulo: Atlas, 2001.\nMATARAZO,\
+    \ Dante C. Análise financeira de balanços. 7. ed. São Paulo : Atlas, 2010.\nMYERS,\
+    \ S. C. and MAILUF, N. S., Corporate Financing and Investment Decisions When Firms\
+    \ Have Information That Investors Do Not Have, Journal of Financial Economics,\
+    \ Vol. 13, pp. 187\x96221,1984.\nOHLSON, J., Earnings, Book Values and Dividends\
+    \ in Security Valuation, Contemporary Accounting Research, Vol. 11 (Spring), pp.\
+    \ 661\x96687, 1995.\nPORTER, Michael E. Competitive Advantage: creating and sustaining\
+    \ superior performance. New York: Free, 1985."
+  course: '1. Introdução
+
+    Introdução à Análise de Valor
+
+    Fundamentos Teóricos: conflito de agência e assimetria informacional
+
+    A Demanda e o Fornecimento de Informações Contábeis
+
+    A inter-relação entre atividades empresariais
+
+    Demonstrações Contábeis e Avaliação de Empresas
+
+    Metodologia proposta para a Avaliação de Empresas usando informações contábeis:
+    Análise da estratégia, análise contábil, análise financeira e análise prospectiva.
+
+    2.Análise da Estratégia Empresarial
+
+    Estruturas de Mercado
+
+    Análise Setorial
+
+    Análise da Estratégia Competitiva
+
+    Análise da Estratégia Corporativa
+
+    Ligações com a Análise Financeira
+
+    3.Análise Contábil
+
+    Visão Institucional do ambiente contábil
+
+    Fatores que influenciam a qualidade da informação contábil
+
+    Escolhas contábeis e reflexos na posição financeira e resultados
+
+    4. Análise Financeira (Revisão de Análise das Demonstrações Contábeis)
+
+    Análise por índices e vertical/horizontal
+
+    Análise do fluxo de caixa
+
+    5. Análise Prospectiva
+
+    Modelos de avaliação
+
+    Custo de Capital: Próprio e de Terceiros (CAPM e WACC)'
+  course_name: 'EAC0570 - Avaliação de Empresas
+
+    Business Valuation'
+  deactivation: ''
+  instructors: '145440 - Alexsandro Broédel Lopes
+
+    5859588 - Fernando Dal-Ri Murcia
+
+    5021632 - Gerlando Augusto Sampaio Franco de Lima
+
+    3596283 - Joanilia Neide de Sales Cia'
+  lecture_credits: '2'
+  objectives: Compreender e aplicar diversos modelos de avaliação de empresas baseados
+    em informações contábeis, com base em uma metodologia integrada de análise que
+    leva em conta o ambiente e a estratégia empresarial, a análise da qualidade da
+    informação contábil produzida e a análise financeira.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20190211014925'
+digest: 42XV5RLOCEBVETIBGUMI6GH7DUP5WDYF
+updated_at: '20190211014925'
+url: https://web.archive.org/web/20190211014925id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0570&codcur=12033&codhab=1
