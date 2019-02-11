@@ -1,0 +1,94 @@
+courses:
+  activation: 01/01/2015
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    LIMA, Iran Siqueira; LIMA, Gerlando A. S. F.; PIMENTEL, Renê Coppe (Org.). Curso
+    de mercado financeiro: tópicos especiais. 2. ed. São Paulo: Atlas, 2012.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    ANDREZO, Andréa Fernandes; LIMA, Iran Siqueira. Mercado financeiro: aspectos históricos
+    e conceituais. 3. ed. São Paulo: Atlas, 2007.
+
+    ASSAF NETO, Alexandre; LIMA, Fabiano Guasti. Curso de administração financeira.
+    2. ed. São Paulo: Atlas, 2011.
+
+    BODIE, Zvi; KANE, Alex; MARCUS, Alan J. Investments. 8. ed. Porto Alegre: McGraw-Hill,
+    2010.
+
+    GIANNETTI, Eduardo. O valor do amanhã: ensaio sobre a natureza dos juros. São
+    Paulo: Companhia das Letras, 2005.
+
+    OLIVEIRA, Virgínia; GALVÃO, Alexandre; RIBEIRO, Érico (Org.). Mercado financeiro.
+    São Paulo: Elsevier, 2006.
+
+    SECURATO, José Roberto (Org.). Cálculo financeiro das tesourarias: bancos e empresas.
+    4. ed. São Paulo: Saint Paul, 2008.
+
+    SECURATO, José Roberto; SECURATO, José Cláudio (Org.). Mercado financeiro: conceitos,
+    cálculo e análise de investimento. São Paulo: Saint Paul, 2009.
+
+    SILVEIRA, Alexandre Di Miceli da. Governança corporativa no Brasil e no mundo:
+    teoria e prática. 1. ed. Rio de Janeiro: Campus Elsevier, 2010.'
+  course: '1. Trocas intertemporais e os fundamentos dos mercados financeiros
+
+    2. O Sistema Financeiro Nacional (SFN)
+
+    3. Mercado de ações e bolsas de valores
+
+    4. Mercado de renda fixa
+
+    5. Securitização
+
+    6. Derivativos'
+  course_name: 'EAC0420 - Mercado Financeiro
+
+    Financial Market'
+  deactivation: ''
+  instructors: '145440 - Alexsandro Broédel Lopes
+
+    3454235 - Francisco Henrique Figueiredo de Castro Junior
+
+    5021632 - Gerlando Augusto Sampaio Franco de Lima
+
+    3079831 - Lucas Ayres Barreira de Campos Barros
+
+    59962 - Luiz Nelson Guedes de Carvalho
+
+    3696531 - Tatiana Albanez
+
+    1967693 - Wanderlei Lima de Paulo'
+  lecture_credits: '4'
+  objectives: 'A disciplina oferece uma visão descritiva, abrangente e moderna dos
+    principais temas relacionados ao mercado financeiro. Os temas estudados serão
+    tratados de maneira conceitual e espera-se que, ao final do curso, os alunos estejam
+    aptos a:
+
+    1. Explicar a lógica das trocas intertemporais que motivam a criação dos mercados
+    financeiros;
+
+    2. Distinguir e descrever as principais instituições componentes do Sistema Financeiro
+    Nacional;
+
+    3. Descrever o funcionamento básico das bolsas de valores;
+
+    4. Descrever o funcionamento básico das operações de renda fixa e os mecanismos
+    de captação interna e externa;
+
+    5. Explicar o funcionamento das operações de securitização e suas motivações;
+
+    6. Descrever os instrumentos derivativos básicos e explicar sua utilidade.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20190211014725'
+digest: ALPFBPPYONTM25EBGAKVZR4HSLWEZ5TC
+updated_at: '20190211014725'
+url: https://web.archive.org/web/20190211014725id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0420&codcur=12033&codhab=1
