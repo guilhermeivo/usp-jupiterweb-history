@@ -1,0 +1,110 @@
+courses:
+  activation: 01/01/2009
+  assessment: Prova Substitutiva e Reaval
+  bibliography: 'Manual de Normas e Instituições (MNI) do Banco Central do Brasil
+
+    Martins, Eliseu; Lima, Iran Siqueira e outros - Normas de contabilidade de Bancos
+    de Investimento, Sociedades de Crédito, Financiamento e Investimento, sociedades
+    de Arrendamento Mercantil, Sociedades Corretoras de Títulos e Valores Mobiliários,
+    Sociedades Distribuidoras de Títulos e Valores Mobiliários - Convênio Banco Central/FIPECAFI,
+    1984.
+
+    Lima, Iran Siqueira; Lisboa, Lázaro Plácido e outros. Fundos de Investimento -
+    Aspectos Operacionais e Contábeis - FIPECAFI - Atlas, 2004.
+
+    COSIF - Plano de Contas Consolidado do Sistema Financeiro Nacional
+
+    Martins, Eliseu e outros - Manual de Contabilidade das Sociedades por Ações -
+    FIPECAFI - Editora Atlas
+
+    Andrezo, Andréa Fernandes, Lima, Iran Siqueira - Mercado Financeiro: Aspectos
+    Históricos e Conceituais - 2ª. Edição - Ed. Pioneira thomson Learning, 2002.
+
+    Lima, Iran Siqueira; Broedel, Alexsandro - Contabilidade e Controle de Operações
+    com Derivativos- 2ª. Edição - Ed. Pioneira thomson Learning, 2003.
+
+    Niyama, Jorge Katsumi; Gomes, Oliveira L. Amaro - Contabilidade de Instituições
+    Financeiras - Ed. Atlas, 2002.
+
+    Figueiredo, Sandra. Contabilidade de Seguros - 1ª Edição - Ed. Atlas, 1997
+
+    Fortuna, Eduardo - Mercado Financeiro: Produtos e Serviços. Qualitymark.
+
+    Silvia, Affonso - Contabilidade e Análise Econômico-Financeira das Seguradoras
+    - 1ª Edição - Ed. Atlas, 1999
+
+    Nobre, W. J. Entidades Fechadas de Previdência Privada: Revisão de Tendências,
+    Conceitos e Aspectos contábeis. Dissertação FEA-USP - São Paulo, 1996.
+
+    Soares, J.A. - Uma Contribuição para estrutura de um modelo de apuração de resultados
+    para a avaliação de desempenho, visando à eficácia das entidades fechadas de previdência
+    complementar. Dissertação FEA-USP - São Paulo, 2002.'
+  course: '1. Estatuto do Sistema Financeiro Nacional
+
+    2. Controles Internos-Compliance/Riscos (Aspectos Gerais)/Acordo da Basiléia
+
+    3. A Contabilidade das Instituições Financeiras
+
+    3.1. COSIF
+
+    - Origem e Objetivos
+
+    - Vantagens obtidas com a consolidação dos planos de contas
+
+    3.2. Riscos de descasamento de prazo, moeda e taxa
+
+    3.3. Estudo de caso: balanço de instituições com características diferentes
+
+    4. Tópicos Especiais
+
+    4.1. A apropriação de receita
+
+    4.2. A provisão para risco de crédito
+
+    4.3. Cessão de Crédito
+
+    4.4. A essência sobre a forma
+
+    - operações compromissadas
+
+    - operações de arrendamento mercantil
+
+    4.5.Estudo de Caso: estudo comparativo dos balanços de uma instituição privada
+    e de uma instituição estatal
+
+    5. Limites Operacionais
+
+    5.1. Índices de Imobilização
+
+    5.2. Índices de Endividamento
+
+    5.3. Limitação ao crescimento de carteiras
+
+    5.4. Direcionamento de Crédito
+
+    6. Seguros, Capitalização e Saúde - Contabilização das operações e elaboração/discussão
+    das respectivas demonstrações contábeis
+
+    7. Entidades de Previdência Privada (Abertas e Fechadas) - Operações e elaboração/discussão
+    das respectivas demonstrações contábeis
+
+    8. Administradoras de consórcios. Operações e elaboração/discussão das respectivas
+    demonstrações contábeis
+
+    9. Fundos de Investimento (Renda Variável e Renda Fixa) - Operações e Elaboração/discussão
+    das respectivas demonstrações contábeis'
+  course_name: 'EAC0546 - Contabilidade de Instituições Financeiras
+
+    Financial Institutions Accounting'
+  deactivation: ''
+  lecture_credits: '4'
+  objectives: Apresentar as demonstrações contábeis das instituições que compõem o
+    mercado financeiro, com vistas a analisar suas respectivas operações e critérios
+    contábeis vigentes.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20190211015022'
+digest: TQ4MKS7HYNCNXT2PRNMP2LZ7275SOXZQ
+updated_at: '20190211015022'
+url: https://web.archive.org/web/20190211015022id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0546&codcur=12033&codhab=1
