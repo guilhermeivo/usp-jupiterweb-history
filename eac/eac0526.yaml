@@ -1,0 +1,65 @@
+courses:
+  activation: 01/01/2013
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    BODIE, Zvi, KANE, Alex, MARCUS, Alan J. Investments. 8. ed. Cidade? McGraw-Hill,
+    2009.
+
+    JORION, Philippe. Value at risk. São Paulo: BM&F, 2004.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    BERNSTEIN, Peter L. Desafio aos deuses: a fascinante história do risco. São Paulo:
+    Campus, 1997.
+
+    DAMODARAN, Aswath. Gestão estratégica do risco. Porto Alegre: Bookman, 2009.
+
+    JORION, Philippe. Financial risk manager handbook. New Jersey: Wiley, 2003.
+
+    ROSS, Stephen A.; WESTERFIELD, Randolph W.; JAFFE, Jeffrey F. Administração financeira:
+    corporate finance. 2. ed. São Paulo: Atlas, 2002.'
+  course: '1. Conceito de risco e gestão estratégica de riscos
+
+    2. Modelagem dos fatores de risco
+
+    3. Métodos para mensurar riscos
+
+    4. Medidas de performance ajustadas ao risco'
+  course_name: 'EAC0526 - Gestão de Riscos e Investimentos
+
+    Investment and Risk Management'
+  deactivation: ''
+  instructors: '145440 - Alexsandro Broédel Lopes
+
+    3454235 - Francisco Henrique Figueiredo de Castro Junior
+
+    5021632 - Gerlando Augusto Sampaio Franco de Lima
+
+    3079831 - Lucas Ayres Barreira de Campos Barros
+
+    1064696 - Luiz Jurandir Simões de Araujo'
+  lecture_credits: '2'
+  objectives: 'Espera-se que, ao final do curso, os alunos estejam aptos a:
+
+    1.Distinguir, descrever e aplicar as diferentes abordagens para conceituar o risco
+    e classificar as fontes de risco
+
+    2.Descrever o conceito moderno de gestão estratégica de riscos e os tipos fundamentais
+    de risco aplicados a investimentos
+
+    3.Identificar e explicar os pressupostos fundamentais utilizados para desenvolver
+    as principais ferramentas de mensuração e gestão de riscos e investimentos'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20190211014747'
+digest: ZYWFWYEM5G2YRQI4UWQXWNA7EXTXQZEB
+updated_at: '20190211014747'
+url: https://web.archive.org/web/20190211014747id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0526&codcur=12033&codhab=1
