@@ -1,0 +1,86 @@
+courses:
+  activation: 15/07/2015
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    Normas Contábeis relativas a  Instrumentos financeiros e Derivativos (CPC, IFRS,
+    COSIF).
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    LOPES, Alexsandro Broedel, LIMA, Iran Siqueira; CONTABILIDADE E CONTROLE DE OPERAÇÕES
+    COM DERIVATIVOS, 2a ed., Ed. Thomson, 2003.
+
+    LOPES, Alexsandro Broedel, GALDI, Fernando Caio, LIMA, Iran Siqueira. MANUAL DE
+    CONTABILIDADE E TRIBUTAÇÃO DE INSTRUMENTOS FINANCEIROS E DERIVATIVOS. 2a ed.,
+    São Paulo, Ed. Atlas, 2011.
+
+    FIGUEIREDO, A. C. INTRODUÇÃO AOS DERIVATIVOS. 3a ed., São Paulo, Ed. Thomson,
+    2013.
+
+    FORTUNA, Eduardo. MERCADO FINANCEIRO: Produtos e Serviços. 19a ed., São Paulo,
+    Quality Mark, 2013.'
+  course: '1. Introdução
+
+    1.1 Instrumentos Financeiros: Características de Renda Fixa e Variável;
+
+    1.2 Instrumentos Financeiros: Operacionalização e Impacto Financeiro nas Empresas;
+
+    1.3 Derivativos: Características de Futuro, Termo Opção e Swap;
+
+    1.4 Derivativos: Operacionalização e Impacto Financeiro nas Empresas.
+
+    2. Contabilização de Instrumentos Financeiros (IFs)
+
+    2.1 Normas contábeis que tratam de Instrumentos Financeiros (IFs);
+
+    2.2 Forma de segregação e classificação dos IFs;
+
+    2.3 Mensuração dos IFs: Custo Amortizado e Valor Justo;
+
+    2.4 Reconhecimento inicial e posterior dos IFs;
+
+    2.5 Impairment de IFs.
+
+    3. Contabilização de Derivativos
+
+    3.1 Normas contábeis que tratam de Derivativos;
+
+    3.2 Cálculo do Valor Justo dos Derivativos;
+
+    3.4 Contabilidade de Hedge: Hedge de Fluxo de Caixa, de Valor Justo e de Investimentos
+    no Exterior.'
+  course_name: 'EAC0564 - Contabilidade de Instrumentos Financeiros e Derivativos
+
+    Accounting for Financial Instruments and Derivatives'
+  deactivation: ''
+  instructors: 3596283 - Joanilia Neide de Sales Cia
+  lecture_credits: '2'
+  objectives: 'Espera-se que, ao final do curso, os alunos estejam aptos a:
+
+    1. Descrever a operacionalização dos Instrumentos Financeiros e o seu impacto
+    Financeiro;
+
+    2. Descrever a operacionalização dos Derivativos e o seu impacto Financeiro;
+
+    3. Identificar e explicar os aspectos de contabilização dos Instrumentos Financeiros,
+    em termos de reconhecimento, mensuração e evidenciação;
+
+    4. Compreender a diferença do uso de Derivativos para efeito de Especulação, Proteção
+    (Hedge) ou Arbitragem;
+
+    5. Identificar e explicar os aspectos de contabilização dos Derivativos, em termos
+    de reconhecimento, mensuração e evidenciação.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20190211015050'
+digest: VBA6JKNTXSW2TVRXSKAQT5DPGZNAN4I2
+updated_at: '20190211015050'
+url: https://web.archive.org/web/20190211015050id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0564&codcur=12033&codhab=1
