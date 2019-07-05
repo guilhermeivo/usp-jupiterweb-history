@@ -1,0 +1,68 @@
+courses:
+  activation: 01/01/2016
+  assessment: Uma prova com toda a matéria dada.
+  bibliography: "Literatura Básica:\nCARNEIRO, H. Comida e sociedade, uma história\
+    \ da alimentação. Rio de Janeiro: Campus, 2003.\nFLANDRIN, J-L. e MONTANARI, M.\
+    \ História da Alimentação. SP Estação Liberdade, 1998.\nMONTANARI, M. Comida como\
+    \ cultura. São Paulo: Ed. SENAC \x96 São Paulo, 2008.\nPOLLAN, M Em defesa da\
+    \ comida. RJ: Intrínseca, 2008.\nPOULAIN, J.P. Sociologias da Alimentação: os\
+    \ comedores e o espaço social alimentar. Florianópolis: Ed. Da UFSC, 2004.\nLiteratura\
+    \ Complementar:\nANTONIO CANDIDO. Os parceiros do Rio Bonito. RJ, Livraria José\
+    \ Olympio, 1964.\nASSIS, A.M.O. e col. Bró, caxixe e ouricuri: estratégias de\
+    \ sobrevivência no semi-árido baiano. Revista de Nutrição, Campinas, v.12, n.2,\
+    \ p.159-166, maio/ago, 1999.\nBERGER, P. e BERGER, B. Socialização: como ser um\
+    \ membro da sociedade. In FORACCHI, M. L. e MARTINS, J.S. Sociologia e sociedade.\
+    \ RJ, LTC, 1977, p.200-214.\nBLEIL, S.I. O padrão alimentar ocidental: considerações\
+    \ sobre a mudança de hábitos no Brasil. Cadernos de Debates, vol. VI, 1998 - p.1-24\n\
+    BRANDÃO, C. R. Plantar, colher, comer. RJ, Graal, 1981.\nBRAVERMAN, H. Trabalho\
+    \ e Capital Monopolista. RJ, Zahar, 1981, p.231 a 240.\nCASOTTI, L À mesa com\
+    \ a família. RJ: Mauad, 2002.\nCERTEAU, M., GIARD, L., MAYOL, P. A invenção do\
+    \ cotidiano. RJ: Vozes, 1996, vol.2.\nGARCIA, R.M.D. Representações Sociais da\
+    \ Comida no Meio Urbano: algumas considerações para o estudo dos aspectos in Cadernos\
+    \ de Debate, NEPA, UNICAMP, Ano II, n0 2, 1994.\nHARRIS, M. Vacas, porcos guerras\
+    \ e bruxas: os enigmas da cultura. RJ, Civilização Brasileira, 1978.\nHOUAISS,\
+    \ A. Minhas receitas brasileiras. SP: Art, 1990, p.7-16.\nLARAIA, R. Cultura:\
+    \ um conceito antropológico. RJ: Jorge Zahar, 1986.\nLINTON, R. O Indivíduo, A\
+    \ Cultura e a Sociedade. In: CARDOSO, F.H e IANNI, O., Homem e Sociedade, SP:\
+    \ Cia Ed. Nacional,1970, p.98 a 102.\nMIRANDA, D. S. E G. CORNELLI. Cultura e\
+    \ Alimentação. Saberes alimentares e sabores culturais. São Paulo: SESC, 2007,\
+    \ p.102-113.\nMORRIS, D. Você. SP, Círculo do Livro, 1977, p.299-304.\nROMIO,\
+    \ E. 500 Anos de Sabor. Brasil 1500-2000. São Paulo: E.R. Comunicações, 2000.\n\
+    SACHS, I. A questão alimentar e o ecodesenvolvimento. in MINAYO,M.C.S., Raízes\
+    \ da Fome. SP: Vozes, p.135-141.\nSAHLINS, M. A primeira sociedade da afluência,\
+    \ in CARVALHO, E. A org. Antropologia Econômica. SP, Ed. Ciências Humanas Ltda.,\
+    \ 1978, p. 7 a 43.\nWOORTMAN, K. Hábitos e ideologias alimentares em grupo sociais\
+    \ de baixa renda. Relatório Final, Brasília, UnB. Trabalhos de Ciências Sociais.\
+    \ Série Antropologia \x96 20, 1978."
+  course: '1. Conceitos sócio-antropológicos de referência: socialização e cultura.
+    2. A evolução do processo alimentar: os primórdios da alimentação e as histórias
+    naturais, material e técnica, econômica, social e cultural. 3. Alimentação e relações
+    sociais; a) gênero, comida e afeto; b) os rituais na alimentação; comensalidade
+    e gastronomia. 4. Hábitos e ideologias alimentares. a) a vaca sagrada na Índia;
+    b) as restrições à carne de porco; c) ideologias alimentares relativas ás características
+    dos alimentos e às condições ambientais. 5. A alimentação no Brasil: a)as origens
+    da cozinha brasileira; b)alimentação nos meios rural e urbano; c) o atual padrão
+    alimentar brasileiro. 6. O impacto do sistema ciência-tecnologia no consumo de
+    alimentos. a) produção de alimentos, tecnologia e ambiente; b) homogeneização
+    e/ou diversificação dos hábitos alimentares na globalização; c) Permanências e
+    transformações da alimentação contemporânea; d) Riscos alimentares.7) Novos paradigmas
+    da alimentação. Em defesa da comida. O movimento Slow Food. Comfort food.'
+  course_name: 'LES0521 - Antropologia da Alimentação
+
+    Anthropology of Food'
+  deactivation: ''
+  instructors: 70170 - Maria Elisa de Paula Eduardo Garavello
+  lecture_credits: '4'
+  objectives: 'Fornecer aos alunos subsídios para: identificar os componentes sociais
+    e culturais da alimentação; entender a evolução do processo alimentar e as ideologias
+    e hábitos alimentares de diferentes sociedades e grupos; avaliar os condicionantes
+    do acesso aos alimentos e os impactos do sistema ciência-tecnologia, característico
+    da sociedade ocidental, no consumo de alimentos; buscar novas alternativas para
+    os sistemas alimentares.'
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20190705173326'
+digest: BS7IPK2E726HDLSES6P5ZBGNNCZ6QUMM
+updated_at: '20190705173326'
+url: https://web.archive.org/web/20190705173326id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0521&codcur=11061&codhab=4
