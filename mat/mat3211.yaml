@@ -15,13 +15,14 @@ courses:
   course_name: 'MAT3211 - Álgebra Linear
 
     Linear Algebra'
+  deactivation: ''
   lecture_credits: '4'
   objectives: Levar os alunos ao uso de ferramentas algébricas, visando as demais
     disciplinas.
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20150302063129'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20170515124127'
-url: https://web.archive.org/web/20170515124127id_/http://uspdigital.usp.br:80/jupiterweb/obterDisciplina?sgldis=MAT3211
+created_at: '20190721063756'
+digest: H762GFWRCOW2LKBM7B5VNIYDT52GYN2F
+updated_at: '20190721063756'
+url: https://web.archive.org/web/20190721063756id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT3211&codcur=45070&codhab=4
