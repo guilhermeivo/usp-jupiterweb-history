@@ -1,0 +1,64 @@
+courses:
+  activation: 01/01/2013
+  assessment: Conforme norma vigente, terá direito a recuperação o aluno que alcançar
+    a média mínima 3,0 (e abaixo de 5,0) no período letivo normal. A recuperação se
+    fará mediante trabalho e/ou prova escrita (e/ou outros instrumentos, equivalentes
+    aos utilizados no período letivo) em torno do programa desenvolvido durante o
+    semestre. A média final do aluno será o resultado de uma média ponderada, em que
+    a nota anterior terá peso 1 e a nota obtida na recuperação terá peso 3, isto é,
+    a nota inicial corresponde a 25 % da média final.
+  bibliography: "ALBRECHT, M. Cicero\x92s style. Leiden/Boston, Brill, 2003.\nBARTHES,\
+    \ Roland. \"A Retórica Antiga\" in COHEN, Jean et alii. Pesquisas de Retórica.\
+    \ Petrópolis, Vozes, 1975.\nCICÉRON. L\x92Orateur. Paris, Les Belles Lettres,\
+    \ 2008.\nCONTE, G. B.. Latin literature: a history, transl. by Joseph B. Solodow,\
+    \ rev. by Don Fowler & Glenn W. Most. Baltimore and London: The Johns Hopkins\
+    \ University Press, 1994.\nLAUSBERG, Heinrich. Manual de Retórica Literária. Madrid,\
+    \ Gredos, 1983.\nLEEMAN, A.D. Orationes ratio. Amsterdam, Hakkert, 1973.\nMARINCOLA,\
+    \ John (ed.). A Companion to Greek and Roman Historiography. 2 vols. Oxford, Blackwell,\
+    \ 2007.\nMARTIN, René, GAILLARD, Jacques. Les genres littéraires à Rome, préface\
+    \ de Jacques Perret Paris: Nathan: Scodel, 1990.\nMARTINS, Paulo. Literatura Latina.\
+    \ Curitiba: IESDE Brasil S.A., 2009.\nPLEBE, Armando & EMANUELE, Pietro. Manual\
+    \ de Retórica. São Paulo, Martins Fontes, 1992.\nPLEBE, Armando. Breve historia\
+    \ da retórica antiga, trad. Gilda Naécia Maciel de Barros. São Paulo: Epu, Edusp,\
+    \ 1978.\nREBOUL, Olivier. Introdução à retórica, trad. Ivone Castilho Benedetti.\
+    \ São Paulo: Martins Fontes, 1998.\nSANTOS, Marcos Martinho dos, \x93Arte dialógica\
+    \ e epistolar segundo as Epístolas morais a Lucílio\x94. Letras Clássicas, ano\
+    \ 3, nº 3. São Paulo: Humanitas: 1999, pp. 45-93."
+  course: 'Leitura de textos da prosa latina no original, a serem selecionados pelo
+    professor ministrante, dentre os seguintes gêneros e autores:
+
+    a) historiografia (Júlio César, Salústio, Tito Lívio, Tácito);
+
+    b) oratória (Cícero, Tácito);
+
+    c) tratados filosóficos (Cícero, Sêneca) e didáticos (Catão, Varrão, Vitrúvio);
+
+    d) epistolografia (Cícero, Sêneca, Plínio, o Jovem).'
+  course_name: 'FLC0144 - Prosa Latina: Leitura e Comentário'
+  deactivation: ''
+  instructors: '467529 - Adriano Scatolin
+
+    433598 - Elaine Cristine Sartorelli
+
+    2787155 - Jose Rodrigues Seabra Filho
+
+    2851470 - Marcelo Vieira Fernandes
+
+    63939 - Marcos Martinho dos Santos
+
+    2095949 - Marly de Bari Matos
+
+    3190350 - Pablo Schwartz Frydman
+
+    5094210 - Sidney Calheiros de Lima'
+  lecture_credits: '2'
+  objectives: Como indica o título, o objetivo da disciplina é abordar e analisar
+    textos da prosa latina, de maneira minuciosa e aprofundada, com a aplicação prática
+    dos conhecimentos literários e gramaticais anteriormente adquiridos pelos alunos.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20190722113633'
+digest: GW55PBZELI3ITYVNKR2OZTAO5NFS2SSX
+updated_at: '20190722113633'
+url: https://web.archive.org/web/20190722113633id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FLC0144&amp;verdis=1
