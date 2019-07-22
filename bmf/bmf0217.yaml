@@ -1,0 +1,97 @@
+courses:
+  activation: 01/01/2018
+  assessment: Através de uma prova abrangendo toda matéria ministrada.
+  bibliography: "1)\tGoodman & Gilman: As Bases Farmacológicas da Terapêutica, 128\
+    \ edição, Brunton LL et al., MacGraw-Hill, Rio de Janeiro, 2012.\n2)\tRang & Dale:\
+    \ Farmacologia, 78 edição, Rang HP et al., Elsevier, Rio de Janeiro, 2011.\n3)\t\
+    Farmacologia e Terapêutica em Veterinária, 8a edição, Adams HR, Guanabara Koogan,\
+    \ Rio de Janeiro, 2003.\n4)\tKatzung: Farmacologia Básica e Clínica, 10' edição,\
+    \ Katzung BG, McGraw-Hill, Rio de Janeiro, 2010.\n5)\tFarmacologia Integrada,\
+    \ 48 edição, DeLucia R (Org), Clube de Autores, 2010.\n6)\tFundamentos para o\
+    \ Uso Racional de Medicamentos, 18 edição, Aizenstein ML, Artes Médicas, São Paulo,\
+    \ 2010."
+  course: 'Princípios gerais:
+
+    Introdução à farmacologia
+
+    Vias de administração
+
+    Absorção e distribuição de fármacos
+
+    Biotransformação e excreção
+
+    Distribuição compartimentai de fármacos
+
+    Relação entre concentração e resposta do fármaco
+
+    Mecanismo de ação dos fármacos: aspectos moleculares
+
+    Fatores modificadores de efeitos de fármacos
+
+    Interação medicamentosa
+
+    Inflamação, dor e seus mediadores:
+
+    Histamina e anti-histamínicos
+
+    Cininas
+
+    Mediadores lipídicos: derivados do ácido araquidônico e fator ativador de plaquetas
+    Anti-inflamatórios não-esteroides
+
+    Anti-inflamatórios esteroides Opioides e seus antagonistas
+
+    Anestésicos locais
+
+    Quimioterápicos:
+
+    Antibacterianos
+
+    Antifúngicos
+
+    Antineoplásicos
+
+    Sistema nervoso autônomo e somático:
+
+    Adrenérgicos e antiadrenérgicos
+
+    Colinérgicos e anticolinérgicos
+
+    Junção neuromuscular
+
+    Sistema nervoso central:
+
+    Ansiolíticos e hipnóticos
+
+    Antiepiléticos e anticonvulsivantes
+
+    Fármacos que afetam a função renal e o equilíbrio hidroeletrolítico:
+
+    Diuréticos
+
+    Fármacos que atuam no sistema cardiovascular:
+
+    Vasodilatadores
+
+    Inibidores do sistema renina-angiotensina
+
+    Fármacos inotrópicos positivos'
+  course_name: 'BMF0217 - Farmacologia
+
+    Pharmacology'
+  deactivation: ''
+  instructors: '3185016 - Eliana Hiromi Akamine
+
+    1030743 - Luciana Biagini Lopes'
+  lecture_credits: '6'
+  objectives: Oferecer aos alunos os princípios da Farmacologia, abordando aspectos
+    relacionados à cinética e mecanismos de ação dos fármacos e relacionando-os a
+    seus efeitos farmacológicos gerais, o que darão as bases para as disciplinas subsequentes
+    em sua área profissional.
+  practical_credits: '0'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20190722120600'
+digest: 4WRSVDLJZO45MB7BXRUYBUZJTRYP7BZI
+updated_at: '20190722120600'
+url: https://web.archive.org/web/20190722120600id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=bmf0217&nomdis
