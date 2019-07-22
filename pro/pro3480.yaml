@@ -1,0 +1,107 @@
+courses:
+  activation: 15/07/2017
+  assessment: Prova de recuperação
+  bibliography: 'EAESP-FGV. Smart Citites Transformação Digital de Cidades. São Paulo:
+    FGV, 2016.
+
+    LEITE, C. Cidades Sustentáveis, Cidades Inteligentes. São Paulo: Bookman, 2012.
+
+    PANHAN, A. M.; MENDES, L. S.; BREDA, G. D. Construindo Cidades Inteligentes. Curitiba:
+    Appris, 2016.
+
+    ADLER, L. (2015). The Urban Internet of Things. Surveying Innovations Across City
+    Systems. Harvard Kennedy School. Retrieved on 05/23/2016 from http://datasmart.ash.harvard.edu/news/article/the-urban-internet-of-things-727.
+
+    ALBINO, V.; BERARDI, U. & DANGELICO, R. M. (2015). Smart Cities: Deﬁnitions, Dimensions,
+    Performance, and Initiatives. Journal of Urban Technology, Vol. 22, No. 1, 3–21.
+
+    DALCHER, D. (2012). The Nature of Project Management A Reﬂection on The Anatomy
+    of Major Projects by Morris and Hough. International Journal of Managing Projects
+    in Business Vol. 5 No. 4.
+
+    PORTER, M. E. & HEPPELMANN, J. E. (2014). How Smart, Connected Products Are Transforming
+    Competition. Harvard Business Review. Nov.
+
+    TACHIZAWA, E. M.; ALVAREZ-G. & MONTES-SANCHO, M. J. (2015). How “Smart Cities”
+    Will Change Supply Chain Management. Supply Chain Management: An International
+    Journal, Vol. 20 No. 3, 237-248.
+
+    WINCH, G. & LEIRINGER, R. (2016) Owner Project Capabilities for Infrastructure
+    Development: A Review and Development of the “Strong Oowner” Concept. International
+    Journal of Project Management, Vol. 34, 271-281
+
+    YE, S. & TIONG, L. K. (2000). NPV-at-Risk Method in Infrastructure Project Investment
+    Evaluation. Journal of Construction Engineering and Management, Vol. 126, No.
+    3, 227-233.'
+  course: "1.\tAGLOMERAÇÕES POPULACIONAIS E CIDADES\na.\tO Surgimento e a evolução\
+    \ das cidades\nb.\tProblemas de cidades\nc.\tMegacidades\n2.\tCIDADES INTELIGENTES\n\
+    a.\tDefinição de cidades inteligentes\nb.\tModelos de cidades inteligentes\nc.\t\
+    Exemplos de cidades inteligentes\n3.\tCOMPONENTES DE CIDADES INTELIGENTES\na.\t\
+    TI (Tecnologia da Informação)\nb.  \tIoT (Internet of Things)\nc.\tSmart grid\
+    \ (gestão inteligente da energia)\nd.\tIluminação pública eficiente\ne.\tGestão\
+    \ de tráfego e do transporte público\nf.\tAdministração da segurança e da defesa\
+    \ civil\ng.\tAcessibilidade e serviços à população\nh.\tGestão da água e do esgoto\n\
+    i.\tGestão do lixo\nj.\tVigilância sanitária\nk.\tAcesso à internet\n4.\tGESTÃO\
+    \ INTEGRADA\na.\tGestão integrada de cidades inteligentes\nb.\tCentros de operação\
+    \ integados\nc.\tMonitoramento contínuo das operações\nPROGRAM\n1. CITIES AND\
+    \ POPULATIONAL AGLOMERATIONS\na. The advent and cities evolution\nb. City problems\n\
+    c. Megacties\n2. SMART CITIES\na. Definition of smart cities\nb. Smart cities\
+    \ models\nc. Smart cities examples\n3. SMART CITIES COMPONENTS\na. IT (Information\
+    \ Technology)\nb. IoT (Internet of Things)\nc. Smart grid (energy managemet)\n\
+    d. Efficiten public illuination\ne. Traffic management and public transort\nf.\
+    \ Public safety administration and civil defense\ng. Accessibility and services\
+    \ to population\nh. Water and sewer management\ni. Management of garbage and waste\n\
+    j. Health surveillance\nk. Internet access\n4. INTEGRATED MANAGEMENT\na. Integrated\
+    \ managemet of smart cities\nb. Operation integrated centers\nc. Continuous operations\
+    \ monitoring"
+  course_name: 'PRO3480 - Gestão Integrada de Cidades Inteligentes
+
+    Smart Cities Integrated Manangement'
+  deactivation: ''
+  instructors: '41198 - Jose Joaquim do Amaral Ferreira
+
+    1119720 - Leandro Alves Patah
+
+    47506 - Marcelo Schneck de Paula Pessoa'
+  lecture_credits: '3'
+  objectives: 'Motivação
+
+    Hoje mais da metade da população global já vive em cidades e, segundo estimativas
+    da ONU, este número chegará a 70% em 2050. Muitos grandes centros urbanos já têm
+    sua infraestrutura deficitária, sendo necessário buscar soluções urgentes para
+    responder de forma adequada às demandas do crescente aumento das populações urbanas.
+
+    objetivos da disciplina
+
+    O conceito de cidades inteligentes surge do esforço consciente em usar tecnologias
+    da informação e comunicação para modificar a vida e o trabalho das pessoas nos
+    territórios urbanos de forma significativa, melhorando a vida dos cidadãos que
+    neles habitam.
+
+    Esta disciplina trata dos diversos componentes de uma cidade inteligente e de
+    como integrar estes componentes objetivando o bem estar da população. Serão tratados
+    especificamente cada um dos temas e, ao final, os mesmos serão abordados conjuntamente
+    com o foco da gestão.
+
+    Motivation
+
+    Nowadays, more than 50% of the global population lives in urban aglomaerations
+    and, according to UN estimates, this number will reach 70% by 2050. Many large
+    urban centers already have their infrastructure deficit, and urgent solutions
+    are needed to respond adequately to the demands of the Increasing urban populations.
+
+    Discipline objectives
+
+    The concept of smart cities arises from the conscious effort to use information
+    technology to modify people´s work and life in urban areas in a meaningful way
+    with the objective to improve citizens´ life quality. This discipline deals with
+    the various smart cities components and how to integrate these components aimingpopulation
+    well being. Each of the themes will be specifically studied and, in the end, they
+    will be addressed together with management focus.'
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20190722121937'
+digest: 7ZR73Z4J226OR3RMBAXE44DKHUG7DHT7
+updated_at: '20190722121937'
+url: https://web.archive.org/web/20190722121937id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PRO3480&amp;codcur=3083&amp;codhab=3000
