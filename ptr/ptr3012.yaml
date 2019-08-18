@@ -1,0 +1,44 @@
+courses:
+  activation: 01/01/2016
+  assessment: "1(uma) prova a ser realizada dentro do período estabelecido pela universidade\
+    \ e/ou unidade.\nCálculo da Média Final (aluno que ficou em recuperação):\nMF\
+    \ = (NF + NR) / 2\nOnde: \tMF = Média Final (após a recuperação);\nNR = Nota da\
+    \ prova de recuperação;\nNF = Nota Final."
+  bibliography: "CASACA, J., MATOS, J. E BAIO, M. Topografia geral, 4ª ed. LTC, Rio\
+    \ de Janeiro, 2013\nCINTRA, J.P. e outros.  Informações Espaciais II \x96 Notas\
+    \ de aula. Publicação do Laboratório de Topografia e Geodesia. Apostila Modelagem\
+    \ Digital de Terreno. EPUSP/PTR, 2007\nCINTRA, J.P. Sistema de Projeção UTM, Notas\
+    \ de aula, 1998\nGONÇALVES, J.A., MADEIRA,S., SOUSA, J.J. Topografia, conceitos\
+    \ e aplicações, 3ª ed., Lidel, Lisboa, 21012\nPEARSON, F. Map projections: theory\
+    \ and applications, CRC Press, Boca Raton, Florida, 2000\nSNYDER, John P. Flattening\
+    \ the earth, The University of Chicago Press, Chicago and London, 1993"
+  course: '1. Conceitos básicos de geodesia para projeções cartográfica  2. Plano
+    topográfico local  3. Bases cartográficas para planejamento e projeto de engenharia  4.
+    Tipos de projeções cartográficas: propriedades e adequação aos diversos projetos
+    de engenharia  5. Sistema UTM: conceitos e aplicação 6. Escolha de projeção e
+    registro de mapas em SIGs 7. Projeto prático utilizando coordenadas UTM.
+
+    1. Basic concepts of geodesy for cartographic projections  2.Local topographical
+    plan  3. Cartographic maps for planning and engineering design  4. Types of map
+    projections: properties and suitability for engineering projects  5. UTM System:
+    concepts and application  6. Choice of projection and registration maps in GIS  7.
+    Practical design using UTM coordinates.'
+  course_name: 'PTR3012 - Projeções Cartográficas para Planejamento e Projeto de Engenharia
+
+    Cartographic projections for planning and engineering design'
+  deactivation: ''
+  instructors: 1014053 - Flavio Guilherme Vaz de Almeida Filho
+  lecture_credits: '2'
+  objectives: 'Fornecer conceitos fundamentais de projeções cartográficas para planejamento
+    e projeto de engenharia. Mostrar aplicações nas diversas áreas e realizar um projeto
+    prático.
+
+    To provide fundamental concepts of map projections for planning and engineering
+    design. Show applications in different areas and carry out a practical project.'
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20190818221416'
+digest: 25UK7RW7UNAU4BISP3JNDXNRTR7WMKKP
+updated_at: '20190818221416'
+url: https://web.archive.org/web/20190818221416id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3012&nomdis=
