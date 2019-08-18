@@ -1,0 +1,60 @@
+courses:
+  activation: 01/01/2017
+  assessment: "1(uma) prova a ser realizada dentro do período estabelecido pela universidade\
+    \ e/ou unidade.\nCálculo da Média Final (aluno que ficou em recuperação):\nMF\
+    \ = (NF + NR) / 2\nOnde: \tMF = Média Final (após a recuperação)\nNR = Nota da\
+    \ prova de recuperação\nNF = Nota Final"
+  bibliography: "BURROUGH, P.A., Me DONNELL, R.A. 1998. Principles of Geographical\
+    \ Information Systems. Oxford Univ. Press, New York.\nCÂMARA, G; DAVIS, C.; MONTEIRO,\
+    \ A.M. (ed). Introdução à Ciência da Geoinformação. São José dos Campos, INPE,\
+    \ 2004. (Disponível online: http://www.dpi.inpe.br/livros.html)\nCASANOVA, Marco\
+    \ (Org.) ; CÂMARA, G. (Org.) ; DAVIS, Clodoveu (Org.) ; VINHAS, Lúbia (Org.) ;\
+    \ QUEIROZ, Gilberto Ribeiro (Org.) . Bancos de Dados Geograficos. 1. ed. Curitiba:\
+    \ Editora Mundo Geo, 2005. v. 1. 504 p. (Disponível online: http://www.dpi.inpe.br/gilberto/livro/bdados/index.html)\n\
+    CINTRA, J.P. Apostila Modelagem Digital de Terreno. EPUSP/PTR, 1998\nCRÓSTA, Álvaro\
+    \ Penteado. Processamento digital de imagens de sensoriamento remoto. UNICAMP/Instituto\
+    \ de Geociencias, 1999.\nJENSEN, John R. Sensoriamento Remoto do Ambiente \x96\
+    \ Uma Perspectiva em Recursos Terrestres. 2ª Edição. São José dos Campos: Parêntese,\
+    \ 2009.\nLILLESAND, T. M.; KIEFER, R. W.; CHIPMAN, J. W.; Remote sensing and image\
+    \ interpretation. 6th ed. Hoboken, NJ: John Wiley & Sons, 2008. xii, 756p.\nLONGLEY,\
+    \ PAUL A.; GOODCHILD, MICHAEL, F.; MAGUIRE, DAVID, J.; RHIND, DAVID, W. Sistemas\
+    \ e Ciência da Informação Geográfica. 3ª edição ed. Bookman, Porto Alegre, 2013\
+    \ 539p.\nMATHER, P. M. Computer processing of remotely sensed images: an introduction.\
+    \ Chichester, West Sussex, England : John Wiley & Sons, 2009. 324p.\nMORAES NOVO,\
+    \ Evlyn L.M. Sensoriamento Remoto: Princípios e Aplicações. 3ª Edição. São Paulo:\
+    \ Blucher, 2008.\nQUINTANILHA, J.A Processamento de imagens digitais. In: GEOPROCESSAMENTO,\
+    \ 1, São Paulo, 1990. Anais. São Paulo: EPUSP, 1990. p 37-52\nRICHARDS, J. A;\
+    \ JIA, X. Remote sensing digital image analysis: an introduction. 3th ed. Berlin;\
+    \ New York: Springer-Verlag, 2005. xxiv, 4-25p.\nRODRIGUES, M. Introdução ao Geoprocessamento.\
+    \ In: GEOPROCESSAMENTO, 1, São Paulo, 1990. Anais. São Paulo: EPUSP, 1990. p 1-26\n\
+    TAVARES, P.E.M., FAGUNDES, P.M. Fotogrametria (1991)"
+  course: '1. Conceitos fundamentais de Sensoriamento Remoto 2. Modelagem Digital
+    do Terreno 3. Comportamento Espectral de Alvos 4. Pré-processamento e Processamento
+    de Imagens de Satélite 5. Aerofotogrametria 6. Conceitos Básicos de Sistemas de
+    Informações Geográficas 7. Bancos de Dados Espaciais 8. Modelagem de Dados Espaciais
+    9. Operações e Análises Espaciais 10. Infraestrutura de Dados Espaciais.
+
+    1. Basic concepts of Remote Sensing 2. Digital Terrain Modeling 3. Spectral Reflectance
+    of Earth Surface Targets 4. Pre-processing and Satellite Image Processing 5. Photogrammetry
+    6. Basics concepts of Geographic Information Systems 7. Spatial Databases 8. Spatial
+    Data Modeling 9. Spatial Operations and Spatial Analysis 10. Spatial Data Infrastructure.'
+  course_name: 'PTR3311 - Geomática II
+
+    Geomatics II'
+  deactivation: ''
+  instructors: 60849 - Jose Alberto Quintanilha
+  lecture_credits: '2'
+  objectives: 'Fornecer conceitos fundamentais de Geoprocessamento, incluindo o Sensoriamento
+    Remoto, a Modelagem Digital do Terreno, os Sistemas de Informações Geográficas
+    e suas aplicações em Engenharia Civil e Engenharia de Minas.
+
+    To provide fundamental concepts of Geoprocessing, including Remote Sensing, Digital
+    Terrain Modeling, Geographic Information Systems and their applications in Civil
+    and Mining Engineering.'
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20190818222003'
+digest: 5SU3MA55UWMYVWGNFGIATXAR3ZFDBFHQ
+updated_at: '20190818222003'
+url: https://web.archive.org/web/20190818222003id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3311&nomdis=
