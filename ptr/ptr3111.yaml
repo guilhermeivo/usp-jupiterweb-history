@@ -1,0 +1,105 @@
+courses:
+  activation: 01/01/2014
+  assessment: "1(uma) prova a ser realizada dentro do período estabelecido pela universidade\
+    \ e/ou unidade.\nCálculo da Média Final (aluno que ficou em recuperação):\nMF\
+    \ = (NF + NR) / 2\nOnde: \tMF = Média Final (após a recupeção));\nNR = Nota da\
+    \ prova de recuperação;\nNF = Nota Final."
+  bibliography: '. ABNT, NBR 13133 - Norma de Levantamento Topográfico. ABNT, Rio
+    de Janeiro, 1994
+
+    . ABNT, NBR 14166 - Rede de Referência Cadastral Municipal, Rio de Janeiro, 1999
+
+    . BLITZKOW, D. Apostila Posicionamento por Satélites - NAVSTAR-GPS - EPUSP/PTR,
+    1995
+
+    . BREED, Charles B. Topografia. Urmo, Bilbao, 1974
+
+    . CINTRA, J.P. Apostila Sistema UTM - EPUSP/PTR, 1993
+
+    . CINTRA, Jorge Pimentel. Notas de Aula: Topografia, 2012, EPUSP - PTR
+
+    . DAVIS, Foote & KELLY. Surveying, theory and practice. McGraw-Hill, New York,
+    1966
+
+    . GARCIA-TEJERO, Francisco Domingues. Topografia General y Aplicada. Editora Dossat,
+    Madrid, 1978
+
+    . GONÇALVES, J. A., MADEIRA, S., SOUSA, J. J. Topografia - Conceitos e Aplicações;
+    2ª Edição, Lidel Edições Técnicas Ltda, Lisboa, 2008.
+
+    . KISSAN, Philip. Topografia para ingenieros. McGraw-Hill, 1967
+
+    . LEICK, A. GPS Satellite Surveying. Editora John Wiley, New York, 2004
+
+    . PACILÉO NETTO, Nicola - Aplicações da Teoria dos Erros na Topografia, 1995 EPUSP
+    - PTR
+
+    . PEARSON, Frederick II. MAP Projection: Theory and Aplications. Editora: CRC
+    Pressa, INC, 1990.
+
+    . SEEBER, Gunter. Satellite Geodesy. Editora: Walter de Gruyter, 2003
+
+    . TAVARES, P.E.M., FAGUNDES, P.M. Fotogrametria (1991)'
+  course: 'Apresentação do curso. Aplicações da disciplina na engenharia.
+
+    . Escalas, bases cartográficas (analógicas e digitais) e seu uso. NBR 13.133 e
+    NBR 14.166.
+
+    . Coordenadas, sistemas de projeção e plantas topográficas: conceitos básicos.
+
+    . Métodos de coleta de informações: Planimétricas e Altimétricas.
+
+    . Coletas de posições e atributos. Conceitos de posicionamento por satélite (GNSS).
+
+    . Implantação e locação de projetos: estradas, plataformas, barragens e obras
+    subterrâneas.
+
+    . Sistemas de projeção (UTM, LTM e Plano Topográfico Local) em projetos de engenharia.
+
+    . Elaboração e atualização de uma planta topográfica (digital e analógica).
+
+    . Course presentation. Applications of the discipline in the Engineering.
+
+    . Scales, cartographic mapping (digital and analogic) and its use. NBR 13133 and
+    NBR 14166.
+
+    . Coordinates, projection systems and topographical maps: basic concepts.
+
+    . Methods of data collection: planimetric and altimetric.
+
+    . Collection of positions and attributes. Concepts of satellite positioning system
+    (GNSS).
+
+    . Project location and construction: roads, platforms, dams and underground works.
+
+    . Projection system (UTM, LTM and Local Topographic Plane) in engineering projects.
+
+    . Preparation and updating of a topographic map (digital and analogic).'
+  course_name: 'PTR3111 - Geomática I
+
+    Geomatics I'
+  deactivation: ''
+  instructors: '103165 - Ana Paula Camargo Larocca
+
+    45845 - Denizar Blitzkow
+
+    74431 - Edvaldo Simões da Fonseca Junior
+
+    47315 - Jorge Pimentel Cintra'
+  lecture_credits: '4'
+  objectives: 'Oferecer formação básica referente a especificações e metodologias
+    para coleta de dados, implantação e locação de projetos e obras de engenharia,
+    conceitos de geodésia, posicionamento por satélites, projeções cartográficas e
+    suas aplicações em projetos e obras da Engenharia.
+
+    To provide basic knowledge concerning the specifications and methodologies for
+    data collection, implementation and location of engineering works, concepts of
+    geodesy, satellite positioning, cartographic projections and its applications
+    in engineering projects and works.'
+  practical_credits: '2'
+  total_workload: 120 h
+  type: Semestral
+created_at: '20190818211814'
+digest: KORH7DPSD6U6TDUI4KZJUW3XSS4AAMWK
+updated_at: '20190818211814'
+url: https://web.archive.org/web/20190818211814id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3111&nomdis=
