@@ -25,6 +25,7 @@ courses:
   course_name: 'SMA0300 - Geometria Analítica
 
     Analytic Geometry'
+  deactivation: ''
   lecture_credits: '4'
   objectives: 'Visa familiarizar os alunos com a geometria analítica no plano e no
     espaço, com ênfase nos seus aspectos geométricos e suas traduções em coordenadas
@@ -36,7 +37,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20150513094905'
-digest: LPRIBRCBTAF7JNNTIITP3JK6AMAD6JOM
-updated_at: '20170324011851'
-url: https://web.archive.org/web/20170324011851id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0300&codcur=55030&codhab=100
+created_at: '20190825185600'
+digest: U5YV6D5W2OA5QJVUIMNVZTSZDHNIN7K4
+updated_at: '20190825185600'
+url: https://web.archive.org/web/20190825185600id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0300&codcur=18050&codhab=0
