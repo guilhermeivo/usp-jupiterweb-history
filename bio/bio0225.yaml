@@ -1,0 +1,36 @@
+courses:
+  activation: 15/07/2017
+  assessment: A nota da recuperação será o resultado da média aritmética entre a nota
+    final obtida na disciplina e a nota obtida na prova de recuperação.  A prova de
+    recuperação será oferecida na época estabelecida pelo Calendário Escolar da USP.
+  bibliography: '- Otto, P. G. 2006. Genética Básica para Veterinária. 4a  Edição.
+    Editora Roca. São Paulo.
+
+    - Griffiths, A. J. F., Wessler, S. R., Lewontin, R. C., Carrol, S. B. 2009. Introdução
+    à Genética. 9a Edição. Editora Guanabara Koogan. Rio de Janeiro.'
+  course: Conceitos Fundamentais em Genética e Evolução; Padrões de Herança Mendeliana;
+    Padrões Não-Clássicos de herança; Aberrações Cromossômicas; Fundamentos de Biologia
+    Molecular; Técnicas de Biologia Molecular aplicadas à Veterinária; Genômica; Conceitos
+    fundamentais em Evolução; Genética de Populações.
+  course_name: 'BIO0225 - Genética e Evolução
+
+    Genetics and Evolution'
+  deactivation: ''
+  instructors: '7076446 - Michel Satya Naslavsky
+
+    8699071 - Sonia Cristina da Silva Andrade'
+  lecture_credits: '3'
+  objectives: Os fenótipos apresentados por todos os organismos dependem da coordenação
+    espacial e  temporal da expressão de conjuntos de genes e de sua interação com
+    o ambiente, desde embriogênese ao indivíduo adulto. Entender os mecanismos de
+    funcionamento, herança e evolução destes genes e a arquitetura das redes constituídas
+    por eles são as questões centrais da Genética. Assim, o objetivo da disciplina
+    é estudar os processos subjacentes aos fenótipos observados e seus mecanismos
+    de herança e evolução aplicados a questões veterinárias.
+  practical_credits: '0'
+  total_workload: 45 h
+  type: Semestral
+created_at: '20190920115834'
+digest: DGZIQKOCMPHAABJVTZJQ7INPLES4DKMY
+updated_at: '20190920115834'
+url: https://web.archive.org/web/20190920115834id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=BIO0225&verdis=4
