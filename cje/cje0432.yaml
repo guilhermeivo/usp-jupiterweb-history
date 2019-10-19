@@ -1,0 +1,76 @@
+courses:
+  activation: 01/01/2017
+  assessment: O aluno que ficar em recuperação deverá realizar prova escrita no primeiro  bimestre
+    subseqüente.
+  bibliography: "Livros\nBALDESSAR Maria José. A mudança anunciada: o cotidiano dos\
+    \ jornalistas com o computador na redação. Florianópolis: Insular, 2004.\nBALZAC,\
+    \ Honoré de. Os jornalistas. Rio de Janeiro: Ediouro, 2004.\nBIAL Pedro. Roberto\
+    \ Marinho. Rio de Janeiro: Jorge Zahar, 2004.\nBORGERTH Luiz Eduardo. Quem e como\
+    \ fizemos a TV Globo. São Paulo: A Girafa, 2003.\nBRITTOS Valério Cruz e BOLANO\
+    \ Cesar Ricardo Siqueira. Rede Globo: 40 anos de poder e hegemonia. São Paulo:\
+    \ Paulus, 2005.\nCONTI, Mario Sergio. Notícias do Planalto: a imprensa e Fernando\
+    \ Collor. São Paulo: Companhia das Letras, 1999.\nCORRÊA Elizabeth Saad. Jornalismo,\
+    \ tecnologia e competitividade: o caso da Agência Estado. Tese de doutoramento.\
+    \ São Paulo: ECA-USP, 1994\nHAMILTON, James T. All the news that\x92s fit to sell:\
+    \ how the market transforms information into news. Princeton: Princeton University\
+    \ Press, 2004.\nLINS DA SILVA Carlos Eduardo. Mil dias: os bastidores da revolução\
+    \ de um grande jornal. São Paulo: Trajetória Cultural, 1988.\nLINS DA SILVA Carlos\
+    \ Eduardo. Mil dias: seis mil dias depois. São Paulo: PubliFolha, 2005.\nLINS\
+    \ DA SILVA Carlos Eduardo. O adiantado da hora: a influência americana sobre o\
+    \ jornalismo brasileiro. São Paulo: Summus, 1981.\nMAQUIAVEL, Niccoló. O príncipe\
+    \ (comentado por Napoleão Bonaparte). São Paulo: Martin Claret, 2005.\nMAXIMIANO,\
+    \ Antonio Cesar Amaru. Introdução à Administração. (6ª Edição Revisada e Ampliada).\
+    \ São Paulo: Editora Atlas, 1995.\nMAXIMIANO, Antonio Cesar Amaru. Teoria Geral\
+    \ da Administração: da Escola Científica à Competitividade na Economia Globalizada.\
+    \ Sampa: Editora Atlas, 2000.\nMEYER, Philip. The vanishing newspaper: saving\
+    \ journalism in the information age. Columbia: University of Missouri Press, 2004.\n\
+    MORAIS Fernando. Chatô, o rei do Brasil. São Paulo: Companhia das Letras, 1994.\n\
+    NOBLAT, Ricardo. A arte de fazer um jornal diário. São Paulo: Contexto, 2002.\n\
+    RIBEIRO Jorge Cláudio. Sempre Alerta: condições e contradições do trabalho jornalístico.\
+    \ São Paulo: Brasiliense, 1994.\nSAAD, Beth. Estratégias para Mídia Digital: internet,\
+    \ informação e comunicação. São Paulo: Editora SENAC, 2003\nSÁNCHEZ-TABERNERO,\
+    \ Alfonso. Dirección estratégica de empresas de comunicación. Pamplona: Cátedra\
+    \ Signo e imagen, 2000.\nSILVA Arlindo. A fantástica história de Silvio Santos.\
+    \ São Paulo: Editora do Brasil, 2000.\nSOUTO Leonardo Fernandes (org). o profissional\
+    \ da informação em tempo de mudanças. Campinas: Alínea, 2005.\nTALESE Gay. O reino\
+    \ e o poder: uma história do New York Times. São Paulo: Companhia das Letras:\
+    \ 2000.\nTRAQUINA Nelson. A tribo jornalística: uma comunidade transnacional.\
+    \ Lisboa: Editorial Notícias, 2004.\nTRAVANCAS Isabel Siqueira. O mundo dos jornalistas.\
+    \ São Paulo: Summus, 1993.\nWAINER Samuel. Minha razão de viver, memórias de um\
+    \ repórter. Coordenação editorial: Augusto Nunes. Rio de Janeiro: Record, 1988.\n\
+    Periódicos e Newsletters, Websites Inforamtivo ANJ \x96 Associação Nacional dos\
+    \ Jornais: http://www.anj.org.br; Revista Exame; Revista Meio & Mensagem. Columbia\
+    \ Journalism Review \x96 http://www.cjr.org; Editor & Publisher \x96 http://www.mediainfo.com;\
+    \ Portal da NAA \x96 http://www.newspaper_industry.org; Poynter Institute \x96\
+    \ http://www.poynter.org; MediaLab \x96 MIT \x96 http://www.media.mit.edu; Comunique-se\
+    \ \x96 http://www.comuniquese.com.br; Jornalistas na web \x96 www.jornalistasnaweb.com.br;\
+    \ Blue Bus \x96  www.bluebus.com.br; Editors Weblog \x96 http:??www.editorsweblog.org."
+  course: "\x95 Cenário das empresas informativas brasileiras e internacionais.\n\x95\
+    \ Crise e transformação das empresas informativas no século XXI.\n\x95 Gestão\
+    \ familiar e aspectos legais e comportamentais.\n\x95 Estratégias corporativas\
+    \ de negócios de informação\n\x95 Modelos de negócios.\n\x95 Modelos de receitas.\n\
+    \x95 Conceitos básicos de estrutura organizacional.\n\x95 A estrutura das redações\n\
+    \x95 Conceitos básicos de gestão de pessoas.\n\x95 O perfil profissional e a formação\
+    \ dos profissionais de comunicação na era digital.\n\x95 Inovações e Convergência\n\
+    \x95 Gestão de mercado e de leitores\n\x95 Gestão da qualidade. Indicadores de\
+    \ qualidade editorial.\n\x95 Indicadores de desempenho de empresas informativas.\
+    \ Os manuais de redação."
+  course_name: 'CJE0432 - Economia da Mídia
+
+    Economy Media'
+  deactivation: ''
+  instructors: '443832 - Dennis de Oliveira
+
+    70166 - Jose Luiz Proenca'
+  lecture_credits: '2'
+  objectives: Proporcionar um conjunto de conhecimentos que capacite os participantes
+    a atuar como profissionais em qualquer nível funcional das empresas jornalísticas,
+    instrumentalizando-os para a compreensão e, por vezes, o desempenho de funções/atividades
+    onde o gerenciamento é parte inerente do fazer jornalístico.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20191019041114'
+digest: J4CHIZDPLYNJN4PWDA237MWG5RNKW7IF
+updated_at: '20191019041114'
+url: https://web.archive.org/web/20191019041114id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CJE0432&nomdis=&print=true&keepThis=true&TB_iframe=true&height=500&width=800&coddis=CJE0432
