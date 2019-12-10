@@ -1,0 +1,96 @@
+courses:
+  activation: 01/01/2010
+  assessment: a) Seminário constituído por 4 aulas e trabalho escrito, que versará
+    sobre a matéria exposta; (b) O programa será o regular da disciplina em curso;
+    (c) Os seminários serão realizados em fevereiro e julho, e o trabalho escrito
+    deverá ser apresentado até o 1º dia das aulas do semestre seguinte.
+  bibliography: "ARAÚJO, Nelson de. História do Teatro. Salvador: Imprensa Gráfica\
+    \ da Bahia, 1991.\nARISTÓTELES. Arte Poética. São Paulo: Abril Cultural, 1972.\n\
+    AZZARONI, Giovanni. Dentro Il Mondo del Kabuki. Bologna: CLUEB, 1988.\nBERTHOLD,\
+    \ M. História Mundial do Teatro. São Paulo: Perspectiva, 2000.\nBOIADHIEV, G.\
+    \ N. et alli. História do Teatro Europeu. Lisboa : Prelo, 1960, 2v.\nBOURCIEZ,\
+    \ Paul. História da Dança no Ocidente. São Paulo: Martins Fontes, 2001.\nCARVALHO,\
+    \ Ênio. História e Formação do Ator. São Paulo: Ática, 1989.\nCOHEN, G. Le Théâtre\
+    \ en France au Moyen Age. Paris: PUF, 1980.\nD'AMICO, S. Storia del Teatro Dramatico,\
+    \ 6ª. Ed. Milano: Aldo Garzanti Editore, 1974,4v.\nDUMONT, J.C. & FRANÇOIS GARELLI,\
+    \ M.H. Le Théâtre à Rome. Paris: Librarie Générale Française, 1998.\nDUPONT, Florence.\
+    \ L´Acteur-Roi \x96 Le Théâtre dans le Rome Antique. Paris: Societé d´Édition\
+    \ Les Belles Lettres, 1985.\nFACO, Antônio José. Pequena História da Dança. Rio\
+    \ de Janeiro: Jorge Zahar, 2001.\nFRANCO JR, Hilário. A Idade Média: Nascimento\
+    \ do Occidente. São Paulo: Brasiliense, 2006.\nFREIRE, ANTÔNIO. O Teatro Grego.\
+    \ Braga: Publicações da Faculdade de Filosofia, 1985.\nGAEHDE, C. El Teatro desde\
+    \ la Antigüedad hasta el presente. Barcelona: Editorial Labor, 1930.\nGIROUX,\
+    \ Sakae M. Kyogen \x96 O Teatro Cômico do Japão. São Paulo: Massao Ohno/Aliança\
+    \ Cultural Brasil-Japão, 1989.\nGAZOLLA, Rachel - Para não ler ingenuamente uma\
+    \ tragédia. São Paulo: Ed. Loyola, 2001.\nGIROUX, Sakae M. Bunraku \x96 Um Teatro\
+    \ de Bonecos. São Paulo: Perspectiva, 1991.\nKERENYI, Carol. Dioniso. São Paulo:\
+    \ Odysseus, 2002.\nKITTO, H.D.F. Greek Tragedy, 4ª. Ed. Londres: Methuen & Co.\
+    \ Ltd., 1973.\nLESKY, A. A Tragédia Grega. S.P.: Perspectiva, 2003.\nMOUSSINAC,\
+    \ Leon. Le Théâtre, des origines a nos jours. Paris: Flammarion, 1966.\nNICOLL,\
+    \ Allardyce. World Drama, 12a. Ed. Londres: George Harrap & Co, 1976.\nPAPIRO\
+    \ DRAMÁTICO DE RAMASSEUM. Tradução, Comentário e Introdução de Emmanuel O. Araújo.\
+    \ São Paulo: USP/ECA/CJE, 1974.\nPORTINARI, Mabel. História da Dança. Rio de Janeiro:\
+    \ Nova Fronteira, 1981.\nRIBEIRO JR, João. Grécia Mitológica. Campinas: Papirus,\
+    \ 1984.\nSAINT-Vicotr, Paul de As duas máscaras. São Paulo: Germape, 2003.\nSUZUKI,\
+    \ Eico. Nô. Teatro Clássico Japonês. São Paulo: Ed. do Escritor, 1977.\nVERNANT,\
+    \ Jean-Pierre. Mito e Pensamento entre os Gregos. Rio: Paz e Terra, 1990.\nVERNANT,\
+    \ Jean-Pierre. Mito e Tragédia na Grécia Antiga. São Paulo: Brasiliense, 1988.\n\
+    VILLEGAS, Juan. Historia Multicultural do Teatro y Las Teatralidades en América\
+    \ Latina. Madrid: Galerna, 2005.\nVITRUVIO. Los Diez Libros de Arquitectura. Barcelona:\
+    \ Obras Mestras, 1970."
+  course: '1. Apresentação do curso, bibliografia. Aspectos pedagógicos da História
+    das Artes Cênicas.
+
+    2. A origem da cultura e do imaginário humano; A narrativa e a expressão da temporalidade
+    humana
+
+    3. As narrativas estéticas e o princípio da Arte.
+
+    4. Panorama da civilização grega. O teatro grego: origens e desenvolvimento
+
+    5. A evolução da tragédia: Os autores e os teóricos.
+
+    6. A evolução da comédia. O drama satírico, autores. As formas do teatro popular.
+
+    7. O espetáculo: as Dionisíacas. Organização e realização. O espaço cênico. A
+    cenografia. A indumentária. As máscaras.
+
+    8. O teatro romano. A origem. Formas teatrais. Os autores
+
+    9. Narrativas e vida social: tempo, espaço, palco e platéia.
+
+    10. As diversas instâncias da percepção estética
+
+    11. Idade Média: O teatro religioso.
+
+    12. Idade Média: O teatro profano.
+
+    13. O aspecto pedagógico do teatro medieval
+
+    14. O nascimento do teatro em língua portuguesa.'
+  course_name: 'CAC0548 - História das Artes Cênicas I
+
+    Scenic Arts History I'
+  deactivation: ''
+  instructors: 33122 - Clóvis Garcia
+  lecture_credits: '4'
+  objectives: "Oferecer uma introdução à História das Artes Cênicas, desde suas origens\
+    \ ocidentais até a Idade Média européia. O curso abrange as formas espetaculares\
+    \ da manifestação teatral \x96 texto e cena - e busca situar estas manifestações\
+    \ no contexto sócio cultural de cada uma das épocas enfocadas, analisando a expressão\
+    \ teatral como uma das formas pelas quais o homem expressa sua experiência com\
+    \ a realidade, através de uma manifestação estética. Assim, procura-se trabalhar\
+    \ a especificidade da expressão teatral do mundo antigo e moderno ocidental."
+  practical_credits: '4'
+  total_workload: '180 h
+
+    (
+
+    Práticas como Componentes Curriculares =  15 h
+
+    )'
+  type: Semestral
+created_at: '20191210072731'
+digest: RPFHMXPU7MXEZXDSWZPMDX7JOV6XL73K
+updated_at: '20191210072731'
+url: https://web.archive.org/web/20191210072731id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CAC0548&nomdis=&print=true&keepThis=true&TB_iframe=true&height=500&width=800&coddis=CAC0548
