@@ -1,19 +1,17 @@
 courses:
-  activation: 01/01/2013
+  activation: 01/01/2018
   assessment: Usuais.
   bibliography: '1.  D.A.Botter, G.A.Paula, J.G. Leite, L.K. Cordani, NOÇÕES DE ESTATÍSTICA
     - COM APOIO COMPUTACIONAL. Versão preliminar - agosto de 1996.  São Paulo, IMEUSP,
     201p.
 
-    2.  P.A. Morettin, W.O. Bussab, ESTATÍSTICA BÁSICA. 5ed. São  Paulo: Editora Saraiva,
-    2002,   520p.
+    2.  W.O. Bussab, P.A. Morettin. ESTATÍSTICA BÁSICA. 8ed. São Paulo: Editora Saraiva,  2013.
 
     3.  G.E. Noether, INTRODUÇÃO À ESTATÍSTICA: UMA ABORDAGEM NÃO-PARAMÉTRICA.  2ed.  Rio
     de Janeiro, Guanabara Dois, 1983.  258p.
 
-    4.  M.N. Magalhães e A.C. Pedroso de Lima,  NOÇÕES DE PROBABILIDADE
-
-    E ESTATÍSTICA. 4ed. EDUSP, São Paulo, 2002. 392p.
+    4. M. N. Magalhães, A. C. Pedroso de Lima, Noções de Probabilidade e Estatística,
+    7a ed., 3ª reimpressão revista, São Paulo: Edusp, 2015.
 
     5.   J.F. Soares, .A L. Siqueira,    INTRODUÇÃO À ESTATÍSTICA MÉDICA. 1ed. Departamento
     de Estatística, UFMG, Estatística Aplicada - Biociências, 1999.
@@ -38,13 +36,17 @@ courses:
     5. Regressão e correlação.
 
     6. Espaços amostrais, probabilidade em espaços amostrais discretos.'
-  course_name: MAE0116 - Noções de Estatística
+  course_name: 'MAE0116 - Noções de Estatística
+
+    Elements of Statistics'
+  deactivation: ''
+  instructors: 88691 - Lucia Pereira Barroso
   lecture_credits: '4'
   objectives: Fornecer as idéias básicas da metodologia estatística.
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20131208101509'
-digest: ORLV5NERK2F4MO4X66G43WIG53THWS5S
-updated_at: '20131208101509'
-url: https://web.archive.org/web/20131208101509id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAE0116&codcur=47011&codhab=0
+created_at: '20200531192804'
+digest: 4XW4Z3HD6MFTKG4KVCCRBK2FRIG7KLL3
+updated_at: '20200531192804'
+url: https://web.archive.org/web/20200531192804id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAE0116&codcur=47011&codhab=100
