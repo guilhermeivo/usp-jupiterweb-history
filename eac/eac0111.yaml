@@ -1,0 +1,64 @@
+courses:
+  activation: 01/01/2016
+  assessment: 'a) O aluno poderá participar do processo de reavaliação na disciplina
+    caso obtenha nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco)
+    e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: "BIBLIOGRAFIA BÁSICA:\nBORINELLI, Márcio Luiz; PIMENTEL, Renê Coppe.\
+    \ Curso de Contabilidade para gestores, analistas e outros profissionais. 1. ed.,\
+    \ São Paulo: Atlas, 2010.\nYAMAMOTO, Marina Mitiyo; PACCEZ, João Domiraci; MALACRIDA,\
+    \ Mara Jane Contrera. Fundamentos de Contabilidade \x96 A nova Contabilidade no\
+    \ contexto global. 1. ed., São Paulo: Saraiva, 2011.\nASSAF NETO, Alexandre. Estrutura\
+    \ e Análise de Balanços. 10. ed. São Paulo: Atlas , 2010.\nIUDÍCIBUS, Sérgio de.\
+    \ & MARION, José Carlos. Curso de Contabilidade para não Contadores. 6.ed. São\
+    \ Paulo: Atlas, 2009.\nMARION, José Carlos. Contabilidade Empresarial. 16. ed.\
+    \ São Paulo: Atlas, 2012.\nBIBLIOGRAFIA COMPLEMENTAR:\nNormas do CPC (www.cpc.org.br)\
+    \ e do IASB (www.ifrs.org).\nFIPECAFI. Manual de Contabilidade Societária: aplicável\
+    \ a todas as sociedades de acordo com as normas internacionais e do CPC. 2. ed.\
+    \ São Paulo: Atlas, 2013."
+  course: "1. Ambiente da Contabilidade\n1.1 A empresa e seu meio ambiente. A empresa\
+    \ como um sistema aberto. As interações da empresa com o mercado. As fontes de\
+    \ financiamento e as possibilidades de aplicação de recursos das empresas. A função\
+    \ da Contabilidade. A representação contábil da empresa. Os relatórios contábeis.\
+    \ 1.2 A Contabilidade como linguagem padrão dos negócios e como instrumento de\
+    \ gestão empresarial. \x95 A Contabilidade Societária e a Contabilidade Gerencial.\n\
+    1.3 A nova estrutura contábil de acordo com as normas internacionais (IFRS) e\
+    \ a Lei 11.638/07. Estrutura conceitual da Contabilidade.\n2. Demonstrações Contábeis\n\
+    2.1 O Balanço Patrimonial \x96 conceito de Ativo, Passivo, PL.\n2.2 A Demonstração\
+    \ do Resultado do Exercício \x96 conceitos de Receitas e Despesas.\n2.3 A Demonstração\
+    \ das Mutações do Patrimônio Líquido \x96 destinação dos lucros.\n2.4 A Demonstração\
+    \ dos Fluxos de Caixa \x96 método direto e indireto. DFC x DRE.\n2.5 A Demonstração\
+    \ do Valor Adicionado \x96 conceito de riqueza medido pela Contabilidade."
+  course_name: 'EAC0111 - Fundamentos de Contabilidade
+
+    Foundations of Accountancy'
+  deactivation: ''
+  instructors: '2209375 - Bruno Meirelles Salotti
+
+    5859588 - Fernando Dal-Ri Murcia
+
+    822081 - Jeronimo Antunes
+
+    84411 - José Roberto Kassai
+
+    1364179 - Mara Jane Contrera Malacrida
+
+    3770882 - Marcio Luiz Borinelli
+
+    84596 - Nahor Plácido Lisboa
+
+    75428 - Silvio Aparecido de Carvalho'
+  lecture_credits: '4'
+  objectives: Introduzir os alunos no conhecimento de conceitos básicos de Contabilidade.
+    O objetivo é tratar o estudante como um usuário da contabilidade que está interessado
+    em participar do processo decisório tomando por base os relatórios contábeis.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200809034557'
+digest: MIJDTGXGVSCNROV337S35QP2LUSXLVN3
+updated_at: '20200809034557'
+url: https://web.archive.org/web/20200809034557id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0111&codcur=12051&codhab=1
