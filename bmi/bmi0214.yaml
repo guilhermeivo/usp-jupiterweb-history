@@ -1,0 +1,66 @@
+courses:
+  activation: 01/01/2018
+  assessment: Será oferecida prova de recuperação (Res. COG 3583/89) nos meses de
+    julho para as disciplinas do 1o semestre e em fevereiro para as disciplinas do
+    2o semestre, exigindo-se média igual ou superior a 5,0 (cinco) para aprovação.
+  bibliography: "1)\tTizard, IR. \x96 Introdução a  Imunologia Veterinária  \x96 Editora\
+    \ Elsevier,  a partir da 9a Edição, 2013.\n2)\tAbbas, Abul K. \x96 Imunologia\
+    \ Celular e Molecular \x96 Editora Elsevier, 7a Edição, 2012.\n3)\tTravers, Paul\
+    \ - Imunologia de Janeway. - Editora Atrmed, a partir da 7ª edição, 2010."
+  course: 'Aula 1: Introdução ao Curso de lmunologia. Estrutura do curso, atividades,
+    e avaliações. Células do sistema imune e órgãos linfoides.
+
+    Aula 2: Inflamação. Imunidade inata.
+
+    Aula 3: Estrutura das moléculas envolvidas no reconhecimento de antígenos (MHC,
+    TCR e BCR).
+
+    Aula 4: Geração de receptores de antígenos de linfócitos.
+
+    Aula 5: Apresentação  de antígenos.
+
+    Aula 6: Desenvolvimento e sobrevivência de linfócitos.
+
+    Aula 7: Imunidade mediada por células T.
+
+    Aula 8: Imunidade mediada por células B.
+
+    Aula 9: Sistema Complemento.
+
+    Aula 10 : Imunidade a infecções l.
+
+    Aula 11 : imunidade a infecções ll.
+
+    Aula 12 : PROVA I
+
+    Aula 13 : Técnicas de imunodiagnóstico.
+
+    Aula 14 : imunorregulação e imunidade de Mucosas.
+
+    Aula 15 : imunidade do recém-nascido e Vacinação.
+
+    Aula 16 : Hipersensibilidades. Princípios e classificação.
+
+    Aula 17 : Auto-imunidade. Princípios e classificação.
+
+    Aula 18 : PROVA ll
+
+    Aula 19 : PROVA SUBSTITUTIVA'
+  course_name: 'BMI0214 - Imunologia
+
+    Immunology'
+  deactivation: ''
+  instructors: '422731 - Alexandre Alarcon Steiner
+
+    3009335 - Anderson de Sá Nunes'
+  lecture_credits: '5'
+  objectives: Fornecer aos alunos da Faculdade de Medicina Veterinária e Zootecnia
+    - FMVZ/USP os fundamentos da organização, funcionamento e atividades do sistema
+    imune.
+  practical_credits: '0'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20200812003045'
+digest: 7W5GTH4LGLN7ARAOBOAELQD4DI3RHJH5
+updated_at: '20200812003045'
+url: https://web.archive.org/web/20200812003045id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=bmi0214&nomdis=
