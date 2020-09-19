@@ -1,0 +1,57 @@
+courses:
+  activation: 01/01/2019
+  assessment: Uma avaliação escrita.
+  bibliography: 'Literatura Básica:
+
+    Campbell, G.S. & Norman, J.M. An Introduction to Environmental Biophysics. Springer,
+    285p. 1998
+
+    Chapman, S. Fortran 95/2003 for Scientists & Engineers. McGraw-Hill; 3 edition,
+    2007.
+
+    Goudriaan, J, & Van Laar, H.H. Modelling Potential Crop Growth Processes. Kluwer
+    Academic Publishers, London. 1994.
+
+    Harte, J. Consider a Spherical Cow: A Course in Environmental Problem Solving.
+    University Science Books. Sausalito, CA. 1988.
+
+    Teh, C. Introduction to Mathematical Modeling of Crop Growth: How the Equations
+    are Derived and Assembled into a Computer Program. BrownWalker Press. Boca Raton.
+    2006.
+
+    Thornley, John H.M. and Ian R. Johnson. Plant and Crop Modeling: A Mathematical
+    Approach to Plant and Crop Physiology. Oxford University Press. New York. Blackburn
+    Press. 2000.
+
+    Wallach, D., D. Makowski, and J. W. Jones (Eds.). Working with Dynamic Crop Models:
+    Evaluation, Analysis, Parameterization, and Applications. Elsevier. New York.
+    ISBN 0-444-52135-6. 2006.
+
+    Wit, C.T. de & Goudriaan, J. Simulation of Ecological Processes. Pudoc, Wageningen.
+    1978.'
+  course: 'Dados ambientais, interpretação e processamento. Programação computacional:
+    princípios básicos e sua aplicação para a modelagem e simulação de processos físicos
+    e biológicos em agroecossistemas. Tipos de modelos: modelos estatísticos, dinâmicos,
+    empíricos, determinísticos, mecanísticos. Escalas na modelagem dos processos.
+    Ferramentas da modelagem: leis e princípios de conservação, variáveis de estado
+    e variáveis de taxa. Exemplos de processos físicos e biológicos determinantes
+    para a composição da produtividade agrícola. Teste, calibração e análise de sensibilidade
+    de modelos. Aplicações práticas de modelos no campo das ciências agrarias.'
+  course_name: '1100222 - Modelagem do Crescimento de Culturas Agrícolas
+
+    Crop Modeling'
+  deactivation: ''
+  instructors: '925245 - Fábio Ricardo Marin
+
+    1532106 - Quirijn de Jong van Lier'
+  lecture_credits: '4'
+  objectives: Capacitar o aluno para a análise, quantificação e simulação computacional
+    de processos físicos e biológicos  relacionados com a produção agrícola, através
+    da utilização de recursos computacionais para processamento de dados ambientais.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200919165103'
+digest: RMV3LUCMQLBNMAESGS22W6ZRPMVWREYP
+updated_at: '20200919165103'
+url: https://web.archive.org/web/20200919165103id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=1100222&codcur=11010&codhab=0
