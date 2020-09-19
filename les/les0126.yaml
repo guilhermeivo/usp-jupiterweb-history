@@ -1,0 +1,46 @@
+courses:
+  activation: 01/01/2013
+  assessment: Uma prova com toda a matéria lecionada.
+  bibliography: 'CHIANG, A.  Matemática para economistas.  São Paulo, McGraw-Hill,
+    1982. EDWARDS Jr., C.H. e PENNEY, D.E.  Cálculo com Geometria Analítica.  Rio
+    de Janeiro, Prentice-Hall do Brasil, 1997. FLEMMING, D.M. e GONÇALVES, M.B.  Cálculo  A:
+    funções, limites, derivação, integração.  São Paulo, Makron Books, 1992. CARLET,
+    F.A.; SARRIÉS, G.A.; VICINO, S.R.  Microsoft Excel. Piracicaba: ESALQ/DME, 1994,
+    58p. SAS INSTITUTE INC. SAS/BASE: Guide for personal computers. 6 ed. Cary: SAS
+    Institute, 1996, 1258p. LEITHOLD, L. O cálculo: com geometria analítica. São Paulo.
+    Habra, 1994. 2V. MORETTIN, PA.; HAZZAN S. e BUSSAB, W.O. Cálculo: funções de uma
+    e várias variáveis. São Paulo. Saraiva, 2003 408p. PISKUNOV, N. S. Cálculo diferencial
+    e integral. Porto: Lopes da Silva, 1982. 2V.
+
+    SIMMONS, G.F. Cálculo com geometria analítica. São Paulo. McGraw-Hill. 1987. 2V.
+    SWOKOWSKI, E. W. Cálculo com geometria analítica. 2ª ed. São Paulo. Makron Books.
+    1983. 2V.'
+  course: '1. INTRODUÇÃO:  Sistema de números. Módulo ou Valor Absoluto. Desigualdade
+    Triangular. Álgebra de Números. Intervalos. 2. FUNÇÕES E SEUS GRÁFICOS: Funções
+    reais de uma variável. Funções Lineares. Tipos de Função. 3. LIMITE E CONTINUIDADE:
+    A Derivada e a Inclinação de uma Curva. Conceito de Limite. Teoremas dos Limites.
+    Continuidade e Diferenciabilidade de uma Função.  4. DERIVAÇÃO E DIFERENCIAÇÃO:
+    Taxa de mudança e derivada. Regras Básicas de Diferenciação. 5. APLICAÇÃO DE DERIVADAS.
+    Introdução. Incrementos, Diferenciais e Ap. Linear. Funções Crescentes e Decrescentes.
+    Teste da Derivada Primeira. Traçado de Curvas.Derivadas de Ordem Superior e Concavidade.
+    6. INTEGRAL: Introdução. Antiderivadas e o Problema do Valor Inicial. Cálculos
+    Elementares de Áreas. Cálculo de Integrais. Valores Médios e o Teorema Fundamental
+    do Cálculo. Integração por Substituição. Áreas de Regiões Planas. 7. FUNÇÕES EXPONENCIAIS
+    E LOGARÍTMICAS: Definição . Logaritmo Natural. Função Exponencial. Generalização.
+    8. Exercícios práticos utilizando computadores (gráficos, conjuntos, operações
+    de funções lógicas, derivadas, integrais).'
+  course_name: 'LES0126 - Matemática Aplicada I
+
+    Applied Mathematics I'
+  deactivation: ''
+  instructors: 52012 - Ricardo Shirota
+  lecture_credits: '4'
+  objectives: Fundamentar as noções básicas de matemática, visando poder utilizá-las
+    nas outras disciplinas do curso.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200919162234'
+digest: LXHFRLFB4XFYVQFVNND5K77AT6PPOOOR
+updated_at: '20200919162234'
+url: https://web.archive.org/web/20200919162234id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0126&codcur=11090&codhab=1
