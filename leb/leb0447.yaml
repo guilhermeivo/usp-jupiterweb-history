@@ -1,0 +1,66 @@
+courses:
+  activation: 01/01/2017
+  assessment: Para os alunos reprovados por nota, mas beneficiados pelo sistema de
+    recuperação, esta será realizada através da aplicação de uma única prova teórico-prática,
+    abrangendo todo o programa do semestre letivo.
+  bibliography: 'MOLIN, J. P.; AMARAL, L. R.; COLACO, A. F. Agricultura de precisão.
+    São Paulo: Oficina de Textos, 2015. 238p.
+
+    MOLIN, J.P. Agricultura de Precisão – O Gerenciamento da Variabilidade.  O Autor,
+    Piracicaba, 2001, 83 p.
+
+    MOLIN, J.P.; VETTORAZZI, C.A. Anais do Congresso Brasileiro de Agricultura de
+    Precisão 2004.  ESALQ/USP.  Piracicaba, 2004, Cd-Rom.
+
+    MOLIN, J.P.; VETTORAZZI, C.A. Anais do Congresso Brasileiro de Agricultura de
+    Precisão 2006.  ESALQ/USP.  Piracicaba, 2006, Cd-Rom.
+
+    MORGAN, M.T. e ESS, D.R. The Precision-Farming Guide for Agriculturists. John
+    Deere Publishing, Moline, 1997.
+
+    SBEA. Anais do Congresso Brasileiro de Agricultura de Precisão 2010.  Jaboticaba,
+    2010, Cd-Rom.
+
+    SBEA. Anais do Congresso Brasileiro de Agricultura de Precisão 2012.  Jaboticaba,
+    2012, Cd-Rom.
+
+    SBEA. Anais do Congresso Brasileiro de Agricultura de Precisão 2014. Jaboticaba,
+    2014, http://www.sbea.org.br/conbap/crbst_4.html
+
+    VETTORAZZI, C.A.; MOLIN, J.P. Anais do Congresso Brasileiro de Agricultura de
+    Precisão 2008. ESALQ/USP. Piracicaba, 2008. Cd-rom.'
+  course: "1. Introdução à agricultura de precisão: \t- conceituação, \t- áreas de\
+    \ pesquisa e recentes desenvolvimentos ao nível mundial; - atividades econômicas\
+    \ envolvidas e novas tendências. 2) Sistemas de posicionamento: - \x93Global Positioning\
+    \ System\x94 (GPS); - composição do sistema; - fontes de erro; - receptores, -\
+    \ métodos de correção \x96 DGPS, - outros sistemas de posicionamento. 3)  Sensoriamento:\
+    \ - sensoriamento direto e remoto; - estado da arte em sensores diretos; - sensoriamento\
+    \ remoto, - amostragens. 4. Monitoramento e mapeamento de produtividade de culturas:\
+    \ - equipamentos sensores para fluxo e umidade de grãos, - outros sensores em\
+    \ colhedoras, - calibração, - mapas de produtividade, - monitoramento de produtividade\
+    \ de outras culturas. 5. Monitoramento da variabilidade espacial de características\
+    \ do solo: - mapeamento da fertilidade do solo, - métodos de amostragem; - outros\
+    \ parâmetros de interesse. 6. Sistemas de Informação Geográfica \x96 SIG: - definições;\
+    \ - SIG para agricultura de precisão, - conceitos básicos de geoestatística, -\
+    \ mapeamentos. 7. Aplicação localizada de insumos: - análise de dados e tomada\
+    \ de decisões, - estratégias de ação, - modos de operação, - equipamentos. 8.\
+    \ Sistemas de orientação: uso de GPS como guia para aeronaves agrícolas, aplicações\
+    \ terrestres em faixas, piloto automático."
+  course_name: 'LEB0447 - Agricultura de Precisão
+
+    Precision Agriculture'
+  deactivation: ''
+  instructors: 59531 - Jose Paulo Molin
+  lecture_credits: '2'
+  objectives: Oferecer os conceitos basicos da agricultura de precisao vista como
+    uma ferramenta para a otimizacao da producao agricola com base em levantamento
+    de dados para diagnostico de variabilidade espacial e deficiencias localizadas
+    e seu controle por metodos de correcao localizada bem como a utilizacao de recursos
+    de navegacao para diversas aplicacoes agricolas.
+  practical_credits: '2'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20200919170124'
+digest: IIH4J5OV3D5DKCTQFSWEQCSYB7BME3UN
+updated_at: '20200919170124'
+url: https://web.archive.org/web/20200919170124id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0447&codcur=11010&codhab=0
