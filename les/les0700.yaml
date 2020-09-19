@@ -1,0 +1,69 @@
+courses:
+  activation: 01/01/2019
+  assessment: Uma prova com toda a matéria lecionada. Estará apto a efetuar a prova
+    de recuperação o aluno que tiver como média final na disciplina uma nota igual
+    ou superior a três (3,0) e inferior a cinco (5,0), e tiver, no mínimo, 70% (setenta
+    por cento) de frequência às aulas. O cálculo de uma média aritmética simples será
+    feito com a nota da prova de recuperação e a média final obtida pelo aluno na
+    disciplina. Se esta média resultar em nota igual ou superior a cinco (5,0), o
+    aluno será aprovado.
+  bibliography: 'Literatura Básica:
+
+    ALVES, W. P. Estudo dirigido de Microsoft Office Access 2013. São Paulo: Érica,
+    2013. BRUNI, A. L.; PAIXÃO, R. B. Excel aplicado a gestão empresarial. São Paulo:
+    Atlas, 2011. FORBELLONE, A. L. V.; EBERSPACHER, H. F. Lógica de programação: a
+    construção de algoritmos e estruturas de dados. São Paulo: Pearson, 2005. DAVENPORT,
+    T. H. Missão crítica: obtendo vantagem competitiva com os sistemas de gestão empresarial.
+    Porto Alegre: Bookman, 2002. MANZANO, J. A. N. G.; TOLEDO, S. A. Guia de orientação
+    e desenvolvimento de sites HTML, XHTML, CSS e JavaScript. São Paulo: Érica, 2010.
+    O’BRIEN, J. A.; MARAKAS, G. M. Administração de sistemas de informação. Porto
+    Alegre: Bookman, 2013. PRADO, E. P. V.; SOUZA, C. A. Fundamentos de sistemas de
+    informação. Rio de Janeiro: Elsevier, 2014. VARIAN, H.; SHAPIRO, C. A. Economia
+    da informação: como os princípios econômicos se aplicam à era da internet. Rio
+    de Janeiro: Campus, 1999.
+
+    Literatura Complementar:
+
+    ASCENCIO, A. F. G; CAMPOS, E. A. V. Fundamentos da programação de computadores:
+    algoritmos, PASCAL, C/C++ e JAVA. São Paulo: Pearson, 2012. ELMASRI, R.; NAVATHE,
+    S. B. Sistemas de banco de dados. São Paulo: Pearson, 2011. FERNANDES, A. A.;
+    ABREU, V. F. Implantando a governança de TI: da estratégia à gestão dos processos
+    e serviços. Rio de Janeiro: Brasport, 2014. FLANAGAN, D. JavaScript: o guia definitivo.
+    Porto Alegre: Bookman, 2012. FORBELLONE, A. L. V.; EBERSPACHER, H. F. Lógica de
+    programação: a construção de algoritmos e estruturas de dados. São Paulo: Pearson,
+    2005. LAUDON, K.; LAUDON, J. Sistemas de informações gerenciais. São Paulo: Pearson,
+    2010. MANZANO, J. A. N. G.; MANZANO, A. L. N. G. Estudo dirigido de Microsoft
+    Excel 2013 Avançado. São Paulo: Érica, 2013. REZENDE, D. A.; ABREU, A. F. Tecnologia
+    da informação aplicada a sistemas de informação empresariais. São Paulo: Atlas,
+    2013. SOMMERVILLE, I. Engenharia de software. São Paulo: Pearson, 2011. STAIR,
+    R. M.; REYNOLDS, G.W. Princípios de sistemas de informação. São Paulo: Cengage,
+    2013. TANENBAUM, A. WETHERALL, D. Redes de computadores. São Paulo: Pearson, 2011.
+    TANENBAUM, A. Sistemas operacionais modernos. São Paulo: Pearson, 2009. TURBAN,
+    E.; VOLONINO, L. Tecnologia da informação para gestão: em busca do melhor desempenho
+    estratégico e operacional. Porto Alegre: Bookman, 2013.'
+  course: 'Conceitos fundamentais sobre tecnologia e sistemas de informação. Economia
+    da informação e o uso estratégico de tecnologia e sistemas de informação. Infraestrutura
+    de TI: hardware, software, banco de dados, telecomunicações e redes. Programação
+    de SI: lógica e estrutura de dados. Conceitos para construção de sites. Sistemas
+    de informação para gestão e apoio à decisão. Comércio eletrônico. Gestão de serviços
+    de TI. Governança em TI. Ética e segurança.'
+  course_name: 'LES0700 - Tecnologia e Sistemas de Informação
+
+    Information Systems and Technology'
+  deactivation: ''
+  instructors: 5863920 - Catarina Barbosa Careta
+  lecture_credits: '4'
+  objectives: Desenvolver conceitos e aplicações associadas à implementação e administração
+    de sistemas de informação e de suas tecnologias, no contexto da administração
+    de organizações e pessoas. Serão abordados aspectos relacionados a software, hardware
+    e recursos humanos, dentro de uma perspectiva gerencial. Além disso, o curso irá
+    abordar tópicos como redes, internet, computação nas nuvens, comércio eletrônico,
+    governança, ética, segurança e o uso inteligente da tecnologia da informação na
+    gestão de negócios das organizações.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20200919160256'
+digest: RKNU6D6ZGD6W4FDF3H32BZZESFQZMTQN
+updated_at: '20200919160256'
+url: https://web.archive.org/web/20200919160256id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0700&codcur=11090&codhab=1
