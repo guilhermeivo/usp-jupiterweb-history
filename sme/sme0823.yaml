@@ -1,52 +1,51 @@
 courses:
-  activation: 01/01/2013
+  activation: 01/01/2020
   assessment: "de aprovação: a nota final (MF) do aluno que realizou provas de recuperação\
     \ dependerá da média do semestre (MS) e da média das provas de recuperação (MR),\
     \ como segue:\n\x95 MF = 5 se 5 <= MR <= (10 - MS)\n\x95 MF = (MS + MR) / 2 se\
     \ MR > (10 - MS)\n\x95 MF = MS se MR< 5"
   bibliography: 'Complementar:
 
-    McCullagh, P. and Nelser, J.A. (1989). Generalized linear models, second Edition.
-    London: Chapman and Hall
+    - McCullagh, P. and Nelder, J.A. (1989). Generalized linear models, second Edition.
+    London: Chapman and Hall.
 
-    Collet, D. (1991). Modelling binary data. London: Chapman and Hall.
+    - Collet, D. (2002). Modelling binary data. 2nd Edition, London: Chapman and Hall.
 
-    Demetrio, C. G. B. (2002). Modelos Lineares Generalizados em Experimentação Agronômica.
-    ESALQ/USP.
+    - Demetrio, C. G. B. (2002). Modelos Lineares Generalizados em Experimentação
+    Agronômica. ESALQ/USP.'
+  course: 'Aprendizado Supervisionado versus Aprendizado Não-Supervisionado. Modelos
+    Lineares Generalizados: Definição. Função desvio. Métodos de Estimação. Teste
+    de hipóteses. Técnicas de diagnóstico. Aplicações: Modelos Lineares Generalizados
+    versus Classificação. Regressão Logística: Métodos clássicos. Regressão Logística
+    linear. Modelos de dose-resposta. Técnicas de diagnóstico. Seleção de modelos.
+    Aplicações. Regressão de Poisson: Métodos clássicos. Modelos log-lineares. Classificação
+    de modelos. Regressão Logística Múltipla. Aplicações. Modelos de Quase-Verrossimilhança:
+    Definição. Estimação e Testes. Aplicações. Avaliação da capacidade preditiva dos
+    modelos. Compromisso entre viés e variância.
 
-    Breslow, N.E. and Day, N.E., (1987). Statistical methods in cancer research. Vol.
-    2 - The design and analysis of cohort studies. Lyon: IARC.
-
-    Atkinson, A.C., (1995). Plots, transformations, and regressions. Oxford: Oxford
-    Science Publications'
-  course: 'Modelos Lineares Generalizados: Definição. Função desvio. Métodos de Estimação.Teste
-    de hipóteses. Técnicas de diagnóstico. Aplicações. Regressão Logística: Métodos
-    clássicos. Regressão Logística linear. Modelos de dose-resposta. Técnicas de diagnóstico.
-    Seleção de modelos. Regressão logística condicional. Aplicações. Regressão de
-    Poisson: Métodos clássicos. Modelos log-lineares. Classificação de modelos. Relação
-    com modelos multinomiais. Aplicações. Modelos de Quase-Verrossimilhança: Definição.
-    Estimação e Testes. Aplicações
-
-    Generalized linear models: Definition. Deviance function. Methods of estimation.
-    Hypothesis testing. Diagnostic techniques. Applications. Logistic Regression:
+    Supervised versus Unsupervised Learning. Generalized linear models: Definition.
+    Deviance function. Methods of estimation. Hypothesis testing. Diagnostic techniques.
+    Applications: Generalized linear models versus Classification. Logistic Regression:
     Classical methods. Linear Logistic regression. Dose-response models. Diagnostic
-    techniques. Model selection. Conditional Logistic Regression. Applications. Poisson
-    regression: Classical methods. Log-linear Models. Model classification. Relation
-    with multinomial models. Applications. Quasi-likelihood methods: Definition. Estimation
-    and tests. Applications.'
-  course_name: 'SME0823 - Modelos Lineares Generalizados
+    techniques. Selection model. Applications. Poisson regression: Classical methods.
+    Log-linear Models. Classification of Models. Multiple Logistic Regression. Applications.
+    Quasi-likelihood methods: Definition. Estimation and tests. Applications. Evaluation
+    of the predictive capacity of the models. Bias-variance trade-off.'
+  course_name: 'SME0823 - Modelos de Regressão e Aprendizado  Supervisionado II
 
-    Generalized Linear Models'
+    Regression Models and Supervised Learning II'
+  deactivation: ''
+  instructors: 3455521 - Cibele Maria Russo Novelli
   lecture_credits: '4'
   objectives: 'Apresentar conceitos introdutórios de modelos lineares generalizados
     em um enfoque computacional.
 
     Present introductory concepts of generalized linear models in a computational
     approach.'
-  practical_credits: '0'
-  total_workload: 60 h
+  practical_credits: '1'
+  total_workload: 90 h
   type: Semestral
-created_at: '20150924232610'
-digest: H3KOBXVUFLTLNNHKFKVHAPNROA5AYGZ7
-updated_at: '20170323231957'
-url: https://web.archive.org/web/20170323231957id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SME0823&codcur=55070&codhab=4
+created_at: '20200919160115'
+digest: 5OWGBR7726VMIDBZHPREAFQKWXQRVLIU
+updated_at: '20200919160115'
+url: https://web.archive.org/web/20200919160115id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SME0823&codcur=55041&codhab=0
