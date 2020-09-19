@@ -1,0 +1,70 @@
+courses:
+  activation: 01/01/2019
+  assessment: 'Estará apto a efetuar a prova de reavaliação o aluno que tiver como
+    média final na disciplina uma nota igual ou superior a três (3,0) e inferior a
+    cinco (5,0), e tiver, no mínimo, 70% (setenta por cento) de freqüência às aulas.
+
+    O cálculo de uma média aritmética simples será feito com a nota da prova de reavaliação
+    e a média final obtida pelo aluno na disciplina. Se esta média resultar em nota
+    igual ou superior a cinco (5,0), o aluno será aprovado.'
+  bibliography: "PINHEIRO, J.L. Mercado de Capitais: fundamentos e técnicas. São Paulo:\
+    \ Atlas, 2009. BACHA, E.L.; OLIVEIRA FILHO, L.C. (org.)  Mercado de capitais e\
+    \ crescimento econômico lições internacionais, desafios brasileiros. Rio de Janeiro:\
+    \ Contra Capa / Anbid, 2007. CASAGRANDE, H.; SOUSA, L.; ROSSI, M.C. Guia do mercado\
+    \ de capitais. São Paulo: Lazuli, 2006. LAGIOIA U.C.T.  Fundamentos do mercado\
+    \ de capitais. São Paulo: Atlas, 2007.SECURATO, J. R. Decisões financeiras em\
+    \ condições de risco. Editora Atlas. São Paulo, 1993.\x95 ROSS, S. A., WESTERFIELD,\
+    \ R. W., JAFFE. J. F. Administração Financeira. Editora Atlas. São Paulo, 1995.\x95\
+    SANVICENTE, A. Z., MELLAGI FILHO, A. Mercado de capitais e estratégias de investimento.\
+    \ Editora Atlas. São Paulo, 2008.\x95 HULL, J. Introdução ao mercado futuro de\
+    \ opções. Cultura Editores Associados, BM&F. São Paulo, 1994\x95 SILVA NETO, L.\
+    \ A. Derivativos: definições, emprego e risco. Editora Atlas. São Paulo, 1997.\x95\
+    \ LOZARDO, E. Derivativos no Brasil. São Paulo: BM&F, 1998.\x95 ASSAF NETO, A.\
+    \ Mercado financeiro. São Paulo: Atlas, 1999.CAVALCANTI, F.; MISUMI, J.Y.  Mercado\
+    \ de capitais.  Rio de Janeiro: Campus, 2002. ANDRADE, R.E.  Regulação pública\
+    \ da economia no Brasil. Campinas: Edicamp, 2003.\nHULL, J. Introdução ao mercado\
+    \ futuro de opções. Cultura Editores Associados, BM&F. São Paulo, 1994\nLOZARDO,\
+    \ E. Derivativos no Brasil. São Paulo: BM&F, 1998."
+  course: 'a) Sistema financeiro brasileiro: autoridades monetárias, regulamentação
+    do sistema financeiro;
+
+    b) Sistema brasileiro de pagamentos: contas de reserva e de liquidação financeira,
+    papel e funcionamento do Banco Central e das câmaras de compensação não governamental;
+
+    c) Investidores institucionais;
+
+    d) Teoria e prática de carteira de ativos: risco, retorno e dados históricos;
+    alocação de capital em ativos de risco, carteira de risco ótima e modelos de índice;
+
+    e) Funcionamento do Mercado: participantes, home broker, tipos de ordem, fundos
+    de investimento e ETFs
+
+    f) Mercado de renda variável: modelos de precificação;
+
+    g) Opções, futuros e outros derivativos (swaps): mercado de opções, mercado de
+    futuros, swaps e gestão de risco;
+
+    h) Gestão de carteiras: avaliação de desempenho de carteiras, diversificação internacional,
+    fundos de hedge;
+
+    i) Transformações do mercado de capitais e expectativas quanto ao futuro: moedas
+    virtuais e outras inovações.'
+  course_name: 'LES0470 - Mercado de Capitais
+
+    Capital Markets'
+  deactivation: ''
+  instructors: 8498852 - Alex da Silva Alves
+  lecture_credits: '2'
+  objectives: Este curso visa aprofundar e focar na implementação dos conceitos estudados
+    nas disciplinas de administração financeira e aplicar tópicos avançados de avaliação
+    de ativos financeiros e composição ótima de carteiras. Os alunos devem estar aptos
+    a operacionalizar a otimização de carteira de ativos financeiros, com diferentes
+    classes de ativos tais como renda fixa, variável, derivativos convencionais e
+    inovadores.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200919154400'
+digest: PO3Z756XUKLCCOFHSJOR6P4BBDJMQJPZ
+updated_at: '20200919154400'
+url: https://web.archive.org/web/20200919154400id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0470&codcur=11010&codhab=0
