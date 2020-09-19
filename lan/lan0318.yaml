@@ -1,0 +1,63 @@
+courses:
+  activation: 01/01/2020
+  assessment: Será realizada 1 (uma) prova de recuperação dentro do prazo estabelecido
+    pela Comissão de Graduação da ESALQ. A nota final será a média da nota (N) obtida
+    pelo aluno no semestre e a nota da prova de recuperação.
+  bibliography: "Básicas:\nBARBUT, S. Poultry Products Processing.  Industry Guide.\
+    \ CRC Press LLC. 2002.\nGOMIDE, A. M., RAMOS, E.M. & FONTES, P.R. Tecnologia de\
+    \ abate e tipificação de carcaças. Editora UFV. 2da Edição . 2014.\nHUI Y.H.,\
+    \ NIP W-K, ROGERS R.W., YOUNG O. Meat Science and Application. Ed. Makarel Dekker,\
+    \ Inc. New York., 2001.\nMEAD G.C. Processing of poultry. Editorial Chapman &\
+    \ Hall, 1996. 423p\nLAWRIE R.A. Ciência da carne. Ed. Arimed, 6° edição, 2005.\n\
+    PARDI. M., DOS SANTOS F.I., DE SOUZA R.E., PARDI H.S. Ciência, Higiene e Tecnologia\
+    \ da Carne. Vol.1 e 2. Ed. UFF. Ed. Universitária, 1993.\nPRATA l.F. & FUKUDA\
+    \ T.R. Fundamentos de Higiene e Inspeção de Carnes. UNESP. Jaboticabal, FUNEP.\
+    \ 2001.\nPEARSON, A. & DUTSON , T.R. Quality attributes and their measurement\
+    \ in meat, poultry and fish products. Advances in Meat Research Series. v.9. Ed.\
+    \ Blackie Academic & Professional 1994.\nPRICE F.J. & SCHWEIGERT B. Ciencia de\
+    \ la carne y de los productos cárnicos. Ed. Acribia S.A. Zaragoza, Espanha. 2ed\
+    \ 1994.\nRAMOS, M., E. & GOMIDE L.A. Avaliação da Qualidade de Carnes \x96 Fundamentos\
+    \ e Metodologias. Editora UFV. 2012.\nSAMS A. Poultry meat processing. Ed. CRC\
+    \ Press. Taylor & Francis Group. LLC..2001, 334 p.\nSIN J.S. & NAKAI S. Egg uses\
+    \ and processing technologies new developments. Editorial Cab International, 1994,\
+    \ 436p.\nTOLDRA, F. Handbook of fermented meat and poultry. Ed. Blackwell Publishing,\
+    \ 668p. 2007"
+  course: 'A importância da carne na economia brasileira. Estrutura e composição da
+    carne. Conversão do músculo em carne. Etapas no abate de bovinos, suínos e aves.
+    Qualidade de carne (cor, textura, pH, capacidade de retenção de água, capacidade
+    de ligação, definição e características de carne PSE, DFD, RSN). Produtos da carne
+    bovina e suína (produtos curados e defumados, produtos de umidade intermediária,
+    produtos emulsionados, produtos fermentados). Produtos derivados da carne de aves
+    (empanados e marinados). Aproveitamento de resíduos de origem animal. Ovos. Características.
+    Química dos ovos. Qualidade dos ovos (métodos físicos e químicos). Produtos processados
+    de ovos. Bibliografia.
+
+    Práticas de Laboratório e Planta de Processamento: 1) Qualidade de carnes: estrutura
+    de carne bovina e aves, capacidade de retenção de água, cor, cozimento, perda
+    de peso por cozimento, perda de peso por gotejamento; 2) Produtos cominuídos:
+    processamento de linguiça, análise de perda de cocção, análise de umidade;3) Produtos
+    emulsionados: processamento de salsicha, análise de estabilidade de emulsão; 4)
+    Cura e defumação: preparação de cura à seco, cura por injeção de salmoura, defumação
+    a quente;
+
+    5) Formulação de produtos e discussão da legislação brasileira quanto à processamento
+    de produtos cárneos; 6) Pasteurização de produtos cárneos: estabelecimento e verificação
+    do tratamento térmico.7) Estrutura e qualidade e processamento de ovos. Visitas
+    a frigoríficos, empresas de processamento de carnes e ovos.'
+  course_name: 'LAN0318 - Carnes e Ovos
+
+    Meat and Eggs'
+  deactivation: ''
+  instructors: 2540671 - Carmen Josefina Contreras Castillo
+  lecture_credits: '4'
+  objectives: Levar aos alunos conhecimento  na ciência de carnes, b) Identificar
+    as alterações bioquímicas na conversão do músculo em carne e avaliar a qualidade
+    c) Capacitar alunos com os fundamentos e tecnologias para desenvolverem produtos
+    à base de carne e outros produtos não cárneos.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20200919154442'
+digest: AIVNNEOEDRPE3CLWUWMKRFZCG2Z32SNS
+updated_at: '20200919154442'
+url: https://web.archive.org/web/20200919154442id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN0318&codcur=11010&codhab=0
