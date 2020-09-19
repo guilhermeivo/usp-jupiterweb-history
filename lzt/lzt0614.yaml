@@ -1,0 +1,68 @@
+courses:
+  activation: 01/01/2014
+  assessment: Será oferecida uma prova de recuperação, a qual abordará todo o material
+    lecionado durante o curso seguindo calendário da unidade de ensino.
+  bibliography: "BORDON, R. M. Understanding Animal Breeding. 2nd ed., Prentice Hall,\
+    \ Upper Saddle River, NJ. 538p., 2000.\nELER, J.P. Teoria e Métodos em Melhoramento\
+    \ Genético Animal. FZEAZ/USP, Apostila, Pirassununga, 2003.\nFALCONER, D.S.; MACKAY,\
+    \ T.F.C.  Introduction to Quantitative Genetics. 4th ed., Longman Group Limited,\
+    \ Essex, Englande, 464 p., 1996.\nGAMA, L.T. Melhoramento genético animal, Escolar\
+    \ Editora, 306 p., 2002.\nKINGHORN, B.; VAN DER WERF, J.; RYAN, M. [trad. Cardoso,\
+    \ V.; Carvalheiro, R.] Melhoramento animal : uso de novas tecnologias, FEALQ,\
+    \ Piracicaba, 367 p., 2006\nLASLEY, J.F. Genetics of Livestock Improvement. 4°\
+    \ ed., Prentice hall, New Jersey, 477 p., 1987.\nNICHOLAS, F.W. [trad. Fischer,\
+    \ R.] Introdução a genética Veterinaria. Ed. Artmed, Porto Alegre, 326p., 1999.\n\
+    PEREIRA, J.C.C. Melhoramento genético aplicado a produção animal, 5ª Ed., FEPMVZ.\
+    \ Editora, Belo Horizonte, 618 p, 2008.\nVAN VLECK, L.D. Selection index and introduction\
+    \ to mixed model methods. CRC Pres. Boca Raton, FL., 481 p., 1993.\nVAN VLECK,\
+    \ L.D.; POLLAK, E.J.; OLTENACU, E.A.B. Genetics for the Animal Sciences. Freeman\
+    \ and Co., New York. 391 p, 1987.\nPeriódicos recomendados:\n1.\tRevista Brasileira\
+    \ de Zootecnia\n2.\tJournal of Animal Science\n3.\tJournal of Dairy Science\n\
+    4.\tLivestock Production\n5.\tGenetic, Selection and Evolution\n6.\tJournal Animal\
+    \ Breeding and Genetics"
+  course: 'A genética dos caracteres qualitativos nos animais domésticos. Os marcadores
+    genéticos e suas aplicações. A genética dos caracteres quantitativos. Herança
+    poligênica. Variação fenotípica e variação genética. Herdabilidade e repetibilidade.
+    Conceitos fundamentais e métodos de estimação.
+
+    Associação entre caracteres, correlação fenotípica, genética e ambiental. Estimativas
+    da correlação genética e sua importância para o melhoramento. Interação genótipo-ambiente
+    no contexto do melhoramento animal. A natureza da interação. Estimativa e conseqüências
+    da interação.Princípios gerais da seleção dos reprodutores. Fatores que afetam
+    a resposta à seleção: diferencial de seleção; intervalo entre gerações; herdabilidade.
+    Ganho genético em diferentes tipos de seleção. As bases para seleção dos reprodutores:
+    Seleção massal; seleção pelo pedigree, teste de progênie e seleção de família.
+    Métodos de Seleção para mais de um caráter: conjugado, níveis independentes de
+    descarte e índices de seleção. Sistema de acasalamento. Classificação dos acasalamentos:
+    endogamia, exogamia, dissociação. Conseqüências genéticas e fenotípicas de cada
+    sistema. A heterose e a complementaridade nos cruzamentos. Os esquemas de cruzamento
+    na produção animal. Melhoramento genético de bovinos de corte.  As principais
+    características, a sua herança e os métodos apropriados para seleção. O sistema
+    de cruzamento na pecuária de corte no Brasil. Melhoramento genético dos bovinos
+    leiteiros - os principais caracteres envolvidos e sua herança. Métodos de seleção
+    dos touros e vacas. Os cruzamentos e a produção de leite em condições tropicais.
+    Melhoramento genético dos suínos - os caracteres relativos à produção e ao crescimento
+    e produto das progênies. Seleção dos reprodutores suínos: machos e fêmeas. As
+    estações de avaliação e os testes. Melhoramento genético de ovinos e caprinos.
+    Os principais caracteres. Sistemas de seleção e de acasalamento. Novas tecnologias
+    da reprodução animal: inseminação artificial, transplante de embriões, sexagem
+    de sêmen, animais transgênicos e clonagem e suas conseqüências para o melhoramento
+    animal. A biologia molecular aplicada à seleção e melhoramento animal.'
+  course_name: 'LZT0614 - Melhoramento Genético Animal
+
+    Animal Breeding'
+  deactivation: ''
+  instructors: 3628090 - Gerson Barreto Mourão
+  lecture_credits: '4'
+  objectives: Transmitir aos alunos conhecimentos teóricos e práticos relativos ao
+    melhoramento genético das principais espécies exploradas para fins de produção
+    animal, com ênfase nos bovinos de corte e de leite, suínos, aves, ovinos e caprinos.
+    Discutir os instrumentos necessários para entender o planejamento de programas
+    de melhoramento genético, aplicáveis às diversas espécies exploradas pelo homem.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200919170324'
+digest: TTP6FKNIBMFACOOT5FUBQ4PQND5U3J75
+updated_at: '20200919170324'
+url: https://web.archive.org/web/20200919170324id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0614&codcur=11010&codhab=0
