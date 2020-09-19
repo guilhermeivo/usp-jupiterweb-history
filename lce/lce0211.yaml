@@ -1,0 +1,63 @@
+courses:
+  activation: 01/01/2016
+  assessment: Será feita sob a forma de uma prova com duas horas de duração, aplicada
+    após o término das aulas, em época determinada pela USP. A média final será a
+    média aritmética entre a nota desta prova e a média obtida no semestre.
+  bibliography: 'BÁSICA:
+
+    ANDRADE, D.F.; OGLIARI, P. J. Estatística para as ciências agrárias e biológicas
+    com noções de experimentação, 3ª edição. Florianópolis: Editora da UFSC, 2013,
+    478 p.
+
+    BUSSAB, W.O. ; MORETIN, P.A.  Estatística Básica, 8ª edição. São Paulo: Editora
+    Saraiva. 2013, 548 p.
+
+    MAGALHÃES, M.N.; LIMA, A.C. P de. Noções de Probabilidade e Estatística. 7ª ed.
+    São Paulo: Editora EDUSP, 2013. 428p.
+
+    COMPLEMENTAR
+
+    MOORE, D. S. A estatística básica e sua prática. (Tradução e revisão técnica de
+    Ana Maria Lima de Farias e Vera Regina Lima de Farias e Flores). 6ª ed. Rio de
+    Janeiro: LTC, 2014, 612p.
+
+    HOFFMANN, R.. Estatística para Economistas. 4ª ed. São Paulo: Pioneira T. L. 2006.
+    v. 1. 432 p.
+
+    MILONE, G. Estatística Geral e Aplicada. São Paulo: Thomson Learning 2006, 483p.
+
+    ZOCCHI, S.S.; LEANDRO, R.A., 1999.  Notas para acompanhar a disciplina LCE-211-Estatística
+    Geral. ESALQ-USP, Piracicaba, S. P.'
+  course: '1. Estatística Descritiva. Representação tabular e gráfica de populações
+    ou amostras de variáveis discretas e contínuas; histogramas, polígono de freqüências
+    e ogiva de Galton. 2. Medidas de posição e dispersão: cálculo a partir dos dados
+    originais e de distribuição de freqüências. Médias, mediana, moda, desvio médio,
+    variância, desvio-padrão e coeficiente de variação. 3. Probabilidade: definição,
+    conceitos e teoremas. Probabilidade condicional. Independência de eventos. 4.
+    Distribuições de probabilidade. Variáveis aleatórias discretas e contínuas. Função
+    de densidade. 5. Esperança matemática: definição e teoremas. Momentos;  média
+    e variância; covariância. 6. Distribuição Binomial: definição, média e variância.
+    7. Distribuição de Poisson: definição, média e variância. 8. Distribuição Normal:
+    definição, média e variância. Distribuição normal reduzida. Uso de tabelas no
+    cálculo de probabilidades. Aproximação da distribuição normal através da distribuição
+    binomial. 9. Noções de amostragem. Distribuições amostrais. 10. Inferência Estatística:
+    Estimação e testes de hipóteses. 11. Distribuições t, F  e Qui-quadrado. 12. Tabelas
+    de Contingência. Teste de x2. 13. Distribuição amostral de proporções. Teste para
+    proporções. 14. Regressão Linear simples. 15. Correlação.'
+  course_name: 'LCE0211 - Estatística Geral
+
+    General Statistics'
+  deactivation: ''
+  instructors: 93551 - Sonia Maria de Stefano Piedade
+  lecture_credits: '4'
+  objectives: Contribuir para a formação científica dos alunos de Engenharia Agronômica
+    por meio de fundamentos básicos que possam habilitá-los na Análise Qualitativa
+    e Quantitativa de dados, provenientes de levantamentos e experimentos relacionados
+    as áreas Agrárias.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200919162027'
+digest: 744ZLQVUV2LYDET2UXMF2IQSKM6NLTCB
+updated_at: '20200919162027'
+url: https://web.archive.org/web/20200919162027id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0211&codcur=11010&codhab=0
