@@ -1,0 +1,36 @@
+courses:
+  activation: 01/01/2004
+  assessment: Cada docentes (ou equipe), deverá decidir qual o peso p onde 1<=p<=4.
+    A média final, será média ponderada da nota do semestre com a da recuperação com
+    o peso acima.
+  bibliography: G.B. Boyer, História da Matemática, Edgard Blucher, 1996. A. Aaboe,
+    Episódios da História Antiga da Matemática, Sociedade Brasileira de Matemática,
+    2001. G. Ifrah, História Universal dos Algarismos, Nova Fronteira, 1995. F. Cajori,
+    A History of Mathematical Notations (Vol. I), The Open Court, 1928. F. SWETZ et.
+    al. (org.), Learn From the Masters, The Mathematical Association of America, 1994.
+  course: '1. Números: Primeiros sistemas de numeração. Teoria dos números na escola
+    pitagórica. Os numerais na Índia. A introdução dos numerais indo-arábicos na Europa.
+    Fibonacci. 2. Geometria: Gêneses: Babilônia, Egito, China, Grécia. Os problemas
+    clássicos. Os Elementos de Euclides: a geometria axiomática, a teoria das proporções
+    de Eudoxo e os incomensuráveis; geometria do espaço. Apolônio e as seções cônicas.
+    Geometria analítica. Geometrias não-euclideanas. 3. Álgebra: Diofante. Os árabes.
+    Equações de terceiro e quatro graus. Bombelli e a necessidade da introdução dos
+    números complexos. Viète. 4. Cálculo: Arquimedes. Movimentações para o cálculo
+    no século XVII. Antecipações nos trabalhos de Descartes, Fermat e Pascal. Os trabalhos
+    de Newton e Leibniz. 5. Tópicos especiais: Astronomia. Trigonometria. Teoria matemática
+    da música. Logaritmos. Probabilidades.'
+  course_name: 'MAT0341 - História da Matemática I
+
+    History of Mathematics I'
+  deactivation: ''
+  lecture_credits: '4'
+  objectives: Apresentar e propiciar aos alunos uma reflexão sobre a inserção cultural
+    da evolução dos conceitos da Matemática Elementar na História da Humanidade, estudando
+    a História por assunto até o surgimento do Cálculo.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200919151032'
+digest: AQ3LWBPN3TOLBSRJL6KPAG46P2OLB52S
+updated_at: '20200919151032'
+url: https://web.archive.org/web/20200919151032id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT0341&codcur=45024&codhab=1
