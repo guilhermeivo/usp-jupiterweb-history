@@ -1,0 +1,40 @@
+courses:
+  activation: 01/01/2014
+  assessment: Uma única prova constando toda a matéria lecionada
+  bibliography: "FILELLINI, A  Economia do Setor Público. Editora Atlas S.A, São Paulo,\
+    \ 1994. GIAMBIAGI, F. & A C. ALÉM. Finanças Públicas \x96 Teoria e Prática no\
+    \ Brasil. Editora Campus, Rio de Janeiro, 1999. LONGO, C.A & R.L. TROSTER. Economia\
+    \ do Setor Público. Editora Atlas S.A, São Paulo, 1993 (nova edição em breve,\
+    \ porém sem previsão). REZENDE, F. Finanças Públicas. Editora Atlas S.A, São Paulo,\
+    \ 2001."
+  course: "1.1.\tFalhas de mercado;  Bens públicos; Monopólio natural; Bens de propriedade\
+    \ comum; Regulamentação de falhas de mercado. 1.2.  Objetivos da política fiscal\
+    \ e as funções do governo;  Função Alocativa; Função Redistributiva; Função Estabilizadora;\
+    \ Inter-relações entre as funções fiscais. 1.3. Orçamento Público. 1.4. Princípios\
+    \ de Tributação. 1.5. Instrumentos de Estabilização. 1.6. Processo Político. 1.7.\
+    \ A Questão Distributiva. 1.8. Poluição e Informação. 2.Conceitos básicos relavantes\
+    \ aplicados ao caso do Brasil."
+  course_name: 'LES0559 - Economia do Setor Público
+
+    Public Sector Economics'
+  deactivation: ''
+  instructors: 2084377 - Heloisa Lee Burnquist
+  lecture_credits: '4'
+  objectives: O objetivo do curso é apresentar ao aluno os fundamentos teóricos das
+    ações do governo no campo das finanças públicas, bem como introduzi-lo a uma análise
+    crítica da evolução das iniciativas governamentais no contexto histórico e geográfico
+    em que vive, à luz dos conceitos adquiridos. O curso aborda os principais tópicos
+    sobre a teoria das finanças públicas, incluindo questões relacionadas às funções
+    do governo, às falhas de mercado e à teoria da tributação, dentre outras. Examina-se
+    a racionalidade teórica da participação governamental na economia e as consequências
+    econômicas desta intervenção, utilizando exemplos da economia brasileira. Serão
+    examinadas questões teóricas e empíricas ao provisionamento e à alocação de bens
+    e serviços públicos, além de aspectos positivos e normativos da taxação e federalismo
+    fiscal.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200919161155'
+digest: YKCFKMWG5XUINYWJQURHUEG533UGCBV3
+updated_at: '20200919161155'
+url: https://web.archive.org/web/20200919161155id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0559&codcur=11050&codhab=1
