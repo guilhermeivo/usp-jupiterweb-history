@@ -1,0 +1,63 @@
+courses:
+  activation: 01/01/2020
+  assessment: ': Será realizada uma prova de recuperação que contemplará toda a matéria
+    lecionada no semestre com notas de 0 (zero) a 10,0 (dez) para os alunos que ficaram
+    com média final abaixo de 5,0 e maior ou igual a 3,0 e que obtiveram freqüência
+    maior ou igual a 70%. A nota final será calculada a partir da média da nota final
+    obtida pelo aluno no semestre mais a nota da prova de recuperação dividido por
+    dois.'
+  bibliography: 'BÁSICA:
+
+    Bioquímica. Donald Voet Judith G Voet; Ana Beatriz Gorini da Veiga; Carlos Termignoni.
+    Porto Alegre Artmed 2015
+
+    Princípios de Bioquímica de Lehninger. David Lehninger Nelson; Michael Cox; Trad.:
+    Carla Dalmaz; Carlos Termignomi; Maria Luiza Pereira. Porto Alegre Artmed 2019
+
+    Bioquímica. Jeremy M. Berg John L Tymoczko; Lubert Stryer; Gregory J Gatto Jr.;
+    Deborah Schechtman; Antonio José Magalhães da Silva Moreira. Rio de Janeiro Guanabara
+    Koogan 2014
+
+    Bioquímica. Mary K Campbell Shawn O Farrell; All Tasks; Maria Martha Guedes Chaves.
+    São Paulo Cengage Learning 2011
+
+    Bioquímica básica. Anita Marzzoco Bayardo Baptista Torres. Rio de Janeiro Guanabara
+    Koogan 2015'
+  course: ':  Carboidratos - Conceito, classificação, estrutura e propriedades. Lipídeos
+    - Conceito, classificação, estruturas e propriedades. Aminoácidos e Proteínas
+    - Conceito, classificação, estruturas e propriedades. Energética Bioquímica -
+    Energia livre, energia de ativação, entropia, compostos ricos em energia e reações
+    acopladas. Enzimas - Conceitos, especificidade, fatores que afetam a velocidade
+    de reação enzimática. Metabolismo Anaeróbico dos Carboidratos - Fermentação alcoólica
+    e láctica; Rendimento do processo. Via Pentose Fosfato - Via alternativa de degradação
+    de carboidrato e significado fisiológico. Ciclo dos Ácidos Tricarboxílicos - Cadeia
+    de transporte de elétrons e fosforilação oxidativa; Transporte de elétrons na
+    cadeia respiratória. Metabolismo dos Triglicerídios - Beta oxidação dos ácidos
+    graxos e biossíntese de lipídeos. Metabolismo dos Aminoácidos e Proteínas - Biossíntese
+    de aminoácidos e proteínas, aminoácidos essenciais, qualidade das proteínas, metabolismo
+    degradativo dos aminoácidos e proteínas, excreção do nitrogênio. Ciclo do Nitrogênio
+    - Amonificação, nitrificação, fixação simbiótica do nitrogênio, formação dos aminoácidos.
+    Fotossíntese - Reações luminosas, ciclo de Calvin, via C-4 dos ácidos dicarboxílicos,
+    metabolismo ácido das crassuláceas e fotorrespiração. Integração do Metabolismo
+    dos Carboidratos, Lipídeos e Proteínas. - Controle metabólico.'
+  course_name: 'LCB0208 - Bioquímica
+
+    Biochemistry'
+  deactivation: ''
+  instructors: 52242 - Helaine Carrer
+  lecture_credits: '4'
+  objectives: Capacitar o aluno para que tenha os conhecimentos básicos e necessários
+    para compreensão dos fenômenos biológicos ao nível das transformações moleculares
+    dos constituintes celulares. Para tal, o aluno tem contacto com os constituintes
+    celulares (carboidratos, lipídios, proteínas,  aminoácidos, ácidos nucleicos,
+    enzimas, vitaminas, etc), e as principais vias metabólicas envolvendo esses constituintes
+    celulares, o objetivo último da disciplina é fazer o aluno compreender, em nível
+    molecular, os processos biológicos como respiração, crescimento, transmissão da
+    hereditariedade e fotossíntese.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200919154751'
+digest: U3CX3VWELVQBBEYVP62EVWUGNBQY36VG
+updated_at: '20200919154751'
+url: https://web.archive.org/web/20200919154751id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0208&codcur=11010&codhab=0
