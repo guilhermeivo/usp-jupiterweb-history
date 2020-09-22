@@ -1,0 +1,132 @@
+courses:
+  activation: 01/01/2020
+  assessment: Aplicação de prova teórica sobre todo o programa lecionado.
+  bibliography: 'Literatura Básica:
+
+    GALLO, D.; NAKANO, O.; SILVEIRA NETO, S.; CARVALHO, R.P.L.; BATISTA, G.C.de; BERTI
+    FILHO, E.; PARRA, J.R.P.; ZUCCHI, R.A.; ALVES, S.B.; VENDRAMIM, J.D.; MARCHINI,
+    L.C.; LOPES, J.R.S.; OMOTO, C. Entomologia Agrícola. Biblioteca de Ciências Agrárias
+    Luiz de Queiroz, Piracicaba, SP: FEALQ, 2002, 920p.
+
+    Literatura Complementar:
+
+    IRAC. Modo de Ação de Inseticidas e Acaricidas. Disponível em: https://www.irac-br.org/modo-de-ao-de-inseticidas-e-acaricidas.
+    Acesso em 26 de fevereiro de 2019.
+
+    PARRA, J. R. P.; BOTELHO, P.S.M.; CORRÊAFERREIRA, B.S.; BENTO, J.M.S. Controle
+    Biológico no Brasil: parasitoides e predadores. São Paulo: Manole, 2002. 635p.
+
+    PINTO, A.S.; BOTELHO, P.S.M; OLIVEIRA, H.N. Guia ilustrado de pragas e insetos
+    benéficos da cana-de-açúcar. Piracicaba, CP2, 2009. 160p.
+
+    PINTO, A. S.; PARRA, J. R. P.; OLIVEIRA, H.N. Guia ilustrado de pragas e insetos
+    benéficos do milho e sorgo. 1. ed., 2004. 108p.
+
+    SALVADORI, J.R.; ÁVILA, C.J.; SILVA, M.T.B. (Org.). Pragas de solo no Brasil.
+    1ed. Passo Fundo, RS: Embrapa Trigo, 2006. 541p.
+
+    VILELA, E.F.; ZUCCHI, R.A. Pragas introduzidas no Brasil: Insetos e ácaros. FEALQ,
+    Piracicaba, 2015. 908p.
+
+    YAMAMOTO, P. T.  (Org.). Manejo Integrado de Pragas dos Citros. Piracicaba: CP2,
+    2008. 336p.
+
+    YU, S.J. 2015. The Toxicology and Biochemistry of Insecticides. CRC Press. 358p.
+
+    ZUCCHI, R.A.; SILVEIRA NETO, S.; NAKANO, O.  Guia de identificação de pragas agrícolas.
+    FEALQ, Piracicaba, 1993. 139p.'
+  course: 'SEMANAS AULAS TEÓRICAS
+
+    1. Bases do Manejo Integrado de Pragas (MIP)
+
+    2. Métodos de controle legislativo, cultural, mecânico e físico
+
+    3. Resistência de plantas a insetos
+
+    4. PROVA I
+
+    5. Seminários
+
+    6. Controle biológico de pragas: parasitoides e predadores
+
+    7. Controle biológico de pragas: microrganismos patogênicos
+
+    8. Controle por comportamento: feromônios e atraentes
+
+    9. Pragas domissanitárias e seu controle
+
+    10. Plantas geneticamente modificadas
+
+    11. PROVA II
+
+    12. Manejo de insetos vetores de fitopatógenos
+
+    13. Controle químico: inseticidas neurotóxicos
+
+    14. Controle químico: inseticidas reguladores de crescimento de insetos, inibidores
+    da respiração celular e outros grupos.
+
+    15. Integração de táticas de MIP (I)
+
+    16. Integração de táticas de MIP (II)
+
+    17. Receituário Agronômico
+
+    18. PROVA III
+
+    SEMANAS AULAS PRÁTICAS
+
+    1. Estudos de caso de Manejo Integrado de Pragas
+
+    2. Monitoramento de pragas
+
+    3. Uso de plantas inseticidas no controle de pragas
+
+    4. PROVA I
+
+    5. Seminários
+
+    6. Criação de inimigos naturais para programas de MIP
+
+    7. Produção, formulação e utilização de entomopatógenos
+
+    8. Exemplos e uso de feromônios para monitoramento e controle de pragas
+
+    9. Identificação de pragas, ferramentas para monitoramento e controle de pragas
+    urbanas
+
+    10. Resistência de insetos a inseticidas e plantas geneticamente modificadas
+
+    11. PROVA II
+
+    12. Transmissão de fitopatógenos por insetos e seu manejo
+
+    13. Formulações de inseticidas
+
+    14. Métodos e equipamentos de aplicação de inseticidas
+
+    15. Estudos de casos sobre Integração de táticas de MIP
+
+    16. Estudos de casos sobre Integração de táticas de MIP
+
+    17. Visita a laboratório/empresa de produção de inimigos naturais
+
+    18. PROVA III'
+  course_name: 'LEA0592 - Manejo Integrado de Pragas
+
+    Integrated Pest Management'
+  deactivation: ''
+  instructors: '2549718 - Jose Mauricio Simoes Bento
+
+    3199683 - Pedro Takao Yamamoto'
+  lecture_credits: '4'
+  objectives: Dar aos alunos conhecimentos básicos sobre os principais métodos de
+    controle de pragas, além de fornecer subsídios para a especialização do aluno
+    no campo da entomologia econômica, visando o manejo de pragas.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20200922090000'
+digest: 7RYNTEEEJN4QT6MTLVAAFELUZSIBIJBX
+updated_at: '20200922090000'
+url: https://web.archive.org/web/20200922090000id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0592&codcur=11010&codhab=0
