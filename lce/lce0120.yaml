@@ -1,0 +1,61 @@
+courses:
+  activation: 01/01/2016
+  assessment: Será feita sob a forma de uma prova com duas horas de duração, aplicada
+    após o término das aulas, em época determinada pela USP. A média final será a
+    média aritmética entre a nota desta prova e a média obtida no semestre.
+  bibliography: 'BÁSICA
+
+    FLEMMING, D.M.; GONÇALVES, M.B.  Cálculo A: funções, limites, derivação, integração.
+    6ª ed. São Paulo: Pearson Prentice Hall, 2007. 464p.
+
+    MORETTIN, P.A.; HAZZAN, S.;  BUSSAB, W. O. Cálculo: funções de uma e várias variáveis.
+    2ª ed. São Paulo: Saraiva, 2012, 416p.
+
+    LEITHOLD, L. O cálculo com Geometria Analítica. 3ª ed. São Paulo: Harbra, 1994.
+    Vol.1.
+
+    COMPLEMENTAR
+
+    EDWARDS Jr., C.H.; PENNEY, D.E.  Cálculo com Geometria Analítica. 4ª ed. Rio de
+    Janeiro: Prentice-Hall do Brasil, 1997. 486p.
+
+    LARSON,R. Cálculo Aplicado: Curso Rápido. Cengage Learning, 2011.
+
+    SIMMONS, G.F. Cálculo com geometria analítica. São Paulo: Pearson, 2010. Vol.
+    1.
+
+    SWOKOWSKI, E. W. Cálculo com geometria analítica. 2ª ed. São Paulo: Makron Books,
+    1995. Vol. 1'
+  course: '1. Funções de uma variável real. 1.1.Funções: definição, gráfico, domínio,
+    contra-domínio, imagem, monotonicidade, paridade, álgebra de funções, classificação,
+    inversão, função constante, função linear, função afim, função quadrática, função
+    modular, função exponencial, função logarítmica, funções trigonométricas, funções
+    trigonométricas inversas.  2. Limites: Definição, propriedades, limites laterais,
+    limites no infinito, limites infinitos, limites fundamentais, assíntotas. 3. Continuidade:
+    Definição, propriedades, continuidade num intervalo fechado. 4. Derivadas: Definição,
+    interpretação geométrica e mecânica, propriedades, derivada de funções básicas,
+    regra da cadeia, derivadas de ordem superior. 5. Estudo de funções: Pontos críticos,
+    extremos relativos, extremos absolutos, pontos de inflexão, construção de gráficos
+    de funções. 6.Aplicações da derivada: Estudo dos ensaios de adubação pelo trinômio
+    do 2º grau e pela Lei de Mitscherlich, modelos de crescimento populacional. 7.
+    Diferenciais: definição, propriedades e aplicações de diferenciais de primeira
+    ordem.'
+  course_name: 'LCE0120 - Cálculo I
+
+    Calculus I'
+  deactivation: ''
+  instructors: '2553644 - Edwin Moises Marcos Ortega
+
+    93551 - Sonia Maria de Stefano Piedade'
+  lecture_credits: '4'
+  objectives: Contribuir para a formação matemática do Engenheiro Agrônomo e do Engenheiro
+    Florestal. Capacitar os alunos no desenvolvimento de métodos matemáticos relacionados
+    a Derivação e Diferenciação no contexto de funções a uma variável. Aplicar os
+    conceitos de Cálculo Diferencial na teoria da otimização e curvas de crescimento.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200922153639'
+digest: CRZM7EG6T7FIASJFAYJ4CMENL4QXND5W
+updated_at: '20200922153639'
+url: https://web.archive.org/web/20200922153639id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0120&codcur=11010&codhab=0
