@@ -1,23 +1,33 @@
 courses:
-  activation: 01/01/2011
-  assessment: Uma prova escrita sobre toda a matéria do semestre, a ser realizada
-    em fevereiro, antes do início das aulas do 1o semestre subseqüente.
-  bibliography: "Arquivos de aula: Disponível em: http://www.leb.esalq.usp.br/aulas/lce200/lce200.html\n\
-    ÇENGEL, Y.A. & BOLES, M.A.  Termodinâmica, McGraw Hill, São Paulo, 2006.\nOKUNO,\
-    \ E.; I.L. CALDAS & C.CHOW. Física para Ciências Biológicas e Biomédicas. HARPER\
-    \ & Row do Brasil, São Paulo,  1982. 490p.\nSERWAY, R.A. & JEWETT Jr., J.W.  Princípios\
-    \ de física. volumes 1 e 2. Thomson, São Paulo, 2004.\nSERWAY, R.A. & JEWETT Jr.,\
-    \ J.W. Física para Cientistas e Engenheiros \x96 v. 2 \x96 Oscilações, Ondas e\
-    \ Termodinâmica. Cengage Learning, 2011."
-  course: "Revisão de grandezas físicas e unidades.  Energia térmica \x96 solar e\
-    \ terrestre. Radiação (Leis de Planck, Stefan-Boltzmann e Wien e Kirchhoff) e\
-    \ Condução (Lei de Fourier);  Termodinâmica de sistemas gasosos: Estado e Processos\
-    \ Termodinâmicos (Isobárico, Isovolumétrico, Isotérmico e Adiabático); Primeira\
-    \ Lei da termodinâmica: calor, trabalho e energia interna; Segundo princípio da\
-    \ termodinâmica: A degradação da energia; Física da água no solo: energia e movimento\
-    \ da água no solo."
-  course_name: LEB0200 - Física do Ambiente Agrícola
-  instructors: 2090454 - Sergio Oliveira Moraes
+  activation: 01/01/2020
+  assessment: Uma prova escrita sobre toda a matéria do semestre a ser realizada no
+    mês de julho.
+  bibliography: 'Literatura Básica:
+
+    Arquivos de aula: Disponível em: http://www.leb.esalq.usp.br/aulas/lce200/lce200.html
+
+    ÇENGEL, Y.A. & BOLES, M.A.  Termodinâmica, McGraw Hill, São Paulo, 2006.
+
+    OKUNO, E.; I.L. CALDAS & C.CHOW. Física para Ciências Biológicas e Biomédicas.
+    HARPER & Row do Brasil, São Paulo,  1982. 490p.
+
+    SERWAY, R.A. & JEWETT Jr., J.W.  Princípios de física. volumes 1, 2, 3 e 4. Thomson,
+    São Paulo, 2004.
+
+    SERWAY, R.A. & JEWETT Jr., J.W. Física para Cientistas e Engenheiros – v. 2 –
+    Oscilações, Ondas e Termodinâmica. Cengage Learning, 2011.
+
+    LIBARDI, P.L. – Dinâmica da Água no Solo. Editora da Universidade de São Paulo
+    (EDUSP), São Paulo, 352 p., 2018.'
+  course: 'Revisão de grandezas físicas e unidades. Termodinâmica de sistemas gasosos:
+    Primeira Lei da termodinâmica: calor, trabalho e energia interna (processos termodinâmicos:
+    isobárico, isovolumétrico, isotérmico e adiabático). Segunda Lei da termodinâmica.
+    Física da água no solo: energia e movimento da água no solo.'
+  course_name: 'LEB0200 - Física do Ambiente Agrícola
+
+    Agro-environmental Physics'
+  deactivation: ''
+  instructors: 2149858 - Jarbas Honorio de Miranda
   lecture_credits: '4'
   objectives: Espera-se que ao concluir a disciplina os estudantes tenham adquirido
     conhecimentos básicos necessários a compreensão dos processo de transporte de
@@ -26,7 +36,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20130510190137'
-digest: CUUHHTFRW2ECJKNNX4GCBH4GRQER3RYH
-updated_at: '20130510190137'
-url: https://web.archive.org/web/20130510190137id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0200&codcur=11010&codhab=0
+created_at: '20200922152040'
+digest: J7Y3V5X4RI42KZ35OWR4AZB53VJOQPBN
+updated_at: '20200922152040'
+url: https://web.archive.org/web/20200922152040id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0200&codcur=11010&codhab=0
