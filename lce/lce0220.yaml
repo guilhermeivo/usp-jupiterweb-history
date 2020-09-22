@@ -1,0 +1,67 @@
+courses:
+  activation: 01/01/2016
+  assessment: Será feita sob a forma de uma prova com duas horas de duração, aplicada
+    após o término das aulas, em época determinada pela USP. A média final será a
+    média aritmética entre a nota desta prova e a média obtida no semestre.
+  bibliography: 'BÁSICA:
+
+    FLEMMING, D.M.; GONÇALVES, M.B.  Cálculo A: funções, limites, derivação, integração.
+    6ª ed. São Paulo: Pearson Prentice Hall, 2007. 464p.
+
+    FLEMMING, D.M.; GONÇALVES, M.B.  Cálculo  B: funções de várias variáveis, integrais
+    múltiplas, integrais curvilíneas e de superfície. 2ª ed. São Paulo: Pearson Prentice
+    Hall, 2007. 448p.
+
+    MORETTIN, P.A.; HAZZAN, S.;  BUSSAB, W. O. Cálculo: funções de uma e várias variáveis.
+    2ª ed. São Paulo: Saraiva, 2012, 416p.
+
+    LEITHOLD, L. O cálculo com Geometria Analítica. 3ª ed. São Paulo: Harbra, 1994.
+    V.1.
+
+    COMPLEMENTAR:
+
+    BOYCE, W. E. DIPRIMA, R.C. Equações Diferenciais Elementares e Problemas de Valores
+    de Contorno. 10ª ed.  São Paulo: LTC, 2015, 680p.
+
+    LARSON,R. Cálculo Aplicado: Curso Rápido. Cengage Learning, 2011. 648p.
+
+    SIMMONS, G.F. Cálculo com geometria analítica. São Paulo: Pearson Makron Books,
+    2010. Vol .2. 828 p.
+
+    SWOKOWSKI, E. W. Cálculo com geometria analítica. 2ª ed. São Paulo: Makron Books,
+    1995. Vol. 2.'
+  course: '1. Integração indefinida: Definição, propriedades, integração básica. 1.1
+    Técnicas de integração: Integral por substituição, Integral  por partes, Integral
+    de funções racionais e irracionais. 2. Integração definida: Definição, propriedades,
+    Teorema fundamental do cálculo. Aplicações da integral definida: área, comprimento
+    de arco, volume de sólido de revolução. 3. Integrais impróprias, funções gama
+    e beta. 4. Funções de várias variáveis: 4.1. Definição de funções de várias variáveis.
+    Diferenciação parcial:  definição de derivadas parciais, regra da cadeia, derivadas
+    direcionais, planos tangentes e retas normais, extremos de funções de várias variáveis,
+    multiplicadores de Lagrange. 5. Integrais Múltiplas: Integrais duplas num domínio
+    retangular, Integrais duplas num domínio qualquer. Área e volume. 6. Equações
+    Diferenciais: definição. Equações Diferenciais Separáveis e homogêneas.   Aplicações
+    de Equações Diferenciais.'
+  course_name: 'LCE0220 - Cálculo II
+
+    Calculus II'
+  deactivation: ''
+  instructors: '2146622 - Idemauro Antonio Rodrigues de Lara
+
+    2715050 - Roseli Aparecida Leandro
+
+    58832 - Silvio Sandoval Zocchi'
+  lecture_credits: '4'
+  objectives: Contribuir para a formação matemática do Engenheiro Agrônomo e Florestal.
+    Capacitar os alunos no desenvolvimento de métodos matemáticos relacionados a Derivação,
+    Diferenciação e Integração no contexto de funções a uma ou mais variáveis independentes.
+    Aplicar os conceitos de Cálculo Diferencial e Integral na fundamentação e resolução
+    de áreas e volumes, teoria da otimização e na solução de Equações Diferenciais,
+    com condições iniciais e de contorno.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200922070554'
+digest: ARURG3QTPOYYBPZJMCQ4ZPE466IQEHRZ
+updated_at: '20200922070554'
+url: https://web.archive.org/web/20200922070554id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0220&codcur=11010&codhab=0
