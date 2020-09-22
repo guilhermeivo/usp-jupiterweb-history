@@ -1,0 +1,90 @@
+courses:
+  activation: 01/01/2017
+  assessment: Prova escrita abrangendo o conteúdo do programa analítico abordado nas
+    aulas teóricas e atividades de laboratório.
+  bibliography: 'BOHMONT, B.L. The standart pesticide user´s guide. New Jersey: Pearson
+    Education, 2001. 557p.
+
+    CARRERO, J. M.  Maquinaria para tratamentos fitossanitários.  Madrid: Mundi-Prensa,
+    1996.  159p.
+
+    ESS, D.; MORGAN, M.  The precision-farming guide for agriculturists. John Deere.
+    Moline, 1997. 138p.
+
+    MATTHEUS, G.A.   BATEMAN, R.; MILLER, P.. Pesticide application methods.  3.ed.
+    London: Wiley Blackwell, 2014. 536p.
+
+    MATTHEUS, G. A.; THORNHILL, E.W.  Pesticide application equipament for use in
+    agriculture.  v1: Manually carried equipament, 1994.  FAO Agricultural Services
+    Bulletin 112/1. 151p.
+
+    MATTHEWS, G. A.  Application of pesticides to crops. Singapore: Imperial College
+    Press, 1999. 325p.
+
+    MATUO, T.  Técnicas de aplicação de defensivos agrícolas.  Jaboticabal: Funep,
+    1990.  139p.
+
+    MOHR, M.F.; PAULSRUD, B.E.; NIXON, P.L.; WIESBROOK, M.; FERREE, R.J.  Aerial general
+    standards. Urbana: University of Illinois Extention, University of Illinois Urbana
+    – Champaign, Department of Agriculture, Sept. 2002. 112p. n(Illinois Pesticide
+    Applicator Trainning Manual, special publication 39-11).
+
+    O´CONNOR-MARER, P.J.  The safe and effective use of pesticides. 2nd. Ed. Davis:
+    University of California, Statewide Integrated Rest Management Program, Agriculture
+    and Natural Resources, 2000. 342p. (Publication, 3324).
+
+    PAULSRUD, B.; MOHR, M.; NIXON, P.; WIESBROOK, M.  General standards. Urbana: University
+    of Illinois Extention, University of Illinois Urbana-Champaign, Department of
+    Agriculture, Sept. 2003. 110p. (Illinois Pesticide Applicator Trainning Manual.
+    Special Publication 39).
+
+    QUANTICK, H. R.  Manual del piloto agricola.  Madrid: Mundi-Prensa, 1990.  254p.
+
+    THORNHILL, E.W. ; MATTHEUS, G.A.  Equipo de aplicación para uso em agricultura.
+    v2: Equipo impulsado mecánicamente, 1994.  Boletim de servicios agrícolas FAO
+    112/2. 150p.
+
+    ZAMBOLIM, L.; CONCEIÇÃO, M.Z.; SANTIAGO, T.. O que engenheiros agrônomos devem
+    saber para orientar o uso de produtos fitossanitários: Viçosa: ANDEF, 2003. 376p.
+
+    VÁSQUEZ, J. Aplicación de productos fitossanitários: Madrid: Ediciones Agrotécnicas,
+    2003. 389p.
+
+    VÁSQUEZ, J.; CUNHA, J.P.A.R. Manual de aplicação de produtps fitossanitários:
+    Viçosa: Aprenda Fácil Editora, 2012. 587p.
+
+    ANTUNIASSI, U.R.; BOLLER, W. Tecnologia de aplicação para culturas anuais: Passo
+    Fundo: Aldeia Norte Editora, 2011. 279p.'
+  course: '1) Produto fitossanitário: definição, nomenclatura, classificação, transporte,
+    armazenamento, prescrição, descarte de embalagens e formulações. 2) Princípios
+    básicos  da tecnologia de aplicação: volume de aplicação, dosagem, vazão, espectro
+    de gotas, cobertura e penetração. 3) Classificação dos métodos de aplicação e
+    equipamentos utilizados. 4) Métodos de aplicação via sólida: máquinas utilizadas,
+    constituição, funcionamento e procedimentos de calibração. 5) Métodos de aplicação
+    via líquida:a) espectro , movimento e distribuição das gotas; b) gotas controladas,
+    c) gotas eletrizadas. 6) Máquinas para aplicação via líquida: constituição, funcionamento
+    e procedimentos de calibração. 7) Bicos de pulverização: tipos, constituição,
+    vazão, faixa de deposição e desgaste. 8) Sistemas eletrônicos na tecnologia de
+    aplicação: tipos, constituição, variáveis controladas. 9) Sensores de vazão e
+    sensores de pressão. 10) Aplicação a taxas variáveis. 11) Aplicação de produtos
+    fitossanitários por aeronaves: princípios básicos, constituição, funcionamento
+    e procedimentos de calibração.12) Análise econômica e operacional dos sistemas
+    de aplicação. 13) Segurança na operação de aplicação: riscos ao operador a ao
+    meio ambiente.'
+  course_name: 'LEB0428 - Fundamentos da Aplicação de Produtos Fitossanitários
+
+    Principles of Pesticide Application Technology'
+  deactivation: ''
+  instructors: 86410 - Casimiro Dias Gadanha Junior
+  lecture_credits: '2'
+  objectives: A disciplina visa apresentar as variáveis envolvidas na   tecnologia
+    de aplicação de produtos fitossanitários  nas áreas agrícolas e florestais, com
+    ênfase nos parâmetros de avaliação do desempenho das máquinas utilizadas, análise
+    econômicas dos sistemas e avanços tecnológicos nessa área de conhecimento .
+  practical_credits: '2'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20200922154152'
+digest: SISJKDSUH3JSHN5XOLFHH67OBG6GUB7S
+updated_at: '20200922154152'
+url: https://web.archive.org/web/20200922154152id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0428&codcur=11010&codhab=0
