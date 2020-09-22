@@ -1,0 +1,62 @@
+courses:
+  activation: 01/01/2007
+  assessment: Uma prova com toda a matéria lecionada
+  bibliography: "7.1. BIBLIOGRAFIA BÁSICA:  FEIJÓ, C. A.; YOUNG, C. E. F.; LIMA, F.\
+    \ C. G. de C.; GALVÃO, O. J. de  A.; RAMOS, R. L. O.   Contabilidade Social. Ed.\
+    \ Campus. 2003; PAULANI, L. M. & M. BOBIK BRAGA. A Nova Contabilidade Social.\
+    \ São Paulo: Saraiva, 2007. 7.2. BIBLIOGRAFIA COMPLEMENTAR:  FIGUEIREDO, F. DE\
+    \ O. Introdução à Contabilidade Nacional. Forense, São Paulo, 1971; FILELLINI,\
+    \ A.. Economia do Setor Público. São Paulo: Editora Atlas, 1994. 202p.; FERREIRA\
+    \ FILHO, J.B.S. Introdução aos modelos aplicados de equilíbrio geral: conceitos,\
+    \ teoria e aplicações. LES/ESALQ. Série Didática n. 120, 1998.   FORTUNA, E. Mercado\
+    \ Financeiro: Produtos e Serviços. Rio de Janeiro: Editora Qualitymark. 1999.\
+    \ 519p. GIAMBIAGI, F.; ALÉM, A.C. Finanças Públicas \x96 Teora e Prática no Brasil.\
+    \ Editora Campus, 2001. GUILHOTO, J.M.J.  Leontief e Insumo \x96Produto: antecedentes,\
+    \ princípios e evolução.; GUILHOTO, J.M.J.; LOPES, R.L.; MOTTA, R.S.  Impactos\
+    \ ambientais e regionais de cenários de crescimento da economia brasileira \x96\
+    \ 2002/2012. Rio de Janeiro: IPEA. Texto para Discussão, n. 892; ROSSETTI, J.\
+    \ P. Contabilidade Social. Atlas, São Paulo, 1995."
+  course: '1. Medidas da Atividade Econômica (produto, renda, consumo, poupança, investimento,
+    gastos do governo, exportações e importações)e as relações básicas que definem
+    a estrutura de contas nacionais; 1.1. Conceitos de medidas especiais e resumidas
+    da Atividade Econômica (produto, renda, consumo, poupança, investimento, gastos
+    do governo, exportações e importações); 1.2. Relações básicas para a definição
+    da estrutura das Contas Nacionais; 1.3. Definição do Produto Interno Bruto e conceitos
+    relacionados; 1.4. Caracterização e importância da agroindústria no PIB brasileiro.
+    2. Sistema de Contas Nacionais, Produto Interno Bruto, Dívida Pública Interna
+    e Externa; 2.1. Detalhamento relacionado a cada um desses agregados macroeconômicos
+    em termos de: estrutura, procedimento empregado no levantamento e apresentação
+    sistemática da estatísticas, relações com o contexto institucional e estrutura
+    administrativa do governo brasileiro. 3. Mercados Financeiros: estrutura e mecanismos
+    básicos de funcionamento; 3.1. Sistema Monetário e a Oferta de Moeda. 3.2. Principais
+    Métodos de Controle Monetário; 3.3. Sistema Financeiro Brasileiro. 4. Finanças
+    Públicas: conceitos e medidas; 4.1. Receitas e Despesas do Tesouro Nacional. 4.2.
+    Estrutura Fiscal; 4.3. Déficit Público: diferentes formas de mensuração. 4.4.
+    Contas Públicas: detalhamento de usos e fontes. 5. Balanço de Pagamentos e Indicadores
+    da Economia Internacional; 5.1. Definição da Estrutura e Contabilidade do Balanço
+    de Pagamentos; 5.2. Indicadores da Economia Internacional; 5.2.1. Taxas de câmbio;
+    5.2.2. Taxas de juros em diversas moedas; 5.2.3. Reservas internacionais. 6. Matriz
+    Insumo-Produto: conceitos básicos.'
+  course_name: 'LES0200 - Contabilidade Social
+
+    Social Accoutability'
+  deactivation: ''
+  instructors: '2084377 - Heloisa Lee Burnquist
+
+    2210982 - Humberto Francisco Silva Spolador
+
+    1906631 - Silvia Helena Galvao de Miranda'
+  lecture_credits: '4'
+  objectives: 'Definir conceitos necessários para o desenvolvimento de um contexto
+    teórico de análise macroeconômica.
+
+    Apresentar métodos de medidas macroeconômicas gerais que resumem a atividade econômica,
+    bem como detalhar as formas empregadas para o levantamento e sistematização de
+    dados agregados, enfatizando os procedimentos empregados para a economia brasileira.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200922084417'
+digest: 7ILWDB5ABYRK3QCX4KWGKYRJIO5IFEGE
+updated_at: '20200922084417'
+url: https://web.archive.org/web/20200922084417id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0200&codcur=11010&codhab=0
