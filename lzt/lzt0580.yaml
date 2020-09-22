@@ -1,0 +1,69 @@
+courses:
+  activation: 01/01/2014
+  assessment: Não haverá recuperação.
+  bibliography: 'ANDRIGUETTO, J.M.; PELLY, L.; MINARDI, I.; GEMEAL, A.; FLEMMING,
+    J.S.; SOUZA, G.A. de & BONA FILHO, A. 1988. Nutrição Animal. Vol. 1. As Bases
+    e os Fundamentos da Nutrição Animal: Os Alimentos. 4ed. Livraria Nobel. São Paulo.
+
+    CAMPOS, F.P.; NUSSIO, C.M.B.; NUSSIO, L.G. Métodos de análises de alimentos. Piracicaba:
+    FEALQ, 2004. 135 p.
+
+    NRC. National Research Council. 2001. Nutrient Requirements of Dairy Cattle. 7th
+    Ed. National Academy Press. Washington, D.C. 381p.
+
+    NRC. National Research Council. 1996. Nutrient Requirements of Beef Cattle. 7th
+    Ed. National Academy Press. Washington, D.C.
+
+    NRC. National Research Council. 1985. Nutrient Requirements of Sheep. 6th Ed.
+    National Academy Press. Washington, D.C. 381p.
+
+    ROSTAGNO, H.S.; ALBINO, L.F.T.; DONZELE, J.L. et al. Composição de Alimentos e
+    exigências nutricionais de aves e suínos: Tabelas Brasileiras. Viçosa, MG. Universidade
+    Federal de Viçosa, 2000. 141p.
+
+    SILVA, D.J.; QUEIROZ, A.C. Análise de alimentos: métodos químicos  biológicos.
+    2. ed. Belo Horizonte: Fundação de Ensino e Pesquisa em Medicina Veterinária,
+    2002. 265 p.
+
+    VALADARES FILHO, S.C.; ROCHA JR., V.R.; CAPPELLE, E.R. Tabelas brasileiras de
+    composição de alimentos para bovinos. Viçosa, MG: Universidade Federal de Viçosa,
+    2002. 297.
+
+    Periódicos:
+
+    - Journal of animal feed science and technology
+
+    - Revista da Sociedade Brasileira de Zootecnia
+
+    - Pesquisa Agropecuária Brasileira'
+  course: 'Conceito e importância da bromatologia na zootecnia. Conhecimento de equipamentos
+    e vidrarias a serem utilizadas. Técnicas de pesagem. Boas práticas de laboratório.
+    Classificação dos alimentos. Importância e técnicas de amostragem de acordo com
+    o tipo de alimento. Homogenização e processamento de amostra para análise (pré-secagem
+    e moagem).  Composição centesimal, método de Weende. Técnicas de determinação
+    de matéria seca: estufa, método do tolueno, liofilização. Determinação de material
+    mineral. Métodos de determinação de nitrogênio e estimativa de valores de proteína:
+    Proteína bruta, Nitrogênio não-protéico, nitrogênio solúvel, conceito de proteína
+    verdadeira. Determinação de fibra bruta, limitações para fins de formulação de
+    ração. Sistema Van Soest de determinação da fração fibra: fibra detergente ácido,
+    fibra detergente neutro e lignina. Carboidratos não estruturais, métodos de determinação:
+    carboidratos solúveis, amido.  Ensaios de digestibilidade e de degradabilidade.
+    Energia bruta, determinação em bomba calorimétrica e estimativas de energia líquida
+    e metabolizável.'
+  course_name: 'LZT0580 - Análise e Composição de Alimentos
+
+    Feed Analysis and Composition'
+  deactivation: ''
+  instructors: 502809 - Carla Maris Machado Bittar
+  lecture_credits: '4'
+  objectives: Oferecer ao aluno conhecimentos básicos para determinação e interpretação
+    de resultados da composição dos alimentos para alimentação animal, ruminantes
+    e não-ruminantes, através de métodos adequados de análise. O curso se propõe também
+    a oferecer princípios básicos de trabalho em laboratórios de análise.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200922134137'
+digest: M2GHOXZUMHZGDKIUXNLS6HXFPXEJBTU4
+updated_at: '20200922134137'
+url: https://web.archive.org/web/20200922134137id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0580&codcur=11010&codhab=0
