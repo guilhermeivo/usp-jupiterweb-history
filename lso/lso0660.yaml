@@ -1,0 +1,129 @@
+courses:
+  activation: 01/01/2020
+  assessment: Será realizada uma prova de recuperação, contendo toda a matéria prática
+    e teórica.
+  bibliography: 'ASSAD, E.D. Sistema de Informações Geográficas - Aplicações na Agricultura.
+    Segunda Ed. Brasília, Embrapa, SPI, CPAC, 1998, 434 p.
+
+    BERTONI, J. e LOMBARDI NETO, F. Conservação do solo. LIVROCERES. 368 p. 1985.
+    Revista Brasileira de Ciência do Solo.
+
+    BRADY, N.C; Weil, R.R. 2013. Elementos da Natureza e Propriedades dos Solos. Bookman
+    Editora Ltda. (3. ed.), Porto Alegre, Brasil, 685p.
+
+    DEMATTÊ, J.L.I. Manejo de Solos Tropicais Úmidos.  Região amazônica.   Fundação
+    Cargill.  Campinas, SP. 1988.
+
+    DRIESSEN, P.M.; KONIJN, N.T. (Ed) Land-use systems analysis. Wageningen, The Netherlands,
+    230p. 1992.
+
+    EMBRAPA. Centro Nacional de Pesquisa de Solos. Procedimentos normativos de levantamentos
+    pedológicos. Brasília, Humberto Gonçalves dos Santos et al. SPI, 1995.
+
+    LEPSCH, I.F. Manual para levantamento utilitário do meio físico e classificação
+    de terras no sistema de capacidade de uso. I.F. Lepsch, R Bellinazzi Jr., D. Bertolini,
+    C.R. Espíndola. 4 aproximação, Campinas, Sociedade Brasileira de Ciência do Solo,
+    1991, 175 p.
+
+    MORAN, M.S.; IONOUE, Y.; BARNES, E.M. Opportunities and limitations for image-based
+    remote sensing in precision crop management. Remote Sensing Environment, v.61,
+    p.319-346, 1997.
+
+    NOVO, E.M.L.M. Sensoriamento remoto: princípios e aplicações. INPE/MCT, São José
+    dos Campos, 1988, 351 p.
+
+    PIERCE, F.J., SADLER, E.J. (Editors). The state of site-specific management for
+    agriculture. United States of America, Madison, 430 p. 1997.
+
+    RAMALHO FILHO et alii. 1978. Sistema de avaliação da aptidão agrícola das terras.
+    Brasília. SUPLAN/MA-SNLCS/EMBRAPA.
+
+    SANTOS, H.G., JCOMINE, P.K.T., ANJOS, L.H.C., OLIVEIRA, V.A., LUBRERAS, J.F.,
+    COELHO, M.R., ALMEIDA, JA.A, ARAÚJO FILHO, J.C., OLIVEIRA, J.B., CUNHA, T.J.F.
+    (ed.). Sistema Brasileiro de Classificação de Solos, 5. Ed. Ver. Ampl. Brasília:
+    Embrapa, 356 p. 2018'
+  course: 'Módulo 1: Caracterização e cartografia do ambiente físico; sistemas de
+    avaliação de terras e manejo do solo.
+
+    a) Levantamento e mapeamento de solos (desenvolvimento e interpretação), relevo
+    e clima.
+
+    b) Sensoriamento remoto, geoprocessamento e bancos de dados relacionais: interpretação
+    de imagens de satélites, fotopedologia e suas relações com relevo e caracterização
+    de solos; estudo do solo pela sua energia eletromagnética refletida e suas implicações
+    no processo agrícola e ambiental; relações/interpretações relacionadas a levantamento,
+    mapeamento, fertilidade dos solos, uso da terra e práticas agrícolas.
+
+    c) Histórico e situação contemporânea dos sistemas de classificação de terras.
+
+    d) Sistemas e procedimentos de avaliação de terras visando a definição de aptidão
+    agrícola, zoneamento agroambiental e capacidade de uso.
+
+    e) Sistemas e procedimentos visando zoneamento ambiental estratégico e definição
+    de áreas de risco.
+
+    f) Ambientes de produção e grupos de manejo.
+
+    Módulo 2: Avaliação, recomendação, funcionalidade e planejamento das alternativas
+    de controle da erosão do solo.
+
+    a) A situação da agricultura brasileira em relação à erosão do solo: evolução
+    histórica e situação contemporânea. Principais regiões e culturas sensíveis à
+    erosão.
+
+    b) Mecânica do processo erosivo. Formas de erosão do solo.
+
+    c) Impactos intrínsecos e extrínsecos da erosão do solo.
+
+    d) Interpretação das características do solo visando o controle da erosão do solo.
+
+    e) Manejo da cobertura do solo visando o controle da erosão do solo: restos de
+    cultura, tratos culturais, plantas de cobertura, adubação verde e plantio direto.
+
+    f) Práticas mecânicas de controle da erosão do solo: recomendação, dimensionamento,
+    e construção de terraços e canais escoadouros.
+
+    g) Políticas públicas voltadas à conservação do solo: matas ciliares, legislação
+    e programas de microbacias hidrográficas.
+
+    h) Conservação de estradas rurais e controle de grandes erosões.
+
+    Módulo 3:  Manejo de solos agrícolas
+
+    a) Introdução ao manejo do solo;
+
+    b) Sistemas de preparo do solo.
+
+    c) Manejo de solos com restrições físicas ao desenvolvimento do sistema radicular.
+
+    d) Manejo de solos com restrições químicas e biológicas ao desenvolvimento do
+    sistema radicular.
+
+    e) Manejo de solos arenosos.'
+  course_name: 'LSO0660 - Tecnologia do Solo
+
+    Soil Technology'
+  deactivation: ''
+  instructors: '56361 - Gerd Sparovek
+
+    74052 - Jose Alexandre Melo Dematte
+
+    8398051 - Maurício Roberto Cherubin'
+  lecture_credits: '4'
+  objectives: 'a. Abordar os temas aplicados da ciência do solo como uma continuidade
+    do desenvolvimento conceitual de suas áreas básicas (física, química, biologia
+    do solo e pedologia);
+
+    b. Demonstrar e discutir as vantagens e restrições das tecnologias de melhoramento
+    funcional do solo considerando seu papel na produção agrícola, ciclo hidrológico
+    e conservação de recursos naturais e genéticos;
+
+    c. Capacitar o aluno na elaboração de projetos de planejamento do uso da terra
+    para fins agrícolas e ambientais.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200922153356'
+digest: PYCOHHKRV652GBPTAOIX7NAJT67KI3IJ
+updated_at: '20200922153356'
+url: https://web.archive.org/web/20200922153356id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LSO0660&codcur=11010&codhab=0
