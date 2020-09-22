@@ -1,0 +1,103 @@
+courses:
+  activation: 01/01/2009
+  assessment: Prova Teórico-Prática realizada antes do início do semestre seguinte
+    (dentro do calendário estipulado pela ESALQ/USP).
+  bibliography: 'Literatura Básica:
+
+    EPSTEIN, E.; BLOOM, A.J. Nutrição mineral de plantas: princípios e perspectivas.
+    2ª ed. Tradução de M.E.T. Nunes. Londrina: Ed. Planta, 2006. 403 p.
+
+    FERNANDES, M.S. Nutrição mineral de plantas. Viçosa: Sociedade Brasileira de Ciência
+    do Solo, 2006, 432p.
+
+    MALAVOLTA, E. Manual de nutrição mineral de plantas. São Paulo: Agronômica Ceres,
+    2006. 638p.
+
+    MALAVOLTA, E.; VITTI, G.C.; OLIVEIRA, S.A. Avaliação do estado nutricional das
+    plantas: princípios e aplicações. Piracicaba: Associação Brasileira para Pesquisa
+    da Potassa e do Fosfato, 1997. 319 p.
+
+    MARSCHNER, H. Mineral nutrition of higher plants. London: Academic Press, 1995.
+    889 p.
+
+    MENGEL, K.; KIRKBY, E.A.  Principles of plant nutrition. 5th ed. Dordrecht: Kluwer
+    Academic, 2001. 849 p.
+
+    Literatura Complementar:
+
+    LEHNINGER, A.L.; NELSON, L.; COX, M.M. Princípios de bioquímica. Tradução de  A.A.
+    Simões e W.R.N. Lodi. 4ª.ed. São Paulo: Sarvier, 2006. 1202 p.
+
+    RAIJ, B. van; CANTARELLA, H.; QUAGGIO, J.A.; FURLANI, A.M.C. (Ed.). Recomendações
+    de adubação e calagem para o Estado de São Paulo. 2.ed. Campinas: Instituto Agronômico
+    & Fundação IAC, 1996. 285 p.
+
+    TAIZ, L.; ZEIGER, E. Fisiologia vegetal. 4ª ed. Porto Alegre: Artmed, 2009. 819
+    p.
+
+    Artigos publicados nos periódicos: Pesquisa Agropecuária Brasileira; Revista Brasileira
+    de Ciência do Solo; Communications in Soil Science and Plant Analysis; Journal
+    of Plant Nutrition e Plant and Soil.
+
+    SITES:
+
+    - http://www.chemkeys.com
+
+    - http://www.pt.wikipedia.org/wiki/Tabela-Periódica
+
+    - http://www.sigma-aldrich.com/pathways
+
+    MATERIAL DE AULA DISPONÍVEL NO:   http://www.solos.esalq.usp.br/arquivos.html'
+  course: '1) T. Introdução - Histórico - Elementos essenciais. / P. Soluções nutritivas
+    e suas aplicações.
+
+    2) T. Critérios de essencialidade - Extração de elementos pelas plantas. / P.
+    Fundamentos de hidroponia.
+
+    3) T. Nitrogênio na nutrição das plantas. / P. Instalação do experimento de deficiências.
+
+    4) T. Fósforo na nutrição das plantas. / P. Níveis críticos - Instalação do experimento.
+
+    5) T. Potássio e enxofre na nutrição das plantas. / P. Colheita e preparo de amostras
+    vegetais para análise.
+
+    6) T. Cálcio e magnésio na nutrição das plantas. / P. Análises químicas em tecidos
+    vegetais: fundamentos.
+
+    7) T. Ferro e manganês na nutrição das plantas. / P. Análises químicas em tecidos
+    vegetais: prática.
+
+    8) T. Cobre e zinco na nutrição das plantas. / P. Cálculos e Interpretação de
+    resultados.
+
+    9) T. Boro e níquel na nutrição das plantas. / P. Colheita dos experimentos.
+
+    10) T. Molibdênio e cloro na nutrição das plantas. / P. Discussão dos resultados
+    dos experimentos.
+
+    11) T. Elementos benéficos: cobalto, silício e sódio. / P. Determinação de nível
+    crítico de nutrientes.
+
+    12) T. Elementos com problemas de toxicidade: alumínio, bromo, flúor, iodo e selênio.
+    / P. Avaliação do estado nutricional das plantas.
+
+    13) T. Absorção radicular e foliar. / P. Nutrição e qualidade dos produtos agrícolas.'
+  course_name: 'LSO0420 - Nutrição Mineral de Plantas
+
+    Plant Mineral Nutrition'
+  deactivation: ''
+  instructors: '77243 - Antonio Roque Dechen
+
+    2086229 - Francisco Antonio Monteiro'
+  lecture_credits: '4'
+  objectives: Dar uma visão ao aluno dos problemas de nutrição mineral das plantas,
+    da sua importância e da sua interação com outras disciplinas dos cursos de Agronomia
+    e Engenharia Florestal, sendo estudados com detalhes as funções dos nutrientes,
+    conforme o programa seguinte.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200922150552'
+digest: KWWACRG7GCUN7X7W3JQ5CI3CVN3BJ4YL
+updated_at: '20200922150552'
+url: https://web.archive.org/web/20200922150552id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LSO0420&codcur=11010&codhab=0
