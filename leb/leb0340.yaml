@@ -1,0 +1,90 @@
+courses:
+  activation: 01/01/2019
+  assessment: 'Para os alunos reprovados por nota, mas beneficiados pelo sistema de
+    recuperação, esta será realizada através da aplicação de uma prova teórica e outra
+    prática.
+
+    Nota de recuperação = 2 Teórica + Prática
+
+    3'
+  bibliography: 'ANGULO FILHO, R.; VETTORAZZI, C.A.; DEMÉTRIO, V.A.  Exercícios de
+    Topografia (Apostila).Departamento Editorial do CALQ - DECALQ.  Piracicaba.  1996.
+    25p.
+
+    ATCHESON, D.  Estimating Earthwork Quantities.  3a. ed. Lubbock, Norseman Publishing
+    Company, 1986.
+
+    BORGES, A.C.  Exercícios de  Topografia.  3a.  ed. São  Paulo,  Edgard    Blucher,
+    1975. 192p.
+
+    BORGES, A.C.  Topografia.  São Paulo, Edgard Bluscher, 1977.  187p. Vol. 1.
+
+    BORGES, A.C.  Topografia.  São Paulo, Edgard Bluscher, 1992.  232p. Vol. 2.
+
+    COMASTRI, J.A.; TULLER, J.C.  Topografia: Altimetria.  Viçosa, Imprensa Universitária,
+    1980. 160p.
+
+    COMASTRI, J.A & CARVALHO, C.A.B. de.  Estradas (traçado geométrico).  Viçosa,
+    Imprensa Universitária, 1981. 71p. (Boletim no. 112).
+
+    COMASTRI, J.A. & TULLER, J.C.  Topografia: Planitimetria.  Viçosa,  Imprensa Universitária,
+    1977. 335p.
+
+    DAVIS, R.E.;  FOOTE, F.S.;  ANDERSON, J.M. & MIKHAIL, E.M. Surveying: Theory and
+    Practice. 6a. ed.  New York.  Mac Graw-Hill Publisching Company, 1981.  992p.
+
+    DOMINGUES, F.A.A.  Topografia e Astronomia de Posição para  Engenheiros e Arquitetos.  São
+    Paulo, Mc Graw hill, 1979.
+
+    ERBA, D.A. (Org.)  Topografia para Estudantes de Arquitetura, Engenharia e Geologia.
+    São Leopoldo, Ed. Unisinos, 2003.
+
+    ESPARTEL, L.  Curso de Topografia. 7a. ed.  Porto Alegre, Globo,  1980. 655p.
+
+    FONSECA,  R.S.   Elementos  de  Desenho  Topográfico.  São Paulo,  Mc Graw Hill,
+    1979. 192p.
+
+    GODOY, R.  Topografia Básica.  Piracicaba, FEALQ, 1988. 349p.
+
+    JORDAN, W.  Tratado General de Topografia.  Barcelona,  Gustavo Gili,  1961. 2v..
+
+    LIBAULT, A.  Geocartografia.  São Paulo, Ed. Da USP, 1975.'
+  course: 'Planimetria: Geotecnologia aplicada às ciências agrárias. Topografia: definição,
+    objetivos e divisão. Conceitos Fundamentais: ponto e plano topográfico, topografia,
+    geodésia e cartografia. Teodolitos: tipos, constituição e manejo de aparelhos.
+    Goniometria: bússolas, tipo e emprego; inclinação e declinação  magnética; azimutes
+    e rumos verdadeiros e magnéticos; aviventação de rumos; outros ângulos horizontais.
+    Medição direta de distância: erros, precisão, transposição de obstáculos. Taqueometria:
+    determinação de distância horizontal e distância vertical. Medição eletrônica
+    de distâncias. Métodos de levantamento topográfico: intersecção, irradiação e
+    caminhamento. Determinação de áreas: métodos gráficos, analíticos. Locação de
+    obras rurais. Normas técnicas referentes à topografia. Altimetria: Conceitos fundamentais:
+    superfície de nível; nível verdadeiro e aparente; erro devido à curvatura da Terra
+    e refração atmosférica; altitude e cota; declividade. Constituição, retificação
+    e manejo dos níveis de precisão. Métodos de nivelamento: barométrico, taqueométrico;
+    trigonométrico e geométrico (simples e composto). Curvas de nível e em desnível.
+    Perfis longitudinais e transversais: rampas; corte e aterro. Levantamento planialtimétrico.
+    Uso de "Softwares" topográficos. Desenho Topográfico: generalidades, classificação,
+    instrumentação e material de traçado. Convenções e normatização para desenho topográfico.
+    Processos de representação: projeções cotadas; estudo do ponto, da reta e do plano.
+    Desenho de perfis e plantas planialtimétricas. Sistematização de terras: Elementos
+    de terraplanagem, sistematização de terras e barramentos.'
+  course_name: 'LEB0340 - Topografia
+
+    Land Surveying and Geoprocessing I'
+  deactivation: ''
+  instructors: 2151441 - Peterson Ricardo Fiorio
+  lecture_credits: '6'
+  objectives: Informar sobre o conjunto de normas, regras e princípios aplicados aos
+    métodos topográficos gerais, para representar gráfica ou analiticamente, os pontos
+    de uma porção limitada da superfície terrestre, calculados com exatidão, em relação
+    a um plano de referência, com todos os detalhes, acidentes, área, posição altimétrica
+    e orientação segundo as coordenadas geográficas e ou planas, permitindo a execução
+    de estudos e projetos a serem implantados.
+  practical_credits: '0'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20200922151443'
+digest: GFSS5SWQHLZDT5QEAD4SVT43NITWSEOW
+updated_at: '20200922151443'
+url: https://web.archive.org/web/20200922151443id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0340&codcur=11010&codhab=0
