@@ -1,0 +1,103 @@
+courses:
+  activation: 01/01/2019
+  assessment: O sistema de recuperação é baseado em uma única prova com a matéria
+    toda do semestre, sendo a média final calculada de acordo com a Resolução COG
+    3583, de 29/09/89.
+  bibliography: 'Literatura Básica:
+
+    BERNARDO, S.; SOARES, A.A.; MANTOVANI, E.C. Manual de Irrigação. Viçosa-MG: Imprensa
+    Universitária, 2013. 625p.
+
+    FOLEGATTI, M.V.; BLANCO, F.F.; SILVA, L.D.B. da. Manejo da Irrigação. Departamento
+    de Engenharia de Biossistemas, ESALQ, USP. (Série Didática, 014), 2011. 123 p.
+
+    FOLEGATTI, M.V.; AZEVEDO, B.M. de; PEREIRA, F.A.C.; PAZ, V.P.da S.. Irrigação
+    por aspersão – Autopropelido. Departamento de Engenharia Rural, ESALQ, USP. (Série
+    Didática 010), 1997. 30p.
+
+    FRIZZONE, J.A. Irrigação por Aspersão; Uniformidade e Eficiência. Piracicaba.
+    Departamento de  Engenharia de Biossistemas, ESALQ, USP. (Série Didática, 003),
+    2015. 60p.
+
+    FRIZZONE, J.A. et al.  Microirrigação; Gotejamento e Microaspersão. Editora da
+    Universidade Estadual de Maringá, 2012. 356p.
+
+    FRIZZONE, J.A. Irrigação por Superfície. Piracicaba. Departamento de Engenharia
+    Rural, ESALQ, USP. (Série Didática, 005), 1993. 183p.
+
+    Literatura Complementar:
+
+    AZEVEDO NETO, J.M.  Manual de Hidráulica. São Paulo, E.    Bluscher/USP, 1973.
+
+    CETESB.  Bombas e Sistemas de Recalque.  São Paulo, 1974.
+
+    CUENCA, R.H. Irrigation System Design. An Engineering Approach. Englewood Cliffs,
+    Prentice-Hall Inc., 1989. 522p.
+
+    DAKER, A. A Água na Agricultura; manual de Hidráulica Agricola 3  vol. Irrigação
+    e Drenagem. 1976. 453p.
+
+    FRIZZONE, J.A. Funções de Resposta das Culturas à Irrigação. Piracicaba.   Departamento
+    de Engenharia Rural, ESALQ, USP. (Série Didática, 005), 1993. 183p.
+
+    GUROVICH, L. Fundamentos y Diseño de Sistemas de Riego. San José, Costa Rica:
+    IICA, 1985. 433p.
+
+    Informe Agropecuário; Engenharia de Irrigação e Drenagem. Belo Horizonte, EPAMIG,
+    12(139), 1986.
+
+    Informe Agropecuário; Engenharia de Irrigação e Drenagem. Belo Horizonte,EPAMIG
+    9(100), 1983.
+
+    JENSEN, M.E., ed. Design and Operation of Farm Irrigation Systems. St. Joseph,
+    Michigan: American Society of Agricultural Engineers, Monograph Number 3, 1980.
+    829p.
+
+    LENCASTRE, M.  Manual de Hidráulica Geral,  E. Bluscher/USP, 1972.
+
+    MAC INTYRE, A.S.  Bombas e Instalações de Bombeamento.  Rio de Janeiro,  E. Guanabara
+    - Dois, 1980.
+
+    NEVES, E.T.  Curso de Hidráulica.  Editora Globo,  Porto Alegre,   1968.
+
+    OLITTA, A.F.L. Métodos de Irrigação. São Paulo, Nobel, 1977. 267p.
+
+    VENNARD, J.K. & STREET, R.L.  Elementos de Mecânica dos Fluídos. Rio de Janeiro,
+    Ed. Guanabara - Dois, 1978.
+
+    WHITHERS, B. e VIPOND, s. Irrigação: Projeto e Prática. São Paulo, EPU, Editora
+    da Universidade de São Paulo; tradução de Francisco da Costa Verdade. 1977. 339p.'
+  course: 'Generalidades sobre a situação da Irrigação no Estado de São Paulo e no
+    Brasil.  Conceitos de Física do Solo aplicados a Irrigação e Drenagem. Retenção
+    e movimento da água no solo, em relação a sua disponibilidade às plantas.  Necessidade
+    de água das plantas. Parâmetros para a irrigação. Controle da irrigação. Fatores
+    que influem na escolha do método. Irrigação por aspersão: Generalidades. Características
+    dos equipamentos para sistemas portáteis, permanentes e mecanizados de aspersão.
+    Projeto de um sistema de irrigação por aspersão portátil. Operação do sistema
+    mecanizado de aspersão. Irrigação localizada: Generalidades. Componentes do sistema
+    e suas características de funcionamento. Princípios básicos do método. Benefícios
+    e problemas. Tipos de gotejadores e microaspersores. Projeto de um sistema de
+    irrigação localizada. Operação do sistema. Irrigação por sulcos: Generalidades.
+    Características e tipos de sulcos. Avanço da água no sulco. Teste de infiltração
+    no sulco. Projeto de um sistema de irrigação por sulcos. Operação do sistema.
+    Irrigação por inundação. Generalidades. Características dos tabuleiros. Projeto
+    de um sistema de irrigação por inundação. Operação do sistema. Generalidades da
+    irrigação por faixas de inundação.'
+  course_name: 'LEB1571 - Irrigação
+
+    Irrigation'
+  deactivation: ''
+  instructors: '1286078 - Patricia Angélica Alves Marques
+
+    57293 - Rubens Duarte Coelho'
+  lecture_credits: '4'
+  objectives: Capacitar os alunos a projetar e avaliar sistemas de irrigação por intermédio
+    de estudos básicos necessários ao planejamento e de critérios técnicos para o
+    dimensionamento.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200922084231'
+digest: 2DMNRYOQGYRU74B75OCHIZ7HKSWZKB77
+updated_at: '20200922084231'
+url: https://web.archive.org/web/20200922084231id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB1571&codcur=11010&codhab=0
