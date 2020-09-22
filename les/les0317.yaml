@@ -1,0 +1,37 @@
+courses:
+  activation: 01/01/2013
+  assessment: Uma única prova com toda matéria lecionada
+  bibliography: HOFFMANN, R.  Estatística para Economistas.  2ª edição.  São Paulo,
+    Pioneira, 1991. KARMEL, P.H. & POLASEK, M. Estatística Geral e Aplicada à Economia.
+    2ª edição.  Ed. Atlas, 1981. SPIEGEL, M.R. Probabilidade e Estatística.  São Paulo,
+    McGraw-Hill, 1977. (Coleção Shaum).
+  course: "1. Introdução , 2. Coleta e organização de dados,  - População e amostra,\
+    \ - Técnicas de amostragem,  - Amostragem representativa, - Organização de dados,\
+    \ - Tabelas, - Gráficos, 3. Probabilidade, - Teoria dos conjuntos, - Álgebra de\
+    \ conjuntos, - Definições de probabilidade, - Teoremas, - Independência, 4. Estatística\
+    \ Descritiva,  - Distribuição de freqüências, - Medidas de tendência central,\
+    \ - Medidas de dispersão, 5. Esperança matemática, - Variável aleatória, -Esperança\
+    \ matemática e suas propriedades, - Momentos, 6. Distribuições de probabilidades\
+    \ \x96 Uniforme, - Binomial, - Normal, 7. Parâmetros e seus Estimadores,  - Parâmetro\
+    \ e estimador, - Propriedade dos estimadores, - Intervalos de Confiança, 8. Teste\
+    \ de hipóteses,  - Conceitos Básicos, - O paradigma de\nNeyman-Pearson, - A dualidade\
+    \ entre os intervalos de confiança e testes de hipóteses, 9. Correlação e regressão\
+    \ linear simples,  - O coeficiente de correlação, - Regressão linear simples,\
+    \ - As propriedades estatísticas do método dos mínimos quadrados ordinários"
+  course_name: 'LES0317 - Estatística Aplicada I
+
+    Applied Statistics I'
+  deactivation: ''
+  instructors: 1603283 - Mirian Rumenos Piedade Bacchi
+  lecture_credits: '4'
+  objectives: 'Introduzir aos alunos as idéias elementares de Estatística sobre: organização
+    de dados em tabelas e gráficos; medidas descritivas, noção de variabilidade de
+    dados de observação e análise de informações obtidas através de levantamentos
+    na solução de problemas econômicos.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200922150838'
+digest: GS7XXFFXEKPSR3PCRBKSZQ73RQXPCLOZ
+updated_at: '20200922150838'
+url: https://web.archive.org/web/20200922150838id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0317&codcur=11050&codhab=1
