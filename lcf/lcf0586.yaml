@@ -1,0 +1,72 @@
+courses:
+  activation: 01/01/2011
+  assessment: Uma prova teórica abrangendo toda a matéria lecionada. A nota desta
+    prova é somada à média final da avaliação normal. A média simples dos dois valores,
+    se superior a 5,0 implicará na aprovação do aluno. Caso contrário, o aluno será
+    considerado reprovado.
+  bibliography: "Bateman, Thomas S & Snell, Scott A. (2009) Administração - novo cenário\
+    \ competitivo. Atlas, São Paulo. 673 p.\nBettinger, Pete; Boston, Kevin; Siry,\
+    \ Jacek; Grebner, Donald L. (2009) Forest Management and Planning. Academic Press,\
+    \ Elsevier. 331 p.\nBuongiorno, Joseph & Gilles, J. Keith (2003) Decision methods\
+    \ for forest resource management. Academic Press, New York,439 p.\nClutter, Jerome\
+    \ L. et al. (1983) Timber Management \x96 a quantitative approach. John Wiley,\
+    \ New York, 333 p.\nDavis, Lawrence; Johnson, K. Norman; Bettinger, Pete & Howard,\
+    \ Theodore (2001) Waveland, Long Grove. 804 p.\nDykstra, D.P. Mathematical programming\
+    \ for natural resource management. McGraw-Hill, New York, 318p. 1984.\nKent, Brent\
+    \ M. (1989) Forest Service land management planners\x92 introduction to linear\
+    \ programming. USDA FS, Fort Collins. General Technical Report RM-173. 36 p.\n\
+    Rodriguez, Luiz Carlos Estraviz (2009) Técnicas quantitativas para a gestão de\
+    \ florestas plantadas. (Apostila) Depto. Ciências Florestais \x96 ESALQ, Piracicaba.\
+    \ 103 p.\nRodriguez, Luiz Carlos Estraviz; Borges, José Guilherme (1999) Técnicas\
+    \ matemáticas para determinação de níveis sustentáveis de produção florestal:\
+    \ um exemplo em eucaliptal Revista Florestal, Lisboa, v. 12, n. 1/2, p. 83-92.\n\
+    Rodriguez, L.C.E.; Moreira, R. M. E. (1989) Gerenciamento de florestas de Eucalyptus\
+    \ com modelos de programação linear Ipef Série Técnica, Piracicaba, v. 6, p. 1-15"
+  course: 'A. Para cobrir os vários aspectos da Administração, os estudos dirigidos
+    cobrirão os seguintes temas: as funções da Administração e a evolução do pensamento
+    administrativo; a análise do ambiente externo; os estágios da tomada de decisão;
+    os diferentes níveis de planejamento e de gestão estratégica; o conceito de ética
+    e de responsabilidade empresarial; o conceito de empreendedorismo; os diferentes
+    tipos de estruturação organizacional; uma introdução à gestão de recursos humanos;
+    o conceito de liderança; técnicas de motivação para desempenho e gestão de equipes;
+    a importância da comunicação; e a gestão da inovação. B. Os temas relacionados
+    à Gestão Florestal cobrirão os seguintes temas: revisão de conceitos biométricos
+    e econômicos; modelos de crescimento e de produção; informação necessária para
+    a obtenção desses modelos; modelos matemáticos mais comuns; principais informações
+    fornecidas por esses modelos; critérios de avaliação econômica; informação necessária
+    para utilização desses critérios; critérios de decisão mais apropriados para as
+    anãlises florestais; situações onde a utilização desses critérios é válida; ordenamento
+    florestal; o conceito de manejo de produção sustentada; métodos de ordenamento
+    florestal por área e produção; técnicas correntes de planejamento florestal otimizado;
+    uma revisão de programação linear; o modelo básico de programação linear aplicado
+    ao manejo de recursos florestais; modelos de programação com múltiplos objetivos
+    no manejo de florestas envolvendo múltiplos recursos e produtos; coleta de dados,
+    análise e preparo de um plano de manejo envolvendo recursos e produtos florestais
+    múltiplos; utilização dos conceitos em estudos reais.'
+  course_name: 'LCF0586 - Gestão de Recursos Florestais
+
+    Management of Forest Resources'
+  deactivation: ''
+  instructors: 85364 - Luiz Carlos Estraviz Rodriguez
+  lecture_credits: '3'
+  objectives: 'O principal objetivo do curso é proporcionar os meios para aplicação
+    de modernas técnicas de elaboração de planos de manejo florestal.  Começando com
+    os tradicionais métodos de ordenamento florestal, evoluindo para técnicas de programação
+    matemática e utilizando métodos de planejamento sob múltiplos objetivos e múltiplos
+    recursos, o curso pretende aumentar a proficiência dos alunos em métodos matemáticos
+    e computacionais de auxílio ao processo de tomada de decisão.  Após completo o
+    curso espera-se que o estudante seja capaz de:  a) modelar sistemas florestais
+    reais envolvendo não só florestas voltadas para a produção de um único bem como
+    também florestas voltadas para a obtenção de múltiplos resultados, incluindo produtos
+    florestais tradicionais como resinas, madeiras para serraria ou polpa, etc. e
+    outros produtos menos tradicionais como recreação, valor cênico, água de boa qualidade,
+    etc. b) utilizar os devidos recursos computacionais capazes de processar os modelos
+    desenvolvidos no ítem anterior.  c) interpretar os resultados obtidos após a análise
+    dos modelos e tomar decisões ponderadas por esses resultados.'
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20200922152450'
+digest: OMGNFQMZAT4P4LAUUO2WM67ORX25NORW
+updated_at: '20200922152450'
+url: https://web.archive.org/web/20200922152450id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0586&codcur=11050&codhab=1
