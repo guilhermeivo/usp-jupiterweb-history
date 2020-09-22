@@ -1,0 +1,42 @@
+courses:
+  activation: 01/01/2014
+  assessment: A recuperação dos alunos será efetuada mediante prova, com data e horário
+    a serem marcados.
+  bibliography: "SCHAUM, D. & ROSEMBERG, J.C. Química Geral. Coleção Schaum. Editora\
+    \ Mc-Graw-Hill do Brasil\nLtda., 1966.\nKOLTHOFF, I.M. & SANDELL, E.B. Text Book\
+    \ of Quantitative Inorganic Analysis. 3a ed. The\nMacMillan Co., New York, 1967.\n\
+    GUNTHER, W.B. Química Quantitativa. Editora da Universidade de São Paulo, 1972.\n\
+    OHLWEILER, A.O.A. Teoria e Prática da Análise Quantitativa Inorgânica. 1968.\n\
+    RODELLA, A.A.; LAVORENTI, A.; ALVES, M.E.; KAMOGAWA, M.Y. QUÍMICA \x96 Guia de\
+    \ Aulas  Teóricas e Exercícios. Apostila preparada pelos professores do Departamento\
+    \ de Ciências Exatas \x96 ESALQ/USP, 2007\nVOGEL et al. Análise Inorgânica Quantitativa.\
+    \ 1978, 4a ed. Editora Guanabara S/A, 1981."
+  course: '1. Aulas Teóricas: 1.1. Conceito de soluções aquosas; 1.2. Equilíbrio químico;
+    1.3. Atividade iônica; 1.4. pH de soluções aquosas; 1.5. Solubilidade e produto
+    de solubilidade; 1.6. Complexos e quelatos; 1.7. Oxidação e redução. 2. Aulas
+    Práticas: 2.1. Unidades de concentração de soluções; 2.2. Introdução à Química
+    Analítica; 2.3. Gravimetria. Aplicações; 2.4. Métodos volumétricos de análise
+    química; 2.4.1. Volumetria de neutralização; 2.4.2. Quelatometria. Aplicações;
+    2.4.3. Volumetria de oxi-redução. Aplicações; 2.5. Métodos instrumentais de análise
+    química; 2.5.1. Colorimetria. Aplicações; 2.5.2. Fotometria de chama de emissão.
+    Aplicações; 2.5.3. Espectrofotometria de absorção atômica. Aplicações; 2.5.4.
+    Potenciometria. Aplicações.'
+  course_name: 'LCE0108 - Química Inorgânica e Analítica
+
+    Inorganic and Analytical Chemistry'
+  deactivation: ''
+  instructors: '5280826 - Marcos Yassuo Kamogawa
+
+    4860481 - Wanessa Melchert Mattos'
+  lecture_credits: '6'
+  objectives: Fornecer conhecimentos básicos teóricos e práticos de Química Inorgânica
+    e Analítica para que os alunos possam cursar diversas disciplinas profissionalizantes
+    dos cursos de Engenharia Agronômica e Engenharia Florestal, que fazem uso daqueles
+    conhecimentos.
+  practical_credits: '0'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20200922085208'
+digest: NPORJO4TUO4QPUJXI2B5LMWE6XP46OBM
+updated_at: '20200922085208'
+url: https://web.archive.org/web/20200922085208id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0108&codcur=11010&codhab=0
