@@ -1,0 +1,109 @@
+courses:
+  activation: 01/01/2019
+  assessment: Essa disciplina NÃO oferecerá prova de recuperação, uma vez que a nota
+    final é composta por várias atividades de trabalho além das notas de prova.
+  bibliography: 'Literatura Básica:
+
+    BERNARDO, S.; SOARES, A.A; MANTOVANI, E.C.  Manual de Irrigação.  Ed. Universidade
+    Federal de   Viçosa.  8 ed., 2013.  625p.
+
+    FOLEGATTI, M.V.  Manejo da Água em Sistemas Agrícolas.  Apostila LER.  2002.  120p.
+
+    FRIZZONE, J.a.; FREITAS, P.S.L.; REZENDE, R.; FARIA, M.A.. Microirrigação, gotejamento
+    e microaspersão. Maringá. EDUEM, 2012. 356 p.
+
+    GOLDEMBERG, J. & VILANUEVA, L.D.. Energia, Meio Ambiente e Desenvolvimento. 2
+    ed., São Paulo, EDUSP, 2003. 226 p.
+
+    LIMA, W.P..Princípios de Hidrologia Florestal para o Manejo de Bacias Hidrográficas.
+    ESALQ-USP, Depto. Ciências Florestais. 1990. 242p.
+
+    MAROVELLI, W.A.; SILVA, W.L.C.; SILVA, H.R.  Irrigação por aspersão em hortaliças.
+    Brasília: EMBRAPA Informação Tecnológica, 2008. 150p.
+
+    MAROVELLI, W.A.; SILVA, H.R.; SILVA, W.L.C.. Irrigação por aspersão em hortaliças,
+    qualidade da água, aspectos do sistema e método prático de manejo. Brasília. EMBRAPA.
+    2017. 200 p.
+
+    PEREIRA, A.R..; ANGELOCCI, L.R..; SENTELHAS, P.C.  Agrometeorologia: fundamentos
+    e aplicações práticas. Guaíba, Agropecuária, 2002. 478 p.
+
+    PEREIRA, A.R.; VILLA NOVA, N.A.; SEDYAMA, G. Evapo(transpi)ração. FEALQ, 183 p.,
+    1997.
+
+    SENTELHAS, P.C.; PEREIRA, A.R., ANGELOCCI, L.R. Meteorologia Agrícola. Apostila.
+    DFM/ESALQ/USP. 1999. 131 p.
+
+    Literatura Complementar:
+
+    BROOKS, K.N.; P.F. FFOLLIOTT; H.M. GREGERSEN; J.L. THAMES. Hydrology and the Management
+    of Watersheds. Iowa State University Press. 1991. 392p.
+
+    CUENCA, R.H.  Irrigation System Design.  Prentice Hall,  1989.  552p.
+
+    GOUDIE, A. & VILES, H. The Earth Transformed. An Introduction to Human Impacts
+    on the Environment, Blackwell Publishers, 1997. 276p.
+
+    HOFFMAN, G.S.; HOWELL, T.A. and SOLOMON, K.H.  Management of Farm  Irrigation
+    Systems.  ASAE, 1900.  1040p.
+
+    JENSEN, M.E.  Design and Operation of Farm Irrigation Systems.  ASAE,  1980.  829p.
+
+    KELLER, J. and BLIESNER, R.D.  Sprinkle and Trickle Irrigation.  Ed. Van Nostrand
+    Reinhold,  1990.  652p.
+
+    Pesticides in the soil Environment: Processes, Impacts, and Modeling. H.H. CHENG
+    (editor). Soil Science Society of America Book Series (Number 2), Madison, 1990,
+    530p. Disponível CENA e ESALQ.
+
+    SCHNEIDER, S.H. Climatic Change. v. 15. nos 1-2. p. 1-338. outubro 1989. London.
+
+    STWART, B.A. and NIELSEN, R.D.  Irrigation of Agricultural Crops. ASA, CSSA, SSSA.  Agronomy
+    No. 30, 1990.  1218p.'
+  course: '1) Introdução:   - importância do manejo da água em sistemas agrícolas
+    na bacia hidrográfica;  - considerações ambientais e econômicas; 2) Técnicas de
+    controle da água aplicada via irrigação ou chuva:  2.1. Controle via dados de
+    solo; - água armazenada no solo;   - água disponível (conceitos); - balanço hídrico;
+    - potencial da água no solo.  2.2. Controle via dados da planta: - potencial da
+    água na planta; - temperatura do dossel; - índices de estresse hídrico;  - parâmetros
+    fisiológicos. 2.3. Controle via dados de clima - fórmulas para determinação da
+    evapotranspiração;   - tanque classe A; - estações meteorológicas. 2.4. Métodos
+    combinados: - solo e planta;  - solo e clima;    - solo, planta e clima. 3) Instrumentos
+    para o controle da irrigação  - tensiômetros; - Time Domain Reflectance (T.D.R.);
+    - sonda de nêutrons; - blocos de resistência elétrica; - tanque classe A;  - estações
+    meteorológicas;  - radiômetros, psicrômetros, termômetro infra-vermelho; termopares,
+    anemômetros,    pluviômetros.  4) Métodos de controle da água aplicada em função
+    do método de irrigação - irrigação por aspersão, sulcos, localizada e inundação.
+    5) Resposta das culturas à irrigação  - funções de produção: lâmina aplicada e
+    produtividade para as  diferentes culturas;  - variedades desenvolvidas para irrigação.
+    6) Irrigação em regiões áridas, úmidas e tropicais - caracterização da necessidade
+    de água das diferentes culturas nas diferentes regiões; - método de controle associado
+    ao clima e método de irrigação. 7) Energia utilizada na irrigação - economia de
+    energia e método de controle da irrigação; - energia elétrica e díesel. 8) Quimigação
+    - técnicas e fatores que influenciam: - fertirrigação; - insetigação; - herbigação;
+    - fungigação. 9) Manejo da Água em Sistemas Agrícolas e  Ambiente - lixiviação
+    de nutriente com excesso de aplicação de água e  contaminação do lençol freático;  -
+    monitoramento da aplicação de agroquímicos com a água e seu monitoramento no ambiente;
+    - esgotamento dos mananciais de água - dimensionamento de equipamentos e runoff.
+    - manejo da irrigação e salinidade;  - manejo da irrigação e mudanças no microclima.
+    10) Noções de Excel para desenvolvimento de planilha de gerenciamento. 11) Noções
+    de AutoCAD para projetos.'
+  course_name: 'LEB0606 - Manejo da Irrigação e da Água em Sistemas Agrícolas
+
+    Water and Irrigation Management in Agricultural Systems'
+  deactivation: ''
+  instructors: 1286078 - Patricia Angélica Alves Marques
+  lecture_credits: '4'
+  objectives: 'Os objetivos da disciplina Manejo da Irrigação e da Água em Sistemas
+    Agrícolas são: 1) Discutir a importância do manejo da Água em Sistemas Agrícolas
+    na bacia hidrográfica; 2) discutir os princípios dos principais métodos de controle
+    da água sistemas agrícolas, que se baseiam no solo, na planta, no clima ou na
+    combinação destes; 3) fazer com que os alunos se familiarizem com os equipamentos
+    disponíveis e trabalhem com dados reais.'
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20200922085828'
+digest: N2CWG34W5KA3SP32ITNOO5SCOO55X666
+updated_at: '20200922085828'
+url: https://web.archive.org/web/20200922085828id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0606&codcur=11010&codhab=0
