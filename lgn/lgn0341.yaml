@@ -1,0 +1,65 @@
+courses:
+  activation: 01/01/2017
+  assessment: '- Não há prova de recuperação'
+  bibliography: 'Alberts, B. Johnson, A., Lewis, J., Raff, M., Roberts, K., Walter,P.
+    2002. Molecular Biology of the Cell. Garland Sciences, New York. pp. 1463.
+
+    Appels R, Morris R, May C.E. 1998. Chromosome Biology. Springer-Verlag New York.
+    pp. 401.
+
+    Sumner, A.T. 2003. Chromosomes: organization and function. Blackwell Science,
+    Berlin. pp. 287.
+
+    Singh, R.J. 2002. Plant Cytogenetics. CRC Press, Boca Raton. pp. 463.
+
+    Turner, B.M. 2001. Chromatin and gene regulation: mechanisms in epigenetics. Blackwell
+    Science Ltd, Oxford. pp. 284.
+
+    Wolffe, A. 2000. Chromatin: structure and function. Second edition. Academic Press,
+    London. pp. 447.'
+  course: 'Citogenômica: Introdução Biologia Cromossômica com concentração em Citogenética
+    abordando: a) Estrutura molecular da cromatina e a organização do cromossomo;
+    b) Nucleossomo como unidade estrutural da cromatina; c) Conceito de genoma; d)
+    Organização do genoma; e) Genômica comparativa ao nível cromossômico e molecular
+    f) Ciclo celular e mitose; g) Meiose, recombinação e geração da variabilidade
+    genética; h) Poliploidia e aneuploidia; i) Alterações cromossômicas estruturais;
+    j) Aplicações em Ciências Biológicas, Agrárias e Médicas. Epigenética: Introdução
+    ao conceito de epigenética com concentração na dinâmica da cromatina abordando:
+    a) Histórico da Epigenética; b) Mecanismos da herança epigenética; c) Mecanismos
+    de modificação do DNA; d) Modificações pós-translacionais de histonas; e) Código
+    Epigenético; f) Dinâmica da cromatina; f) Heterocromatina; g) Transcrição no contexto
+    da cromatina; h) Conceito de imprinting, compensação de dose e memória celular.
+
+    Cytogenomics: Introduction to Chromosome Biology with emphasis in Cytogenetics
+    comprising: a) Molecular structure of the chromatin and chromosome organisation;
+    b) Nucleosome as the chromatin''s structural unit; c) Concepts of Genome; d) Genome
+    organisation; e) Chromosomal and molecular comparative genomics; f) Cell cycle
+    and mitosis; g) Meiosis, recombination and genetic variability; h) Polyploidy
+    and aneuploidy; i) Chromosomal rearrangements; j) Applications for Plant, Animal
+    and Medical Sciences. Epigenetics: Introduction to epigenetics with emphasis in
+    chromatin dynamics, comprising: a) The history of Epigenetics; b) Mechanism of
+    epigenetic inheritance; c) Mechanisms of DNA modification; d) Post-translational
+    modification of histones; e) Epigenetic code; f) Chromatin dynamics; g) Heterochromatin;
+    h) Transcription in a chromatin environment; i) Concepts of imprinting, dosage
+    compensation and cellular memory.'
+  course_name: 'LGN0341 - Citogenômica e Epigenética
+
+    Cytogenomics and  Epigenetics'
+  deactivation: ''
+  instructors: 1362820 - Mateus Mondin
+  lecture_credits: '4'
+  objectives: 'Esta disciplina tem como principal objetivo introduzir os estudantes
+    a Biologia dos Cromossomos e da Cromatina e sua importância para a Genética, a
+    Biologia Molecular e a Evolução, bem como suas aplicações nas Ciências Biológicas,
+    Agrárias e Médicas.
+
+    The main aim of the discipline is introduce the students to Chromosome and Chromatin
+    Biology and its importance to Genetics, Molecular Biology and Evolution, as well
+    its applications for Animal, Plant and Medical Sciences.'
+  practical_credits: '2'
+  total_workload: 120 h
+  type: Semestral
+created_at: '20200922154309'
+digest: NZFVYMMIZOHOL3B65XPZH6OHO4H7M7BF
+updated_at: '20200922154309'
+url: https://web.archive.org/web/20200922154309id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0341&codcur=11010&codhab=0
