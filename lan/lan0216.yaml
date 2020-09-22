@@ -1,0 +1,54 @@
+courses:
+  activation: 01/01/2019
+  assessment: 'Caso a média semestral seja menor do que 5,0 o aluno deverá fazer a
+    recuperação.
+
+    A recuperação será feita por meio de uma prova da qual constará toda a matéria
+    lecionada na disciplina.
+
+    A média final, após recuperação, será:
+
+    - 5,0: se (média semestral + recuperação)/2 ≥ 5,0
+
+    - média semestral: se (média semestral + recuperação)/2 < 5,0'
+  bibliography: 'Básica
+
+    ATKINS, P. W.; PAULA, J. C. de. Físico-Química – Fundamentos. 5ª edição. Rio de
+    Janeiro: Editora LTC, 2011.
+
+    FENNEMA, O. R. Food Chemistry. New York: Marcel Dekker, 1996.
+
+    WALSTRA, P. Physical Chemistry of Foods. New York: Marcel Dekker, 2003.
+
+    Complementar
+
+    CASTELLAN, G. Fundamentos de Físico-Química. Rio de Janeiro: LTC, 1986.
+
+    MEIRELES, M. A. A.; PEREIRA, C. G. (Ed.). Fundamentos de Engenharia de Alimentos.
+    São Paulo: Editora Atheneu, 2013.
+
+    MOORE, W.S. Físico-Química, volume 1. São Paulo: Edgard Blucher, 1976.
+
+    MOORE, W.S. Físico-Química, volume 2. São Paulo: Edgard Blucher, 1976.
+
+    RESNICK, R.; HALLIDAY, D. Física I, Volume 2. Rio de Janeiro: LTC, 1976.'
+  course: 'Introdução. Fundamentos, grandezas e unidades. Propriedades de gases ideais
+    e reais. Termodinâmica: Primeira, Segunda e Terceira Lei da Termodinâmica. Aplicações.
+    Equilíbrio de fases: substâncias puras e misturas. Propriedades de misturas. Equilíbrio
+    químico: princípios, soluções e aplicações. Água em alimentos e atividade de água.
+    Dispersões e sistemas coloidais.'
+  course_name: 'LAN0216 - Fisíco-Química e sua Aplicação em Alimentos
+
+    Physical Chemistry and its Application to Foods'
+  deactivation: ''
+  instructors: 8710473 - Pedro Esteves Duarte Augusto
+  lecture_credits: '4'
+  objectives: Proporcionar aos alunos conhecimentos sobre os princípios da termodinâmica
+    e do equilíbrio químico, bem como aplicações em Ciências dos Alimentos.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20200922143024'
+digest: T4RL26IWL3OUNYWVKWIN7JU4CJ3NIYMY
+updated_at: '20200922143024'
+url: https://web.archive.org/web/20200922143024id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN0216&codcur=11010&codhab=0
