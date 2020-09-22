@@ -1,0 +1,51 @@
+courses:
+  activation: 01/01/2017
+  assessment: Uma prova geral que envolve toda a matéria lecionada (teórico-prática)
+    no início do semestre
+  bibliography: 'BARNES, R.D. 1990. Zoologia dos invertebrados. 4ª ed., Roca, São
+    Paulo, 1179 p.
+
+    BRUSCA, R.C. & G.J. BRUSCA. 2002. Invertebrates. Segunda edição. Sinauer Associates,
+    Inc.,
+
+    Sunderland, 936 p.
+
+    HICKMAN, Jr. C.P., L.S. ROBERTS & A. LARSON. 2003. Princípios integrados de zoologia.
+
+    11a ed. Editora Guanabara Koogan S.ª, Rio de Janeiro, 846 p.
+
+    PASCHOAL, A.D.; MONTEIRO, A.R.; FERRAZ, L.C.C.B.; INOMOTO, M.M. Fundamentos de
+
+    Zoologia agrícola e Parasitologia.  Animais  do  meio  rural  e   sua   importância.  Piraci-
+
+    caba, Depto. Zoologia, ESALQ, 1996. 244 p.'
+  course: Caracterização dos filos Platyhelminthes e Nematoda. Parasitas humanas e
+    zoonoses veiculadas pela água e pela água de irrigação (esquistossomose, ascaridíase
+    e cisticercose). Parasitoses humanas veiculadas pelo solo e pelo ar (ancilostomíase,
+    estrongiloidose e enterobíase). Caracterização dos filos Annelida e Mollusca,
+    e sua importância em atividades agrícolas e florestais. Nematoides de vida livre
+    e como agentes de controle biológico de pragas agrícolas e florestais, e vetores
+    de doenças do homem. Caracterização do filo Arthropoda e sua importância em atividades
+    agrícolas e florestais. Acidentes causados por aranhas e escorpiões no Brasil.
+    Diversidade da subclasse Acari e ácaros de importância médico-veterinária. Caracterização
+    do filo Chordata e suas principais classes (peixes, anfíbios, répteis, aves e
+    mamíferos). Efeito das atividades agrícola e florestal sobre a biodiversidade
+    de peixes, anfíbios e répteis. Efeito das atividades agrícola e florestal sobre
+    a biodiversidade de aves e mamíferos. Ofidismo no Brasil. Importância biológica
+    dos morcegos. Danos causados por morcegos e ratos.
+  course_name: 'LFN0212 - Zoologia Aplicada às Engenharias Agronômica e Florestal
+
+    General Zoology and Parasitology'
+  deactivation: ''
+  instructors: 57380 - Mario Massayuki Inomoto
+  lecture_credits: '2'
+  objectives: Oferecer aos alunos conhecimentos atualizados sobre Zoologia Aplicada
+    à Engenharia Agronômica e Florestal, portanto enfatizando os grupos animais e  as
+    espécies mais importantes ocorrentes no ambiente rural.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20200922153016'
+digest: 73JYZJ57K5XZRRVLRWGV2JV3IVTG3MRZ
+updated_at: '20200922153016'
+url: https://web.archive.org/web/20200922153016id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LFN0212&codcur=11010&codhab=0
