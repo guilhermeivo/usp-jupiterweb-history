@@ -1,0 +1,34 @@
+courses:
+  activation: 01/01/2013
+  assessment: Estará apto a efetuar a prova de reavaliação o aluno que tiver como
+    média final na disciplina uma nota igual ou superior a três (3,0) e inferior a
+    cinco (5,0), e tiver, no mínimo, 70% (setenta por cento) de freqüência às aulas.
+    O cálculo de uma média aritmética simples será feito com a nota da prova de reavaliação
+    e a média final obtida pelo aluno na disciplina. Se esta média resultar em nota
+    igual ou superior a cinco (5,0), o aluno será aprovado.
+  bibliography: "\x95 WELSCH, G.A. Orçamento empresarial. Tradução para o português.\
+    \ São Paulo: Atlas, 1983. 4a. ed.\n\x95 HORNGREN, C. T., SUNDEM, G. L., STRATTON,\
+    \ W. O., Introduction to management accounting. EUA: Prentice Hall, 1996. \x95\
+    \ TUNG, N.H. Orçamento empresarial e custo padrão. São Paulo: Universidade Empresa,\
+    \ 1994. 4a.ed. \x95 MOREIRA, J. C., Orçamento empresarial: Manual de elaboração.\
+    \ São Paulo: Atlas, 1987. 4a. ed. \x95 SANVICENTE, A. Z., SANTOS, C. C., Orçamento\
+    \ na administração da empresa - Planejamento e controle. São Paulo: Atlas, 1979.\
+    \ \x95 GITMAN, L.J. Princípios de administração financeira. Tradução para o português.\
+    \ São Paulo: Harper & How do Brasil, 1984. 3a. ed.  \x95 Textos e artigos selecionados."
+  course: O curso visa fornecer, aos alunos, base teórica e prática do uso do Orçamento
+    Empresarial como instrumento de administração de empresas.
+  course_name: 'LES0800 - Orçamento Empresarial
+
+    Business Budget'
+  deactivation: ''
+  instructors: 93929 - Alex Coltro
+  lecture_credits: '2'
+  objectives: O curso visa fornecer, aos alunos, base teórica e prática do uso do
+    Orçamento Empresarial como instrumento de administração de empresas.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20200922153047'
+digest: 3NAAK7N42K4MALPDGBSJHVBBEJCHDG4I
+updated_at: '20200922153047'
+url: https://web.archive.org/web/20200922153047id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0800&codcur=11090&codhab=1
