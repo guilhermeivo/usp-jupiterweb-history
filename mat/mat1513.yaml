@@ -1,0 +1,31 @@
+courses:
+  activation: 01/01/2018
+  assessment: Cada docentes (ou equipe), deverá decidir qual o peso p onde 1<=p<=4.
+    A média final, será média ponderada da nota do semestre com a da recuperação com
+    o peso acima.
+  bibliography: E. L. Lima et al., A Matemática do Ensino Médio, Coleção do Professor
+    de Matemática, SBM; E.L.Lima, Logaritmos, Coleção do Professor de Matemática,
+    SBM; M.P. do Carmo et al., Trigonometria Números Complexos, Coleção do Professor
+    de Matemática, SBM; Coletânea de textos e atividades da disciplina MAT-1513 (Laboratório
+    de Matemática).
+  course: Noções de Lógica. Linguagem básica da Teoria dos Conjuntos. Funções trigonométricas,
+    exponenciais e logarítmicas; Princípio da Indução Finita; números complexos de
+    um ponto de vista geométrico. Tópicos livres de matemática elementar. Em todos
+    itens deve ser garantida a resolução de problemas pelos alunos.
+  course_name: 'MAT1513 - Laboratório de Matemática
+
+    Math Lab'
+  deactivation: ''
+  instructors: 565095 - Antonio Carlos Brolezzi
+  lecture_credits: '4'
+  objectives: Discutir tópicos relevantes do Ensino Básico, tendo em vista propiciar
+    um embasamento conceitual adequado. Favorecer a compreensão da natureza do pensamento,
+    da linguagem e do fazer matemáticos. Apresentar situações-problema que desafiem
+    e impulsionem a autonomia e pensamento dos alunos.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200927175136'
+digest: JGZNQ64ODKJNX6IM3U33UBK254GIJ7ML
+updated_at: '20200927175136'
+url: https://web.archive.org/web/20200927175136id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT1513&codcur=45024&codhab=1
