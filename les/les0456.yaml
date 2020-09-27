@@ -1,0 +1,72 @@
+courses:
+  activation: 01/01/2017
+  assessment: Uma única prova, com toda a matéria lecionada.
+  bibliography: 'Literatura Básica:
+
+    Besanko, D. e R. R. Braeutigam.  Microeconomics. John Willey & Sons Inc, 2014.
+    5ª. Edição. (BE)
+
+    Binger, B.B. e E. Hoffmann. Microeconomics with Calculus.  Addison-Wesley, 1998.  2nd
+    Edition. (BH)
+
+    FERGUSON, C.E.  Microeconomia.  2a. ed.  Rio de Janeiro, Florense Universitária,
+    1978.
+
+    HENDERSON, J.M; QUANDT, R.E.  Teoria Microeconômica: uma abordagem matemática.
+    3ª ed.,
+
+    Nicholson, W.  Microeconomics Theory: basic principles and extensions.  South-Western
+    & Thomson Learning, 2008. 10th Edition. (NI)
+
+    Pindyck, R. S. e D. L. Rubinfeld.  Microeconomia.  São Paulo, SP: Editora Prentice
+    Hall, 2013. 8ª. Edição. (PR) www.prenhall.com/pindyck_br ou http://wps.prenhall.com/bp_pindyck_6/
+
+    Varian, H.R.  Microeconomia: princípios básicos.  São Paulo: Elsevier Editora
+    Ltda, 2006. 7a. Edição.'
+  course: '1. Introdução ; 1.1. Visão Geral da Microeconomia. 2. Teoria do Comportamento
+    do Consumidor.  2.1. Comportamento do Consumidor. 2.2. Maximização de Utilidade.
+    2.3. Funções de Demanda por Bens Finais. 2.4. Elasticidades Preço e Renda. 2.5.
+    Efeito Substituição e Efeito Renda. 3. Teoria da Firma. 3.1. Comportamento da
+    Firma. 3.2. Maximização de Produção com restrição. 3.3. Funções de Custo. 3.4.
+    Minimização de Custos com restrição. 3.5. Maximização de Lucros. 3.6. Funções
+    de Oferta. 4. Equilíbrio de Mercado em Concorrência Perfeita. 4.1. Equilíbrio
+    no Curto Prazo. 4.2. Equilíbrio no Longo Prazo. 5. Análise de mercados competitivos.
+    5.1 Excedente do consumidor e do produtor. 5.2 Impostos e subsídios. 5.3 Preços
+    mínimos. 5.4 Quotas, Impostos e Subsídios. 6. Monopólio e Monopsônio. 6.1. Monopólio
+    e poder de monopólio; 6.2 Fontes do poder de monopólio. 6.3. Monoposônio e Poder
+    de Monopsônio. 6.4. Limitações de Mercado. 7. Concorrência Monopolística e Oligopólio.
+    7.1. Concorrência Monopolística. 7.2. Oligopólio: modelos de Cournot, Stackelberg
+    e Bertrand.
+
+    1. Introduction; 1.1. General vision of microeconomics. 2.Consumer behavior theory.  2.1.
+    Choice. 2.2. Utility maximization. 2.3. Consumer demand. 2.4. Elasticitties. 2.5.
+    Income and substitution effects. 3. Firm theory. 3.1. Production functions. 3.2.
+    Technology. 3.3. Cost functions. 3.4. Minimization cost. 3.5. Maximization profit.
+    3.6. Supply. 4. Market equilibrium in perfect competition. 4.1. Equilibrium in
+    short run. 4.2. Equilibrium in long run. 5. Analyses of competitive markets. 5.1
+    Consumer and producer surplus. 5.2 Tax and subsidy. 5.3 Floor prices. 5.4 Quotes.
+    6. Monopoly and Monopsony. 6.1. Market power in monopoly; 6.2 Sources of Market
+    power in monopoly 6.3. Market power in monopoly. 6.4. Market failures. 7. Monopolist
+    competition and oligoply. 7.1. Monopolistic competition 7.2. Models of Oligopoly:
+    Cournot, Stackelberg e Bertrand.'
+  course_name: 'LES0456 - Teoria Microeconômica I
+
+    Microeconomic Theory I'
+  deactivation: ''
+  instructors: 1906631 - Silvia Helena Galvao de Miranda
+  lecture_credits: '4'
+  objectives: 'Proporcionar o entendimento do processo de formação de preços, através
+    da interação entre oferta e demanda, dentro de uma economia de mercado.O instrumental
+    elaborado permitirá ao aluno ter uma capacidade de analisar problemas microeconômicos
+    relacionados principalmente à agricultura e agroindústria.
+
+    The purpose of this course is to learn how prices are formed when supply and demand
+    interacts in a Market economy.  These tools will permit students to understand
+    microeconomic problems related to the agribusiness sector.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200927173456'
+digest: XZ5HQ6473KVSVHHEDXPHGGEQ32D6FEUD
+updated_at: '20200927173456'
+url: https://web.archive.org/web/20200927173456id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0456&codcur=11010&codhab=0
