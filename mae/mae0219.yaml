@@ -1,0 +1,27 @@
+courses:
+  activation: 01/01/2018
+  assessment: Usuais.
+  bibliography: 'W. O. Bussab, P. A. Morettin, Estatística Básica, 8a ed., São Paulo:
+    Editora Saraiva, 2013.
+
+    M. N. Magalhães, A. C. Pedroso de Lima, Noções de Probabilidade e Estatística,
+    7a ed., 3ª reimpressão revista, São Paulo: Edusp, 2015.'
+  course: "1.\tAnálise exploratória de dados.\n2.\tEspaços amostrais, probabilidade\
+    \ condicional e independência.\n3.\tVariáveis aleatórias discretas e contínuas.\n\
+    4.\tDistribuições binomial, hipergeométrica, Poisson, normal e exponencial.\n\
+    5.\tAproximação da binomial pela normal.\n6.\tVariáveis aleatórias bidimensionais.\n\
+    7.\tNoções de simulação."
+  course_name: 'MAE0219 - Introdução à Probabilidade e a Estatística I
+
+    Introduction to Probability and Statistics I'
+  deactivation: ''
+  instructors: 24424 - Pedro Alberto Morettin
+  lecture_credits: '4'
+  objectives: Fornecer ideias básicas de probabilidade e estatística.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200927173818'
+digest: NY7BEPMIQFFWNNMZAJF4ORZB4Y6DZN2D
+updated_at: '20200927173818'
+url: https://web.archive.org/web/20200927173818id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAE0219&codcur=12051&codhab=4
