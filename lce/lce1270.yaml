@@ -1,0 +1,98 @@
+courses:
+  activation: 01/01/2020
+  assessment: Será feita sob a forma de uma prova com duas horas de duração, aplicada
+    após o término das aulas, em época determinada pela USP. A média final será a
+    média aritmética entre a nota desta prova e a média obtida no semestre.
+  bibliography: 'AZEVEDO FILHO, A. J. B.V. .Princípios de Inferência Dedutiva e Indutiva:
+    Noções de Lógica e Métodos de Prova. 1/1. ed. Scotts Valley, EUA: CreateSpace
+    Publishers, 2010. v. 1. 140p .
+
+    BARBOSA L. P.;MORAES W. F. A. Estratégias em Ambientes Hipercompetitivos: O Caso
+    da Indústria Brasileira de Embalagens para Cervejas e Refrigerantes. 2016. Disponível
+    em:< http://www.anpad.org.br/admin/pdf/enanpad2001-eso-276.pdf>. Acesso em: 20/02/2019.
+
+    COELHO A. C. As 7 tendências para o uso de inteligência artificial no Direito
+    em 2018. Thomson Reuters The AnswerCompany. 2018. Disponível em:
+
+    Acesso em: 21/2/2019.
+
+    CURY R. G.; SERAFIM J. S. A Formação em Ciência de Dados: Uma Analise Preliminar
+    do Panorama Estadunidense.  DOI: 10.5433/1981-8920.2016v21n2p307. 2016. Disponível
+    em
+
+    . Acesso em: 20/02/2019.
+
+    GALDINO N. Big Data: Ferramentas e Aplicabilidade. IESSA. 2016. Disponível em:
+
+    .  Acesso em: 20/2/2019.
+
+    GOVERNO FEDERAL. Agenda brasileira para a Indústria 4.0 – O Brasil Preparado para
+    os Desafios do Futuro. Ministério da Industria Comercio e Serviços. Disponível
+    em: < http://www.industria40.gov.br/>. Acesso em: 20/02/2019.
+
+    HEKIMA. O guia definitivo de Big Data para iniciantes.  Big Data Business. 2019.
+    Disponível em: < http://www.mettodo.com.br/ebooks/O_guia_definitivo_de_Big_Data_para_iniciantes.pdf
+    >Acesso em: 21/2/2019.
+
+    INTEL IT CENTER. Introdução à Big Data. Guia de Planejamento. 2014. Disponível
+    em:
+
+    . Acesso em: 20/02/2019.
+
+    OVANESSOFFA.; PLASTINO E. Como a Inteligência Artificial pode Acelerar o Crescimento
+    de América do Sul. 2018. Disponível em: https://www.accenture.com/t20170927T065936Z__w__/us-en/_acnmedia/PDF-50/Accenture-Como-a-inteligencia-artificial-acelero-crescimento-da-america-do-sul.pdf.  Acesso
+    em: 20/02/2019.
+
+    SANTOS R. Introdução à Mineração de Dados com Aplicações em Ciências Ambientais
+    e Espaciais. LAC-INPE.2012. Disponível em:
+
+    . Acesso em: 20/02/2019.
+
+    TEIXEIRA T.M.C. Uma Reflexão Teórica Sobre a Subjetividade da Informação.  Perspectivas
+    em: Ciência da Informação, v.22, n.4, p.82-97, out./dez. 2017. Disponível em:
+
+    . Acesso em: 20/02/2019.
+
+    VON ZUBEN F. Introdução à Inteligência Artificial. DCA/FEEC/Unicamp. 2017. Disponível
+    em:
+
+    . Acesso em: 20/02/2019.'
+  course: 'Inteligência Artificial (IA): conceito, algoritmos: Rain Forest, Support
+    Vector Machine, NaiveBayes, E Clasification e RegressionTree. Aplicações em gestão,
+    engenharia, biologia, ambiência, economia, gestão de negócios e pesquisa.Aprendizado
+    de máquina e redes neurais, comparação de resultados com métodos estatísticos
+    convencionais, linguagens R, Python, SAS e outras. Noções introdutórias: Regressão
+    Logística, MANOVA, NPMANOVA, Funções Canônicas, DiscriminanteNP. Aplicação de
+    IA,Big Data VsSmall Data, trade off,  Big Data (petabytes, noções de Ferramentas:
+    Inteligência Artificial, Machine Learning, Redes Neurais, HDFS, YARN, Hadoop,
+    MAP REDUCE, etc. para desenvolver produtos hipercompetitivos) Small Data (terabytes,
+    noções de Ferramentas: Inteligência Artificial, Machine Learning, Redes Neurais,
+    testes de hipóteses, métodos robustos, multivariados, univariados, paramétricos,
+    etc., para decisões internas das organizações, acabamento dos produtos hipercompetitivos,
+    etc.)  e Tecnologias de Gestão  (como LeanSartup_Amazom, TQM_Toyota-Porsche-GE,
+    ISO-9001-14001-22000-27000-17025,etc.GlobalGAP, BSC, PNQ,PPQ, EQA,  6 Sigma, Malcolm
+    Baldrige, Deming Prize,LeanCanvas, QFD, FMEA/FTA, RCA,   etc.)  na Industria,
+    Serviços Marketing e Fazenda  4.0 Visando Hipercompetitividade.'
+  course_name: 'LCE1270 - Inteligência Artificial, Big-Small Data e Gestão para Indústria,
+    Serviços e Fazenda  4.0
+
+    Artificial Intelligence, Big-Small Data and Management for Industry, Services
+    and Farm 4.0'
+  deactivation: ''
+  instructors: '5542817 - Cristian Marcelo Villegas Lobos
+
+    2553644 - Edwin Moises Marcos Ortega
+
+    2688982 - Gabriel Adrian Sarries'
+  lecture_credits: '4'
+  objectives: Desenvolver no aluno senso crítico em Inteligência Artificial, Big-Small
+    Data e Gestão para Indústria, Serviços Marketing, Economia e Fazenda 4.0, buscando
+    aumentar significativamente sua empregabilidade e competitividade quando ingressar
+    no mercado de trabalho.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200927174955'
+digest: JDPMSJTVTQBVTK6IXNJYP7PYG55KJ6Q6
+updated_at: '20200927174955'
+url: https://web.archive.org/web/20200927174955id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE1270&codcur=11050&codhab=1
