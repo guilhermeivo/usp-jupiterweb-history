@@ -1,0 +1,42 @@
+courses:
+  activation: 01/01/2007
+  assessment: Uma prova Escrita Teórico-Prática.
+  bibliography: 'Literatura Básica :
+
+    BERTONI, J. & LOMBARDI NETO, F. Conservação do solo. Livroceres. 1985, 368 pág.
+
+    BRADY, N.C.; BUCKMAN H.O. Natureza e propriedades dos Solos, 6º ed. Rio de Janeiro,
+    Freitas Bastos. 1983. 647p.
+
+    Literatura Complementar :
+
+    MONEGAT, C. Plantas de cobertura do solo. Características e manejo em pequenas
+    propriedades. Chapecó. 1991, 336 pág.
+
+    REICHARDT, K. Água em sistemas agrícolas. Ed. Manoel. 1987, 188 pág.'
+  course: "-\tCaracterização da Estrutura do solo. Agregação do solo.\n-\tFrações\
+    \ volumétricas do solo.\n-\tDensidade do solo e das partículas\n-\tPorosidade\
+    \ do solo.\n-\tAeração do solo.\n-\tÁgua no solo. Quantificação da umidade do\
+    \ solo.\n-\tÁgua no solo. Retenção e armazenamento de água no solo.\n-\tÁgua no\
+    \ solo. Movimento da água.\n-\tTemperatura do solo.\nPrático\n-\tAnálise de agregados\
+    \ e densidade do solo.\n-\tAnálise granulométrica.\n-\tExercício sobre aeração.\n\
+    -\tExercício sobre armazenamento de água no solo.\n-\tAnálise da curva de retenção\
+    \ da água no solo e exercício sobre o potencial do solo.\n-\tQuantificação da\
+    \ condutividade hidráulica do solo.\n-\tTemperatura do solo."
+  course_name: 'LSO0310 - Física do Solo
+
+    Soil Physics'
+  deactivation: ''
+  instructors: '5466913 - Laura Fernanda Simões da Silva
+
+    1400231 - Miguel Cooper'
+  lecture_credits: '2'
+  objectives: "-\tApresentar ao aluno as principais propriedades físicas do solo relacionadas\
+    \ à estrutura e ao comportamento da água."
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20200927175441'
+digest: YKG2HRCKYOQLSOZIPYYQLHLJ6RSCMFFM
+updated_at: '20200927175441'
+url: https://web.archive.org/web/20200927175441id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LSO0310&codcur=11010&codhab=0
