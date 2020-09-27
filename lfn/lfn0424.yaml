@@ -1,0 +1,45 @@
+courses:
+  activation: 01/01/2015
+  assessment: Não há Prova de Recuperação
+  bibliography: 'Literatura Básica:
+
+    AMORIM, L.; REZENDE, J.A.M. & BERGAMIN  FILHO, A. (Eds.).  2011. Manual de Fitopatologia.
+    Vol. 1. Ed. Agronômica Ceres, São Paulo, 704 pp.
+
+    KIMATI, H., AMORIM, L., REZENDE, J.A.M., BERGAMIN FILHO, A., CAMARGO, L.E.A. (Eds.).
+    2005. Manual de Fitopatologia, Vol. II - Doenças das Plantas Cultivadas. 4ª edição.
+    Editora Agronômica Ceres Ltda. São Paulo, 663 pp.'
+  course: 'TEÓRICO
+
+    - Histórico e importância da fitopatologia; conceito de doença; principais agentes
+    causais de doença; ciclo das relações patógeno-hospedeiro: processos de sobrevivência,
+    disseminação, infecção, colonização e reprodução; princípios de fisiologia e bioquímica
+    do parasitismo; epidemiologia; princípios gerais de controle: exclusão, erradicação,
+    proteção, imunização, terapia; modalidades de controle: cultural, biológico, genético,
+    químico e físico; resistência de plantas a patógenos.
+
+    PRÁTICO
+
+    - Postulados de Koch - associação constante, isolamento, reprodução dos sintomas,
+    reisolamento; sintomas e sinais; classificação de doenças de plantas: principais
+    grupos de doenças bióticas e abióticas; clínica e métodos de diagnose de doenças
+    de plantas, métodos de controle de doenças de plantas.'
+  course_name: 'LFN0424 - Fitopatologia
+
+    Plant Pathology'
+  deactivation: ''
+  instructors: '52923 - Ivan Paulo Bedendo
+
+    2089500 - Jorge Alberto Marques Rezende'
+  lecture_credits: '4'
+  objectives: Capacitar o aluno para o entendimento dos conceitos e princípios fundamentais
+    da fitopatologia. Conscientizar o acadêmico sobre a importância das doenças no
+    processo produtivo. Prover conhecimentos sobre a interação patógenos-hospedeiros,
+    métodos de diagnose e manejo de doenças visando a redução dos danos às culturas.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200927171931'
+digest: C5H7M5R6OWKXTXLYSCNZGUWWS52P5TXT
+updated_at: '20200927171931'
+url: https://web.archive.org/web/20200927171931id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LFN0424&codcur=11010&codhab=0
