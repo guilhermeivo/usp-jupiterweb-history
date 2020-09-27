@@ -1,0 +1,35 @@
+courses:
+  activation: 01/01/2014
+  assessment: Uma única prova, com toda a matéria lecionada.
+  bibliography: "Bruni, Adriano L., Fama, Rubens. Gestão de custos e formação de preços.\
+    \ 5. Ed. , São Paulo: Atlas, 2008; Garrison, Ray H., Noreen, Eric W., Brewer,\
+    \ Peter C. Contabilidade gerencial. 11. ed., Rio de Janeiro: LTC, 2007; Hansen,\
+    \ Don R., Mowen, Maryanne M., Gestão de custos \x96 contabilidade e controle.\
+    \ São Paulo: Pioneira Thomson, 2001; Horngren, Charles T., Datar, Srikant M.,\
+    \ Foster, George. Contabilidade de custos (vol. 1 e 2). 11. Ed. São Paulo: Pearson,\
+    \ 2004; Maher, Michael. Contabilidade de custos \x96 criando valor para a administração.\
+    \ 5. ed., São Paulo: Atlas, 2001; Martins, Eliseu. Contabilidade de Custos (livro\
+    \ de exercícios). 10. Ed., São Paulo: Atlas, 2010; Martins, Eliseu. Contabilidade\
+    \ de Custos (livro texto). 10. Ed., São Paulo: Atlas, 2010;"
+  course: '1. Introdução à contabilidade de custos, 2. Custos para avaliação de estoques
+    e apuração do resultado societário, 3. Problemas especiais na apuração de custos,
+    4. Os métodos de custeio e suas aplicações: custeio por absorção, custeio direto/variável
+    e custeio por atividades, 5. Aplicações do custeio direto/variável, 6. Análise
+    custo/volume/lucro.'
+  course_name: 'LES0765 - Contabilidade de Custos
+
+    Cost Accounting'
+  deactivation: ''
+  instructors: 3425009 - Lucilio Rogerio Aparecido Alves
+  lecture_credits: '2'
+  objectives: 'Prover os alunos com conhecimentos de contabilidade de custos para
+    as seguintes finalidades: análise de negócios, processo decisório, processo de
+    planejamento e controle das atividades empresariais, análise de custo total da
+    cadeia de valores, visão crítica e gerencial.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20200927154656'
+digest: KDWTKXIPXLA3NBLYOZASG7RHC4TQ5IOR
+updated_at: '20200927154656'
+url: https://web.archive.org/web/20200927154656id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0765&codcur=11050&codhab=1
