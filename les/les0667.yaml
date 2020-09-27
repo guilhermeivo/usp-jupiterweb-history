@@ -1,0 +1,70 @@
+courses:
+  activation: 01/01/2018
+  assessment: Uma única prova com toda matéria lecionada.
+  bibliography: 'Literatura Básica:
+
+    (*) Textos mais importantes:(*) BATALHA, M.O. (Coordenador). Gestão Agroindustrial.
+    São Paulo, Edit. Atlas, 2001. ZYLBERSZTAJN, D..; NEVES, M. F. (Coord). Economia
+    e Gestão dos Negócios Agroalimentares. São Paulo, Pioneira, 2000. AIDAR, A C.K.
+    (org.). Administração Rural. São Paulo, Ed. Paulicéia, 1995 (Série Educação Continuada
+    EAESP – FGV). ANTUNES, L.M. e ENGEL, A . Custos de Produção. Livraria e Editora
+    Agropecuária Ltda. 3a ed. 1999 (Manual de Administração Rural). BARROS, H.A  Empresa
+    Agrícola: Observação, Planejamento e Gestão. Lisboa, Fund. Calouste Gulbenkian,
+    1968. (*) BIALOSKORSKI NETO, S. & NEVES, E.M. Planejamento e Controle da Produção
+    (PCP): Sistema Simplificado para Pequenas e Médias Propriedades Rurais. Campinas,
+    Boletim Técnico CATI no. 217, fev. 1994. BRADFORD, L.A  & JOHNSON, G.L. Farm Management
+    Analysis. New York, John Wiley & Sons, 1967. (*) BRUGNARO, C. & SBRAGIA, R. Gerência
+    Agrícola em Destilarias de Álcool. Piracicaba: Planalsucar/IAA. Coleção Planalsucar
+    no. 1, 1986. CASTLE, E.N. & MANNING, H.B. Farm Business Management: The Decision-Making
+    Process. New York, MacMillan Co., 1967. (*) CHIAVENATO, I. Iniciação à Organização
+    e Controle. McGraw Hill, S. Paulo, 1989, 110 p. CHIAVENATO, I. Introdução ao Planejamento
+    e Controle de Produção. McGraw Hill, 1990. CONTINI, E. et alii. Planejamento da
+    Propriedade Agrícola – Modelos de Decisão. Brasília, DDT/EMBRAPA, 1984. DOWNEY,
+    G.D. & ERICKSON, S.P. Agribusiness Management. New York. McGraw Hill Book Co.,
+    1987. (*) HOFFMANN, R. et alii.  Administração da Empresa Agrícola. 5a ed. São
+    Paulo, Pioneira, 1986. (*) KOTLER, P. Administração de Marketing: Análise, Planejamento
+    e Controle. Editora Atlas, 1992, 848 p. KWASNICKA, E.L. Introdução à Administração.
+    São Paulo, Editora Atlas S/A, 1997 (5a edição). MARION, J.C. Contabilidade Empresarial.
+    São Paulo. Editora Atlas S/A, 1991. MARSH, S.B.; CONNOR, L.J. & SCHUWAB, G.D.
+    Managing The Farm Business. New Jersey, Englewood Cliffs, 1981. MAXIMIANO, A .C.A
+    . Teoria Geral de Administração: da Escola Científica à Competitividade na Economia
+    Globalizada. Ed. Atlas, 2a ed. 2000. MATTOS, Z.P.B.; NORONHA, J. & MARQUES, P.V.
+    Introdução à Administração Rural. Piracicaba, ESALQ/USP, 1987. (mimeo). MEJIDO,
+    J.L.T. Marketing e Agribusiness. Ed. Atlas, 1994. NORONHA, J.F. Projetos Agropecuários.
+    São Paulo, Ed. Atlas, 1987. (*) PORTER, M. Vantagem Competitiva. Ed. Campus, 1989,
+    510 p. (*) ROSS, S.ª; WESTERFIELD, R.W.; BRANDFORD, D.J. Princípios de Administração
+    Financeira. Ed. Atlas, 1998, 432 p. SOUZA, R. et alii. A Administração da Fazenda.
+    Publicações Globo Rural. 2a ed. 1998. VALLE, F. Manual de Contabilidade Agrária.
+    São Paulo, Atlas, 1983.
+
+    Literatura Complementar:
+
+    BARROS, Gestão de negócios agropecuários com foco no patrimônio.  Série Didática
+    D-130 (janeiro de 2014). Disponível em: http://economia.esalq.usp.br/did/did-130.pdf'
+  course: '1. Introdução à Administração - Evolução da Gestão Agroindustrial no Brasil
+    - 2. Alguns Conceitos Básicos - Custos de produção:  teoria e métodos de cálculo
+    - Aplicações de custos de produção na empresa; 4. Planejamento Estratégico. 5.
+    Empreendedorismo e Plano de Negócios; 6. Controle - Controle como uma função administrativa
+    - As fases do controle - Técnicas de controle;  7. Noções de Finanças - Administração
+    financeira; 8. Noções de marketing - Diferenciação de produto e pesquisa de mercado;
+    9. Financiamento da produção e comercialização.'
+  course_name: 'LES0667 - Gestão dos Negócios Agroindustriais
+
+    Agribusiness Management'
+  deactivation: ''
+  instructors: '1225121 - Margarete Boteon
+
+    1707772 - Sérgio De Zen'
+  lecture_credits: '2'
+  objectives: Introduzir o aluno na área de gestão agroindustrial. O programa perpassa
+    todas as áreas das ciências da administração, via conhecimento de fundamentos
+    em administração geral, empreendedorismo, marketing, planejamento estratégico,
+    crédito,, contabilidade e administração financeira - com ênfase em problemas relacionados
+    às empresas que atuam no sistema agroindustrial.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200927172253'
+digest: MRU2EK4AOTHWDG3GZY2FTQLY7CF2KD3P
+updated_at: '20200927172253'
+url: https://web.archive.org/web/20200927172253id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0667&codcur=11010&codhab=0
