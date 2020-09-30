@@ -1,0 +1,36 @@
+courses:
+  activation: 01/01/2016
+  assessment: Uma única prova, com toda matéria lecionada
+  bibliography: 'BARROS,G.S.C. Economia da Comercialização 1987 (www.cepea.esalq.usp.br/imprense/?id_page=347)
+
+    MARQEUS, P.V. & AGUIAR, D.R.D. Comercialização de produtos agrícolas.São Paulo,
+    EDUSP, 1993. 295 páginas. MARQUES, P.V. & PEDRO C. DE MELLO. Mercados Futuros
+    de commodities agropecuárias: exemplos e aplicações aos mercados brasileiros.
+    São Paulo. Bolsa de Mercadorias & Futuros (BM&F), 1999. 208 páginas.'
+  course: -Introdução à Comercialização de Produtos Agrícolas; Mercados e preços agrícolas;
+    Organização e Desenvolvimento de Mercados; Custos de Comercialização; Análise
+    e Acompanhamento de Mercados Físicos; Mercados de Milho e Soja; Mercados de Boi
+    e Laranja; Distribuição de Alimentos; Básico de Mercado Futuro; Básico de Mercado
+    de opções; Análise Fundamentalista e Grafista; Estratégias Operacionais com Mercados
+    Futuros e de Opções; Planejamento da Comercialização; Margens de comercialização;
+    Introdução ao Comércio Exterior. Políticas Agrícolas.
+  course_name: 'LES0560 - Comercialização de Produtos Agrícolas
+
+    Trading of Agriculture Products'
+  deactivation: ''
+  instructors: 1603283 - Mirian Rumenos Piedade Bacchi
+  lecture_credits: '3'
+  objectives: 'Fornecer os conhecimentos básicos  para  entender e atuar no processo
+    de comercialização de produtos agroindustriais e no desenvolvimento de novos mercados
+    agropecuários. Especificamente pretende-se: Problematizar a questão da comercialização
+    de produtos agropecuários dentro de um enfoque sistêmico (agribusiness) e rever
+    o processo de atuação das forças de oferta e demanda do modelo teórico; Conhecer
+    o processo de funcionamento dos mercados físicos; Discutir estratégias comerciais
+    atuais e potenciais.'
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20200930195741'
+digest: ZQLOWMALGHLYHUHZMD4CDNTEUFNWIGBS
+updated_at: '20200930195741'
+url: https://web.archive.org/web/20200930195741id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0560&codcur=11090&codhab=1
