@@ -1,0 +1,38 @@
+courses:
+  activation: 01/01/2012
+  assessment: Uma prova com toda a matéria dada.
+  bibliography: 'VILANOVA, S. Introdução à Sociologia. São Paulo. Atlas, 1995.
+
+    FORACCHI, M.M. & MARTINS, J.S. Sociologia e Sociedade. Rio de Janeiro: LTC - Livros
+    Técnicos e Científicos, 1977.
+
+    BIRNBAUM, P. & CHAZEL, F. Teoria Sociológica. São Paulo: HUCITEC - EDUSP, 1977.
+
+    ARON, R. As Etapas do Pensamento Sociológico. São Paulo: Martins Fontes, 1997
+    (4a ed.).'
+  course: '1) As Ciências Sociais: conceito e disciplinas afins. 2) O Indivíduo, A
+    Cultura e a Sociedade: socialização; cultura; pensamento social. 3) A contribuição
+    de Durkheim para o estudo da sociedade: fato social, consciência coletiva e instituição,
+    solidariedade orgânica e mecânica. 4) A contribuição de Max Weber para o estudo
+    da sociedade: divisão de trabalho social, racionalidade na sociedade capitalista,
+    classes sociais. 5) A contribuição de Marx para o estudo da sociedade: a idéia
+    de alienação, modos de produção, trabalho, valor e lucro, materialismo histórico.
+    6) O mercado, o sistema ciência-tecnologia e a cultura na sociedade capitalista.
+    7) Sociedade de massa. 8) Movimentos Sociais. 9) Globalização, tempo e espaço
+    na pós modernidade.'
+  course_name: 'LES0102 - Introdução às Ciências Sociais
+
+    Introduction to Social Sciences'
+  deactivation: ''
+  instructors: 70170 - Maria Elisa de Paula Eduardo Garavello
+  lecture_credits: '4'
+  objectives: Fornecer aos alunos os conceitos e principais linhas de análises da
+    realidade social, com vistas à compreensão dos fenômenos sociais que permeiam
+    o seu campo profissional.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20200930192840'
+digest: VBGW5BQ64K4IVVT5GGIZQ5GPEKTW5MNU
+updated_at: '20200930192840'
+url: https://web.archive.org/web/20200930192840id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0102&codcur=11050&codhab=1
