@@ -1,0 +1,35 @@
+courses:
+  activation: 01/01/2006
+  assessment: Uma única prova, com toda a matéria lecionada
+  bibliography: 'PINDYCK, R.S. & RUBINFELD, D.L. Microeconomia. São Paulo: Makron
+    Books, 1994. (Cap. 10-18).  VARIAN, H.R. Microeconomia - princípios básicos. Campus:
+    :Rio de Janeiro, 1994. (Caps. 23-32).EATON, B.C.; EATON, D.E. Microeconomia, São
+    Paulo: Saraiva, 1999. HENDERSON, J.M; QUANDT, R.E.  Teoria Microeconômica: uma
+    abordagem matemática. 3ª ed., São Paulo: Pioneira, 1992.'
+  course: '1) Monopólio: Preço e Produção no Monopólio, Discriminação de Preços, Mercados
+    Competitivos X Mercados Monopolizados, Poder de Mercado, 2) Concorrência Monopolística,
+    Diferenciação de Produtos, Curto-Prazo e Longo-Prazo, 3) Oligopólio, O Processo
+    Oligopolista de Decisões, Cournot Stackelberg Bertrand, Cartéis, 4) Comportamento
+    Estratégico, Teoria dos Jogos, Informação Assimétrica, Estratégias de Negócios;
+    5) Equilíbrio e Eficiência, A Caixa de Edgeworth, Trocas, Alocações eficientes
+    de Pareto, Equilíbrio e Eficiência, 6) A Teoria do Bem-Estar, Agregação de Preferências,
+    Funções de Bem-Estar Social, Maximização de Bem-Estar, 7) Externalidades, Teorema
+    de Coase, Produção de Externalidades, O Problema do Uso Comum, 8) Economia dos
+    Custos da Transação, 9) Teoria dos Jogos, 10) Tópicos de Organização Industrial.'
+  course_name: 'LES0458 - Teoria Microeconômica II
+
+    Microeconomic Theory II'
+  deactivation: ''
+  instructors: 1906631 - Silvia Helena Galvao de Miranda
+  lecture_credits: '4'
+  objectives: 1) Desenvolver a análise de determinação de preços e quantidades em
+    mercados de concorrência imperfeita. 2) Mostrar a determinação de preços de fatores
+    de produção e de bens finais dentro de um sistema de equilíbrio geral em concorrência
+    perfeita.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200930200416'
+digest: D5LPU7F4XMPDCZB67AIMDUHEGTTKFD35
+updated_at: '20200930200416'
+url: https://web.archive.org/web/20200930200416id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0458&codcur=11010&codhab=0
