@@ -1,0 +1,50 @@
+courses:
+  activation: 01/01/2020
+  assessment: A nota final para alunos que fizerem a reavaliação será a média simples
+    entre a nota da prova de reavaliação e a média final alcançada antes da prova
+    de reavaliação.
+  bibliography: 'Literatura Básica:
+
+    BESANKO, D. DRANOVE; M. SHANLEY; S. SCHAEFER.  A Economia da Estratégia. 5ª edição.
+    Bookman, Porto Alegre, 2012.
+
+    KUPFER, D.; HASENCLEVER, L. Economia Industrial: fundamentos teóricos e práticas
+    no Brasil.  Rio de Janeiro: Elsevier, 2013. (2 ed.)
+
+    PAUL MILGROM & JOHN ROBERTS Economics,Organization & Management  Prentice-Hall,
+    1992 621p.
+
+    WILLIAMSON, OLIVER E.  As instituições Econômicas do Capitalismo. Pezco Editora,
+    2012  392p.'
+  course: "1)\tA Natureza da Firma: As contribuições de Coase\n2)\tTeoria do Custo\
+    \ Social de Coase\n3)\tImportância das Instituições, Douglas North\n4)\tEconomia\
+    \ dos Custos de Transação (ECT)\n5)\tRisco Moral e monitoramento\n6)\tTeoria do\
+    \ Agenciamento e Principal\n7)\tDireito de Propriedade\n8)\tEspecificidade dos\
+    \ ativos\n9)\tOUTROS TEMAS: 9.1) Ações Coletivas (Elinor) e 9.2) Custo de Monitoramento\
+    \ (Barzel)\n10)\tTópicos de Organização Industrial"
+  course_name: 'LES0580 - Economia das Organizações
+
+    Economics of Organizations'
+  deactivation: ''
+  instructors: 1225121 - Margarete Boteon
+  lecture_credits: '4'
+  objectives: 'O curso introduz o aluno à análise econômica das organizações e instituições
+    sob a ótica da Nova Economia Institucional e faz um contraste com a tradicional
+    teoria da Organização Industrial. No caso da Economia das Organizações, o objetivo
+    é familiarizar os alunos com esta abordagem teórica através da leitura e análise
+    de papers clássicos no assunto. As principais teorias abordadas serão: natureza
+    da firma e custo social (abordagem de Coase), custos de transação, especificidade
+    dos ativos, risco moral, teoria do agente/principal, direto de propriedade e ações
+    coletivas. O objetivo final é proporcionar discussão, reflexão e ativo envolvimento
+    dos alunos em teorias e pesquisas que tratam do comportamento e das relações entre
+    os agentes, indivíduos e organizações empresariais e governamentais, e a sua interação
+    com o ambiente econômico e instituições. A Organização Industrial tem um foco
+    no ambiente competitivo através da análise da estrutura, conduta e desempenho
+    dos setores econômicos.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20200930190117'
+digest: ZXOL4VPXRRJQHZIVPC4AKFSPYXCQWTN5
+updated_at: '20200930190117'
+url: https://web.archive.org/web/20200930190117id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0580&codcur=11090&codhab=1
