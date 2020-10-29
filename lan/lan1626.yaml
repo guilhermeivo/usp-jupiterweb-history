@@ -134,7 +134,18 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20200927170639'
-digest: 2L7ZDFSEK5N7WJSEOL72Z34SURZV5F43
-updated_at: '20200927170639'
-url: https://web.archive.org/web/20200927170639id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN1626&codcur=11010&codhab=0
+created_at: '20201029114708'
+digest: F3IRHNWLRJKXPRKTO7J6ZTWI4IUAKSQX
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 6'
+  requirements:
+  - code: LAN1616
+    name: Tecnologia de Bebidas
+    type: Requisito
+- course: 'Curso: 11061  Ciências dos Alimentos (noturno) - Período ideal: 10'
+  requirements:
+  - code: LAN1616
+    name: Tecnologia de Bebidas
+    type: Requisito
+updated_at: '20201029114708'
+url: https://web.archive.org/web/20201029114708id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LAN1626
