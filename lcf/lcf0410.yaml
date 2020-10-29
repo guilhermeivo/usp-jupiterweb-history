@@ -1,0 +1,94 @@
+courses:
+  activation: 01/01/2016
+  assessment: A recuperação é realizada através de um exame de 2 horas que engloba
+    todos assuntos desenvolvidos durante o curso tanto em aulas teóricas, listas de
+    problemas e atividades das aulas práticas.
+  bibliography: 'Literatura Básica:
+
+    Batista, J.L.F.; Couto, H.T.Z. do; Silva Filho, D.F. da; 2014 Quantificação de
+    Recursos Florestais: árvores, arvoredos e florestas. São Paulo: Oficina de Textos,
+    384p.
+
+    Batista, J.L.F. 2005 A Engenharia Florestal e a Mensuração Florestal, ESALQ/USP,
+    Piracicaba, março, 7p.
+
+    Batista, J.L.F.; Couto, H.T.Z. do; 2002 O "Estéreo", METRVM, n.2, outubro, 19.p.
+
+    Batista, J.L.F. et al. 2001 Desempenho de modelos de relação hipsométrica: estudo
+    em três tipos de floresta, Scientia Forestalis, n.60, p.149-163.
+
+    Machado, S. do A.; Figueiredo Filho, A.; 2003 Dendrometria. Afonso Figueiredo
+    Filho e Sebastião do S. Do A. Machado, Curitiba.
+
+    Vismara, E. de S. 2009  Mensuração da Biomassa e Seleção de modelos para a Construção
+    de Equações de Biomassa. Dissertação de Mestrado, ESALQ-USP, Piracicaba, 102p.,
+    cap.3, p.27-67.
+
+    Yuancai, L.; Parresol, B.R.; 2001 Remarks on Height-Diameter Modeling. USDA, Forest
+    Service, Southern Research Station, Research Note, SRS-IO, 5p.
+
+    Literatura Complementar:
+
+    Avery, T.E.; H.E. Burkhart; 1983 Forest Mensurements. New York: McGraw-Hill.
+
+    Bitterlich, W. The Relascope Idea: Relative Measurement in Forestry. Slough: Commonwealth
+    Agricultural Bureaux, 1984
+
+    Finger, C. Fundamentos de Biometria Florestal. Universidade Federal de Santa Maria
+    / CEPEF / FATEC, 1992
+
+    Gomes, A. Medição de arvoredos. Lisboa: Livraria Sã da Costa, 1957
+
+    Husch, B.; C.I. Miller; T.W. Beers; 1982 Forest Mensuration. New York: John Wiley
+    \& Sons.
+
+    Philip, M. Measuring Trees and Forests. Wallingford: CAB International, 1994'
+  course: "Apresentação da disciplina: apresentação da relação da disciplina com as\
+    \ outras áreas das Ciências Florestais e com as atividades técnicas da profissão\
+    \ florestal; apresentação do \x93modus operandi\x94 da disciplina.\nMensuração\
+    \ de árvores: o conceito de árvore, tipo de copa de árvores, elementos de arquitetura\
+    \ de árvores, implicações para mensuração de árvores.\nMensuração Não-Destrutiva:(1)\
+    \ Mensuração do diâmetro: diâmetro à altura do peito, mensuração indireta, área\
+    \ da secção transversal do tronco.\n(2) Mensuração da altura: tipos de alturas\
+    \ medidas em árvores, métodos geométricos de mensuração e método trigonométrico\
+    \ de mensuração, funcionamento dos clinômetros, correção da declividade do terreno,\
+    \ procedimentos adequados na mensuração da altura.\nMensuração Destrutiva: (1)Medição\
+    \ do volume de madeira: método do deslocamento de água, método do empuxo, volume\
+    \ aproximado por sólidos geométricos, fórmulas de cubagem - Smalian, Huber e Newton\
+    \ - cubagem rigorosa, volume de toras para serraria, para laminação. (2) Medição\
+    \ da forma do tronco: quociente de forma e fator de forma. (3) Medição da biomassa:\
+    \ componentes da árvore e sua quantificação, método gravimétrico e método volumétrico.\n\
+    Princípios de mensuração: definição de mensuração e medida, escalas de mensuração,\
+    \ sistema internacional de unidades (SI), precisão, viés e exatidão, algarismos\
+    \ significativos e cálculos com medidas.\nPredição de medidas de árvores: (1)\
+    \ Predição da altura: a relação diâmetro-altura, modelos de relação hipsométrica.\
+    \  (2) Predição do volume: tipos de volume de árvores em pé - volume sólido, volume\
+    \ empilhado e volume cilíndrico - fator de forma e fator de empilhamento, tipos\
+    \ de tabelas de volume, modelos estocástico para construção de equações de volume,\
+    \ passos na construção de equações de volume. (3) Predição da biomassa: modelos\
+    \ de predição de biomassa \x96 vantagens e limitações - informação de densidade\
+    \ básica, informação da espécie.\nMensuração de arvoredos: o conceito de arvoredo,\
+    \ agregação da informação no nível de arvoredo, método da parcela de área fixa,\
+    \ fator de expansão, método da  enumeração angular, estrutura de arvoredos.\n\
+    Crescimento de árvores e arvoredos: determinação da idade de árvores, métodos\
+    \ de medição do crescimento, curvas de crescimento de árvores individuais - diâmetro,\
+    \ altura e volume - fases do crescimento de árvores, curvas de crescimento de\
+    \ arvoredos, incremento corrente e incremento médio, competição e estagnação do\
+    \ crescimento, idade técnica de corte."
+  course_name: 'LCF0410 - Mensuração Florestal
+
+    Forest Mensuration'
+  deactivation: ''
+  instructors: 86793 - João Luis Ferreira Batista
+  lecture_credits: '4'
+  objectives: Auxiliar os alunos a conhecer e entender os métodos e técnicas utilizados
+    na mensuração de árvores e arvoredos, os tipos de dados gerados, bem como os métodos
+    quantitativos de processamento dos dados obtidos em campo necessários para gerar
+    informações úteis ao conhecimento das florestas e ao seu manejo.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20201029113802'
+digest: JTJCRM3E4IUB7JS2NEKMLJL22UACXVCJ
+updated_at: '20201029113802'
+url: https://web.archive.org/web/20201029113802id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0410&nomdis=
