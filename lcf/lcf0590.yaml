@@ -1,0 +1,57 @@
+courses:
+  activation: 01/01/2015
+  assessment: 1 prova com toda a matéria do semestre + estudo dirigido
+  bibliography: 'Literatura Básica:
+
+    BOITANI, L., T.K. FULLER. 2000. Research Techniques in Animal Ecology. Controversies
+    abd Consequences. Columbia University Press, New York.
+
+    CULLEN, JR., L., R. RUDRAN, C. VALLADARES-PADUA (Org.). 2003. Métodos de Estudo
+    em Biologia da Conservação & Manejo de Fauna Silvestre. Editora UFPR, Curitiba.
+    Fundação O Boticário de Proteção à Natureza.
+
+    SINCLAIR, A.R.E. J.M. FRYXELL, GRAEME CAUGHLEY. 2006. Wildlife ecology, conservation,
+    and management. 2ª Ed. Blackwell Publishing, Malden.
+
+    THOMPSON, W.L., G.C. WHITE, C. GOWAN. 1998. Monitoring vertebrate populations.
+    Academic Press, San Diego.
+
+    Literatura Complementar:
+
+    WILLIAMS, B.K., J.D. NICHOLS, M.J. CONROY. 2002. Analysis of Management of Animal
+    Populations. Academic Press, San Diego.'
+  course: '1. Conservação da biodiversidade: conceitos, definições, finalidades. Conservação
+    na teoria. Conservação na prática. Populações pequenas, em declínio e superabundantes.
+    Dimensões humanas da gestão de fauna silvestre. Interação homem-fauna. Valoração
+    da biodiversidade. Biodiversidade como serviço ecossistêmico. 2. Diagnóstico populacional.
+    Técnicas de campo para amostragens populacionais e estimativas. Métodos de levantamento
+    de fauna diretos e indiretos. Ocorrência e distribuição. Tamanho de população
+    e densidade. Índices de abundância. Ferramentas isotópicas, genéticas e de análises
+    espaciais de dados biológicos. 3. Monitoramento populacional: objetivos e questões
+    norteadoras. Plano de monitoramento. Seleção de sítios, espécies e parâmetros.
+    Detectabilidade e erros de amostragem. Escalas de amostragem. 4. Manejo de fauna.
+    Aspectos legais do manejo de fauna no Brasil. Manejo de controle, sustentável
+    e adaptativo. Planos de manejo. 5. Problemas práticos de manejo e conservação
+    de fauna em áreas agrícolas e florestais. Aplicação de conceitos e práticas de
+    conservação e manejo de fauna silvestre através de estudos de caso.'
+  course_name: 'LCF0590 - Conservação e Manejo de Fauna Silvestre
+
+    Wildlife Management and Conservation'
+  deactivation: 31/12/2018
+  instructors: 836301 - Katia Maria Paschoaletto Micchi de Barros Ferraz
+  lecture_credits: '4'
+  objectives: 1. Informar o aluno sobre conceitos, definições e objetivos da conservação
+    e do manejo de fauna necessários para sua atuação profissional; 2. Capacitar o
+    aluno na condução de diagnósticos de fauna e implementação de planos de monitoramento
+    populacional; 3. Capacitar o aluno no desenvolvimento e execução de planos de
+    manejo de fauna; 4. Fornecer subsídios para que o aluno atue na busca de soluções
+    para situações de conflito com fauna em paisagens antrópicas e florestais; 5.
+    Capacitar o aluno para atividades práticas de campo em mosaicos agrícolas, plantações
+    florestais e áreas naturais.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20201030022623'
+digest: BKCXNWP5DY2ZVWUYNELFHW2VC5OWII6U
+updated_at: '20201030022623'
+url: https://web.archive.org/web/20201030022623id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0590&verdis=2
