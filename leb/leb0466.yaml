@@ -1,0 +1,57 @@
+courses:
+  activation: 01/01/2021
+  assessment: Não há recuperação.
+  bibliography: 'BALASTREIRE, L.A.  Máquinas Agrícolas.  Editora Manole Ltda.  1a.
+    Ed. S. Paulo, 1987.  307p.
+
+    CANALE, A.C.  Automobilístico: Dinâmica e desempenho. Erica, São Paulo, 1989,
+    125 p.
+
+    GADANHA JR., C.D.; MOLIN, J.P.; COELHO, J.L.D.; YAHN, C.H.; TOMIMORI, S.M.A.W.  Máquinas
+    e implementos agrícolas do Brasil.  São Paulo, NSI-MA/CIENTEC, 1991.  468p.
+
+    MIALHE, L.G.  Máquinas agrícolas: Ensaios & Certificação.  Fundação de Estudos
+    Agrários Luiz de Queiroz, 1996.
+
+    MIALHE, L.G.  Manual de mecanização agrícola. Ceres, São Paulo, 1974. 301 p.
+
+    WITNEY, B.  Choosing and using farm machines. Longman. 1988. 412 p.
+
+    RIPOLI, T.C.C. e RIPOLI, M. L. C. Biomassa de cana-de-açúcar: colheita, energia
+    e ambiente. Piracicaba; T.C.C. Ripoli; 2004. 302p.
+
+    RIPOLI, T.C.C. et al. Plantio de cana-de-açúcar: estado da arte. Piracicaba: T.C.C.
+    Ripoli, 2007. 108p.'
+  course: 'A digitalização da economia e dos processos de produção: conceituação acerca
+    de digitalização, histórico de incorporação de eletrônica e a automação na indústria,
+    estado da arte e perspectivas de avanço, paralelos entre indústria, serviços e
+    sistemas agrícolas mecanizados.
+
+    Planejamento e controle de sistemas agrícolas mecanizados: relação entre sistemas
+    agrícolas e sistemas mecanizados, princípios básicos para planejamento e gestão
+    de sistemas mecanizados; custos diretos e indiretos dos sistemas mecanizados.
+
+    Fundamentos de instrumentação, mensuração e processamento de sinais: princípios
+    físicos e tipos de sensores; sistemas analógicos e digitais, características de
+    desempenho de sensores: precisão, exatidão, sensibilidade, limite de detecção,
+    faixa dinâmica, seletividade, linearidade, resolução, tempo de resposta, histerese.'
+  course_name: 'LEB0466 - Avaliação do Desempenho de Máquinas Agrícolas
+
+    Performance Tests of Agricultural Machinery'
+  deactivation: ''
+  instructors: 2231586 - Leandro Maria Gimenez
+  lecture_credits: '2'
+  objectives: Desenvolver a capacidade de analisar criticamente o desempenho de máquinas
+    agrícolas no contexto em que são utilizadas. Apresentar e discutir métodos padronizados
+    e as inovações para avaliação e controle de máquinas agrícolas considerando os
+    avanços na área da eletrônica embarcada, análise de dados e comunicação. Como
+    resultado espera-se contribuir para que os alunos façam uso efetivo dos meios
+    disponíveis para tomada de decisões quanto ao uso e incorporação de tecnologia
+    em máquinas agrícolas.
+  practical_credits: '2'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20210117033825'
+digest: SO6QJPKJGVDERXRLNCOEMBZ2E5MQ6Z2T
+updated_at: '20210117033825'
+url: https://web.archive.org/web/20210117033825id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0466&codcur=11010&codhab=0
