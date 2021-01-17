@@ -1,0 +1,99 @@
+courses:
+  activation: 01/01/2014
+  assessment: Uma prova escrita com cerca de 2 horas de duração  envolvendo  todo
+    o programa cumprido durante  o semestre.
+  bibliography: "RLM Ração de Lucro Máximo, Versão 3.114, FEALQ, software (disponibilizado\
+    \ aos alunos)\nNRC. 2001. Nutrient Requirements of Beef Cattle. National Research\
+    \ Council. National Academy Press: Washington, DC revised (NRC. 1996. Nutrient\
+    \ Requirements of Beef Cattle. National Research Council. National Academy Press:\
+    \ Washington, DC)\nNCR. 1993. Technical Committee on Responses to Nutrients. Energy\
+    \ and Protein. Andriguetto, J.L. et al. Normas e Padrões  de Nutrição e Alimentação\
+    \ Animal. Revisão 85/86.\nNRC. 1984; 1989. Nutrient Requirements  of Cattle. National\
+    \  Research Council. National Academy Press: Washigton, D.C..\nNRC. 1988. Nutrient\
+    \ Requirements of Swine. National  Research Council. National Academy Press: Washington,\
+    \ D.C.\nNRC. 1994. Nutrient Requirements of Poultry. National Research Council.\
+    \ National Academy Press: Washington, DC.\n\x93Animal Feed Formulation: Economics\
+    \ and Computer Apllication\x94 . Edts. G.M. Pesti   Body, R.D. et al. 1991. Impact\
+    \ of metabolism modifiers on protein accredition and protein and energy requirements\
+    \ of livestock. J. Anim. Sci. 69(S-2):56-75.\nCSIRO. Feeding Standards for Australian\
+    \ Livestock.  CSIRO Publications. Melbourne, Victoris, Austrália, 1991.\nLANNA,\
+    \ D.P.D., C. BOIN e D.G. FOX, 1996. \x93Validação do CNCPS e do NRC (1984) para\
+    \ Estimativa dos Requerimentos Nutricionais e Desempenho de Zebuínos em Crescimento\x94\
+    . Sociedade Brasileira de Zootecnia, prelo.\nMIRANDA, R.M. e M.P. GAMA. Pesquisa\
+    \  Agropecuária Brasileira 16(4):567-571. 1981.\nNational Academy of Science.\
+    \ 1988. Designing Foods: Animal Product Options in the Marketplace. National Research\
+    \ Council. NAS Press,  Washington, D.C..\n\x93Farm Planning with Linear Programming:\
+    \ Concept and Practice\x94. J.B.  Dent, S.R. Harrison, K.B. Woolford. Butterwoths.\
+    \ London, 1986."
+  course: 'A Indústria  de rações e suplementos. Importância. Estatísticas nutricionais.
+    Tendências.  Princípios  de formulação (revisão). Valor nutritivo  de alimentos.
+    Exigências  nutricionais  de animais. Equações  simultâneas   e quadrado de Pearson.
+    Análise de alimentos. Estudo dos conceitos  de analise  de alimentos para calculo
+    de rações.  Novas metodologias  de analises  para simulação  do valor nutricional:
+    espectro infravermelho, métodos biológicos e métodos químicos. Características
+    dos diferentes alimentos e suplementos. Avaliação critica de dados laboratoriais.
+    Elaboração de um programa de computador para avaliação de alimentos baseado em
+    princípios nutricionais. Consumo de matéria seca. Importância;  teoria e metodologia
+    para sua estimativa. Emprego  de metodologias  para estimativa  em computadores.  Equações
+    empregadas. Exigências nutricionais.  Conceitos de crescimento animal e exigências  liquidas
+    de energia, proteína e minerais.  Conceitos  de exigências  de fibra  e forma  física
+    da dieta.  Efeito de aditivos  e modificadores  metabólicos sobre exigências.
+    Equacionamento   do uso de aditivos em matrizes de calculo de dietas de custo
+    mínimo e dietas de lucro  máximo. Exigências  nutricionais. Conceitos  de crescimento
+    animal e exigências  liquidas  de energia, proteína e minerais.  Conceitos de
+    exigências  de fibra e forma física da dieta. Efeito de aditivos  e modificadores  metabólicos  sobre
+    exigências.  Equacionamento  do uso  de aditivos  em matrizes de calculo de dietas
+    de custo mínimo e dietas de lucro máximo. Exigências nutricionais e controle de
+    qualidade. Tabelas Brasileiras.  Sistemas empíricos (e.g. INRA) EE MECANISTICOS
+    (e.g. NRC, AFRC).  Modelagem , conceitos de sistemas determministicos e escolásticos.
+    Uso da probabilidade para estimativas de exigências  e desempenho. Uso da probabilidade
+    para estimativas de controle de qualidade. Formulação de dietas e suplementos
+    de custo mínimo. Programação linear.   Isoquantas. LP88:  inclusão de restrições,
+    interpretação dos resultados; formulação de concentrados núcleos  e premixes.
+    Programas comerciais para calculo de rações de custo mínimo e estimativa do desempenho.
+    Bovinos (Spartan, CNCPS, NRC 1996;  CISRO. 1990).  Sistema australiano p/Suínos
+    ((Blaack et al. 1994). Sistemas para aves (Pesci, 1992). Técnicas de manejo que
+    alteram a resposta a suplementos. Programas de alimentação restrita em diferentes
+    espécies. Técnicas  de restrição e efeitos sobre exigências e desempenho;  utilização  de
+    sal e outro compostos. Crescimento  compensatorio  e noções  teóricas  para suplementacao
+    de animais em crescimento  compensatorio e semi-confinamento. Suplementacaao para
+    determinada composição  e qualidade de carcaça. Desenvolvimento da capacidade
+    do aluno em equacionar problemas de suplementacao, para cálculos de otimização.  Ruminantes.
+    Animais de ceco funcional. Otimização. Ferramentas computacionais. Utilização
+    de SOLVER e SOLVE FOR de planilhas eletrónicas (EXCEL;  QPRO)  para calculo  de
+    dietas  de custo mínimo. Colocação em planilhas  de sistemas virtuais  de suplementacao.
+    Formulação de dietas para animais silvestres.  Teoria sobre  o comportamento  nutricional  dos
+    diferentes  herbívoros.  Redação de relatórios e recomendações a partir  de cálculos
+    de custo minmo ou de otimização.  Analise do elo mais fraco. Integração dos conhecimentos.
+    Preparo de ingredientes e rações. Conceitos e princípios de processamento. Misturas
+    e dieta  completa:  misturadores horizontal e vertical. Processamento:  moagem,
+    ensilagem, floculação, peletizacao, extrusao. Tecnicas de preparo de premixes.
+    Pratica -  Laboratório/Microcomputador. Identificação  de alimentos e ingredientes
+    de misturas. Calculo manual de rações (Quadrado de Pearson). Utilização de programas
+    de custo mínimo. Utilização de  programas de estimativa de desempenho. Utilização
+    de  programas de otimização não-linear.  Planilhas  eletrónicas e uso do SOLVER.'
+  course_name: 'LZT0697 - Formulação e Preparo de Rações
+
+    Formulation and Optimization of Animal Diets'
+  deactivation: ''
+  instructors: '293039 - Dante Pazzanese Duarte Lanna
+
+    75154 - José Fernando Machado Menten'
+  lecture_credits: '4'
+  objectives: "Ensinar os conceitos de exigências nutricionais e os parâmetros que\
+    \ os alteram. Capacitar o estudante na utilização de ferramentas computacionais\
+    \ e \x93Softwares\x94 para cálculo de rações de custo mínimo, otimização e estimativa\
+    \ do desempenho. Capacitar estudantes a formular suplementos para diversas espécies\
+    \ animais. Apresentar ao estudante as diferentes tabelas e sistemas nacionais\
+    \ e internacionais de recomendação de nutrição de animais domésticos. Apresentar\
+    \ ao estudante as tecnologias de manipulação do desempenho e exigências através\
+    \ de modificadores de metabólicos, aditivos e técnicas de biotecnologia e as relações\
+    \ de custo/benefício. Transmitir as técnicas de preparo e processamento de rações\
+    \ e suplementos para obtenção da máxima eficiência da formulação."
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210117033735'
+digest: 4YAPDYKWSNRRLVFR27PQHNRBGM5PAIIA
+updated_at: '20210117033735'
+url: https://web.archive.org/web/20210117033735id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0697&codcur=11010&codhab=0
