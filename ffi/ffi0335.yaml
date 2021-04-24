@@ -25,6 +25,7 @@ courses:
   course_name: 'FFI0335 - Física III
 
     Physics III'
+  deactivation: ''
   instructors: '95341 - Antonio Carlos Hernandes
 
     3428274 - Jean Claude MPeko'
@@ -35,7 +36,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20150513100624'
-digest: TPQ6Y4XBZ77WOUTE7PLAVOCXJKJNK7JT
-updated_at: '20170324005913'
-url: https://web.archive.org/web/20170324005913id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FFI0335&codcur=55030&codhab=300
+created_at: '20210424191726'
+digest: 4OA5WP2GYVG6KFP33F5HJV25B3DOQA5Z
+updated_at: '20210424191726'
+url: https://web.archive.org/web/20210424191726id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FFI0335&codcur=18023&codhab=0
