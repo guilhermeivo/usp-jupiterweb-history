@@ -11,6 +11,7 @@ courses:
   course_name: 'FCM0101 - Física I
 
     Physics I (Introduction to Classical Mechanics)'
+  deactivation: ''
   instructors: '47913 - Sérgio Carlos Zilio
 
     79360 - Vanderlei Salvador Bagnato'
@@ -19,7 +20,7 @@ courses:
   practical_credits: '0'
   total_workload: 90 h
   type: Semestral
-created_at: '20150513145955'
-digest: T3IIE2AR2HH7WFTPI2Y3XH5KWEZJJMWR
-updated_at: '20170324012803'
-url: https://web.archive.org/web/20170324012803id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FCM0101&codcur=55030&codhab=300
+created_at: '20210424191725'
+digest: NUIYJ4RYCRZC7BLJUUA2DHHD45WE3MEV
+updated_at: '20210424191725'
+url: https://web.archive.org/web/20210424191725id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FCM0101&codcur=18070&codhab=0
