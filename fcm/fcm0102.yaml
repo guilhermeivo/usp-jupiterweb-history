@@ -21,6 +21,7 @@ courses:
   course_name: 'FCM0102 - Física II
 
     Physics II (Fluids mechanics, oscillations and waves, thermodynamics)'
+  deactivation: ''
   instructors: 70909 - Roberto Mendonça Faria
   lecture_credits: '6'
   objectives: O curso é continuação de Física I, dando procedimento à elaboração em
@@ -28,7 +29,7 @@ courses:
   practical_credits: '0'
   total_workload: 90 h
   type: Semestral
-created_at: '20150513093139'
-digest: SL4AH3UPM4N6BVL6DYJIAG2AJE2IV4KA
-updated_at: '20170324004240'
-url: https://web.archive.org/web/20170324004240id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FCM0102&codcur=55030&codhab=300
+created_at: '20210424191726'
+digest: ORNG6BK5GOZQ7JLIRVBCVFMJMDRUYXIZ
+updated_at: '20210424191726'
+url: https://web.archive.org/web/20210424191726id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FCM0102&codcur=18070&codhab=0
