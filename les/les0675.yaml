@@ -1,0 +1,46 @@
+courses:
+  activation: 01/01/2021
+  assessment: Uma única prova com toda matéria lecionada.
+  bibliography: 'BACHA, C.J.C. & LIMA, R.A.S. Macroeconomia: teorias e aplicações
+    à economia brasileira. Campinas: Alínea, 2006. BLANCHARD, O. Macroeconomia. São
+    Paulo: Pearson, 2013. FORTUNA, E.  Mercado Financeiro:  produtos e serviços. Rio
+    de Janeiro, Quality Mark Editora, 2017.  KRUGMAN, P.; OBSTFELD, M. Economia Internacional.
+    Pearson Education, 2015. MANKIW, N.G. Macroeconomia. Rio de Janeiro: LTC, 2010.
+    MISHKIN, F. S. Moeda, bancos e mercados financeiros. Rio de Janeiro: Livros Técnicos
+    e Cientifícos Editora, 2000 SIMONSEN, M.H.  e R.P. CYSNE. Macroeconomia. Atlas,
+    2018. STIGLITZ, J.; GREENWALD, B. Rumo a um novo paradigma. São Paulo: Francis,
+    2004. 2. Complementar: BLANCHARD, OLIVIER J., Fiscal Dominance and Inflation Targeting:
+    Lessons from Brazil (March 15, 2004). MIT Department of Economics Working Paper
+    No. 04- 13. Available at SSRN: http://ssrn.com/abstract=518265 BRITO, R.D.; DUARTE,
+    A.J.M.;GUILLÉN, O.T.C. O prêmio pela maturidade na estrutura a termo das taxas
+    de juros brasileiras. Working Paper n. 72. Banco Central do Brasil, maio de 2003.
+    FRAGA, A.; GOLDFAJN, I.; MINELLA, A. Inflation targeting in emerging market economies.
+    Working Paper n. 76. Banco Central do Brasil, junho de 2003. FRANCO, G.H.B. Plano
+    Real e Outros Ensaios. Editora Francisco Alves. 1° Edição. 1996. FRY, M. J. Money,
+    Interest and Banking in Economic Development. The Johns Hopkins Univ. Press, 1984.
+    KOYAMA, S.M.; NAKANE, M.I. Os determinantes do spread bancário no Brasil. Nota
+    técnica n. 19, Banco Central do Brasil, abril de 2002.'
+  course: '- Oferta de Moeda: conceitos de moeda, base monetária e meios de pagamentos.
+    - Mercados Financeiros e Política Monetária: Moeda, Sistema Monetário e Política
+    Monetária; Inflação; Intermediação Financeira; Sistema Financeiro Nacional; Instrumentos
+    de Política Monetária. - Mercados Financeiros: Mercado Formal e Mercados Informais;
+    Evolução histórica e estrutura atual; Situação atual dos financiamentos no Brasil;
+    Programas existentes, fontes de recursos.'
+  course_name: 'LES0675 - Economia Monetária
+
+    Monetary Economics'
+  deactivation: ''
+  instructors: 1968008 - Roberto Arruda de Souza Lima
+  lecture_credits: '4'
+  objectives: Proporcionar ao estudante os conhecimentos básicos a respeito da economia
+    monetária e do crédito, seu papel como instrumento de desenvolvimento e normas
+    gerais que regulamentam suas operações. Ministrar conhecimentos sobre a importância
+    e o funcionamento dos mercados financeiros. Discutir os principais instrumentos
+    de política monetária e seus efeitos no desenvolvimento econômico do país.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612212520'
+digest: BH5PO6LZAT77WWNMZPC3376LHTNLDA2W
+updated_at: '20210612212520'
+url: https://web.archive.org/web/20210612212520id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0675&verdis=9
