@@ -1,0 +1,59 @@
+courses:
+  activation: 01/01/2019
+  assessment: Uma prova com toda a matéria lecionada. Estará apto a efetuar a prova
+    de recuperação o aluno que tiver como média final na disciplina uma nota igual
+    ou superior a três (3,0) e inferior a cinco (5,0), e tiver, no mínimo, 70% (setenta
+    por cento) de frequência às aulas. O cálculo de uma média aritmética simples será
+    feito com a nota da prova de recuperação e a média final obtida pelo aluno na
+    disciplina. Se esta média resultar em nota igual ou superior a cinco (5,0), o
+    aluno será aprovado.
+  bibliography: 'Literatura Básica:
+
+    CARVALHO, M. M; RABECHINI JR.; R. Fundamentos em gestão de projetos: construindo
+    competências para gerenciar projetos. São Paulo: Atlas, 2011. MAXIMIANO, A. C.
+    A. Administração de projetos: como transformar ideias em resultados. São Paulo:
+    Atlas, 2014. PRESSMAN, R. S. Engenharia de software: uma abordagem profissional.
+    Porto Alegre: Bookman, 2011. PROJECT MANAGEMENT INSTITUTE. Um guia do conhecimento
+    em gerenciamento de projetos (guia PMBOK). São Paulo: Saraiva, 2014. SOMMERVILLE,
+    I. Engenharia de software. São Paulo: Pearson, 2011.
+
+    Literatura Complementar:
+
+    DEITEL, P.; DEITEL, H. Java: como programar. São Paulo: Pearson, 2010. FORBELLONE,
+    A. L. V.; EBERSPACHER, H. F. Lógica de programação: a construção de algoritmos
+    e estruturas de dados. São Paulo: Pearson, 2005. LAUDON, K.; LAUDON, J. Sistemas
+    de informações gerenciais. São Paulo: Pearson, 2010. O’BRIEN, J. A.; MARAKAS,
+    G. M. Administração de sistemas de informação. Porto Alegre: Bookman, 2013. REZENDE,
+    D. A.; ABREU, A. F. Tecnologia da informação aplicada a sistemas de informação
+    empresariais. São Paulo: Atlas, 2013. STAIR, R. M.; REYNOLDS, G.W. Princípios
+    de sistemas de informação. São Paulo: Cengage, 2013. TURBAN, E.; VOLONINO, L.
+    Tecnologia da informação para gestão: em busca do melhor desempenho estratégico
+    e operacional. Porto Alegre: Bookman, 2013.'
+  course: 'Desenvolvimento de sistemas de informação e os desafios para o administrador
+
+    Gestão dos processos de negócios e desenvolvimento de sistemas de informação
+
+    Gestão de projetos de sistemas de informação
+
+    Engenharia de software
+
+    Modelos para desenvolvimento de SI
+
+    Fases do desenvolvimento de sistemas de informação'
+  course_name: 'LES0750 - Desenvolvimento de Sistemas de Informação
+
+    Information Systems Development'
+  deactivation: ''
+  instructors: 5863920 - Catarina Barbosa Careta
+  lecture_credits: '2'
+  objectives: Apresentar conceitos e técnicas sobre desenvolvimento de sistemas de
+    informação, capacitando o futuro administrador a analisar processos e projetar
+    sistemas de informação que atuem como ferramentas de apoio a tomada de decisões
+    e fontes estratégicas de vantagem competitiva.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20210612201735'
+digest: NMWQKRBWD4UDLYB63GFKBZOHSOG6VBNK
+updated_at: '20210612201735'
+url: https://web.archive.org/web/20210612201735id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0750&verdis=2
