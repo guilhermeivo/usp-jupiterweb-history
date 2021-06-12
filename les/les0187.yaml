@@ -1,0 +1,43 @@
+courses:
+  activation: 01/01/2018
+  assessment: O aluno será submetido a uma prova de recuperação.
+  bibliography: 'Literatura Básica:
+
+    1. ASSAF NETO, A. Matemática Financeira e suas Aplicações. Atlas, 2009.
+
+    2. CARVALHO, L. C. S. Matemática Financeira Aplicada. Editora FGV, 2009.
+
+    3. HUMMEL, P. R. Matemática Financeira e Engenharia Econômica. 1ª. Edição, Thomson
+    Pioneira.
+
+    Literatura Complementar:
+
+    LIMA, R.A.S.; NISHIYAMA, A.M. Contratos bancários aspectos jurídicos e técnicos
+    da matemática financeira para advogados. São Paulo: Atlas, 2007
+
+    ROSS, Stephen A.; WESTERFIELD, Randolph W.; JAFFE, Jeffrey F. Administração financeira.
+    São Paulo: Atlas, 2002
+
+    LIMA, RAS. Economia Aplicada à Agropecuária. Apostila 2013.
+
+    TORRES, Oswaldo F.F. Fundamentos de Enegenharia Econômica. São Paulo: Thomson
+    Learning, 2006.'
+  course: O curso trata de princípios de matemática financeira e sua aplicação na
+    análise de investimentos com enfoque no agronegócio, além de tópicos de crédito
+    rural.
+  course_name: 'LES0187 - Finanças Aplicadas ao Agronegócio
+
+    Finance Applied to Agribusiness'
+  deactivation: ''
+  instructors: 1968008 - Roberto Arruda de Souza Lima
+  lecture_credits: '2'
+  objectives: Capacitar quanto aos princípios e às técnicas de matemática financeira
+    e sua utilização em finanças, análise de investimentos e engenharia econômica,
+    conceitos e aplicações de crédito rural.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20210612203948'
+digest: W3JMAQRKKC5NQ5LADUG4D3PFZEGVVCI6
+updated_at: '20210612203948'
+url: https://web.archive.org/web/20210612203948id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0187&verdis=1
