@@ -1,0 +1,65 @@
+courses:
+  activation: 01/01/2014
+  assessment: Uma única prova, com toda matéria lecionada
+  bibliography: "Barros, G.S.A C. 2010. Macroeconomia: Crescimento e Ciclos Econômicos.\
+    \ LES/ESALQ/USP.\nLeituras recomendadas:\n\tRomer, D.2006. Advanced Macroeconomics.\
+    \ McGraw-Hill.\n\tBlanchard, O.2007. Macroeconomia. Prentice Hall.\n\tJones,\
+    \ C.I. 2000. Teoria do Crescimento Econômico. Editora Campus.\n\tFroyen, R.T.1999.\
+    \ Macroeconomia. Editora Saraiva.\n\tBarro, R.J., X. Sala-i-Martin. Economic\
+    \ Growth. The MIT Press.\n\tParkin,M. 1984. Macroeconomics. Prentice Hall.\n\
+    \tBranson, W.H. 1989. Macroeconomic Theory and Policy. Harper & Row.\n\tHall\
+    \ R.E. & J.B. Taylor. 1988. Macro-Economics-Theory, Performance and Policy. W.W.\
+    \ Norton, New York.\n\tSargent, T.J. 1979. Macroeconomic Theory. Academic Press,\
+    \ Orlando, Florida.\n\tAttfield,C.L.F., D. Demery & N.W. Duck. 1985. Rational\
+    \ Expectation in Macroeconomics An introduction to Theory and Evidence. Basil\
+    \ Blackwell Inc.,New York.\n\tMinford, P. 1992. Rational Expectation Macroeconomics:\
+    \ an introductory handbook. Blackwell Publishers."
+  course: "Parte I. O Longo Prazo: o crescimento econômico\n1. O Crescimento de Longo\
+    \ Prazo: Brasil e outros países\n2. Teorias e Evidências: Importância da poupança\
+    \ e do capital\na.Modelo \x93AK\x94\n3. Teorias e Evidências: O conhecimento e\
+    \ eficiência do trabalho\na. Modelo de Solow\n4. Crescimento no Brasil: indo além\
+    \ da poupança\n5. Acumulação de capital\na. Poupança, preço do capital, utilização\
+    \ da capacidade, produtividade\n6. Crescimento do produto (PIB)\na. Acumulação\
+    \ de capital, força de trabalho, tecnologia (produtividade total)\n7. Crescimento\
+    \ da Produtividade Total\na. Progresso tecnológico, eficiência técnica, efeito\
+    \ escala, efeito alocativo\n8. Crescimento e Taxas de Juros\na. Poupança endógena:\
+    \ Modelo de Ramsey\nParte II. Ciclos Econômicos de Curto prazo: a busca da estabilidade\n\
+    1. Economia Fechada\na. Curva de Phillips e Síntese Neoclássica\n2. Economia Aberta\n\
+    a. Taxa de Câmbio Fixa, Taxa de Câmbio Flexível\n3. Políticas Macroeconômicas\n\
+    4. Oferta Agregada com Expectativas\n5. Expectativas Racionais\na. Modelo Novo-Clássico\n\
+    b. Modelo Novo-Keynesiano\n6. Avaliação de Políticas Macroeconômicas\na. Choques\
+    \ Antecipados e Não-Antecipados na Demanda e Oferta Agregada\nb. Política Ótima\
+    \ com Relação a Emprego e Inflação\n7. Políticas Fiscais e Sustentabilidade da\
+    \ Divida\na. Senhoriagem e Imposto Inflacionário\nb. Bolha Inflacionária\nc. Equivalência\
+    \ Ricardiana, Sustentabilidade e Crescimento"
+  course_name: 'LES0557 - Teoria Macroeconômica II
+
+    Macroeconomic Theory II'
+  deactivation: ''
+  instructors: 3043376 - Alexandre Nunes de Almeida
+  lecture_credits: '4'
+  objectives: "A disciplina visa a alcançar dois objetivos.\nO primeiro é examinar\
+    \ os desenvolvimentos da macroeconomia no longo prazo, isto é, na perspectiva\
+    \ do crescimento econômico. A questão central: por quê o Brasil tem ficado para\
+    \ trás no contexto internacional? Compara-se a o desempenho do Brasil ao de outros\
+    \ países, discutindo-se os possíveis determinantes da evolução observada tanto\
+    \ do ponto de vista teórico como à luz das evidências disponíveis. São examinados\
+    \ os papéis da poupança e da acumulação de capital, do conhecimento e da tecnologia\
+    \ e da eficiência seus efeitos sobre a produtividade e renda per capita.\nO segundo\
+    \ objetivo, focando no curto e médio prazo, é apresentar uma síntese dos principais\
+    \ desenvolvimentos nas políticas de estabilização a partir dos anos 1970. A questão\
+    \ central é: O que provoca os ciclos econômicos e o que pode ser feito para estabilizá-los?\
+    \ Trata-se fundamentalmente da chamada \x93síntese neoclássica\x94, isto é, dos\
+    \ desenvolvimentos teóricos a partir da integração das idéias de Keynes e dos\
+    \ Clássicos, com ênfase no papel das expectativas e os debates em torno da Curva\
+    \ de Phillips. Segue-se, então, a incorporação da teoria das expectativas racionais\
+    \ e suas implicações nos vários campos da macroeconomia. Sob esse enfoque, discutem-se\
+    \ a eficácia das políticas de estabilização face aos choques de demanda e oferta,\
+    \ a escolha das políticas, o papel da dívida pública e sua sustentabilidade."
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612204025'
+digest: 7KPAQZQ33OYGW6GVQOHANFHCK7UFTUXE
+updated_at: '20210612204025'
+url: https://web.archive.org/web/20210612204025id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0557&verdis=5
