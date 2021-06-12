@@ -1,0 +1,39 @@
+courses:
+  activation: 01/01/2014
+  assessment: Uma prova com toda a matéria lecionada.
+  bibliography: 'Batalha, M.O. (coordenador). Gestão Agroindustrial. São Paulo, Editora
+    Atlas, 3ª. Edição, 2009 Callado, A.A.C. (orgtanizador). Agronegócios. São Paulo,
+    Editora Atlas, 2011
+
+    Esalq/Usp. Visão Agrícola. Piracicaba, São Paulo. Vários números abrangendo cadeias
+    de interesse econômico: Escola Superior de Agricultura Luiz de Queiroz. Normas
+    para elaboração de dissertação de teses. Piracicaba 3ª. Edição, 2007.
+
+    Neves, M.C.; D. Zylbersztajn& E. M. Neves. Agronegócio do Brasil. São Paulo, Editora
+    Saraiva, 2005.
+
+    ZYLBERSZTAJN, D. & M.F. NEVES (editores). Economia e Gestão dos Negócios Agroalimentares.
+    São Paulo, Editora Pioneira, 2000.'
+  course: "a) Visita aos sistemas de produção agrícola e zootécnico da ESALQ. b) Agronegócio\
+    \ do Brasil. c) Princípios de Produção Vegetal. d) Princípios de Produção Animal.\
+    \ e) Produção e Conservação de Alimentos. f) Produção e Mercado de Grãos \x96\
+    \ soja e milho. g) Produção e Mercado de Carnes-boi, suinos e aves. h) Produção\
+    \ e Mercado Hortícola e de Frutas. j) Produção e Mercado Sucroalcooleiro. l)Produção\
+    \ e Mercado de Leite. m)Mercado de Alimentos Processados. n)Varejo de Alimentos.o)Logística\
+    \ do Agronegócio; p) Fontes de Financiamento;"
+  course_name: 'LES0202 - Economia e Administração dos Sistemas de Produção Agroindustrial
+
+    Economics and Management of Agro-Industrial Production Systems'
+  deactivation: ''
+  instructors: 2715154 - Carlos Jose Caetano Bacha
+  lecture_credits: '4'
+  objectives: Este curso visa oferecer aos alunos dos Cursos de Ciências Econômicas,
+    Administração e Ciências dos Alimentos a possibilidade de conhecer os aspectos
+    técnicos e econômicos das principais cadeias de produção agroindustriais.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612212706'
+digest: BU4UT47SOMNELVPSBRDXV63LMWBL2H6I
+updated_at: '20210612212706'
+url: https://web.archive.org/web/20210612212706id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0202&verdis=4
