@@ -1,0 +1,35 @@
+courses:
+  activation: 01/01/2017
+  assessment: Uma prova com toda a matéria lecionada.
+  bibliography: 'BACHA, C.J.C. Entendendo a Economia Brasileira. Campinas: Alínea
+    Editora, 2007; BACHA, C.J.C. Macroeconomia Aplicada à Análise da Economia Brasileira.
+    São Paulo: EDUSP, 2004. MANKIW, N. G. Introdução à economia. São Paulo: Editora
+    Pioneira/Thomson, 3a edição, 2005.. PINDYCK, R.S. e RUBINFELD, D.L. Microeconomia,
+    7ª edição. São Paulo: Prentice Hall, 2010. PINHO, D. B. e VASCONCELLOS, M. A.
+    S. Manual de economia. São Paulo: Editora Saraiva, 2004. STIGLITZ, J. E. e WALSH,
+    C. E. Introdução à microeconomia. Rio de Janeiro: Campus, 2003. STIGLITZ, J. E.
+    e WALSH, C. E. Introdução à macroeconomia. Rio de Janeiro: Campus, 2003. VASCONCELOS,
+    M.A.S e GARCIA, M.E. Fundamentos de Economia. São Paulo: Saraiva, 2003.'
+  course: 'Noções gerais de Microeconomia: Teoria do Consumidor; Teoria da Firma;
+    Estruturas de Mercado; Externalidades e bens públicos. Noções gerais de Macroeconomia:
+    Medidas de Atividade Econômica; Sistema Monetário; Política Cambial e Balanço
+    de Pagamentos; Política Fiscal; Inflação e Índices de Preços.'
+  course_name: 'LES0101 - Introdução à Economia
+
+    Introduction to Economics'
+  deactivation: ''
+  instructors: '2715154 - Carlos Jose Caetano Bacha
+
+    1906631 - Silvia Helena Galvao de Miranda'
+  lecture_credits: '4'
+  objectives: Prover o estudante com conceitos básicos de economia, sua evolução e
+    seus principais instrumentos de análise.  O aluno ao final deste curso estará
+    apto a discutir e entender as noções gerais de microeconomia, macroeconomia e
+    desenvolvimento econômico.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612201651'
+digest: GLITI44MIQ67N5B7KR3JMQ6PSA2XSI7K
+updated_at: '20210612201651'
+url: https://web.archive.org/web/20210612201651id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0101&verdis=6
