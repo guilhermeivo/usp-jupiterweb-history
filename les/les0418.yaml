@@ -1,0 +1,49 @@
+courses:
+  activation: 01/01/2016
+  assessment: Estará apto a efetuar a prova de reavaliação o aluno que tiver como
+    média final na disciplina uma nota igual ou superior a três (3,0) e inferior a
+    cinco (5,0), e tiver, no mínimo, 70% (setenta por cento) de frequência às aulas.
+    O cálculo de uma média aritmética simples será feito com a nota da prova de reavaliação
+    e a média final obtida pelo aluno na disciplina. Se esta média resultar em nota
+    igual ou superior a cinco (5,0), o aluno será aprovado.
+  bibliography: "Literatura Básica:\nCOSTA, E. A. Gestão Estratégica: Construindo\
+    \ o Futuro de sua Empresa \x96 Fácil. São Paulo: Saraiva, 2012, 227p. HITT, M.\
+    \ A.; IRELAND, R. D.; HOSKISSON, R. E. Administração Estratégica. 4a. ed. São\
+    \ Paulo: Thompson, 2003, 550p. KAPLAN, R. S.; NORTON, D. P. Organização Orientada\
+    \ para Estratégia. Ed. Campus: Rio de Janeiro, 2001, 411p. MINTZBERG, H.; AHLSTRAND,\
+    \ B. Safári de Estratégia. Bookman: São Paulo, 2000, 299p.\nLeitura Complementar:\n\
+    ANSOFF, Igor. Implementando a Administração Estratégica. Tradução de Antônio Zoratto\
+    \ Sasnvicente. São Paulo: Atlas, 1993, 590p. BESANKO, D.; DRANOVE, D.; SHANLEY,\
+    \ M. Economics of Strategy, Wiley, 2ª. Ed., 2000, 644p. DEGEN, R. J. O empreendedor:\
+    \ fundamentos da iniciativa empresarial. São Paulo: Makron Books, 1989, 368p.\
+    \ FISCHMANN, A. A.; ALMEIDA, M. I. R. Planejamento estratégico na prática. São\
+    \ Paulo: Atlas, 1991, 164p. OLIVEIRA, D. P. R. Planejamento estratégico: conceitos,\
+    \ metodologia e prática. São Paulo: Atlas, 2001, 337p. PORTER, M. E. Estratégia\
+    \ Competitiva: técnicas para análise de indústrias e da concorrência. 5ª ed,.\
+    \ Rio de Janeiro: Campus, 1991. 362p."
+  course: Aspectos Teóricos e Metodológicos da Vantagem Competitiva. Formulação, Implementação
+    e Mudança das Estratégias. Estratégia e Conhecimento. Estratégias Empresariais
+    e Corporativas. Estratégia, Sustentabilidade Socioambiental e Ética Corporativa.
+    Estratégia e Empreendedorismo. Estratégia e Cooperação. Negócios Internacionais.
+    Modelagem e Mensuração do Desempenho. Perspectivas Organizacionais e Sociológicas
+    da Estratégia. Estratégia, Governo e Desenvolvimento.
+  course_name: 'LES0418 - Estratégia em Organizações
+
+    Strategy in Organizations'
+  deactivation: ''
+  instructors: 5098002 - Carlos Eduardo de Freitas Vian
+  lecture_credits: '4'
+  objectives: O objetivo da disciplina é propiciar ao aluno uma visão crítica e ética
+    sobre a estratégia, explorando sua aplicação à realidade organizacional no escopo
+    das suas teorias, ferramentas e perspectivas. Alinhado ao eixo formativo e profissional
+    do aluno, a abordagem de temas relevantes como vantagem competitiva, empreendedorismo,
+    gestão e planejamento estratégico, conferem reflexões e aplicações pertinentes
+    sob o viés das questões ética, econômica, ambiental e social da estratégia e da
+    sustentabilidade nas organizações.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612205433'
+digest: WA6VIOB72HLSSBE2AKVFOFI4SPIL3LU7
+updated_at: '20210612205433'
+url: https://web.archive.org/web/20210612205433id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0418&verdis=2
