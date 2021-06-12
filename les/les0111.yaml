@@ -1,0 +1,41 @@
+courses:
+  activation: 01/01/2014
+  assessment: Uma prova escrita, envolvendo questões apresentadas ao longo do programa,
+    poderá ser aplicada no final do curso para efeito de recuperação.
+  bibliography: "BATEMAN, T.S. & Snell, S.A. (1998) Administração \x96 construindo\
+    \ vantagem competitiva. S. Paulo: Ed. Atlas. CLEGG, S. (1998) Organizational Studies\
+    \ Handbook. Longmann. Corson, W.H. (1996) Manual Global de Ecologia. S. Paulo:\
+    \ Augustus. Coltro (2004). As abordagens da gestão ambiental frente os princípios\
+    \ da sustentabilidade. França, SP. Unicef. DONAIRE, D. (1999) Gestão Ambiental.\
+    \ S.Paulo: Atlas. Feijó, C.A ET AL. (2001) Contabilidade Social \x96 o novo sistema\
+    \ de contas nacionais do Brasil. Rio de Janeiro, Ed. Campus.\nFERREIRA, L.C. (2001)\
+    \ Questões ambientais contemporâneas. Campinas: Unicamp. MAY, P.H. (1995) Economia\
+    \ Ecológica. Rio de Janeiro, Ed. Campus. PHILIPPI, Jr., Arlindo ET all. Curso\
+    \ de Gestão Ambiental. Barueri, SP: Manole, 2004. (Coleção Ambiental; 1)."
+  course: 'Introdução à Gestão Ambiental é uma disciplina essencial e obrigatória
+    dentro do curso e tem como principal finalidade oferecer aos alunos informações
+    sobre os princípios básicos da administração da relação entre homem e natureza.
+    Serão usados como referência para discussão os seguintes temas: História e Desenvolvimento
+    do Movimento Ambientalista, Desenvolvimento Sustentável, Consumo Consciente e
+    Mecanismos de Desenvolvimento Limpo, Serviços e Produtos Ambientais, Responsabilidade
+    Sócio-Ambiental Empresarial, Fiscalização Ambiental, Gestão de Mananciais Hídricos,
+    Resolução de Conflitos, Terceiro Setor e ONGs, Fontes Alternativas de Energia,
+    Certificação Ambiental, Protocolos Internacionais sobre Mudanças Climáticas e
+    Atmosféricas. Contribui para formação discente, introduzindo as noções preliminares
+    sobre Gestão Ambiental e seu caráter multidisciplinar.'
+  course_name: 'LES0111 - Introdução à Gestão Ambiental
+
+    LES0111 Introduction of Environmental Management'
+  deactivation: ''
+  instructors: 1564700 - Odaléia Telles Marcondes Machado Queiroz
+  lecture_credits: '3'
+  objectives: Esta disciplina tem como objetivo oferecer ao aluno a oportunidade de
+    conhecer as principais questões ambientais que justificam a formação e a ação
+    de um profissional especializado na administração de recursos naturais.
+  practical_credits: '0'
+  total_workload: 45 h
+  type: Semestral
+created_at: '20210612212926'
+digest: BS6L4NF4NYDHYLUI3FVUQTHCDNP6G63D
+updated_at: '20210612212926'
+url: https://web.archive.org/web/20210612212926id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0111&verdis=7
