@@ -1,0 +1,49 @@
+courses:
+  activation: 01/01/2014
+  assessment: Uma única prova com toda matéria lecionada.
+  bibliography: 'ALICE MONTEIRO DE BARROS. Curso de Direito do Trabalho. 9ª edição.
+    2013. LTr Editora. São Paulo.
+
+    AMAURI MASCARO NASCIMENTO. Iniciação ao Direito do Trabalho. 38ª edição. 2013.
+    LTr Editora. São Paulo.
+
+    AMAURI MASCARO NASCIMENTO. Curso de Direito do Trabalho. 27ª edição. 2012. Editora
+    saraiva. São Paulo.
+
+    AMAURI MASCARO NASCIMENTO. Direito Contemporâneo do Trabalho. 1ª edição. 2011.
+    Editora saraiva. São Paulo.
+
+    FRANCISCO FERREIRA JORGE NETO e JOUBERTO DE QUADROS PESSOA CAVALCANTE. Direito
+    do Trabalho. 7ª Edição. 2013. Editora Atlas. São Paulo.
+
+    MAURICIO GODINHO DELGADO. Curso de Direito do Trabalho. 12ª edição. 2013. LTr
+    Editora. São Paulo.
+
+    SERGIO PINTO MARTINS.  Direito do Trabalho. 29ª Edição. 2013. Editora Atlas. São
+    Paulo.'
+  course: '1. Introdução: 1.1 História do Direito do Trabalho; 1.2 Direito do Trabalho:
+    denominação, conceito, características, divisão, natureza jurídica; 1.3 Fontes
+    do Direito do Trabalho. 2. Direito Individual do Trabalho: 2.1 Teoria dos Contratos
+    de Trabalho; 2.2 Sujeitos e Formação do Contrato de Emprego; 2.3 Conteúdo do Contrato
+    de Emprego; 2.4 Tipos de Contrato de Emprego; 2.5 Contratos de Trabalho Diversos
+    dos Contratos de Emprego; 2.6 Extinção da Relação de Emprego. 3. Direito Coletivo
+    do Trabalho: 3.1 Definição, Histórico e Fontes; 3.2 Entidades Sindicais; 3.3 Negociação
+    Coletiva; 3.4 Poder Normativo da Justiça do Trabalho; 3.5 Greve.'
+  course_name: 'LES0320 - Direito do Trabalho
+
+    Labor Law'
+  deactivation: ''
+  instructors: 8819776 - Andres Felipe Thiago Selingardi Guardia
+  lecture_credits: '2'
+  objectives: '- A disciplina objetiva abordar temas gerais do direito do trabalho
+    que estão necessariamente relacionados com a prática do profissional de Administração.
+    Por meio da transmissão de conceitos básicos, será fornecido instrumental para
+    orientação do futuro profissional nas questões jurídicas, na área do direito do
+    trabalho, que surgirão no âmbito de suas atividades.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20210612211724'
+digest: 5KEI3EVHXFZE6FGE3PQVY35PY45SEAVG
+updated_at: '20210612211724'
+url: https://web.archive.org/web/20210612211724id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0320&verdis=2
