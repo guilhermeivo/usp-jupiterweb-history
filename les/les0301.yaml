@@ -1,0 +1,74 @@
+courses:
+  activation: 01/01/2015
+  assessment: Uma prova com toda a matéria lecionada.
+  bibliography: "AURELIANO, L. No limiar da industrialização. Campinas, Instituto\
+    \ de Economia da Unicamp, 1999. ABREU, M. (Organizador.). A ordem do progresso:\
+    \ cem anos de política econômica republicana 1889-1989. RJ. Ed. Campus, 1990.\
+    \ BAER, W. A economia brasileira. SP. Nobel, 1996.\nCANO, W \x96 Desigualdades\
+    \ Regionais e Concentração Industrial no Brasil. Campinas, Instituto de Economia.\
+    \ _________\x96 Raízes da Concentração Industrial em São Paulo. Campinas, Instituto\
+    \ de Economia.  CARDOSO de MELLO, J. M. O capitalismo tardio: contribuição à revisão\
+    \ crítica da formação e do desenvolvimento da economia brasileira. 10ª edição.\
+    \ Campinas: Instituto de Economia/UNICAMP, 1998.  Castro, A. B. Sete Ensaios sobre\
+    \ Economia Brasileira. Rio de Janeiro \x96 Forense. 2 Vol. FURTADO, C. Formação\
+    \ econômica do Brasil. 24ª edição. São Paulo: Nacional, 1991. GIAMBIAGGI, F. et\
+    \ all. Economia Brasileira Contemporânea (1945-2004). Rio de Janeiro \x96 Editora\
+    \ Campus Elsevier. 2005. GNACCARINI, J.C (1972). \x93Estado, Ideologia e Ação\
+    \ empresarial na Agroindústria Açucareira do Estado de São Paulo\x94. Tese de\
+    \ Doutorado. São Paulo: FFLCH/USP. GREMAUD, A.P.; VASCONCELOS,M.A.S.; TONETO JR.,\
+    \ R.   Economia Brasileira Contemporânea. S. Paulo: Atlas, 2002. LACERDA, A.C.\
+    \ et.al. Economia Brasileira. 2a.ed. S. Paulo: Saraiva, 2005.PELÁEZ, C.M. História\
+    \ Econômica do Brasil - um elo entre a teoria e a realidade econômica. São Paulo,\
+    \ Atlas, 1979. PIRES, M.C. (coord.) Economia Brasileira: da Colônia ao governo\
+    \ Lula. S. Paulo: Saraiva, 2010. PRADO JR., C. Formação do Brasil Contemporâneo.\
+    \ 5ª edição. São Paulo, Brasiliense, 1957. __________., C. A Revolução Brasileira.\
+    \ São Paulo, Brasiliense, 1966. __________., C. História Econômica do Brasil.\
+    \ 11ª edição. São Paulo, Brasiliense, 1969. QUEDA, O. (1972). \x93A Intervenção\
+    \ do Estado e a Agroindústria Açucareira Paulista\x94. Tese de Doutorado. Piracicaba.\
+    \ ESALQ/USP. RODRIGUEZ, O. Teoria do Subdesenvolvimento da CEPAL. 1. ed. Rio de\
+    \ Janeiro: Forense-Universitária, 1981. SELINGARDI-SAMPAIO. Industria e Território\
+    \ em São Paulo. Campinas. Editora Alínea. 2009. SILVA, S. Expansão cafeeira e\
+    \ origens da Indústria no Brasil. São Paulo: Alfa-Ômega, 1976. SKIDMORE, T. Brasil:\
+    \ de Getúlio a Castello Branco (1930-1964). Rio de Janeiro: Paz e Terra, 1975.\
+    \ SUZIGAN, W. Indústria Brasileira - Origem e Desenvolvimento. SP, Brasiliense,\
+    \ 1986. TAVARES, M. C. Da Substituição de Importações ao Capitalismo Financeiro.\
+    \ RJ, Zahar, 1972. VERSIANI, F. R.; BARROS; J.R.M \x96 Formação Econômica do Brasil:\
+    \ A experiência da Industrialização. São Paulo, Editora Saraiva. 1978. VILLELA,\
+    \ A. V. Política de Governo e crescimento da economia Brasileira 1889-1945. Brasília.\
+    \ IPEA.2001."
+  course: "1. O Modelo Agroexportador: Auge e Decadência da economia agroexportadora\
+    \ cafeeira: a) A política econômica  cafeeira (política cambial, Convênio de Taubaté\
+    \ e Política de Valorização permanente);  b) A crise do café e a grande depressão.\
+    \ 2. Processo de Substituição de Importações: o modelo de Substituição de Importações;\
+    \ a)  O projeto nacionalista de Getúlio Vargas; b) Os impasses das mudanças estruturais\
+    \ do Pós-Guerra; 3) O Plano de Metas de Juscelino Kubistchek; a)  o avanço da\
+    \ industrialização pesada,  a  internalização da indústria de bens duráveis (1956-1961);\
+    \ b) Os anos 1960 e a desaceleração no ritmo dos investimentos públicos e privados:\
+    \ desequilíbrios e pontos de estrangulamento da Economia Brasileira e crise político-institucional;\
+    \ 4) O Golpe Militar de 1964 e o avanço da internacionalização da economia brasileira,\
+    \ a) o PAEG e as bases do Milagre Brasileiro; 5) O Milagre Brasileiro: crescimento\
+    \ econômico e desigualdades social e regional;  6) O II Plano Nacional de Desenvolvimento,\
+    \ \x93o grande salto para Frente\x94; 7) as mazelas do processo de industrialização\
+    \ brasileira: crise fiscal do Estado, Inflação e Dívida Externa."
+  course_name: 'LES0301 - Formação Econômica, Social e Política do Brasil II
+
+    Brazilian Economic, Social and Political Formation II'
+  deactivation: ''
+  instructors: 5098002 - Carlos Eduardo de Freitas Vian
+  lecture_credits: '4'
+  objectives: Levar os alunos à compreensão do desenvolvimento do capitalismo no Brasil,
+    a partir da sua inserção subordinada na divisão internacional do trabalho como
+    economia agroexportadora, a crise e superação do modelo primário-exportador e
+    a transição para uma economia industrial. Oferecer aos alunos subsídios para a
+    compreensão das especificidades da industrialização brasileira, seus desafios
+    e fragilidades, procurando apresentar o debate em torno das opções assumidas pelos
+    tomadores de decisões em suas várias fases, bem como antecipar os elementos para
+    uma reflexão dos impasses colocados à economia brasileira a partir da reversão
+    cíclica e estrutural dos anos 1980/1990.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20210612212328'
+digest: RGTGWGZTN5EXRGZQ4WVI32OVR2APNV7V
+updated_at: '20210612212328'
+url: https://web.archive.org/web/20210612212328id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0301&verdis=6
