@@ -1,0 +1,38 @@
+courses:
+  activation: 01/01/2014
+  assessment: Uma única prova com toda matéria lecionada
+  bibliography: 'ELY, A., Economia do Meio Ambiente. Fundação de Economia e Estatística,
+    Porto Alegre, RS, 1986.  156p.
+
+    MARGULIS, S. (ed.). Meio Ambiente: aspectos técnicos e econômicos. IPEA, Brasília,
+    1990.  246p.
+
+    MEADOWS, D.H. et alii. Limites do Crescimento. Editora Perspectiva, São Paulo,
+    1973 (?)  203p.
+
+    RANDALL, A.  Resource Economics.  Willey, 2_ edição, 1987.'
+  course: a)Introdução:- visão geral da disponibilidade e uso de alguns recursos naturais
+    e ambientais e tendências  do uso desses recursos; b)Evolução histórica da economia
+    dos recursos naturais e ambientais; c) O conceito de escassez e o limite ao crescimento;
+    d) As noções de recurso exaurível, fluxo, fundo e biológico; e) Conceito  de eficiência
+    na análise de equilíbrio geral e a teoria do bem-estar; f) Bens não-exclusíveis,
+    não rivais e congestionáveis; g) O conceito de externalidade; h) Análise benefício-custo
+    e a valoração dos recursos naturais e ambientais.
+  course_name: 'LES0687 - Economia dos Recursos Naturais e Ambientais
+
+    Natural Resources and Environment Economics'
+  deactivation: ''
+  instructors: 52012 - Ricardo Shirota
+  lecture_credits: '4'
+  objectives: a)Proporcionar um conhecimento geral da situação atual e tendências  da
+    disponibilidade e uso dos recursos naturais e ambientais; b) Apresentar e desenvolver
+    base teórica e instrumental analítico necessários para a análise de políticas
+    econômicas relacionadas com esses recursos; c) Analisar alguns estudos de casos
+    (de interesse corrente) a respeito de recursos naturais e ambientais.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612204628'
+digest: 6N4TZNT6DNNMHULXIX3NHL3LPJKOCQWN
+updated_at: '20210612204628'
+url: https://web.archive.org/web/20210612204628id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0687&verdis=3
