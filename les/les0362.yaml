@@ -1,0 +1,99 @@
+courses:
+  activation: 01/01/2016
+  assessment: A recuperação será realizada ao término da disciplina, no período estipulado
+    no calendário escolar. O professor poderá solicitar ao aluno a realização de uma
+    prova escrita e/ou elaboração de um projeto de pesquisa individualmente. A nota
+    final, após a recuperação, será obtida calculando-se a média aritmética da nota
+    obtida na disciplina e da recuperação. Para aprovação, o resultado deverá ser
+    maior ou igual a 5,0 (cinco).
+  bibliography: 'Literatura Básica:
+
+    ALVES-MAZZOTTI, Alda J.; GEWANDSZNAJDER, F. O método nas ciências naturais e sociais:
+    pesquisa quantitativa e qualitativa. São Paulo: Pioneira, 2001.
+
+    BARBIER, René. A pesquisa-ação. Tradução Lucie Didio. Brasília: Plano, 2007.
+
+    BELL, J. Projeto de Pesquisa: guia para pesquisadores iniciantes em educação,
+    saúde e ciências sociais.  Tradução de Magda França Lopes. Porto Alegre: Artmed,
+    2008.
+
+    BRANDÃO, C. R. Pesquisa participante. 7 ed. São Paulo: Ed. Brasiliense, 1988.
+
+    CRESWELL, J. W., CLARK, V.L.P. PESQUISA DE MÉTODOS MISTOS - série métodos de pesquisa
+    - 2ª Ed. São Paulo:Editora Penso, 2014.
+
+    DEMO, Pedro. Metodologia de Conhecimento Científico. São Paulo: Atlas, 2000.
+
+    LANKSHEAR, C; KNOBEL, M. Pesquisa Pedagógica: do projeto à implementação. Tradução
+    de Magda França Lopes. Porto Alegre: Artmed, 2008.
+
+    LUDKE, M; ANDRÉ, M.E.D.A. Pesquisa em Educação: abordagens qualitativas. São Paulo:
+    E.P.U., 2012.
+
+    RIBEIRO, L. R. C. Aprendizagem Baseada em Problemas: PBL uma experiência no ensino
+    superior. São Carlos: Edufscar, 2008.
+
+    SEVERINO, Antonio Joaquim. Metodologia do trabalho científico. São Paulo: Cortez,
+    2002.
+
+    Também serão utilizados artigos científicos das áreas de Educação e Agrárias,
+    disponibilizados nas bases de dados.
+
+    Literatura Complementar:
+
+    BARBOUR, R. Grupos focais. Tradução de Marcelo Figueiredo Duarte. Porto Alegre:
+    Artmed, 2009.
+
+    BARDIN, L. Análise de conteúdo. São Paulo: Editora 70. 2008.
+
+    THIOLLENT, M. Metodologia da Pesquisa - Ação. 6a ed. São Paulo: Ed. Cortez, 1994.
+
+    SANTORO, M. A.F. e GHEFIN, E. Questões de método na construção da pesquisa em
+    educação. Coleção docência em formação. Serie Saberes pedagógicos. SEVERINO, A.
+    J. e GARRIDO, S.P. 2 ed. São Paulo: Cortez, 2011.'
+  course: '1.  Introdução à pesquisa Pedagógica;
+
+    2.  A Pesquisa como Investigação Sistemática;
+
+    3.  Aspectos fundamentais da Investigação Científica;
+
+    4.  Referencial teórico para base científica do tema escolhido;
+
+    5.  Importância da Hipótese e da Questão de pesquisa;
+
+    6.  Objetivos gerais e específicos da pesquisa;
+
+    7.  Estudos de caso;
+
+    8.  Aprendizagem Baseada em Problemas: PBL
+
+    9.  Pesquisa Etnográfica;
+
+    10. Pesquisa participante e Pesquisa-ação;
+
+    11. Pesquisa estatísticas: enquetes e opinião;
+
+    12. Pesquisa experimental
+
+    13. Procedimentos e Instrumentos de Coleta e Análise de dados: evidências documentais,
+    questionários, entervistas, diários, registros e observação;
+
+    14. Procedimentos para relatar as evidências e formular as conclusões.'
+  course_name: 'LES0362 - Preparação do Projeto de Pesquisa em Engenharia Agronômica
+
+    Research Project in Agriculture'
+  deactivation: ''
+  instructors: 1895432 - Rosebelly Nunes Marques
+  lecture_credits: '2'
+  objectives: Apresentar ao estudante os elementos constitutivos de um projeto de
+    pesquisa e definir a base teórica e conceitual. O propósito principal é possibilitar
+    ao estudante a capacidade de elaborar o pré-projeto de Pesquisa do Trabalho de
+    Conclusão de Curso, identificando os tipos de pesquisa, procedimentos e instrumentos
+    de coleta e análise de dados qualitativos, quantitativos e mistos.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20210612212815'
+digest: CVG4MOEYQEYX2M65ML7XIQR4G66K3LE6
+updated_at: '20210612212815'
+url: https://web.archive.org/web/20210612212815id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0362&verdis=1
