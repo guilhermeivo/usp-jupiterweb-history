@@ -1,0 +1,51 @@
+courses:
+  activation: 01/01/2013
+  assessment: A recuperação será feita por meio de uma prova adicional que comporá
+    a nota final de avaliação. O aluno será considerado aprovado se a média aritmética
+    entre a nota obtida na avaliação normal e a nota obtida nesta prova adicional
+    for maior ou igual a 5,0 (cinco).
+  bibliography: 'ARIAS, R. M. El análisis multivariante en la investigación científica.
+    Madrid: Editorial La Muralla, 1999. HAIR JR., J. F.; ANDERSON, R. E.; TATHAM,
+    R. L.; BLACK, W. C. Análise multivariada de dados. 5. ed. Porto Alegre: Bookman,
+    2005. JOHNSON, R. A.; WICHERN, D. W. Applied multivariate statistical analysis.
+    6. ed. Upper Saddle River: Pearson Education, 2007. MAROCO, J. Análise estatística
+    com utilização do SPSS. 2. ed. Lisboa: Edições Sílabo, 2003. PESTANA, M. H.; GAGEIRO,
+    J. N. Análise de dados para ciências sociais: a complementaridade do SPSS. 4.
+    ed. Lisboa: Edições Sílabo, 2005. SHARMA, S. Applied multivariate techniques.
+    Hoboken: John Wiley and Sons, 1996. VASCONCELLOS, M. A. S.; ALVES, D. (Coord.).
+    Manual de econometria. São Paulo: Atlas, 2000.'
+  course: 'Variáveis Aleatórias Multidimensionais, Amostras Aleatórias, Estatísticas
+    Descritivas, Distâncias, Variâncias Generalizadas e Aspectos Geométricos, Álgebra
+    Vetorial, Álgebra Matricial, Algumas Distribuições Multivariadas, Análise de Variância
+    Multivariada, Análise de Agrupamento - visão geral, objetivos e análise de resultados,
+    Medidas de Similaridade e Dissimilaridade, Agrupamentos Hierárquicos, Componentes
+    Principais - visão geral, objetivos e análise de resultados, Análise Fatorial
+    - método de extração: componentes principais: visão geral, objetivos e análise
+    de resultados, Análise Discriminante - visão geral, objetivos e análise de resultados,
+    Regressão Simples e Múltipla - visão geral, objetivos e análise de resultados,
+    Introdução aos Modelos Lineares Generalizados - visão geral, objetivos e análise
+    de resultados.'
+  course_name: 'LES0773 - Estatística Aplicada III (Análise Multivariada)
+
+    Applied Statistics III (Multivariate Analysis)'
+  deactivation: ''
+  instructors: 1777242 - Vitor Augusto Ozaki
+  lecture_credits: '4'
+  objectives: "A disciplina tem como objetivo principal capacitar os alunos para o\
+    \ entendimento e compreensão de diversas técnicas de análise multivariada, com\
+    \ enfoque para aplicações em ciências contábeis e atuariais.\nO conteúdo a ser\
+    \ discutido visa complementar a utilização de microcomputadores por parte dos\
+    \ alunos, considerando os aspectos relacionados à elaboração, tratamento e análise\
+    \ de bancos de dados.\nO intuito é que o aluno adquira conhecimentos e habilidades\
+    \ sobre o assunto \x93Gerenciamento e Tratamento de Bancos de Dados\x94, por meio\
+    \ de discussão de conceitos e oferta de espaço para treinamento, em laboratório,\
+    \ de questões práticas relativas ao seu uso.\nÉ prevista revisão conceitual profunda\
+    \ de tratamento e análise de bancos de dados em sessões de laboratório, relacionadas\
+    \ com aplicação prática de softwares como SPSS e SAS."
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612203649'
+digest: HMGPCCE7QCA7QZE2XIFKONBIRHYCDSRL
+updated_at: '20210612203649'
+url: https://web.archive.org/web/20210612203649id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0773&verdis=1
