@@ -1,0 +1,75 @@
+courses:
+  activation: 01/01/2019
+  assessment: Uma única prova com toda matéria lecionada.
+  bibliography: 'Literatura Básica:
+
+    ROSS, S.; WESTERFIELD, R.W.; JAFFE, J.F. Administração financeira. Trad. Sanvicente,
+    A.Z. 10. ed. São Paulo: Atlas, 2015.
+
+    ASSAF NETO, A. Finanças corporativas e valor. 7. ed. São Paulo: Atlas, 2014.
+
+    GITMAN, L.J. Princípios de administração financeira. 12ª edição, São Paulo: Prentice
+    Hall, 2010.
+
+    Literatura Complementar:
+
+    ASSAF NETO, A.; LIMA, F.G. Fundamentos de administração Financeira. 3. ed.. São
+    Paulo: Atlas, 2017.
+
+    ASSAF NETO, A. Matemática financeira: edição universitária. São Paulo: Atlas,
+    2017.
+
+    GITMAN, L.J. Princípios de administração financeira. 12. ed. São Paulo: Pearson
+    Prentice Hall, 2010.'
+  course: 'a) Introdução às finanças corporativas: Introdução à administração financeira;
+    responsabilidades contemporâneas da administração financeira; a empresa de capital
+    aberto, a importância da administração financeira; regulamentação;
+
+    b) Teoria de finanças e finanças comportamentais: controle da empresa de capital
+    aberto; propriedade e administração; conflitos de agência; fundamentos sociais
+    da empresa; teoria da utilidade; finanças comportamentais;
+
+    c) Ambiente financeiro brasileiro: sistema financeiro nacional; ativos financeiros;
+    mercados de ações; ativos financeiros: renda fixa e variável (ações e títulos
+    públicos e privados);
+
+    d) Revisão de matemática financeira: valor futuro, períodos de capitalização,
+    VPL, TIR, perpetuidade, amortização de empréstimos;
+
+    e) Decisão de investimento de capital: fluxos de caixa incrementais, inflação
+    e orçamento de capital;
+
+    f) Avaliação de títulos de renda fixa e renda variável (em especial, ações): mercados
+    de título de dívida públicos e títulos privados, classificação de risco, determinantes
+    dos retornos, características gerais dos títulos brasileiros, valor presente das
+    ações, análise de dividendos, índice preço/lucro, índices de valor de empresa,
+    mercados de ações;
+
+    g) Desempenho operacional e alavancagem financeira: resultado operacional, alavancagem
+    financeira, capital investido no negócio;
+
+    h) Administração financeira de curto prazo: capital de giro, administração de
+    caixa, processo de planejamento financeiro, administração de valores de valores
+    a receber e administração de estoques;
+
+    i) Decisões financeiras de longo prazo: decisões de investimentos e dimensionamento
+    dos fluxos de caixa, fontes de financiamento de longo prazo no Brasil.'
+  course_name: 'LES0668 - Administração Financeira
+
+    Financial Administration'
+  deactivation: ''
+  instructors: '8498852 - Alex da Silva Alves
+
+    3425009 - Lucilio Rogerio Aparecido Alves
+
+    1707772 - Sérgio De Zen'
+  lecture_credits: '4'
+  objectives: '- Apresentar princípios, conceitos e técnicas de matemática e administração
+    financeira, visando fornecer alimentos para a tomada de decisões.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612213551'
+digest: JEHWC6DRP53G7AVWURUGN56VH2VVIJYZ
+updated_at: '20210612213551'
+url: https://web.archive.org/web/20210612213551id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0668&verdis=5
