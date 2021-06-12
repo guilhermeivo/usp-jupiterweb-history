@@ -1,0 +1,58 @@
+courses:
+  activation: 01/01/2013
+  assessment: Estará apto a efetuar a prova de reavaliação o aluno que tiver como
+    média final na disciplina uma nota igual ou superior a três (3,0) e inferior a
+    cinco (5,0), e tiver, no mínimo, 70% (setenta por cento) de freqüência às aulas.
+    O cálculo de uma média aritmética simples será feito com a nota da prova de reavaliação
+    e a média final obtida pelo aluno na disciplina. Se esta média resultar em nota
+    igual ou superior a cinco (5,0), o aluno será aprovado.
+  bibliography: "\x95 COELHO, F. U. Manual de Direito Comercial. Editora Saraiva.\
+    \ São Paulo, 1999.  REQUIÃO, R. Curso de Direito Comercial. Vol. I e II. Editora\
+    \ Saraiva. São Paulo, 1997."
+  course: 'Ø Especificidade do Direito Comercial: ato e atividade
+
+    Ø Atividade empresarial: características
+
+    Ø Empresa: conceito
+
+    Ø Distinção entre sociedade, empresa e estabelecimento
+
+    Ø Proteção ao nome, marca e patentes. Direito da concorrência. Repressão
+
+    e abuso de poder econômico
+
+    Ø Contratos empresariais: compra e venda - modalidades, comissão
+
+    mercantil, depósito mercantil, leasing, franchising, factoring,
+
+    engeneering
+
+    Ø Contrato de seguro privado terrestre e marítimo
+
+    Ø Direito Bancário: instituições financeiras - espécies e
+
+    características
+
+    Ø Contratos bancários: conta-corrente, mútuo, desconto.'
+  course_name: 'LES0385 - Direito Comercial
+
+    Commercial Law'
+  deactivation: ''
+  instructors: 8819776 - Andres Felipe Thiago Selingardi Guardia
+  lecture_credits: '2'
+  objectives: 'a) Ministrar ao aluno conhecimento teórico sobre legislação comercial;
+
+    b) Treinar o aluno na aplicação prática dos conhecimentos de direito
+
+    comercial no ambiente econômico-comercial;
+
+    c) Exercitar o aluno nos problemas de consultoria e assessoria jurídica
+
+    de empresas.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20210612202649'
+digest: YWPMQWLLAKGJ2EFDGBFMZQPT3EWDTLEJ
+updated_at: '20210612202649'
+url: https://web.archive.org/web/20210612202649id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0385&verdis=1
