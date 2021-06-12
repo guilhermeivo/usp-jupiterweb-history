@@ -1,0 +1,56 @@
+courses:
+  activation: 01/07/1996
+  assessment: 'Normas de recuperação: Uma única prova com toda matéria lecionada e
+    reformulação do projeto'
+  bibliography: "Textos:\nNORONHA, J.F.  Projetos agropecuários;  administração financeira,\
+    \ orçamento e viabilidade econômica.  2a. ed.  São Paulo, Atlas, 1987.\nMANAGEMENT\
+    \ SYSTEMS INTENATIONAL. Estrutura Lógica: um guia para gerentes para planejar\
+    \ e avaliar projetos de forma científica. (Tradução de F.B. Taneredi, sem data)\n\
+    Leituras Suplementares:\nAZEVEDO Fº, A.J.B.V. Análise econômica de projetos: \
+    \ \"software\" para situações deterministas e de risco envolvendo simulação. \
+    \ Piracicaba, 1988.\nCOSTA, P.H.S. & ATTIE, E.V.  Análise de projetos de investimento.\
+    \  Rio de Janeiro, FGV.\nDUARTE, L.P. \"Projetos de Investimento de Capital\"\
+    \ In PERES, F.C. (editor) A Experiência do  Programa de Formação de Jovens Empresários\
+    \ Rurais \x96 PROJOVEM. Piracicaba: USP/ESALQ/DIBD/EXAGRI, 1998.\nKISIL, R. Manual\
+    \ de Elaboração de Projeto e Propostas. Piracicaba: ESALQ, NACE-DRI, 1995.\nLINS,\
+    \ G.E.  Análise econômica de investimentos.  Rio de Janeiro, APEC.\nNORONHA, J.F.\
+    \  O sistema de avaliação econômica de projetos agropecuários na política brasileira\
+    \ de crédito rural.  Piracicaba, ESALQ/USP, 1982.  (Tese de livre-docência).\n\
+    PAEZ, M.L.D. Avaliação do programa de cooperação nipo-brasileira para o desenvolvimento\
+    \ dos cerrados - PRODECER.  RER, Brasília 22(3):327-64, jul/set., 1984.\nPINAZZA,\
+    \ L.A. & SOBOLL, W. Programa Nacional de Desenvolvimento da pecuária do Banco\
+    \ do Estado de São Paulo.  Avaliação.  São Paulo, BANESPA, 1985.\nPLATO, R.A.\
+    \ & XAVIER, D.F.  Matemática financeira aplicada às operações no sistema financeiro\
+    \ brasileiro.  São Paulo, Nobel, 1985.\nPOMERANZ, L.  Elaboração e análise de\
+    \ projetos.  2a. ed.  São Paulo, HUCITEC, 1988."
+  course: "s especiais de crédito, o sistema de avaliação dos projetos.\n2. Projetos\
+    \ de investimento na administração da empresa.  Conceituação.  Decisões de investimento\
+    \ e administração financeira.  Noções de contabilidade e análise de balanços.\n\
+    3.\tTécnicas de capitalização e desconto.  Formação da taxa de juros.  Aplicações\
+    \ de matemática financeira na administração da empresa.\n4. Formação de fluxos\
+    \ de caixa dos projetos agropecuários.  Conceitos.  Critérios:  fluxos diferenciais,\
+    \ preços, depreciação, tributos e subsídios.  Distribuição temporal, fluxos financeiros.\
+    \  Agregação de empresas em projetos de \tassentamento.\n5. Depreciação.  Conceito\
+    \ e método de cálculo.\n6.\tCusto de capital.  Custo médio considerado como taxa\
+    \ mínima de atratividade de projetos.\n7. Métodos de avaliação econômica.  Período\
+    \ de recuperação do capital.  Retorno sobre o investimento.  Valor líquido presente.\
+    \  Taxa interna de retorno e razão beneficio/custo.\n8. Inflação.  Preços nominais,\
+    \ preços reais e preços relativos.  Efeitos de inflação sobre a decisão e investimento.\n\
+    9. Risco e incerteza.  Fontes de riscos.  Análise de sensibilidade.  Sensibilidade.\
+    \  Simulação de Monte Carlo.\n10.\tAnálise econômica e social de projetos.  Sua\
+    \ origem e estágio atual no Brasil."
+  course_name: 'LES0575 - Elaboração e Análise de Projetos
+
+    Projects Elaboration and Analysis'
+  deactivation: ''
+  instructors: 1707772 - Sérgio De Zen
+  lecture_credits: '4'
+  objectives: Capacitar os alunos nas técnicas de elaboração e avaliação econômica
+    de projetos
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612193528'
+digest: ZPLXJ2TN4PQZUNQHVCERXLXK5F7FBDWI
+updated_at: '20210612193528'
+url: https://web.archive.org/web/20210612193528id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0575&verdis=3
