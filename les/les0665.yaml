@@ -1,0 +1,88 @@
+courses:
+  activation: 01/01/2016
+  assessment: Uma única prova, com toda a matéria lecionada.
+  bibliography: 'Literatura Básica:
+
+    ARMSBRUSTER, D.B. Agricultural accounting. Red Wing, Red Wing Business Systems,
+    1983. ASSAF NETO, A. Estrutura e análise de balanço: um enfoque econômico-financeiro.
+    8. ed. São Paulo: Atlas, 2007. ASSAF NETO, A. Finanças corporativas e valor. 2.
+    ed. São Paulo: Atlas, 2006. COPELAND, R.M. e DASCHER, P.E. Managerial accounting.  2nd.
+    edition.  Texas, Dame Publications, Inc. 1985.  658p. JAMES, S.C. e STONEBERG,
+    E. Farm accounting and business analysis.  3ª ed. Iowa, The Iowa State University
+    Press, 1986.  312p. LEITE, H.de P. Contabilidade de custos: uma abordagem gerencial.
+    11. Ed. São Paulo: Prentice Hall, 2012. V. 1. JAMES, S. C. e STONEBERG, E. Farm
+    accounting and business analysis. 3ª ed. Iowa, The Iowa State University Press,
+    1986. 312 p. LEITE, H. de P. Contabilidade para administradores. São Paulo, Atlas,
+    2001. MARION, J. C. Análise das demonstrações contábeis: contabilidade empresarial.
+    7. Ed. São Paulo: Atlas, 2012. MARION, J. C. Contabilidade empresarial. 16. Ed.
+    São Paulo: Atlas, 2012. MARION, J. C. Contabilidade empresarial: livro de exercícios.
+    10. Ed. São Paulo: Atlas, 2011. MARION, J. C. Comunidade Rural. São Paulo, Atlas,
+    1985. 222p. MARTINS, E. Contabilidade de custos (livro de exercícios). 10. Ed.
+    São Paulo: Atlas, 2010. MARTINS, E. Contabilidade de custos (livro texto). 10.
+    São Paulo: Atlas, 2010. MATARAZZO, D. C. Análise financeira de balanços: abordagem
+    básica e gerencial. 7. Ed. São Paulo: Atlas, 2010. MATTOS, Z. P. B. Contabilidade
+    Financeira Rural. São Paulo: Atlas, 1999. 196p. OLIVEIRA, L. M.; PEREZ JUNIOR,
+    J. H. Contabilidade de custos para não contadores. 5. Ed. São Paulo: Atlas, 2012.
+    PADOVEZE, C. L. Contabilidade de custos: teoria, prática, integração com sistemas
+    de informação (ERP). São Paulo: Cenage Learning, 2013. PADOVEZE, C. L.; BENEDICTO,
+    G. C. de Análise de demonstração financeiras. 2. Ed. São Paulo: Thomson Learning,
+    2007. REEVE, J. M.; WARREN, C. S.; DUCHAC, J. E.; PADOVEZE, C. L. Fundamentos
+    de contabilidade: aplicações. São Paulo: Cenage Learning, 2010. SANTOS, M. R.
+    S. M. Contabilidade Rural: um enfoque gerencial. Universidade de São Paulo, Piracicaba,
+    1991. 275p. (Dissertação de Mestrado).'
+  course: "1. Introdução; Conceito de Contabilidade; Evolução histórica da Contabilidade;\
+    \ Evolução histórica da Contabilidade no Brasil; Áreas da Contabilidade; Programa\
+    \ da disciplina: Tópicos \x96 Avaliação \x96 Trabalho 2. Principais Informações\
+    \ geradas pela Contabilidade Financeira; 2.1 Introdução; 2.2 O BP; 2.2.1 Componentes;\
+    \ 2.2.2 Equação fundamental; 2.2.3 Representação gráfica; 2.2.4 Formação de um\
+    \ patrimônio empresarial; 2.2.5 Origens e aplicações de recursos; 2.2.6 Situações\
+    \ patrimoniais; 2.2.7 Grupos de contas BP; Grupos do Ativo; Grupos do Passivo;\
+    \ 2.2.8 Análise do Balanço Patrimonial; -Índices de liquidez (ILC, ILS, ILI e\
+    \ ILG); -Índices de endividamento (TCT e CE); -Análise horizontal, -Análise vertical,\
+    \ -Depreciação de bens de capital, -Métodos de depreciação, -Custos de Produção,\
+    \ 2.3 A DRE, 2.3.1 Alguns conceitos básicos, 2.3.2 Regimes de contabilidade e\
+    \ a DRE, 2.3.3 Componentes da DRE, 2.3.4 Resultados da DRE, 2.3.5 Outros tipos\
+    \ de Despesas e Receitas, 2.3.6 A independência dos períodos contábeis, 2.3.7\
+    \ Análise da DRE, Indicadores de rentabilidade (TRCT, TRCP, GA e Margens de lucro),\
+    \ Análise da TRCT por meio do GA e da MLV, Outra maneira de se obter a TRCT, Análise\
+    \ vertical e horizontal da DRE, 3.Princípios Fundamentais da Contabilidade (Entidade,\
+    \ Continuidade, Denominador Comum Monetário, Objetividade, Custo Histórico como\
+    \ Base de Valor, Materialidade, Conservadorismo e Consistência), 4. Outros componentes\
+    \ Importantes do Sistema Contábil, 4.1 O regime, 4.2 O período, 4.3 O processo\
+    \ de escrituração contábil, 4.4 A forma de lançamento das operações (MPS e MPD),\
+    \ 4.4 A forma de lançamento das operações (MPS e MPD), o BV, - Ajustes, 4.5 Os\
+    \ livros contábeis, 4.5.1 Diário, 4.5.2 Razão, 4.5.3 Razonete ou Razão Simplificado,\
+    \ 4.5.4 Os livros e os lançamentos de encerramento, 4.5.4 Lançamentos de encerramento:\
+    \ do BP inicial ao BP final \x96 exemplo a Cia. , 4.6 O Plano de Contas, A conta,\
+    \ Tipos de contas, Título e Representação gráfica, Componentes de um Plano de\
+    \ Contas, Cuidados básicos na elaboração de um PC, Codificação das contas, 5.\
+    \ O Ativo Circulante (AC), 5.1 Estoques (Valorização dos estoques), 5.1.1 Apuração\
+    \ direta do CPV, 5.1.2 Apuração Indireta do CPV \x96 Inventário Periódico, 5.1.3\
+    \ Custos de Estoques e os Impostos, 5.1.4 Devoluções e Abatimentos, 5.1.5 Gastos\
+    \ com transporte, 6. O ativo não circulante, 6.1 Imobilizado Fixo, 6.2 Imobilizado\
+    \ em Andamento, 6.3 Diferido, 6.4 Investimentos, 7. O Passivo, 7.1 Passivo Circulante,\
+    \ 7.2 Exigível LP, 7.3 Patrimônio Líquido, 8. Demonstrações dos Fluxos de Caixa,\
+    \ 9. Demonstrações de Lucros ou Prejuízos Acumulados, 10. Demonstrações das Mutações\
+    \ do Patrimônio Líquido, 11. Demonstrações do Valor Adicionado, Notas Explicativas\
+    \ e outras Evidenciações."
+  course_name: 'LES0665 - Contabilidade e Análise de Demonstrações Financeiras
+
+    Accounting and Financial Analysis'
+  deactivation: ''
+  instructors: '8498852 - Alex da Silva Alves
+
+    2231590 - Elisson Augusto Pires de Andrade
+
+    3425009 - Lucilio Rogerio Aparecido Alves'
+  lecture_credits: '4'
+  objectives: 'a) Fornecer aos alunos o entendimento da estrutura contábil brasileira;
+
+    b) Entender métodos de análise e interpretação das Demonstrações Financeiras,
+    com aplicações práticas em empresas de capital aberto.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612210720'
+digest: IKCYVKTCKJ4HCIYGK2SMAUU3ATYT4H4E
+updated_at: '20210612210720'
+url: https://web.archive.org/web/20210612210720id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0665&verdis=6
