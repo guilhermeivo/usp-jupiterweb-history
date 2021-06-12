@@ -1,0 +1,73 @@
+courses:
+  activation: 01/01/2015
+  assessment: Uma prova com toda a matéria lecionada
+  bibliography: BUDNICK, F. S. Applied Mathematics for Business, Economics, and the
+    Social Sciences. McGraw-Hill, Singapore, 4th ed., 1993. CHIANG, A. C. Matemática
+    para Economistas. Edusp-McGraw-Hill, São Paulo, 1982. CHIANG, A. C. Fundamental
+    Methods of Mathematical Economics. McGraw-Hill, New York, 3rd ed., 1984. CHIANG,
+    A. C. Matemática para Economistas Woenwreght, K. Ed. Campus/Elsevier 2005. Simon,
+    C.P. Blume, 2 Matemática para Economistas. Ed. Bookman, 2004. LEITHOLD, L. Matemática
+    Aplicada à Economia e Administração. Harbra, São Paulo, 1988. NOVAES, A. G. N.
+    Métodos de Otimização. Edgar Blücher, São Paulo, 1978. WEBER, J. E. Matemática
+    para Economia e Administração. Harbra, São Paulo, 2a. edição, 1986.
+  course: '1 - Estruturação de processos de modelagem. Formulação de hipóteses. Definição
+    de objetivos. Utilização de paradigmas. Processos dedutivos. Processos indutivos.
+    Modelos normativos. Modelos positivos. Variáveis endógenas. Variáveis exógenas.
+    2 - Álgebra Matricial. Matrizes e vetores. Dimensão de uma matriz: linhas, colunas,
+    diagonais. Matrizes especiais: matriz quadrada, vetor linha, vetor coluna, matriz
+    diagonal, matriz identidade, matriz nula, matriz triangular. Operações e relações
+    algébricas: igualdade, soma, subtração. Multiplicação: matriz x escalar; matriz
+    x matriz (pré e pós-multiplicação). Propriedades observadas: adição (comutativa,
+    associativa); multiplicação (comutativa, associativa, distributiva). Outras matrizes
+    especiais: transpostas, simétricas, idempotentes, particionadas. Matriz inversa,
+    matriz singular, matriz não-singular. Determinantes. Menores e cofatores de uma
+    matriz. Expansão de Laplace. Propriedades dos determinantes. Cálculo da matriz
+    inversa. Aplicação à resolução de sistemas de equações lineares. Regra de Cramer.
+    Posto ("rank") de uma matriz. Traço de uma matriz. Teorema de Kronecker-Capelli.
+    Cálculo da inversa de matriz particionada. Aplicações em planilhas eletrônicas
+    ou linguagens matemáticas: equilíbrio de mercado, matriz insumo-produto. Grandezas
+    e operações vetoriais. Representação geométrica de vetores: espaços vetoriais.
+    Soma e subtração de vetores. Multiplicação e divisão de um vetor por um elemento
+    escalar. Distância entre vetores. 3 - Análise de Equilíbrio em Economia. Equilíbrio
+    parcial de mercado. Equilíbrio geral de mercados: o caso para duas mercadorias;
+    o caso para n mercadorias. Equilíbrio na análise da renda nacional: modelo Keynesiano.
+    4 - Análise Estática Comparativa. Diferenciação x integração. Quociente diferencial.
+    Derivada. Regras de derivação. Propriedades das regras de derivação. Aplicações
+    à Teoria da Produção; custo médio e custo marginal; receita média e receita marginal.
+    Diferenciação da função inversa. Regra da cadeia. Derivadas de ordem superior.
+    Derivadas parciais. Determinante Jacobiano. 5 - Funções exponenciais: definições
+    e propriedades básicas. Funções logarítmicas: definições e propriedades. Aplicações:
+    Matemática Financeira, Curvas de Crescimento Biológico.6-Dinâmica Econômica e
+    Cálculo Integral. Função primitiva. Regras básicas de integração. Propriedades
+    das regras básicas de integração. Regra da substituição. Integração por partes.
+    Integrais definidas. Propriedades das integrais definidas. Integrais impróprias.
+    A integral definida como a área sob uma curva. Integrais múltiplas. Aplicação:
+    Economia Estatística. 7 - Otimização. Classificação de problemas que envolvam
+    otimização. Otimização não-condicionada:uma variável. Teste da derivada primeira,
+    para extremo relativo. Obtenção de máximo ou mínimo global. Teste da derivada
+    segunda. Funções côncavas e convexas. Funções quadráticas: obtenção de raízes
+    e análise de convexidade. Aplicações à Microeconomia: maximização de lucro; maximização
+    da receita fiscal, a partir de um imposto específico. Pontos de inflexão. Séries
+    de Taylor e de MacLaurin. Teste da derivada enésima para extremos relativos de
+    uma função de uma variável. Otimização não-condicionada: duas variáveis. Ponto
+    de sela. O conceito de diferencial. Diferenciação total. Derivada total. Funções
+    implícitas. Formas alternativas para expressar as condições de primeira e segunda
+    ordem. Determinante Hessiano. Aplicações à Economia. Otimização condicionada.
+    Resolução algébrica. Método do multiplicador de Lagrange. Hessiano orlado.'
+  course_name: 'LES0201 - Matemática para Economistas
+
+    Mathematics for Economists'
+  deactivation: ''
+  instructors: 2231590 - Elisson Augusto Pires de Andrade
+  lecture_credits: '4'
+  objectives: Propiciar ao ingressante no curso de Economia Agroindustrial os conhecimentos
+    básicos de ferramentas matemáticas de apoio à Economia, as quais serão oportunamente
+    utilizadas em outras disciplinas do curso, assim como fornecer oportunidades para
+    o incremento do desenvolvimento do raciocínio quantitativo
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612202108'
+digest: IWWUKQLQSALMMRZR6IL7NG3JNQO2HARE
+updated_at: '20210612202108'
+url: https://web.archive.org/web/20210612202108id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0201&verdis=5
