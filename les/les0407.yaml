@@ -1,0 +1,41 @@
+courses:
+  activation: 01/01/2013
+  assessment: Uma única prova com toda matéria lecionada
+  bibliography: BUSSAB, W. O. & MORETTIN, P. Estatística Aplicada. São Paulo, Atual,
+    5a. Edição, 2002. HOFFMANN, R.  Estatística para economistas.  São Paulo, Pioneira,
+    1991. KMENTA, J.  Elementos de econometria.  São Paulo, Atlas, 1978. VENABLES,
+    W. N. & RIPLEY, B. Modern Applied Statistics with S-Plus. Springer, 2002. TUCKEY,
+    J. Exploratory Data Analysis. Adisson-Wesley, 1977.
+  course: '1. Revisão da teoria de probabilidade e métodos de inferência. 2. Variáveis
+    aleatórias e distribuições de probabilidade discretas (Bernoulli, Binomial e Poisson)  e
+    contínuas (Normal, Log-Normal, T, F, Qui-Quadrado). 3. Distribuições da média
+    e da variância de dados amostrais. 4. Métodos gráficos para EDA (Tuckey) multivariada.
+    5. Medidas de associação estatística e causalidade. 6. Intervalos de confiança.
+    7. Estimativa de parâmetros: métodos existentes (momentos, mínimos quadrados,
+    máxima verossimilhança) 8. Testes de hipóteses. 9 Princípios de modelagem estatística
+    e análise de regressão básica com aplicações em economia.  10. Estimativa de parâmetros,
+    intervalos de confiança e testes elementares em análise de regressão.'
+  course_name: 'LES0407 - Estatística Aplicada II
+
+    Applied Statistics II'
+  deactivation: ''
+  instructors: '51881 - Adriano Júlio de Barros Vicente de Azevedo Filho
+
+    1777242 - Vitor Augusto Ozaki'
+  lecture_credits: '4'
+  objectives: Introduzir o aluno ao entendimento da evidência estatística fornecida
+    por conjuntos de dados observados em levantamentos e em situações controladas
+    ou experimentais, tendo em vista a avaliação do possível suporte dos dados às
+    hipóteses consideradas num certo contexto. O curso enfatiza a utilização de métodos
+    associados à EDA (Exploratory Data Analysis) multivariada e a análise de regressão
+    simples e múltipla, visando fornecer embasamento para outros cursos. O curso visa
+    também capacitar o aluno na utilização de software para a implementação dos procedimentos
+    propostos, com ênfase na utilização dos recursos existentes em planilhas eletrônicas
+    e no programa estatístico R (www.r-project.org).
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20210612193205'
+digest: CAIHVAFH6BXPBPVE7DGXZNDIMOAFPCWA
+updated_at: '20210612193205'
+url: https://web.archive.org/web/20210612193205id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0407&verdis=1
