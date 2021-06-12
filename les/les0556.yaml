@@ -1,0 +1,48 @@
+courses:
+  activation: 01/01/2011
+  assessment: Uma única prova com toda matéria lecionada.
+  bibliography: "BACHA, C.J.C.; LIMA, R.A.S. Macroeconômica: teorias e aplicações\
+    \ à economia brasileira. Campinas: Editora Átomo-Alínea, 2006 (principal livro-texto\
+    \ a ser seguido em sala de aula).\nBLANCHARD, Olivier Macroeconomia \x96 Teoria\
+    \ e Política Econômica. 4a edição. Rio de Janeiro: Editora Pearson/Prentice Hall,\
+    \ 2007.\nDORNBUSCH, Rudiger; FISCHER, Stanley; STARTZ, Richard Macroeconomia.\
+    \ 10a edição São Paulo: McGraw-hill, 2009.\nGORDON, R.J.; WILCOX, J.A. Macroeconomia,\
+    \ 7ª edição, Porto Alegre: Bookman, 2000.\nPARKIN, Michael Macroeconomia, 5ª edição,\
+    \ São Paulo: Editora Pearson/Addison Wesley, 2003.\nSACHS, Jeffrey D. & LARRAIN\
+    \ B., Felipe Macroeconomia, em uma economia global. São Paulo: Makron Books, 2004.\n\
+    SIMONSEN, M.H.; CYSNE, R.P. Macroeconomia, Editora Atlas, 2009, 4a edição."
+  course: "1. Definição de macroeconomia. Distinção entre macroeconomia e microeconomia.\
+    \ Os mercados de produto, moeda, títulos, trabalhos e divisas. 2. Revisão de Tópicos\
+    \ de Contabilidade Social. 3.Visão geral da evolução da macroeconomia. As construções\
+    \ teóricas pré-Keynes.A Teoria Geral do Emprego, do Juro e da Moeda de Keynes.A\
+    \ Síntese Neoclássica.Os Monetaristas.Os Novos-Clássicos.Os Novos-Keynesianos.\
+    \ 4. Modelo keynesiano simplificado de determinação da renda de equilíbrio. Representação\
+    \ simplificada do sistema econômico e a identidade dispêndio-renda determinação\
+    \ da renda de equilíbrio. efeitos de mudança da propensão marginal a poupar sobre\
+    \ a renda de equilibrio. O multiplicador de gastos autônomos. O teorema do orçamento\
+    \ equilíbrio. 5.Determinação da curva de demanda agregada. A curva IS \x96 equilíbrio\
+    \ no mercado de produto. A curva LM \x96 equilíbrio nos mercados de moeda e títulos.\
+    \ A curva de demanda agregada. 6. O mercado de trabalho. A curva de oferta agregada.\
+    \ As curvas de oferta agregada da Síntese Neoclássica. A curva de oferta agregada\
+    \ dos novos-keynesianos 7. Modelo IS/LM/BP. 8. Análise das políticas fiscal, monetária\
+    \ e cambial do modelo IS/LM/BP. 9. Teorias sobre a inflação."
+  course_name: 'LES0556 - Teoria Macroeconômica I
+
+    Macroeconomic Theory I'
+  deactivation: ''
+  instructors: '2715154 - Carlos Jose Caetano Bacha
+
+    1968008 - Roberto Arruda de Souza Lima'
+  lecture_credits: '4'
+  objectives: Desenvolver modelos macroeconômicos, baseados na Síntese Neoclássica
+    e em algumas contribuições dos Novos-Keynesianos, de determinação do produto nacional
+    e nível de preço de equilíbrio da economia. Procura-se, com esses modelos, avaliar
+    os impactos sobre a economia de modificações das políticas fiscais, monetária
+    e cambial.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612202817'
+digest: GIV73HGYRELTDKOMQ4SH4AKZ4VKIOL4T
+updated_at: '20210612202817'
+url: https://web.archive.org/web/20210612202817id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0556&verdis=8
