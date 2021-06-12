@@ -1,0 +1,83 @@
+courses:
+  activation: 01/01/2019
+  assessment: Uma prova com toda a matéria lecionada.
+  bibliography: "LIVRO-TEXTO: ROSSETTI, J.P. Política e Programação Econômica (7ª.\
+    \ Ed.) São Paulo: Atlas, 1995. 349p.; KON, A. Subsídios teóricos e metodológicos\
+    \ ao planejamento econômico público. NPP-EAESP/FGV. Relatório de Pesquisa n.12,\
+    \ 1997. 153p. Disponível em: www.eaesp.fgvsp.br/AppData/GVPesquisa/P00172_1.pdf.\n\
+    BIBLIOGRAFIA COMPLEMENTAR: ABREU, M.P. Org.) A ordem do progresso: cem anos de\
+    \ política econômica republicana, 1889-1998. Rio de Janeiro: Campus, 1990; ABREU,\
+    \ M.P. \x93Política Comercial Brasileira: Limites e Oportunidades\x94. In: Castelar-PINHEIRO,\
+    \ A.; MARKWALD, R. e VALLS-PEREIRA, L. (orgs.) O Desafio das Exportações. Rio\
+    \ de Janeiro: BNDES, 2002, pp. 27-49.; ALMEIDA, P.R.. Relações internacionais\
+    \ e política externa do Brasil. Porto Alegre: Ed. Da UFRGS. 2004. 438p., BENECKE,\
+    \ D.; NASCIMENTO, R.. Opções de Política Econômica para o Brasil.Rio de Janeiro:\
+    \ Fundação Konrad Adenauer, 2003.; BIELSCHOWSKY, R., MUSSI, C.. Políticas para\
+    \ a retomada do crescimento. Brasília: IPEA. 2002; DE NEGRI, J.A.; KUBOTA, L.C..\
+    \ Políticas de incentivo à Inovação Tecnológica no Brasil. Brasília: IPEA, 2008.\
+    \ 612p.; FAGUNDES, JORGE. \x93Políticas de Defesa da Concorrência e Política Industrial:\
+    \ convergência ou divergência?\x94 Revista IBRAC, Rio de Janeiro, vol. 5, num.\
+    \ 6, 1998; FARINA, ELIZABETH M.Q.Q. Oligopólio e Política Atitruste: desenvolvimentos\
+    \ recentes. Universidade de São Paulo, FEA, mimeo, outubro de 2000, 32ff.; FERREIRA\
+    \ FILHO, J.B.S. Introdução aos modelos aplicados de equilíbrio geral: conceitos,\
+    \ teoria e aplicações. LES/ESALQ. Série Didática n. 120, 1998; FILELLINI, A..\
+    \ Economia do Setor Público. São Paulo: Editora Atlas, 1994. 202p; FONSECA, M.A.R..\
+    \ Planejamento e Desenvolvimento Econômico. São Paulo: Thomson Learning, 2006.\
+    \ 237p;  GASTALDI, J.P..Elementos de Economia Política. São Paulo: Saraiva, 2001.\
+    \ 494; GIAMBIAGI, F.E. MOREIRA, M.M. (orgs.) A Economia Brasileira nos Anos 90.\
+    \ Rio de Janeiro: BNDES, 1999, pp. 293-332; GREMAUD, A.P.; VASCONCELLOS, M.A.S.,\
+    \ TONETO JR., R..Economia Brasileira Contemporânea. São Paulo: Ed. Atlas. 2004.\
+    \ 626p.; GUILHOTO, J.M.J. Leontief e Insumo \x96 Produto: antecedentes, princípios\
+    \ e evolução; JONES, C.I. Introdução à Teoria do Crescimento Econômico. Rio de\
+    \ Janeiro: Elsevier. 2000.178p.  KANDIR, A. O Caminho do Desenvolvimento: do Brasil\
+    \ hiperinflacionário ao Brasil Competitivo e Solidário. São Paulo: Atlas. 1998.\
+    \ 319p. KON, A. Planejamento no Brasil II. Debates- Economia. São Paulo: Editora\
+    \ Perspectiva. 1999. 310p. MATOS, P.O.. Análise dos planos de desenvolvimento\
+    \ elaborados no Brasil após o II PND. Dissertação apresentada à ESALQ/USP. Piracicaba,\
+    \ 2002. 184p.; MOLL, L.H. Agências de Regulação do Mercado. Porto Alegre: UFRGS.\
+    \ 2002. 343p. MUSGRAVE, R. A. & MUSGRAVE, P. B. (1980). Finanças Públicas. Campus,\
+    \ Rio de Janeiro. NERI, M.; XEREZ, M. Desenho de um Sistema de Metas Sociais.\
+    \ Rio de Janeiro: Ensaios Econômicos, no 519, dezembro de 2003.PEREIRA, L.C.B.\
+    \ Economia Brasileira \x96 Uma introdução crítica. São Paulo: Brasiliense. 1982.;\
+    \ PRADO, S. Equalização e federalismo fiscal: uma análise comparada. Rio de Janeiro:\
+    \ Konrad-Adenauer-Stiftung, 2006. 464p.; REZENDE, G.C.. Estado, macroeconomia\
+    \ e agricultura no Brasil. Porto Alegre: IPEA/Editora na UFRGS, 2003. 246p; VILLELA,\
+    \ ANÍBAL e SUZIGAN, WILSON. \x93Elementos para Discussão de uma Política Industrial\
+    \ para o Brasil\x94 Brasília: IPEA, Texto para Discussão nº 421, junho de 1996,\
+    \ 63ff."
+  course: 'Política e programação sob a plena intervenção: os casos das economias
+    centralmente planejadas. Os grandes modelos de programação matemática e/ou insumo-produto
+    no planejamento alocativo. A intervenção parcial e as políticas indicativas. Os
+    objetivos da política econômica: desenvolvimento econômico; crescimento econômico;
+    estabilidade montaria e a eficiência repartitiva; Instrumentos de ação da política
+    econômica: política monetária; política cambial; políticas de distribuição de
+    renda e riqueza. Experiência de implementação de políticas públicas no Brasil
+    e em outros países. Orçamento público e Planos Plurianuais.  Política Industrial;
+    política de comércio exterior, política ambiental, política de educação. Qualidade
+    regulatória. Participação e realização de trabalhos relacionados aos conselhos
+    municipais.'
+  course_name: 'LES0685 - Politica e Planejamento Econômico
+
+    Economic Planning and Policy'
+  deactivation: ''
+  instructors: '643773 - Eliana Tadeu Terci
+
+    1906631 - Silvia Helena Galvao de Miranda'
+  lecture_credits: '2'
+  objectives: Procura introduzir o aluno no processo de planejamento da economia e
+    na condução das políticas macroeconômicas de modo a cumprir esse planejamento.
+    Apresenta o processo de elaboração e implementação de política e planejamento
+    econômico e busca interpretar as medidas adotadas no país ao longo do século XX
+    e início do século XXI. Aborda a condução das políticas setoriais no Brasil dentro
+    do contexto de planejamento econômico e apresentar alguns instrumentos analíticos
+    para avaliar os impactos da implementação de políticas econômicas e setoriais.
+    Busca, sobretudo, expor o aluno a um contato direto com a administração pública
+    e o processo de decisão da política pública, incentivando sua participação em
+    conselhos municipais, audiências públicas e outros fóruns relacionados.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612193857'
+digest: JKSU6ZQIG7Q4KMPPH6OLFTAPUFCTMZXF
+updated_at: '20210612193857'
+url: https://web.archive.org/web/20210612193857id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0685&verdis=8
