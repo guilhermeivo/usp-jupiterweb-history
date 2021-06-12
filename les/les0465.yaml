@@ -1,0 +1,54 @@
+courses:
+  activation: 01/01/2019
+  assessment: Uma prova com toda a matéria lecionada. Estará apto a efetuar a prova
+    de recuperação o aluno que tiver como média final na disciplina uma nota igual
+    ou superior a três (3,0) e inferior a cinco (5,0), e tiver, no mínimo, 70% (setenta
+    por cento) de frequência às aulas. O cálculo de uma média aritmética simples será
+    feito com a nota da prova de recuperação e a média final obtida pelo aluno na
+    disciplina. Se esta média resultar em nota igual ou superior a cinco (5,0), o
+    aluno será aprovado.
+  bibliography: 'Literatura Básica:
+
+    CAIXETA FILHO, J.V. Pesquisa Operacional: Técnicas de otimização aplicadas a Sistemas
+    Agroindustriais. 2ª ed. São Paulo: Atlas: 2004. HILLIER, F. S.; LIEBERMAN, G.
+    J. Introdução à pesquisa operacional. Porto Alegre: Bookman, 2013. MOREIRA, D.
+    A. Pesquisa operacional: curso introdutório. São Paulo: Cengage, 2011.
+
+    Literatura Complementar:
+
+    BELFIORE, P.; FÁVERO, L. P. Pesquisa operacional: para cursos de administração,
+    contabilidade e economia. Rio de Janeiro: Elsevier-Campus, 2012. LACHTERMACHER,
+    G. Pesquisa operacional na tomada de decisões. São Paulo: Pearson, 2009. SILVA,
+    E. M.; SILVA, E. M.; GONÇALVES, V.; MUROLO, A. F. Pesquisa operacional para os
+    cursos de administração e engenharia. São Paulo: Atlas, 2010. RAGSDALE, C. T.
+    Modelagem e análise de decisão. São Paulo: Cengage Learning, 2009. TAHA, H. A.
+    Pesquisa operacional. São Paulo: Pearson, 2008.'
+  course: 'ção Não Linear
+
+    Teoria dos Jogos
+
+    Análise de Decisão
+
+    Teoria das Filas
+
+    Simulação'
+  course_name: 'LES0465 - Pesquisa Operacional II
+
+    Operational Research II'
+  deactivation: ''
+  instructors: '5863920 - Catarina Barbosa Careta
+
+    59145 - Jose Vicente Caixeta Filho'
+  lecture_credits: '4'
+  objectives: 'a) Continuar o aprendizado de pesquisa operacional iniciado em Pesquisa
+    Operacional I;
+
+    b) Permitir ao futuro administrador o conhecimento de técnicas de pesquisa operacional
+    que irão ajudá-lo no desempenho de suas funções de tomador de decisões.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612202403'
+digest: XJB4CBTIDNDOMCYSAK75QSYLZ7A6KUQV
+updated_at: '20210612202403'
+url: https://web.archive.org/web/20210612202403id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0465&verdis=3
