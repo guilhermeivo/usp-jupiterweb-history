@@ -1,0 +1,43 @@
+courses:
+  activation: 01/01/2019
+  assessment: Uma única prova com toda a matéria lecionada
+  bibliography: 'Literatura Básica:
+
+    Wooldridge, J. Introdução a Econometria. 6ª. Edição. Cengage Learning.2018.
+
+    HILL, C.; GRIFFITHS, W.; JUDGE, G. Econometria. Tradução A. Alfredo Farias, São
+    Paulo: Saraiva, 1999.
+
+    GUJARATI, D. Econometria Básica. 3ª. edição. Markron Books, 2000.
+
+    HOFFMANN, R., S. Vieira. Análise de Regressão: Uma introdução à Econometria. 2006.
+    Hucitec.
+
+    MORETTIN, P.A.; TOLOI, C.M.C. Análise de Séries Temporais. Editora Blucher, São
+    Paulo, 2006.'
+  course: 'Modelo de Regressão linear Múltipla: Especificação e Estimação, Teste de
+    Hipóteses, Variáveis Binária e Interações, Heterocedasticia, Autocorrelação, Multicolinearidade,
+    Modelos de Equações Simultâneas, Modelo próbite e lógite, Modelos de séries temporais,
+    Utilização de Softwares Estatísticos e Econométricos.'
+  course_name: 'LES0691 - Econometria
+
+    Econometrics'
+  deactivation: ''
+  instructors: 56020 - Ana Lucia Kassouf
+  lecture_credits: '4'
+  objectives: 'O curso é idealizado para os alunos de graduação em economia que já
+    fizeram os cursos de estatística básica, economia básica e cálculo.
+
+    Pretende-se mostrar aos alunos como dados econômicos são utilizados com teoria
+    econômica para estimar parâmetros, testar hipóteses e prever resultados econômicos.
+
+    Ficará claro como modelos econômicos, pressuposições estatísticas, procedimentos
+    de estimação e inferência, e os dados, têm uma relação de interdependência no
+    processo de obtenção de informações empíricas.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612213531'
+digest: SL7Q4CGF5LJ5ZG77KOEKO5AXOKNFQHZX
+updated_at: '20210612213531'
+url: https://web.archive.org/web/20210612213531id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0691&verdis=4
