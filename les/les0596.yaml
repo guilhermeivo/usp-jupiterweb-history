@@ -1,0 +1,125 @@
+courses:
+  activation: 01/01/2013
+  assessment: 'Uma única prova com toda matéria lecionada.
+
+    Written exam with the whole content of the course'
+  bibliography: "LIVROS-TEXTOS: CARVALHO, M.A. de & SILVA, C.R.L. Economia Internacional.\
+    \ Editora Saraiva, 2000. GONÇALVES, R.; BAUMANN, R.; PRADO, L.C.D.; CANUTO, O.\
+    \ A Nova Economia Internacional: Uma Perspectiva Brasileira. Editora Campus, 1998.\
+    \ JANK, M.S. & NASSAR, A.M. Competitividade e Globalização. In: Zylbersztajn,\
+    \ D. (ed.), Economia e Gestão dos Negócios Agroalimentares. São Paulo: Ed. Pioneira,\
+    \ 2000. (Capítulo 7, p. 137-164). KRUGMAN, P.R. & OBSTFELD, M. Economia International:\
+    \ Teoria e Política. Harper-Collins, 2001, 797p.\nOUTRAS REFERÊNCIAS: FAGUNDES,\
+    \ M.H. (Coord.) (1994). Políticas Agrícolas e o Comércio Mundial. Estudos de Política\
+    \ Agrícola No 28. Instituto de Pesquisa Econômica Aplicada. Proj PNUD/BRA/91/014,\
+    \ Out 94, 466p. JANK, M.S. O Agribusiness no Mercosul, ALCA e OMC (1997). Preços\
+    \ Agrícolas, v. 11, n.127, p. 3-8. JANK, M.S.; GARBARINO, P.; NASSAR, A.M. Estratégias\
+    \ agroalimentares para o Mercosul ampliado. Gestão & Produção,  6(3):170-184,\
+    \ Dec. 1999.  JANK, M.S.; LEME, M.F.P.; NASSAR, A.; FAVERET, P. Concentration\
+    \ and Internationalization of Brazilian Agribusiness Exporters. International\
+    \ Food and Agribusiness Management Review, Elsevier Science, v.2, n. ¾, p.37-54,\
+    \ Oct/ 1999. KENEN, P.B.  Economia Internacional - Teoria e Política.  Editora\
+    \ Campus. 1998. 648p. LINDERT, P.H. International Economics. Homewood, Illinois:\
+    \ Irwin Inc., 1996. MIRANDA, S. H.G. Quantificação dos efeitos das barreiras não-tarifárias\
+    \ sobre as exportações brasileiras de carne bovina. Tese de Doutorado (ESALQ/USP).\
+    \ 2001. 233p. MIRANDA, S.H. Novo ânimo. Agroanalysis, v.21, n.12, Dez/2001. p.\
+    \ 47-51. NASSAR, A.M.. Internalização de Preços Mundiais. Preços Agrícolas, v.\
+    \ 10, n. 120, p.12-16, out/1996. THORSTENSEN, V. OMC: Organização Mundial do Comércio:\
+    \ As Regras do Comércio Internacional e a Rodada do Milênio. Edições Aduaneiras,\
+    \ 1999. WILLIAMSON, J.  A Economia Aberta e a Economia Mundial.  Edit. Campus.\
+    \ 1989. 394p. ZINI JR., A. A.  Taxa de Câmbio e Política Cambial no Brasil.  Ed.\
+    \ EDUSP.  1993. 192p.\nText Book: CARVALHO, M.A. de & SILVA, C.R.L. Economia Internacional.\
+    \ Editora Saraiva, 2000. GONÇALVES, R.; BAUMANN, R.; PRADO, L.C.D.; CANUTO, O.\
+    \ A Nova Economia Internacional: Uma Perspectiva Brasileira. Editora Campus, 1998.\
+    \ JANK, M.S. & NASSAR, A.M. Competitividade e Globalização. In: Zylbersztajn,\
+    \ D. (ed.), Economia e Gestão dos Negócios Agroalimentares. São Paulo: Ed. Pioneira,\
+    \ 2000. (Capítulo 7, p. 137-164). KRUGMAN, P.R. & OBSTFELD, M. Economia International:\
+    \ Teoria e Política. Harper-Collins, 2001, 797p.\nOther Literature: FAGUNDES,\
+    \ M.H. (Coord.) (1994). Políticas Agrícolas e o Comércio Mundial. Estudos de Política\
+    \ Agrícola No 28. Instituto de Pesquisa Econômica Aplicada. Proj PNUD/BRA/91/014,\
+    \ Out 94, 466p. JANK, M.S. O Agribusiness no Mercosul, ALCA e OMC (1997). Preços\
+    \ Agrícolas, v. 11, n.127, p. 3-8. JANK, M.S.; GARBARINO, P.; NASSAR, A.M. Estratégias\
+    \ agroalimentares para o Mercosul ampliado. Gestão & Produção,  6(3):170-184,\
+    \ Dec. 1999.  JANK, M.S.; LEME, M.F.P.; NASSAR, A.; FAVERET, P. Concentration\
+    \ and Internationalization of Brazilian Agribusiness Exporters. International\
+    \ Food and Agribusiness Management Review, Elsevier Science, v.2, n. ¾, p.37-54,\
+    \ Oct/ 1999. KENEN, P.B.  Economia Internacional \x96 Teoria e Política. Editora\
+    \ Campus. 1998. 648p. LINDERT, P.H. International Economics. Homewood, Illinois:\
+    \ Irwin Inc., 1996. MIRANDA, S. H.G. Quantificação dos efeitos das barreiras não-tarifárias\
+    \ sobre as exportações brasileiras de carne bovina. Tese de Doutorado (ESALQ/USP).\
+    \ 2001. 233p. MIRANDA, S.H. Novo ânimo. Agroanalysis, v.21, n.12, Dez/2001. p.\
+    \ 47-51. NASSAR, A.M.. Internalização de Preços Mundiais. Preços Agrícolas, v.\
+    \ 10, n. 120, p.12-16, out/1996. THORSTENSEN, V. OMC: Organização Mundial do Comércio:\
+    \ As Regras do Comércio Internacional e a Rodada do Milênio. Edições Aduaneiras,\
+    \ 1999. WILLIAMSON, J.  A Economia Aberta e a Economia Mundial.  Edit. Campus.\
+    \ 1989. 394p. ZINI JR., A. A.  Taxa de Câmbio e Política Cambial no Brasil.  Ed.\
+    \ EDUSP.  1993. 192p."
+  course: 'Evolução dos mercados mundiais de produtos agrícolas e produtos agroprocessados.  A
+    atual inserção do Brasil no agribusiness internacional. Abertura econômica. Teoria
+    Clássica do Comércio Internacional: Mercantilismo, Teoria das Vantagens Absolutas
+    e das Vantagens Comparativas. Teoria da Dotação Relativa dos Fatores (Heckscher-Ohlin,
+    Heckscher-Ohlin-Samuelson, Stolper-Samuelson), Modelo de Fatores de Produção Específicos.
+    Política comercial: Tarifas, subsídios e outras formas de proteção. Barreiras
+    comerciais não-tarifárias. Medidas do grau de proteção. Política Comercial na
+    prática: instituições reguladoras do protecionismo. Balanço de Pagamentos. Transações
+    Correntes: abordagem macroeconômica (dívida externa, abordagem da absorção, investimento/poupança
+    e transações correntes, ajuste do Balanço de Pagamentos). Política cambial - taxa
+    de câmbio, mercado cambial, pagamentos internacionais. Globalização de mercados,
+    empresas transnacionais e investimentos diretos. Sistema monetário internacional.  Integração
+    Econômica: fases da integração, criação e desvio de comércio.  Os megablocos econômicos
+    da atualidade:  União Européia, Leste Europeu, NAFTA, Países Asiáticos, Mercosul,
+    Pacto Andino, ALCA. Análise das políticas agrícolas e comerciais dos países desenvolvidos
+    e sua reforma. A Política Agrícola Comum (PAC) da União Européia. A Política Agrícola
+    dos Estados Unidos (PAA). Análise histórica da regulação multilateral do comércio
+    internacional.  O acordo agrícola da Rodada Uruguai do GATT:  conclusões no acesso
+    a mercados, no apoio interno e nos subsídios às exportações. Perspectivas da Rodada
+    Agrícola da OMC.
+
+    Evolution of the agricultural and agro processed products at global market. Actual
+    insertion of Brazil at the international agribusiness. Opening Economy. Classical
+    theory of the international trade: Mercantilism, Theory of Absolute Advantage
+    and Comparative Advantage. Theory of relative factor endowments (Heckscher-Ohlin
+    model, Heckscher-Ohlin-Samuelson, Stolper-Samuelson). Model of factors of specific
+    products. Commercial Policy: Tariffs, Subsidies and other forms of protection.
+    Non-tariff trade barriers. Actions on the level of protection. Trade Policy in
+    practice: institutions of the regulatory protectionism. Balance of Payments. Current
+    Transactions: macroeconomic approach (external debt, the absorption approach,
+    investment / savings and current accounts, adjust the balance of Exchange rate
+    policy - the exchange rate, foreign exchange, international payments. Globalization
+    of markets, transnational corporations and foreign direct investment. International
+    monetary system. Economic Integration: the integration phases, creation and trade
+    diversion. The economic megablocos today: the European Union, Eastern Europe,
+    NAFTA, Asian Countries, Mercosul, Andean Pact, the FTAA. Analysis of agricultural
+    and trade policies of developed countries and its reform. The Common Agricultural
+    Policy (CAP) of the European Union. The U.S. Agricultural Policy (EAP). Historical
+    analysis of the multilateral regulation of international trade. The agricultural
+    agreement of the Uruguay Round of the GATT: Conclusions on market access, domestic
+    support and export subsidies. Perspectives on the WTO Agricultural Round.'
+  course_name: 'LES0596 - Economia e Comércio Internacional
+
+    Economics and International Trade'
+  deactivation: ''
+  instructors: 2084377 - Heloisa Lee Burnquist
+  lecture_credits: '4'
+  objectives: 'Trata-se de um curso básico de economia e comércio internacional aplicados
+    ao setor agroindustrial. O curso apresenta os fundamentos básicos e as principais
+    teorias de economia e comércio internacional, abordando também balanço de pagamentos
+    e taxa de câmbio. Na área de política comercial, discute os sistemas de tarifas,
+    as restrições não-tarifárias e as práticas desleais de comércio, com ênfase no
+    comércio agrícola. A disciplina também discute a evolução da regulação multilateral
+    do comércio e os tratados regionais de comércio.
+
+    It is a basic course of economics and international trade applied to the agribusines
+    sector. The course shows the basic elements and the principal theories of economics
+    and international trade, integrating also the balance of payment and exchange
+    rate. At the field of commercial policy, it is discussed the rates system, not-rated
+    restrictions and disloyal practical of commerce, with emphasis on agribusiness
+    commerce. The course also discusses the evolution of the multilateral regulation
+    of the commerce and the regional treatments of commerce.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612201104'
+digest: 6ASYPVHZEAHDXZPLE3P2YZXV5H3NT6AX
+updated_at: '20210612201104'
+url: https://web.archive.org/web/20210612201104id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0596&verdis=5
