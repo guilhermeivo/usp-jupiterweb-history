@@ -1,0 +1,93 @@
+courses:
+  activation: 01/01/2021
+  assessment: Estará apto a efetuar a prova de reavaliação o aluno que tiver como
+    média final na disciplina uma nota igual ou superior a três (3,0) e inferior a
+    cinco (5,0), e tiver, no mínimo, 70% (setenta por cento) de frequência às aulas.
+    O cálculo de uma média aritmética simples será feito com a nota da prova de reavaliação
+    e a média final obtida pelo aluno na disciplina. Se esta média resultar em nota
+    igual ou superior a cinco (5,0), o aluno será aprovado.
+  bibliography: 'Livro texto: KOTLER, Philip; KELLER, Kevin Lane. Administração de
+    marketing.  São Paulo: Pearson Education do Brasil, 15 ed., 2018, 986p.
+
+    CHURCHILL Jr, Gilbert A; Peter, J. Paulo. Marketing: criando valor para os clientes.
+    3ed. São Paulo: Saraiva, 2013.
+
+    Disponível em: [http://www.desafioonline.com.br/wp-content/uploads/artigo1-segmentacao-produtores-estilo-de-vida.pdf]
+
+    GREWAL, Dhruv; LEVY, Michael. Marketing. 4ed. Porto Alegre: AMGH, 2016. 512 p.
+
+    HABERLI JÚNIOR, Caetano; SPERS, Eduardo Eugênio; SPERS, Eduardo Eugênio. Segmentação
+    de produtores rurais baseada em estilo de vida: uma aplicação no mercado de fertilizantes.
+    Desafio Online, v.2, p.580 - 602, 2014.
+
+    HAIR JR, J. F.; CELSI, M. W.; ORTINAU, D. J.; BUSH, R. P. Fundamentos de Pesquisa
+    de Marketing. 3ed. São Paulo: McGrawHill e Bookman, 2014.
+
+    KOTLER, Philip. Marketing 4.0. Rio de Janeiro: Sextante, 2017. 208p.
+
+    KOTLER, Philip; KELLER, Kevin Lane. Marketing essencial: conceitos, estratégias
+    e casos. 5 ed. São Paulo: Pearson, 2013. 456p.
+
+    MALHOTRA, Naresh K. Pesquisa de marketing: uma orientação aplicada. 7ed. Porto
+    Alegre: Bookman, 2019. 800p.
+
+    MASHORCA, Kelly Soffner; SPERS, Eduardo Eugênio; VETUCCI, Juliana de Proença;
+    SILVA, Hermes Moretti Ribeiro. A beleza e a vaidade em relação a novos tipos de
+    alimentos: um estudo sobre o mercado de nutricosméticos. REMARK. Revista Brasileira
+    de Marketing, v.15, p.401-417, 2016. Disponível em: [http://www.revistabrasileiramarketing.org/ojs-2.2.4/index.php/remark/article/view/3324/pdf_273]
+
+    OLIVEIRA, R.O.; SPERS, Eduardo Eugênio. Brand equity in agribusiness: brazilian
+    consumer perceptions of pork products. RAE. Revista de Administração de Empresas,
+    v.58, p.365 - 379, 2018. Disponível em: [http://www.scielo.br/pdf/rae/v58n4/0034-7590-rae-58-04-0365.pdf]
+
+    SAES, Maria Sylvia Macchione; SPERS, Eduardo Eugênio. Percepção do consumidor
+    sobre os atributos de diferenciação no segmento rural: café no mercado interno.
+    Organizações Rurais e Agroindustriais (UFLA), v.8, p.354 - 367, 2006.
+
+    SANTOS, M. J. M.; SPERS, E. E.; PONCHIO, Mateus Canniatti; ROCHA, Thelma Valéria.
+    Heurísticas no consumo de serviços de educação superior. REMARK. Revista Brasileira
+    de Marketing, v.9, p.36 - 61, 2010. Disponível em:  [http://www.revistabrasileiramarketing.org/ojs-2.2.4/index.php/remark/article/view/2143/1685]
+
+    SILVA, Leonardo Aureliano; SPERS, Eduardo Eugênio; SPERS, Eduardo Eugênio; HAGIHARA,
+    Ana Cláudia Tachibana; CARVALHO, Luiz Gonzaga Assumpção. Crowding, Desconto Promocional
+    e Privacidade do Consumidor em Restaurantes. International Journal Business Marketing,
+    v.4, p.30-40, 2019. Disponível em: [http://www.ijbmkt.org/index.php/ijbmkt/article/view/128/100]
+
+    SPERS, Eduardo Eugênio; SAES, Maria Sylvia Macchione; SOUZA, Maria Célia Martins
+    de. Análise das preferências do consumidor brasileiro de café: um estudo exploratório
+    dos mercados de São Paulo e Belo Horizonte. RAUSP. Revista de Administração, v.39,
+    p.53 - 61, 2004.
+
+    SPERS, Eduardo Eugênio; SPERS, Eduardo Eugênio; ZYLBERSZTAJN, Decio; GIORDANO,
+    Samuel Ribeiro; VITA, Christiane Leles Rezende de; NOGUEIRA, Antonio Carlos Lima.
+    Possibilidades de diferenciação na produção de café e o comportamento do consumidor.
+    Cadernos Universidade do Café, v.8, p.4 - 52, 2016.
+
+    YANAZE, Mitsuru Higuchi. Gestão de marketing e comunicação: avanços e aplicações.
+    2ed.São Paulo: Saraiva, 2013. 816p.
+
+    ZEITHAML, Valarie A.; BITNER, Mary Jo; GREMLER, Dwayne D. Marketing de serviços:
+    a empresa com foco no cliente. 6ed. Porto Alegre: AMGH Editora, 2014. 664p.'
+  course: Conceitos Básicos e Visão Sistêmica do Marketing. Sistema de Informação
+    e Pesquisa de Marketing. Mensuração e Previsão da Demanda. Análise de Mercados
+    Consumidores. Segmentação de Mercado. Diferenciação e Posicionamento da Marca.
+    Produtos e Serviços. Preços. Canais de Marketing. Comunicação Integrada de Marketing.
+    Comunicação de Massa. Comunicação Pessoal. Marketing Global.
+  course_name: 'LES0208 - Marketing I
+
+    Marketing I'
+  deactivation: ''
+  instructors: 168175 - Eduardo Eugenio Spers
+  lecture_credits: '4'
+  objectives: Caracterização do conceito e do papel do marketing nas organizações
+    e na sociedade. Apresentar o as funções estratégicas e táticas do marketing. Fornecer
+    uma base para o processo de análise do mercado e do ambiente de marketing. Capacitar
+    o aluno na elaboração e na avaliação de um plano de marketing .Propiciar ao aluno
+    uma visão crítica e ética sobre os desafios atuais do marketing.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612211539'
+digest: MMVAEO7INYOJYKHFWLWRB4QXI3LY32YY
+updated_at: '20210612211539'
+url: https://web.archive.org/web/20210612211539id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0208&verdis=3
