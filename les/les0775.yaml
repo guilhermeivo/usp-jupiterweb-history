@@ -1,0 +1,49 @@
+courses:
+  activation: 01/01/2014
+  assessment: Média aritmética simples entre a nota da Primeira Avaliação e a nota
+    da Recuperação igual ou superior a 5 (cinco).
+  bibliography: "Damodaran, A. Avaliação de investimentos: Ferramentas e Técnicas\
+    \ para a Determinação do Valor de Qualquer Ativo. 5ª reimpressão. Rio de Janeiro:\
+    \ Qualitymark Ed., 1997. Pomeranz, L. Elaboração e análise de projetos Ed Hucitec.\
+    \ Copeland, T. et al. Avaliação de empresas \x96 Valuation: Calculando e gerenciando\
+    \ o valor das empresas. 3. ed. São Paulo: Makron Books Ltda, 2002"
+  course: '1. Análise de mercado
+
+    2. Localização, logística
+
+    3. Escala do projeto
+
+    4. Impacto ambiental
+
+    5. Gerenciamento de riscos
+
+    6. Financiamentos para o projeto
+
+    7. Corporate Finance e Project Finance
+
+    8. Securitização
+
+    9. Custos de financiamento
+
+    10. Avaliação de investimentos
+
+    11. CAPM e WACC
+
+    12. Opções reais'
+  course_name: 'LES0775 - Análise e Elaboração de Projetos de Investimentos
+
+    Analysis and Preparation of Investment Projects'
+  deactivation: ''
+  instructors: 8498852 - Alex da Silva Alves
+  lecture_credits: '2'
+  objectives: O curso busca capacitar o aluno a compreender e utilizar as técnicas
+    tradicionais de decisão de investimentos, identificando os alcances e limites
+    dessas técnicas. As técnicas são apresentadas e discutidas, prevendo-se sua aplicação
+    por meio de exercícios e de trabalho prático.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20210612203346'
+digest: ACCWOVDWMSXOW6ETBCOZL5WQGWMTXHVS
+updated_at: '20210612203346'
+url: https://web.archive.org/web/20210612203346id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0775&verdis=2
