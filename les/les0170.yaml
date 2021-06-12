@@ -1,0 +1,89 @@
+courses:
+  activation: 01/01/2019
+  assessment: Estará apto a efetuar a prova de reavaliação o aluno que tiver como
+    média final na disciplina uma nota igual ou superior a três (3,0) e inferior a
+    cinco (5,0), e tiver, no mínimo, 70% (setenta por cento) de freqüência às aulas.
+    O cálculo de uma média aritmética simples será feito com a nota da prova de reavaliação
+    e a média final obtida pelo aluno na disciplina. Se esta média resultar em nota
+    igual ou superior a cinco (5,0), o aluno será aprovado.
+  bibliography: 'ARANHA, M. L. A. & MARTINS, M. H. P. Filosofando: Introdução à Filosofia.
+    São Paulo, Ed. Moderna. CHAUÍ,
+
+    BEZERRA FILHO, Cabral e outros. Epistemologia e Teoria da Ciência. Petrópolis,
+    Vozes, 1971. - DELATTRE. Teoria dos Sistemas e Epistemologia. Lisboa, 1981. Caderno
+    de Filosofia.
+
+    HESSEN, Johannes, Teoria do Conhecimento. 3ª ed., Coimbra, 1964. - RUSSEL, Bertrand,
+    História da Filosofia Ocidental. 3ª ed., Editora Nacional, 1969.
+
+    Marilena. Convite à filosofia. 12 ed. São Paulo: Ática, 2000.
+
+    MATTAR NETO. João Augusto. Filosofia e Ética na Administração.  São Paulo: Saraiva,
+    2004.
+
+    REALE, Giovanne e ANTISERI, Dario. História da filosofia. São Paulo: Paulinas,
+    2003.
+
+    RUSSEL, B. The History of Western Philosophy. New York: Simon & Schuster, Inc.,
+    1972
+
+    SKINNS, L; SCOTT, M. and COX, T. (Eds.) Risk. UK: Cambridge University Press,
+    2011
+
+    SORLIN, S. e VESSURI, H. (Eds.)  Knowledge  Society VS. Knowledge Economy: knowledge,
+    power, and politics. New York: Palgrave Macmillan, 2007
+
+    SROUR, Robert Henry. Ética Empresarial. Rio de Janeiro: Campus, 2000.
+
+    STEHR, N.  Knowledge Societies. London: Sage Publications Ltd, 1994
+
+    STEHR, N. e MEJA, V. (Eds.) Society & Knowledge: contemporary perspectives  in
+    the sociology of knowledge & science. 2nd Ed. New Brunswick: Transactions Publishers,
+    2009
+
+    VALLS, Álvaro. O que é ética. São Paulo: Brasiliense, 1987.
+
+    VAZ, Henrique C.de Lima.  Antropologia Filosófica. 2ed. São Paulo: Loyola, 2000.'
+  course: "-Natureza e objeto dos estudos filosóficos.\n- Ciência e Filosofia - Conceitos.\n\
+    - As diversas ciências e a Administração.\n- Ética, Lógica, Estética e Metafísica\
+    \ e suas relações com a Administração.\n- A Ética e o conhecimento na história\
+    \ da filosofia ocidental: o Pré-socráticas, Sócrates, Platão e Aristóteles, a\
+    \ Escolástica, o Racionalismo, o Empirismo, o Criticismo e o Positivismo.\n- O\
+    \ problema do conhecimento (Epistemologia) e sua implicação na Administração.\n\
+    - O conhecimento nas ciências humanas e na filosofia moderna aplicados na Administração.\n\
+    - A metodologia científica nas ciências humanas e sua aplicação na Administração.\n\
+    -Nature and objective of the philosophy study\n-Science and philosophy \x96 Concept\n\
+    -The diverse sciences and the Administration\n-Ethic, Logic, Esthetic e Metaphysics,\
+    \ and it relations with the administrations\n-The ethic and the knowledge inside\
+    \ the occidental philosophy history: Pre-Socratic Socrates, Plato and Aristotle,\
+    \ Scholasticism, Rationalism, Empiricism, Positivism and Criticism.\n- The problem\
+    \ of knowledge (epistemology) and their involvement in the administration.\n-\
+    \ The knowledge in the humanities and applied in modern philosophy in the administration.\n\
+    - The scientific methodology in human sciences and their application in the administration."
+  course_name: 'LES0170 - Introdução à Filosofia para Administração
+
+    Introduction to the Philosophy for Management'
+  deactivation: ''
+  instructors: 93929 - Alex Coltro
+  lecture_credits: '2'
+  objectives: 'Permitir ao aluno ter conhecimentos básicos sobre filosofia e ciência;
+    b) Dar oportunidade ao aluno de refletir sobre os fundamentos Éticos da atividade
+    empresarial; moralidade pessoal e organizacional possibilitando desenvolver posturas
+    responsáveis nos negócios, na política e nas relações pessoais; c) Dar embasamento
+    sobre o conhecimento e sua forma de obtenção; d) Fornecer subsídios para o desenvolvimento
+    do espírito crítico e do raciocínio lógico; e) Permitir iniciação à metodologia
+    científica de pesquisa.
+
+    ) Allow the students to have the basis of the knowledge of philosophy and science;
+    b) Give the opportunity for the student to think about ethics on company activities;
+    personal moral and organizational making possible to develop responsible standards
+    for business, policy and personal relations; c) Give basement about knowledge
+    and how to obtain it; d) Give subsidies to develop the critic spirit and logic
+    thinking; e) permit the start to the scientific methodology and research.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20210612205321'
+digest: S3OKQX2CF4C5JQQA4SK5W3W7TD4GW75Z
+updated_at: '20210612205321'
+url: https://web.archive.org/web/20210612205321id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0170&verdis=3
