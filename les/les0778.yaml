@@ -1,0 +1,49 @@
+courses:
+  activation: 01/01/2019
+  assessment: Uma prova com toda a matéria lecionada. Estará apto a efetuar a prova
+    de recuperação o aluno que tiver como média final na disciplina uma nota igual
+    ou superior a três (3,0) e inferior a cinco (5,0), e tiver, no mínimo, 70% (setenta
+    por cento) de frequência às aulas. O cálculo de uma média aritmética simples será
+    feito com a nota da prova de recuperação e a média final obtida pelo aluno na
+    disciplina. Se esta média resultar em nota igual ou superior a cinco (5,0), o
+    aluno será aprovado.
+  bibliography: 'Literatura Básica:
+
+    CARPINETTI, L. C. R. Gestão da Qualidade: conceitos e técnicas. 3ª ed. São Paulo:
+    Atlas, 2016. TOLEDO, J. C.; BORRÁS, M. A.; MERGULHÃO, R. C.; MENDES, G. H. S.
+    Qualidade: gestão e métodos. Rio de Janeiro: LTC, 2014.
+
+    Literatura Complementar:
+
+    CARPINETTI, L. C. R.; GEROLAMO, M. C. Gestão da qualidade ISO 9001:2015: requisitos
+    e integração com a ISO 14001:2015. São Paulo: Atlas, 2017.  JURAN, J. M. A Qualidade
+    desde o Projeto: novos passos para o planejamento da qualidade em produtos e serviços.
+    São Paulo: Cengage Learning, 2009. MOREIRA, D. A. Administração da Produção e
+    Operações. São Paulo: Cengage Learning, 2008. PALADINI, E. P. Gestão da qualidade:
+    teoria e prática. 3ª ed. São Paulo: Atlas, 2017. SLACK, N.; CHAMBERS, S.; JOHNSTON,
+    R.; BETTS, A. Gerenciamento de operações e de processos: princípios e práticas
+    de impacto estratégico. 2ª ed. Porto Alegre: Bookman, 2013.'
+  course: Evolução do conceito e da prática da gestão da qualidade. Fundamentos da
+    qualidade e modelos de gestão. Sistema de gestão da qualidade. Ferramentas para
+    o controle e melhoria da qualidade. Desdobramento da função qualidade (QFD). Análise
+    do modo e do efeito da falha (FMEA). Seis sigma e técnicas aplicadas. Desdobramento
+    e gestão de estratégias de qualidade e melhoria. Sistemas de medição e desempenho.
+    Benchmarking.
+  course_name: 'LES0778 - Gestão da Qualidade I
+
+    Quality Management I'
+  deactivation: ''
+  instructors: 5863920 - Catarina Barbosa Careta
+  lecture_credits: '2'
+  objectives: O objetivo da disciplina é permitir ao aluno entender e caracterizar
+    os modernos conceitos de qualidade e produtividade, suas interligações e sua importância
+    para as organizações nos dias atuais. Isso conferirá ao aluno a capacidade analítica
+    para interpretar os fatores que influenciam a qualidade e produtividade e propor
+    estratégias e meios de intervenção para aprimorar o desempenho de uma organização.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20210612200508'
+digest: ERAISTGJRC22WYINUPJRYHINPQ6GOQDM
+updated_at: '20210612200508'
+url: https://web.archive.org/web/20210612200508id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0778&verdis=3
