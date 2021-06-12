@@ -1,0 +1,84 @@
+courses:
+  activation: 01/01/2012
+  assessment: Uma única prova com toda a matéria lecionada.
+  bibliography: '7.1. LIVROS-TEXTO:  ZYLBERSZTAJN, D. & NEVES, M.F. (Org.) (2000).
+    Economia e Gestão dos Negócios Agroalimentares. São Paulo: Editora Pioneira, 428
+    p.  BATALHA, M.O. (coord.) (2001). Gestão Agroindustrial. São Paulo: Editora Atlas,
+    Vol. 1. GEPAI: Grupo de Estudos e Pesquisas Agroindustriais, 690 p.
+
+    7.2. LEITURA COMPLEMENTAR: BATALHA, M.O. (coord.) (2001). Gestão Agroindustrial.
+    São Paulo: Editora Atlas, Vol. 2. GEPAI: Grupo de Estudos e Pesquisas Agroindustriais,
+    383 p. BELIK, W. Muito além da porteira. Coleção Teses. Campinas: IE/UNICAMP,
+    2001. 184p. BELIK, W.; MALUF, R.  Abastecimento e Segurança Alimentar. Os Limites
+    da Liberalização. Campinas: IE/UNICAMP, 2000. 234 p. CAIXETA-FILHO, J.V. E GAMEIRO,
+    A. H. Transporte e Logística em Sistemas Agroindustriais. Editora Atlas. 224p.
+    CAMPANHOLA, C.; SILVA, J. G. (Ed.).  O Novo Rural  Brasileiro. Políticas Públicas.  Jaguariúna:
+    EMBRAPA/UNICAMP, 2000. 176p. Estudos de Caso. PENSA. http://www.fia.com.br/pensa/download.htm.
+    FARINA, E. M. M. Q. (ed). Estudos de Caso em Agribusiness II. São Paulo: Pioneira,
+    1997. FARINA, E.M.M.Q.; ZYLBERSTAJN, D.  Competitividade no agribusiness brasileiro.
+    Relatório Final. IPEA/PENSA/USP. 1998. FARINA, M.M. Q.; AZEVEDO, P.F.; SAES, M.S.M.
+    Competitividade: mercado, estado e organizações. São Paulo: Editora Singular,
+    1997. 284p. INSTITUTO DE PESQUISA ECONÔMICA APLICADA (IPEA). Competitividade do
+    Agribusiness Brasileiro. Relatório Final. Programa de Estudos dos Negócios do
+    Sistema Agroindustrial (PENSA), Julho de 1998. (4 volumes). KAGEYAMA, A. (Coord.)  O
+    novo padrão agrícola brasileiro: do complexo rural aos complexos agroindustriais.
+    In: BELIK, W. et al. Agricultura e Políticas Públicas. Série IPEA, n. 127.  1990.
+    p.113-223. KOTLER, P. Administração de Marketing: Análise, Planejamento, Implementação
+    e Controle. Editora Atlas, 1998.  MACHADO, C. A. P., & SPERS, E. E. & CHADDAD,
+    F. R. & NEVES, M. F. Agribusiness Europeu. São Paulo: Pioneira, 1996. 132p. MARQUES,
+    P.; AGUIAR, D. Comercialização de Produtos Agrícolas. São Paulo: EDUSP, 1993.
+    p. 93-133. MEJIDO, J.L.T. Marketing e Agribusiness. Editora Atlas, 1994. NASSAR,
+    A. M. Eficiência das Associações de Interesse Privado: uma análise do agronegócio
+    brasileiro. São Paulo: USP, 2001. 234p. Dissertação (Mestrado em Administração)
+    Faculdade de Economia, Administração e Contabilidade.  NELLIS, J.; PARKER, D.
+    Princípios de Economia para os Negócios. São Paulo: Ed. Futura. 2003. 503p. NEVES,
+    M.F. & SCARE, R. F. (org.) et alli. Marketing & Exportação. São Paulo: Atlas,
+    2001. 316 p. NEVES, M.F.; CHADDAD, F.; LAZZARINI, S. (2000). Alimentos: Novos
+    Tempos e Conceitos na Gestão de Negócios. Editora Pioneira, 129 p. PINAZZA, L.
+    A.; ARAÚJO, N. B. A Agricultura na Virada do Século XX. São Paulo: Ed. Globo/ABAG.
+    1993. 166p. PORTER, M. Vantagem Competitiva. Ed. Campus, 1989, 510 p. SILVA, J.
+    G.  A nova dinâmica da agricultura brasileira. Campinas: IE/UNICAMP. 1998. 211p.
+    ZYLBERSZTAJN, D.; FARINA, E. M.M.Q.; SANTOS, R.C. O Sistema Agroindustrial do
+    Café. Porto Alegre: CBC/ORTIZ/PENSA. 1993. 277p. ZYLBERSZTAJN, D. & SCARE, R.
+    F. (org.) et alli. Gestão da Qualidade no Agribusiness: Estudos e Casos. São Paulo:
+    Atlas, 2002. WILLIAMSON, O. (1985). The Economic Institutions of Capitalism: Firms,
+    Markets, Relational Contracting, The Free Press, 1985, 450 p.'
+  course: 'Introdução à Economia e Gestão dos Negócios Agroalimentares: conceitos,
+    dimensões, tendências e abordagem sistêmica. Sistemas Agroindustriais (SAGs):
+    metodologia de análise, coordenação e gerenciamento, sistemática para coleta de
+    dados e análise de mercados. Noções de Economia das Organizações e Organização
+    Industrial. Concorrência nos negócios agroalimentares. Estratégias Agroalimentares:
+    formas básicas de organização das firmas, estratégias de crescimento das firmas
+    (integração horizontal e vertical, diversificação, etc.), parcerias e alianças
+    (joint-venture, licenciamento, franquia, etc.), fronteiras de eficiência, terceirização,
+    fusões e aquisições. Finanças e Marketing nos negócios agroalimentares. Competitividade
+    e Globalização nos negócios agroalimentares. Organizações e Instituições. Qualidade
+    e Segurança de Alimentos. Gestão da qualidade no agribusiness. Gestão Ambiental
+    no sistema agroindustrial. Administração estratégica de cadeias de suprimento
+    no agribusiness. Estudos de Caso.'
+  course_name: 'LES0452 - Economia e Gestão do Agronegócio
+
+    Agribusiness Economics and Management'
+  deactivation: ''
+  instructors: 1225121 - Margarete Boteon
+  lecture_credits: '4'
+  objectives: Trata-se de um curso introdutório à economia e gestão dos negócios dos
+    sistemas agroalimentares. O objetivo central é fazer com  que o aluno compreenda
+    a estrutura e a dinâmica de funcionamento do complexo agroindustrial no Brasil.
+    Visa ainda explorar as inter-relações entre os segmentos das cadeias agroindustriais
+    e destes com as instituições, bem como seus principais desafios atuais. Ao final
+    do curso, espera-se que o aluno tenha uma noção geral da dimensão e do funcionamento
+    dos sistemas integrados de produção de alimentos, fibras e biomassa. Para tanto,
+    serão abordados temas como a evolução do conceito de complexo agroindustrial,
+    organização e coordenação das cadeias produtivas em seus diferentes segmentos
+    (indústria de máquinas e insumos, produção agropecuária, agroindústria e distribuição),
+    o papel dos agentes envolvidos, principais estratégias das empresas agroalimentares,
+    marketing aplicado aos negócios agroalimentares, competitividade e globalização,
+    organizações e instituições do agronegócio, aspectos de logística e gestão ambiental.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612202940'
+digest: W63XVCQC3OT2CNHZBVXHXUV3ETT6YA6J
+updated_at: '20210612202940'
+url: https://web.archive.org/web/20210612202940id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0452&verdis=7
