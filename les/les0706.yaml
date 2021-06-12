@@ -1,0 +1,38 @@
+courses:
+  activation: 01/01/2007
+  assessment: Uma única prova, com toda a matéria lecionada.
+  bibliography: "CERQUEIRA NETO, E.P. Gestão da qualidade: princípios e métodos. 3\
+    \ Ed. São Paulo: Pioneira, 1993.\nCORREA, H. L. et al. Planejamento, programação\
+    \ e controle da produção \x96 MRP II/ERP. São Paulo: Atlas, 1997.\nDAVIS, M.M.,\
+    \ AQUILANO, N.J., CHASE, R. Fundamentos da Administração da Produção Bookman,\
+    \ 2001.\nMARTINS, P. G. LANGENI, F. P. Administração da Produção. São Paulo: Saraiva,\
+    \ 1998\nMOREIRA, D. A. Administração da produção e operações. Pioneira, 2001\n\
+    SLACK, N., CHAMBERS, S., HARLAND, C., JOHNSTON, R., Administração da produção.\
+    \ 2 ed. São Paulo: Atlas, 2002.\nTUBINO, D. F. Manual de Planejamento e Controle\
+    \ da Produção. São Paulo: ATLAS, 1997"
+  course: Introdução Gestão dos Negócios Agroalimentares. Planejamento, programação
+    e controle para produção. Noções de controle financeiro da produção. Sistemas
+    de organizacionais. Conceitos de planejamento, programação e controle da produção.
+    Conceitos básicos de estoques. Modelos de planejamento agregado da produção. Cálculo
+    de necessidades (MRP) e otimização do sistema produtivo. Seqüenciamento Kanban/Just-in-time.
+    Gestão de Qualidade. Projeção (média corrida e suavização exponencial) da demanda.Avaliação
+    de modelos de previsão e conceitos de planos estratégicos de negócios.
+  course_name: 'LES0706 - Administração e Controle da Produção
+
+    Management and production control'
+  deactivation: ''
+  instructors: 1225121 - Margarete Boteon
+  lecture_credits: '4'
+  objectives: Capacitar o aluno para uma visão geral do sistema produtivo e operacional
+    na produção de bens e serviços. Os conceitos de administração e controle e projeção
+    da produção auxiliarão nas decisões estratégicas em diferentes setores do sistema
+    produtivo. A avaliação e análise com diferentes indicadores econômicos, instrumentos
+    de gestão de qualidade e capacidade de produção despertará a atenção para um processo
+    eficiente em produtividade e qualidade com viabilidade econômica.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612194534'
+digest: VGSLDXO6MNZLHXXGV6KXVOSKEZODHN5O
+updated_at: '20210612194534'
+url: https://web.archive.org/web/20210612194534id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0706&verdis=1
