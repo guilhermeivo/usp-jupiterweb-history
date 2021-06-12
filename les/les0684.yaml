@@ -1,0 +1,47 @@
+courses:
+  activation: 01/01/2016
+  assessment: Uma única prova com toda matéria lecionada
+  bibliography: "Literatura Básica:\n1.\tHOWARD, R. e MATHESON, J. Readings on the\
+    \ Principles and Applications of Decison Analysis. Strategic Decisions Group,\
+    \ Menlo Park, Volumes 1 e 2. 1989.\n2. GOODWIN, P e WRIGHT, G.. Decision Analysis\
+    \ for Management Judgment. Wiley, 2010\n3. MORGAN, M.G. e HENRION, M. Uncertainty:\
+    \ A guide to dealing with uncertainty  in quatitative risk and policy analysis.\
+    \ Cambridge University Press, 1993.\n4. MARCH, J. A primer on decision making.\
+    \ Free Press, Maxwell Macmillan International, 1994.\n5. RAIFFA, H. e KEENEY,\
+    \ R. Smart Choices: Practical Guide to Making Better Decisions. Crown Business,\
+    \ 2002.\n6. SKINNER, J. Introduction to Decision Analysis. Probabilistic Publishing,\
+    \ 3rd. edition. 2009."
+  course: '1. Introdução: Risco e incerteza: conceitos básicos; Aspectos normativos
+    e positivos das decisões e do comportamento humano com relação ao risco; 2. Uso
+    de Modelos na Análise de Decisões.  3. Revisão de probabilidades e otimização.
+    3. Teoria da decisão: fundamentos e aplicações: Axiomas da teoria da decisão;
+    Utilidade esperada, funções de preferências e prêmio pelo risco; Valor da informação
+    e valor incorporado de risco na análise; Análise de sensibilidade em problemas
+    de decisão. 4. Problemas e métodos para aquisição de conhecimentos para representação
+    de riscos e preferências: Técnicas estatísticas para aquisição de conhecimentos
+    a partir de dados; Técnicas para mensuração do grau de aversão ao risco e função
+    de preferência do agente decisor; funções de preferência com múltiplos objetivos
+    5. Paradigmas e métodos para representação de incertezas e riscos: Árvores de
+    decisão, redes bayesianas ou probabilísticas e diagramas de influência ou relevância.
+    6. Administração de riscos e seus instrumentos: seguros, diversificação, opções,
+    contratos futuros e outros 7. Ferramentas computacionais para suporte à análise
+    de decisões e administração de riscos 8. Estudos de caso.'
+  course_name: 'LES0684 - Análise de Decisões e Administração de Riscos
+
+    Decision Analysis and Risk Management'
+  deactivation: ''
+  instructors: 51881 - Adriano Júlio de Barros Vicente de Azevedo Filho
+  lecture_credits: '4'
+  objectives: Desenvolver os fundamentos e aplicações da análise e teoria da decisão
+    na modelagem e solução de problemas de decisão que podem envolver complexidade,
+    dinâmica e riscos em áreas de agronegócios, finanças, produção, ambiente e de
+    saúde. Os fundamentos são aplicados no entendimento e desenho de instrumentos
+    voltados à gestão de riscos como seguros, diversificação, opções, contratos futuros,
+    entre outros.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20210612205848'
+digest: NBZ2NBC6BIV35S4Z3NJCF6YXE5J3RQPG
+updated_at: '20210612205848'
+url: https://web.archive.org/web/20210612205848id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0684&verdis=2
