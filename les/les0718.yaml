@@ -1,0 +1,62 @@
+courses:
+  activation: 01/01/2019
+  assessment: Estará apto a efetuar a prova de reavaliação o aluno que tiver como
+    média final na disciplina uma nota igual ou superior a três (3,0) e inferior a
+    cinco (5,0), e tiver, no mínimo, 70% (setenta por cento) de freqüência às aulas.
+    O cálculo de uma média aritmética simples será feito com a nota da prova de reavaliação
+    e a média final obtida pelo aluno na disciplina. Se esta média resultar em nota
+    igual ou superior a cinco (5,0), o aluno será aprovado.
+  bibliography: 'Literatura Básica:
+
+    ROSS, S.; WESTERFIELD, R.W.; JAFFE, J.F. Administração financeira. Trad. Sanvicente,
+    A.Z. 10. ed. São Paulo: Atlas, 2015.
+
+    ASSAF NETO, A. Finanças corporativas e valor. 7. ed. São Paulo: Atlas, 2014.
+
+    Literatura Complementar:
+
+    ASSAF NETO, A.; LIMA, F.G. Fundamentos de administração Financeira. 3. ed.. São
+    Paulo: Atlas, 2017.
+
+    ASSAF NETO, A. Matemática financeira: edição universitária. São Paulo: Atlas,
+    2017.
+
+    GITMAN, L.J. Princípios de administração financeira. 12. ed. São Paulo: Pearson
+    Prentice Hall, 2010.'
+  course: 'a) Risco e retorno: medidas estatísticas de risco e retorno, risco e retorno
+    esperado, retorno esperado de um portfólio, diversificação de riscos, gestão de
+    portfólio e classe de ativos;
+
+    b) Teoria do portfólio: risco de uma carteira, ativos com correlação nula, conjunto
+    de combinações de carteiras e fronteira eficiente;
+
+    c) Modelo de precificação de ativos e custo de oportunidade: reta do mercado de
+    capitais, coeficientes alfa, coeficiente beta, risco não sistemático, mensuração
+    do risco sistemático, retorno exigido e o alfa de Jensen, modelo CAPM;
+
+    d) Modelos multifatoriais: teoria de precificação por arbitragem (APT e outros),
+    fatores de risco (modelo de Fama e French);
+
+    e) Custo de capital e criação de valor: custo de capital de terceiros, custo de
+    capital próprio, avaliação do custo total de capital, criação de valor;
+
+    f) Avaliação de empresas e metodologia de avaliação: métodos patrimoniais e critérios
+    de avaliação de ativos, fusões e aquisições, metodologia de avaliação de fluxos
+    de caixa.'
+  course_name: 'LES0718 - Administração Financeira II
+
+    Financial Management II'
+  deactivation: ''
+  instructors: 8498852 - Alex da Silva Alves
+  lecture_credits: '4'
+  objectives: O curso objetiva propiciar aos alunos base teórica e prática no uso
+    das técnicas modernas de Administração Financeira, visando auxiliar no processo
+    da tomada de decisão em Administração Empresarial. É uma continuação do curso
+    de Administração Financeira I, focalizando tópicos avançados em Finanças.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612204707'
+digest: EDOEJMZYBJWTQADJRSYFWAJ5H6YXL24Q
+updated_at: '20210612204707'
+url: https://web.archive.org/web/20210612204707id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0718&verdis=2
