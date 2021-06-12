@@ -1,10 +1,12 @@
 courses:
-  activation: 01/01/2013
+  activation: 01/01/2021
   assessment: A recuperação dos alunos, a ser realizada em data determinada pela seção
     de graduação, constará apenas de uma prova dissertativa sobre temas constantes
     do programa ministrado durante o semestre.
-  bibliography: 'ALMEIDA, M.L.P.. Universidade pública & iniciativa privada. Campinas:
-    Alínea, 2002.
+  bibliography: 'Literatura Básica:
+
+    ALMEIDA, M.L.P.. Universidade pública & iniciativa privada. Campinas: Alínea,
+    2002.
 
     ALMEIDA JR., A.R. Tecnologias e comunicações: da Natureza ao ambiente. In PHILIPPI
     JR., A. Curso de gestão ambiental. Barueri: Manole, 2014.
@@ -17,6 +19,10 @@ courses:
 
     ALMEIDA JR. A.R.; HOEFFEL, J.L.M.; QUEDA, O. A propriedade rural como símbolo.
     São Paulo: Hucitec, 2008.
+
+    AMNESTY INTERNATIONAL. Surveillance giants: how the business model of Google and
+    Facebook threatens Human Rights. London: Amnesty International Ltd / Peter Berenson
+    House, 2019.
 
     CAPRA, F. A teia da vida. São Paulo: Cultrix, 2004.
 
@@ -47,6 +53,9 @@ courses:
 
     LEORI-GOURHAN, A. O gesto e a palavra. Lisboa: Edições 70, 1987.
 
+    LEWIS, R. Alternative influence: broadcasting the reactionary right on YouTube.
+    New York: Data & Society, 2019.
+
     MATURANA, H. A ontologia da realidade. Belo Horizonte: Editora da UFMG, 2002.
 
     McLUHAN, M. Os meios de comunicação como extensões do homem. São Paulo: Cultrix,
@@ -56,7 +65,7 @@ courses:
 
     MORIN, E. Introdução ao pensamento complexo. Porto Alegre: Sulina, 2007.
 
-    MUMFORD, L. Arte e técnica. Lisboa: Edições 70, 2001.
+    nMUMFORD, L. Arte e técnica. Lisboa: Edições 70, 2001.
 
     PHILIPPI JR, A.; NETO, A.J.S. Interdisciplinaridade em ciência, tecnologia & inovação.
     Barueri: Manole, 2011.
@@ -84,6 +93,9 @@ courses:
 
     SIBILIA, P. El hombre postorgánico: cuerpo, subjetividad y tecnologías digitales.
     Buenos Aires Fondo de Cultura Económica, 2009.
+
+    SMITH, J.M. Roleta genética: riscos documentados dos alimentos transgênicos sobre
+    a saúde. São Paulo: João de Barro Editora, 2009.
 
     STENGERS, I. A invenção das ciências modernas. São Paulo: Editora 34, 2002.
 
@@ -123,7 +135,7 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20200922154324'
-digest: VJTZZ4CBBSNL4YLOEMVLRKCBMERSOC2J
-updated_at: '20200922154324'
-url: https://web.archive.org/web/20200922154324id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0135&codcur=11010&codhab=0
+created_at: '20210612213035'
+digest: K4GWDD2F2XJROBCJHAF4KTXKW26UGVTO
+updated_at: '20210612213035'
+url: https://web.archive.org/web/20210612213035id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0135&verdis=6
