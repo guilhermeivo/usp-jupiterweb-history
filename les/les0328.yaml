@@ -1,0 +1,68 @@
+courses:
+  activation: 01/01/2013
+  assessment: Estará apto a efetuar a prova de reavaliação o aluno que tiver como
+    média final na disciplina uma nota igual ou superior a três (3,0) e inferior a
+    cinco (5,0), e tiver, no mínimo, 70% (setenta por cento) de freqüência às aulas.
+    O cálculo de uma média aritmética simples será feito com a nota da prova de reavaliação
+    e a média final obtida pelo aluno na disciplina. Se esta média resultar em nota
+    igual ou superior a cinco (5,0), o aluno será aprovado.
+  bibliography: "\x95 GATEWOOD, R,. TAYLOR, R. FERRELL, O.C. Management: comprehension,\
+    \ analysis, and application. Irvin, 1995. \x95 HALL, R. Organizações: estrutura\
+    \ e processos. Prentice-Hall do Brasil, 1984.\n\x95 NONAKA, I. & TAKEUCHI, H.\
+    \ The Knowledge-creating company. New York:Oxford University press, Cap. 06, 1995.\
+    \ \x95 MAXIMIANO, A. C. A.; SBRAGIA, R. KRONER, W. O Gerente do projeto \"peso\
+    \ pesado\": um estudo de caso. Anais do Simpósio de Gestão da Inovação Tecnológica,\
+    \ 1996. \x95 MAXIMIANO, A. C. A. Teoria Geral da Administração. São Paulo: Atlas,\
+    \ 1997. \x95 MINTZBERG, H. Criando Organizações Eficazes. São Paulo: Atlas, 1996.\
+    \ \x95 MINTZBERG, H. Trabalho do executivo: o folclore e o fato. Nova Cultural.\
+    \ P. 07-37, 1986.  \x95 MORGAN, G. Imagens da organização. São Paulo: Atlas, 1996.\n\
+    \x95 NADLER, D. Arquitetura organizacional. Rio de janeiro:Campus. PORTO, G. S.\
+    \ A Reestruturação em um centro de pesquisa: um estudo de caso na COSIPA. Anais\
+    \ do BALAS 97. \x95 STONER, J. A. & FREEMAN, R. E. Administração. Rio de Janeiro:\
+    \ Prentice Hall do Brasil, 1995. \x95 TOFFLER, A. A Mutável estrutura empresarial:\
+    \ entrevista com Alvin Toffler 1991. VASCONCELLOS, E. e HAMSLEY, J.: Estrutura\
+    \ das Organizações. São Paulo:EDUSP/Pioneira, 1986."
+  course: 'Ø Conceitos básicos sobre estrutura organizacional
+
+    Ø As variáveis organizacionais
+
+    - Complexidade - Divisão do trabalho e níveis hierárquicos
+
+    - Centralização e descentralização
+
+    - Formalização
+
+    Ø Estruturas departamentalizadas: alternativas e critérios
+
+    Ø Estruturas matriciais: tipos e operação
+
+    - Matrizes funcionais e por projetos
+
+    Ø Estruturas por equipes
+
+    Ø UEN - Unidades Estratégicas de Negócio
+
+    Ø Organizações em redes e virtuais
+
+    Ø Concepção e implantação de novas estruturas'
+  course_name: 'LES0328 - Estrutura Organizacional
+
+    Organizational Structure'
+  deactivation: ''
+  instructors: 5748111 - Heliani Berlato dos Santos
+  lecture_credits: '2'
+  objectives: 'a) Conhecer e identificar os condicionantes e componentes da estrutura
+    organizacional das empresas;
+
+    b) Analisar e tomar decisões sobre as alternativas de estrutura organizacional
+    para diferentes contextos empresariais;
+
+    c) Entender as limitações e dificuldades envolvidas no estudo e prática do processo
+    de avaliação, formulação e implantação da estrutura organizacional nas empresas;'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20210612203724'
+digest: LKVGKUJI6MWYGYGWNEKS7GGXIKMXF67F
+updated_at: '20210612203724'
+url: https://web.archive.org/web/20210612203724id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0328&verdis=1
