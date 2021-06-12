@@ -1,0 +1,41 @@
+courses:
+  activation: 01/01/2014
+  assessment: Uma prova com toda a matéria lecionada.
+  bibliography: 'Mankiw, N. G. Introdução à Economia. São Paulo: Editora Pioneira/Thomson,
+    3a edição, 2005.
+
+    Pinho, D.B. & M.A.S. de Vasconcellos. Manual de Economia. São Paulo, Editora Saraiva,
+    5ª. Edição, 2004.'
+  course: Introdução à Economia, Demanda de Mercado e elasticidades, Custo de Produção,
+    Oferta de Mercado e Elasticidades, Competição Perfeita, Monopólio e Oligopólio,
+    Agronegócio, Cadeia de Produção e Formação de Preços, Introdução aos Mercados
+    Futuros Agropecuários, Noções de Macroeconomia, Desenvolvimentos Econômico, Matemática
+    Financeira, Análise de Projetos.
+  course_name: 'LES0144 - Introdução à Economia
+
+    Introduction to Economics'
+  deactivation: ''
+  instructors: '2715154 - Carlos Jose Caetano Bacha
+
+    2210982 - Humberto Francisco Silva Spolador
+
+    52072 - Joao Gomes Martines Filho
+
+    1603283 - Mirian Rumenos Piedade Bacchi
+
+    89239 - Pedro Valentim Marques
+
+    1906631 - Silvia Helena Galvao de Miranda'
+  lecture_credits: '2'
+  objectives: Este curso visa apresentar os princípios da teoria microeconômica e
+    macroeconômica de modo a permitir aos alunos o entendimento do que vem a ser economia
+    e qual o seu objetivo de estudo. Ao final do curso os alunos deverão estar dominando
+    os conceitos econômicos básicos e capazes de analisar e entender os fatos econômicos
+    diários relacionados ao seu campo de atuação.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20210612210831'
+digest: P6VHWV7JAEKT63OIQSDPR6N6XITUTODS
+updated_at: '20210612210831'
+url: https://web.archive.org/web/20210612210831id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0144&verdis=3
