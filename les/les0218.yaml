@@ -1,27 +1,80 @@
 courses:
-  activation: 01/01/2008
-  assessment: Uma única prova  com toda matéria lecionada
-  bibliography: "BERKOWITZ, Eric; KERIN, Roger; HARTLEY, Steven & RUDELIUS, William,\
-    \ Marketing. 6ª ed. Irwin-McGraw Hill. 2001.BOONE, Louis E & KURTZ, David L. Marketing\
-    \ Contemporâneo. (8ª ed.). Rio de Janeiro. LTC. 1998. CHURCHILL Jr, Gilbert A\
-    \ & Peter, J. Paulo. Marketing. Criando valor para os clientes. Ed. Saraiva. São\
-    \ Paulo. 2005. COBRA, Marcos. Administração de Marketing no Brasil. 3ª ed. Rio\
-    \ de Janeiro: Elsevier, 2009. CZINKOTA, Michael e outros. Marketing. As melhores\
-    \ práticas. Porto Alegre. Bookman. 2001. DAHLSTROM, Robert. Gerenciamento de Marketing\
-    \ Verde. São Paulo: Cengage. 2012, 384p. ETZEL, Michael; WALKER, Bruce & STANTON,\
-    \ William. Marketing. Makron Books. 2001. KOTLER, Philip; KELLER, Kevin Lane.\
-    \ Administração de Marketing. 14 ed., São Paulo: Pearson Education do Brasil,\
-    \ 2012. KOTLER, Philip; KELLER, Kevin Lane. Marketing Management. 14th ed., Pearson\
-    \ Education Inc., 2012. McCARTHY, E. Jerome & PERREAULT Jr. Marketing Essencial:\
-    \ uma abordagem gerencial e global. São Paulo. Atlas. 1997. NICKELS, William G.\
-    \ & WOOD, Marian Burk. Marketing. Relacionamentos, qualidade, valor. Rio de Janeiro.\
-    \ LTC Editora. 1999. RICHARDSON, Jonh E. (editor). Marketing. Annual editions.\
-    \ Duskin/McGraw-Hill, 99/00. Serão apresentados durante o curso, artigos, \x93\
-    Papers\x94, sites de internet e livros mais recentes. GIACOMINI FILHO, Gino. Ecopropaganda.\
-    \ São Paulo: SENAC. 2004, 215p. PRINGLE, Hamish; THOMPSON, Marjorie. Marketing\
-    \ Social: Marketing para Causas Sociais e a Construção das Marcas. São Paulo:\
-    \ Pearson Education do Brasil. 2000, 258p. WASHI, John F. Green Marketing and\
-    \ Management: A Global Perspective. Malden: Blackwell. 1996, 247p."
+  activation: 01/01/2021
+  assessment: Estará apto a efetuar a prova de reavaliação o aluno que tiver como
+    média final na disciplina uma nota igual ou superior a três (3,0) e inferior a
+    cinco (5,0), e tiver, no mínimo, 70% (setenta por cento) de frequência às aulas.
+    O cálculo de uma média aritmética simples será feito com a nota da prova de reavaliação
+    e a média final obtida pelo aluno na disciplina. Se esta média resultar em nota
+    igual ou superior a cinco (5,0), o aluno será aprovado.
+  bibliography: 'Livro texto: KOTLER, Philip; KELLER, Kevin Lane. Administração de
+    marketing.  São Paulo: Pearson Education do Brasil, 15 ed., 2018, 986p.
+
+    AMATUCCI, Marcos; SPERS, Eduardo Eugênio; AMATUCCI, Marcos. The Brazilian biofuel
+    alternative. International Journal of Automotive Technology and Management, v.10,
+    n.1, p.37-55, 2010.
+
+    AMATUCCI, Marcos; SPERS, Eduardo Eugênio; SPERS, Eduardo Eugênio. Etanol: o combustível
+    da inovação. Revista da ESPM, v.22, p.104 - 111, 2016.
+
+    BRAGATO, Ivelise Rasera; SIQUEIRA, Elisabete Stradiotto; GRAZIANO, Graziela Oste;
+    SPERS, Eduardo Eugênio. Produção de açúcar e álcool versus responsabilidade social
+    corporativa: ações desenvolvidas pelas usinas de cana-de-açúcar frente às externalidades
+    negativas. Gestão & Produção (UFSCAR. Impresso), v.15, p.89 - 100, 2008.
+
+    BRAGATO, Ivelise Rasera; SPERS, Eduardo Eugênio; CORREA, Dalila Alves; SIQUEIRA,
+    Elisabete Stradiotto. Responsabilidade social e o gerenciamento de ações sociais:
+    um estudo comparativo no setor sucroalcooleiro. READ. Revista Eletrônica de Administração
+    (Porto Alegre. Online), v.16, n. 65, p.1 - 27, 2010. Disponível em: [http://seer.ufrgs.br/read/article/view/38979]
+
+    BURNIER, Pedro Carvalho; SPERS, Eduardo Eugênio; GUERRA, Diego de Souza. Effect
+    of production process and attitudes on the intent to buy sustainable beef. Journal
+    of International Food & Agribusiness Marketing, v.3, p.1 - 27, 2019.
+
+    CASTANHO, Simone Conceição Ramos; SPERS, Eduardo Eugênio; FARAH, Osvaldo Elias.
+    Custos e benefícios para o consumidor na ação da reciclagem. RAM. Revista de Administração
+
+    Mackenzie, v.7, p.78 - 98, 2006.
+
+    CHURCHILL Jr, Gilbert A; Peter, J. Paulo. Marketing: criando valor para os clientes.
+    3ed. São Paulo: Saraiva, 2013.
+
+    CUNHA, Christiano França da; SPERS, E. E.; ZYLBERSZTAJN, Decio. Percepção sobre
+    atributos de sustentabilidade em um varejo supermercadista. RAE (IMPRESSO), v.51,
+    p.542 - 552, 2011. Disponível em: [http://rae.fgv.br/sites/rae.fgv.br/files/artigos/10.1590_S0034-75902011000600004.pdf]
+
+    FONSECA, M. R.; ROCHA, Thelma Valéria; SPERS, E. E. A influência da responsabilidade
+    social corporativa na imagem de marca: um estudo em empresas brasileiras do setor
+    de cosméticos. REMARK. Revista Brasileira de Marketing, v.13, p.34-46, 2014. Disponível
+    em: [http://A Influência da Responsabilidade Social Corporativa na imagem de marca:
+    Um Estudo em Empresas Brasileiras do Setor de Cosméticos]
+
+    HAIR JR, J. F.; CELSI, M. W.; ORTINAU, D. J.; BUSH, R. P. Fundamentos de Pesquisa
+    de Marketing. 3ed. São Paulo: McGrawHill e Bookman, 2014.
+
+    HOFFMAN, K. D.; BATESON, J. E. G.; Princípios de marketing de serviços. São Paulo:
+    Cengage, 2016.
+
+    KOTLER, Philip. Marketing 4.0. Rio de Janeiro: Sextante, 2017. 208p.
+
+    KOTLER, Philip; ARMSTRONG, Gary. Princípios de Marketing. 15ed. São Paulo. Pearson
+    Education do Brasil, 2015. 800p.
+
+    KOTLER, Philip; KELLER, Kevin Lane. Marketing essencial: conceitos, estratégias
+    e casos. 5 ed. São Paulo: Pearson, 2013. 456p.
+
+    PACHECO, Paulo Henrique Burguesi; SILVA, Hermes Moretti Ribeiro; SPERS, Eduardo
+    Eugênio; HAMZA, K. M. As vertentes do consumo sustentável: um estudo comparativo
+    entre consumidores com formação ambiental e consumidores em geral. Gestão e Desenvolvimento,
+    v.16, p.177 - 200, 2019. Disponível em:  [http://https://periodicos.feevale.br/seer/index.php/revistagestaoedesenvolvimento/article/view/1296]
+
+    SPERS, Eduardo Eugênio. Pesquisa de Marketing em Alimentos. In: NEVES, Marcos
+    Fava; THOMÉ E CASTRO, Luciano. (Org.) Marketing e Estratégia em Agronegócios e
+    Alimentos. São Paulo: Atlas, 2003, p. 53-72.
+
+    SPERS, Eduardo Eugênio; SPERS, Valéria Rueda Elias. Planejamento mercadológico
+    global: identificando oportunidades, planejando e introduzindo produtos e negócios
+    no mercado internacional. In: MORINI, Cristiano; SIMÕES, Regina Célia Faria; DAINEZ,
+    Valdir Iusef. (Org.). Manual de comércio exterior. Campinas, 2006, v. 1, p. 229-256.'
   course: Conceitos básicos e visão sistêmica do Marketing. Conceitos básicos em Marketing.
     Visão geral da Administração e Marketing. O Sistema de Marketing e o Ambiente
     de Marketing. Planejamento Estratégico e o Papel do Marketing. Mensuração e Previsão.
@@ -43,7 +96,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20200919170504'
-digest: NN276VRXDNMNKTHFWPMDUSXQF4MIYTUF
-updated_at: '20200919170504'
-url: https://web.archive.org/web/20200919170504id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0218&codcur=11010&codhab=0
+created_at: '20210612204551'
+digest: T4PQQLGJ3GEHHKE46SQUHNL6VK7DTCDD
+updated_at: '20210612204551'
+url: https://web.archive.org/web/20210612204551id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0218&verdis=4
