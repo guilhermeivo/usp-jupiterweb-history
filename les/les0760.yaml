@@ -1,0 +1,72 @@
+courses:
+  activation: 01/01/2019
+  assessment: Uma prova com toda a matéria lecionada. Estará apto a efetuar a prova
+    de recuperação o aluno que tiver como média final na disciplina uma nota igual
+    ou superior a três (3,0) e inferior a cinco (5,0), e tiver, no mínimo, 70% (setenta
+    por cento) de frequência às aulas. O cálculo de uma média aritmética simples será
+    feito com a nota da prova de recuperação e a média final obtida pelo aluno na
+    disciplina. Se esta média resultar em nota igual ou superior a cinco (5,0), o
+    aluno será aprovado.
+  bibliography: 'Literatura Básica:
+
+    BALLOU, R. H. Gerenciamento da cadeia de suprimentos/logística empresarial. Porto
+    Alegre: Bookman, 2010. BOWERSOX, D. J.; CLOSS, D. J.; COOPER, M. B.; BOWERSOX,
+    J. C. Gestão logística da cadeia de suprimentos. Porto Alegre: Bookman, 2014.
+    CAIXETA FILHO, J.V.; GAMEIRO, A. H. (org.) Transporte e logística em sistemas
+    agroindustriais. São Paulo: Editora Atlas, 2001. CAIXETA FILHO, J.V.; GAMEIRO,
+    A. H. (org.) Sistemas de Gerenciamento de Transporte: Modelagem Matemática. São
+    Paulo, Atlas, 2001. CAIXETA FILHO, J.V.; MARTINS, R. S. (org.) Gestão Logística
+    do Transporte de Carga. São Paulo, Atlas, 2001. CORRÊA, H. L. Administração da
+    cadeia de suprimentos e logística: o essencial. São Paulo: Atlas, 2014.
+
+    Literatura Complementar:
+
+    CHING, H. Y. Gestão de estoques na cadeia de logística integrada – supply chain.
+    São Paulo: Atlas, 2010. CHOPRA, S.; MEINDL, P. Gestão da cadeia de suprimentos:
+    estratégia, planejamento e operações. São Paulo: Pearson, 2011. CHRISTOPHER, M.
+    Logística e gerenciamento da cadeia de suprimentos. São Paulo: Cengage, 2014.
+    DIAS, M. A. Administração de materiais: uma abordagem logística. São Paulo: Atlas,
+    2010. DIAS, M. A. Logística, transporte e infraestrutura: armazenagem, operador
+    logístico, gestão via TI, multimodal. São Paulo: Atlas, 2012. FITZSIMMONS, J.
+    A.; FITZSIMMONS, M. J. Administração de serviços: operações, estratégia e tecnologia
+    da informação. Porto Alegre: Bookman, 2010. GONÇALVES, P. S. Administração de
+    materiais. Rio de Janeiro: Elsevier, 2013. LEITE, P. R. Logística reversa, meio
+    ambiente e competitividade. São Paulo: Pearson, 2012.'
+  course: 'Introdução aos conceitos fundamentais sobre logística e gestão da cadeia
+    de suprimentos
+
+    Administração de materiais (função compras e gestão de estoques)
+
+    Transportes
+
+    Armazenagem
+
+    Movimentação física e embalagens
+
+    Tecnologia da informação e comunicação
+
+    Redes e localização
+
+    Cadeias de suprimentos e estratégias de gestão
+
+    Cadeias de suprimentos globais'
+  course_name: 'LES0760 - Administração de Logística e da Cadeia de Suprimentos
+
+    Logistics and Supply Chain Management'
+  deactivation: ''
+  instructors: '5863920 - Catarina Barbosa Careta
+
+    59145 - Jose Vicente Caixeta Filho'
+  lecture_credits: '4'
+  objectives: a) Capacitar o aluno a distinguir e escolher entre diferentes sistemas
+    de controle de estoques, compreendendo suas particularidades e seus usos; b) Capacitar
+    o aluno a trabalhar com conceitos e técnicas para planejamento e administração
+    das atividades logísticas de uma empresa; c) Capacitar o aluno a trabalhar com
+    o conceito de supply chain management e suas implicações na gestão empresarial.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612213000'
+digest: 4BYFWXYKJFCS6ILSZU7K5UVYJ7VJYDYY
+updated_at: '20210612213000'
+url: https://web.archive.org/web/20210612213000id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0760&verdis=3
