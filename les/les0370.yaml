@@ -1,0 +1,49 @@
+courses:
+  activation: 01/01/2012
+  assessment: Uma única prova, com toda a matéria lecionada.
+  bibliography: 'BERNHOEFT, Arnold Como tornar-se empreendedor em qualquer idade.
+    Nobel 1997
+
+    DEGEN, R. O empreendedor: Fundamentos da iniciativa empresarial. São Paulo, Makron,
+    1998.
+
+    DRUCKER, P. Administrando para obter resultados. São Paulo Pioneira, 1998
+
+    ______. Inovação e espírito empreendedor. São Paulo, Pioneira, 1997.
+
+    MANCUSO, J.R. How to start, finance and manage your own small business. Prentice
+    Hall, Englewood Cliffs, 2001.
+
+    MINTZBERG, H. Criando organizações eficazes. São Paulo, Atlas, 2003.
+
+    SANTOS, S.ª & Campos, H.J. Criando seu próprio negócio: como desenvolver o potencial
+    empreendedor. Brasília, SEBRAE, 1996.
+
+    SEXTON, D.L. & SMILOR, R.W. The art and science of entrepreneurship. Bellinger,
+    Cambridge, Mass., 2001.'
+  course: Atividade empreendedora. O perfil empreendedor. Aprimorando o próprio desempenho
+    pró-ativo. Identificando oportunidades. Transformação da oportunidade em conceitos.
+    Avaliação do potencial do lucro e do crescimento. Dinâmica dos negócios. Escolha
+    da estratégia competitiva. Implementação de negócios. Pré-requisitos necessários
+    para o início de um empreendimento. Análise financeira do novo empreendimento.
+    Preparação do plano de negócios para a viabilização do empreendimento. A prática
+    da inovação. Empreendimento sistemático. Inovação deliberada e suas várias fontes.
+    Administração empreendedora. A nova empresa de risco. Estratégias empreendedoras.
+  course_name: 'LES0370 - Formação Empreendedorial: Capacitação pró-ativa
+
+    Proactive Entrepreneuship Capacitation'
+  deactivation: ''
+  instructors: 93929 - Alex Coltro
+  lecture_credits: '4'
+  objectives: "a)\tFornecer ao aluno o estado da arte a respeito dos conhecimentos\
+    \ sobre empreendedorismo, inovação e criação de novos negócios, em uma ótica de\
+    \ capacitação pessoal e profissional;\nb)\tDar ao aluno a chance de aplicar, durante\
+    \ o curso, os conhecimentos adquiridos através da elaboração de um projeto para\
+    \ a criação de um novo negócio."
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20210612195219'
+digest: 2MFYOPYAEAMIVQJDKT5N3IVMRMB7IMZ4
+updated_at: '20210612195219'
+url: https://web.archive.org/web/20210612195219id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0370&verdis=3
