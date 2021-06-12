@@ -1,0 +1,52 @@
+courses:
+  activation: 01/01/2018
+  assessment: O aluno será submetido a uma prova de recuperação.
+  bibliography: 'Literatura Básica:
+
+    1. ASSAF NETO, A. Matemática Financeira e suas Aplicações. Atlas, 2009.
+
+    2. CARVALHO, L. C. S. Matemática Financeira Aplicada. Editora FGV, 2009.
+
+    3. HUMMEL, P. R. Matemática Financeira e Engenharia Econômica. 1ª. Edição, Thomson
+    Pioneira.
+
+    Literatura Complementar:
+
+    LIMA, R.A.S.; NISHIYAMA, A.M. Contratos bancários aspectos jurídicos e técnicos
+    da matemática financeira para advogados. São Paulo: Atlas, 2007
+
+    ROSS, Stephen A.; WESTERFIELD, Randolph W.; JAFFE, Jeffrey F. Administração financeira.
+    São Paulo: Atlas, 2002
+
+    LIMA, RAS. Economia Aplicada à Agropecuária. Apostila 2013.
+
+    TORRES, Oswaldo F.F. Fundamentos de Enegenharia Econômica. São Paulo: Thomson
+    Learning, 2006'
+  course: "\x95 introdução à matemática financeira e suas aplicações\n\x95 juros simples\
+    \ e compostos\n\x95 inflação, juros nominais e juros reais\n\x95 séries elementares\
+    \ e aplicações em matemática financeira\n\x95 valor presente e aplicações\n\x95\
+    \ introdução ao uso de planilhas eletrônicas e calculadoras financeiras\n\x95\
+    \ indicadores de avaliação de investimentos: vpl, payback, tir e tir modificada\n\
+    \x95 sistemas de amortização de dívidas e construção de planos de pagamentos\n\
+    \x95 introdução à análise de investimentos em situações determinísticas e envolvendo\
+    \ riscos."
+  course_name: 'LES0160 - Matemática Aplicada a Finanças
+
+    Applied Mathematics for Finances'
+  deactivation: ''
+  instructors: '51881 - Adriano Júlio de Barros Vicente de Azevedo Filho
+
+    1968008 - Roberto Arruda de Souza Lima'
+  lecture_credits: '2'
+  objectives: Capacitar quanto aos princípios e às técnicas de matemática financeira
+    e sua utilização em finanças, análise de investimentos e engenharia econômica.
+    Para as turmas de Engenharia Agronômica, serão introduzidos conceitos e aplicações
+    de crédito rural, além de preparar o aluno para as disciplinas Gestão dos Negócios
+    Agroindustriais e Elaboração e Análise de Projetos.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612194950'
+digest: EP3KBOZYID5WDEJYEJWTCOGFXZGQIGFK
+updated_at: '20210612194950'
+url: https://web.archive.org/web/20210612194950id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0160&verdis=3
