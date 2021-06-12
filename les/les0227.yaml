@@ -1,0 +1,59 @@
+courses:
+  activation: 01/01/2014
+  assessment: Estará apto a efetuar a prova de reavaliação o aluno que tiver como
+    média final na disciplina uma nota igual ou superior a três (3,0) e inferior a
+    cinco (5,0), e tiver, no mínimo, 70% (setenta por cento) de freqüência às aulas.
+    O cálculo de uma média aritmética simples será feito com a nota da prova de reavaliação
+    e a média final obtida pelo aluno na disciplina. Se esta média resultar em nota
+    igual ou superior a cinco (5,0), o aluno será aprovado.
+  bibliography: "\x95 GIBSON, IVANCEVICH e DONNELY - Organizações: Comportamento,\
+    \ Estrutura, Processos. São Paulo: Atlas, 1988. \x95 HAMPTON, D. R. - Administração,\
+    \ Comportamento organizacional. São Paulo: Makron Books, 1991. \x95 DAVIS, K.\
+    \ & NEWSTROM, J. W. - Comportamento Humano no Trabalho: uma abordagem psicológica.\
+    \ São Paulo: Pioneira, 1992.\nCHIAVENATO, Idalberto. Comportamento organizacional:\
+    \ a dinâmica do sucesso das organizações. São Paulo:Pioneira Thomson Learning,\
+    \ 2004. ROBBINS, Stephen P. Comportamento organizacional. 11 ed. - São Paulo:\
+    \ Pearson Prentice Hall, 2005.FLEURY, Maria Tereza Leme. Cultura e poder nas organizações.\
+    \ 2 ed. São Paulo: Atlas, 1996. MAXIMIANO, Antônio César Amaru. Teoria Geral da\
+    \ Administração. 6 ed. São Paulo: Atlas, 2004.  ROBBINS, Stephen Paul. Fundamentos\
+    \ do comportamento organizacional. 8a. ed. - São Paulo: Pearson Prentice Hall,\
+    \ 2009."
+  course: 'Ø Fundamentos do Comportamento Individual
+
+    Ø Percepção Individual e Tomada de Decisão
+
+    Ø Valores, Atitudes e Satisfação no Trabalho
+
+    Ø Motivação: dos conceitos às aplicações
+
+    Ø Equipes de Trabalho: implicações para gestores
+
+    Ø Comunicação empresarial
+
+    Ø Liderança (teorias)
+
+    Ø Conflito, Negociação e Comportamento Intergrupal
+
+    Ø Estrutura do Trabalho: condições físicas, tipos de atividades e impactos da
+    tecnologia
+
+    Ø Mudança Organizacional: aspectos comportamentais
+
+    Ø Stress: aspectos organizacionais / individuais'
+  course_name: 'LES0227 - Comportamento Organizacional
+
+    Organization Behavior'
+  deactivation: ''
+  instructors: 93929 - Alex Coltro
+  lecture_credits: '2'
+  objectives: Desenvolver nos alunos a sensibilidade para compreender as relações
+    que se estabelecem no interior das organizações entre indivíduos e grupos/organização
+    e conhecer os fatores determinantes do como as referidas relações acontecem na
+    dinâmica organizacional
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20210612204937'
+digest: QP3MHPFJ4X6YHJJEBDUXL6WOF3JE7SIJ
+updated_at: '20210612204937'
+url: https://web.archive.org/web/20210612204937id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0227&verdis=2
