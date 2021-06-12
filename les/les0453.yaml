@@ -1,0 +1,41 @@
+courses:
+  activation: 01/01/2018
+  assessment: Uma única prova, com toda a matéria lecionada.
+  bibliography: "CORRÊA, A.L. & C. RAÍCES. Derivativos Agrícolas. São Paulo, Editora\
+    \ Globo, 2005.\nHULL, J.C. Options, futures and other derivatives. New Jersey,\
+    \ Prentice Hall, 6th edition, 2008.\nLEUTHOLD, R.M.; J.C.JUNKUS & J.E. CORDIER.\
+    \ The theory and practice of futures markets. Lexington Books, 1989.\nMARQUES,\
+    \ P.V.; P.C. DE MELLO & J.G. MARTINES Fo. Mercados Futuros e de Opções Agropecuárias\
+    \ \x96 exemplos e aplicações para os mercados brasileiros. Rio de Janeiro, Elsevier,\
+    \ 2008.\nALGUNS SITES DE INTERESSE\nhttp://www.bmf.com.br (BM&F, cotações dos\
+    \ mercados físicos e futuros brasileiros, com vários links de interesse)\nhttp://cepea.esalq.usp.br\
+    \ (Centro de Pesquisa Avançada em Economia Aplicada, Indicadores de Preços de\
+    \ soja grão e farelo, milho, algodão, boi, álcool e açúcar)\nhttp://www.cmegroup.com/\n\
+    http://www.conab.gov.br (informações de safras e mercados)\nhttp://www.ibge.gov.br\
+    \ (informações estatísticas)\nhttp://pecege.esalq.usp.br (informações sobre custos\
+    \ e agronegócio)\nhttp://www.usda.gov (United States Department of Agriculture)\n\
+    http://www.amis-outlook.org/ (Agricultural Marketing Information System)"
+  course: 'Mercados futuros: agentes; principais bolsas; Regulação de mercados futuros
+    no Brasil e no Mundo; Características e funcionamentos dos Mercados Futuros e
+    de Opções; Estratégias com Futuros e Opções; Visita ao Mercado Financeiro.'
+  course_name: 'LES0453 - Mercados de Derivativos Agropecuários e Financeiros
+
+    Agricultural and Financial Derivatives Markets'
+  deactivation: ''
+  instructors: 1968008 - Roberto Arruda de Souza Lima
+  lecture_credits: '4'
+  objectives: 'Esta disciplina tem como objetivo principal mostrar o funcionamento
+    dos mercados futuros e de opções agropecuários e estratégias que podem ser utilizadas
+    para administração de riscos de preços. Especificamente, pretende-se: - Conhecer
+    de forma teórica e prática o funcionamento dos mercados futuros e de opções agropecuárias;
+    -Desenvolver a habilidade de acessar informações e interpretá-las; -Discutir Estratégias
+    atuais e potenciais com futuros e outros derivativos; - Introduzir os alunos nas
+    principais bolsas de interesse do agronegócio brasileira bem como mostrar os princípios
+    básicos de operacionalização dos mercados.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210612200418'
+digest: SLLC5GGKELBJYLYYZR3PRMFHHFSSNMCC
+updated_at: '20210612200418'
+url: https://web.archive.org/web/20210612200418id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0453&verdis=7
