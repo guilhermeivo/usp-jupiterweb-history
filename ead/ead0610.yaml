@@ -65,6 +65,7 @@ courses:
   course_name: 'EAD0610 - Fundamentos de Administração
 
     Fundamentals of Business Administration'
+  deactivation: ''
   lecture_credits: '4'
   objectives: '· Apresentar ao aluno o conceito de organização e sua relação com o
     processo administrativo
@@ -76,7 +77,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20160309173144'
-digest: AZFD3T4KFPFFOGLUM5HRBPWOYW6GFGI3
-updated_at: '20160309173144'
-url: https://web.archive.org/web/20160309173144id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0610
+created_at: '20210625041249'
+digest: RNJFT2FDD3MPJK6MKJPHQCYHDAD2SZ52
+updated_at: '20210625041249'
+url: https://web.archive.org/web/20210625041249id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0610&codcur=39040&codhab=100
