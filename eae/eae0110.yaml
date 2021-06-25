@@ -1,0 +1,76 @@
+courses:
+  activation: 01/01/2013
+  assessment: Média simples calculada entre o resultado final alcançado na primeira
+    avaliação e a nota obtida na prova de reavaliação, mantida a exigência de freqüência
+    mínima de 70%.
+  bibliography: "Texto básico:\nMANKIW, N. Gregory. \x93Introdução à Economia: princípios\
+    \ de micro e macroeconomia\x94; Tradução da 2ª edição original Maria José Cyhlar\
+    \ Monteiro. Editora Campus. Rio de Janeiro, 2001.\nTextos complementares:\nINTRODUÇÃO\
+    \ A MICROECONOMIA E INTRODUÇÃO A MACROECONOMIA\nJoseph E.: Stigiglitz e Carl E.\
+    \ Walsh \x96 Editora Campus.\nEQUIPE DE PROFESSORES DA USP \x96 Manuel de Economia\
+    \ \x96 3º edição \x96 Editora Saraiva.\nSAMUELSON, Paul e Nordhaus, William D.\
+    \ \x93Economia\x94, 12 edição, São Paulo. McGraw-Hill (330.1 S193 ec), 1988."
+  course: "INTRODUÇÃO\nI.\tAS FORÇAS DE MERCADO DA OFERTA E DA DEMANDA\n1.\tMercados\
+    \ e concorrência\n2.\tDemanda\n3.\tOferta\n4.\tOferta e Demanda em Conjunto\n\
+    II.\tELASTICIDADE E SUAS APLICAÇÕES\n1.\tA elasticidade da demanda.\n2.\tElasticidade\
+    \ da oferta\n3.\tTrês aplicações da oferta, da demanda e da elasticidade.\nIII.\t\
+    OFERTA, DEMANDA E POLÍTICAS ECONÔMICAS DO GOVERNO\n1.\tControles de preço.\n2.\t\
+    Impostos.\nIV.\tCONSUMIDORES, PRODUTORES E A EFICIÊNCIA DOS MERCADOS\n1.\tExcedente\
+    \ do consumidor.\n2.\tExcedente do produtor.\n3.\tEficiência de mercado.\nV.\t\
+    APLICAÇÃO: CUSTOS DA TRIBUTAÇÃO\n1.\tO peso morto dos impostos.\n2.\tDeterminantes\
+    \ do peso morto dos impostos.\n3.\tO peso morto dos impostos e a receita tributária\
+    \ quando os impostos variam.\nVI.\tAPLICAÇÃO: COMÉRCIO INTERNACIONAL\n1.\tOs determinantes\
+    \ do comércio exterior\n2.\tGanhadores e perdedores no comércio internacional.\n\
+    3.\tArgumentos em favor da restrição ao comércio exterior.\nVII.\tEXTERNALIDADES\n\
+    1.\tExternalidades e ineficiência de mercado\n2.\tSoluções privadas paras as externalidades.\n\
+    3.\tPolíticas públicas paras as externalidades.\nVIII.\tBENS PÚBLICOS E RECURSOS\
+    \ COMUNS\n1.\tOs diferentes tipos de bens.\n2.\tBens públicos.\n3.\tRecursos comuns\n\
+    IX.\tCUSTOS DE PRODUÇÃO\n1.\tO que são custos?\n2.\tProdução e custos.\n3.\tAs\
+    \ várias medidas do custo.\n4.\tCustos no curto e no longo prazos.\nX.\tEMPRESAS\
+    \ EM MERCADOS COMPETITIVOS\n1.\tO que é um mercado competitivo?\n2.\tMaximização\
+    \ do lucro e curvas de oferta da empresa competitiva.\n3.\tA curva de oferta no\
+    \ mercado competitivo.\nXI.\tMONOPÓLIO\n1.\tPor que surgem os monopólios.\n2.\t\
+    Como os monopólios decidem preços e produção.\n3.\tO custo do monopólio em termos\
+    \ de bem-estar.\n4.\tPolíticas públicas para os monopólios.\n5.\tDiscriminação\
+    \ de preços.\nXII.\tOLIGOPÓLIO\n1.\tEntre o monopólio e a concorrência perfeita.\n\
+    2.\tMercados com poucos vendedores.\n3.\tA teoria dos jogos e a economia de cooperação.\n\
+    4.\tPolíticas públicas para os oligopólios.\nXIII.\tCONCORRÊNCIA MONOPOLÍSTICA\n\
+    1.\tConcorrência com produtos diferenciados.\n2.\tPublicidade."
+  course_name: 'EAE0110 - Fundamentos de Microeconomia
+
+    Foundations of Microeconomics'
+  deactivation: ''
+  instructors: '67224 - Jose Paulo Zeetano Chahad
+
+    41820 - Maria Cristina Cacciamali'
+  lecture_credits: '4'
+  objectives: 'O objetivo geral do curso de Introdução à Economia é apresentar os
+    fundamentos básicos da moderna teoria econômica. A microeconomia do funcionamento
+    do mercado como forma de organização para a alocação eficiente dos recursos escassos
+    da economia. Neste sistema são determinados os preços e quantidades que otimizam
+    o bem estar da sociedade, sob o regime de plena concorrência. As falhas no funcionamento
+    do mercado devido a concorrência imperfeita e/ou externalidades podem ser mitigadas
+    com as políticas de intervenção do Governo, inclusive aquelas destinadas a redistribuir
+    da riqueza para reduzir a pobreza. Ênfase é dada ao estudo da produtividade e
+    do comércio internacional como fontes de ganhos de bem estar para a sociedade.
+    A macroeconomia cuida de analisar os determinantes da renda nacional e do emprego
+    no curto e no longo prazo. A determinação dos macros preços: juros, câmbio e salários,
+    fazem parte do processo das flutuações da renda nacional, cujo sinal de desequilíbrio
+    em relação ao pleno emprego, é apontado nos índices de inflação ou taxa de desemprego.
+    As políticas macroeconômicas e curto prazo levam o governo a praticar a sintonia
+    fina através das políticas monetárias e curto prazo levam o governo a pratica
+    a sintonia fina através das políticas monetárias e fiscais, que numa economia
+    aberta aos fluxos de comércio e de capital tem reflexos na política cambial. Finalmente,
+    é estudada a contribuição da acumulação de fatores (capital e trabalho) e das
+    inovações tecnológicas para o crescimento da renda nacional no longo prazo.
+
+    Espera-se que com os ensinamentos da teoria básica os alunos façam um acompanhamento
+    analítico dos fatos do cotidiano do mundo econômico, inclusive avaliem a eficiência
+    e a eficácia das políticas econômicas.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210625025340'
+digest: ETLFTHE5XZEUPUJHLPQ3REDIUBL2T3OR
+updated_at: '20210625025340'
+url: https://web.archive.org/web/20210625025340id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAE0110&codcur=39040&codhab=100
