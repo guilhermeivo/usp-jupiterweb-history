@@ -44,7 +44,18 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20200930190117'
-digest: 6JYJDUKK3EEFE7WPVKUEQ5YH2W5B2U55
-updated_at: '20210612212632'
-url: https://web.archive.org/web/20210612212632id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0580&verdis=2
+created_at: '20210723185329'
+digest: QZXOTGLD53HRVRLZ6TT4Z3JZIKTPTO4O
+requirements:
+- course: 'Curso: 11050  Ciências Econômicas (diurno) - Período ideal: 4'
+  requirements:
+  - code: LES0456
+    name: Teoria Microeconômica I
+    type: Requisito
+- course: 'Curso: 11090  Bacharelado em Administração (diurno) - Período ideal: 6'
+  requirements:
+  - code: LES0456
+    name: Teoria Microeconômica I
+    type: Requisito
+updated_at: '20210723185329'
+url: https://web.archive.org/web/20210723185329id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LES0580
