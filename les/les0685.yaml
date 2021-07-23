@@ -77,7 +77,54 @@ courses:
   practical_credits: '1'
   total_workload: 60 h
   type: Semestral
-created_at: '20210612193857'
-digest: JKSU6ZQIG7Q4KMPPH6OLFTAPUFCTMZXF
-updated_at: '20210612193857'
-url: https://web.archive.org/web/20210612193857id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0685&verdis=8
+created_at: '20210723185826'
+digest: VZ5RJNR4STBDKWVL73MGTNEUCW2HXKHF
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 9'
+  requirements:
+  - code: LES0129
+    name: Sociologia e Extensão
+    type: Requisito
+  - code: LES0556
+    name: Teoria Macroeconômica I
+    type: Requisito
+- course: 'Curso: 11020  Engenharia Florestal (integral) - Período ideal: 7'
+  requirements:
+  - code: LCF0679
+    name: Políticas Públicas,  Legislação e Educação  Florestal
+    type: Requisito
+  - code: LES0129
+    name: Sociologia e Extensão
+    type: Requisito
+- course: 'Curso: 11050  Ciências Econômicas (diurno) - Período ideal: 7'
+  requirements:
+  - code: LES0456
+    name: Teoria Microeconômica I
+    type: Requisito
+  - code: LES0556
+    name: Teoria Macroeconômica I
+    type: Requisito
+  - code: LES0561
+    name: Economia Brasileira Contemporânea
+    type: Requisito
+- course: 'Curso: 11080  Gestão Ambiental (noturno) - Período ideal: 7'
+  requirements:
+  - code: LES0144
+    name: Introdução à Economia
+    type: Requisito
+  - code: LES0687
+    name: Economia dos Recursos Naturais e Ambientais
+    type: Requisito
+- course: 'Curso: 11090  Bacharelado em Administração (diurno) - Período ideal: 7'
+  requirements:
+  - code: LES0456
+    name: Teoria Microeconômica I
+    type: Requisito
+  - code: LES0556
+    name: Teoria Macroeconômica I
+    type: Requisito
+  - code: LES0561
+    name: Economia Brasileira Contemporânea
+    type: Requisito
+updated_at: '20210723185826'
+url: https://web.archive.org/web/20210723185826id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LES0685
