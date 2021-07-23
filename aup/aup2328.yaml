@@ -64,7 +64,16 @@ courses:
     Manifestações para contextos dados, espaço e cidade.
 
     Desenvolvimento de Projeto'
-created_at: '20210618002122'
-digest: MODZWE7CF2GOCSKSDD7COZILMZDQRCFL
-updated_at: '20210618002122'
-url: https://web.archive.org/web/20210618002122id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=AUP2328&codcur=16100&codhab=4
+created_at: '20210723201911'
+digest: YKGD6KZYEHVLLNXNMM53UHCX5FL3BDR2
+requirements:
+- course: 'Curso: 16100  Design (noturno) - Período ideal: 3'
+  requirements:
+  - code: AUP2320
+    name: Tipografia
+    type: Requisito fraco
+  - code: AUP2326
+    name: Laboratório da Imagem
+    type: Requisito fraco
+updated_at: '20210723201911'
+url: https://web.archive.org/web/20210723201911id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=AUP2328
