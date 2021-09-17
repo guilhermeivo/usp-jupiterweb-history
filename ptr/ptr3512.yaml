@@ -1,0 +1,56 @@
+courses:
+  activation: 01/01/2018
+  assessment: "1(uma) prova a ser realizada dentro do período estabelecido pela universidade\
+    \ e/ou unidade.\nCálculo da Média Final (aluno que ficou em recuperação):\nMF\
+    \ = (NF + NR) / 2\nOnde: \tMF = Média Final (após a recuperação);\nNR = Nota da\
+    \ prova de recuperação;\nNF = Nota Final."
+  bibliography: "•\tATTARD, M., HAKLAY, M., & CAPINERI, C. (2016). The potential of\
+    \ volunteered geographic information (VGI) in future transport systems. Urban\
+    \ Planning, 1(4).\n•\tBATTY, Michael. The New Science of Cities. MIT Press, 2013.\n\
+    •\tBURROUGH, Peter A. et al. Principles of geographical information systems. Oxford\
+    \ University Press, 2015.\n•\tCÂMARA, G; DAVIS, C.; MONTEIRO, A.M. (ed). Introdução\
+    \ à Ciência da Geoinformação. São José dos Campos, INPE, 2004. (Disponível online:\
+    \ http://www.dpi.inpe.br/livros.html)\n•\tCASANOVA, Marco (Org.) ; CÂMARA, G.\
+    \ (Org.) ; DAVIS, Clodoveu (Org.) ; VINHAS, Lúbia (Org.) ; QUEIROZ, Gilberto Ribeiro\
+    \ (Org.) . Bancos de Dados Geograficos. 1. ed. Curitiba: Editora Mundo Geo, 2005.\
+    \ v. 1. 504 p. (Disponível online: http://www.dpi.inpe.br/gilberto/livro/bdados/index.html)\n\
+    •\tDRUCK, S.; CARVALHO, M.S.; CÂMARA, G.; MONTEIRO, A.V.M. (eds) \"Análise Espacial\
+    \ de Dados Geográficos\". Brasília, EMBRAPA, 2004 (ISBN: 85-7383-260-6). Disponível\
+    \ em: http://www.dpi.inpe.br/gilberto/livro/analise/.\n•\tGOODCHILD, M. F. (1998).\
+    \ Geographic information systems and disaggregate transportation modeling. Geographical\
+    \ Systems, 5, 19-44.\n•\tLONGLEY, PAUL A.; GOODCHILD, MICHAEL, F.; MAGUIRE, DAVID,\
+    \ J.; RHIND, DAVID, W. Sistemas e Ciência da Informação Geográfica. 3ª edição\
+    \ ed. Bookman, Porto Alegre, 2013 539p.\n•\tMEIRELLES, M. S. P., CÂMARA, G. E\
+    \ ALMEIDA C. M. Geomática: modelos e aplicações ambientais. 01 Ed. Brasília -\
+    \ DF: EMBRAPA, 2007.\n•\tMILLER, H. J., & SHAW, S. L. (2001). Geographic information\
+    \ systems for transportation: principles and applications. Oxford University Press\
+    \ on Demand.\n•\tMILLER, H. J., & SHAW, S. L. (2015). Geographic information systems\
+    \ for transportation in the 21st century. Geography Compass, 9(4), 180-189.\n\
+    •\tOKABE, Atsuyuki; SUGIHARA, Kokichi. Spatial analysis along networks: statistical\
+    \ and computational methods. John Wiley & Sons, 2012.\n•\tSUTTON, J. C. (2004).\
+    \ Geographic information systems applications in transit (No. 55). Transportation\
+    \ Research Board."
+  course: ''
+  course_name: 'PTR3512 - Geoprocessamento Aplicado a Transportes
+
+    Geoprocessing Applied to Transport Engineering'
+  deactivation: ''
+  instructors: 1351435 - Mariana Abrantes Giannotti
+  lecture_credits: '2'
+  objectives: 'Prover aos alunos conceitos fundamentais de Geoprocessamento aplicado
+    a Transportes, incluindo técnicas de Análise Espacial e modelagem de redes em
+    Sistemas de Informações Geográficas (SIG) em busca de revelar e descrever padrões
+    espaço-temporais que possam contribuir para o suporte à decisão na Engenharia
+    de Transportes.
+
+    To provide fundamental concepts of Geoprocessing applied to Transport Engineering,
+    including techniques of Spatial Analysis and network modeling in Geographic Information
+    Systems (GIS) in search of revealing and describing spatiotemporal patterns that
+    can contribute to decision support in Transport Engineering.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20210917061526'
+digest: M3NXRPUNXDU4V35G34C66HYLVSJ47M23
+updated_at: '20210917061526'
+url: https://web.archive.org/web/20210917061526id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3512&codcur=16011&codhab=100
