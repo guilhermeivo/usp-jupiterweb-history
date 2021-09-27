@@ -1,0 +1,77 @@
+courses:
+  activation: 01/01/2018
+  assessment: '1(uma) prova a ser realizada dentro do período estabelecido pela universidade
+    e/ou unidade.
+
+    Cálculo da Média Final (aluno que ficou em recuperação):
+
+    MF = (NF + NR) / 2
+
+    Onde: MF = Média Final (após a recuperação);
+
+    NR = Nota da prova de recuperação;
+
+    NF = Nota Final.'
+  bibliography: 'BLITZKOW, D. (2001). Sistema de Posicionamento por satélite-GPS.
+    Notas de aula. Departamento de Engenharia de Transportes. São Paulo;
+
+    FONSECA Jr, E.F.  e outros.  Informações Espaciais II – Notas de aula. Publicação
+    do Laboratório de Topografia e Geodésia LTG/PTR?EPUSP
+
+    GEMAEL, C; ANDRADE, J. B.; Geodésia Celeste. Editora UFPR Curitiba, 1a edição,
+    2004. 389p. ISBN 8573351020
+
+    HOFMANN - WELLENHOF, B.; LICHTENEGGER, H.; WASLE, E.; GNSS: Global Navigation
+    Satellite Systems – GPS, GLONASS, Galileo & more. Austria: Springer-Verlag Wien
+    New York, 1a edição, 2008. 516p. ISBN 978-3-211-73012-6
+
+    LEICK, A.  GPS satellite surveying. 2a ed. New York: John Wiley & Sons, 560p.
+    1995. ISBN 0 471 30626 6.
+
+    MONICO, J. F. G. Posicionamento pelo GNSS: Descrição, fundamentos e aplicações.
+    São Paulo, Editora UNESP, 2007.  476p. ISBN: 978-85-7139-788-0
+
+    PARKINSON, B. W.; SPILKER JR, J. J.; AXELRAD, P.; ENGE, P. (Ed.). Global Positioning
+    System: theory and applications (Volume I). Americam Institute of Aeronautics
+    and Astronautics, INC. Washington, DC: 3 ed.1996. 793 p. ISBN: 1-56347-106-X.
+
+    SEEBER, G. Satellite Geodesy: Foundations, methods and applications. Berlin -
+    New York: Walter de Gruyter, 1993. 531p. ISBN 3 11 012753 9.
+
+    TEUNISSEN, P.J.G.; KLEUSBERG, A . GPS for Geodesy. 2nd Edition. Springer. 1998.
+    Berlin.
+
+    WELLS, D. E. (Ed.) Guide to GPS positioning. Fredericton: Canadian GPS Association,
+    1987.  ISBN 0 920 114 73 3.'
+  course: '1. Conceitos básicos de geodesia por satélites (GNSS)   2. Sistemas de
+    Posicionamento   3. Características do Sistema GNSS   4. Métodos e modelos matemáticos
+    (código, fase, combinações)  5. Métodos de posicionamento: estático, cinemático,
+    RTK, DGPS, PPP e outros   6. GNSS e altimetria  7. Processamento de dados GNSS
+    8. Aplicações na engenharia: Redes, Apoio topográfico, Controle de veículos e
+    frotas, Sistemas de Navegação e Controle de rotas, Controle de estruturas.
+
+    1. Basic concepts of sattelite geodesy (GNSS)  2. Positioning Systems  3. Characteristics
+    of GNSS System  4. Methods and mathematical models (code, phase, combinations)  5.
+    Methods of positioning : static, kinematic, RTK, DGPS, PPP and other  6. GNSS
+    and altimetry  7. GNSS Data processing  8. Engineering applications: networks,
+    topographic support, vehicle and  fleets control, Navigation Systems and routes
+    control, Structural control and monitoring.'
+  course_name: 'PTR3511 - Navegaçao por GNSS
+
+    GNSS navigation'
+  deactivation: ''
+  instructors: 74431 - Edvaldo Simões da Fonseca Junior
+  lecture_credits: '2'
+  objectives: 'Fornecer conceitos fundamentais sobre os sistemas de posicionamento
+    por satélite (GNSS) e suas aplicações na engenharia. Mostrar aplicações nas diversas
+    áreas e realizar trabalhos de campo.
+
+    To provide fundamental concepts of GNSS (Global Navigation Satellite System) and
+    their applications in Engineering. Some field aplications will be presented.'
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210927123708'
+digest: JMBI72CLOFBAI6OT7M5LCPWSQBPKZBAC
+updated_at: '20210927123708'
+url: https://web.archive.org/web/20210927123708id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3511&codcur=16011&codhab=100
