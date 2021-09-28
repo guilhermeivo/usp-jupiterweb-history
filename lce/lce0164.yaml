@@ -1,0 +1,51 @@
+courses:
+  activation: 01/01/2020
+  assessment: Será feita sob a forma de uma prova com duas horas de duração, aplicada
+    após o término das aulas, em época determinada pela USP. A média final será a
+    média aritmética entre a nota desta prova e a média obtida no semestre.
+  bibliography: 'BÁSICA
+
+    BOYCE,W.E.;DiPrima,R.C.: Equações diferenciais elementares e problemas de valores
+    de contorno, 10a Ed.São Paulo:  LTC, 2015, 680p..
+
+    GOTELI, N.J. A Primer of Ecology New York: W. H. Freeman, 2008. 290 p.
+
+    COMPLEMETAR
+
+    BASSANEZI, R. C.; FERREIRA Jr, W. C. Equações diferenciais com aplicações. São
+    Paulo: Harbra, 1988, 572p.
+
+    MARIANI, V.C. Maple: Fundamentos e Aplicações. Sp. Editora LTC (2005), 548 p.
+
+    MURRAY, J.D. Mathematical biology I. An introduction —3rd ed. 2007  Springer-Verlag
+    Berlin Heidelberg, 553p.
+
+    ZILL, D.G. Equações Diferenciais com Aplicações em Modelagem. SP. Editora Cengage,
+    2011, 448 p.'
+  course: '1) Equações diferenciais ordinárias. a) Conceitos básicos. b) Equação diferencial
+    fundamental. c) Equação diferencial de primeira ordem. d) Equações diferenciais
+    autônomas. e) Modelos matemáticos envolvendo equações autonômas: crescimento de
+    uma célula, desintegração radioativa; absorção de drogas; difusão de moléculas
+    através de uma membrana celular. f) Equações separáveis. 2) Dinâmica populacional.
+    a) Modelos de crescimento. i) Modelo malthusiano. ii) Modelo verhusltiano. iii)
+    Modelo de Gompertz.  iv) Modelo de Von Bertalanffy. b) Modelos de interação entre
+    espécies. i) Competição. ii) Predação.'
+  course_name: 'LCE0164 - Matemática Aplicada em Dinâmica Populacional
+
+    Applied Mathematics in Population Dynamics'
+  deactivation: ''
+  instructors: '2769022 - Clarice Garcia Borges Demetrio
+
+    7107996 - Marcelo Andrade da Silva'
+  lecture_credits: '2'
+  objectives: Fornecer aos discentes ferramentas matemáticas e computacionais que
+    possibilitem o estudo da modelagem de populações biológicas e suas interações.
+    Estimular o aluno a desenvolver suas próprias habilidades matemáticas por meio
+    de exercícios e projetos.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20210928041229'
+digest: 2756ESKQUB34CGSDUNEJC5PVFW3BDV3B
+updated_at: '20210928041229'
+url: https://web.archive.org/web/20210928041229id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0164&verdis=4
