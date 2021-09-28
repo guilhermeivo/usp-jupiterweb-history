@@ -1,0 +1,51 @@
+courses:
+  activation: 01/01/2020
+  assessment: Será feita sob a forma de uma prova com duas horas de duração, aplicada
+    após o término das aulas, em época determinada pela USP. A média final será a
+    média aritmética entre a nota desta prova e a média obtida no semestre.
+  bibliography: 'BÁSICA
+
+    ANDRADE, D.F.; OGLIARI, P. J. Estatística para as ciências agrárias e biológicas
+    com noções de experimentação, 3ª edição. Florianópolis: Editora da UFSC, 2013,
+    478 p.
+
+    BUSSAB, W.O. ; MORETIN, P.A.  Estatística Básica, 8ª edição. São Paulo: Editora
+    Saraiva. 2013, 548 p.
+
+    ZAR, J.H.  Biostatistical Analysis. 5th Edition. . New Jersey: Prentice – Hall,
+    2009, 960p.
+
+    COMPLEMENTAR
+
+    MAGALHÃES, M.N.; LIMA, A.C. P de. Noções de Probabilidade e Estatística. 7ª ed.
+    São Paulo: Editora EDUSP, 2013. 428p.
+
+    MILONE, G. Estatística Geral e Aplicada. Pioneira Thomson Learning. São Paulo.
+    2004. 483p.
+
+    PAGANO, M.; GAUVREAU, K. Princípios de Bioestatística. (Tradução da 2ª edição
+    norte-americana). São Paulo: Editora Thomson, 2010. 506p.'
+  course: "1. Estatística descritiva: gráficos e tabelas, medidas de posição e de\
+    \ dispersão. 2. Noções de Probabilidade. 3. Amostragem. 4. Variáveis aleatórias\
+    \ discretas \x96 distribuições Binomial e de Poisson. 5. Variáveis aleatórias\
+    \ contínuas \x96 distribuição normal. 6. Amostragem. Distribuição amostral da\
+    \ média. 7. Intervalo de confiança. 8. Teste de hipóteses para a média de uma\
+    \ população. Comparação de duas populações. 9. Teste de Qui-quadrado \x96 tabelas\
+    \ de contingência."
+  course_name: 'LCE0204 - Bioestatística
+
+    Biostatistics'
+  deactivation: ''
+  instructors: 5542817 - Cristian Marcelo Villegas Lobos
+  lecture_credits: '4'
+  objectives: Contribuir para a formação científica dos alunos de Ciências Biológicas
+    por meio de fundamentos básicos que possam habilitá-los na Análise Qualitativa
+    e Quantitativa de dados, provenientes de levantamentos e experimentos relacionados
+    as áreas Biológicas.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210928034726'
+digest: 7YVACBYEIMP3F5UUFWV6JCHBO7YYLYTX
+updated_at: '20210928034726'
+url: https://web.archive.org/web/20210928034726id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0204&verdis=8
