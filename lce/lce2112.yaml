@@ -1,0 +1,66 @@
+courses:
+  activation: 01/01/2021
+  assessment: A prova de recuperação é feita com toda a matéria dada, tendo uma hora
+    e meia de duração, aplicada após o final do semestre, em época determinada pela
+    USP. A média final será a média aritmética entre a nota desta prova e a média
+    obtida no semestre.
+  bibliography: 'Literatura Básica:
+
+    ANDRADE, D.F.; OGLIARI, P. J. Estatística para as ciências agrárias e biológicas
+    com noções de experimentação, 3ª edição. Florianópolis: Editora da UFSC, 2013,
+    478 p.
+
+    BARBETTA, P.A. Estatística Aplicada às Ciências Sociais. 7ª edição. Florianópolis:
+    Editora UFSC, 2010, 320 p.
+
+    BUSSAB, W.O. ; MORETIN, P.A.  Estatística Básica, 8ª edição. São Paulo: Editora
+    Saraiva. 2013, 548 p.
+
+    MAGALHÃES, M.N.; LIMA, A.C. P de. Noções de Probabilidade e Estatística. 7ª ed.
+    São Paulo: Editora EDUSP, 2013. 428p.
+
+    Literatura Complementar:
+
+    HOFFMANN, R.. Estatística para Economistas. 4ª.  ed. São Paulo: PIONEIRA THOMSON
+    LEARNING, 2006. v.1. 432 p.
+
+    SOARES, J. F.; FARIAS, A.A. de; CESAR, C.C. Introdução à Estatística. 2ª ed. Rio
+    de Janeiro: Editora LTC, 2002. 340p.
+
+    ZOCCHI, S.S.;  LEANDRO R.A.(2000). Notas para acompanhar a disciplina LCE-211-Estatística
+    Geral. Piracicaba.'
+  course: '1. Estatística Descritiva: Representação tabular e gráfica de populações
+    ou amostras de variáveis discretas e contínuas; Histogramas; Polígono de frequências
+    e ogiva de Galton. 2. Medidas de posição e dispersão: Cálculo a partir dos dados
+    originais e de distribuição de frequências: médias, mediana, moda, desvio médio,
+    variância, desvio-padrão e coeficiente de variação. 3. Probabilidade: Definição,
+    conceitos e teoremas; Probabilidade condicional; Independência de eventos. 4.
+    Distribuições de probabilidade: Variáveis aleatórias discretas e contínuas; Função
+    de densidade. 5. Esperança matemática: Definição e teoremas; Momentos (média e
+    variância); Covariância. 6. Distribuição Binomial: Definição, média e variância.
+    7. Distribuição de Poisson: Definição, média e variância. 8. Distribuição Normal:
+    Definição, média e variância; Distribuição normal reduzida; Uso de tabelas no
+    cálculo de probabilidades; Aproximação da distribuição normal através da distribuição
+    binomial. 9. Noções de amostragem; Distribuições amostrais. 10. Inferência Estatística:
+    Estimação e testes de hipóteses. 11. Distribuições t, F e Qui-quadrado. 12. Tabelas
+    de Contingência; Teste Qui-Quadrado. 13. Distribuição amostral de proporções;
+    Teste para proporções. 14. Regressão Linear simples. 15. Correlação.'
+  course_name: 'LCE2112 - Estatística Aplicada às Ciências Sociais e Ambientais
+
+    Statistics Applied to Social and Environmental Sciences'
+  deactivation: ''
+  instructors: '2769022 - Clarice Garcia Borges Demetrio
+
+    7023989 - Taciana Villela Savian'
+  lecture_credits: '4'
+  objectives: Contribuir para a formação científica dos alunos de Gestão Ambiental
+    por meio de fundamentos básicos que possam habilitá-los na Análise Qualitativa
+    e Quantitativa de dados, provenientes de levantamentos e experimentos relacionados
+    as áreas sociais e ambientais.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210928033156'
+digest: OGYDZRIDJAIEDLJWARSPYLXW62LIC76Q
+updated_at: '20210928033156'
+url: https://web.archive.org/web/20210928033156id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE2112&verdis=6
