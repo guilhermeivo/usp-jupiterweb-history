@@ -1,0 +1,57 @@
+courses:
+  activation: 01/01/2008
+  assessment: A recuperação dos alunos será efetuada mediante prova, com data e horário
+    a serem marcados.
+  bibliography: 'HARRISON, R. M. Pollution: Causes, Effects and Control, Royal Society
+    of Chemistry, 2001.
+
+    HARRISON, R. M. Understanding Our Environment - An Introduction to Environmental
+    Chemistry and Pollution, Royal Society of Chemistry, 1999.
+
+    MANAHAN, S.E. Environmental Chemistry. Lewis Publishers, 1990.
+
+    MANAHAN, S.E. Fundamentals of Environmental Chemistry. Lewis Publishers, 1993.
+
+    ROCHA, J.C.; ROSA, A.H.; CARDOSO, A.A. Introdução à Química Ambiental. BookmanComapnhia
+    Editora, 2004.
+
+    SPARKS, D.L. Environmental Soil Chemistry. Academic press, 1995.
+
+    Rodella, A.A.; LAVORENTI, A.; ALVES, M.E.; KAMOGAWA, M.Y. QUÍMICA - Guia de Aulas
+    Teóricas e Exercícios. Apostila preparada pelos professores do Departamento de
+    Ciências Exatas - ESALQ/USP, 2007.'
+  course: 'Aulas Teóricas: 1. Importância da Química Ambiental. Componentes do Meio
+    Ambiente: Hidrosfera (Água), Atmosfera (Ar), Litosfera (Solo) e Biosfera (Ser
+    Vivo). 2. Água: Importância e suas Propriedades Físico-Químicas. Água como solvente.
+    Soluções Aquosas. Concentração e Expressão de Unidades das Espécies Químicas na
+    Água, no Solo, nos Vegetais e no Ar. Exercícios. 3. Atmosfera - Composição e Principais
+    Contaminantes. 4. Atividade iônica; 5. Equilíbrio químico. 6. Interação de Produtos
+    Químicos no Ambiente. 7. Conceitos de ácidos e bases. 8. Equilíbrio ácido-base
+    no ambiente. Exercícios. 9. pH de soluções aquosas de acordo com Bronsted-Lowry.
+    10. A importância de reações de alcalinização e acidificação no ambiente. 11.
+    Equilíbrio de solubilidade e precipitação no ambiente. Exercícios. A formação
+    do precipitado. A importância de reações de precipitação no ambiente. 12. Equilíbrio
+    de complexação no ambiente. Exercícios. A importância de reações de complexação
+    no ambiente. 13. Equilíbrio de oxi-redução no ambiente. Exercícios. A importância
+    de reações de redox no ambiente.'
+  course_name: 'LCE0180 - Química Ambiental
+
+    Environmental Chemistry'
+  deactivation: ''
+  instructors: '2151308 - Marcelo Eduardo Alves
+
+    5280826 - Marcos Yassuo Kamogawa
+
+    1882809 - Simone Possedente de Lira
+
+    4860481 - Wanessa Melchert Mattos'
+  lecture_credits: '4'
+  objectives: Fornecer conhecimentos básicos teóricos de Química direcionada à questão
+    da poluição do solo e qualidade do ambiente.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210928045748'
+digest: 32K2QHPREYYJD7KBKRF7QCPBFRJDFTFP
+updated_at: '20210928045748'
+url: https://web.archive.org/web/20210928045748id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0180&verdis=4
