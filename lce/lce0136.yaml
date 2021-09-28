@@ -1,0 +1,98 @@
+courses:
+  activation: 01/01/2020
+  assessment: Não haverá recuperação.
+  bibliography: 'ALONSO R. Inteligencia Artificial y Estadística. Estadística Española.
+    Disponível em: <
+
+    http://www.ine.es/ss/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadervalue1=attachment%3B+filename%3D711%2F524%2F131_3.pdf&blobkey=urldata&blobtable=MungoBlobs&blobwhere=711%2F524%2F131_3.pdf&ssbinary=true>.
+    Acesso em: 20/2/2019.
+
+    AZEVEDO FILHO, A. J. B.V. . Princípios de Inferência Dedutiva e Indutiva: Noções
+    de Lógica e Métodos de Prova. 1/1. ed. Scotts Valley, EUA: CreateSpace Publishers,
+    2010. v. 1. 140p
+
+    BARBOSA L. P.;  MORAES W. F. A. Estratégias em Ambientes Hipercompetitivos: O
+    Caso da Indústria Brasileira de Embalagens para Cervejas e Refrigerantes. 2016.
+    Disponível em:< http://www.anpad.org.br/admin/pdf/enanpad2001-eso-276.pdf>. Disponível
+    em:
+
+    . Acesso em: 20/02/2019.
+
+    COELHO A. C. As 7 tendências para o uso de inteligência artificial no Direito
+    em 2018. Thomson Reuters The Answer Company. 2018. Disponível em: <  https://www.thomsonreuters.com.br/content/dam/openweb/documents/pdf/Brazil/white-paper/As_7_Tend%C3%AAncias_para_o_uso_da_Inteligencia_Artificial_EM_2018.pdf
+    > Acesso em: 21/2/2019.
+
+    GOVERNO FEDERAL. Agenda brasileira para a Indústria 4.0 – O Brasil Preparado para
+    os Desafios do Futuro. Ministério da Industria Comercio e Serviços. Disponível
+    em: < http://www.industria40.gov.br/>. Acesso em: 20/02/2019.
+
+    ISENBERG P. Visual Analytics Introduction. Teaching VA 2014.  2014. Disponível
+    em: https://aviz.fr/wiki/uploads/TeachingVA2014/lecture1-introduction.pdf.  Acesso
+    em: 20/02/2019.
+
+    KRAUSE J. Using Visual Analytics to Explain Black-Box Machine Learning. New_York_University.
+    2018. Disponível em: https://www.researchgate.net/publication/325010090_Using_Visual_Analytics_to_Explain_Black-Box_Machine_Learning>
+    .  Acesso em: 20/2/2019.
+
+    OLIVEIRA L. Empregabilidade: Uma Análise Histórica e Crítica. Fundação Getúlio
+    Vargas. 2018. Disponível em:
+
+    . Acesso em: 20/02/2019.
+
+    OVANESSOFF  A.; PLASTINO E. Como a Inteligência Artificial pode Acelerar o Crescimento
+    de América do Sul. 2018. Disponível em:
+
+    .    Acesso em: 20/02/2019.
+
+    SANTOS R. Introdução à Mineração de Dados com Aplicações em Ciências Ambientais
+    e Espaciais. LAC-INPE.2012. Disponível em:
+
+    . Acesso em: 20/02/2019.
+
+    TAKAI O.K.; ITALIANO I.C.; FERREIRA J.E. Introdução a Banco de Dados.. DCC-IME-USP,
+    2005. Disponível em: < https://www.ime.usp.br/~jef/apostila.pdf>. Acesso em: 20/02/2019.
+
+    TEIXEIRA T.M.C. Uma Reflexão Teórica Sobre a Subjetividade da Informação.  Perspectivas
+    em: Ciência da Informação, v.22, n.4, p.82-97, out./dez. 2017. Disponível em:
+
+    . Acesso em: 20/02/2019.
+
+    VON ZUBEN F. Introdução à Inteligência Artificial. DCA/FEEC/Unicamp. 2017. Disponível
+    em:
+
+    . Acesso em: 20/02/2019'
+  course: 'Bancos de dados: relacionais e não relacionais. Data: Crunching, Analysis,
+    Mining. Uso de Macros. Linguagem computacional em nuvem para data mining, SAS
+    on demand.  Ciência de Dados:  alia big-small data, inteligência artificial (machine
+    learning, redes neurais, etc.), estatística, economia, matemática, computação,
+    administração, contabilidade gerencial, controladoria, atuarial, engenharia, bancos
+    de dados, análise de agrupamentos, algoritmos e aplicações em gestão, engenharia,
+    biologia, economia, e pesquisa, transformação de dados brutos em insights de negócios
+    e descobertas científicas. A CD como a principal habilidade de mercado inespecífica
+    (independentemente da profissão) do mundo, seu impacto na empregabilidade inespecífica,
+    dados de 2018.  A CD   na Gestão Empresarial e Biologia  em ambientes de  Hipercompetitividade
+    e Hiperinovação. Impactos das tecnologias abordadas no índice de sucesso do empreendedorismo
+    e articulação com métodos modernos de gestão como Lean Startup _Amazon  e TQM_Toyota-Porsche
+    –GE, Lean Canvas, 6 Sigma, ISO, GlobalGAP,  PNQ, EQA, BSC, Etc. Estrutura dos
+    principais sistemas mundiais de gestão e de certificação internacional da qualidade.'
+  course_name: 'LCE0136 - Ciência de Dados e Gestão para Empregabilidade, Empreendedorismo
+    e Inovação
+
+    Data Science and Management for Employability, Entrepreneurship and Innovation'
+  deactivation: ''
+  instructors: '5542817 - Cristian Marcelo Villegas Lobos
+
+    2688982 - Gabriel Adrian Sarries
+
+    5551088 - Renata Alcarde Sermarini'
+  lecture_credits: '2'
+  objectives: Desenvolver no aluno senso crítico em ciência de dados e gestão para
+    empregabilidade, empreendedorismo  e inovação, buscando  aumentar significativamente
+    sua empregabilidade e competitividade no mercado de trabalho.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20210928043450'
+digest: UKNPC546A6PXLDJR5MN42D5CFCVH3LEJ
+updated_at: '20210928043450'
+url: https://web.archive.org/web/20210928043450id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0136&verdis=3
