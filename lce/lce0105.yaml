@@ -1,0 +1,85 @@
+courses:
+  activation: 01/01/2020
+  assessment: A prova de recuperação é feita com toda a matéria dada, tendo duas horas
+    de duração, aplicada após o final do semestre, em época determinada pela USP.
+    A média final será a média aritmética entre a nota desta prova e a média obtida
+    no semestre.
+  bibliography: 'AZEVEDO FILHO, A. J. B.V. . Princípios de Inferência Dedutiva e Indutiva:
+    Noções de Lógica e Métodos de Prova. 1/1. ed. Scotts Valley, EUA: CreateSpace
+    Publishers, 2010. v. 1. 140p .
+
+    BARBOSA L. P.;  MORAES W. F. A. Estratégias em Ambientes Hipercompetitivos: O
+    Caso da Indústria Brasileira de Embalagens para Cervejas e Refrigerantes. 2016.
+    Disponível em:< http://www.anpad.org.br/admin/pdf/enanpad2001-eso-276.pdf>. Acesso
+    em: 20/02/2019.
+
+    COELHO A. C. As 7 tendências para o uso de inteligência artificial no Direito
+    em 2018. Thomson Reuters The Answer Company. 2018. Disponível em: <  https://www.thomsonreuters.com.br/content/dam/openweb/documents/pdf/Brazil/white-paper/As_7_Tend%C3%AAncias_para_o_uso_da_Inteligencia_Artificial_EM_2018.pdf
+    > Acesso em: 21/2/2019.
+
+    CURY R. G.; SERAFIM J. S. A Formação em Ciência de Dados: Uma Analise Preliminar
+    do Panorama Estadunidense.  DOI: 10.5433/1981-8920.2016v21n2p307. 2016. Disponível
+    em:
+
+    < http://www.uel.br/revistas/uel/index.php/informacao/article/download/27945/20195>.
+    Acesso em: 20/02/2019.
+
+    GOVERNO FEDERAL. Agenda brasileira para a Indústria 4.0 – O Brasil Preparado para
+    os Desafios do Futuro. Ministério da Industria Comercio e Serviços. Disponível
+    em: < http://www.industria40.gov.br/>. Acesso em: 20/02/2019.
+
+    OVANESSOFF  A.; PLASTINO E. Como a Inteligência Artificial pode Acelerar o Crescimento
+    de América do Sul. 2018. Disponível em: https://www.accenture.com/t20170927T065936Z__w__/us-en/_acnmedia/PDF-50/Accenture-Como-a-inteligencia-artificial-acelero-crescimento-da-america-do-sul.pdf.  Acesso
+    em: 20/02/2019.
+
+    TAKAI O.K.; ITALIANO I.C.; FERREIRA J.E. Introdução a Banco de Dados.. DCC-IME-USP,
+    2005. Disponível em: < https://www.ime.usp.br/~jef/apostila.pdf>. Acesso em: 20/02/2019.
+
+    TEIXEIRA T.M.C. Uma Reflexão Teórica Sobre a Subjetividade da Informação.  Perspectivas
+    em: Ciência da Informação, v.22, n.4, p.82-97, out./dez. 2017. Disponível em:
+
+    . Acesso em: 20/02/2019.
+
+    VON ZUBEN F. Introdução à Inteligência Artificial. DCA/FEEC/Unicamp. 2017. Disponível
+    em:
+
+    . Acesso em: 20/02/2019.'
+  course: 'Bancos de dados relacionais e não relacionais: campos, registros, filtros,
+    consistência, listas de verificação, pesquisa e réplicas. Data crunching, data
+    analysis, conceito de data mining, funções logicas: união, interseção, complemento,
+    etc. gráficos: bi e tridimensionais, cálculos, funções estatísticas, macros. Computação
+    em nuvem, para data mining e SQL. Inteligência Artificial: conceito, algoritmos:
+    Random Forest, Support Vector Machine, Naive Bayes, E Clasification e Regression
+    Tree. Aplicações em economia e gestão de negócios de inteligência artificial,
+    aprendizado de maquina e redes neurais, comparação de resultados com métodos estatísticos
+    convencionais, linguagens R, Python, SAS e outras. Inteligência organizacional,
+    estratégica (kaikaku), tática e organizacional (kaizen). Sistemas informatizados
+    de inteligência empresarial e rastreabilidade (DSS, ERP, MRP, CRM, Benchmarking,
+    QFD, etc.). Sistemas de Informação para certificação internacional da qualidade(
+    ISO- 9001-14001-22000-27000, GlobalGAP, FSC, etc.) e sistemas mundiais de gestão
+    (TQM-Toyota-Porsche-GM, BSC, Lean Startup, 6 Sigma, PNQ, EQA, etc.) . Ferramentas
+    para elaborar mapas de processos, para posterior informatização. Ferramentas para
+    análise e projeto de sistemas. Elaboração de sites e blogs. Aplicações dos conceitos
+    adquiridos em ambientes de hipercometitividade, com dispositivos eletrônicos'
+  course_name: 'LCE0105 - Computação, Inteligência Artificial e Organizacional para
+    Economia Visando Hipercompetitividade
+
+    Information Systems and Organizational Intelligence'
+  deactivation: ''
+  instructors: '271045 - Carlos Tadeu dos Santos Dias
+
+    5542817 - Cristian Marcelo Villegas Lobos
+
+    2688982 - Gabriel Adrian Sarries'
+  lecture_credits: '4'
+  objectives: Fornecer subsídios para os alunos acompanharem disciplinas de graduação
+    que demandam conhecimento em computação,  sistemas de informação, inteligência
+    artificial e organizacional e colaborar significativamente na empregabilidade
+    e competitividade dos egressos.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210928034638'
+digest: ARALTX4FW74T34CQPFFKMDHUPI64CGQI
+updated_at: '20210928034638'
+url: https://web.archive.org/web/20210928034638id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0105&verdis=12
