@@ -1,0 +1,56 @@
+courses:
+  activation: 01/01/2017
+  assessment: A prova de recuperação é feita com toda a matéria dada, tendo uma hora
+    e meia de duração, aplicada após o final do semestre, em época determinada pela
+    USP. A média final será a média aritmética entre a nota desta prova e a média
+    obtida no semestre.
+  bibliography: 'BIBLIOGRAFIA BÁSICA
+
+    FLEMMING, D.M.; GONÇALVES, M.B.  Cálculo A: funções, limites, derivação, integração.
+    6ª ed. São Paulo: Pearson Prentice Hall, 2007. 464p.
+
+    MORETTIN, P.A.; HAZZAN, S.;  BUSSAB, W. O. Cálculo: funções de uma e várias variáveis.
+    2ª ed. São Paulo: Saraiva, 2012, 416p.
+
+    LEITHOLD, L. O cálculo com Geometria Analítica. 3ª ed. São Paulo: Harbra, 1994.
+    Vol.1.
+
+    BIBLIOGRAFIA COMPLEMENTAR
+
+    EDWARDS Jr., C.H.; PENNEY, D.E.  Cálculo com Geometria Analítica. 4ª ed. Rio de
+    Janeiro: Prentice-Hall do Brasil, 1997. 486p.
+
+    LARSON,R. Cálculo Aplicado: Curso Rápido. Cengage Learning, 2011.
+
+    SIMMONS, G.F. Cálculo com geometria analítica. São Paulo: Pearson Makron Books,
+    2010. Vol. 1.
+
+    SWOKOWSKI, E. W. Cálculo com geometria analítica. 2ª ed. São Paulo: Makron Books,
+    1995. Vol. 1'
+  course: '1. Teoria dos Conjuntos: Definições básicas; Operações com conjuntos; Conjuntos
+    numéricos; 2. Relações e Funções: Domínio, contradomínio e conjunto imagem de
+    funções; Gráfico de funções; Funções sobrejetoras, injetoras e bijetoras. 3. Estudo
+    das principais funções: Função linear e quadrática; Função modular; Funções trigonométricas;
+    Funções logarítmicas e exponenciais; 4. Estudo de limites e continuidade de funções:
+    Noções básicas; 5. Estudo da derivada de funções: Noções básicas e aplicações.
+    6. Estudo da integração de funções: Noções básicas e aplicações.'
+  course_name: 'LCE0130 - Cálculo Diferencial e Integral
+
+    Differential and Integral Calculus'
+  deactivation: ''
+  instructors: '5542817 - Cristian Marcelo Villegas Lobos
+
+    7023989 - Taciana Villela Savian'
+  lecture_credits: '4'
+  objectives: Contribuir para a formação matemática do Biólogo, do Cientista de Alimentos
+    e do Gestor Ambiental. Capacitar os alunos no desenvolvimento de métodos matemáticos
+    relacionados a Derivação, Diferenciação e Integração no contexto de funções a
+    uma variável independente. Aplicar os conceitos de Cálculo Diferencial e Integral
+    na fundamentação e resolução de áreas e volumes, teoria da otimização.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210928050836'
+digest: PWXGDHEEXOUKXR5SNHOTAOU5SOXWALBS
+updated_at: '20210928050836'
+url: https://web.archive.org/web/20210928050836id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0130&verdis=1
