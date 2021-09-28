@@ -1,0 +1,53 @@
+courses:
+  activation: 01/01/2019
+  assessment: A recuperação dos alunos será efetuada mediante prova, com data e horário
+    a serem marcados.
+  bibliography: 'CHANG, R; GOLDSBY, K.A. Química, 11ª. Edição, McGRAW HILL, 2013.
+
+    GUNTHER, W.B. Química Quantitativa. Editora da Universidade de São Paulo, 1972.
+
+    OHLWEILER, A.O.A. Teoria e Prática da Análise Quantitativa Inorgânica. (Livro
+    texto, ESALQ),
+
+    1968.
+
+    VOGEL et al. Análise Inorgânica Quantitativa. 1978, 4a ed. Editora Guanabara S/A,
+    1981.
+
+    LCE-108 QUÍMICA INORGÂNICA E ANALÍTICA. Apostilas preparadas pelos professores
+    do
+
+    Departamento, 2004.'
+  course: "Aulas Teóricas\n\x95 Equilíbrio químico\n\x95 Conceitos de Ácidos e de\
+    \ Bases: Bronsted-Lowry\n\x95 Medida de pH de soluções aquosas\n\x95 Sistema tampão\n\
+    \x95 A importância do pH em sistemas biológicos\n\x95 Solubilidade e Produto de\
+    \ Solubilidade\n\x95 Fatores que afetam a solubilidade dos sais pouco solúveis:\
+    \ pH; efeito do íon comum; força iônica; ação de complexantes\n\x95 Formação de\
+    \ precipitados\n\x95 Complexos e Quelatos\n\x95 Teoria da formação - Constante\
+    \ de Estabilidade\n\x95 Efeito do pH na complexação de metais pelo EDTA\n\x95\
+    \ Oxidação - Redução\n\x95 Potencial de Eletrodo\n\x95 Cinética das Reações Químicas\n\
+    \x95 Leis de velocidade. Constante de Velocidade\n\x95 Conceito de meia-vida\n\
+    \x95 Efeito da Temperatura na Cinética - Equação de Arrhenius\n\x95 Introdução\
+    \ à Química orgânica"
+  course_name: 'LCE0118 - Química
+
+    Chemistry'
+  deactivation: ''
+  instructors: '2151308 - Marcelo Eduardo Alves
+
+    5280826 - Marcos Yassuo Kamogawa
+
+    1882809 - Simone Possedente de Lira
+
+    4860481 - Wanessa Melchert Mattos'
+  lecture_credits: '4'
+  objectives: Fornecer conhecimentos básicos teóricos e práticos de Química para que
+    os alunos possam cursar diversas disciplinas do curso de Agrobiologia, que fazem
+    uso daqueles conhecimentos.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210928051644'
+digest: EKMITPDXWJ2XO4WSY6ULPJVWQ5NQKXUN
+updated_at: '20210928051644'
+url: https://web.archive.org/web/20210928051644id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0118&verdis=5
