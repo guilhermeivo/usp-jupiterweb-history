@@ -1,0 +1,40 @@
+courses:
+  activation: 01/01/2021
+  assessment: Será feita sob a forma de uma prova com duas horas de duração, aplicada
+    após o término das aulas, em época determinada pela USP. A média final será a
+    média aritmética entre a nota desta prova e a média obtida no semestre.
+  bibliography: 'Literatura Básica:
+
+    J.C. Kotz, P.M. Treichel, G.C. Weaver. Química Geral e Reações Químicas, vol.
+    1 e 2. 6ª Ed, 2009. D.C. Harris – Química Analítica Quantitativa, Editora LTC,
+    2011. D.A. Skoog, Fundamentos de Química Analítica, Editora CENGAGE, 2006.
+
+    Literatura Complementar:
+
+    S.S. Zumdahl, D.J. Decoste. Introdução à Química. Fundamentos, 8ª Ed., 2015. R.
+    Chang, Química Geral, 4ª Ed., 2010.'
+  course: Concentração de soluções. Ácidos e bases. Acidimetria e alcalimetria. Precipitação
+    e dissolução. Gravimetria. Complexos e quelatos. Quelatometria. Oxidação e redução.
+    Volumetria de oxiredução. Métodos instrumentais de análise.
+  course_name: 'LCE0116 - Química Analítica Inorgânica - Prática
+
+    Inorganic Analytical Chemistry (practice)'
+  deactivation: ''
+  instructors: '2151308 - Marcelo Eduardo Alves
+
+    5280826 - Marcos Yassuo Kamogawa
+
+    1882809 - Simone Possedente de Lira
+
+    4860481 - Wanessa Melchert Mattos'
+  lecture_credits: '4'
+  objectives: Fornecer conhecimentos básicos práticos de Química Analítica para que
+    os alunos possam cursar diversas disciplinas profissionalizantes dos cursos de
+    Engenharia Agronômica e Engenharia Florestal.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20210928035316'
+digest: JPDWCJVOIU4DW5OPYQAPLA32ZPKKJJ72
+updated_at: '20210928035316'
+url: https://web.archive.org/web/20210928035316id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0116&verdis=1
