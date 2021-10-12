@@ -1,0 +1,111 @@
+courses:
+  activation: 15/07/2021
+  assessment: Estarão aptos a realizar recuperação os alunos que apresentem nota entre
+    3,0 e 4,9 e frequência igual ou superior a 70%.
+  bibliography: 'Barr H. Competent to collaborate: towards a competency-based model
+    for interprofissional education. J Interprofessional Care. 1998;12:181-7.
+
+    Peduzzi M. O SUS é interprofissional. Interface (Botucatu. Online), v. 20, p.
+    199-201, 2016.
+
+    Agreli HF, Peduzzi M, Silva MC. Atenção centrada no paciente na prática interprofissional
+    colaborativa. Interface-Comunicação, Saúde, Educação 2016;20:905-916.
+
+    World Health Organization (WHO). Framework for Action on Interprofessional Education
+    & Collaborative Practice. 2010.
+
+    https://apps.who.int/iris/bitstream/handle/10665/70185/WHO_HRH_HPN_10.3_eng.
+
+    Judy Watt-Watson, RN MSc PhD, Chair (Nursing, Canada), Abrahão Fontes Baptista,
+    BPhysio MSc PhD (Physical Therapy, Brazil), Eloise C. Carr, RN PhD MSc BSc (Hons)
+    (Nursing, Canada), John H. Hughes, MBBS FRCA FFPMRCA (Medicine-Anesthesiology,
+    United Kingdom), Robert N. Jamison, PhD (Psychology, USA),  Hellen N. Kariuki,
+    BDS MSc (Dentistry-Oral Medicine, Kenya), Jordi Miro, PhD (Psychology Spain),
+    Gouri Shankar Bhattacharyya MD PhD (Medicine-Pediatric Oncology, India),  Sigridur
+    Zoëga, RN CNS PhD (Nursing, Iceland). IASP Interprofessional Pain Curriculum Outline
+    Available at:  https://www.iasp-pain.org/Education/CurriculumDetail.aspx?ItemNumber=205
+
+    Ministério da Saúde, 2017. PORTARIA Nº 2.436, DE 21 DE SETEMBRO DE 2017. Aprova
+    a Política Nacional de Atenção Básica, estabelecendo a revisão de diretrizes para
+    a organização da Atenção Básica, no âmbito do Sistema Único de Saúde (SUS). http://bvsms.saude.gov.br/bvs/saudelegis/gm/2017/prt2436_22_09_2017.html
+
+    Campos, Gastão Wagner de Sousa. Saúde pública e saúde coletiva: campo e
+
+    núcleo de saberes e práticas. Ciênc. saúde coletiva [online]. 2000, vol.5, n.2,
+
+    pp.219-230. ISSN 1413-8123.  http://dx.doi.org/10.1590/S1413-232000000200002
+
+    _________. Ministério da Saúde. Cria os Núcleos de Apoio à Saúde da Família –
+    NASF, Portaria nº 154, de 24 de Janeiro de 2008.
+
+    Referências Complementares
+
+    Helder NC, Hargraves D, Boone J. Interprofessional Collaborative Care for Chronic
+    Pain: A Qualitative Assessment of Collaboration for Primary Care Patients With
+    Chronic Pain. JCEHP 2016; 36: Supplement 1. DOI: 10.1097/CEH.0000000000000091
+
+    Agreli HLF, Peduzzi M; Bailey C. The relationship between team climate and interprofessional
+    collaboration: Preliminary results of a mixed methods study. Journal of Interprofessional
+    Care 2017;31:184-186.
+
+    Silva JAM, Peduzzi M, Orchard C, Leonello VM. Educação interprofissional e prática
+    colaborativa na Atenção Primária à Saúde*. Revista da Escola de Enfermagem da
+    USP 2015;49:16-24.
+
+    Peduzzi M, Norman IJ, Germani ACGG, Silva MJA, Souza GC. Educação interprofissional:
+    formação de profissionais de saúde para o trabalho em equipe com foco nos usuários.
+    Revista da Escola de Enfermagem da USP 2013;47:977-983.
+
+    Ghurye S, McMillan R. Pain-related temporomandibular disorder: current perspectives
+    and evidence-based management. Oral medicine. Dental Update 2015; 42:533-546.'
+  course: '• Cuidado Interprofissional, Colaborativo e Centrado na Pessoa;
+
+    • Epidemiologia e Fisiologia da dor;
+
+    • Prevalência e Manejo da dor na APS;
+
+    • Avaliação da dor;
+
+    • Dor Aguda: características principais e manejo (trauma e dor no pós-operatório);
+
+    • Dor crônica: características principais e manejo (dor musculoesquelética, cefaleia,
+    fibromialgia, dor orofacial nas disfunções temporomandibulares...);
+
+    • Manejo farmacológico da dor;
+
+    • Manejo funcional da dor;
+
+    • Manejo psicossocial da dor;
+
+    • Dinâmica de trabalho em equipe interprofissional.'
+  course_name: 'PRG0019 - Educação Interprofissional em Saúde: Abordagem da Dor
+
+    Interprofessional Health Education: approach to pain management'
+  deactivation: ''
+  instructors: '5298878 - Ana Carolina Basso Schmitt
+
+    4856875 - Ana Claudia Camargo Gonçalves Germani
+
+    5571466 - Lilia de Souza Nogueira
+
+    2219592 - Marina de Góes Salvetti'
+  lecture_credits: '1'
+  objectives: 'específicos:
+
+    ● Compreender a natureza multidimensional da dor e seus componentes, bem como
+    suas implicações para o paciente e suas famílias e sua relação com as intervenções
+    da equipe de saúde.
+
+    ● Reconhecer ações específicas e comuns entre os profissionais de saúde envolvidos
+    no manejo da dor para o cuidado centrado nos pacientes/famílias no contexto da
+    Atenção Primária à Saúde (APS) – (simulação).
+
+    ● Elaborar em equipe um plano de cuidado para o manejo da dor centrado no paciente/família
+    considerando a realidade do sistema de saúde brasileiro.'
+  practical_credits: '1'
+  total_workload: 45 h
+  type: Semestral
+created_at: '20211012123421'
+digest: 45RXRJKASKFZLA7TPMX4U56Y76RYSNV6
+updated_at: '20211012123421'
+url: https://web.archive.org/web/20211012123421id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PRG0019&codcur=1020&codhab=0
