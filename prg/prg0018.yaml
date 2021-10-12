@@ -1,0 +1,72 @@
+courses:
+  activation: 15/07/2021
+  assessment: Não será oferecida recuperação.
+  bibliography: '. Jurafsky, D. and Martin, J.H. (2008). Speech and Language Processing:
+    An Introduction to Natural Language Processing, Computational Linguistics and
+    Speech Recognition. 2a edição. Prentice Hall.
+
+    · Ferreira, M. e Lopes, M. (2019). Para Conhecer Linguística Computacional. 1a
+    edição.
+
+    Editora Contexto.'
+  course: 'Visão geral da área de Processamento de Linguagem Natural (PLN) e sua relação
+    com as áreas
+
+    de Computação e Linguística. História da área e seus principais marcos. Níveis
+    de representação
+
+    e processamento linguístico: fonética e fonologia, morfologia, sintaxe, semântica,
+    discurso e
+
+    pragmática. Familiarização e prática com recursos, ferramentas e aplicações de
+    PLN.
+
+    Abordagens e paradigmas para a resolução de problemas de PLN. Construção e anotação
+    de
+
+    córpus. Prática de projeto e desenvolvimento de um protótipo computacional de
+    PLN.
+
+    Apresentação de tópicos relevantes atuais de PLN, assim como modelos e métodos
+    associados.'
+  course_name: 'PRG0018 - Processamento de Linguagem Natural
+
+    Natural Language Processing'
+  deactivation: ''
+  instructors: 3761610 - Thiago Alexandre Salgueiro Pardo
+  lecture_credits: '2'
+  objectives: 'A disciplina visa introduzir o aluno à área de Processamento de Linguagem
+    Natural (PLN), ramo
+
+    de pesquisa da Inteligência Artificial que visa habilitar a máquina a lidar com
+    as línguas humanas
+
+    e ser capaz de realizar tarefas como tradução automática, revisão ortográfica
+    e gramatical,
+
+    perguntas e respostas, sumarização automática, simplificação textual e análise
+    de sentimentos,
+
+    entre muitas outras. Ao final da disciplina, o aluno deverá ter uma visão geral
+    da área e de seus
+
+    recursos, ferramentas e aplicações, dominando seus conceitos básicos, conhecendo
+    sua história
+
+    e tendo contato com alguns tópicos relevantes atuais, de forma que possa agregar
+    esses
+
+    conhecimentos e habilidades a suas competências e adquirindo noções que auxiliem
+    em sua
+
+    atuação na área. Para cursar a disciplina, habilidades computacionais básicas
+    são desejadas, mas
+
+    não necessárias, uma vez que a disciplina tem caráter introdutório e generalista.'
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20211012134936'
+digest: ZAUMAARILJOH6JOF7KFHLDICSEXZ5R63
+updated_at: '20211012134936'
+url: https://web.archive.org/web/20211012134936id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PRG0018&codcur=1020&codhab=0
