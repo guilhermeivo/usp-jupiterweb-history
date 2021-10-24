@@ -57,7 +57,13 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20200919162027'
-digest: HILNSYEUKRWLXYTFWUTT5RRGP5QYOY7V
-updated_at: '20210928050042'
-url: https://web.archive.org/web/20210928050042id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0211&verdis=7
+created_at: '20211024220602'
+digest: DDPYRYMJCWL5GAPEKWH734GPQHR4RFST
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 3'
+  requirements:
+  - code: LCE0220
+    name: Cálculo II
+    type: Requisito
+updated_at: '20211024220602'
+url: https://web.archive.org/web/20211024220602id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCE0211
