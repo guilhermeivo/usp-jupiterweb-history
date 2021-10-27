@@ -1,0 +1,41 @@
+courses:
+  activation: 01/07/1994
+  assessment: A possibilidade de recuperação depende de análise, caso a caso, feita
+    pela Comissão de Graduação do CCM.
+  bibliography: 'E.F. Buck, ADVANCED CALCULUS, 2nd. Ed. McGraw-Hill. New York, 1965
+
+    R. Courant, CÁLCULO DIFERENCIAL E INTEGRAL, vol II, Globo, Rio de Janeiro, 1951-66
+
+    W. Kaplan, CÁLCULO AVANÇADO 2 VOLS, Editora Edgard Blucher, São Paulo, 1972
+
+    B. Noble, APPLIED LINEAR ALGEBRA, Prentice-Hall, 1969
+
+    M. Barone Jr., ÁLGEBRA LINEAR, 3 ed., IME-USP, São Paulo, 1988'
+  course: "1. Espaços lineares.\n2. Transformações lineares e matrizes.\n3. Determinantes.\n\
+    4. Autovalores e autovetores.\n5. Autovalores de operadores em espaços Euclideanos.\n\
+    6. Equações diferenciais lineares.\n7. Sistemas de equações diferenciais.\n8.\
+    \ Cálculo diferencial de campos escalares e vetoriais.\n9. Aplicações de cálculo\
+    \ diferencial.\nCCM 0213 - Mathematics III\nProgram:\n1 - Linear spaces\n2 - Linear\
+    \ transformations and matrices\n3 - Determinants\n4 \x96 Eigenvalues and eigenvector\n\
+    5 - Eigenvalues of operators in Euclidian spaces\n6 - Linear differential equations\n\
+    7 - Systems of differential equations\n8 - Differential calculus of scalar and\
+    \ vector fields\n9 - Applications of differential calculus"
+  course_name: 'CCM0213 - Matematica III
+
+    Mathematics III'
+  deactivation: ''
+  instructors: '912095 - Fabio Armando Tal
+
+    75800 - Manuel Valentim de Pera Garcia
+
+    82037 - Sonia Regina Leite Garcia'
+  lecture_credits: '6'
+  objectives: Estudo dos espaços vetoriais, das aplicações lineares, e do cálculo
+    diferencial para funções de várias variáveis reais.
+  practical_credits: '0'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20211027122617'
+digest: 7SXVYDKQFBPYJ2IH6QUFAEULAUVOYXVD
+updated_at: '20211027122617'
+url: https://web.archive.org/web/20211027122617id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0213
