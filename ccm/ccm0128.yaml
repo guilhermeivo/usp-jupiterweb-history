@@ -1,0 +1,55 @@
+courses:
+  activation: 15/07/2021
+  assessment: A possibilidade de recuperação depende de análise, caso a caso, feita
+    pela Comissão de Graduação do CCM.
+  bibliography: '1. R. Sedgewick, K. Wayne, Introduction to programming in Java: an
+
+    interdisciplinary approach, Addison-Wesley, 2008.
+
+    2. R. Sedgewick, K. Wayne, Algorithms, 4th. ed., Addison-Wesley,
+
+    2011.
+
+    3. R. Sedgewick, K. Wayne, R. Dondero, Introduction to programming
+
+    in Python: an interdisciplinary approach, Addison-Wesley, 2015.
+
+    4. R. Sedgewick, K. Wayne, Computer science: an interdisciplinary
+
+    approach, Addison-Wesley, 2016
+
+    5. P. Feofiloff, Algoritmos em Linguagem C, Elsevier, 2009.'
+  course: ''
+  course_name: 'CCM0128 - Computação II
+
+    Computation II'
+  deactivation: ''
+  instructors: 29332 - Routo Terada
+  lecture_credits: '4'
+  objectives: 'Refinar o conhecimento de programação de computadores e suas aplicações
+    através do estudo de algoritmos, estruturas de dados e tipos abstratos de dados
+    fundamentais e de exercícios de programação.
+
+    To introduce more advanced practices in computer programming and its applications,
+    through the study of fundamental algorithms, data structures and abstract data
+    types and programming exercises.'
+  practical_credits: '2'
+  total_workload: 120 h
+  type: 's abstratos de dados (ADTs), uso de ADTs, e implementação de ADTs através
+    da classes.  Algoritmos de ordenação elementares, linearítmicos e lineares.  ADTs
+    fundamentais: pilhas, filas, filas de prioridade e tabelas de símbolos.  Estruturas
+    de dados básicas: listas ligadas, árvores de busca e tabelas de espalhamento.  Exemplos
+    envolvendo processamento de texto; busca em grafos e caminhos mínimos
+
+    em grafos; aplicações interdisciplinares.  Extensa prática de programação e depuração
+    de programas.
+
+    Abstract data types (ADTs).  Applications of ADTs and their implementation using
+    classes.  Elementary, linearithmic and linear time sorting algorithms.  Basic
+    ADTs: stacks, queues, priority queues and symbol tables.  Basic data structures:
+    linked lists, search trees and hashing.  Examples involving text processing; search
+    in graphs; interdisciplinary applications.  Extensive programming practice.'
+created_at: '20211027132331'
+digest: TYRCST3K33WJCIX3R6MRKWH224ACU3VF
+updated_at: '20211027132331'
+url: https://web.archive.org/web/20211027132331id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0128
