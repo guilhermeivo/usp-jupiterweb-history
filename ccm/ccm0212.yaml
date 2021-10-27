@@ -1,0 +1,68 @@
+courses:
+  activation: 01/07/1994
+  assessment: A possibilidade de recuperação depende de análise, caso a caso, feita
+    pela Comissão de Graduação do CCM.
+  bibliography: 'Curso de Física de Berkeley, vol. 2, Eletricidade e Magnetismo, E.M.
+    Purcell, Ed. Edgard Blücher, Ltda. São Paulo, Brasil, 1970.
+
+    Curso de Física Básica, H.M. Nussenzveig, vol. 3, Eletromagnetismo, Ed. Edgard
+    Blücher, Ltda. São Paulo, Brasil, 1997.
+
+    Classical Electrodynamics, J.D. Jackson, second edition, John Wiley and Sons Inc.,
+    New York, 1975.
+
+    The Feynman Lectures on Physics, vol. 2. Addison-Wesley Publishing Company.'
+  course: "1. Visão geral do eletromagnetismo.\n(a) Forças elétricas e magnéticas.\n\
+    (b) A noção de campo.\n(c) O impacto do eletromagnetismo na ciência e na tecnologia\n\
+    2. Revisão do cálculo vetorial integral e diferencial.\n3. Eletrostática.\n(a)\
+    \ Lei de Coulomb.\n(b) Potencial Elétrico.\n(c) Lei de Gauss.\n(d) Aplicações\
+    \ da lei de Gauss.\n(e) Dipolo elétrico.\n(f) Campo de condutores carregados.\n\
+    (g) Método das imagens.\n(h) Condensadores.\n(i) Oscilações de plasma.\n(j) Partículas\
+    \ coloidais em um eletrólito.\n(k) Energia eletrostática.\n4. Dielétricos.\n(a)\
+    \ Constante dielétrica e vetor de polarização.\n(b) Equações da eletrostática\
+    \ em dielétricos.\n(c) Descrição microscópica dos dielétricos.\n(d) Equação de\
+    \ Clausius-Massoti.\n5. Magnetostática.\n(a) Lei de Ampère.\n(b) Cálculo do potencial\
+    \ vetor e do campo em várias circunstâncias.\n(c) Dipolo magnético.\n(d) Forças\
+    \ sobre um anel de corrente.\n(e) Energia de um dipolo magnético.\n(f) Campo magnético\
+    \ versus potencial vetor.\n6. O fenômeno da indução.\n(a) Correntes induzidas.\n\
+    (b) Motores, geradores e tecnologia eletromagnética.\n(c) Aceleração de partículas\
+    \ em campos elétricos induzidos.\n(d) Indutância mútua e auto-indutância.\n(e)\
+    \ Energia magnética.\n7. As equações de Maxwell.\n(a) A corrente do deslocamento.\n\
+    (b) Propagação dos campos elétricos e magnéticos.\n(c) Ondas eletromagnéticas\
+    \ planas e esféricas.\n(d) Campos de um dipolo oscilante.\n(e) Eletromagnetismo\
+    \ e relatividade.\n8. Magnetismo na matéria.\n(a) Diamagnetismo e paramagnetismo.\n\
+    (b) Momento angular na Mecânica Quântica.\n(c) Ressonância magnética.\n(d) Ferromagnetismo.\n\
+    1)\tElectrostatics, charge and field\n2)\tThe Coulomb\x92s law, point charges\
+    \ and continuous distributions\n3)\tEnergy of a system of charges, work, concept\
+    \ of conservative field\n4)\tElectric field of point charges and continuous distributions\n\
+    5)\tThe Gauss\x92s law in the integral and differential forms\n6)\tThe electric\
+    \ potential and equipotential surfaces\n7)\tThe Poisson\x92s equation, including\
+    \ applications\n8)\tElectric insulators and conductors\n9)\tThe uniqueness theorem\n\
+    10)\tCapacitors and capacitance\n11)\tDielectrics\n12)\tInhomogeneous polarization\n\
+    13)\tDisplacement vector\n14)\tBoundary conditions\n15)\tThe current density vector\n\
+    16)\tThe Ohm\x92s law\n17)\tThe electromotive force\n18)\tMagnetostatics\n19)\t\
+    Magnetic force and Lorentz\x92s force\n20)\tThe Ampère\x92s law\n21)\tThe magnetic\
+    \ scalar potential\n22)\tThe Biot-Savart\x92s law\n23)\tThe electromagnetic induction\n\
+    24)\tThe Faraday\x92s law\n25)\tThe Maxwell\x92s equations\n26)\tMagnetic induction\n\
+    27)\tDisplacement current\n28)\tMagnetic fields in matter\n29)\tMagnetization.\
+    \ Paramagnetism, diamagnetism and ferromagnetism\n30)\tThe field H\n31)\tWave\
+    \ equations for the electric and magnetic fields, reflection and refraction\n\
+    32)\tWaves in vacuum and matter\n33)\tThe Poynting vector"
+  course_name: 'CCM0212 - Fisica III
+
+    Physics III'
+  deactivation: ''
+  instructors: 73854 - Antonio Martins Figueiredo Neto
+  lecture_credits: '6'
+  objectives: Introduzir os conceitos básicos que explicam os diversos fenômenos físicos
+    relacionados com a eletricidade e magnetismo. Utilizar o cálculo diferencial e
+    integral para descrever esses fenômenos. Sintetizar a teoria nas quarto equações
+    de Maxwell. Desenvolver no estudante a habilidade para compreender e resolver
+    problemas relacionados com o eletromagnetismo.
+  practical_credits: '0'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20211027124930'
+digest: YISI3MUAZYO4DW2TBE7SJELAHGB6NVD7
+updated_at: '20211027124930'
+url: https://web.archive.org/web/20211027124930id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0212
