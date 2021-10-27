@@ -1,0 +1,75 @@
+courses:
+  activation: 15/07/2019
+  assessment: A critério do docente
+  bibliography: 'F. A. Cotton - "Chemical Applications of Group Theory", 3a edição,
+    New York, 1990.
+
+    M. Weller, T. Overton, J. Rourke and F. Armstrong, Inorganic Chemistry, 6ª ed.,
+    Oxford U.P., 2014
+
+    G. L. Miessler, P. J. Fischer e D. A. Tarr, Química Inorgânica, 5ª ed., Pearson.,
+    São Paulo, 2014
+
+    J. E. Huheey, E. A. Keiter, R. L Keiter, Inorganic Chemistry, 4th Ed., Harper
+    Collins, 1993.
+
+    H. E. Toma, Química de Coordenação, Organometálica e Catálise, 2ª Edição, Blucher,
+    São Paulo, 2016.'
+  course: 'Princípios de Espectroscopia
+
+    1) Breve histórico da evolução da espectroscopia. Natureza da radiação eletromagnética
+    e interação radiação/matéria (breve recordação). Simetria, grupos de ponto e teoria
+    de grupos.
+
+    2) Aplicações da teoria de grupos: Simetria de orbitais moleculares e construção
+    do diagrama de orbitais moleculares em moléculas com mais de 2 átomos. Modos vibracionais
+    e princípios da espectroscopia vibracional.3) Espectroscopia eletrônica: Estados
+    de energia eletrônicos de átomos e íons gasosos, termos espectroscópicos; estados
+    eletrônicos de espécies poliatômicas; aproximação de Born-Oppenheimer; espectros
+    de absorção e emissão; transições eletrônicas, momento de transição e força do
+    oscilador; Regras de seleção e aplicações da teoria de grupos.
+
+    Química de Coordenação
+
+    4) Desenvolvimento histórico, evolução do modelo de coordenação. Isomeria e estereoquímica
+    de compostos de coordenação. Isomeria constitucional e espacial, isomeria conformacional.
+
+    5) Estrutura eletrônica dos íons metálicos. Esquema Russel-Saunders, repulsão
+    intereletrônica, parâmetros de Racah.
+
+    6) Teoria do campo ligante, desdobramento energético dos orbitais, efeito Jahn-Teller,
+    energias de estabilização de campo ligante.
+
+    7) Espectroscopia eletrônica em complexos - transições d-d, regras de seleção,
+    diagramas de Tanabe-Sugano, interpretação de espectros de campo ligante. Teoria
+    dos orbitais moleculares para compostos de coordenação, série espectroquímica
+    e nefelauxética, espectros de transferência de carga e intervalência. Propriedades
+    Magnéticas.
+
+    8) Termodinâmica e equilíbrio na química de coordenação - abordagem de Klopman,
+    constantes de estabilidade, efeito quelato, solvatação iônica, potenciais redox.
+    Cinética e reatividade de compostos de coordenação - aspectos dinâmicos em solução,
+    labilidade e inercia, mecanismos de substituição, transferência de elétrons e
+    de ativação de ligante.
+
+    9) Compostos organometálicos e clusters. Ligação metal-metal. Catálise envolvendo
+    compostos de coordenação. Aspectos bioinorgânicos e ambientais: metais em sistemas
+    biológicos, transporte de oxigênio, processos enzimáticos. Aspectos toxicológicos
+    e ambientais.'
+  course_name: 'CCM0224 - Quimica IV
+
+    Chemistry IV'
+  deactivation: ''
+  instructors: '174439 - Denise Freitas Siqueira Petri
+
+    4893780 - Lucas Carvalho Veloso Rodrigues'
+  lecture_credits: '6'
+  objectives: Apresentar os conceitos básicos de espectroscopia eletrônica e vibracional.
+    Introduzir os principais conceitos da Química de Coordenação.
+  practical_credits: '0'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20211027130805'
+digest: IYBCWBXRPWH7YHKKBAI7UPHH4AJRAJ23
+updated_at: '20211027130805'
+url: https://web.archive.org/web/20211027130805id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0224
