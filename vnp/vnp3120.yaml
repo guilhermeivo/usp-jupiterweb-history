@@ -1,0 +1,54 @@
+courses:
+  activation: 01/01/2019
+  assessment: 'A recuperação constará de duas provas sendo que a média da avaliação
+    final da disciplina entrará no computo da recuperação. Desta maneira, a média
+    final, após a recuperação, constará: média da avaliação final + média da recuperação
+    ÷ 2'
+  bibliography: "1)\tBELOTI, V. (Org.). Leite: obtenção, inspeção e qualidade/\
+    \ Vanerli Beloti, Ronaldo Tamanini, Luis A. Nero, Maria A. S. Moreira, Livia C.\
+    \ C da Silva, Rafael Fagnani, Karla T. M. G Reis - Londrina: Editora Planta, 2015\n\
+    2)\tBLOWEY, R.; EDMONDSON, P. Mastits Control in Dairy Herds – an Illustrated\
+    \ and Pratical Guide. 1ª ed. Ipswish: Ed. Farming Press. Great Britain. 1995.\n\
+    3)\tPHILPOT, N.W.; NICKERSON, S.C. Vencendo a Luta contra a mastite. Piracicaba:\
+    \ Westfália Surge/Wesfália Landtechnik do Brasil, 2002. 192p.\n4)\tSANTOS, M.\
+    \ V., FONSECA, L. F L. Estratégias para Controle de Mastite e Melhoria da Qualidade\
+    \ do Leite. Barueri : Editora Manole, 2006, v.1. p.314.\n5)\tEdmonson, P. How\
+    \ to Control Somatic Cell Counts: Mastitis Guide 1. Leicestershire: Context, 2015,\
+    \ 164p.\n6)\tEdmonson, P. Mastitis: How to Control Clinical Mastitis. Leicestershire:\
+    \ Context, 2015, 164p."
+  course: 'Situação atual da qualidade do leite e controle de mastite no Brasil;
+
+    Diagnóstico de situação da mastite clínica e subclínica em rebanhos leiteiros;
+
+    Principais indicadores de monitoramento de mastite clínica e subclínica de rebanhos;
+
+    Perdas de produção causadas pela mastite e impactos sobre a qualidade do leite;
+
+    Custos e prejuízos causados pela mastite clínica e subclínica;
+
+    Principais agentes causadores de mastite;
+
+    Principais medidas de manejo de ordenha;
+
+    Principais medidas de controle de mastite contagiosa e ambiental.'
+  course_name: 'VNP3120 - Qualidade do leite e controle de mastite bovina
+
+    Milk quality and bovine mastitis control'
+  deactivation: ''
+  instructors: 1203273 - Marcos Veiga dos Santos
+  lecture_credits: '2'
+  objectives: 'Que o aluno seja capaz de: a) descrever a situação atual da qualidade
+    do leite e controle de mastite no Brasil; b) diagnosticar a situação da mastite
+    clínica e subclínica em rebanhos leiteiros; c) analisar os principais indicadores
+    de monitoramento de mastite clínica e subclínica de rebanhos; d) estimar perdas
+    de produção causadas pela mastite e impactos sobre a qualidade do leite; estimar
+    custos de mastite clínica e subclínica; e) descrever os principais agentes causadores
+    de mastite; f) descrever as principais medidas de manejo de ordenha; g) descrever
+    as principais medidas de controle de mastite contagiosa e ambiental.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20211208095226'
+digest: FXFVDPHMR7REHYFH6UBKUZLCONLQENVS
+updated_at: '20211208095226'
+url: https://web.archive.org/web/20211208095226id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3120
