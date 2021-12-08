@@ -1,0 +1,69 @@
+courses:
+  activation: 01/01/2021
+  assessment: 'A recuperação constará de duas provas sendo que a média da avaliação
+    final da disciplina entrará no computo da recuperação. Desta maneira, a média
+    final, após a recuperação, constará: média da avaliação final + média da recuperação
+    ÷ 2'
+  bibliography: "BORDON, R. M. Understanding Animal Breeding. Prentice Hall, Upper\
+    \ Saddle River, NJ. 523p., 1997.\nBECKER, W.A. Manual of Procedures in Quantitative\
+    \ Genetics. 3 ed. Washington, Washington State University Press, 1995.\nELER,\
+    \ P.J. Teorias e Métodos em Melhoramento Genético Animal 2 2ed. Rer e ampl.- Pirassununga\
+    \ SP: FZEA, 258 pp, 2001.\nFALCONER, D. S.; MACKAY, T. F. C. Introduccion a la\
+    \ genética cuantitativa. Zaragoza, Espanha, 4ª ed., 2001. 469 p.\nHENDERSON, C.R.\
+    \ Applications of linear models in animal breeding. University of Guelph: Guelph,\
+    \ Canada, 1984, 462p.\nLASLEY, J.F. Genetics of livestock improvement. 3th ed.\
+    \ New Jersey: pretice Hall, 1978, 492p.\nKINGHORN, B.; VAN DER WERF, J.; RYAN,\
+    \ M. Melhoramento animal: uso de novas tecnologias. Piracicaba: FEALQ, 2006. p.15-26.\n\
+    MRODE, R.A. Linear models for the prediction of animal breeding values. CAB INTERNATIONAL:\
+    \ Wallingford, Oxon, UK, 1996. 187p.\nPEREIRA, J.C.C. Melhoramento genético aplicado\
+    \ a produção animal, FEPMVZ. Editora,  Belo Horizonte, 555p, 2001.\nVAN VLECK,\
+    \ L.D.; POLLAK, E.J.; OLTENACU, E.A.B. Genetics for the Animal Sciences. Freeman\
+    \ and co., New York. 391 p, 1987.\nVAN VLECK, L.D. Selection Index and Introduction\
+    \ to Mixed Model Methods. CRC Pres. Boca Raton, Fl., 1987.\nEssa Bibliografia\
+    \ indicada não tem a pretensão de suprir todas as necessidades para a formação\
+    \ profissional do médico veterinário que queira atuar em melhoramento animal.\
+    \ Recomenda-se aos alunos Revistas Especializadas tais como: Animal Genetics,\
+    \ Journal of Animal Science, Journal of Dairy Science, Livestock Production, Genetic,\
+    \ Selection and Evolution, \tJournal Animal Breeding and Genetics, dentre outros,\
+    \ visando complementação e evolução dos tópicos discutidos em aula."
+  course: 'Introdução e Aspectos Históricos.
+
+    Evolução do Melhoramento Animal.
+
+    Conceitos Básicos em Genética de Populações e Quantitativa
+
+    - Cálculo de Frequências Genotípicas e Gênicas
+
+    - Teorema de Hardy-Weinberg
+
+    - Fatores que alteram as Frequências Gênicas e Genotípicas
+
+    Conceitos Básicos em Estatística e Quantitativa
+
+    - Comparação de Caracteres Qualitativos versus Quantitativos
+
+    - Estatística aplicada ao Melhoramento (medidas de tendência central, medidas
+    de dispersão e de relacionamento entre variáveis)
+
+    - Modelo aditivo-dominate
+
+    - Parâmetros genéticos e fenotípicos (Métodos de Estimação de herdabilidade; Variação
+    dentro de Linha Isogênica. Regressão dos Valores Fenotípicos dos Progenitores
+    e das Progênies; Decomposição da Variação Total por meio de Momentos)'
+  course_name: 'VNP3109 - Melhoramento Animal
+
+    Animal Breeding'
+  deactivation: ''
+  instructors: 3571174 - Júlio César de Carvalho Balieiro
+  lecture_credits: '2'
+  objectives: Estudo de bases e métodos de melhoramento genético animal, aplicados
+    a  sistemas de produção dos animais domésticos, oferecendo subsídios ao exercício
+    profissional e qualificando-o para a exploração e remanejamento genético de animais
+    destinados à produção animal.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20211208090018'
+digest: TD2HEZUO6THKUI3Q7DX4VLVBRUVPCCI4
+updated_at: '20211208090018'
+url: https://web.archive.org/web/20211208090018id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3109
