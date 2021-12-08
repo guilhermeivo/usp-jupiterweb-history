@@ -1,0 +1,76 @@
+courses:
+  activation: 01/01/2019
+  assessment: 'A recuperação constará de duas provas sendo que a média da avaliação
+    final da disciplina entrará no computo da recuperação. Desta maneira, a média
+    final, após a recuperação, constará: média da avaliação final + média da recuperação
+    ÷ 2'
+  bibliography: 'https://support.office.com/en-us/excel
+
+    Korpelainen, E., Tuimala, J., Somervuo, P., Huss, M., Wong, G. (2015). RNA-seq
+    Data Analysis. New York: Chapman and Hall/CRC.
+
+    Gondro, C. (2015). Primer to Analysis of Genomic Data Using R. Springer International
+    Publishing
+
+    https://cran.r-project.org/web/packages/neuralnet/neuralnet.pdf
+
+    R Development Core Team (2008). R: A language and environment for
+
+    statistical computing. R Foundation for Statistical Computing,
+
+    Vienna, Austria. ISBN 3-900051-07-0, URL http://www.R-project.org.
+
+    Específica: Periódicos internacionais'
+  course: 'Introdução à Bioinformática aplicada à Produção Animal e Medicina Veterinária.
+
+    Ciências "ômicas" e noções sobre dados relacionadas à Produção Animal de Precisão
+
+    Novos fenótipos mensurados em Bovinocultura de Leite, Corte e Suinocultura
+
+    Noções básicas sobre EXCEL
+
+    Aprendizado de máquina e Mineração de dados
+
+    Noções básicas sobre análises de expressão gênica
+
+    Noções básicas sobre análises de dados genômicos
+
+    Bioinformática na Prática: problemas ligados à Bovinocultura de Leite
+
+    Bioinformática na Prática: problemas ligados à Bovinocultura de Corte
+
+    Bioinformática na Prática: problemas ligados à Suinocultura
+
+    Bioinformática na Prática: Aplicações de Teoria de Redes e reconhecimento de imagens'
+  course_name: 'VNP3124 - Bioinformática aplicada à Medicina Veterinária e Pecuária
+    de Precisão
+
+    Bioinformatics applied to Veterinary Medicine and Precision Livestock Production'
+  deactivation: ''
+  instructors: 9124662 - Ricardo Vieira Ventura
+  lecture_credits: '2'
+  objectives: 'Avanços teóricos e tecnológicos em bioinformática, genética, estatística
+    e coleta de novos tipos de dados, podem ser definidos como fatores determinantes
+    para a proliferação de tecnologias e técnicas que auxiliam no entendimento dos
+    mecanismos que controlam a diversidade genética e fenotípica em animais de diferentes
+    espécies. Novos projetos relacionados à área de produção animal estão gerando
+    grandes quantidades de dados biológicos complexos, que requerem melhor entendimento
+    sobre fatores como armazenamento eficaz, análise e interpretação de dados relacionados
+    aos sistemas de produção animal. Esta disciplina fornecerá aos alunos uma visão
+    geral e conhecimento inicial sobre aplicação de recursos computacionais e estatísticos
+    relacionadas à análise de dados biológicos aplicados às áreas de Medicina Veterinária
+    e Zootecnia de Precisão. A disciplina tem como objetivos específicos: introduzir
+    conceitos básicos sobre linguagem EXCEL para resolução de problemas simplificados;
+    apresentar e discutir tópicos como exploração de dados "ômicos", mineração de
+    dados,  reconhecimento de padrões e análise de imagens. Espera-se que, ao final
+    do curso, o aluno possa ter capacidade de utilização da ferramenta EXCEL para
+    fins de manipulação de dados simplificados e também possa acumular conhecimento
+    para um futuro aprofundamento diante das novas técnicas relacionadas à exploração
+    de dados biológicos via recursos computacionais.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20211208092758'
+digest: EPT4C4VOZU7XINUDCJV44QTFVC6TEQUG
+updated_at: '20211208092758'
+url: https://web.archive.org/web/20211208092758id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3124
