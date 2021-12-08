@@ -1,0 +1,83 @@
+courses:
+  activation: 01/01/2021
+  assessment: Prova escrita para composição de média com a nota obtida na avaliação
+    durante o semestre letivo.
+  bibliography: 'BECK, S.L. Equinos, Raças, Manejo, Equitação. São Paulo. Editora
+    dos Criadores, 1985.
+
+    BUIDE, R. Manejo de Haras. Problemas y Soluciones. Editorial Hemisfério Sur S.A,
+    Buenos Aires, Argentina, 1986.
+
+    CAMARGO, M.X. & CHIEFFI, A. Ezoognósia. Instituto de Zootecnia, São Paulo, SP,
+    1971.
+
+    CARVALHO, R.T.L. ; HADDAD, C.M. Pastagens e Alimentação de Equinos. Piracicaba,
+    FEALQ, 1987.
+
+    CHIEFFI, A. Os Muares: sua importância e sua criação. São Paulo, Secretaria da
+    Agricultura do Estado de São Paulo, 1947.
+
+    MEYER, H. Alimentação de Eqüinos, Livraria Varella, São Paulo, 1995.
+
+    LEWIS, L.D. alimentação e cuidados do cavalo. São Paulo, Roca, 1985.
+
+    TORRES, A.P. & JARDIM, W.R. Criação do cavalo e outros    equinos, Livraria Nobel
+    S.A. São Paulo, SP. 1981.'
+  course: '- Introdução a Equideocultura
+
+    - Classificação zoológica, origem e domesticação.
+
+    - População e importância econômica para o Brasil e demais países
+
+    - Caracterização racial
+
+    - Introdução ao estudo do exterior do cavalo
+
+    - Andamentos dos equinos
+
+    - Podologia equina
+
+    - Escolha de raças e reprodutores
+
+    - Implantação de um haras
+
+    - Instalações e equipamentos de um haras
+
+    - Manejo reprodutivo
+
+    - Manejo nutricional
+
+    - Manejo sanitário
+
+    - Cuidados com os potros recém-nascidos
+
+    - Manejo de potros do nascimento à doma
+
+    - Escrituração zootécnica de equinos
+
+    - Avaliação econômica de sistemas de produção de equinos
+
+    - Utilização do cavalo no esporte
+
+    - Criação de jumentos e muares'
+  course_name: 'VNP3104 - Produção de Equinos
+
+    Equine Science'
+  deactivation: ''
+  instructors: 94103 - Alexandre Augusto de Oliveira Gobesso
+  lecture_credits: '2'
+  objectives: Capacitar o aluno para a implantação e avaliação de sistemas de produção
+    no que diz respeito aos aspectos de criação, visando maior produtividade de equídeos,
+    oferecendo-lhes subsídios para o exercício adequado de sua profissão. Proporcionar
+    amplo entendimento dos princípios biológicos e desenvolver a capacidade de incorporar
+    o uso destes princípios para a indústria do cavalo. Uma compreensão de princípios
+    de negócios/econômico e sua aplicação às empresas de equídeos. Capacidade de avaliar
+    criticamente questões indústria equina e propor a resolução de problemas e habilidades
+    de liderança que melhoram o sucesso profissional.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20211208085555'
+digest: ZFV2HHVRPJAKSKVPKUTTUIT75MJQWDQJ
+updated_at: '20211208085555'
+url: https://web.archive.org/web/20211208085555id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3104
