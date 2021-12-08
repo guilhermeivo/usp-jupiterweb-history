@@ -1,0 +1,150 @@
+courses:
+  activation: 01/01/2019
+  assessment: 'A recuperação constará de uma única prova sendo que a média da avaliação
+    final da disciplina entrará no computo da nota da recuperação. Desta maneira,
+    a média final, após a recuperação, constará: média da avaliação final + média
+    da recuperação ÷ 2'
+  bibliography: 'AITKIN, M. A. Statistical inference : an integrated Bayesian / likelihood
+    approach. Editora Chapman & Hall/CRC, 2010, 236 p.
+
+    BHUJEL, R. C. Statistics for aquaculture. Editora Wiley-Blackwell, 2008,222 p.
+
+    BOX, G. E. P. Statistics for experimenters: design, innovation, and discovery.
+    2nd Ed. Editora Wiley-Interscience, 200, 633 p.
+
+    COSTA NETO, P.L.O. Estatística. São Paulo: ed. Edgard Bluker Ltda, 1999. 260 p.
+
+    DRAPER, N.; SMITH, H. Applied Regression Analysis. New York: John Wiley & Sons,
+    1966. 407 p.
+
+    GILL, J.L. Design and analysis of experiments in the animal and medical sciences.
+    3th ed.. Iowa State University Press: Ames, Iowa, USA, v.1, 1985. 410 p.
+
+    GOMES, J.P. Curso de Estatística Experimental. Piracicaba: ESALQ/USP, 13ª edição,
+    1990. 468 p.
+
+    NETER, J.; WASSERMAN, W.; KUTNER, M.H. Applied linear statistical models: regression,
+    analysis of variance and experimental designs. 2nd ed., Richard D. Irwin, INC:
+    Homewood, Illinois, USA, 1985. 1.127 p.
+
+    TRIOLA, M. F. Introdução à Estatística. Rio de Janeiro: LTC Editora, 7ª Ed., 1999.
+    410 p.'
+  course: 'Conceitos Básicos em Estatística Experimental:
+
+    Parâmetros;
+
+    Estimadores;
+
+    Estimativas;
+
+    Hipóteses;
+
+    Erros tipo I e II.
+
+    Testes de Hipóteses:
+
+    Teste para uma Média Amostral: Exemplos Práticos;
+
+    Teste para duas Variâncias Amostrais: Exemplos Práticos;
+
+    Teste para duas Amostras Independentes: Exemplos Práticos;
+
+    Teste para duas Amostras Dependentes: Exemplos Práticos.
+
+    Contraste entre Grupos de Médias:
+
+    Definição;
+
+    Estimativa do contraste: Exemplo Prático;
+
+    Variância do contraste: Exemplo Prático;
+
+    Covariância entre contraste e ortogonalidade: Exemplos Práticos.
+
+    Princípios Básicos da Experimentação:
+
+    Alguns Conceitos Básicos;
+
+    Princípio da Repetição;
+
+    Princípio da Casualização;
+
+    Princípio do Controle local.
+
+    Fontes de Variação de um Experimento.
+
+    Delineamento Inteiramente Casualizados (DIC):
+
+    Introdução;
+
+    Vantagens e Desvantagens;
+
+    Modelo Estatístico;
+
+    Quadro de Tabulação das Dados;
+
+    Análise de Variância;
+
+    Exemplos Práticos.
+
+    Testes de Comparações de Médias e de Grupos de Médias:
+
+    Introdução;
+
+    Alguns Procedimentos para Comparações Múltiplas:
+
+    Teste de Tukey: Exemplo Prático;
+
+    Teste  de Duncan: Exemplo Prático;
+
+    Teste de Scheffé: Exemplo Prático.
+
+    Vantagens e Desvantagens dos Procedimentos de Comparações Múltiplas;
+
+    Fatores Qualitativos versus Fatores Quantitativos.
+
+    Delineamento em Blocos Casualizados (DBC):
+
+    Introdução;
+
+    Modelo Estatístico;
+
+    Quadro de Tabulação dos Dados;
+
+    Análise de Variância;
+
+    Exemplos Práticos.
+
+    Delineamento em Qualdrado Latino (DQL):
+
+    Introdução;
+
+    Modelo Estatístico;
+
+    Quadro de Tabulação dos Dados;
+
+    Análise de Variância;
+
+    Exemplos Práticos.
+
+    Uso de Computadores em Análises Experimentais:
+
+    Introdução; Montagem do Arquivo de Dados; Modelo apropriado ao Delineamento; Escolha
+    do Procedimento apropriado; Gravação dos Arquivos de Saída (output’s) ;Interpretação
+    dos Resultados das Análises.'
+  course_name: 'VNP3125 - Métodos Estatísticos aplicados à Nutrição e Produção Animal
+
+    Statistical Methods applied to Animal Nutrition and Production'
+  deactivation: ''
+  instructors: 3571174 - Júlio César de Carvalho Balieiro
+  lecture_credits: '2'
+  objectives: Auxiliar na capacitação teórica e prática dos alunos, visando o desenvolvimento
+    do raciocínio lógico para reconhecer os principais delineamentos experimentais
+    utilizados na experimentação animal voltada à Nutrição e Produção Animal.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20211208095339'
+digest: IPYK7WMWY6JQCIX3URHWG6GKOZOQZLJZ
+updated_at: '20211208095339'
+url: https://web.archive.org/web/20211208095339id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3125
