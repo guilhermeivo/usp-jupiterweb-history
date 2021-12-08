@@ -1,0 +1,69 @@
+courses:
+  activation: 01/01/2021
+  assessment: 'A recuperação constará de duas provas sendo que a média da avaliação
+    final da disciplina entrará no computo da recuperação. Desta maneira, a média
+    final, após a recuperação, constará: média da avaliação final + média da recuperação
+    ÷ 2.'
+  bibliography: 'BESTMAN, M. et al. Poultry Signals: a practical guide for bird focused
+    poultry farming. Roodbont Publisher B.V., 2012.
+
+    BESTMAN, M. et al. Laying hens: a practical guide for layer focused management.
+    Roodbont Publisher B.V., 2012.
+
+    BERTECHINI, AG. Nutrição de Monogástricos, Ed UFLA, 2006.
+
+    COTTA, T. Frangos de Corte: criação, abate e comercialização. Aprenda Fácil Editora,
+    2003.
+
+    EPPLE, A.; STETSON, M.H. Avian Endocrinology, New York, Academic Press, 1980,
+    577 p.
+
+    FERNANDEZ CURVAS, M.J.F. Alimentacion de los Animales Monogástricos, Madri, Mundi-Prensa,
+    1985, 283p.
+
+    MACARI, M.; FURLAN, R.L.; GONZALES, E. Fisiologia Aviária Aplicada a Frangos de
+    Corte, Jaboticabal, FUNESP, 1994, 296p.
+
+    MAGALDI, M.A.L. Explotacion Comercial de Aves, Buenos Aires, Albatrós, 1985, 419p.
+
+    MEHNER, A. La Gallina, Zaragoza, acribia, 1969, 227p.
+
+    MORENG, R; AVENS, J. S. Ciência e Produção de Aves. São Paulo: Rocca, 1990.
+
+    NORTH, M.O. Comercial chicken Production Manual. Westport, avi Publishing Company,
+    1985, 692p.
+
+    REIS, J. Criação de Galinhas, São Paulo, Ibrasa, 1977, 276p.
+
+    ROSTAGNO, H S et al. Composição dos Alimentos e exigências nutricionais de aves
+    e suínos, Viçosa, 2011
+
+    SAINSBURY, D.  Poultry Health and Management, London, Granada, 1984, 186p.'
+  course: "Teórico\nIntrodução ao estudo da Avicultura\na) Importância econômica para\
+    \ o Brasil e demais países.\nc) Funções econômicas.\nd) Raças e suas origens.\n\
+    e) Linhagens e híbridos comerciais.\nProdução de carne\na) Instalação da granja,\
+    \ construções e equipamentos.\nb) Sistemas de criação.\nc) Manejo dos pintos e\
+    \ frangos.\nProdução de ovos\na) Instalação da granja, construções e equipamentos.\n\
+    b) Sistemas de criação.\nc) Manejo das pintas, frangas e poedeiras.\nd) Manejo\
+    \ dos ovos comerciais.\nProdução de pintos de um dia\na) Manejo dos reprodutores.\n\
+    b) Cuidados com os ovos de incubação.\nc) Manejo da incubadora e câmara de eclosão.\n\
+    Manejo da alimentação e Ambiência\na)\tManejo nutricional e alimentar\nb)\tProgramas\
+    \ de alimentação\nc)\tConstruções, modificações primárias e secundárias das edificações\n\
+    Prático\na)\tQualidade interna e externa de ovos\nb)\tAnatomia avícola e descarte\
+    \ de poedeira comercial\nc)\tPesquisa de opinião pública"
+  course_name: 'VNP3102 - Produção de Aves
+
+    Poultry Production'
+  deactivation: ''
+  instructors: 2558483 - Cristiane Soares da Silva Araujo
+  lecture_credits: '2'
+  objectives: Capacitar o aluno para o assessoramento e avaliação de sistemas de produção,
+    no que diz respeito aos aspectos de criação, manejo e produção de aves, oferecendo-lhes
+    subsídios para o exercício adequado de sua profissão.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20211208101529'
+digest: PD3CGOKXYMK6UTOEBWYVYMUMZG4JSB4Z
+updated_at: '20211208101529'
+url: https://web.archive.org/web/20211208101529id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3102
