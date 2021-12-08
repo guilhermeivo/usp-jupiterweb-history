@@ -1,0 +1,43 @@
+courses:
+  activation: 01/01/2019
+  assessment: 'A recuperação constará de uma prova. A média final, após a recuperação,
+    constará de: (média da avaliação final + nota da recuperação) ÷ 2'
+  bibliography: 'CHIAVENATO, I. Introdução à Teoria Geral da Administração. 8ed. Campus,
+    2011.
+
+    GIOSO, M.A. Gestão da Clínica Veterinária: Como Gerenciar Finanças, Equipes e
+    Marketing a seu Favor. Elsevier, 2013.
+
+    SOARES, J.A.; TONIOLLO, G.H.; BRESCIANI, K.D.S. Gestão Empreendedora em Medicina
+    Veterinária. FUNEP, 2017.'
+  course: 'O mercado de serviços veterinários para o segmento pet;
+
+    O mercado de produtos (alimentos, medicamentos, acessórios) para pets;
+
+    Desenvolvimento de SKAs (Skills, Knowledge, Aptitudes and Attitudes) de Médicos
+    Veterinários;
+
+    Planejamento estratégico e as metas SMART para negócios do segmento pet;
+
+    Instalação e gestão de clínica veterinária;
+
+    Administração de hospitais veterinários; e
+
+    Administração de pet shops.'
+  course_name: 'VNP3123 - Gestão do Segmento Pet
+
+    Pet Market Management'
+  deactivation: ''
+  instructors: 7686777 - Marcio Antonio Brunetto
+  lecture_credits: '1'
+  objectives: Fornecer ao aluno do curso de Medicina Veterinária fundamentos e conceitos
+    de Administração focada no mercado de serviços e produtos para animais de companhia,
+    mais especificamente na gestão de clínicas de pequenos animais, hospitais veterinários,
+    negócios e serviços do segmento pet.
+  practical_credits: '0'
+  total_workload: 15 h
+  type: Semestral
+created_at: '20211208085736'
+digest: IFUZQ7YMOOWCYXOBKUHTGOZ6NWHULNB6
+updated_at: '20211208085736'
+url: https://web.archive.org/web/20211208085736id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3123
