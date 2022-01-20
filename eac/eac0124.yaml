@@ -1,0 +1,138 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    Biancolino, C. A. (2010). Valor de uso do ERP e gestão contínua de pós-implementação:
+    estudo de casos múltiplos no cenário brasileiro. Tese (Doutorado em Controladoria
+    e Contabilidade) – FEA/USP.
+
+    Bio, S. R. (2008). Sistemas de informação: um enfoque gerencial, 2 ed. São Paulo,
+    SP: Atlas.
+
+    Cornacchione, E. B., Jr. (1999). Contribuição ao estudo de arquitetura de sistemas
+    de informações de gestão econômica”. Tese (Doutorado em Controladoria e Contabilidade)
+    – FEA/USP.
+
+    Correa, P. R. & Cruz, R. G. (2005). Meta-análisis sobre la implantación de sistemas
+    de planificación de recursos empresariales (ERP). Journal of Information Systems
+    and Technology Management, 2(3), 245-273.
+
+    Dechow, N. & Mouritsen, J. (2005). Enterprise resource planning systems, management
+    control and the quest for integration. Accounting, Organizations and Society,
+    30(7-8), 691-733.
+
+    Gil, A. L., Biancolino, C. A. & Slavov, T. N. B. (2017). Sistemas de informações
+    contábeis. São Paulo: Atlas.
+
+    Reginato, L. (2006). A tecnologia da informação como instrumento de apoio à controladoria:
+    um estudo de caso envolvendo a aplicação das ferramentas de Business Intelligence.
+    Dissertação (Mestrado) - UNISINOS.
+
+    Riccio, E. L. (2001). Efeitos da tecnologia de informação na contabilidade: Estudo
+    de casos de implementação de sistemas empresariais integrados – ERP. Tese (Livre-Docência
+    em Controladoria e Contabilidade) - FEA/USP.
+
+    Haddara, M. & Moen, H. (2017). User resistance in ERP implementations: a literature
+    review. Procedia Computer Science, 121, 859–865.
+
+    Jirava, P., Toseafa, E. (2017). An illustrative case study of the integration
+    of enterprise resource planning system. Journal of Enterprise Resource Planning
+    Studies, 2017, 1-9.
+
+    Haddara, M., Fagerstrom, A. & Maeland, B. (2015). Cloud ERP systems: Anatomy of
+    adoption factors & attitudes. Journal of Enterprise Resource Planning Studies,
+    2015, 1-24.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    Hall, J. A. (2011). Accounting information systems. Mason, OH: Cengage.
+
+    Laudon, K. C. & Laudon, J. P. (2015). Sistemas de informações gerenciais, 11 ed.
+    São Paulo, SP: Pearson.
+
+    Li, H. (2017). Three essays on cybersecurity-related issues. (Non-published Dissertation).
+    Rutgers, The State University of New Jersey.
+
+    Mancini, D., Vaassen, E. H. J, & Dameri, R. P. (Eds.) (2013). Accounting information
+    systems for decision making. New York, NY: Springer.
+
+    Padoveze, C. L. (2019). Sistemas de informações contábeis, 8 ed. São Paulo: Atlas.
+
+    Perks, C. & Beveridge, T. (2003). Guide to Enterprise IT Architecture. New York:
+    Springer- Verlag.
+
+    Rezende, D. A. (2011). Planejamento de Sistemas de informação e Informática, 2
+    ed. São Paulo, Atlas.
+
+    Romney, M. B. & Steinbart, P. J. (2015). Accounting information systems, 13th
+    ed. Upper Saddle River, NJ: Pearson.
+
+    Ross, J. W., Weill, P., & Robertson, D. C. (2012). Arquitetura de TI como Estratégia
+    Empresarial. Porto Alegre: AMGH Bookman.
+
+    SAP (2013). SAP Financial and Management Accounting. SAP Business by Design 1302.
+    SAP AG.'
+  course: "1.\tOS SISTEMAS ERP E OS PROFISSIONAIS\n1.1.\tCompetências requeridas,\n\
+    1.2.\tMercado profissional\n1.3.\tPerfis de Tecnologia\n1.4.\tPerfis de Negócio\n\
+    2.\tSISTEMA ERP\n2.1.\tCaracterísticas\n2.2.\tUsos e Funcionalidades\n2.3.\tInfluência\
+    \ nas Organizações\n3.\tERP NA NUVEM\n3.1.\tTrade-off\n3.2.\tVisão crítica para\
+    \ negócios\n3.3.\tVisão crítica para tecnologia\n4.\tIMPLANTAÇÃO DE SISTEMAS ERP\n\
+    4.1.\tDesafios e Oportunidades\n4.2.\tCasos de implantação\n4.3.\tMetodologia\n\
+    4.4.\tMelhores Práticas\n5.\tINTEGRAÇÃO\n5.1.\tSistemas Operacionais\n5.2.\tSistemas\
+    \ Legados\n5.3.\tOutras integrações\n5.4.\tAutomação\n6.\tINFORMAÇÕES PARA GESTÃO,\
+    \ CONTROLE E USUÁRIOS EXTERNOS\n6.1.\tIndicadores\n6.2.\tPainéis\n6.3.\tRelatórios\n\
+    6.4.\tInformações e Tomada de Decisão\n6.5.\tInformações para análise e para monitoramento\n\
+    7.\tO MERCADO DE PROVEDORES DE SOLUÇÕES EMPRESARIAIS\n7.1.\tHistórico e Principais\
+    \ provedores\n7.2.\tComparativo Atual\n8.\tSISTEMAS EMPRESARIAIS E SPED\n9.\t\
+    VIVÊNCIA COM SISTEMAS ERP\n9.1.\tSolução selecionada para vivência específica\
+    \ (simulação, caso, jogo, etc.)"
+  course_name: 'EAC0124 - Sistemas de Informações Empresariais (ERP)
+
+    Enterprise Resource Systems'
+  deactivation: ''
+  instructors: '73235 - Edgard Bruno Cornacchione Junior
+
+    606298 - Edison Carlos Fernandes
+
+    990725 - Joshua Onome Imoniana
+
+    5859376 - Luciane Reginato Cornacchione'
+  lecture_credits: '2'
+  objectives: "APRESENTAÇÃO DA DISCIPLINA:\nProfissionais da área financeira são cada\
+    \ vez mais demandados pelas organizações para assumirem papéis e tomarem decisões\
+    \ que envolvem ambiente tecnológico e soluções digitais que se desenvolvem de\
+    \ forma rápida em ambiente extremamente dinâmico. Nesta disciplina um olhar mais\
+    \ dedicado é dado sobre os Sistemas de Informações Empresariais (ERP), seus usos\
+    \ e integrações no ambiente corporativo, benefícios e desafios de projetos de\
+    \ implantação e manutenção, bem como seu papel na elaboração de relatórios contábeis\
+    \ em atendimento às demandas internas e externas. Aplicações práticas são exploradas,\
+    \ com participação de convidados do mercado. Ambiente para fomentar o desenvolvimento\
+    \ de atitude e postura positiva e apreciativa ao papel da tecnologia e dos sistemas\
+    \ na profissão é claramente oferecido. A estratégia instrucional adotada esta\
+    \ pautada em visão mais ampla sobre os temas e suas relações com as organizações\
+    \ e o profissional da área financeira, prevendo  oportunidades para discussões\
+    \ práticas e aplicações destes conceitos, conforme papel e visão mais atual dos\
+    \ ERP nas organizações.\nOBJETIVOS DE APRENDIZAGEM:\nOs participantes que concluírem\
+    \ exitosamente esta disciplina estarão aptos a:\n1.\tDiscutir conceitos, características\
+    \ estruturação e funcionamento de Sistemas de Informações Empresariais (ERP)\n\
+    2.\tDescrever os módulos e funcionalidades dos componentes de um sistema ERP\n\
+    3.\tDemonstrar benefícios e desafios relacionados à implantação dos sistemas ERP,\
+    \ bem como seus efeitos na organização\n4.\tComparar soluções tecnológicas comerciais\
+    \ de ERP\n5.\tOperar módulos de sistemas ERP de soluções selecionadas\n6.\tPreparar\
+    \ relatórios contábeis para fins de atendimento de demandas internas e externas\n\
+    7.\tAdotar postura positiva e apreciativa em relação ao uso de tecnologias para\
+    \ otimização de Sistemas ERP"
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220120225907'
+digest: FYL6ERGRBC4MHVWN2AMQLB2RYJMAY3XR
+updated_at: '20220120225907'
+url: https://web.archive.org/web/20220120225907id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0124&codcur=12033&codhab=4
