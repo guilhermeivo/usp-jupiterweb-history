@@ -1,0 +1,88 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'Aldrich, C. A. (2005). Learning by doing: A comprehensive guide to
+    simulations, computer games, and pedagogy in e-Learning and other educational
+    experiences. San Francisco, CA: Pfeiffer.
+
+    Broer, J. (2017). The gamification inventory: as instrument for the qualitative
+    evaluation of gamification and its application to learning management systems.
+    Thesis at the University of Bremen, Germany.
+
+    Fiani, R.(2003). Teoria dos Jogos. São Paulo: Campus.
+
+    Finkel, D.L. (2000). Teaching with your mouth shout.
+
+    Garris, R., Ahlers, R., & Driskell, J. E. (2002). Games, motivation, and learning:
+    A research and practice model. Simulation &Gaming, 33(4), 441-467.
+
+    Gramigna, M. R. M. (1995). Jogos de empresas e técnicas vivenciais. São Paulo:
+    Makron Books.
+
+    Horn, M.B.; Staker, H. (1995). Blended: using disruptive innovation to improve
+    schools.
+
+    Kirby, A. (1995). 150 Jogos de treinamento. São Paulo: T&D Editora.
+
+    Michael, D. & Chen, S. (2006). Serious games: Games that educate, train, and inform.
+    Boston, MA: Thomson.
+
+    Moncada, S. M., & Moncada, T. P. (2014). Gamification of learning in accounting
+    education. Journal of Higher Education Theory and Practice, 14(3), 9-19.
+
+    Rogers, S. (2012). Level up: um guia para o design de grandes jogos. São Paulo:
+    Blucher.
+
+    Sauaia, A.C.A. (1990). Gestão Simulada de negócios: uma visão estratégica de desempenho.
+    Anais da SLADE – Sociedade Latino Americana de Estratégia. São Paulo.
+
+    Schwartz, G. (2014). Brinco, logo aprendo: educação, videogames e moralidades
+    pós-modernas. São Paulo: Paulus.
+
+    Vicente, P. (2001). Jogos de empresas: A fronteira do conhecimento em administração
+    de negócios. São Paulo: Makron Books.'
+  course: "1.\tIMPORTÂNCIA DOS JOGOS COMO ESTRATÉGIA NA APRENDIZAGEM DE GESTÃO EMPRESARIAL\n\
+    1.1\t Abordagem sobre o assunto jogos, a fim de apresentar a importância dessa\
+    \ metodologia na reflexão e na criação de estratégias educacionais e empresariais\n\
+    1.2\t Criatividade: conceitos, exemplos e desenvolvimento de habilidades\n1.3\t\
+    Demanda de mercado Versus estudos acerca de habilidades profissionais de gestão\
+    \ e da contabilidade\n2.\tOBJETIVOS E CLASSIFICAÇÕES DOS JOGOS\n2.1\tConceito,\
+    \ origem\n2.2\tTeoria dos jogos\n2.3\tModelos\n2.4\tSerious Games, Gamification,\
+    \ Game-based learning\n3.\tPESQUISAS E APLICAÇÕES EMPRESARIAIS\n3.1\tCenário Brasil\n\
+    3.2\tBenefícios do uso de jogos nas empresas\n3.3\tCasos práticos em empresas\
+    \ do mercado\n4.\tPLANEJAMENTO E DESENVOLVIMENTO DE PROJETOS\n4.1\tAtributos de\
+    \ um jogo\n4.2\tElementos e estrutura geral de um projeto e suas aplicações\n\
+    4.3 Apresentação de projetos"
+  course_name: 'EAC0581 - Jogos de Empresas II
+
+    Business Game II'
+  deactivation: ''
+  instructors: '73235 - Edgard Bruno Cornacchione Junior
+
+    65625 - Joao Domiraci Paccez
+
+    5859376 - Luciane Reginato Cornacchione'
+  lecture_credits: '2'
+  objectives: "APRESENTAÇÃO DA DISCIPLINA:\nCom base nos conhecimentos obtidos nas\
+    \ disciplinas ao longo do curso, e levando-se em conta a importância de novas\
+    \ tecnologias e ferramentas na educação e nas empresas,  objetiva-se desenvolver\
+    \ um projeto de jogo considerando as regras de negócios em uma organização.\n\
+    OBJETIVOS DE APRENDIZAGEM:\n1.\tRecuperar o caráter sistêmico da organização,\
+    \ integrando os conhecimentos adquiridos no curso;\n2.\tIncluir novos recursos\
+    \ nas preocupações gerenciais;\n3.\tDesenvolver o espírito crítico, vital na tomada\
+    \ de decisões nas empresas;\n4.\tDesenvolver a criatividade, fundamental para\
+    \ o profissional atual; e\n5.\tEstimular a transposição da aprendizagem para diferentes\
+    \ tipos de problemas profissionais."
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220120231149'
+digest: LIQPCAK4SECAZGNTBFQJWPXTBFOHU2LJ
+updated_at: '20220120231149'
+url: https://web.archive.org/web/20220120231149id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0581&codcur=12033&codhab=4
