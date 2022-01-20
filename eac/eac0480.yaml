@@ -1,0 +1,88 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: "BIBLIOGRAFIA PRINCIPAL:\nSALOTTI, Bruno Meirelles; LIMA, Gerlando\
+    \ Augusto Sampaio Franco; MURCIA, Fernando Dal-Ri; MALACRIDA, Mara Jane Contrera;\
+    \ PIMENTEL, Renê Coppe (2019). Contabilidade Financeira. 1a ed. São Paulo: Atlas.\n\
+    GELBCKE, Ernesto Rubens; SANTOS, Ariovaldo dos; IUDÍCIBUS, Sérgio de; MARTINS,\
+    \ Eliseu (2018).  Manual de Contabilidade Societária. 3a ed. São Paulo: Atlas.\n\
+    BIBLIOGRAFIA COMPLEMENTAR:\nPronunciamentos do Comitê de Pronunciamentos Contábeis\
+    \ (CPC):\n•\tPronunciamento Técnico CPC 03 – Demonstração dos Fluxos de Caixa.\n\
+    •\tPronunciamento Técnico CPC 26 – Apresentação das Demonstrações Contábeis.\n\
+    •\tPronunciamento Técnico CPC 32 - Tributos sobre o Lucro.\n•\tInterpretação Técnica\
+    \ CPC 22 – Incerteza sobre o Tratamento de Tributos sobre o Lucro.\nKIESO, Donald\
+    \ E.; WEYGANDT, Jerry J.; WARFIELD, Terry D.; (2019). Intermediate Accounting.\
+    \ 17a ed. Wiley.\nSPICELAND, J. David; NELSON, Mark W.; THOMAS, Wayne B.; (2018).\
+    \ Intermediate Accounting. 9a ed. McGraw-Hill Education."
+  course: "1.\tDEMONSTRAÇÃO DOS FLUXOS DE CAIXA (DFC)\n1.1.\tObjetivo e importância\
+    \ da DFC e sua relação com o Balanço Patrimonial e a Demonstração do Resultado\
+    \ do Exercício\n1.2.\tConceito de Caixa e Equivalentes de Caixa\n1.3.\tAnálise\
+    \ das Entradas e Saídas de Caixa a partir do Balanço Patrimonial e da Demonstração\
+    \ do Resultado do Exercício\n1.4.\tEstrutura de Apresentação da DFC e classificação\
+    \ das movimentações de caixa por atividade: atividades operacionais, atividades\
+    \ de investimento e atividades de financiamento\n1.5.\tMétodos de Elaboração da\
+    \ DFC: Direto e Indireto\n1.6.\tPontos polêmicos quanto à classificação (recebimento\
+    \ e pagamento de juros e dividendos e transações de investimento e financiamento\
+    \ que não envolvem caixa)\n1.7.\tFluxo de Caixa em Moeda Estrangeira\n2.\tTRATAMENTO\
+    \ CONTÁBIL DE TRIBUTOS SOBRE A RECEITA\n2.1.\tICMS e IPI: contabilização do crédito\
+    \ e da compensação no pagamento, em indústria e comércio\n2.2.\tPIS e COFINS:\
+    \ diferença entre regime cumulativo e não cumulativo e seus impactos na contabilização\n\
+    2.3.\tAnálise crítica da diferença de tratamento contábil adotado para o ICMS\
+    \ e IPI e o tratamento contábil adotado para o PIS e COFINS\n2.4.\tISS: contabilização\
+    \ em atividades de prestação de serviços\n3.\tTRATAMENTO CONTÁBIL DOS TRIBUTOS\
+    \ SOBRE O LUCRO\n3.1.\tPassivos e Ativos Fiscais Correntes\n3.2.\tPassivos e Ativos\
+    \ Fiscais Diferidos\n•\tDiferença Temporária Tributável\n•\tDiferença Temporária\
+    \ Dedutível\n•\tPrejuízos e Créditos Fiscais\n3.3.\tContabilização e impactos\
+    \ no Resultado e no Balanço Patrimonial\n4.\tDEMONSTRAÇÃO DO RESULTADO ABRANGENTE\
+    \ (DRA)\n4.1.\tCaracterização de resultado abrangente e seus componentes\n4.2.\t\
+    Exemplos de eventos que geram resultados abrangentes\n4.3.\tElaboração e formas\
+    \ de apresentação da DRA\n5.\tPATRIMÔNIO LÍQUIDO\n5.1.\tConceitos gerais\n5.2.\t\
+    Capital Social\n5.3.\tReservas de Capital e Reservas de Lucros\n5.4.\tAjustes\
+    \ de avaliação patrimonial\n5.5.\tAções em Tesouraria\n5.6.\tDividendos: conceito,\
+    \ critérios de cálculo e contabilização\n5.7.\tJuros sobre o Capital Próprio:\
+    \ conceito, critérios de cálculo e contabilização"
+  course_name: 'EAC0480 - Contabilidade Intermediária I
+
+    Intermediate Accounting I'
+  deactivation: ''
+  instructors: '2209375 - Bruno Meirelles Salotti
+
+    5859588 - Fernando Dal-Ri Murcia
+
+    65625 - Joao Domiraci Paccez
+
+    1364179 - Mara Jane Contrera Malacrida
+
+    8593894 - Raquel Wille Sarquis
+
+    1727872 - Tânia Regina Sordi Relvas'
+  lecture_credits: '4'
+  objectives: "APRESENTAÇÃO DA DISCIPLINA:\nA disciplina tem por objetivo abordar\
+    \ os aspectos conceituais para a elaboração da Demonstração dos Fluxos de Caixa\
+    \ e da Demonstração do Resultado Abrangente. Aborda o tratamento contábil aplicado\
+    \ aos tributos sobre a receita e tributos sobre o lucro, e analisar os componentes\
+    \ do patrimônio líquido, discutindo os aspectos legais e formais da destinação\
+    \ dos lucros.\nOBJETIVOS DE APRENDIZAGEM:\nEspera-se que, ao final da disciplina,\
+    \ os alunos estejam aptos a:\n1.\tElaborar a Demonstração dos Fluxos de Caixa,\
+    \ compreendendo sua relação com o Balanço Patrimonial e a Demonstração do Resultado\
+    \ do Exercício, e analisar o conteúdo deste relatório como fonte de informações\
+    \ para tomada de decisões.\n2.\tCompreender a natureza e contabilizar os tributos\
+    \ sobre receita, incluindo a compensação de créditos obtidos na entrada de ativos\
+    \ para a empresa.\n3.\tCompreender a natureza e contabilizar os tributos sobre\
+    \ o lucro, identificando os efeitos desses tributos no Balanço Patrimonial e na\
+    \ Demonstração do Resultado do Exercício.\n4.\tCompreender os componentes do Patrimônio\
+    \ Líquido de acordo com a legislação vigente, identificar e registrar a destinação\
+    \ do lucro, e elaborar a Demonstração do Resultado Abrangente."
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220120225441'
+digest: CABZOHQXOM6NX3IOYGOFIEZST6YZKNMC
+updated_at: '20220120225441'
+url: https://web.archive.org/web/20220120225441id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0480&codcur=12033&codhab=4
