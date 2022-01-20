@@ -1,0 +1,134 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    FREZATTI, F. Orçamento Empresarial: Planejamento e Controle Gerencial. Ed. Atlas.
+
+    GARRISON, R. H., NOREEN, E. W., & BREWER, P. C. Contabilidade Gerencial. 11. Ed.
+    LTC, São Paulo: 2006.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    ANTHONY, R. N., & GOVINDARAJAN, V. Sistemas de Controle Gerencial.
+
+    FISCHMANN, A. A. & ALMEIDA,  M., Planejamento estratégico na prática,  Atlas,
+    1990
+
+    GIACOMONI, J. Orçamento governamental: teoria – sistema – processo. São Paulo:
+    Atlas, 2018.
+
+    GITMAN, L., Administração financeira, Harper, São Paulo, 1988
+
+    KAPLAN, R. S. & NORTON, D. P.,  A estratégia em ação: Balanced Scorecard. Rio
+    de Janeiro: Campus, 1997.
+
+    MANESS, T.; HENDERSON,  J. W. Financial analysis and forecasting: a software system,  New
+    York: Prentice-Hall, 1992
+
+    MENDES. Falar em público: prazer ou ameaça?,  Rio de Janeiro, Quality, 1996
+
+    MINTZBERG, H.,  AHLSTRAND, B., LAMPEL, J., Safári de estratégia. Bookman, Porto
+    Alegre, 2000.
+
+    MOREIRA, J. C. et al, Orçamento empresarial: manual de elaboração, São Paulo,
+    Atlas, 1984
+
+    OLIVEIRA, D. P. R.  Planejamento estratégico: conceitos metodológicos e práticas,
+    4a. edição, São Paulo, Atlas, 1989
+
+    PAGNONCELLI, D.; VASCONCELLOS FILHO, P. Sucesso empresarial Planejado, Rio de
+    Janeiro, Qualitymark, 1992
+
+    SANVICENTE, A. Z.; SANTOS, C. C. Orçamento na administração de empresas: planejamento
+    e controle, São Paulo, Atlas,  1989
+
+    SOBANSKI, J. Prática de orçamento empresarial: um exercício programado, São Paulo,
+    Atlas, 1988
+
+    WELSCH. Orçamento empresarial, 4a. edição, São Paulo, Atlas, 1996'
+  course: '1. PLANEJAMENTO E CONTROLE
+
+    1.1 Visão Geral
+
+    1.2 Estruturação do Processo
+
+    2. PLANEJAMENTO ESTRATÉGICO
+
+    2.1. Visão geral
+
+    2.2. Elementos: missão, objetivos e estratégias
+
+    3. PLANEJAMENTO ORÇAMENTÁRIO
+
+    3.1 Etapas de Elaboração do Orçamento
+
+    3.2 Planos Operacionais (Marketing, PSPE, Investimentos, RH)
+
+    3.3. Planos Financeiros
+
+    4. CONTROLE ORÇAMENTÁRIO
+
+    4.1 Acompanhamento Orçamentário e Análise de Desempenho
+
+    4.2 Relacionamento entre Sistemas de Contabilidade e Orçamento
+
+    5. PLANEJAMENTO E ORÇAMENTO GOVERNAMENTAL
+
+    5.1 Instrumentos de Planejamento e Orçamento
+
+    5.2 Naturezas do Orçamento Governamental'
+  course_name: 'EAC0578 - Planejamento Estratégico e Orçamento Empresarial
+
+    Strategic Planning and Budgeting'
+  deactivation: ''
+  instructors: '3767752 - Andson Braga de Aguiar
+
+    8091887 - Daniel Magalhães Mucci
+
+    1106326 - Fabio Frezatti
+
+    5859376 - Luciane Reginato Cornacchione
+
+    3549898 - Patrícia Siqueira Varela'
+  lecture_credits: '4'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A disciplina visa propiciar aos participantes o entendimento do uso de informação
+    financeira e não financeira para planejamento e controle orçamentário, compreendendo
+    as etapas do planejamento orçamentário e elaboração do orçamento e seu uso como
+    mecanismo de controle gerencial.
+
+    Espera-se que, com isso, que os alunos percebam e valorizem o planejamento e o
+    controle financeiro ou de resultados com as funções de Administração e Contabilidade.
+    Adicionalmente, objetiva introduzir aspectos específicos do planejamento e orçamento
+    nas entidades governamentais do setor público brasileiro.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Espera-se que ao final deste curso, os estudantes possam ser capazes de:
+
+    1. Descrever e analisar as principais etapas de um processo orçamentário;
+
+    2. Compreender as principais escolhas a serem feitas no desenho de processos orçamentários;
+
+    3. Perceber as dificuldades enfrentadas no ambiente de planejamento e controle;
+
+    4. Avaliar as principais implicações comportamentais associadas ao processo orçamentário;
+    e
+
+    5. Identificar características das entidades governamentais do setor público brasileiro
+    que implicam em especificidades quanto ao planejamento e orçamento.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220120221954'
+digest: CF2HKIDT3FJJUGEVFLQEL5NUQOYNCJGV
+updated_at: '20220120221954'
+url: https://web.archive.org/web/20220120221954id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0578&codcur=12033&codhab=4
