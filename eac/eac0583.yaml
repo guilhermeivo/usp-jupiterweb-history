@@ -1,0 +1,142 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    ASSAF NETO, A. Estrutura e Análise de Balanços. 9. ed. São Paulo: Atlas, 2010.
+
+    MARTINS, E. Análise Avançada das Demonstrações Contábeis. 1. ed. São Paulo: Atlas,
+    2012.
+
+    MATARAZO, D. C. Análise Financeira de Balanços. 7. ed. São Paulo: Atlas, 2010.
+
+    PALEPU, K. G.; HEALY, P. M. Análise e Avaliação de Empresas – Decisões e Valuation
+    usando Demonstrativos Financeiros, Tradução da 5ª edição, São Paulo: Cengage Learning,
+    2016
+
+    PENMAN, S. H. Análise de Demonstrações Financeiras e Security Valuation. Tradução
+    da 4ª edição, Rio de Janeiro: Elsevier, 2013
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    GALDI, F. C. Estratégias de investimento em ações baseadas na análise de demonstrações
+    contábeis: é possível prever o sucesso? Tese [Doutorado em Controladoria e Contabilidade].
+    São Paulo – Faculdade de Economia, Administração e Contabilidade da Universidade
+    de São Paulo, 2008.
+
+    PORTER, M. E. Competitive Advantage: creating and sustaining superior performance.
+    New York: Free, 1985.
+
+    PORTER, M. E. Competitive Strategy: techniques for analyzing industries and competitors.
+    New York: Macmillan Publishing Co, 1980.'
+  course: '1. INTRODUÇÃO À ANÁLISE E AVALIAÇÃO DE EMPRESAS
+
+    1.1. Tipos de análise
+
+    1.2. Análise Fundamentalista
+
+    1.3. O papel das informações financeiras no mercado de capitais
+
+    1.4. De demonstrações contábeis à análise de negócios
+
+    2. ASPECTOS TEÓRICOS E PRÁTICOS DAS PRINCIPAIS TÉCNICAS DE ANÁLISES DE DEMONSTRAÇÕES
+    CONTÁBEIS
+
+    2.1. Análise das demonstrações (estratégica, contábil e financeira)
+
+    2.2. Análise do parecer dos auditores e relatórios da administração
+
+    2.3. Escolhas contábeis e reflexos na posição financeira e resultados
+
+    3. MODELOS PARA ANÁLISES ESTRUTURADAS
+
+    3.1. Análise tradicional
+
+    3.1.1. Análises vertical e horizontal
+
+    3.1.2. Análise por meio de índices
+
+    3.1.2.1 Liquidez, solvência e estrutura de capital
+
+    3.1.2.2 Rentabilidade, margem e giro
+
+    3.1.2.3 Atividade e prazos médios
+
+    3.1.3. Necessidade de Capital de Giro
+
+    3.1.4. Alavancagem financeira
+
+    3.1.4.1. ROE - Return of equity
+
+    3.1.4.2. ROA – Return of assets
+
+    3.1.5. Modelo Du Pont (Modelo integrado de avaliação de desempenho empresarial)
+
+    3.1.6 EVA
+
+    4. ANÁLISE PROSPECTIVA E AVALIAÇÃO
+
+    4.1. Projeções
+
+    4.2 Custo de Capital: Próprio e de Terceiros (CAPM e WACC)
+
+    4.4. Modelos de avaliação
+
+    4.4.1. Avaliação por múltiplos
+
+    4.4.2. Avaliação baseada em ativos
+
+    4.4.3. Dividendos descontados
+
+    4.4.4. Avaliação por Fluxo de Caixa Descontado
+
+    4.4.4.1 Fluxo de Caixa Livre para o Acionista
+
+    4.4.4.2 Fluxo de Caixa Livre para a Firma
+
+    4.4.4.3 Valor terminal (perpetuidade)'
+  course_name: 'EAC0583 - Análise de Demonstrações Contábeis e Avaliação de Empresas
+
+    Financial Statements Analysis and Business Valuation'
+  deactivation: ''
+  instructors: '8476037 - Eduardo da Silva Flores
+
+    5859588 - Fernando Dal-Ri Murcia
+
+    1035522 - Guillermo Oscar Braunbeck'
+  lecture_credits: '4'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA
+
+    Compreender e aplicar diversos modelos de avaliação de empresas baseados fundamentalmente
+    em informações contábeis, com base em uma metodologia integrada de análise que
+    leva em conta o ambiente e a estratégia empresarial, a análise da qualidade da
+    informação contábil produzida e a análise financeira, aplicadas às abordagens
+    de avaliação de negócios.
+
+    OBJETIVOS DE APRENDIZAGEM
+
+    Espera que ao final da disciplina os estudantes estejam aptos a:
+
+    1. Analisar e interpretar as demonstrações contábeis divulgadas pelas entidades,
+    visando extrair informações sobre desempenho e situação econômico-financeira;
+
+    2. Interpretar os indicadores econômico-financeiros de uma entidade e compará-los
+    com os de outras empresas ou setores;
+
+    3. Reconhecer diferentes modelos de avaliação de empresas e identificar suas vantagens
+    e desvantagens; e
+
+    4. Aplicar os modelos de avaliação de negócios mais comuns no mercado de capitais.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220120223904'
+digest: CREUSICLM763TWO57OFIHRQOES4RGFOJ
+updated_at: '20220120223904'
+url: https://web.archive.org/web/20220120223904id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0583&codcur=12033&codhab=4
