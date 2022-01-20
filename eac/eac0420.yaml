@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2015
+  activation: 01/01/2022
   assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
     na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
     que 5,0 (cinco) e frequência igual ou superior a 70%.
@@ -9,86 +9,130 @@ courses:
     a 5,0 (cinco).'
   bibliography: 'BIBLIOGRAFIA PRINCIPAL:
 
-    LIMA, Iran Siqueira; LIMA, Gerlando A. S. F.; PIMENTEL, Renê Coppe (Org.). Curso
-    de mercado financeiro: tópicos especiais. 2. ed. São Paulo: Atlas, 2012.
+    ASSAF NETO, A. Mercado Financeiro. São Paulo: 14a ed., Atlas, 2018
+
+    FIGUEIREDO, A. C. Introdução aos Derivativos, São Paulo, 3a. ed., Cengage Learning,
+    2015
 
     BIBLIOGRAFIA COMPLEMENTAR:
 
-    ANDREZO, Andréa Fernandes; LIMA, Iran Siqueira. Mercado financeiro: aspectos históricos
-    e conceituais. 3. ed. São Paulo: Atlas, 2007.
+    BODIE, Z.; KANE, A.; MARCUS, A. J. Investimentos. 10. ed. Porto Alegre: McGraw-Hill,
+    2015.
 
-    ASSAF NETO, Alexandre; LIMA, Fabiano Guasti. Curso de administração financeira.
-    2. ed. São Paulo: Atlas, 2011.
+    OLIVEIRA FILHO, B. G. Gestão de Fundos de Investimentos: o seu Guia Para Gestão
+    de Carteiras. 1. Ed. São Paulo: Saint Paul, 2019.
 
-    BODIE, Zvi; KANE, Alex; MARCUS, Alan J. Investments. 8. ed. Porto Alegre: McGraw-Hill,
-    2010.
+    LIMA, I. S.; LIMA, G. A. S. F.; PIMENTEL, R. C. (Org.). Curso de mercado financeiro:
+    tópicos especiais. 2. ed. São Paulo: Atlas, 2012.
 
-    GIANNETTI, Eduardo. O valor do amanhã: ensaio sobre a natureza dos juros. São
-    Paulo: Companhia das Letras, 2005.
+    TOP-CVM - Mercado de Valores Mobiliários Brasileiro;
 
-    OLIVEIRA, Virgínia; GALVÃO, Alexandre; RIBEIRO, Érico (Org.). Mercado financeiro.
-    São Paulo: Elsevier, 2006.
+    http://www.investidor.gov.br/publicacao/LivrosCVM.html#TOP
 
-    SECURATO, José Roberto (Org.). Cálculo financeiro das tesourarias: bancos e empresas.
-    4. ed. São Paulo: Saint Paul, 2008.
+    TOP-CVM - Mercado de Derivativos no Brasil: Conceitos, Produtos e Operações http://www.investidor.gov.br/publicacao/LivrosCVM.html#TOP'
+  course: '1. MERCADOS FINANCEIROS: FUNCIONAMENTO, INSTITUIÇÕES E REGULAÇÃO
 
-    SECURATO, José Roberto; SECURATO, José Cláudio (Org.). Mercado financeiro: conceitos,
-    cálculo e análise de investimento. São Paulo: Saint Paul, 2009.
+    1.1 Os papéis e funcionamento dos mercados financeiros
 
-    SILVEIRA, Alexandre Di Miceli da. Governança corporativa no Brasil e no mundo:
-    teoria e prática. 1. ed. Rio de Janeiro: Campus Elsevier, 2010.'
-  course: '1. Trocas intertemporais e os fundamentos dos mercados financeiros
+    1.2 Mercado de crédito x mercado de capitais
 
-    2. O Sistema Financeiro Nacional (SFN)
+    1.3 Estrutura e regulação do mercado financeiro
 
-    3. Mercado de ações e bolsas de valores
+    1.4 Agentes do mercado financeiro
 
-    4. Mercado de renda fixa
+    1.5 Entidades de previdência, seguros e capitalização
 
-    5. Securitização
+    2. INSTRUMENTOS DE RENDA FIXA
 
-    6. Derivativos'
+    2.1 Mercados de renda fixa: características e instituições
+
+    2.2 Mercados primário e secundário
+
+    2.3 Títulos públicos e privados
+
+    2.4 Valorização e análise de títulos
+
+    2.5 Risco de taxa de juro
+
+    2.6 Duração e prazo médio
+
+    3. INSTRUMENTOS DE RENDA VARIÁVEL
+
+    3.1 Ações e suas características
+
+    3.2 Diferença entre ações e títulos de renda fixa
+
+    3.3 Mercado de ações: características e instituições
+
+    3.4 Mercados primário e secundário
+
+    3.5 Retorno e taxa de dividendo
+
+    3.6 Operações básicas com ações
+
+    4. DERIVATIVOS
+
+    4.1 Tipos de instrumentos derivativos e suas características
+
+    4.2 Mercados e operações de contratos a termo e futuros
+
+    4.3 Mercados e operações de contratos de swaps
+
+    4.4 Mercado e operações de contratos de opção
+
+    4.5 Operações de hedge com derivativos
+
+    5. FUNDOS DE INVESTIMENTOS
+
+    5.1 Definição e tipos de fundos
+
+    5.2 Cálculo de cotas e taxa de retorno
+
+    5.3 Seleção carteiras de fundos
+
+    5.4 Desempenho de fundos'
   course_name: 'EAC0420 - Mercado Financeiro
 
     Financial Market'
   deactivation: ''
   instructors: '145440 - Alexsandro Broédel Lopes
 
-    3454235 - Francisco Henrique Figueiredo de Castro Junior
-
-    5021632 - Gerlando Augusto Sampaio Franco de Lima
+    3596283 - Joanilia Neide de Sales Cia
 
     3079831 - Lucas Ayres Barreira de Campos Barros
-
-    59962 - Luiz Nelson Guedes de Carvalho
 
     3696531 - Tatiana Albanez
 
     1967693 - Wanderlei Lima de Paulo'
   lecture_credits: '4'
-  objectives: 'A disciplina oferece uma visão descritiva, abrangente e moderna dos
-    principais temas relacionados ao mercado financeiro. Os temas estudados serão
-    tratados de maneira conceitual e espera-se que, ao final do curso, os alunos estejam
-    aptos a:
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
 
-    1. Explicar a lógica das trocas intertemporais que motivam a criação dos mercados
-    financeiros;
+    A disciplina oferece uma visão descritiva e abrangente dos principais temas relacionados
+    ao mercado financeiro, abordando aspectos teóricos e operacionais relacionados
+    aos produtos de renda variável, renda fixa, derivativos e fundos de investimentos.
 
-    2. Distinguir e descrever as principais instituições componentes do Sistema Financeiro
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Os temas estudados serão tratados de maneira conceitual e prática, espera-se que
+    ao final do curso, os alunos estejam aptos a:
+
+    1. Distinguir e descrever as principais instituições componentes do Sistema Financeiro
     Nacional;
 
-    3. Descrever o funcionamento básico das bolsas de valores;
+    2. Descrever o funcionamento básico do mercado de ações;
 
-    4. Descrever o funcionamento básico das operações de renda fixa e os mecanismos
-    de captação interna e externa;
+    3. Descrever o funcionamento básico dos produtos de renda fixa;
 
-    5. Explicar o funcionamento das operações de securitização e suas motivações;
+    4. Descrever os instrumentos derivativos e explicar sua utilidade (hedge);
 
-    6. Descrever os instrumentos derivativos básicos e explicar sua utilidade.'
+    5. Descrever o funcionamento básico do mercado de fundos de investimentos; e
+
+    6. Entender operações básicas com produtos de renda variável, renda fixa, derivativos
+    e fundos.'
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20190211014725'
-digest: ALPFBPPYONTM25EBGAKVZR4HSLWEZ5TC
-updated_at: '20190211014725'
-url: https://web.archive.org/web/20190211014725id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0420&codcur=12033&codhab=1
+created_at: '20220120235244'
+digest: LMIVS67OUXWT565UEGXD4PRYMF5BI66O
+updated_at: '20220120235244'
+url: https://web.archive.org/web/20220120235244id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0420&codcur=12033&codhab=4
