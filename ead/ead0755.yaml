@@ -1,37 +1,129 @@
 courses:
-  activation: 15/07/2017
-  assessment: "•\tAplicação de duas provas, exercícios e elaboração de trabalhos para\
-    \ execução presencial ou à distância.\n•\tO aluno será avaliado continuamente\
-    \ e, em caso de desempenho não compatível, será submetido a uma reavaliação final,\
-    \ a título de recuperação."
-  bibliography: "•\tDan Ariely\nPrevisivelmente Irracional. Editora Campus, 2008\n\
-    •\tKahneman, D.\nRápido e Devagar Duas formas de Pensar – ed. Objetiva. 2012\n\
-    •\tMlodinow, Leonard.\nSubliminar - Como o inconsciente influencia nossas vidas\
-    \ - Ed. Zahar, 2013\n•\tMoore, J.H. e Weatherford, L.R.\nTomada de Decisão em\
-    \ Administração com planilhas eletrônicas, 6ª. Edição (trad). Porto Alegre: Bookman,\
-    \ 2005.\n•\tGoodwin, P. e Wright, G.\nDecision analysis for management judgment,\
-    \ Wiley (4th Edition) 2011"
-  course: "•\tIntrodução a tomada de decisão (desafios, abordagens: descritiva e prescritiva)\n\
-    •\tEstrutura e etapas do processo decisório\n•\tDefinição do problema (framing)\n\
-    •\tGeração de alternativas\n•\tDecisões sob incerteza\n•\tDecisões com objetivos\
-    \ conflitantes (trade-offs)\n•\tDecisões sequenciais (opções reais)\n•\tJulgamento\
-    \ para tomada de decisão: processos cognitivos e vieses cognitivos\n•\tAtualização\
-    \ de informação (Teorema de Bayes)\n•\tValor de informação\n•\tProcesso de escolhas\n\
-    •\tMétodos Multicritério\n•\tProcesso Analítico Hierárquico (AHP – Analytic Herarchy\
-    \ Process)\n•\tEstudos de Caso (relação entre a tomada de decisão empresarial\
-    \ e a contabilidade)"
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    CLEMEN, R. T. Making Hard Decisions: an introduction to decision analysis. 2ª
+    edição. Duxbury, 1996.
+
+    EISENFUHR, F. et al. Rational Decision Making. Springer, 2010.
+
+    Kahneman, D. Rápido e Devagar. Duas formas de Pensar – ed. Objetiva, 2012.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    ARIELY, Dan. Predictably Irrational, Revised and Expanded Edition: The Hidden
+    Forces That Shape Our Decisions. Harper Perennial, 2010.
+
+    BAZERMAN, Max H. Processo Decisório: para cursos de Administração, Economia e
+    MBAs. Rio de Janeiro: Elsevier, 2004.
+
+    HAMMOND, J. S.; Keeney, R.L.; Raiffa, H. Armadilhas Ocultas na Tomada de Decisão.
+    Harvard Business Review. Jan. 2006.
+
+    SHEENA Iyengar: Choosing what to chose https://www.ted.com/talks/sheena_iyengar_choosing_what_to_choose
+
+    Dan Ariely: Are we in control of our own decisions? https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions
+
+    Daniel Kahneman
+
+    https://www.ted.com/talks/daniel_kahneman_the_riddle_of_experience_vs_memory
+
+    Paul Zak: Trust, morality -- and oxytocin? https://www.ted.com/talks/paul_zak_trust_morality_and_oxytocin
+
+    Alison Meyer: Listen to your heart...
+
+    https://www.youtube.com/watch?v=NR33yerZgso
+
+    Hans Rosling: How not to be ignorant about the world
+
+    https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world'
+  course: '1. RECONHECIMENTO E ESTRUTURAÇÃO DO PROBLEMA DECISÓRIO
+
+    1.1 Princípios básicos da análise da decisão
+
+    1.2 Aplicações e relevância prática da análise da decisão
+
+    1.3 Estrutura básica da decisão
+
+    1.4 Modelagem das alternativas
+
+    1.5 Modelagem dos estados da natureza
+
+    1.6 Modelagem das consequências
+
+    1.7Modelagem das preferências
+
+    2. TOMADA DE DECISÃO SOB RISCO
+
+    2.1 Revisão de probabilidade
+
+    2.2 Probabilidade objetiva e subjetiva
+
+    2.3 Quantificação da probabilidade
+
+    2.4 Teorema de Bayes
+
+    2.5 Avaliação de alternativas de risco
+
+    2.6 Teoria da utilidade
+
+    3. ASPECTOS COMPORTAMENTAIS DA TOMADA DE DECISÃO
+
+    3.1 Comportamento intuitivo não alinhado à teoria da utilidade
+
+    3.2 Vieses comportamentais'
   course_name: 'EAD0755 - Análise da Decisão
 
     Decision Analysis'
   deactivation: ''
-  instructors: 94701 - Fernando Carvalho de Almeida
+  instructors: 3532378 - Daielly Melina Nassif Mantovani
   lecture_credits: '2'
-  objectives: Entender o processo decisório e seus aspectos quantitativos e comportamentais
-    (economia comportamental). Entender a teoria da decisão (análise da decisão).
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A disciplina análise da decisão aborda a teoria prescritiva (teoria da decisão)
+    e descritiva (vieses comportamentais) de forma complementar, de forma que o aluno
+    seja capaz de delinear um problema decisório de forma racional, decompondo-o em
+    elementos fundamentais, e avaliando a melhor alternativa a ser tomada, considerando
+    possíveis influências de questões comportamentais que possam comprometer o resultado
+    da decisão.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Ao final da disciplina espera-se que o aluno seja capaz de reconhecer e estruturar
+    um problema decisório, aplicar técnicas para tomada de decisão e identificar possíveis
+    vieses comportamentais envolvidos no processo decisório, ou seja:
+
+    1. Reconhecer um problema decisório no âmbito organizacional e pessoal;
+
+    2. Compreender os elementos envolvidos no processo decisório;
+
+    3. Estruturar um problema decisório, envolvendo decisões, alternativas e estados
+    da natureza;
+
+    4. Reconhecer uma decisão a ser tomada sob certeza;
+
+    5. Reconhecer uma decisão a ser tomada sob risco;
+
+    6. Aplicar técnicas analíticas para tomada da decisão (valor esperado, teorema
+    de bayes, utilidade, dominância);
+
+    7. Reconhecer vieses comportamentais envolvidos no processo decisório;
+
+    8. Refletir sobre implicações dos vieses comportamentais no resultado da decisão;
+    e
+
+    9. Refletir sobre potenciais e limitações da teoria da decisão.'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20190211014957'
-digest: HLWELE7ZHORUTN4PTOFLMUVY55C6YTIW
-updated_at: '20190211014957'
-url: https://web.archive.org/web/20190211014957id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0755&codcur=12033&codhab=1
+created_at: '20220120224223'
+digest: 4AASNMOSQ6WYMMHYDYPM5ALI4WQBFOWN
+updated_at: '20220120224223'
+url: https://web.archive.org/web/20220120224223id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0755&codcur=12033&codhab=4
