@@ -1,0 +1,138 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'PRINCIPAL:
+
+    BRASIL. Constituição Federal.
+
+    BRASIL. Código Tributário Nacional.
+
+    BRASIL. Legislações específicas dos tributos.
+
+    CASSONE, Vittorio. Direito tributário. 18. ed. São Paulo: Atlas, 2007.
+
+    FABRETTI, Láudio Camargo; FABRETTI, Dilene Ramos. Direito tributário para os cursos
+    de Administração e Ciências Contábeis. 8. ed. São Paulo: Atlas, 2011.
+
+    MACHADO, Hugo de Brito. Curso de direito tributário. 32. ed. São Paulo: Malheiros
+    Editores, 2011.
+
+    REZENDE, Amaury José; PEREIRA, Carlos Alberto; ALENCAR, Roberta Carvalho de. Contabilidade
+    tributária: entendendo a lógica e os reflexos dos tributos no patrimônio das empresas.
+    São Paulo: Atlas, 2010.
+
+    COMPLEMENTAR:
+
+    AMED, Fernando José. NEGREIROS, Plínio José Labriola de Campos. História dos tributos
+    no Brasil. São Paulo: Edições SINAFRESP, 2000.
+
+    ANDRADE FILHO, Edmar Oliveira. Imposto de renda das empresas: CSLL, operações
+    de hedge, preço de transferência, planejamento tributário e reorganizações societárias.
+    São Paulo: Atlas, 2011.
+
+    BORGES, Humberto Bonavides. Gerência de impostos: IPI, ICMS, ISS, IR. 6. ed. São
+    Paulo: Atlas, 2007.
+
+    CAMPOS, Cândido Henrique de. Planejamento tributário. 2. ed. São Paulo: Atlas,
+    1985.
+
+    FABRETTI, Láudio Camargo. Direito tributário aplicado: impostos e contribuições
+    das empresas. 2. ed. São Paulo: Atlas, 2009.
+
+    HIGUCHI, Hiromi; HIGUCHI, Fábio. Imposto de renda das empresas 2010. 35. ed. São
+    Paulo: IR Publicações, 2010.
+
+    IUDÍCIBUS, Sérgio de; MARTINS, Eliseu; GELBCKE, Ernesto Rubens; SANTOS, Ariovaldo
+    dos. Manual de Contabilidade Societária. 1. ed., São Paulo: Atlas, 2010.
+
+    OLIVEIRA, Luís Martins & Outros. Manual de contabilidade tributária. Livro Texto
+    e Livro de Exercícios. São Paulo: Atlas, 2005.
+
+    PÊGAS, Paulo Henrique. Manual de contabilidade tributária. 6. ed. Rio de Janeiro:
+    Freitas Bastos, 2009.
+
+    SHINGAKI, Mário. Gestão de impostos: para pessoas físicas e jurídicas. 6. ed São
+    Paulo: Saint Paul, 2008.
+
+    TORRES, Ricardo Lobo. Planejamento tributário: elisão abusiva e evasão fiscal.
+    Rio de Janeiro: Elsevier, 2012.'
+  course: '1. Aspectos introdutórios
+
+    1.1 Conceito de planejamento tributário
+
+    1.2 Carga tributária
+
+    1.3 Elisão x evasão fiscal
+
+    1.4 História dos tributos no Brasil
+
+    2. Noções gerais de Direito Tributário
+
+    2.1 Atividade financeira do Estado
+
+    2.2 Sistema Tributário Nacional
+
+    2.3 Fontes do direito
+
+    2.4 Vigência, aplicação, interpretação e integração da legislação tributária
+
+    2.5 Princípios constitucionais tributários
+
+    2.6 Administração tributária
+
+    2.7 Processo judicial tributário
+
+    3. Obrigação tributária
+
+    3.1 Conceito
+
+    3.2 Elementos da obrigação tributária
+
+    3.3 Sujeitos da obrigação tributária
+
+    3.4 Crédito tributário
+
+    3.5 Tipos de lançamento
+
+    3.6 Suspensão, extinção e exclusão do crédito tributário
+
+    3.7 Obrigações tributárias não pecuniárias
+
+    3.8 Conceito de tributo e suas classificações quanto à espécie, função e relação
+    com o patrimônio e a renda das pessoas
+
+    4. Visão geral dos principais tributos
+
+    4,1 Tributos federais
+
+    4.2 Tributos estaduais
+
+    4.3 Tributos municipais'
+  course_name: 'EAC0306 - Contabilidade e Legislação Tributária
+
+    Accounting and Tax Legislation'
+  deactivation: ''
+  instructors: '145440 - Alexsandro Broédel Lopes
+
+    214113 - Carlos Alberto Pereira
+
+    3330157 - Gustavo Gonçalves Vettori
+
+    47785 - Massanori Monobe'
+  lecture_credits: '4'
+  objectives: Propiciar conhecimentos fundamentais sobre a estrutura e o funcionamento
+    do sistema tributário nacional e uma visão geral dos principais tributos Federais,
+    Estaduais e Municipais.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220120235430'
+digest: 3E27YHEAFMFJLHMXOA57KV3QUD6ORDTW
+updated_at: '20220120235430'
+url: https://web.archive.org/web/20220120235430id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0306&codcur=12033&codhab=4
