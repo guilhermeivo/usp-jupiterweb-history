@@ -1,0 +1,88 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: A bibliografia será definida a cada edição da disciplina com base
+    na eleição pela(o) docente dos temas contemporâneos que serão abordados, que dada
+    a natureza da disciplina, são mutáveis.
+  course: '1. PESQUISA ACADÊMICA EM AUDITORIA
+
+    1.1 Principais pesquisas recentes em auditoria
+
+    1.2 Principais limitações e questões não abordadas pela pesquisa atual
+
+    1.3 Possíveis direções e cenários futuros para a pesquisa científica em auditoria
+
+    2.PAPEL E RESPONSABILIDADES DOS AUDITORES
+
+    2.1 Tendências recentes de ampliação ou modificação do papel da auditoria
+
+    2.2 Regulação atual e possíveis direções
+
+    3. FERRAMENTAS DE AUDITORIA
+
+    3.1 Novas Tecnologias utilizadas no processo de auditoria
+
+    3.2 Novas Fontes de Evidências de Auditoria
+
+    3.3 Tendências tecnológicas e metodológicas no processo de auditoria
+
+    3.4. Cenários futuros possíveis
+
+    4. QUESTÕES CONTEMPORÂNEAS
+
+    4.1 Big Data, Data Analytics, Machine Learning, Inteligência Artificial
+
+    4.2 A fraude no trabalho do auditor e o trabalho forense
+
+    4.3 Cybersecurity
+
+    4.4. Criptomoedas
+
+    4.5 Transformação digital'
+  course_name: 'EAC0131 - Tópicos Contemporâneos de Auditoria
+
+    Contemporary Topics in Auditing'
+  deactivation: ''
+  instructors: '1035522 - Guillermo Oscar Braunbeck
+
+    822081 - Jeronimo Antunes
+
+    990725 - Joshua Onome Imoniana'
+  lecture_credits: '2'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    Esta disciplina tem como propósito apresentar temas relevantes e contemporâneos
+    da teoria e prática da auditoria para estudantes interessados em buscar aprofundar
+    seus conhecimentos nessa área da contabilidade com assuntos, discussões e desafios
+    contemporâneos da auditoria.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    A disciplina tem como objetivo propiciar por meio de um conteúdo contemporâneo
+    e de abordagens modernas e atualizadas, abordar questões, discussões e aspectos
+    contemporâneos da prática da auditoria no Brasil e no mundo. Os temas serão abordados
+    considerando tanto sua dimensão conceitual quanto prática. Nesse contexto, espera-se
+    que, ao final da disciplina, os alunos estejam aptos a:
+
+    1. Identificar questões relevantes no âmbito da prática da auditoria
+
+    2. Compreender as principais motivações das questões abordadas
+
+    3. Projetar as principais repercussões que se pode esperar na prática da auditoria
+    decorrentes das questões abordadas
+
+    4. Analisar os impactos das questões discutidas sobre as diferentes partes interessadas
+    nos processos de auditoria'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220120223708'
+digest: RKRKBNNV66SDOTATHAU42YQB5IBWNCE7
+updated_at: '20220120223708'
+url: https://web.archive.org/web/20220120223708id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0131&codcur=12033&codhab=4
