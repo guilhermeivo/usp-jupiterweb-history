@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2018
+  activation: 01/01/2022
   assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
     na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
     que 5,0 (cinco) e frequência igual ou superior a 70%.
@@ -7,22 +7,39 @@ courses:
     b) A média para aprovação com reavaliação será obtida por meio da média aritmética
     simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
     a 5,0 (cinco).'
-  bibliography: 'BIBLIOGRAFIA BÁSICA:
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
 
-    Campos, A. M. (1990, fevereiro/abril) Accountability: quando poderemos traduzi-la
-    para o português? In: Revista da Administração Pública. Rio de Janeiro, RJ: FGV.
+    Bresser-Pereira, L. C. (1996). Da administração pública burocrática à gerencial.
+    Revista do Serviço Público, 47(1).
 
-    Gespublica. Guia referencial para medição de desempenho e manual para construção
-    de indicadores. Recuperado de: http://www.gespublica.gov.br/content/guia-referencial-para-medi%C3%A7%C3%A3o-de-desempenho-e-manual-para-constru%C3%A7%C3%A3o-de-indicadores.
-    Acesso em: 25/05/2017.
+    Campos, A. M. (1990). Accountability: quando poderemos traduzi-la para o português?
+    Revista da Administração Pública, 24(2).
 
-    Giacomoni, J. (2017). Orçamento público. (17a ed.). São Paulo, SP: Atlas.
+    Conselho Federal de Contabilidade. (2016). NBC TSP Estrutura Conceitual – Estrutura
+    Conceitual para Elaboração e Divulgação de Informação Contábil de Propósito Geral
+    pelas Entidades do Setor Público. Recuperado de http://www1.cfc.org.br/sisweb/SRE/docs/NBCTSPEC.pdf
 
-    Levy, E., & DRAGO, P. A. (Orgs.). (2005). Gestão Pública no Brasil Contemporâneo.
-    São Paulo, SP: Fundap.
+    Gespublica (2009). Guia referencial para medição de desempenho e manual para construção
+    de indicadores. Recuperado de http://www.gespublica.gov.br/content/guia-referencial-para-medi%C3%A7%C3%A3o-de-desempenho-e-manual-para-constru%C3%A7%C3%A3o-de-indicadores.
 
-    O’Donnell, G. (1998, n.44, p.27–54). Accountability horizontal e novas poliarquias.
-    In: Revista Lua Nova. São Paulo, SP.
+    Giacomoni, J. (2019). Orçamento governamental: teoria – sistema - processo . São
+    Paulo, SP: Atlas.
+
+    Giacomoni, J. (2017). Orçamento público (17a ed.). São Paulo, SP: Atlas.
+
+    O’Donnell, G. (1998). Accountability horizontal e novas poliarquias. Revista Lua
+    Nova, (44), 27–54
+
+    Oliveira, V. C. S. (2013). Modelos de administração pública. In M. T. Sanabio,
+    G. J. Santos, & M. V. David (Eds.), Administração pública contemporânea: Política,
+    democracia e gestão (pp. 13–34). Juiz de Fora: UFJF.
+
+    Peres, L. N. (2017). Novo olhar sobre a qualidade da informação contábil: a ótica
+    dos observatórios sociais (Dissertação de Mestrado). Faculdade de Economia, Administração
+    e Contabilidade, Universidade de São Paulo, São Paulo. Recuperado de http://www.teses.usp.br/teses/disponiveis/12/12136/tde-11072017-152619/
+
+    Zuccolotto & Teixeira. (2015). Transparência: reposicionando o debate. Revista
+    de Contabilidade Contemporânea, 12(25), 137-158.
 
     BIBLIOGRAFIA COMPLEMENTAR:
 
@@ -37,52 +54,52 @@ courses:
     Bobbio, N. (1987) Estado, governo, sociedade: por uma teoria geral da política.
     (M. A. Nogueira Trad.). Rio de Janeiro, RJ: Editora Paz e Terra.
 
-    Brasil. (1988). Constituição da República Federativa do Brasil. Recuperado de:
-    http://www.senado.gov.br. Acesso em: 21/05/2017.
+    Brasil. (1988). Constituição da República Federativa do Brasil de 1988. Recuperado
+    de http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm.
 
-    Brasil. Decreto-lei nº 200 de 25 de fevereiro de 1967. Recuperado de: < http://www.planalto.gov.br/ccivil_03/decreto-lei/Del0200.htm>.
-    Acesso em: 25/05/2017.
+    Brasil. (1967). Decreto-lei nº 200, de 25 de fevereiro de 1967. Recuperado de
+    http://www.planalto.gov.br/ccivil_03/decreto-lei/Del0200.htm.
 
-    Brasil. Lei Complementar nº 101 de 4 de maio de 2000. Recuperado de: http://www.senado.gov.br.
-    Acesso em: 21/05/2017.
+    Brasil. (2000). Lei Complementar nº 101, de 4 de maio de 2000. Recuperado de http://www.planalto.gov.br/ccivil_03/leis/LCP/Lcp101.htm.
 
-    Brasil. Lei nº 4.320 de 17 de março de 1964. Recuperado de: http://www.senado.gov.br.
-    Acesso em: 21/05/2017.
+    Brasil. (1964). Lei nº 4.320, de 17 de março de 1964. Recuperado de http://www.planalto.gov.br/ccivil_03/leis/L4320.htm.
 
-    Brasil. Lei nº 12.527, de 18 de novembro de 2011. Recuperado de:
-
-    . Acesso em: 21/05/2017.
-
-    Bresser-Pereira, L. C. (1996, vol. 120, n. 1). Da administração pública burocrática
-    à gerencial. In: Revista Do Serviço Público. Recuperado de file:///C:/Users/Usuario/Downloads/Pereira_1996_Da-administracao-publica-buroc_36028.pdf
+    Brasil. (2011). Lei nº 12.527, de 18 de novembro de 2011. Recuperado de http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm.
 
     Bresser-Pereira, L. C. (2011). Reforma do Estado para a cidadania: a reforma gerencial
-    na perspectiva internacional. (2a ed.). São Paulo, SP: Editora 34.
+    na perspectiva internacional (2a ed.). São Paulo, SP: Editora 34.
 
-    Coelho, M. C., Cruz, F., & Platt Neto, O. A. (2011, n. 22/23, pp. 163-184). A
-    informação contábil como ferramenta de auxílio no exercício do controle social.
-    In: Revista Contabilidade Vista & Revista. Recuperado de http://revistas.face.ufmg.br/index.php/contabilidadevistaerevista/article/view/700.
+    Coelho, M. C., Cruz, F., & Platt Neto, O. A. (2011). A informação contábil como
+    ferramenta de auxílio no exercício do controle social. Revista Contabilidade Vista
+    & Revista, 22(3), 163-184
 
-    Cohen, E., & Franco, R. (2004) Avaliação de projetos sociais. (6a ed.). Petrópolis,
+    Cohen, E., & Franco, R. (2004). Avaliação de projetos sociais (6a ed.). Petrópolis,
     RG: Vozes.
 
-    Core, F. G. (2005, v. 23, n. 47, pp. 49-70, setembro/dezembro). Reforma orçamentárias
-    no Brasil: uma trajetória de tradição e formalismo na alocação de recursos. In:
-    Revista ABOP.
+    Core, F. G. (2005). Reforma orçamentárias no Brasil: uma trajetória de tradição
+    e formalismo na alocação de recursos. Revista ABOP, 23(47), pp. 49-70.
 
-    Costa, F. L. (2008, v.42, n.5). Brasil: 200 anos de Estado, 200 anos de administração
-    pública, 200 anos de reformas. In: Revista de Administração Pública.
+    Costa, F. L. (2008). Brasil: 200 anos de Estado, 200 anos de administração pública,
+    200 anos de reformas. Revista de Administração Pública, 42(5), 829-874.
 
-    Filippim, E. S., Rossetto, A. M., & Rossetto, C. R. (2010, n. 8(4), pp. 734-752).
-    Abordagens da administração pública e sua relação com o desenvolvimento em um
-    contexto regional: o caso do Meio Oeste Catarinense. Cadernos EBAPE.BR. DOI: 10.1590/S1679-39512010000400011
+    Denhardt, R. B. (2013). Teorias da administração pública. (F. G. Heidemann, Trans.)
+    (1a Reimpre). São Paulo: Cengage Learning.
 
-    Garcia, R. C. (2000) A reorganização do processo de planejamento do governo federal:
-    o PPA 2000-2003. Brasília, DF.
+    Denhardt, R. B., & Denhardt, J. V. (2000). The New Public Service: Serving rather
+    than steering. Public Administration Review, 60(6), 549–559.
 
-    Gespublica. Mapeamento bibliográfico e do estado da arte sobre indicadores de
-    gestão. Recuperado de: http://www.gespublica.gov.br/content/mapeamento-bibliogr%C3%A1fico-sobre-o-estado-da-arte-sobre-indicadores-de-gest%C3%A3o.
-    Acesso em: 25/05/2017.
+    Denhardt, J. V, & Denhardt, R. B. (2007). The New Public Service: Serving not
+    steering (Expanded). New York: M.E. Sharpe.
+
+    Denhardt, J. V, & Denhardt, R. B. (2015). The New Public Service revisited. Public
+    Administration Review, 75(5), 664–672. doi: 10.1111/puar.12347
+
+    Filippim, E. S., Rossetto, A. M., & Rossetto, C. R. (2010). Abordagens da administração
+    pública e sua relação com o desenvolvimento em um contexto regional: o caso do
+    Meio Oeste Catarinense. Cadernos EBAPE.BR, 8(4), 734-752.
+
+    Gespublica. (2009). Mapeamento bibliográfico e do estado da arte sobre indicadores
+    de gestão. Recuperado de http://www.gespublica.gov.br/content/mapeamento-bibliogr%C3%A1fico-sobre-o-estado-da-arte-sobre-indicadores-de-gest%C3%A3o.
 
     Giacomoni, J., & Pagnussat, J. L. (Coords.). (2006, vols. 1 e 2). Planejamento
     e Orçamento Governamental. Brasília, DF: Enap.
@@ -90,139 +107,122 @@ courses:
     Jannuzzi, P. de M. (2001). Indicadores sociais no Brasil: conceitos, fontes de
     dados e aplicações. São Paulo, SP: Alínea, 2001.
 
+    Levy, E., & DRAGO, P. A. (Orgs.). (2005). Gestão Pública no Brasil Contemporâneo.
+    São Paulo, SP: Fundap.
+
     Lima, S. C., & DINIZ, J. A. (2016). Contabilidade pública: análise financeira
     governamental. São Paulo, SP: Atlas.
 
-    Lindberg, S. I. (2013, n. 79(2), pp. 202-226). Mapping accountability: core concept
-    and subtypes. In: International Review of Administrative Science. DOI: http://doi.org/10.1177/0020852313477761
+    Lindberg, S. I. (2013). Mapping accountability: core concept and subtypes. International
+    Review of Administrative Science, 79(2), 202-226.
 
-    Machado Jr., J. T. (2012, v. 46, n. 4, pp. 1157-1175). A experiência brasileira
-    em orçamento-programa: uma primeira visão. In: Revista de Administração Pública.
+    Machado Jr., J. T. (2012). A experiência brasileira em orçamento-programa: uma
+    primeira visão. Revista de Administração Pública, 46(4), 1157-1175.
 
-    Medeiros, A. K. de, Crantschaninov, T. I., & Silva, F. C. da. (2013, vol. 47,
-    n. 3, pp. 745-775). Estudos sobre accountability no Brasil: meta-análise de periódicos
-    brasileiros das áreas de administração, administração pública, ciência política
-    e ciências sociais. In: Revista de Administração Pública. DOI: http://doi.org/10.1590/S0034-76122013000300010
+    Medeiros, A. K. de, Crantschaninov, T. I., & Silva, F. C. da. (2013). Estudos
+    sobre accountability no Brasil: meta-análise de periódicos brasileiros das áreas
+    de administração, administração pública, ciência política e ciências sociais.
+    Revista de Administração Pública, 47(3), 745-775.
 
-    Paula, A. P. P. de.  (2005). Por uma nova gestão pública: limites e potencialidades
+    Paula, A. P. P. de. (2005). Por uma nova gestão pública: limites e potencialidades
     da experiência contemporânea. Rio de Janeiro, RJ: Editora FGV.
 
-    Pereira, C., & Mueller, B. (2002, vol. 45, n. 2, pp. 265-301). Comportamento estratégico
-    em presidencialismo de coalizão: as relações entre executivo e legislativo na
-    elaboração do orçamento brasileiro. In: Revista de Ciências Sociais. Rio de Janeiro,
-    RJ.
+    Pereira, C., & Mueller, B. (2002). Comportamento estratégico em presidencialismo
+    de coalizão: as relações entre executivo e legislativo na elaboração do orçamento
+    brasileiro. Revista de Ciências Sociais, 45(2), 265-301.
 
-    Pinho, J. A. G. de, & Sacramento, A. R. S. (2009, vol. 43, n. 6, pp. 1343–1368.).
-    Accountability: já podemos traduzi-la para o português? In: Revista de Administração
-    Pública. DOI:10.1590/S0034-76122009000600006
+    Pinho, J. A. G. de, & Sacramento, A. R. S. (2009). Accountability: já podemos
+    traduzi-la para o português? Revista de Administração Pública, 43(6), 1343–1368.
 
-    Rausch, R., & Soares, M. (2010, vol. 4, n. 3, pp. 23-43). Controle social na administração
-    pública: a importância da transparência das contas públicas para inibir a corrupção.
-    Revista de educação e Pesquisa em Contabilidade. Retirado de: http://www.repec.org.br/index.php/repec/article/view/250
+    Rausch, R., & Soares, M. (2010). Controle social na administração pública: a importância
+    da transparência das contas públicas para inibir a corrupção. Revista de educação
+    e Pesquisa em Contabilidade, 4(3), 23-43.
 
     Ribeiro, R. J. B., & Bliacherine, A. C. (2013). Construindo o Planejamento Público.
     São Paulo, SP: Atlas.
 
-    Secchi, L. (2014) Políticas públicas: conceitos, esquemas de análise, casos práticos.
-    2. ed. São Paulo, SP: CENGAGE Learning.
+    Rocha, A. C. (2011). Accountability na administração pública: Modelos teóricos
+    e abordagens. Contabilidade, Gestão e Governança, 14(2), 82–97.
+
+    Secchi, L. (2014) Políticas públicas: conceitos, esquemas de análise, casos práticos
+    (2. ed). São Paulo, SP: CENGAGE Learning.
 
     Schedler, A. (1999). Conceptualizing accountability. In A. Schedler, L. Diamond,
     & M. F. Plattner (Eds.), The self-restraining state: Power and accountability
     in new democracies (pp. 13–28). Boulder: Lynne Rienner Publishers.
 
-    Secretaria do Tesouro Nacional (2016). Manual de Contabilidade Aplicada ao Setor
-    Público. (7a ed.). Brasília, DF: STN.
+    Secretaria do Tesouro Nacional (2018). Manual de Contabilidade Aplicada ao Setor
+    Público. (8a ed.). Brasília, DF: STN.
 
-    Secretaria do Tesouro Nacional (2016). Manual de Demonstrativos Fiscais. (7a ed.).
+    Secretaria do Tesouro Nacional (2018). Manual de Demonstrativos Fiscais. (9a ed.).
     Brasília, DF: STN.
 
-    Souza, A. R. (2004, v. 55, n. 4, outubro/dezembro). As trajetórias do planejamento
-    governamental no Brasil: meio século de experiências na administração pública.
-    In: Revista do Setor Público
+    Schommer, P. C., & Moraes, R. L. (2010). Observatórios sociais como promotores
+    de controle social e accountability: reflexões a partir da experiência do Observatório
+    Social de Itajaí. Gestão. Org Revista Eletrônica de Gestão Organizacional, 8(3),
+    298–326.
 
-    Zuccolotto & Teixeira (2015, v. 12, n. 25, pp. 137-158, janeiro/abril). Transparência:
-    reposicionando o debate. In: Revista de Contabilidade Contemporânea. Florianópolis:
-    UFSC'
-  course: '1. Dicotomia Público/Privado
-
-    1.1. Setor Público e Setor Privado
-
-    1.2. Público e Privado na Gestão Pública
-
-    1.3. Relações entre os Três Setores (primeiro, segundo e terceiro setor)
-
-    2. Estado e Gestão Pública
-
-    2.1. Funções do Estado
-
-    2.1. Histórico e Modelos de Administração Pública no Contexto Brasileiro
-
-    2.2. Organização Político-Administrativa Brasileira
-
-    3. Sistema de Planejamento e Orçamento Brasileiro
-
-    3.1. Plano Plurianual
-
-    3.2. Lei de Diretrizes Orçamentárias
-
-    3.3. Lei Orçamentária Anual
-
-    4. Orçamento Público
-
-    4.1. Princípios Orçamentários
-
-    4.2. Concepções de Orçamento
-
-    4.3. Créditos Orçamentários e Adicionais
-
-    4.3. Receitas e Despesas Orçamentárias
-
-    5. Informações Financeiras
-
-    5.1. Informações Contábeis de Propósito Geral
-
-    5.2. Relatórios de Gestão Fiscal
-
-    6. Indicadores, Metas e Avaliação
-
-    6.1. Monitoramento e Avaliação
-
-    6.2. Dimensões de Monitoramento e Avaliação
-
-    6.3. Indicadores: Conceitos, Atributos e Propriedades
-
-    7. Accountability e Transparência
-
-    7.1. Conceitos
-
-    7.2. Tipos de Accountability
-
-    7.3. Transparência Ativa e Passiva'
+    Souza, A. R. (2004). As trajetórias do planejamento governamental no Brasil: meio
+    século de experiências na administração pública. Revista do Setor Público, 55(4).'
+  course: "1.\tESTADO E GESTÃO PÚBLICA\n1.1. Funções do Estado\n1.2. Modelos de Administração\
+    \ Pública no Contexto Brasileiro\n1.3. Organização Político-Administrativa Brasileira\n\
+    2.\tDICOTOMIA PÚBLICO/PRIVADO\n2.1. Setor Público e Setor Privado\n2.2. Público\
+    \ e Privado na Gestão Pública\n2.3. Relações entre os Três Setores (Primeiro,\
+    \ Segundo e Terceiro Setor)\n3.\tACCOUNTABILITY E TRANSPARÊNCIA\n3.1. Conceitos\n\
+    3.2. Tipos de Accountability\n3.3. Transparência Ativa e Passiva\n4.\tPROCESSO\
+    \ DE PLANEJAMENTO E ORÇAMENTO BRASILEIRO\n4.1. Plano Plurianual\n4.2. Lei de Diretrizes\
+    \ Orçamentárias\n4.3. Lei Orçamentária Anual\n5.\tORÇAMENTO PÚBLICO\n5.1. Princípios\
+    \ Orçamentários\n5.2. Concepções de Orçamento\n5.3. Créditos Orçamentários e Adicionais\n\
+    5.4. Receitas e Despesas Orçamentárias\n6.\tINFORMAÇÕES FINANCEIRAS\n6.1. Informações\
+    \ Contábeis de Propósito Geral\n6.2. Relatórios Fiscais\n7.\t INDICADORES, METAS\
+    \ E AVALIAÇÃO\n7.1. Monitoramento e Avaliação\n7.2. Dimensões de Monitoramento\
+    \ e Avaliação\n7.3. Indicadores: Conceitos, Atributos e Propriedades"
   course_name: 'EAC0577 - Planejamento, Orçamento e Controle Social na Gestão Pública
 
     Planning, Budget and Social Control in Public Management'
   deactivation: ''
   instructors: 3549898 - Patrícia Siqueira Varela
   lecture_credits: '4'
-  objectives: 'O objetivo central desta disciplina é propiciar aos participantes instrumentais
-    conceituais e técnicos sobre o processo de planejamento e orçamento e execução
-    orçamentária necessários à accountability e, consequentemente, ao controle social
-    no contexto da gestão pública brasileira.
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
 
-    Os instrumentos de planejamento e orçamento, bem como a gestão de sua execução,
-    são elementos centrais na consecução dos objetivos da gestão pública, assim como
-    para a prestação de contas e responsabilização (accountability) dos gestores públicos
-    e, consequentemente, para o controle social. Neste sentido, um dos grandes desafios
-    que se apresenta é como relacionar informações financeiras – orçamentárias ou
-    não – e não financeiras para subsidiar as análises e julgamentos por diferentes
-    usuários, inclusive os cidadãos, no exercício do controle social. Portanto, a
-    relevância desta disciplina está em preparar os participantes para analisar criticamente
-    as informações financeiras ou não financeiras decorrentes ou relacionadas à gestão
-    orçamentária e financeira das entidades da gestão pública brasileira.'
+    O Plano Plurianual, a Lei de Diretrizes Orçamentárias e a Lei Orçamentária Anual,
+    bem como a gestão de sua execução, são elementos centrais na consecução dos objetivos
+    da gestão pública, assim como para a prestação de contas e responsabilização (accountability)
+    dos gestores públicos e, consequentemente, para o controle social. Nesse sentido,
+    um dos grandes desafios que se apresenta é como relacionar informações financeiras
+    – orçamentárias ou não – e não financeiras para subsidiar as análises e julgamentos
+    por diferentes usuários, inclusive os cidadãos, no exercício do controle social.
+    Assim, esta disciplina, concebida no âmbito do Centro de Estudos em Contabilidade
+    e Governo (ContGov), busca propiciar aos participantes instrumentais conceituais
+    e técnicos sobre o processo de planejamento e orçamento e a administração financeira
+    e orçamentária necessários à accountability, bem como o suporte para o desenvolvimento
+    de soluções/tecnologias para o exercício do controle social.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Espera-se que, ao final da disciplina, os participantes estejam aptos a:
+
+    1. Identificar características das entidades do setor público e das transações
+    e eventos que a elas são típicos e que implicam em desafios quanto ao planejamento
+    e orçamento, à gestão orçamentária e financeira e ao controle social.
+
+    2. Identificar e caracterizar lacunas quanto ao exercício do controle social na
+    gestão pública que envolvam aspectos orçamentários e financeiros.
+
+    3. Analisar dados financeiros e não financeiros referentes ao planejamento e orçamento
+    e à sua execução para fins de proposição de soluções/tecnologias para o controle
+    social.
+
+    2. Aplicar princípios, fundamentos, conceitos e definições da literatura sobre
+    planejamento, orçamento e gestão orçamentária e financeira na proposição de soluções/tecnologias
+    para o controle social.
+
+    4. Elaborar um modelo conceitual de solução/tecnologia para o controle social
+    que envolvam aspectos orçamentários e financeiros.'
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20190821005338'
-digest: Y6WOA64AN7YTPYU3DLCFBCGPEA73C76I
-updated_at: '20190821005338'
-url: https://web.archive.org/web/20190821005338id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0577&codcur=12033&codhab=1
+created_at: '20220120224107'
+digest: YBN6YBRB2ZLMFH2QXNTH4BRNBXX2OO4K
+updated_at: '20220120224107'
+url: https://web.archive.org/web/20220120224107id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0577&codcur=12033&codhab=4
