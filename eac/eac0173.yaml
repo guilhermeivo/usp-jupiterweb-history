@@ -1,0 +1,127 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'Re-assessment: According to USP regulations, students above a minimum
+    value of three (3) and bellow a value of five (5) will be offered a chance to
+    take a re-assessment, in case they have reached the required minimum attendance
+    level. The final grade will be calculated by the average between the first grade
+    and re-assessment grade. To pass the course, student must have a minimum value
+    of 5 (five) in the final grade after the re-assessment.'
+  bibliography: 'MAIN BIBLIOGRAPHY:
+
+    Bailey, T. (2005). An introduction to C programming language and software design.
+    U of Utah. Retrieved from http://www.eng.utah.edu/~bigham/ctext.pdf
+
+    Borges, L. E. (2010). Python para desenvolvedores (2 ed.). Rio de Janeiro: Edição
+    do autor.
+
+    Ford, P. (2015). What is code? Bloomberg (June 11, 2015). Retrived from http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code
+
+    Kernighan, B. W. & Ritchie, D. M. (1988). The C programming language, 2nd ed.
+    New Jersey/NY: Prentice Hall.
+
+    Meyer, C. (2015). Should accounting students learn to code? Retrieved from https://www.aicpa.org/interestareas/accountingeducation/newsandpublications/pages/should-accounting-students-code.aspx.
+
+    Swaroop, C. H. (2016). A byte of Python. Retrieved from http://swaroopch.com/notes/python.
+
+    COMPLEMENTARY BIBLIOGRAPHY:
+
+    Downey, A. (2012). Think Python: How to think like a computer scientist. Needham,
+    MA: Green Tea Press. Retrieved from http://greenteapress.com/thinkpython/thinkpython.pdf
+
+    Matthes, E. (2012). Introduction to Python. Retrieved from http://www.introtopython.org.
+
+    McKinney, W. (2016). Pandas: Powerful Python data analysis toolkit. Retrieved
+    from http://pandas.pydata.org/pandas-docs/stable/pandas.pdf.
+
+    McMillan, S. (?). C language tutorial. Drexel U. Retrieved from http://www.physics.drexel.edu/students/courses/Comp_Phys/General/C_basics/
+
+    Meyers, C. (2015). SQL introduction for Python programmers. Retrieved from http://www.openbookproject.net/py4fun/sql/sql.html.
+
+    Reitz, K. (2016). Python guide documentation. Retrieved from https://media.readthedocs.org/pdf/python-docs/latest/python-docs.pdf.
+
+    Rossum, G. (2016). Python tutorial (release 2.7.11). Python Software Foundation.
+    Retrieved from https://docs.python.org/2/tutorial.
+
+    Varoquaux, G., Gouillart, E., and Vahtras, O. (2015). Scipy lecture notes. Retrieved
+    from http://www.scipy-lectures.org/_downloads/ScipyLectures.pdf'
+  course: "1. INTRODUCTION TO PROGRAMING IN BUSINESS ORGANIZATIONS\n1.1.\tKnowledge\
+    \ economy, decision challenges, relevance of coding, job postings, future of business.\n\
+    1.2.\tProblem-solving, structured/unstructured decisions, data, and analytics.\n\
+    2. C, PYTHON AND THE OPERATIONAL ENVIRONMENT\n2.1. Logic, computer languages,\
+    \ evolution, purpose, compilers, and interpreters.\n2.2. C, Python.\n2.3. PyCharm.\n\
+    2.4. Pytonista.\n2.5. Trinket.io.\n2.6. TutorialsPoint.com/CodingGround.\n3. VARIABLES,\
+    \ DATA TYPES, ARRAYS, OPERATORS, AND EXPRESSIONS\n3.1. Constants, variables, data\
+    \ types.\n3.2. Declarations.\n3.3. Create and manipulate.\n3.4. Operators and\
+    \ expressions.\n3.5. Arrays and operations.\n3.6. Protocol for variable names.\n\
+    4. PROGRAMS AND FILES\n4.1. Text editors and GUI programming environments.\n4.2.\
+    \ Input/output control.\n4.3. Persistent data.\n4.4. Managing files (OS).\n5.\
+    \ FLOW CONTROL\n5.1. If / Elif / Else statement.\n5.2. Switch.\n5.3. Examples.\n\
+    6. LOOP CONTROL\n6.1. For / Else statement.\n6.2. While / Else statement.\n6.3.\
+    \ Infinite Loop.\n6.4. Break/Continue.\n6.5. Examples.\n7. FUNCTIONS, PARAMETERS\
+    \ AND RETURN VALUES\n7.1. Logic, optimization, clarity, and performance.\n7.2.\
+    \ Reuse.\n7.3. Local / Global scope.\n8. CLASSES, OBJECTS, ATTRIBUTES AND METHODS\n\
+    8.1. Definition, uses, implementation, and examples.\n9. LIBRARIES, MODULES AND\
+    \ PACKAGES\n9.1. Concept.\n9.2. Flexible and extensible attributes of Python.\n\
+    9.3. Import Statement.\n9.4. Python Library Reference.\n9.5. Date / Time.\n9.6.\
+    \ Random.\n9.7. Financial examples (Numpy).\n10. STATISTICS AND GRAPHICAL REPRESENTATIONS\n\
+    10.1. Statistics examples (Scipy)\n10.2. Graphical examples (Matplotlib)\n11.\
+    \ DATABASES AND QUERIES\n11.1. Databases, tables, views, procedures.\n11.2. Normalization.\
+    \ SQL statements.\n11.3. NoSQL paradigm, JSON.\n11.4. Multiple access control.\n\
+    11.5. Connections, Client/Server.\n11.6. Pandas, SQLite3, MYSQL.\n12. OPTIMIZATION\
+    \ WITH EXTENSIONS AND COMPILERS\n12.1. py2app, py2exe, pyInstaller.\n12.2. Cython.\n\
+    12.3. GCC."
+  course_name: EAC0173 - Logic and Programming in Business
+  deactivation: ''
+  instructors: 73235 - Edgard Bruno Cornacchione Junior
+  lecture_credits: '2'
+  objectives: 'Course Brief
+
+    In a world of ever increasing data and information overload, organizations cannot
+    afford to bypass strong and legitimate computational solutions to boost quality
+    decision-making. Big data, business analytics, data mining, cloud services, distributed
+    processing, or business intelligence are just examples of current topics. The
+    interface between technical computing and business acumen has long been object
+    of study, with both extremes yielding sound payoffs. However, greater payoff tends
+    to be achieved with a blended approach (usually as a result of well-formed teams).
+    In order to perform at the optimal level, team members must step into the “other”
+    area (out of comfort zone). This course is designed to help students with little
+    or no prior knowledge in computer programming, who are interested in learning
+    about logic and programming in the object-oriented paradigm, using Python (a current
+    and relevant language) and C (a powerful and imperative computer language).
+
+    Course Goals and Learning Objectives
+
+    In this course students will learn basic concepts in computer programming with
+    emphasis on business. The goal is to help students experience a sound learning
+    environment to develop programming skills in C and Python interacting with databases,
+    to better perform in business.
+
+    Upon successful conclusion of this course, students will be able to:
+
+    1. Develop an attitude towards decision, information, data, systems, and computers,
+    based on a critical view of the new business environment and intensified knowledge
+    economy;
+
+    2. Comprehend how problem-solving and data analytics evolved throughout time;
+
+    3. Discuss programming in a stimulating fashion, beyond its mechanics, aiming
+    at attracting even more talented people to this track;
+
+    4. Analyze problems in light of object-oriented programming;
+
+    5.Comprehend C and Python languages, including variables, expressions, files,
+    flow statements, loop statements, functions, classes, methods, and modules;
+
+    6. Comprehend database concepts and integration, SQL servers/clients, SQL statements;
+
+    7. Apply solutions, mostly in Python, to solve statistical and graphical representation
+    of datasets;
+
+    8. Apply solutions, mostly in Python, to selected business problems.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220120231938'
+digest: RUVINARJYJBEHSAMUEI2FDRL35VBLZZD
+updated_at: '20220120231938'
+url: https://web.archive.org/web/20220120231938id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0173&codcur=12033&codhab=4
