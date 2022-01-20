@@ -1,0 +1,64 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    Pronunciamentos do Comitê de Pronunciamentos Contábeis – CPC
+
+    Normas Internacionais de Relatório Financeiro (IFRS)
+
+    GELBCKE, Ernesto Rubens; SANTOS, Ariovaldo dos; IUDÍCIBUS, Sérgio de; MARTINS,
+    Eliseu (2018).  Manual de Contabilidade Societária. 3a ed. São Paulo: Atlas.
+
+    Orientação Técnica OCPC 07 - Evidenciação na Divulgação dos Relatórios Contábil-Financeiros
+    de Propósito Geral emitida pelo Comitê de Pronunciamentos Contábeis (CPC) em 11/11/2014.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    KPMG (2019). Insights into IFRS. Sweet & Maxwell.
+
+    PWC (2020). Manual of Accounting. LexisNexis.
+
+    PKF International (2020). Wiley Interpretation and Application of IFRS Standards.
+    Wiley.'
+  course: "1.\tFUNDAMENTOS DAS NORMAS DO IFRS E DO CPC\n1.1.\tAnálise das normas aplicáveis\
+    \ à elaboração das notas explicativas\n2.\tO OBJETIVO E A IMPORTÂNCIA DAS NOTAS\
+    \ EXPLICATIVAS\n2.1.\tAnálise da função e da importância das notas explicativas\n\
+    3.\tNOTAS DE NATUREZA GERAL SOBRE A ENTIDADE\n3.1.\tAnálise dos objetivos e da\
+    \ importância das notas explicativas de natureza geral\n4.\tSEMINÁRIOS SOBRE DIVERSAS\
+    \ NOTAS EXPLICATIVAS\n4.1.\tSão analisadas as notas explicativas de diversos itens\
+    \ das demonstrações contábeis, de acordo com a importância de cada uma delas em\
+    \ cada momento em que a disciplina é oferecida."
+  course_name: 'EAC0565 - Estudos sobre Notas Explicativas
+
+    Studies on disclosure'
+  deactivation: ''
+  instructors: '8476037 - Eduardo da Silva Flores
+
+    65625 - Joao Domiraci Paccez
+
+    59962 - Luiz Nelson Guedes de Carvalho'
+  lecture_credits: '2'
+  objectives: "APRESENTAÇÃO DA DISCIPLINA:\nA disciplina buscar introduzir os alunos\
+    \ no desafio de preparação e análise de notas explicativas às demonstrações contábeis\
+    \ e desenvolver suas competências para adotarem uma posição crítica nas suas atividades\
+    \ profissionais.\nOBJETIVOS DE APRENDIZAGEM:\nA disciplina oferece uma abordagem\
+    \ crítica dos conteúdos, permitindo uma participação criativa nos temas que são\
+    \ abordados. Espera-se que, ao final do curso, os alunos estejam aptos a:\n1.\t\
+    Interpretar e analisar de forma crítica as notas explicativas preparadas pelas\
+    \ empresas de acordo com as normas estabelecidas nas IFRS e nos pronunciamentos\
+    \ emitidos pelo CPC.\n2.\tElaborar notas explicativas adequadas que atendam aos\
+    \ objetivos definidos pelos órgãos competentes."
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220120222210'
+digest: JJ7SSPO4HOYP5WLEFG25BOKHJD5GVCUO
+updated_at: '20220120222210'
+url: https://web.archive.org/web/20220120222210id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0565&codcur=12033&codhab=4
