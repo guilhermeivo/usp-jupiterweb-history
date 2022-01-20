@@ -1,0 +1,85 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação na disciplina
+    caso obtenha nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco)
+    e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    Managerial Accounting Custom Edition for University of Illinois at Urbana-Champaign:
+    ACCY 302 Decision Making for Accountancy course. McGraw-Hill.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    Garrison, R.; Noreen, E.; Brewer, P. Managerial Accounting. 16. ed. New York:
+    McGraw-Hill Irwin, 2018.
+
+    Hansen, D. R.; Mowen, M. M.; Guan, L. Cost Management: Accounting and Control.
+    6 ed. Mason: South-Western College Pub., 2007.
+
+    Hilton, R. W.; Platt, D. E. Managerial Accounting: Creating Value in a Dynamic
+    Business Environment. 12. ed. McGraw-Hill Education: New York, 2020.
+
+    Datar, S. M.; Rajan, M. T. Horngren’s Cost Accounting: A Managerial Emphasis.
+    16. ed. New Jersey: Prentice Hall, 2018
+
+    Zimmerman, J. L. Accounting for Decision Making and Control. 10. ed. McGraw-Hill
+    Irwin: New York, 2020.'
+  course: '1. ORGANIZATIONAL CONTROL, COORDINATION, AND MANAGEMENT
+
+    1.1 Introduction to Managerial Accounting
+
+    1.2 The nature of agency problems
+
+    1.3 Budgeting
+
+    1.4 Cost behavior and cost estimation
+
+    2. DECISION MAKING FOR CONTROL AND EVALUATION
+
+    2.1 Cost-volume-profit (CVP) analysis
+
+    2.2 Absorption versus variable costing
+
+    2.3 Cost allocation and agency implications
+
+    2.4 Information relevance
+
+    2.5 Standard costing and variance analysis
+
+    2.6 Transfer pricing'
+  course_name: EAC0226 - Decision Making for Accountancy
+  deactivation: ''
+  instructors: '5859376 - Luciane Reginato Cornacchione
+
+    3770882 - Marcio Luiz Borinelli
+
+    85051 - Welington Rocha'
+  lecture_credits: '2'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    Decision making implications of accounting information provided to organization
+    managers and to external stakeholders such as investors, creditors, customers,
+    and regulators. Projects, together with a series of practical workshops, facilitate
+    self-discovery of knowledge and development of a variety of professional skills
+    and attitudes.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    This course develops an understanding of the link between organizational mission
+    and governance structures and accounting’s role in coordinating, controlling and
+    managing organizations. By the end of the course, you should have gained an understanding
+    of how accounting is influenced by and influences organizational mission, strategy,
+    structure, and the resulting performance measurement and control systems. To help
+    in the development of this understanding, we will discuss numerous examples of
+    decision situations (often using cases), both hypothetical and real.'
+  practical_credits: '2'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220120230144'
+digest: ZGARHTJWN6AVRF6DVUDFGDGIFMCH3Q7V
+updated_at: '20220120230144'
+url: https://web.archive.org/web/20220120230144id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0226&codcur=12033&codhab=4
