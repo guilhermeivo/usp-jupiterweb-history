@@ -1,0 +1,27 @@
+courses:
+  activation: 01/01/2009
+  assessment: '*'
+  bibliography: .
+  course: A natureza da disciplina impede que se tenha um programa detalhado.
+  course_name: 'EAC0545 - Estágio Supervisionado VI
+
+    Supervised Internship VI'
+  deactivation: ''
+  lecture_credits: '1'
+  objectives: Buscar a consolidação dos desempenhos profissionais desejados, inerentes
+    ao perfil do egresso, através atuação do aluno em organizações industriais, comerciais
+    e de serviços, como supervisão de um professor do Departamento e membros da Instituição
+    que se realiza o estágio.
+  practical_credits: '1'
+  total_workload: '45 h
+
+    (
+
+    Estágio: 30 h
+
+    )'
+  type: Semestral
+created_at: '20220120224700'
+digest: RM3N35LRGQA7CQ3VPF3OTMQH36IH2TYV
+updated_at: '20220120224700'
+url: https://web.archive.org/web/20220120224700id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0545&codcur=12033&codhab=4
