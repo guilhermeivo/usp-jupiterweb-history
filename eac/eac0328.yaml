@@ -1,0 +1,163 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    GELBCKE, Ernesto Rubens; SANTOS, Ariovaldo dos; IUDÍCIBUS, Sérgio de; MARTINS,
+    Eliseu (2018).  Manual de Contabilidade Societária. 3a ed. São Paulo: Atlas.
+
+    GALDI, Fernando Caio; BARRETO, Eric; FLORES, Eduardo (2018). Contabilidade de
+    instrumentos financeiros : IFRS 9 - CPC 48 - São Paulo : Atlas.
+
+    Pronunciamentos do Comitê de Pronunciamentos Contábeis – CPC
+
+    Normas Internacionais de Relatório Financeiro (IFRS)
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    KPMG (2019). Insights into IFRS. Sweet & Maxwell.
+
+    PWC (2020). Manual of Accounting. LexisNexis.
+
+    PKF International (2020). Wiley Interpretation and Application of IFRS Standards.
+    Wiley.'
+  course: '1.INSTRUMENTOS FINANCEIROS
+
+    1.1 Classificação e Mensuração
+
+    1.2 Reconhecimento e Desreconhecimento
+
+    1.3 Redução ao Valor Recuperável – Impairment
+
+    1.4 Contabilidade de Cobertura (Hedge Accounting)
+
+    1.5. Apresentação e Divulgação
+
+    2. POLÍTICAS CONTÁBEIS, MUDANÇAS DE ESTIMATIVA E RETIFICAÇÃO DE ERRO
+
+    2.1 Políticas contábeis
+
+    2.2 Mudanças de estimativas contábeis
+
+    2.3 Retificações de Erros
+
+    3. EVENTOS SUBSEQUENTES
+
+    3.1 Definição
+
+    3.2 Reconhecimento e mensuração
+
+    3.2.1. Eventos que geram ajustes retroativos
+
+    3.2.2 Eventos que não geram ajustes retroativos
+
+    3.3 Tratamento de dividendos e continuidade
+
+    3.4 Divulgação
+
+    4. EFEITOS DA INFLAÇÃO NAS DEMONSTRAÇÕES CONTÁBEIS
+
+    4.1. Impactos da inflação na mensuração e apresentação das demonstrações contábeis
+
+    4.2. Requerimentos das normas contábeis para o tratamento da inflação e hiperinflação
+
+    4.2. Outras ferramentas para elaboração de demonstrações contábeis em moeda de
+    poder aquisitivo constante
+
+    5. RECEITA DE CONTRATOS COM CLIENTES
+
+    5.1. Escopo da norma de receita de contratos com clientes
+
+    5.2 Reconhecimento
+
+    5.2.1 Identificação, combinação e modificações de contratos
+
+    5.2.2. Identificação e satisfação de obrigações de performance
+
+    5.3. Mensuração
+
+    5.3.1. Determinação do preço da transação de venda
+
+    5.3.2. Alocação do preço às obrigações de performance
+
+    5.3.3 Modificações no preço da transação
+
+    5.4. Custos do Contrato
+
+    5.5. Apresentação e Divulgação
+
+    6. ASPECTOS TEÓRICOS DE ATIVOS, PASSIVOS, PL, RECEITAS E DESPESAS
+
+    6.1. Principais aspectos teóricos da identificação, reconhecimento e mensuração
+    de elementos patrimoniais e de desempenho
+
+    6.1.1. Definições dos elementos: ativo, passivo, PL, receitas e despesas
+
+    6.1.2. Critérios de reconhecimento e desreconhecimento
+
+    6.1.3. Fundamentos teóricos de Mensuração
+
+    6.1.3.1. Valores de Entrada
+
+    6.1.3.2. Valores de Saída
+
+    6.2. Conexão com elementos da Estrutura Conceitual das normas contábeis
+
+    6.2.1. Objetivo dos relatórios financeiro-contábeis de uso geral
+
+    6.2.2. Usuários dos relatórios financeiro-contábeis
+
+    6.2.3. Definições, conceitos e princípios de identificação, reconhecimento, mensuração
+    e desreconhecimento
+
+    6.2.4. Princípios de Apresentação e Divulgação.'
+  course_name: 'EAC0328 - Contabilidade Avançada
+
+    Advanced Accounting'
+  deactivation: ''
+  instructors: '90328 - Ariovaldo dos Santos
+
+    8476037 - Eduardo da Silva Flores
+
+    5859588 - Fernando Dal-Ri Murcia
+
+    1035522 - Guillermo Oscar Braunbeck
+
+    1364179 - Mara Jane Contrera Malacrida
+
+    8593894 - Raquel Wille Sarquis'
+  lecture_credits: '4'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A disciplina tem como objetivo capacitar os estudantes em temas avançados de contabilidade
+    societária, finalizando o ciclo obrigatório de disciplinas de contabilidade societária.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Espera-se que, ao final da disciplina, os alunos estejam aptos a:
+
+    1. Identificar as situações, transações e/ou eventos econômicos abrangidos no
+    escopo das normas tratadas nesta disciplina.
+
+    2. Reconhecer os requerimentos normativos mais importantes relativos aos temas
+    abordados nesta disciplina no tocante ao reconhecimento, mensuração e apresentação/divulgação
+    abrangidas por essas normas.
+
+    3. Aplicar os principais requerimentos das normas estudadas nesta disciplina a
+    situações práticas.
+
+    4. Relacionar os requerimentos das normas de contabilidade societária com os princípios,
+    fundamentos, conceitos e definições da Estrutura Conceitual das normas.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220120230341'
+digest: TVSOTI345JXT7Z25MYRR5NQOMRSFSMXV
+updated_at: '20220120230341'
+url: https://web.archive.org/web/20220120230341id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0328&codcur=12033&codhab=4
