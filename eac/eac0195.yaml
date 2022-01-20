@@ -1,0 +1,143 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'Adler, M. J., & Van Doren, C. (2014). How to read a book: The classic
+    guide to intelligent reading. Simon and Schuster.
+
+    Casa Nova, S. P. C., Leal, E. A., Miranda, G. J., & Nogueira, D. R. (2020). Trabalho
+    de conclusão de curso (TCC): uma abordagem leve, divertida e prática. São Paulo:
+    Saraiva Educação.
+
+    Castro, C. M. (2006). A prática da pesquisa. 2. ed. São Paulo: Pearson Prentice
+    Hall.
+
+    Demo, P. (2015). Aprender como autor. São Paulo: Atlas.
+
+    Dewey, J. (1997). How we think. Courier Corporation.
+
+    Elbow, P. (1998). Writing with power: Techniques for mastering the writing process.
+    Oxford University Press.
+
+    Freire, P. (2015). Professora, sim; tia, não: cartas a quem ousa ensinar. Editora
+    Paz e Terra.
+
+    Graff, G., Birkenstein, C., & Durst, R. (2006). "They Say, I Say": The Moves that
+    Matter in Academic Writing. New York, NY: WW Norton.
+
+    Hines, R. D. (1988). Financial accounting: in communicating reality, we construct
+    reality. Accounting, Organizations and Society, 13(3), 251-261.Lee, C. M., & Jackson,
+    R. F. (1992). Faking it: A look into the mind of a creative learner. Boynton/Cook
+    Publishers.
+
+    Murray, D. M. (1999). Write to learn. Harcourt Brace College Publishers.
+
+    Pauk, W., & Owens, R. J. (2013). How to study in college. Cengage Learning.
+
+    Pereira, E. M. A. (2016). Universidade e Educação Geral: Reflexões e práticas
+    no Brasil, EUA, Europa, Ásia e América Latina. Campinas: Mercado das Letras.
+
+    Popper, K.. (2007). The logic of scientific discovery. London: Routledge, reprinted,
+
+    Sampieri, R. H.; Collado, C. H.; Lucio, P. B.. (2013). Metodologia de pesquisa.
+    5 ed. Porto Alegre: Penso.
+
+    Sandel, M. J. (2012). What isn’t for sale. The Atlantic, 309(3), 62-66.
+
+    Sandel, M. J. (2013). Market reasoning as moral reasoning: why economists should
+    re-engage with political philosophy. Journal of Economic Perspectives, 27(4),
+    121-40.
+
+    Saramago, J. (2013). Democracia e Universidade. Belém: ed.ufpa.
+
+    Theóphilo, C. R., & Martins, G. D. A. (2009). Metodologia da investigação científica
+    para ciências sociais aplicadas. São Paulo: Atlas.'
+  course: "Detalhado\n1.\tA VIDA NA UNIVERSIDADE\n1.1. Introdução à ideia de universidade\n\
+    1.2. Introdução à vida acadêmica: expectativas e possibilidades\n1.3. Atividades\
+    \ de ensino, de pesquisa, e de cultura e extensão\n2.\tCOMO EU APRENDO?\n2.1.\
+    \ Compreendendo os estilos de aprendizagem\n2.2. Entendendo as implicações dos\
+    \ estilos de aprendizagem para a vida acadêmica\n3.\tCOMO EU SOU ENSINADO?\n3.1.\
+    \ Entendendo as características do ensino\n3.2. Aprendendo adaptar os estilos\
+    \ de aprendizagem às características do ensino universitário\n4.\tIDENTIFICANDO\
+    \ E APLICANDO HABILIDADES DE LEITURA\n4.1. Tornando-se um leitor ativo\n4.2. Tipos\
+    \ de leitura:\n4.2.1. Leitura básica, por meio da leitura de reconhecimento (systematic\
+    \ skimming) e de inspeção\n4.2.2. Leitura rápida\n4.2.3. Leitura crítica\n4.3.\
+    \ Entendendo e explorando a mensagem do/a autor/a criticamente\n5.\tTORNANDO-SE\
+    \ UM OUVINTE ATENTO\n5.1. Formas de reconhecimento das principais ideias em uma\
+    \ palestra ou aula expositiva\n5.2. Formas de registro e organização do registro\
+    \ de palestras e aulas expositivas\n6.\tEXERCITANDO A MEMÓRIA E UTILIZANDO TÉCNICAS\
+    \ DE FICHAMENTO\n7.\tADMINISTRAÇÃO DE TEMPO E PROCRASTINAÇÃO\n7.1. O que é procrastinação?\n\
+    7.2. Entendo as raízes culturais e sociais da procrastinação\n7.3. Compreendendo\
+    \ o ciclo da procrastinação e como quebrá-lo\n8.\tIDENTIFICANDO HABILIDADES DE\
+    \ ESCRITA: EXERCITANDO A ESCRITA\n8.1. Gerando as ideias (tendo mais a dizer com\
+    \ textos)\n8.2. Organizando as ideias\n8.3. Registrando\n9.\tHABILIDADES DE PESQUISA\
+    \ E DE RECUPERAÇÃO DE INFORMAÇÕES EM BASES DE DADOS E PESQUISA\n10.\tAPROXIMANDO-SE\
+    \ DE TEXTOS CIENTÍFICOS E DE SUA LEITURA E COMPREENSÃO\n10.1. Elementos formais\
+    \ do trabalho científico\n10.2. Como escrever um texto científico\n10.3. Como\
+    \ analisar criticamente um texto científico\n11.\tELABORANDO UMA PROPOSTA DE PESQUISA\n\
+    11.1. O que é pesquisa?\n11.2. Etapas de uma pesquisa\n11.2.1. Escolhendo um tema\
+    \ ou problema\n11.2.2. Revisando a literatura\n11.2.3. Planejando a metodología\n\
+    12.\tAPRESENTADO E AVALIANDO UMA PROPOSTA DE PESQUISA\n12.1. Apresentação oral\
+    \ e discussão de uma proposta de pesquisa\nApresentação escrita de uma proposta\
+    \ de pesquisa"
+  course_name: 'EAC0195 - Introdução às Atividades Acadêmicas e de Pesquisa
+
+    Introduction to the Academic Life and Research'
+  deactivation: ''
+  instructors: 2087540 - Silvia Pereira de Castro Casa Nova
+  lecture_credits: '2'
+  objectives: "APRESENTAÇÃO DA DISCIPLINA:\nEsta é uma disciplina optativa com o objetivo\
+    \ de introduzir os/as estudantes na vida acadêmica e fornecer meios para que comecem\
+    \ a desenvolver pesquisa na graduação, como realizar iniciação científica, participar\
+    \ de laboratórios de pesquisa, participar de atividades de ensino e de cultura\
+    \ e extensão, entre outros temas importantes para a vida universitária. Assim,\
+    \ este curso foi planejado e desenhado para desenvolver a competência e confiança\
+    \ dos/as participantes como aprendizes autônomos/as no início de sua vida na universidade.\n\
+    O ingresso na universidade é uma das mais relevantes transições na vida de uma\
+    \ pessoa e representa um período de descobertas e inseguranças. Dessa forma, essa\
+    \ disciplina pretende apresentar aspectos importantes da vida na universidade\
+    \ para ingressantes, de forma a tornar essa transição mais tranquila.\nPor fim,\
+    \ mas não menos importante, a disciplina pretende introduzir para ingressantes\
+    \ as possibilidades do envolvimento com pesquisa, ensino e cultura e extensão\
+    \ desde o início da vida acadêmica, detalhando ações recursos disponíveis, com\
+    \ ênfase na iniciação científica, participação ativa em grupos e núcleos de pesquisa\
+    \ e extensão, participação em congressos e eventos científicos, entre outras atividades.\n\
+    Esses temas são centrais em uma universidade de pesquisa com a Universidade de\
+    \ São Paulo e têm o potencial de despertar vocações e consolidar o interesse por\
+    \ uma carreira acadêmica desde a graduação.\nConsiderando esse contexto, a disciplina\
+    \ tem como objetivos gerais:\n•\tCriar um ambiente seguro que nos permita compreender\
+    \ como cada pessoa aprende;\n•\tApoiar cada participante a experimentar diferentes\
+    \ enfoques e competências de aprendizagem;\n•\tIncentivar cada participante a\
+    \ identificar e exercitar suas habilidades intelectuais de forma a aumentar sua\
+    \ curiosidade acadêmica;\n•\tCompreender a rotina da vida acadêmica no ingresso\
+    \ na universidade;\n•\tEntender as possibilidade de envolvimento em atividades\
+    \ de pesquisa, ensino, cultura e extensão;\n•\tCapacitar estudantes universitários\
+    \ a realizar reflexões críticas acerca da produção científica na área de Ciências\
+    \ Contábeis.\nOBJETIVOS DE APRENDIZAGEM:\nAo final desse curso você será capaz\
+    \ de:\n•\tCompreender as suas competências como aprendiz;\n•\tDesenvolver estratégias\
+    \ de aprendizagem autônomas;\n•\tReconhecer a necessidade de adotar estratégias\
+    \ compensatórias;\n•\tAdotar estratégias compensatórias de forma consciente;\n\
+    •\tConhecer oportunidades para envolvimento em pesquisa, ensino, cultura e extensão\
+    \ durante sua vida na universidade;\n•\tConhecer as oportunidades de envolvimento\
+    \ com atividades de ensino existentes na universidade;\n•\tConhecer as oportunidades\
+    \ de envolvimento com atividades de cultura e extensão na universidade;\n•\tDescrever\
+    \ as especificidades da contabilidade como campo do conhecimento científico;\n\
+    •\tAcionar os recursos de pesquisa disponíveis na universidade;\n•\tConhecer as\
+    \ oportunidades de pesquisa existentes na universidade;\n•\tLevantar estudos anteriores\
+    \ sobre uma temática em contabilidade;\n•\tAnalisar criticamente um estudo em\
+    \ contabilidade;\n•\tCompilar criticamente os principais aportes trazidos em uma\
+    \ temática a partir da compilação de estudos anteriores; e\n•\tEstruturar uma\
+    \ proposta inicial de estudo (pré-projeto de pesquisa) em temáticas relacionadas\
+    \ à contabilidade e finanças."
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220120222640'
+digest: XCRVDMRN3NYAHCBXIKU3GKVO3J4CXLY2
+updated_at: '20220120222640'
+url: https://web.archive.org/web/20220120222640id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0195&codcur=12033&codhab=4
