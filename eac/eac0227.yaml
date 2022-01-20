@@ -1,0 +1,113 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'REEVALUATION CRITERIA
+
+    a) The student may participate in the revaluation process (recovery) in the course
+    if he obtains final average score greater than or equal to three (3.0) and less
+    than 5.0 (five) and frequency equal to or greater than 70% grade.
+
+    b) Average for approval with revaluation shall be achieved by the simple arithmetic
+    average of the final average + grade obtained in revaluation, which must be equal
+    to or greater than 5.0 (five).'
+  bibliography: 'MAIN BIBLIOGRAPHY:
+
+    PALEPU, Krishna; HEALY, Paul.; PEEK, Erik. (2020) Business Analysis and Valuation:
+    IFRS Edition. Cengage Learning 4th Edition.
+
+    PENMAN, Stephen H. (2012) Financial Statement Analysis and Security Valuation.
+    5th Edition. McGraw-Hill Education.
+
+    COMPLEMENTARY BIBLIOGRAPHY:
+
+    ASSAF NETO, Alexandre. (2020) Estrutura e análise de balanços. 12. ed. São Paulo:
+    Atlas.
+
+    MARTINS, Eliseu. (2020) Análise avançada das demonstrações contábeis. 3. ed. São
+    Paulo: Atlas.
+
+    International Financial Reporting Standards. www.ifrs.org.
+
+    DAMODARAN ONLINE. Disponível em:
+
+    .
+
+    ROSS, S. A.; WESTERFIELD, R.; JAFFE, J. F.; JORDAN, B. (2019) Corporate Finance.
+    20th ed. McGraw-Hill.'
+  course: 'Program
+
+    1. INTRODUCTION TO FINANCIAL STATEMENTS ANALYSIS
+
+    1.1. Types of analysis
+
+    1.2. The role of financial information in the capital market
+
+    1.3. From financial statements to business analysis
+
+    2. THEORETICAL AND PRACTICAL ASPECTS OF THE MAIN TECHNIQUES OF ANALYSIS OF FINANCIAL
+    STATEMENTS
+
+    2.1. Analysis of the statements (strategic, accounting and financial)
+
+    2.2. Analysis of the auditors'' report and management reports
+
+    2.3. Accounting choices and effects on financial position and results
+
+    3. TOOLS AND TECHNIQUES FOR FINANCIAL STATEMENT ANALYSIS
+
+    3.1. Traditional analysis
+
+    3.1.1. Vertical and horizontal analysis
+
+    3.1.2. Analysis using key figures
+
+    3.1.2.1 Liquidity, solvency and capital structure
+
+    3.1.2.2 Profitability, margin and turnover
+
+    3.1.2.3 Average activity and terms
+
+    3.1.3. Working capital needs
+
+    3.1.4. Financial leverage
+
+    3.1.4.1. ROE - Return on equity
+
+    3.1.4.2. ROA - Return on assets
+
+    3.1.5. Du Pont Model (Integrated business performance evaluation model)
+
+    3.1.6 EVA'
+  course_name: EAC0227 - Financial Statements Analysis
+  deactivation: ''
+  instructors: '8476037 - Eduardo da Silva Flores
+
+    5859588 - Fernando Dal-Ri Murcia
+
+    1035522 - Guillermo Oscar Braunbeck
+
+    3132692 - Renê Coppe Pimentel'
+  lecture_credits: '2'
+  objectives: 'Course Presentation
+
+    The goal of the course is to help students understand and apply tools and techniques
+    to analyze financial statements of companies based on an integrated analysis methodology
+    that takes into account the Brazilian business environment and strategy.
+
+    Learning objectives
+
+    Upon successful conclusion of this course, students will be able to:
+
+    Analyze and interpret the financial statements, aiming to extract information
+    regarding the performance and the financial situation of companies.
+
+    Interpret an entity''s economic and financial indicators and compare them with
+    those of other companies or sectors.
+
+    Guide their decision-making process through the analysis of financial statements.'
+  practical_credits: '2'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220120224503'
+digest: O25MMYIIL5D46VMYJXEWYTQ3U5HUQFFY
+updated_at: '20220120224503'
+url: https://web.archive.org/web/20220120224503id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0227&codcur=12033&codhab=4
