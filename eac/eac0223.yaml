@@ -1,0 +1,153 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'Re-assessment: According to USP regulations, students above a minimum
+    value of three (3) and bellow a value of five (5) will be offered a chance to
+    take a re-assessment, in case they have reached the required minimum attendance
+    level. The final grade will be calculated by the average between the first grade
+    and re-assessment grade. To pass the course, student must have a minimum value
+    of 5 (five) in the final grade after the re-assessment.'
+  bibliography: 'MAIN BIBLIOGRAPHY:
+
+    MGP: Messier, W. F., S. M. Glover, and D. F. Prawitt. (2012). Auditing and Assurance
+    Services: A Systematic Approach. Eighth Edition. McGraw Hill.
+
+    BPS: Bell, T. B., M. E. Peecher, and I. Solomon. (2005). The 21st Century Public
+    Company Audit: Conceptual Elements of KPMG’s Global Audit Methodology. KPMG LLP.
+    Available at http://www.business.illinois.edu/kpmg-uiuccases/monograph.html or
+    on the course website.
+
+    Outside Readings. Most of these readings are available electronically at the UIUC
+    Library (http://www.library.illinois.edu) or on the course website.
+
+    COMPLEMENTARY BIBLIOGRAPHY:
+
+    Klein, D. B. (2002). The Demand for and Supply of Assurance. In Market Failure
+    or Success: The New Debate. Eds. Cowen, T. and E. Crampton. Edward Elgar: Northampton,
+    MA.
+
+    Minnis, M. (2011). The Value of Financial Statement Verification in Debt Financing.
+    Journal of Accounting Research 49 (2): 457-506.
+
+    Davis, L.R., B. S. Soo, and G. M. Trompeter. (2009). Auditor Tenure and the Ability
+    to Meet or Beat Earnings Forecasts. Contemporary Accounting Research 26 (2): 517-548.
+
+    Carey, P. and R. Simnett. (2006). Audit Partner Tenure and Audit Quality. The
+    Accounting Review 81 (3): 653-676.
+
+    Francis, J. (2011). A Framework for Understanding and Researching Audit Quality.
+    Auditing: A Journal of Practice and Theory 30 (2): 125-152.
+
+    Lennox, C. and J. Pittman. (2010). Auditing the Auditors: Evidence on the Recent
+    Reforms to the External Monitoring of Audit Firms. Journal of Accounting and Economics
+    49 (1-2): 84-103.
+
+    DeFond, M. (2010). How Should the Auditors be Audited? Comparing the PCAOB Inspections
+    with the AICPA Peer Reviews. Journal of Accounting and Economics 49 (1-2): 104-108.
+
+    Mock, T. J.., J. Bedard, P. J. Coram, S. M. Davis, R. Espahbodi, and R. C. Warne.
+    (2013). The Audit Reporting Model: Current Research Synthesis and Implications.
+    Auditing: A Journal of Practice and Theory 32 (1): 323-351.
+
+    Czerney, K., J. J. Schmidt, and A. M. Thompson. (2013). Does auditor “commentary”
+    in unqualified audit reports reflect financial misstatement risk? Working Paper.
+    University of Illinois at Urbana-Champaign and University of Texas at Austin.
+
+    Titera, W.R. (2013). Updating Audit Standard – Enabling Audit Data Analysis. Journal
+    of Information Systems 27 (1): 325-331.
+
+    KPMG LLP. (2012). Big Data: The Risks and Rewards Locked in Vast Oceans of Data.
+    Accessed on: August 21, 2013 http://www.kpmg.com/US/en/IssuesAndInsights/ArticlesPublications/Documents/big-data-oceans.pdf.
+
+    Imoniana, J. O.; Silva, R. M. (2013). Revisiting the concepts of Forensic Accounting
+    and Corporate Fraud. International Journal of Auditing Technology 1 (2) 175-202.
+    2013.
+
+    Bowlin. K. (2011). Risk-Based Auditing, Strategic Prompts, and Auditor Sensitivity
+    to the Strategic Risk of Fraud. The Accounting Review 86 (4): 1231-1253. 2011.'
+  course: '1. CONCEPTUAL FRAMEWORK OF ASSURANCE IN ORGANIZATIONS
+
+    1.1 Conceptual Framework of Assurance in organizations
+
+    1.2 Conceptual Framework I:
+
+    - Assurance Universe
+
+    - Assurance Demand
+
+    1.3 Conceptual Framework II:
+
+    - Types of Assertions
+
+    1.4 Conceptual Framework III:
+
+    - Auditor Independence
+
+    - Audit Quality Indicators
+
+    - The PCAOB Inspection Process
+
+    - The Auditor’s Reporting Model
+
+    - Big Data & Data Analytics
+
+    2. ASSURANCE RISK, ACCEPTABLE EVIDENCE & PROFESSIONAL JUDGMENT
+
+    3. SUSTAINTABILITY ASSURANCE
+
+    4. ATTESTATION PROCESS AND ALTERNATIVE RISK MODELS
+
+    5. STRATEGIC SYSTEMS AUDITING (SSA):
+
+    5.1 Strategic Analysis of a Client and its Business Processes Strategic Systems
+    Auditing (SSA)
+
+    5.2 Audit Evidence
+
+    5.3 Internal Control Evaluation
+
+    5.4 Analytical Procedures
+
+    6. SIGNIFICANT BUSINESS PROCESSES:
+
+    6.1 Purchasing (Accounts Payable)
+
+    6.2 Invoicing (Accounts Receivable)
+
+    6.3 Inventory (Costing)
+
+    7. PLANNING VERIFICATION OF MANAGEMENT ASSERTIONS
+
+    7.1 Verification of Management Assertions
+
+    8. SPECIAL TOPICS IN ASSURANCE
+
+    8.1 Forensic Accounting
+
+    8.2 Financial Statement Fraud
+
+    8.3 Quality Assurance
+
+    8.4 Completing the Attest Engagement
+
+    8.5 End of assurance negotiation'
+  course_name: EAC0223 - Assurance and Attestation
+  deactivation: ''
+  instructors: 990725 - Joshua Onome Imoniana
+  lecture_credits: '2'
+  objectives: 'Course Brief
+
+    The objective of this course is to provide you with an intensive conceptual and
+    applied introduction to assurance services in organizations. In particular, this
+    course focuses on an examination of assurance services provided by Independent
+    Auditors particularly the Big-four auditors and also considers assurance services
+    beyond financial statement audits conducted by non-Independent auditors. To successfully
+    contribute to this course, you should anticipate engaging in critical thinking
+    and thoughtful communication about assurance professionals'' decision environments,
+    decision-making processes and deliverables.'
+  practical_credits: '2'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220120234831'
+digest: OE7ZN2XTNXSWJW2AQW6XCT44CWE7EKCM
+updated_at: '20220120234831'
+url: https://web.archive.org/web/20220120234831id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0223&codcur=12033&codhab=4
