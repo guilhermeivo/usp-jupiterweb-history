@@ -1,0 +1,61 @@
+courses:
+  activation: 01/01/2013
+  assessment: Para alunos que obtiveram média final compreendida entre 3,0  e 4,9
+    e frequência mínima de 70% , será exigida prova escrita cuja média para aprovação
+    deverá ser igual ou superior a 5,0 e obter freqüência mínima de 70%.
+  bibliography: "COSTA, Pietro e ZOLO, Danilo (orgs.). O Estado de Direito \x96 História,\
+    \ teoria, crítica. São Paulo: Martins Fontes, 2006.\nFARIA, José Eduardo O Direito\
+    \ na Economia Globalizada São Paulo: Malheiros, 1999.\nFAUSTO, Boris O Crime do\
+    \ Restaurante Chinês Carnaval, Futebol e Justiça na São Paulo dos Anos 30 São\
+    \ Paulo: Companhia das Letras, 2009.\nFERRAZ JR, Tércio Sampaio Introdução ao\
+    \ Estudo do Direito: Técnica, Decisão, Dominação São Paulo, Atlas: 2001.\nFULLER,\
+    \ Lon L. O Caso dos Exploradores de Cavernas. São Paulo: Liv. e Ed. Universitária\
+    \ de Direito, 2003. Disponível em:\n. Acesso em: 12 mar. 2010.\nMAGNOLI, Demétrio.\
+    \ História da Paz. São Paulo: Contexto, 2008.\nMEZZAROBA, Glenda. De que se fala,\
+    \ quando se diz \x93Justiça de Transição\x94?. Revista Brasileira de Informação\
+    \ Bibliográfica em Ciências Sociais. São Paulo: ANPOCS, 1996. p. 111-122.\nMEYER,\
+    \ Michel \x93O que é a Retórica?\x94 e \x93A unidade da Retórica e seus componentes:\
+    \ éthos, pathos, logos\x94 in A Retórica. São Paulo: Ática, 2007.\nREALE, Miguel\
+    \  Lições Preliminares de Direito São Paulo: Saraiva, 1983\nREBOUL, Olivier Introdução\
+    \ à Retórica. São Paulo: Martins Fontes, 2004."
+  course: '1.Noções Gerais e Conceitos e documentos básicos do Direito Positivo
+
+    1.1 Ato e fato jurídicos
+
+    1.2 Norma, ordenamento e fontes do Direito
+
+    1.3 Declaração Universal dos Direitos Humanos (1948)  e Constituições Federal
+    do Brasil (1988)
+
+    1.4 Direito como dogma e o problema da decidibilidade de conflitos
+
+    2 Direito e Justiça em ação
+
+    2.1 O Tribunal de Nuremberg
+
+    2.2  A Justiça Brasileira: o caso da justiça criminal
+
+    2.3  Análise dos votos de um julgamento fictício
+
+    2.4  Argumentação e retórica na aplicação do Direito
+
+    3. Direito e as possibilidades de um diálogo interdisciplinar em um mundo globalizado'
+  course_name: 'DFD0152 - Instituições de Direito
+
+    Institutions of Law'
+  deactivation: ''
+  instructors: 1016819 - Guilherme Assis de Almeida
+  lecture_credits: '2'
+  objectives: "Fornecer aos estudantes -em linhas gerais \x96 noções introdutórias\
+    \ básicas a respeito das instituições jurídicas básicas e seu funcionamento.Capacitar\
+    \ o estudante a compreender a lógica do funcionamento do sistema jurídico e a\
+    \ desenvolver-posteriormente- estudo de áreas específicas relacionados à sua área\
+    \ de atuação. Visa-se também propiciar aos estudantes a familiarização com a linguagem\
+    \ característica do Direito positivo."
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220121001120'
+digest: I2HT5QJVS76WQ7HMQIFP2JXPVP5IHZBY
+updated_at: '20220121001120'
+url: https://web.archive.org/web/20220121001120id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=DFD0152&codcur=12033&codhab=4
