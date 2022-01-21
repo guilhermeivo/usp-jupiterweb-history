@@ -1,0 +1,129 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    FÁVERO, L. P.; BELFIORE, P. Manual de Análise de Dados: Estatística e Modelagem
+    Multivariada com Excel, SPSS e Stata. 1ª Edição. Rio de Janeiro: Ed. Campus Elsevier,
+    2017.
+
+    BELFIORE, P.; FÁVERO, L. P. Pesquisa Operacional para Cursos de Administração,
+    Contabilidade e Economia. Rio de Janeiro: Campus Elsevier, 2012.
+
+    FÁVERO, L. P.; BELFIORE, P. Data Science for Business and Decision Making. Cambridge:
+    Academic Press, 2019.
+
+    FÁVERO, L. P.; BELFIORE, P. P.; SILVA, F. L.; CHAN, B. L. Análise de Dados: modelagem
+    multivariada para tomada de decisões. Rio de Janeiro: Ed. Campus Elsevier, 2009.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    CAMERON, A. C.; TRIVEDI, P. K. Microeconometrics using Stata. College Station:
+    Stata Press, 2009.
+
+    GUJARATI, D. N. Econometria básica. 4. ed. Rio de Janeiro: Elsevier, 2006.
+
+    HAIR JR., J. F.; ANDERSON, R. E.; TATHAM, R. L.; BLACK, W. C. Análise Multivariada
+    de Dados. 6. ed. Porto Alegre: Bookman, 2007.
+
+    JOHNSON, R. A.; WICHERN, D. W. Applied Multivariate Statistical Analysis. 6. ed.
+    Upper Saddle River: Pearson Education, 2007.
+
+    SHARMA, S. Applied Multivariate Techniques. Hoboken: John Wiley & Sons, 1996.'
+  course: '1. BANCO DE DADOS: IMPORTÂNCIA DO TRATAMENTO E ANÁLISE
+
+    1.1 Visão geral: tipos de variáveis e escalas de mensuração
+
+    1.2 Estatística descritiva
+
+    1.3 Distribuições de probabilidades
+
+    2. TESTES DE HIPÓTESE E INTERVALOS DE CONFIANÇA
+
+    2.1 Testes paramétricos
+
+    2.2 Testes não paramétricos
+
+    3. FERRAMENTAS DE ANÁLISE MULTIVARIADA PARA TOMADA DE DECISÃO
+
+    3.1. TÉCNICAS DE INTERDEPENDÊNCIA
+
+    3.1.1 Análise de clusters
+
+    3.1.2 Análise de correspondência (ANACOR)
+
+    3.1.3 Análise fatorial
+
+    3.2 TÉCNICAS DE DEPENDÊNCIA
+
+    3.2.1 Generalized linear models (GLM)
+
+    3.2.2 Regressão linear e não-linear simples e múltipla
+
+    3.2.3 Diagnósticos em modelos de regressão
+
+    3.2.4 Regressão logística binária e multinomial
+
+    3.2.5 Modelos de regressão para dados de contagem
+
+    4. PESQUISA OPERACIONAL
+
+    4.1 Programação linear e não linear
+
+    4.2 Programação inteira e binária
+
+    4.3 Modelos de otimização'
+  course_name: 'EAC0579 - Análise de Dados para Tomada de Decisão
+
+    Data Analysis for Decision Making'
+  deactivation: ''
+  instructors: '3079831 - Lucas Ayres Barreira de Campos Barros
+
+    906942 - Luiz Paulo Lopes Favero
+
+    3696531 - Tatiana Albanez'
+  lecture_credits: '4'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A disciplina tem como objetivo principal capacitar os alunos para o entendimento
+    e compreensão de diversas técnicas exploratórias e confirmatórias de análise multivariada,
+    com enfoque para suas aplicações e na geração de informação para tomada de decisões
+    em contabilidade, atuária e finanças. O conteúdo a ser discutido considera aspectos
+    relacionados à elaboração, tratamento e análise de bancos de dados. O intuito
+    é que o aluno adquira conhecimentos e habilidades sobre gerenciamento e tratamento
+    de dados, por meio de discussão de conceitos e análise de bancos de dados em sessões
+    de laboratório com aplicação prática de softwares como SPSS, Stata, R, dentre
+    outros.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Espera-se que, ao final do curso, os alunos estejam aptos a:
+
+    1. Compreender os objetivos e aplicações das diversas técnicas exploratórias e
+    confirmatórias de análise multivariada;
+
+    2. Identificar situações favoráveis para o uso do instrumental quantitativo adquirido;
+
+    3. Conhecer as premissas e limitações do uso das diversas técnicas;
+
+    4. Elaborar, tratar e analisar diferentes tipos de bancos de dados;
+
+    5. Extrair informação relevante para tomada de decisões financeiras a partir do
+    tratamento e análise de bancos de dados; e
+
+    6. Aplicar o instrumental quantitativo à análise de problemas gerenciais abordados
+    pelos sistemas de informações empresariais, presentes no processo de planejamento,
+    execução e controle das decisões nas empresas.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220121000343'
+digest: 3IJRK623ICPM7MBOMV6R6ZQBKKJOEMNJ
+updated_at: '20220121000343'
+url: https://web.archive.org/web/20220121000343id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0579&codcur=12033&codhab=4
