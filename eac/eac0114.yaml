@@ -1,0 +1,126 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    GELBCKE, Ernesto Rubens; SANTOS, Ariovaldo dos; IUDÍCIBUS, Sérgio de; MARTINS,
+    Eliseu (2018).  Manual de Contabilidade Societária. 3a ed. São Paulo: Atlas.
+
+    Instruções CVM Nº 191/92, Nº 248/96 e Parecer Nº 27/94 (Correção Integral de Balanços).
+
+    Pronunciamento Técnico CPC 42 – Contabilidade em Economia Hiperinflacionária.
+
+    Pronunciamento Técnico CPC 02 (R2) - Efeitos das mudanças nas taxas de câmbio
+    e conversão de Demonstrações Contábeis.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    SZUSTER, N. (1985). Análise do Lucro Passível de Distribuição - Uma Abordagem
+    Reconhecendo a Manutenção do Capital da Empresa São Paulo. Tese de Doutorado,
+    FEA/USP.
+
+    SANTOS, A. (1980). Aspectos da Conversão de Demonstrações Financeiras para Moeda
+    Estrangeira.  São Paulo, 1980. Tese de Doutorado, FEA/USP.'
+  course: '1. HISTÓRICO DA INFLAÇÃO NO BRASIL, DESENVOLVIMENTO DOS MODELOS DE CORREÇÃO
+    MONETÁRIA DE BALANÇOS (CMB) E CORREÇÃO MONETÁRIA INTEGRAL (CMI)
+
+    1.1 Como a inflação afeta a empresa e suas informações.
+
+    1.2 Caracterização de itens monetários (puros e impuros) e não monetários
+
+    1.3 Cálculo de ganhos e perdas em itens monetários
+
+    1.4 Cálculo de receitas e despesas financeiras reais
+
+    1.5 Ajuste a valor presente de ativos e passivos monetários.
+
+    1.6 Modelo de Correção Monetária de Balanços (CMB).
+
+    1.7 Modelo de Correção Monetária Integral (CMI).
+
+    1.8 Reflexos nos tributos sobre os resultados.
+
+    1.9 Análise do Pronunciamento Técnico CPC 42 – Contabilidade em Economia Hiperinflacionária
+    (IAS 29 – Financial Reporting in Hyperinflationary Economies).
+
+    2.CONVERSÃO DE DEMONSTRAÇÕES CONTÁBEIS PARA MOEDA DE APRESENTAÇÃO
+
+    2.1 Moeda funcional, moeda de apresentação, moeda local e moeda estrangeira.
+
+    2.2 Reconhecimento e mensuração de transações em moeda estrangeira.
+
+    2.3 Avaliação de investimentos no exterior.
+
+    2.4 Métodos de conversão de demonstrações contábeis.
+
+    2.5 Ajuste Acumulado de Conversão.
+
+    2.6 Análise do Pronunciamento Técnico CPC 02 – Efeito das Mudanças nas Taxas de
+    Câmbio e Conversão de Demonstrações Contábeis.'
+  course_name: 'EAC0114 - Contabilidade em Moeda Constante
+
+    Price Level Accounting'
+  deactivation: ''
+  instructors: '90328 - Ariovaldo dos Santos
+
+    1035522 - Guillermo Oscar Braunbeck
+
+    8593894 - Raquel Wille Sarquis'
+  lecture_credits: '4'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    Essa disciplina tem como objetivo a discussão e o aprofundamento dos conhecimentos
+    dos alunos no que se refere às demonstrações em moeda constante. Inflação e variações
+    cambiais podem distorcer de forma bastante relevante o real significado das informações
+    que são apresentadas nas demonstrações contábeis.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Apresentar e demonstrar aos participantes da disciplina os reflexos dos efeitos
+    que tanto a inflação quanto as variações cambiais podem provocar nas diversas
+    demonstrações contábeis. Ao aluno será oferecida a oportunidade de identificar
+    e, principalmente, compreender que, mesmo com taxas de inflação, ou variações
+    cambiais, que possam ser consideradas baixas por muitos, ainda assim no médio
+    e longo prazos seus efeitos são bastante perniciosos para o bom entendimento das
+    demonstrações contábeis.
+
+    Espera-se que, ao final da disciplina, os alunos estejam aptos a:
+
+    1. Entender os efeitos da perda de poder aquisitivo da moeda.
+
+    2. Identificar as diferenças entre variações nominais e variações reais.
+
+    3. Avaliar e distinguir o que são despesas financeiras reais.
+
+    4. Avaliar e distinguir o que são receitas financeiras reais.
+
+    5. Compreender o que são ganhos e perdas em ativos e passivos monetários.
+
+    7. Identificar e entender o que significa capital monetário e capital físico.
+
+    8. Elaborar demonstrações contábeis em moeda de poder aquisitivo constante.
+
+    9. Entender a diferença entre moeda funcional, moeda local e moeda de apresentação.
+
+    10. Reconhecer e mensurar transações em moeda estrangeira e participações societárias
+    no exterior.
+
+    11. Realizar o processo de conversão das demonstrações contábeis.
+
+    12. Entender o que são ganhos e perdas na conversão das demonstrações contábeis.
+
+    13. Avaliar de forma consistente as diferenças de resultado em moeda nacional
+    e moeda estrangeira.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220121000413'
+digest: 2OW2RULD362WIBLY7FVT5KUPDQDJ2L56
+updated_at: '20220121000413'
+url: https://web.archive.org/web/20220121000413id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0114&codcur=12033&codhab=4
