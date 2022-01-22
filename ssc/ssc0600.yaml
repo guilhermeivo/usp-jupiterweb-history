@@ -1,0 +1,59 @@
+courses:
+  activation: 15/07/2017
+  assessment: "Nota Final: =\t(NP-2) / 5 * Mrec + 7 - NP se Mrec   5; ou\nMax (NP,\
+    \ Mrec)  se Mrec < 5\nSendo\tNP = Nota da 1a Avaliação e\nMRec = Média da Recuperação"
+  bibliography: 'Complementar:
+
+    -ZIVIANI, N, Projeto de Algoritmos com Implementação em Pascal e C. Thompson,
+    2004.
+
+    -FARRER, H. Algoritmos Estruturados, Editora LTC 3ª edição, 1999.
+
+    -KERNIGHAM,B.; RITCHIE,D. The C Programming Language, Prentice-Hall, 1988.
+
+    -TENEMBAUM,A.M., e outros.  Data Structures Using C, Prentice-Hall, 1990.
+
+    -BOWMAN, D. Algorithms and Data Structures:  An Approach in C.IE-Oxford, 1994.
+
+    -FORBELLONE, A. L. V.; EBERSPACHER, H. F. - Lógica de Programação, 2a. Edição,
+    Makron Books, 2000.
+
+    -VICTORINE VIVIANE MIZRAHI, Treinamento em Linguagem C Módulo 1, Makron Books,
+    2005
+
+    -SCHILDT, HERBERT, C Completo e Total, Pearson, 2006.'
+  course: 'Conceitos básicos sobre computadores: hardware, software, sistema operacional,
+    compiladores, representação interna de dados e linguagem de programação. Resolução
+    de problemas e desenvolvimento de algoritmos: análise e solução de problemas,
+    representação e documentação. Estruturas de programas: decisão e repetição. Tipos
+    de dados simples. Modularização de programas: procedimentos, funções e passagem
+    de parâmetros. Tipos de dados compostos: vetores, matrizes, cadeias de caracteres,
+    registros, conjuntos e estruturas dinâmicas (ponteiros). Arquivos. Depuração de
+    programas. Programação em linguagem estruturada.
+
+    Programming structures: decision and repetition. Simple data types. Modularization:
+    procedures, functions and argument passing. Composite data types: arrays, matrices,
+    strings, register/structures, sets and dynamic structures (pointers). Files. Debugging.
+    Structured programming language'
+  course_name: 'SSC0600 - Introdução à Ciência de Computação I
+
+    Introduction to Computer Science I'
+  deactivation: ''
+  instructors: 235343 - Alexandre Cláudio Botazzo Delbem
+  lecture_credits: '4'
+  objectives: 'Apresentar os conceitos básicos para o desenvolvimento de programas,
+    utilizando uma linguagem de programação como apoio.
+
+    Present the basic concepts of computational thinking applied to problem solving.
+    Develop skills to write small programs using a programming language.
+
+    Basic concepts about computers and computing. Problem solving and algorithm design.
+    Programming structures. Simple data types. Modularization. Composite data types.
+    Files. Debugging. Structured programming language.'
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220122183721'
+digest: 5AR66QVQDQFZVJ5OFYDQ4X7QTBVTE25I
+updated_at: '20220122183721'
+url: https://web.archive.org/web/20220122183721id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0600&codcur=97001&codhab=0
