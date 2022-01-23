@@ -1,0 +1,92 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'Para os alunos reprovados por nota, mas beneficiados pelo sistema de
+    recuperação, esta será realizada através da aplicação de uma prova teórico-prática.
+
+    Nota de recuperação = (2 Teorica + Prática)/3'
+  bibliography: 'Literatura Básica:
+
+    ASSAD, E.D.; E.E. SANO   Sistemas de Informações Geográficas: Aplicações na Agricultura.  2ª
+    ed.   EMBRAPA-CPAC, Brasília - DF, 434p., 1998.
+
+    CROSTA, A.P.  Processamento Digital de Imagens de Sensoriamento Remoto.  Campinas,        UNICAMP.  1992.
+
+    FLORENZANO, T.G.  Iniciação em Sensoriamento Remoto.  São Paulo, Oficina de Textos.
+    3ª Ed. 2011.
+
+    LILLESAND, T.M.; KIEFER, R.N.  Remote Sensing and Image Interpretation.  3a. ed.  New   York,  John
+    Wiley and Sons.   1994.
+
+    LORENZZETTI, J.A . Princípios físicos de sensoriamento remoto. (1 ed.), São Paulo,
+    Blucher (2015). 292p.
+
+    MIRANDA, J.I. Fundamentos de Sistemas de Informações Geográficas – EMBRAPA Informação
+    Tecnológica. Brasília, DF. 425p. 2005.
+
+    MOFITT, F.H. MIKHAIL, E.M.  Photogrammetry. 8a. ed.  New York, Harpen  and Row,
+    Publishers. 1987.  876p.
+
+    MOREIRA, M.A..  Fundamentos do Sensoriamento Remoto e Metodologias de Aplicação.
+    Viçosa, Editora UFV.  4ª edição. 2011
+
+    NOVO, E.M.L.M.  Sensoriamento Remoto: Princípios e Aplicações. 3ª ed.  São Paulo,
+    Edgard Blucher. 2008.
+
+    PONZONI, F.J.; SHIMABUKURO, Y.E.; KUPLICH, T.M. Sensoriamento Remoto da Vegetação.
+    Segunda Edição Atualizada e Ampliada. Oficina de Textos, São Paulo, SP 2012.
+
+    SEGANTINE, P.C.L.  GPS: Sistema de Posicionamento Global. EESC/USP. São Carlos,
+    SP. 364p
+
+    Literatura Complementar:
+
+    AVERY, T.E.; BERLIN, G.L. Interpretation of aerial photographs.  Minneapolis,
+    Burgess Publishing Company, 4ª ed, 1985.
+
+    FORMAGGIO, A. R.; SANCHES, I. del A. Sensoriamento remoto em agricultura. São
+    Paulo: Oficina de Textos, 2017. 288p.
+
+    JENSEN, J.R.  Sensoriamento remoto de ambiente: uma perspectiva em recursos terrestres.
+    Parêntese Editora. São José dos Campos. 598p. 2009.
+
+    LIBAULT, A.  Geocartografia.  São Paulo, Ed. Da USP, 1975.
+
+    MONICO, J.F.G.  Posicionamento pelo GNSS: descrição, fundamentos e aplicações.
+    São Paulo, Editora UNESP.  2ª edição. 2007.'
+  course: 'Geotecnologias: Conceitos e aplicações do sensoriamento remoto a nível
+    terrestre, aéreo e orbital. Conceitos de sensoriamento remoto: princípios físicos
+    de sensoriamento remoto e níveis de aquisição de dados. Comportamento espectral
+    dos alvos: água, solo e vegetação. Sistemas sensores: funcionamento dos sistemas
+    sensores, tipos de sistemas, resoluções. Sensores proximais na agricultura: noções
+    básicas de agricultura de precisão, sensores aplicados para solo e vegetação.
+    Sistemas aéreos transportados: Princípios e aplicações. Sistemas orbitais: Classificação
+    dos satélites, descrição dos principais sistemas orbitais para monitoramento dos
+    recursos terrestres. Índices de vegetação: conceitos e aplicações.  Critérios
+    de interpretação de imagens: identificação de padrões de imagens. Sistemas de
+    Informação Geográfica (SIG): Conceitos e aplicações. Classificação de imagens:
+    conceitos da classificação de imagens, tipo de classificadores, amostragem de
+    dados e análises estatísticas da classificação.'
+  course_name: 'LEB0450 - Geotecnologias Aplicadas às Ciências Agrárias
+
+    Geotechnologies Applied to Agricultural Sciences'
+  deactivation: ''
+  instructors: '11967931 - Ana Claudia dos Santos Luciano
+
+    2151441 - Peterson Ricardo Fiorio'
+  lecture_credits: '4'
+  objectives: 'Aprimorar os conhecimentos básicos adquiridos na disciplina LEB340
+    - Geotecnologias aplicadas ao levantamento de projetos agrícolas, introduzir novos
+    conceitos relativos ao uso de geotecnologias aplicadas ao monitoramento agrícola,
+    florestal e ambiental, tais como: conceitualizar e capacitar os alunos para aplicação
+    do uso de sensoriamento remoto a nível terrestre, aéreo e orbital como ferramentas
+    de monitoramento de variabilidade de uso e cobertura da terra, para tomadas de
+    decisão nas áreas de atuação do engenheiro agrônomo e do engenheiro florestal.
+    Preparar o aluno para utilização de técnicas de análise espacial, através de sistemas
+    de informação geográfica (SIG).'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220123074620'
+digest: EWV3KSG2FGU6O2RCL7IUBBLEZQPUEH3I
+updated_at: '20220123074620'
+url: https://web.archive.org/web/20220123074620id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0450&codcur=11010&codhab=0
