@@ -1,0 +1,61 @@
+courses:
+  activation: 01/01/2019
+  assessment: Não será aplicada prova de recuperação.
+  bibliography: '1. Alberts, B.; Bray, D.; Hopkin, K.; Johnson, A.; Lewis, J.; Raff,
+    M.; Roberts, K.; Walter, P. 2011. Fundamentos da Biologia Celular. 3ª Edição brasileira.
+    Artmed, Porto Alegre.
+
+    2. De Robertis, E.M.F.; Hib, J. 2014. Biologia Celular e Molecular. 16ª Edição.
+    Editora Guanabara Koogan, Rio de Janeiro.
+
+    3. Junqueira L.C.U. & Carneiro J. 2005. Biologia Celular e Molecular. 8a Edição.
+    Editora Guanabara Koogan, Rio de Janeiro, 352 p.
+
+    4. Lodish, H.; Berk, A.; Matsudaira, P.; Kaiser, C.A.; Krieger, M.; Bretscher,
+    A.; Ploegh, H. Amon, A.; Scott, M.P. (2012). Biologia Celular e Molecular. 7ª
+    Edição. Artmed, Porto Alegre'
+  course: "1. Introdução à Biologia Celular: Importância da Biologia Celular para\
+    \ o entendimento de processos biológicos (desenvolvimento por ex.) e suas aplicações\
+    \ na Agropecuária. Importância da Biologia Celular para a Biotecnologia. 2. Morfologia\
+    \ da célula: A célula dos procariotos e dos eucariotos. Características e organização\
+    \ das células vegetais e animais. Macromoléculas. 3. Métodos de Estudo da Célula\
+    \ e composição química da célula. 4. Estrutura e função dos ácidos nucléicos.\
+    \ 5. Duplicação do DNA. 6. A natureza do gene e Transcrição. 7. Processamento\
+    \ do RNA e Síntese Protéica. 8. Núcleo, organização da cromatina, cromossomos.\
+    \ 9. Ciclo celular e Mitose. 10. Meiose e Gamentogênese. 11. Organização da membrana\
+    \ plasmática e parede celular. 12. Sistema de endomembranas, secreção e tráfego\
+    \ celular. 13. Mitocôndria e sua organização e detalhamento do seu genoma. 14.\
+    \ Cloroplastos e organização interna de suas membranas e detalhamento do seu genoma.\
+    \ 15. Sinalização celular.\nAULAS PRÁTICAS\n1. Uso do microscópio; 2. Estudo do\
+    \ tamanho da célula vegetal; 3 e 4. Métodos de estudo da célula e morfologia celular;\
+    \ 5. Estrutura dos ácidos nucléicos; 6. Extração de ácidos nucléicos; 7. Extração\
+    \ e Eletroforese de proteínas; 8. Cromossomos de plantas e animais; 9. Estrutura\
+    \ do gene eucariótico, 10. Mitose; 11. Meiose, 12. Membrana plasmática, parede\
+    \ celular, 13 \x96 Cloroplastos e mitocôndrias."
+  course_name: 'LGN0114 - Biologia Celular
+
+    Cell Biology'
+  deactivation: ''
+  instructors: 3294216 - Maria Carolina Quecine Verdi
+  lecture_credits: '4'
+  objectives: Dar aos alunos conhecimentos básicos da estrutura e funcionamento da
+    célula, de modo a capacitá-los para o entendimento da genética e do desenvolvimento
+    de espécies vegetais e animais de interesse agronômico. Detalhar ao aluno estruturas
+    celulares como a parede celular e seus componentes e sua importância para a produção
+    de biomassa; mitocôndria com detalhamento da sua organização de membranas e a
+    estrutura de seu DNA; e cloroplasto com detalhamento de suas subunidades internas
+    e do seu DNA. Ainda, as estruturas e a organização da membrana celular com seus
+    receptores e a importância da sinalização na interação Planta-Micro-Organismo
+    Inseto e outras. Mostrar aos alunos a importância do conhecimento do ciclo celular
+    incluindo o processo de divisão por mitose e meiose para o entendimento dos processos
+    de crescimento, diferenciação e reprodução dos seres vivos. Apresentar ao aluno
+    a visão de que o estudo da célula muito tem progredindo, sobretudo na análise
+    molecular de seus componentes, aspecto esse fundamental, com aplicações para a
+    Genética, Melhoramento e Biotecnologia.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220123074643'
+digest: IAGZHWEDZVGLB5QTBNDL2CWXGY4OGUA7
+updated_at: '20220123074643'
+url: https://web.archive.org/web/20220123074643id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0114&codcur=11010&codhab=0
