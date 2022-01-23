@@ -1,0 +1,111 @@
+courses:
+  activation: 01/01/2015
+  assessment: Essa disciplina NÃO oferecerá  prova de recuperação, uma vez que a nota
+    final é composta por várias atividades de trabalho além das notas de prova.
+  bibliography: '1. ALVES, J.D.  Materiais de Construção.  1974.  Livraria Nobel S/A.  2
+    volumes.
+
+    2. BAETA, F. C. Resistência dos materiais e dimensionamento de estruturas para
+    construções. Viçosa: Imprensa Universitária. 1990. 63p. (apostila).
+
+    3. BAUER, L.A.F. Materiais de construção. 4. ed. Rio de Janeiro: Livros Técnicos
+    e Científicos Editora, 1992. 892p.
+
+    4. BORGES, A.C.  Prática das Pequenas Construções.  1972.  Editora  Edgard Blucher
+    Ltda.  2 volumes.
+
+    5. CARDÃO, C. Técnica da construção. Belo Horizonte, Engenharia e Arquitetura,
+    1983. v.2 .
+
+    6. CREDER, H. Instalações hidráulicas e Sanitárias. Rio de Janeiro, Livros Técnicos
+    e Científicos, 1987, 404p.
+
+    7. HELENE, P. H.. Manual Prático de Dosagem.. 2.ed.. São Paulo. Pini, 2001.
+
+    8. IPT - Instituto de Pesquisa Tecnológicas do Estado de São Paulo S.A. Divisão
+    de Edificações. Cobertura com estrutura de madeira e telhados com telhas cerâmicas.
+    São Paulo: IPT, 1988. 71p.
+
+    9. Manual Técnico do DOP.  1987.  Caderno de Encargos de  Edificações.  Tomo III.  5a.
+    ed.-Secretaria de Obras -Departamento de Edifícios e Obras Públicas do Governo
+    do Estado de São Paulo.
+
+    10. MORAES, M. da C. Estruturas de fundações. São Paulo: McGraw-Hill do Brasil,
+    1976. 364p.
+
+    11. NEIZEL, E. Desenho Técnico para a Construção Civil. 1974. Coleção Desenho
+    Técnico.  E.P.U., EDUSP N. 1.
+
+    12. PARETO, L. Resistência dos materiais. Tradutor: SOARES, J. de B. São Paulo:
+    Hemus editora limitada, 1982. 180p.
+
+    13. PFEIL, W. Estrutura de madeira. 5. ed. - Rio de Janeiro: LTC - Livros Técnicos
+    e Científicos Ed., 1989.295 p.
+
+    14. PIANCA, J.B.  Manual do Construtor.  1970. Editora Globo, 2  volumes.
+
+    15. PEREIRA, M. F. Construções rurais. v.2. São Paulo, Livraria Nobel S.A , 1983,
+    104p.
+
+    16. PETRUCCI, E. G. R. Materiais de construção. 3.ed. Porto Alegre: Globo. 1978,
+    435p.
+
+    17. PETRUCCI, E.G.R. Concreto de cimento portland. 4. ed. - Porto Alegre: Globo.
+    1980. 305p.
+
+    18. PETRUCCI, E.G.R. Materiais de construção. 3. ed.- Porto Alegre: Globo. 1978.
+    435 p.
+
+    19. PFEIL, W. Estrutura de madeira. 5. ed. - Rio de Janeiro: LTC - Livros Técnicos
+    e Científicos Ed., 1989. 295 p.
+
+    20. ROCHA, A.M. DA Concreto armado. vol. 1. 21. ed. São Paulo: Nobel, 1985. 550p'
+  course: 'Técnicas de desenho: Materiais e instrumentos de desenho. Cotação de desenhos.
+    Tipos e espessura de linhas. Formato, tamanho e dobramento das folhas de desenho.
+    Desenho arquitetônico: Planta baixa, posição do telhado, planta de situação, cortes
+    longitudinal e transversal e fachada. Materiais de construção: Aglomerantes: cales,
+    classificação, fabricação, extinção e conservação da cal. Cimento: considerações
+    gerais, "pega" e endurecimento do cimento, componentes e hidratação.  Agregados:
+    considerações gerais, aplicações e classificação.  Agregados miúdos:  classificação.
+    Agregados graúdos: considerações gerais, classificação.  Água de amassamento:
+    definição, qualidade da água e impurezas. Argamassas: generalidades, tipos, preparo
+    das argamassas e traços.  Concretos: generalidades, tipos, traços usuais de concretos,
+    fator água/cimento. Manuseio do concreto: amassamento, transporte, adensamento
+    e cura.  Madeiras: considerações gerais, madeiras de construção, nomenclatura,
+    bitolas e empregos.  Produtos cerâmicos: considerações gerais, principais produtos
+    (tijolos, telhas, manilhas, azulejos e ladrilhos).   Fundações: Considerações,
+    pesquisa do sub-solo, determinação da resistência do solo pelos métodos da percussão
+    e mesa de Barberot, cálculos. Classificação das fundações: direta contínua e descontínua.
+    Estrutura dos telhados: considerações gerais, composição, material de cobertura,
+    madeiramento. Prática de Projeto: elaboração e execução de um projeto arquitetônico
+    realizado em classe. Habitação rural: considerações gerais, funcionalidade, ambiência
+    em casas rurais, orientação, detalhes construtivos, dimensionamento e projeto.  Realização
+    de projeto extraclasse utilizando ferramentas computacionais (softwares livres
+    para projetos arquitetônicos).'
+  course_name: 'LEB0418 - Construções Rurais e Desenho Técnico
+
+    Rural Construction and Technical Drawing'
+  deactivation: ''
+  instructors: '2699852 - Iran José Oliveira da Silva
+
+    2988034 - Késia Oliveira da Silva Miranda'
+  lecture_credits: '4'
+  objectives: A disciplina de Construções Rurais tem por objetivo transmitir aos alunos
+    os conhecimentos gerais das técnicas indispensáveis à elaboração de projetos agropecuários.
+    A disciplina considera a especificidade da formação do Engenheiro Agrônomo e Florestal
+    no contexto das construções rurais, onde são abordadas de maneira eminentemente
+    prática, desde as técnicas de desenho, as regras básicas para a execução de projetos
+    arquitetônicos, materiais de construções, princípios básicos das fundações, fundamentos
+    do projeto. São inclusas  visitas periódicas às obras civis, de maneira a favorecer
+    a construção do conhecimento por meio da interação alunos e operários de uma obra,
+    em diversas etapas da construção, para a visualização e complementação do estudo.
+    São ministrados os conhecimentos básicos para o planejamento e elaboração de Projetos
+    e Construções Rurais, que são desenvolvidos em classe e extraclasse, como parte
+    do aprendizado.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220123074644'
+digest: PQ7OARIKPTQXC7SJH2AIYE25NG4ZD67D
+updated_at: '20220123074644'
+url: https://web.archive.org/web/20220123074644id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0418&codcur=11010&codhab=0
