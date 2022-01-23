@@ -1,0 +1,77 @@
+courses:
+  activation: 01/01/2020
+  assessment: O sistema de recuperação é baseado em uma única prova teórico-prática,
+    com a matéria toda do semestre, sendo a média final calculada de acordo com a
+    resolução COG-3583 de 29/09/89.
+  bibliography: 'Literatura Básica:
+
+    AZEVEDO NETO, J.M. et alii  Manual de Hidráulica. 9ª edição, E. Edgard Blücher.
+    São Paulo. 2015. 632p.
+
+    BOTREL, T. A. ; MEDONÇA, F.C. ; BOMBARDELLI, W. W. A. ; ALMEIDA, A. M. ; BARROS,
+    T. H. S. ; CAMARGO, A. P. . Hidrabook. 1. ed. Piracicaba: ESALQ/USP, 2016. v.
+    1. 80p.
+
+    LENCASTRE, M.  Manual de Hidráulica Geral,  E. Blücher/USP,  1972.
+
+    PERES, J.G.. Hidráulica Agrícola, 2008. Araras, SP: UFSCAR, 377 p.
+
+    Literatura Complementar:
+
+    CETESB.  Bombas e Sistemas de Recalque.  São Paulo, 1974.
+
+    MAC INTYRE, A.S.  Bombas e Instalações de Bombeamento.  Rio de Janeiro,  E. Guanabara
+    - Dois, 1980.
+
+    PORTO, R.M.. Hidráulica Básica, 4ª ed, São Carlos, SP: Escola de Engenharia de
+    São Carlos, USP, 2006.  519 p.
+
+    VENNARD, J.K. & STREET, R.L.  Elementos de Mecânica dos Fluídos. Rio de Janeiro,  Ed.
+    Guanabara - Dois, 1978.'
+  course: 'O programa de Hidráulica abrange os módulos apresentados a seguir, desenvolvidos
+    em aulas teórico-práticas. As práticas consistem de cálculos e dimensionamentos,
+    além de demonstrações e utilização de instrumental no Laboratório de Hidráulica:
+    Estática dos fluídos, estudo das pressões nos fluídos, estudo das forças atuantes
+    sobre superfícies e corpos imersos. Dinâmica dos fluídos, equação da Continuidade,
+    equação de Bernoulli, aplicações no escoamento dos fluídos. Condutos forçados
+    (Canalizações), propriedades, perdas de carga e adutoras por gravidade. Sistemas
+    de distribuição, dimensionamentos. Bombas hidráulicas, tipos,  classificação,
+    princípios de funcionamento, curvas características de operação, escolha de bombas,
+    limites de sucção.  Sistemas de recalque, acessórios, golpe de Aríete. Instalação
+    e operação dos sistemas, dimensionamentos. Condutos Livres (Canais), propriedades,
+    sistemas e dimensionamentos. Hidrometria, estudo e aplicação dos principais métodos
+    e instrumentos para a medida de velocidade e da vazão em canais e em canalizações.
+    Novas tecnologias aplicadas à Hidráulica.'
+  course_name: 'LEB0472 - Hidráulica
+
+    Hydraulics'
+  deactivation: ''
+  instructors: '711726 - Fernando Campos Mendonça
+
+    1286078 - Patricia Angélica Alves Marques
+
+    57293 - Rubens Duarte Coelho
+
+    52753 - Sergio Nascimento Duarte'
+  lecture_credits: '4'
+  objectives: A Mecânica dos Fluídos é a Ciência que trata dos princípios e das leis
+    que regem o comportamento dos fluídos, tanto em repouso, por intermédio das leis
+    da Hidrostática, quanto em movimento, mediante as leis da Hidrodinâmica. O seu
+    conhecimento é, portanto, essencial para que se possa condicionar esse comportamento
+    por meio de normas técnicas de Engenharia. A Hidráulica é o ramo da Engenharia
+    que se preocupa basicamente em captar, controlar, conduzir, elevar e armazenar
+    a água, exercendo assim controle ou utilização da mesma, aplicando as leis da
+    Mecânica dos Fluídos. Esse manejo da água será bem sucedido desde que o engenheiro
+    possa planejar, projetar, dimensionar, construir e operar estruturas hidráulicas
+    apropriadas. Assim, o lecionamento dessa disciplina tem o propósito de dar ao
+    aluno os conhecimentos básicos da Hidráulica e das técnicas essenciais da Engenharia,
+    a fim de que, como profissional, possa realizar os itens necessários ao manejo
+    e aos projetos hidráulicos relacionados aos recursos hídricos, para todos os fins
+    dentro do campo da Engenharia Agronômica e Florestal.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220123075830'
+digest: XUY33JECDBC3VFL4YJZFR6RHSIPU4EXE
+updated_at: '20220123075830'
+url: https://web.archive.org/web/20220123075830id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0472&codcur=11010&codhab=0
