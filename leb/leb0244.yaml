@@ -1,0 +1,76 @@
+courses:
+  activation: 01/01/2022
+  assessment: Para os alunos reprovados por nota, mas beneficiados pelo sistema de
+    recuperação, esta será realizada através da aplicação de uma única prova teórica,
+    abrangendo todo o programa do semestre letivo.
+  bibliography: 'BIBLIOGRAFIA BÁSICA
+
+    BRASIL, MINISTÉRIO DE MINAS E ENERGIA, Balanço Energético Nacional www.epe,gov.br
+    , atualizado anualmente e acesso gratuito.
+
+    MOLINA JUNIOR, W. F., ROMANELLI, T. L. Recursos energéticos e ambiente. Curitiba
+    : Intersaberes, 2015 p.311.
+
+    BIBLIOGRAFIA  COMPLEMENTAR:
+
+    CLEVELAND, C. J. (Ed.) Encyclopedia of energy. Amsterdam Elsevier Academic Press
+    [2005], c2004 Boston. 6 v. ; ill : 29 cm.
+
+    GUNDERSON, L. H.; HOLLING, C. S. Panarchy -Understanding Transformations in Human
+    and Natural Systems
+
+    RIPOLI, T.C.C.; RIPOLI, M.L.C. Biomassa de cana-de-açúcar: colheita, energia e
+    ambiente. 2ª ed. Ed. dos autores. Piracicaba. 2009. 333 p.
+
+    MEADOWS, D.; RANDERS, J.; MEADOWS, D. Limits to growth: 30-year update. Chelsea
+    Green Publishing Co. White River Junction. 2004. 338p.
+
+    KLARE, M. T. Resource wars.Henry Holt and Cp. New York. 2001. 289p.
+
+    ÇENGEL, Y.A.; BOLES, M.A. Termodinâmica. 3a ed. McGraw-Hill. Lisboa. 2001. 1007p.
+
+    ODUM, H.T. Environmental Accounting: Emergy and decision making. New York: John
+    Wiley, 1996. 370 p.
+
+    PIMENTEL, D. Handbook of energy utilization in agriculture. Boca Raton: CRC Press.
+    1980.
+
+    ROMANELLI, T. L. Physical and environmental approaches for energy sources In:
+    Agroenergy and Sustainability D’ARCE, M. A. B. R., VIEIRA, T. M. F. S., ROMANELLI,
+    T. L (orgs). São Paulo : EDUSP, 2009, v.1, p. 17-33. ISBN: 978-85-314-1215-8.'
+  course: "1) Apresentação do Balanço Energético Nacional; 2) Conceitos sobre energia;\
+    \ 3) Conceitos e aplicações na diagramação de sistemas de produção; 4) Determinação\
+    \ dos fluxos de materiais em sistemas de produção; 5) Análises ambientais baseadas\
+    \ em fluxos de energia; 6) Emergia; 7) Noções de Análise de Ciclo de Vida; 8)\
+    \ fontes de energia (solar, hidráulica, eólica, petróleo, etanol, biomassa florestal;\
+    \ nuclear, cogeração, biodigestão) e seus impactos ambientais; 8) abordagens integradas\
+    \ de fontes de energia.\n1) Concepts on energy, work, heat and available energy;\
+    \ 2) Concepts on electromagnetism and electricity generation; 3) energy sources\
+    \ and their impacts in the environment; 4) Wind energy \x96 principles, wind engines,\
+    \ energy potential; 5) hydraulic energy \x96 principles, turbines, energy potential;\
+    \ 6) solar energy \x96 principles, heat and photovoltaic; 7) oil and its derivates;\
+    \ 8) sugarcane as an energy crop \x96 ethanol and biomass; 9) Wood and its derivates\
+    \ \x96 firewood, charcoal and other options; 10) biogas \x96 raw material, conversion\
+    \ process and applications; 11) national energy balance; 12) environmental evaluations\
+    \ based on energy flows"
+  course_name: 'LEB0244 - Recursos Energéticos e Ambiente
+
+    Energy Resources and Environment'
+  deactivation: ''
+  instructors: 2230585 - Thiago Liborio Romanelli
+  lecture_credits: '2'
+  objectives: 'Fornecer aos alunos embasamento técnico-científico para poderem enfrentar
+    a nova demanda exigida pela sociedade no que diz respeito ao conhecimento das
+    aplicações dos diversos tipos de energias em utilização, com respeito ao ambiente
+    e em face da escassez de energias não renováveis.
+
+    To provide to the students technical and scientific knowledge for them to face
+    the new demand from society regarding alternative energy sources, their implication
+    in the environment and the scarcity of non renewable sources.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220123074740'
+digest: MXUWAJ5CWGVUUEGRKAOFU33URK32DV2W
+updated_at: '20220123074740'
+url: https://web.archive.org/web/20220123074740id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0244&codcur=11080&codhab=4
