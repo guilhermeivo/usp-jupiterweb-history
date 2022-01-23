@@ -1,0 +1,129 @@
+courses:
+  activation: 01/01/2004
+  assessment: Será efetuada uma prova substitutiva a uma das notas de provas, caso
+    não seja alcançada a média final de aprovação. Esta prova abrangerá todo o conteúdo
+    ministrado e será dissertativa.
+  bibliography: 'Miller, G.T. Jr. Living in the environment. Wadsworth Pub.Co.10th
+    Ed. Boston, EUA. 761 pp. II.1998.Pomeroy, L. Concepts of ecosystem ecology. A
+    comparative. Spring-Verlag. NY 1988.
+
+    Odum, H.T. Ecologia. Guanabara, Rio de Janeiro. 1983.
+
+    Odum, H.T. Systems ecology. Na introduction. John Wiley & Sons, New York, 1988.
+
+    Pinto Coelho, R.M. Fundamentos em Ecologia. Ed. Artmed. Porto Alegre, RS 252pp.
+    2000.
+
+    Rambler, M.B.; Margulis, L. & Fester, R. Global ecology. Towards a science of
+    the biosphere. Academic Press. New York, 1989.
+
+    Ricklefs, R.E. A economia da natureza. 3ra Ed. Ed. Guanabara-Koogan, Rio de Janeiro.
+    470pp. 1996. Sala, ºE.; Jackson, R.B. Mooney'
+  course: 'Introdução, evolução conceitual e definições de Ecologia
+
+    Introdução, evolução conceitual e histórica da Ecologia de sistemas. - Definições,
+    fundamentos e terminologia em Ecologia de Sistemas. - Estudos Integrados e Abordagens
+    Utilizadas. - Hierarquia e níveis de organização no âmbito da ecologia. - O princípio
+    das propriedades emergentes. - Conceituação ediferenças entre autoecologia, sinecologia
+    e ecologia de sistemas. - Teoria de Gaia. - Ecologia de Paisagens.
+
+    Ecossistemas
+
+    Teoria geral de sistemas. - Sistemas e modelos. - Conceitos de ecossistemas e
+    seu histórico. - Principais componentes bióticos e abióticos do ecossistema. -
+    Estrutura, tamanho, complexidade e representação dos ecossistemas. - Características
+    dos ecossistemas: natureza cibernética e estabilidade. - Classificação e exemplos
+    de ecossistemas.
+
+    Fluxo de energia nos ecossistemas
+
+    - Revisão dos conceitos fundamentais relativos à energia: 1ra e 2da Leis da termodinâmica.
+    - Radiação solar, fotossíntese e respiração. - Conceituação de produção; produção
+    primária bruta; produção primária líquida e produção secundária. - Subsídios de
+    energia. - Distribuição da produção primária. - cadeias e teias alimentares e
+    níveis tróficos. - Metabolismo e tamanho de indivíduos. - Estrutura trófica e
+    pirâmides ecológicas. - Princípios de trocas de energia e matéria entre níveis
+    tróficos e entre os ecossistemas. - O conceito de capacidade de suporte. - Produtividade
+    comparada dos ecossistemas. - Ecossistemas aquáticos versus ecossistemas terrestres:
+    características. - Método de estimativa da produção primária
+
+    Ciclagem de matéria nos ecossistemas
+
+    Padrões e tipos básicos de Ciclos Biogeoquímicos. - Os ciclos da água, carbono,
+    nitrogênio, fósforo e enxofre. - Interações entre os ciclos biogeoquímicos. -
+    A ciclagem de nutrientes em ecossistemas terrestres e aquáticos. - Estudos quantitativos
+    dos ciclos biogeoquímicos. - A ciclagem de elementos não essenciais. - A ciclagem
+    de nutrientes em ecossistemas temperados e tropicais. - Efeitos da ação antrópica
+    nos ciclos biogeoquímicos de ecossistemas aquáticos e terrestres. - Efeitos da
+    ação antrópica nos ciclos biogeoquímicos globais do carbono e do nitrogênio. -
+    Estudos quantitativos: uso de traçadores biogeoquímicos em estudos de ciclagem
+    de nutrientes em  ecossistemas  terrestres e aquáticos.
+
+    Fatores limitantes e o ambiente físico
+
+    Conceito de fatores limitantes; Lei do Mínimo de Liebig. - Compensação de fatores
+    e ecotipos. - Condições de existência como fatores reguladores. - Condições de
+    existência como fatores reguladores. - Conceitos de tolerância e nicho ecológico.
+    - Revisão sobre  o meio líquido, a atmosfera, radiação e substratos sólidos, e
+    sua importância como fatores limitantes.
+
+    Desenvolvimento e evolução do ecossistema
+
+    Desenvolvimento do ecossistema: sucessão ecológica, alogenia versus autogenia,
+    substituição de espécies. - Conceito de clímax. - Diversidade, Estabilidade e
+    maturidade dos ecossistemas naturais e sob ação antrópica: Definições. - Significado
+    da estabilidade: constância, persistência, inércia, elasticidade, amplitude, estabilidade
+    cíclica e de trajetória. - Respostas evolutivas às mudanças no ambiente físico,
+    na disponibilidade de recursos e na pressão de predação. - Conseqüências para
+    a comunidade das estratégias individuais.
+
+    Agentes causadores de modificações nos ecossistemas
+
+    - Fatores físicos (clima e gemorfologia) e processos bióticos. - Regimes de perturbação.
+    - Mudanças e escalas temporais de longa duração. - Uso do solo-paisagens sociais
+    e culturais. - Problemas ambientais e suas causas. - Histórico resumido do uso
+    e conservação dos recursos naturais. - Mudanças Globais e seus efeitos na estrutura
+    funcionamento dos ecossistemas.
+
+    Principais problemas ambientais presentes
+
+    - Desmatamento e perda de biodiversidade. - Aquecimento Global e camada de ozônio.
+    - Poluição do ar. - Poluição do solo. - Poluição da água.
+
+    Manejo sustentado dos recursos naturais
+
+    - Sistemas de produção. - Conservação da biodiversidade e da integridade ecológica
+    dos ecossistemas. - Restauração de Ecossistemas degradados.'
+  course_name: 'CEN0148 - Ecologia de Sistemas
+
+    Systems Ecology'
+  deactivation: ''
+  instructors: 3210215 - Alex Vladimir Krusche
+  lecture_credits: '4'
+  objectives: 'O objetivo principal desta disciplina é oferecer ao aluno conhecimento
+    básico sobre ecologia de sistemas, incluindo sua origem, conceitos fundamentais
+    e aplicações na solução de problemas. O entendimento da estrutura e do funcionamento
+    dos ecossistemas constitui um dos grandes desafios das ciências naturais, devido
+    à complexidade dos mesmos. Conhecer os princípios e conceitos gerais da ecologia
+    de sistemas é, portanto, essencial para entender a dinâmica dos mesmos. Ao final
+    do curso, os alunos deverão: 1. ter adquirido os conhecimentos científicos básicos
+    da área de ecologia de sistemas, incluindo conceitos, leis e teorias; 2. compreender
+    as condições de existência dos seres vivos e as interações entre eles e o seu
+    meio, bem como os efeitos das ações antrópicas na estrutura e funcionamento dos
+    ecossistemas; 3. reconhecer a importância desta ciência para manejo racional dos
+    recursos naturais, bem como a interação da mesma com as demais áreas do conhecimento;
+    4. estar familiarizado com os principais problemas ambientais globais e com as
+    bases científicas para a mitigação e/ou solução dos mesmos; 5. ter desenvolvido
+    os mecanismos básicos de capacitação para o desempenho de atividades de ensino
+    e pesquisa na área de ecologia. Estes conhecimentos serão utilizados como um arcaboço
+    para pesquisa, análise e manejo de ecossistemas (solução de problemas). As atividades
+    serão desenvolvidas através de : 1- aulas teóricas; 2- leitura e discussão de
+    leituras representativa do estado da arte na pesquisa na área e 3- resolução de
+    exercícios desenhados para fornecer experiência com algumas ferramentas quantitativas.'
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220123074654'
+digest: AJV7K4N5CUDVJODMTIXZRGLZ5HM3345V
+updated_at: '20220123074654'
+url: https://web.archive.org/web/20220123074654id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0148&codcur=11080&codhab=4
