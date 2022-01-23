@@ -1,0 +1,63 @@
+courses:
+  activation: 01/01/2008
+  assessment: uma prova teórica de todo conteúdo.
+  bibliography: 'Branco, S.M. Poluição: a morte de nossos rios. 2ºed., São Paulo:
+    ASCETESB, 1983, 166p.
+
+    Davis, S.N. e Dewist R.J.M. Hydrology. John Wiley & Sons, USA.1966.
+
+    Eisenreich, S.J. Atmospheric Pollutants in Natural Waters. Ed. Ann Arbor Science,
+    USA, 1981.
+
+    Ferri, M.G. Ecologia-temas e problemas brasileiros. Ed. da USP.1974
+
+    Morgan, S. Aquatic Chemistry. John Wiley & Sons, USA.1981.
+
+    Mota, S. Introdução à Engenharia Ambiental, 2º ed., Rio de Janeiro: ABES, 2000,
+    416p.
+
+    Philippi Jr., A.; Roméro, M.A.; Bruna, G.C. (Eds.) Curso de Gestão Ambiental,
+    Barueri, SP:Manole, 2004, 1045p.
+
+    Ramade, F. (Ed.) Ecotoxicology, John Wiley & Sons, USA.1987.
+
+    SANTOS, M.L.M.M. Manual de saneamento. COEDE/ASPLAN/FNS, 3 ed., 373p. www.anbio.org.br
+
+    Suguio Kenitiro Água, Holos Editora, 2006. http://www.holoseditora.com.br/detalhes.asp?Id=66.
+
+    Thornton I. Applied Environmental Geochemistry. Academic Press, USA, 1983.
+
+    Zagatto, P.A.; Bertoletti, E. (Eds) Ecotoxicologia Aquática: princípios e aplicações.
+    RiMa. 2006.'
+  course: '3.1 Conceito de implicações ecológicas da poluição. Relação dose-resposta,
+    influência de fatores ecológicos e efeitos tóxicos, métodos analíticos para detectar
+    poluentes. Monitoramento de poluentes.
+
+    3.2 Tipos de poluentes.
+
+    3.3 Poluição acidental. Poluição industrial. Causas da poluição.
+
+    3.4 Danos causados pela poluição nos ecossistemas.
+
+    3.5 Poluentes que afetam os ecossistemas Marinhos e Continentais. Poluentes de
+    Agrossistemas, poluentes atmosféricos e poluentes da hidrosfera. Compostos organohalogenados,
+    organoclorados, metais e poluição nuclear.
+
+    3.6 Remediação e biorremediação de ambientes poluídos, técnicas e organismos utilizados.
+
+    3.7 Conceitos sobre desenvolvimento sustentável.'
+  course_name: 'CEN0212 - Poluição dos Ecossistemas Terrestres, Aquáticos e Atmosféricos
+
+    Pollution of Terrestrial, Aquatic and Atmospheric Ecosystems'
+  deactivation: ''
+  instructors: 54115 - Plinio Barbosa de Camargo
+  lecture_credits: '4'
+  objectives: Noções do Ambiente como um todo. O que é poluição, como ocorre e o que
+    afeta no ambiente terrestre, aquático e atmosférico.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220123074711'
+digest: EVZVN22SVJFKMKYB6IT72ND3MBMD5TN6
+updated_at: '20220123074711'
+url: https://web.archive.org/web/20220123074711id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0212&codcur=11080&codhab=4
