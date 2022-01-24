@@ -1,0 +1,64 @@
+courses:
+  activation: 01/01/2014
+  assessment: provas e/ou trabalhos
+  bibliography: 'LAUDON e LAUDON, Sistemas de Informação Gerencial, 7ª ed.
+
+    CUNHA, M. A, ANNENBERG, D., AGUNE, R. Prestação de serviços públicos
+
+    eletrônicos ao cidadão. In KNIGHT, P., FERNANDES, C., CUNHA, M.A.
+
+    E-Desenvolvimento no Brasil e no Mundo. S. Caetano do Sul, Yendis,
+
+    2007.
+
+    CUNHA, M.A.V.C.; MIRANDA, P.R.M. (2008) Uso e Implicações Sociais das
+
+    TIC pelos Governos no Brasil. Anais do Enanpad 2008.
+
+    FOUNTAIN, J.. Construindo um Estado virtual: tecnologia da informação
+
+    e mudança institucional. Brasília, ENAP, 2005.
+
+    VAZ, J.C. Internet e promoção da cidadania: a contribuição dos portais
+
+    municipais. S. Paulo, Ed. Blücher, 2007.
+
+    DAVENPORT, T. Reengenharia de processos. São Paulo: Campus, 1994.
+
+    LAURINDO, F. & ROTONDARO, R. Gestão integrada de processos e da
+
+    tecnologia da informação. S. Paulo, Atlas, 2006.
+
+    VAZ, J.C. Processos de trabalho no setor público: gestão e redesenho.
+
+    Disponível em http://josecarlosvaz.pbwiki.com/Redesenho+de+Processos.
+
+    2008.'
+  course: "1. Conceito, funções e componentes de um sistema de informação (SI);\n\
+    2.\x93Tipos\x94 de SI e suas aplicações gerenciais: dos SPTs aos sistemas integrados;\n\
+    3. A decisão de investir em TI: problemas e decisões relativos ao\ndesenvolvimento\
+    \ e implantação de SI;\n4. Segurança, ética e outras questões atuais envolvendo\
+    \ o uso de SI;\n5. Sistemas de Informação para além da eficiência das organizações:\
+    \ TI\ncomo direito, TI e cidadania;\n6. Tendências e possibilidades da Tecnologia\
+    \ de Informação na gestão pública;\n7. Governo eletrônico\n8. Processos e sua\
+    \ gestão: conceitos básicos\n9. Redesenho de processos"
+  course_name: 'ACH3515 - Gestão de Processos e Tecnologia da Informação
+
+    Information Technology and Business Process Management for Public Sector'
+  deactivation: ''
+  instructors: '885940 - Jose Carlos Vaz
+
+    1329307 - Martin Jayo'
+  lecture_credits: '4'
+  objectives: Desenvolver conhecimentos no uso e administração de Tecnologia da Informação,
+    com ênfase no uso estratégico de sistemas de informação na gestão de políticas
+    públicas.  Desenvolver nos alunos a capacidade de participar em processos decisórios
+    relacionados ao (re) desenho de processos de trabalho e ao uso da tecnologia da
+    informação no campo das políticas públicas.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220124144925'
+digest: L47WSJNZID6U27GHTHV6Y4FVAOYMOUYW
+updated_at: '20220124144925'
+url: https://web.archive.org/web/20220124144925id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=ACH3515&codcur=86350&codhab=204
