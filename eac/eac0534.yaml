@@ -1,0 +1,218 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    SLOMSKI, Valmor. Controladoria e Governança na Gestão Pública. São Paulo: Atlas,
+    2005.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    PINDYCK, R. S. & RUBINFELD, D. L. Microeconomia. Tradução Pedro Catunda; revisão
+    técnica Roberto Luis Troster. São Paulo: Makron Books, 1994.
+
+    SAMUELSON, P.A. & NORDHAUS, W. D. Economia. 14 ed. Tradução Elsa N. Fontainha
+    & Jorge P. Gomes. Lisboa – Portugal, McGraw-Hill, 1993.
+
+    CATELLI, Armando. CONTROLADORIA: Uma Abordagem da Gestão Econômica GECON. Atlas:
+    São Paulo, 2001.'
+  course: '1. EVOLUÇÃO HISTÓRICA DA CONTABILIDADE
+
+    1.1 Contabilidade Primitiva: dos primórdios até o ano de 1202 da era cristã
+
+    1.2 Contabilidade Moderno-contemporânea
+
+    2. CONTROLADORIA NA GESTÃO PÚBLICA
+
+    2.1 Definindo Controladoria
+
+    2.2 Motivos para o Estudo da Controladoria na Gestão Pública
+
+    3. SOCIEDADE, ESTADO E A TEORIA DO AGENCIAMENTO
+
+    3.1 Sociedade
+
+    3.2 Estado
+
+    3.2.1 Imposto ou Integralização de Capital
+
+    3.2.2 Funções Clássicas do Estado
+
+    3.3 Teoria da Agência
+
+    3.3.1 Relação Agência-principal no Estado
+
+    3.3.2 Assimetria Informacional no Estado
+
+    3.3.3 Incentivos no Sistema Agente-principal
+
+    4. ENTIDADES PÚBLICAS, EXTERNALIDADES E RISCO MORAL
+
+    4.1 Entidades Públicas Governamentais
+
+    4.2 Entidades Públicas Não Governamentais
+
+    4.3 Externalidades
+
+    4.3.1 Externalidades Positivas
+
+    4.3.2 Externalidades Negativas
+
+    4.4 Contratos Incompletos
+
+    4.5 Risco Moral
+
+    5. PROCESSO DE PLANEJAMENTO NOS MUNICÍPIOS BRASILEIROS
+
+    5.1 Refletindo sobre o planejamento público
+
+    5.2 Plano Diretos no Município
+
+    5.3 Programa de Governo
+
+    5.4 Plano Plurianual
+
+    5.5 Lei de Diretrizes Orçamentárias
+
+    5.6 Lei de Orçamento Anual
+
+    6. UMA REFLEXÃO SOBRE OS RECURSOS PÚBLICOS
+
+    6.1 Eficiência e Eficácia como Pilares do Uso dos Recursos Públicos
+
+    6.2 Recursos Humanos
+
+    6.3 Recursos Financeiros
+
+    6.4 Recursos Físicos
+
+    6.4.1 Bens de Uso Especial ou Patrimônio Administrativo
+
+    6.4.2 Bens Dominicais ou Patrimônio Disponível
+
+    6.4.3 Bens de Uso Comum
+
+    7. CONTABILIDADE DE CUSTOS NAS ENTIDADES PÚBLICAS
+
+    7.1 Origem e evolução da Contabilidade de Custos
+
+    7.2 Conceitos Básicos]
+
+    7.3 Sistemas de Acumulação de Custos
+
+    7.4 Escopo
+
+    7.5 Critérios de Avaliação dos Materiais
+
+    7.6 Encargos Sobre a Mão de Obra
+
+    7.7 Métodos de Custeio
+
+    8. RESULTADO ECONÔMICO: UM NOVO PARADIGMA NA GESTÃO PÚBLICA
+
+    8.1 Conceitos Fundamentais
+
+    8.1.1 Momento do Reconhecimento da Receita na Empresa
+
+    8.1.2 Receita em Entidades Públicas
+
+    8.1.3 Receita Econômica
+
+    8.1.4 Custo de Oportunidade
+
+    8.1.5 Momento do Reconhecimento da Receita Econômica
+
+    8.2 Resultado Econômico em Entidades Públicas
+
+    8.2.1 Modelo Conceitual de Mensuração do Resultado Econômico em Entidades Públicas
+
+    8.2.2 Aplicação do Modelo Conceitual de Mensuração do Resultado Econômico
+
+    9. RENDA ECONÔMICA PRODUZIDA PELA COISA PÚBLICA
+
+    9.1 Contracheque Econômico
+
+    9.2 Distribuição de Renda
+
+    9.3 Demonstração da Distribuição da Renda Econômica
+
+    10. BALANÇO SOCIAL EM ENTIDADES PÚBLICAS
+
+    10.1 Breve Histórico dos Relatórios Sociais
+
+    10.2 Relatório Social como Instrumento de Avaliação de Desempenho e Transparência
+
+    10.3 Universidade Pública: Financiamento e Responsabilidade Social
+
+    11. GOVERNANÇA CORPORATIVA NA GESTÃO PÚBLICA
+
+    11.1 Termo Governança
+
+    11.2 Objetivos
+
+    11.3 Princípios
+
+    11.4 Conselho Fiscal
+
+    11.5 Conselho de Administração.'
+  course_name: 'EAC0534 - Controladoria e Governança na Gestão Pública
+
+    Controller and Governance in Public Management'
+  deactivation: ''
+  instructors: 1818911 - Valmor Slomski
+  lecture_credits: '2'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A disciplina introduzir os alunos em conhecimentos de controladoria aplicáveis
+    à gestão de entidades públicas de direito público interno (União, Estados, Distrito
+    Federal, Municípios, autarquias e as demais entidades públicas criadas por lei)
+    e, bem assim, aquilo que couber, à gestão das entidades de direito privado (associações,
+    fundações, organizações religiosas e partidos políticos).
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Ter uma visão crítica diante demandas vigentes, no que refere a minimização da
+    assimetria informacional entre o Estado e a sociedade.
+
+    Espera-se que, ao final da disciplina, os alunos estejam aptos a:
+
+    1. Compreender evolução da Contabilidade e da Contabilidade Pública brasileira.;
+
+    2. Compreender o papel da Controladoria e do Controller na Administração Pública;
+
+    3. Avaliar o papel da sociedade, do Estado e entender a teoria do agente na relação
+    sociedade-estado;
+
+    4. Reconhecer as entidades públicas, estudar os diversos tipos de externalidades
+    existentes na relação sociedade-estado e compreender o problema do risco moral
+    existente na relação sociedade-estado;
+
+    5. Entender o processo de planejamento e reconhecer os principais instrumentos
+    de utilizados nesse processo;
+
+    6. Refletir sobre os recursos públicos existentes para o desenvolvimento da coisa
+    pública;
+
+    7. Compreender os conceitos de contabilidade de custos aplicados às entidades
+    públicas;
+
+    8. Entender o valor do serviço público;
+
+    9. Observar a produção de valor gerada pela coisa pública;
+
+    10. Compreender a importância da publicação do Balanço Social em entidades públicas;
+
+    11. Discutir objetivos e princípios de governança na gestão pública.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220128235429'
+digest: Q4YDWXRUEVMUC3AREWTBAG3POHQA4CTB
+updated_at: '20220128235429'
+url: https://web.archive.org/web/20220128235429id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0534&codcur=12033&codhab=4
