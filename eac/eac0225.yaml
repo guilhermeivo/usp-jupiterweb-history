@@ -1,0 +1,110 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'REEVALUATION CRITERIA
+
+    a) The student may participate in the revaluation process (recovery) in the course
+    if he obtains final average score greater than or equal to three (3.0) and less
+    than 5.0 (five) and frequency equal to or greater than 70% grade.
+
+    b) Average for approval with revaluation shall be achieved by the simple arithmetic
+    average of the final average + grade obtained in revaluation, which must be equal
+    to or greater than 5.0 (five).'
+  bibliography: 'MAIN BIBLIOGRAPHY:
+
+    Kieso, D.E., Weygandt J.J. and Warfield, T.D. (2020). Intermediate Accounting
+    IFRS. 4th Edition, Wiley.
+
+    Libby, R., Libby, P., and Hodge F. (2020). Financial Accounting. 10th Edition,
+    McGrawHill.
+
+    COMPLEMENTARY BIBLIOGRAPHY:
+
+    Elliott, B, and Elliott, J. (2019)Financial Accounting and Reporting. 19th Edition,
+    Pearson.
+
+    Spiceland, D., Thomas, W., and Herrmann, D. (2018). Financial Accounting 5th Edition,
+    McGrawHill.
+
+    Wahlen, M.W., Jones, J.P. and Pagach, D. (2020). Intermediate Accounting: Reporting
+    and Analysis. 3rd Edition, Cengage.'
+  course: '1. ACCOUNTING AND MEASUREMENT
+
+    1.1. Objectives and Economics of Accounting Information
+
+    1.2. Conceptual Framework: Characteristics of Accounting Measures
+
+    1.3. Standard Setting
+
+    1.4. Overview of Financial Statements
+
+    2. MEASURING FINANCIAL POSITION
+
+    2.1. Measurement and Disclosure Assets and Liabilities
+
+    2.2. Short-term Assets: Cash, Receivables and Inventories
+
+    2.3. Long-lived Assets: Acquisitions, Intangibles, Property, Plant and Equipment
+
+    3. MEASURING PERFORMANCE
+
+    3.1. Performance Measurement
+
+    3.2. Accruals/Estimation
+
+    3.3. Revenue Recognition
+
+    3.4. Fair Value Measurement'
+  course_name: EAC0225 - Accounting Measurement and Disclosure
+  deactivation: ''
+  instructors: '8476037 - Eduardo da Silva Flores
+
+    5859588 - Fernando Dal-Ri Murcia
+
+    1035522 - Guillermo Oscar Braunbeck
+
+    3132692 - Renê Coppe Pimentel'
+  lecture_credits: '2'
+  objectives: 'Course Presentation
+
+    This is a practical case-based course which presents and discusses aspects of
+    measurement and reporting of organizational performance for strategic and operational
+    purposes with a focus on a variety of financial and non-financial performance
+    measures suitable for both internal and external decision-making. Projects, together
+    with a series of practical workshops, facilitate self-discovery of knowledge and
+    development of a variety of professional skills and attitudes. The course is intended
+    to develop a foundation for thinking about measurement so that students can not
+    only learn the nuts and bolts of accounting, but also build an intuition for measurement
+    that allows students to evaluate current measures and develop measures that are
+    both relevant and reliable to decision makers.
+
+    Learning Objectives
+
+    In this course students will learn and reflect on key concepts in accounting measurement
+    and disclosure with emphasis on judgment and decision making in accounting process
+    and choices. The goal is to help students experience a practical and self-guided
+    learning environment to develop.
+
+    Upon successful conclusion of this course, students will be able to:
+
+    Elaborate key objectives of financial reporting and the desired characteristics
+    of financial disclosures.
+
+    Search, interpret and apply relevant standards when facing a reporting issue.
+
+    Characterize and account for investing and financing activities according to current
+    accounting standards with focus on IFRS framework.
+
+    Evaluate a firm’s financial reporting environment and its impact on accounting
+    choices and financial communication.
+
+    Effectively work and communicate in a team environment similar to the professional
+    accounting environment.
+
+    Make sound ethical decisions.'
+  practical_credits: '2'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220128225514'
+digest: WDKYZS4UEDGG4MPBMLHVVR5VQEPKKDGF
+updated_at: '20220128225514'
+url: https://web.archive.org/web/20220128225514id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0225&codcur=12033&codhab=4
