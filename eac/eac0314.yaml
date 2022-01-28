@@ -1,0 +1,137 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    MARTINS, Eliseu. Contabilidade de custos. 11. ed. São Paulo: Atlas, 2018.
+
+    MARTINS, Eliseu; ROCHA, Welington. Métodos de custeio comparados: custos e margens
+    analisados sob diferentes perspectivas. 2. ed. São Paulo: Atlas, 2015.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    ATKINSON, Anthony A.; BANKER, Rajiv D.; KAPLAN, Robert S.; YOUNG, S. Mark. Contabilidade
+    gerencial: informação para tomada de decisão e execução da estratégia. 4. ed.
+    São Paulo: Atlas, 2015.
+
+    DRURY, C. M. Management and cost accounting. 10 ed. Cengage Learning, 2017.
+
+    GARRISON, Ray H.; NOREEN, Eric. W.; BREWER, Peter C. Contabilidade gerencial.
+    14. ed. Porto Alegre: AMGH, 2013.
+
+    GUERREIRO, Reinaldo. Estruturação de sistemas de custos para a gestão da rentabilidade.
+    São Paulo: Atlas, 2010.
+
+    HANSEN, Don R.; MOWEN, Maryanne M. Gestão de custos: contabilidade e controle.
+    São Paulo: Cengage Learning, 2001.
+
+    HORNGREN, Charles T.; DATAR, Srikant M.; FOSTER, George. Contabilidade de custos.
+    v.1 e 2, 11 ed. São Paulo: Pearson, 2004.
+
+    MARTINS, Eliseu; ROCHA, Welington. Contabilidade de custos: Livro de Exercícios.
+    11. ed. São Paulo: Atlas, 2015.
+
+    MEGLIORINI, E. Custos: análise e gestão. 3. Ed. São Paulo: Pearson Prentice Hall,
+    2012.
+
+    OYADOMARI, J. C. T.; MENDONÇA NETO, O. R. de; DULTRA-DE-LIMA, R. G.; NISIYAMA,
+    E. K.; AGUIAR, A. B. de. Contabilidade Gerencial: ferramentas para melhoria de
+    desempenho empresarial. GEN/Atlas, 2018.'
+  course: '1. MÉTODOS DE CUSTEIO
+
+    1.1. Comportamento de custos
+
+    1.2. Métodos de custeio: variável x absorção x pleno
+
+    1.3. Métodos de custeio: direto
+
+    1.4. Custeio e Gestão Baseados em Atividades (ABC/ABM)
+
+    2. USO DAS INFORMAÇÕES DE CUSTOS PARA DECISÃO DE VOLUMES, LUCROS E PREÇOS
+
+    2.1. Relações entre o custo, o volume e o lucro
+
+    2.2. Margem de Contribuição por fator limitante
+
+    2.3. Preço de Venda
+
+    3. CUSTOS RELEVANTES PARA DECISÃO
+
+    3.1. Conceitos de custo de oportunidade, custo afundado e custos relevantes
+
+    3.2. Decisões baseadas em custos
+
+    4. CUSTOS PARA PLANEJAMENTO E CONTROLE
+
+    4.1. Custo padrão
+
+    4.2. Análise das variações de materiais, mão de obra e custos indiretos'
+  course_name: 'EAC0314 - Análise de Custos
+
+    Cost Analysis'
+  deactivation: ''
+  instructors: '3767752 - Andson Braga de Aguiar
+
+    214113 - Carlos Alberto Pereira
+
+    8091887 - Daniel Magalhães Mucci
+
+    3770882 - Marcio Luiz Borinelli
+
+    3549898 - Patrícia Siqueira Varela
+
+    64919 - Reinaldo Guerreiro'
+  lecture_credits: '4'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A disciplina busca apresentar e discutir os conceitos teóricos e questões práticas
+    que envolvem conceitos, ferramentas e técnicas de custos destinados à geração
+    e utilização de informações de custos como instrumento de apoio gerencial ao processo
+    de tomada de decisão, planejamento e controle nas organizações.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    A disciplina oferece uma visão abrangente e prática dos principais temas relacionados
+    à análise de custos. Os temas estudados serão tratados de maneira conceitual e
+    prática. Assim, espera-se que, ao final do curso, os alunos estejam aptos a:
+
+    1. Descrever, distinguir e comparar os principais métodos de custeio (custeio
+    por absorção, custeio pleno e custeio variável);
+
+    2. Aplicar os conceitos relacionados à cada método de custeio em casos e exercícios
+    práticos;
+
+    3. Compreender e aplicar o custeio direto no processo de tomada de decisões;
+
+    4. Conhecer os conceitos e abordagens do Custeio Baseado em Atividades (ABC);
+
+    5. Entender os conceitos de custeio variável e margem de contribuição e aplicá-los
+    nas relações de custo-volume-lucro, particularmente o cálculo do ponto de equilíbrio,
+    da margem de segurança e do grau de alavancagem operacional;
+
+    6. Compreender o reflexo da teoria das restrições em decisões de custos a partir
+    da aplicação do conceito de margem de contribuição por fator limitante;
+
+    7. Distinguir as diferentes abordagens de definição de preços de venda e aplicar
+    os conceitos markup em decisões de precificação de produtos/serviços;
+
+    8. Compreender os conceitos de custo de oportunidade, custos afundados e custos
+    relevantes, e aplicá-los em decisões de terceirização de atividades, aceitação
+    de pedido especial e de (des)continuidade de operações;
+
+    9. Descrever o conceito de custo-padrão e aplicar técnicas de análise de variação
+    de custos (materiais, mão de obra de custos indiretos de fabricação) para o processo
+    de planejamento e controle.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220128230105'
+digest: 4VW2JYZ2FWLENLBB336TCTFTJZOYHR2E
+updated_at: '20220128230105'
+url: https://web.archive.org/web/20220128230105id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0314&codcur=12033&codhab=4
