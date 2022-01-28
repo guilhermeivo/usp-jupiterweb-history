@@ -1,0 +1,209 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    SALOTTI, Bruno Meirelles; LIMA, Gerlando Augusto Sampaio Franco; MURCIA, Fernando
+    Dal-Ri; MALACRIDA, Mara Jane Contrera; PIMENTEL, Renê Coppe (2019). Contabilidade
+    Financeira. 1a ed. São Paulo: Atlas.
+
+    MALACRIDA, Mara Jane Contrera; YAMAMOTO, Marina Mitiyo; PACCEZ, João Domiraci
+    (2019). Fundamentos da Contabilidade - A Contabilidade no Contexto Global. 2a
+    ed. São Paulo: Atlas.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    BORINELLI, Márcio Luiz; PIMENTEL, Renê Coppe (2017). Curso de Contabilidade para
+    gestores, analistas e outros profissionais. 2a ed. São Paulo: Atlas.
+
+    GELBCKE, Ernesto Rubens; SANTOS, Ariovaldo dos; IUDÍCIBUS, Sérgio de; MARTINS,
+    Eliseu (2018).  Manual de Contabilidade Societária. 3a ed. São Paulo: Atlas.
+
+    SZUSTER, Natan; CARDOSO, Ricardo Lopes; SZUSTER, Fortunée Rechtman; SZUSTER, Fernanda
+    Rechtman; SZUSTER, Flávia Rechtman (2013). Contabilidade Geral: Introdução à Contabilidade
+    Societária. 4a ed. São Paulo: Altas.
+
+    WEYGANDT, Jerry J.; KIMMEL, Paul D.; KIESO, Donald E. (2015). Financial Accounting:
+    IFRS Edition. 3a ed. Wiley.
+
+    Pronunciamentos do Comitê de Pronunciamentos Contábeis – CPC.
+
+    Normas Internacionais de Relatório Financeiro (IFRS).'
+  course: '1. INTRODUÇÃO À CONTABILIDADE FINANCEIRA
+
+    1.1. O que é Contabilidade?
+
+    1.2. Demanda e Oferta da Informação Contábil
+
+    1.3. Conceitos Econômicos Fundamentais
+
+    1.4. Principais Demonstrações Financeiras: Visão Geral
+
+    1.5. Estrutura Conceitual Básica da Contabilidade
+
+    2. BALANÇO PATRIMONIAL
+
+    2.1. Conceitos Fundamentais de Ativo, Passivo e Patrimônio Líquido
+
+    2.2. Objetivos e Estrutura do Balanço Patrimonial
+
+    2.3. Alterações dos Elementos Patrimoniais
+
+    2.4. O Processo de Registro Contábil dos Ativos, Passivos e Patrimônio Líquido
+
+    3. DEMONSTRAÇÃO DE RESULTADO
+
+    3.1. Conceitos Fundamentais de Receitas e Despesas
+
+    3.2. Objetivos e Estrutura da Demonstração de Resultado
+
+    3.3. O Regime de Competência
+
+    3.4. O Processo de Registro Contábil
+
+    4. DEMONSTRAÇÃO DAS MUTAÇÕES DO PATRIMÔNIO LÍQUIDO
+
+    4.1. Conceitos Fundamentais do Patrimônio Líquido e sua Composição
+
+    4.2. Destinação do Lucro: Retenção (Reservas de Lucros) e Distribuição de Dividendos
+
+    4.3. Objetivos e Estrutura da Demonstração das Mutações do Patrimônio Líquido
+
+    5. ESTOQUES
+
+    5.1. Conceitos Fundamentais
+
+    5.2. Reconhecimento e Mensuração dos Estoques
+
+    5.3. Formas de Controle dos Estoques
+
+    5.4. Apuração e Contabilização do Custo das Mercadorias Vendidas (CMV)
+
+    5.5. Alterações de valores de compra e venda: tratamento e contabilização
+
+    6. CONTAS A RECEBER
+
+    6.1. Conceitos Básicos
+
+    6.2. Reconhecimento e Mensuração das Contas a Receber
+
+    6.3. Apuração e Contabilização das Perdas Estimadas com Créditos de Liquidação
+    Duvidosa (PECLD)
+
+    7. PROVISÕES E CONTINGÊNCIAS
+
+    7.1. Conceitos Básicos
+
+    7.2. Critérios para o Reconhecimento das Provisões
+
+    7.3. Mensuração e Divulgação das Provisões e Contingências
+
+    8. OPERAÇÕES FINANCEIRAS
+
+    8.1. Conceitos Básicos e Classificações das Operações Financeiras Ativas e Passivas
+
+    8.2. Mensuração e Contabilização das Operações Financeiras Ativas
+
+    8.3. Mensuração e Contabilização das Operações Financeiras Passivas
+
+    9. INVESTIMENTOS
+
+    9.1. Conceitos Básicos dos Investimentos Classificados no Ativo Não Circulante
+
+    9.2. Métodos de Avaliação de Participações Societárias em Outras Companhias
+
+    10. ATIVO IMOBILIZADO
+
+    10.1. Conceitos Básicos
+
+    10.2. Reconhecimento e Mensuração Inicial do Ativo Imobilizado
+
+    10.3. Mensuração Subsequente do Ativo Imobilizado
+
+    10.4. Depreciação: conceito, critérios de cálculo e contabilização
+
+    10.5. Gastos Adicionais e Baixa do Ativo Imobilizado
+
+    11. ARRENDAMENTOS
+
+    11.1. Conceitos Básicos
+
+    11.2. Evolução das Normas Contábeis sobre Arrendamentos
+
+    11.3. Contabilização das Operações de Arrendamentos
+
+    12. ATIVO INTANGÍVEL
+
+    10.1. Conceitos Básicos
+
+    10.2. Reconhecimento e Mensuração Inicial do Ativo Intangível
+
+    10.3. Mensuração Subsequente do Ativo Intangível
+
+    10.4. Amortização: conceito, critérios de cálculo e contabilização
+
+    10.5. Baixa do Ativo Intangível
+
+    13. RECUPERABILIDADE DE ATIVOS (TESTE DE “IMPAIRMENT”)
+
+    13.1. Conceitos Básicos
+
+    13.2. Indicadores Externos e Internos para a Realização do Teste de Impairment
+
+    13.3. Mensuração do Valor Recuperável do Ativo
+
+    13.4. Contabilização das Perdas e Reversões de Perdas por Impairment'
+  course_name: 'EAC0106 - Contabilidade Introdutória
+
+    Introduction to Accounting'
+  deactivation: ''
+  instructors: '2209375 - Bruno Meirelles Salotti
+
+    5859588 - Fernando Dal-Ri Murcia
+
+    65625 - Joao Domiraci Paccez
+
+    1364179 - Mara Jane Contrera Malacrida
+
+    8593894 - Raquel Wille Sarquis
+
+    3132692 - Renê Coppe Pimentel'
+  lecture_credits: '8'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A disciplina objetiva introduzir os alunos no conhecimento fundamental da Contabilidade,
+    formando a base conceitual necessária para a adequada formação contábil e demonstrando
+    a representação dos efeitos dos diversos eventos realizados por uma entidade em
+    sua estrutura patrimonial e performance financeira, a fim de proporcionar uma
+    visão prática da ciência contábil. Para atingir esses objetivos, são apresentados
+    os conceitos e fundamentos da Contabilidade e desenvolvidas as habilidades e atitudes
+    necessárias para a elaboração e entendimento das demonstrações contábeis.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Espera-se que, ao final da disciplina, os alunos estejam aptos a:
+
+    1. Aplicar princípios, fundamentos, conceitos e definições da Estrutura Conceitual
+    da Contabilidade a determinadas transações e outros eventos de natureza introdutória.
+
+    2. Aplicar os Padrões Contábeis adotados no Brasil e os Padrões Internacionais
+    de Relatórios Financeiros (IFRS) estudados nesta disciplina a determinadas transações
+    e outros eventos.
+
+    3. Preparar as demonstrações financeiras individuais de acordo com Padrões Contábeis
+    Geralmente Aceitos no Brasil e os Padrões Internacionais de Relatórios Financeiros
+    (IFRS): Balanço Patrimonial, Demonstração do Resultado do Exercício e Demonstração
+    das Mutações do Patrimônio Líquido.'
+  practical_credits: '0'
+  total_workload: 120 h
+  type: Semestral
+created_at: '20220128220213'
+digest: SM56V4BDQRDW7SLDJZVUQFKTVPONEBBZ
+updated_at: '20220128220213'
+url: https://web.archive.org/web/20220128220213id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0106&codcur=12033&codhab=4
