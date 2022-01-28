@@ -1,0 +1,67 @@
+courses:
+  activation: 01/01/2013
+  assessment: Para alunos que obtiveram média final compreendida entre 3,0  e 4,9
+    e frequência mínima de 70% , será exigida prova escrita cuja média para aprovação
+    deverá ser igual ou superior a 5,0.
+  bibliography: "Baptista Martins, Pedro. Aspectos Jurídicos da Arbitragem Comercial\
+    \ no Brasil. Rio de Janeiro: Lumen Juris, 1990.\nBarbosa, Cláudio. Propriedade\
+    \ intelectual: introdução à propriedade intelectual como informação. São Paulo:\
+    \ Elsevier, 2008.\nBulgarelli, Waldirio. Manual das sociedades anônimas. 12ª.\
+    \ ed. São Paulo: Atlas, 2001.\nDe Lucca, Newton. Direito do consumidor, 2ª. ed.\
+    \ São Paulo: Quartier Latin, 2008.\nForgioni, Paula. Os Fundamentos do Antistruste.\
+    \ 5ª. edição. São Paulo: RT, 2012\nGrinover, Ada Pellegrini e outros (org.). Comentários\
+    \ ao Código de Defesa do Consumidor. Tomo I. 10ª. edição. Rio de Janeiro: Forense\
+    \ Universitária, 2011.\nGrinover, Ada Pellegrini e outros (org.). Comentários\
+    \ ao Código de Defesa do Consumidor. Tomo II. 10ª. edição. Rio de Janeiro: Forense\
+    \ Universitária, 2011.\nLemes, Selma M. Ferreira .Carmona, Carlos Alberto. Aspectos\
+    \ fundamentais da Lei de Arbitragem. Rio de Janeiro: Forense, 1999.\nMello Franco,\
+    \ Vera Helena de. Sztajn, Rachel. Falência e recuperação da empresa em crise.\
+    \ São Paulo: Elsevier, 2008.\nMello Franco, Vera Helena de. Sztajn, Rachel. Direito\
+    \ Empresarial II. 2 ed. São Paulo: RT, 2009.\nProença, José Marcelo Martins. Insider\
+    \ Trading. São Paulo: Quartier Latin, 2005.\nSatiro, Francisco. Pitombo, Sergio\
+    \ A. Morais (org.). Comentários à Lei de Recuperações e Falências. 2ª. ed. São\
+    \ Paulo:RT, 2007.\nSouza Jr. Francisco Satiro. Derivativos e Mercado de Bolsa.\
+    \ Revista Logus de Direito, São Paulo, v. 1, n. 1, p. 191-209, 2005.\nSztajn,\
+    \ Rachel. Futuros e swaps \x96 uma visão jurídica. São Paulo: Cultural Paulista,\
+    \ 1999.\nSilveira, Newton. Propriedade Intelectual. 3ª edição. São Paulo: Manole,\
+    \ 2005.\nVerçosa, Haroldo Malheiros Duclerc. Aspectos da Arbitragem Institucional.\
+    \ São Paulo: Malheiros, 2012.\nVerçosa, Haroldo Malheiros Duclerc. Curso de Direito\
+    \ Comercial. Vol. 3. 2ª. edição. São Paulo: Malheiros, 2012.\nCONSULTAR, AINDA,\
+    \ OS ARTIGOS DA RDM (Revista de Direito Mercantil, Industrial, Econômico e Financeiro"
+  course: "1.\tSOCIEDADES ANÔNIMAS ABERTAS\n1.1.\tMercado de capitais\n1.2.\tContratos\
+    \ de bolsa\n1.3.\tDerivativos, futuros, \"swaps\" e opções\n2.\tDIREITO ANTITRUSTE\n\
+    2.1.\tDisciplina da concorrência e repressão ao abuso do poder econômico\n2.2.\t\
+    Abuso de posição dominante, cartéis, acordos verticais e controle de concentrações\
+    \ empresariais\n3.\tPROPRIEDADE INTELECTUAL, TECNOLOGIA E ACESSO À INFORMAÇÃO\n\
+    3.1.\tAcesso à informação, propriedade industrial e propriedade intelectual\n\
+    3.2.\tA disciplina jurídica das exclusividades\n3.3.\tOs contratos entre empresas\
+    \ relacionados à propriedade intelectual\n3.4.\tO abuso dos direitos de propriedade\
+    \ intelectual\n4.\tDIREITO DO CONSUMIDOR\n5.\tFALÊNCIA E RECUPERAÇÃO DE EMPRESAS\n\
+    6.\tA ARBITRAGEM COMERCIAL"
+  course_name: 'DCO0414 - Direito Empresarial II
+
+    Business Law II'
+  deactivation: ''
+  instructors: 1553792 - Paula Andrea Forgioni
+  lecture_credits: '2'
+  objectives: A atividade do contabilista, bem como sua responsabilidade perante terceiros,
+    são formatadas pelo Direito. Com esse pressuposto, o curso visa a possibilitar
+    ao profissional da contabilidade o domínio dos instrumentos necessários à.compreensão
+    dos princípios e regras jurídicas no que diz respeito às empresas e sua atuação
+    no mercado. Como os alunos já terão noções de direito empresarial, são abordados
+    tópicos mais modernos da regulação jurídica das atividades da empresa no mercado.
+    O primeiro módulo destaca as sociedades anônimas abertas, o mercado de capitais
+    e seus principais contratos. O segundo módulo tratará da disciplina da concorrência,
+    que cada vez se consolida mais no Brasil. No terceiro, haverá o aprofundamento
+    do tema da propriedade industrial e de suas consequências para a atividade dos
+    contabilistas. O quarto módulo estudará as relações entre empresas e consumidores,
+    enquanto o quinto trará a nova disciplina brasileira da falência e da recuperação
+    de empresas. Por fim, noções sobre os procedimentos arbitrais, uma das formas
+    mais usadas pelas empresas para a solução de seus conflitos no Brasil de hoje.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220128231837'
+digest: I7MK6HJ7LKG73A7FBMJSZ4EOONIY4YRM
+updated_at: '20220128231837'
+url: https://web.archive.org/web/20220128231837id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=DCO0414&codcur=12033&codhab=4
