@@ -1,0 +1,139 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    BORINELLI, M. L. Práticas de controladoria: um estudo nas cem maiores empresas
+    privadas que atuam no Brasil. Congresso USP de Controladoria e Contabilidade,
+    2007.
+
+    CATELLI, Armando (organizador). Controladoria: uma abordagem da Gestão Econômica
+    (GECON). 3. ed. São Paulo: Atlas, 1999.
+
+    FREZATTI, F.; ROCHA, W.; NASCIMENTO, A. R. do; JUNQUEIRA, E. Controle gerencial:
+    uma abordagem da contabilidade gerencial no contexto econômico, comportamental
+    e sociológico. São Paulo: Atlas 2009.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    ANDRADE, A.; ROSSETTI, J.P. Governança corporativa: fundamentos, desenvolvimento
+    e tendências. 7. ed. São Paulo: Atlas, 2014.
+
+    ANTHONY, R. N.; GOVINDARAJAN, V. Sistemas de controle gerencial. 12. ed. São Paulo:
+    McGraw-Hill, 2008.
+
+    ANTHONY, R. N., GOVINDARAJAN, V., HARTMANN, F. G. H., KRAUS, K., & NILSSON, G.
+    Management Control Systems: European Edition. McGraw-Hill, 2014.
+
+    HORNGREN, C. T.; SUNDEM, G. L.; STRATTON, W. O. Introdução à contabilidade gerencial.
+    12. ed. São Paulo: Prentice-Hall do Brasil, 2004.
+
+    KAPLAN, R. S.; NORTON, D. P. Balanced Scorecard: translating strategy into action.
+    Harvard Business School Press, 1996.
+
+    MERCHANT, K.; VAN DER STEDE, W.. Management Control Systems 4th Edition (4th Edition),
+    2014.
+
+    NAKAGAWA, M. Introdução à controladoria: conceitos, sistemas e implementação.
+    São Paulo: Atlas, 1993.
+
+    NASCIMENTO, A. M.; REGINATO, L. (organizadores) Controladoria: um enfoque na eficácia
+    organizacional. 3. ed. São Paulo: Atlas, 2013.
+
+    OYADOMARI, J. C. T.; MENDONÇA NETO, O. R. de; DULTRA-DE-LIMA, R. G.; NISIYAMA,
+    E. K.; AGUIAR, A. B. de. Contabilidade Gerencial: ferramentas para melhoria de
+    desempenho empresarial. GEN/Atlas, 2018.
+
+    PARISI, C.; MEGLIORINI, E. (coord.). Contabilidade gerencial. São Paulo: Atlas,
+    2011.'
+  course: '1. INTRODUÇÃO À CONTROLADORIA E CONTROLE GERENCIAL NAS ORGANIZAÇÕES
+
+    1.1. Controle gerencial, controladoria e contabilidade nas organizações
+
+    1.2. O papel da controladoria nas organizações
+
+    1.3. O papel e perfil do controller nas organizações
+
+    1.4. Gestão no ambiente organizacional
+
+    2. SISTEMA DE AVALIAÇÃO DE DESEMPENHO, ESTRUTURA DESCENTRALIZADA E ARTEFATOS
+
+    2.1. Avaliação de desempenhos no contexto organizacional
+
+    2.2. Estrutura organizacional e divisionalização
+
+    2.3. Preços de Transferência
+
+    2.4. Modelo de Gestão Econômica (GECON)
+
+    2.5. Balanced Scorecard (BSC)
+
+    3. TÓPICOS ESPECIAIS EM CONTROLADORIA
+
+    3.1. Decisões de Terceirização
+
+    3.2. Questões comportamentais e éticas no controle empresarial
+
+    3.3. Governança corporativa sob a ótica do controle gerencial e da controladoria'
+  course_name: 'EAC0512 - Controladoria
+
+    Controllership'
+  deactivation: ''
+  instructors: '214113 - Carlos Alberto Pereira
+
+    1106326 - Fabio Frezatti
+
+    3770882 - Marcio Luiz Borinelli
+
+    64919 - Reinaldo Guerreiro'
+  lecture_credits: '4'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A disciplina busca apresentar e discutir os conceitos teóricos e questões práticas
+    que permitam entender o papel da controladoria e do controller no ambiente de
+    negócios atual, abordando sobre as características do ambiente organizacional,
+    o controle gerencial, o sistema de avaliação de desempenho considerando a estrutura
+    organizacional descentralizada e os artefatos de gestão.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    A disciplina oferece uma visão sistêmica, abrangente e moderna da controladoria.
+    Os temas estudados serão tratados de maneira conceitual e prática. Assim, espera-se
+    que, ao final do curso, os alunos estejam aptos a:
+
+    1. Compreender a importância da controladoria no ambiente de negócios atual;
+
+    2. Entender o papel, a estrutura e as responsabilidades da controladoria nas organizações;
+
+    3. Conhecer o papel e o perfil do controller nas organizações;
+
+    4. Distinguir os artefatos de controle gerencial utilizados pelas organizações
+    para apoiar o processo decisório e mensurar e avaliar resultados e desempenhos
+    no ambiente organizacional;
+
+    5. Descrever o Sistema de Avaliação de Desempenho no contexto organizacional;
+
+    6.  Conhecer e aplicar ferramentas de avaliação de desempenho considerando a estrutura
+    organizacional descentralizada.
+
+    7. Compreender os diferentes artefatos que apoiam o Sistema de Avaliação de Desempenho
+    como indicadores de desempenho, Preços de Transferência, Balanced Scorecard e
+    Modelo de Gestão Econômica;
+
+    8. Refletir sobre as questões comportamentais e éticas que afetam a controladoria
+    e as funções de controle gerencial;
+
+    9. Conhecer a relação entre controladoria e a governança corporativa.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220128224114'
+digest: ILKJPOOEFN3Y3LIBGJPQEPX3JNNOIKT5
+updated_at: '20220128224114'
+url: https://web.archive.org/web/20220128224114id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0512&codcur=12033&codhab=4
