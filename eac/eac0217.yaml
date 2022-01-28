@@ -1,0 +1,167 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    ASSAF NETO, A. Matemática financeira e suas aplicações. 12. ed. São Paulo: Atlas,
+    2012.
+
+    BUENO, R. L. S., RANGEL, A. S., SANTOS, J. C. S. (2011). Matemática Financeira
+    Moderna.  São Paulo: Cengage.
+
+    BROVERMAN, S. A. (2010) Mathematics of Investiment and Credit. 5th Edition. Actex
+    Academic Series.
+
+    CASAROTTO FILHO, N.; KOPITTKE, B. H. Análise de Investimentos. 10. ed. São Paulo:
+    Atlas, 2010.
+
+    SAMANEZ, C. P. Matemática Financeira: aplicações à análise de investimentos. 5.
+    ed. São Paulo: Pearson Education do Brasil, 2010.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    EHRLICH, P. J. Engenharia Econômica. 6. ed. São Paulo: Atlas, 2005.
+
+    MATHIAS, W. F.; GOMES, J.  M. Matemática Financeira. 6. ed. São Paulo: Atlas,
+    2009.
+
+    VERAS, L. L. Matemática Financeira. 6. ed. São Paulo: Atlas: 2007.
+
+    VIEIRA, J. D. S. Matemática Financeira. 7. ed. São Paulo: Atlas, 2000.'
+  course: '1. CONCEITOS BÁSICOS
+
+    1.1 Definição de juros e taxa de juros.
+
+    1.2 Regimes de capitalização dos juros.
+
+    1.3 Equivalência de dois valores no tempo e equivalência de conjuntos de capitais.
+
+    1.4 Taxas equivalentes de juros.
+
+    2. SÉRIES DE PAGAMENTOS
+
+    2.1 Conceitos e classificações.
+
+    2.2 Cálculo das parcelas, do valor atual, do valor futuro e da taxa de juros.
+
+    3. TAXA INTERNA DE RETORNO
+
+    3.1 Conceito e fórmula de cálculo.
+
+    4. FORMAS DE APRESENTAÇÃO DAS TAXAS
+
+    4.1 Taxa efetiva, taxa nominal, taxa de desconto e taxa “over” (Brasil).
+
+    5. APLICAÇÕES EM ANÁLISE DE OPERAÇÕES FINANCEIRAS
+
+    5.1 Análise do efeito dos impostos e outros encargos (reciprocidades).
+
+    5.2 Apuração do custo efetivo nas captações.
+
+    5.3 Determinação da rentabilidade líquida nas aplicações.
+
+    6. ANÁLISE DO EFEITO DA INFLAÇÃO
+
+    6.1 Taxa aparente e taxa real de juros.
+
+    7. SISTEMAS DE AMORTIZAÇÃO
+
+    7.1 Conceito de sistemas de amortização.
+
+    7.2 Sistema Francês de Amortização (Tabela “Price”).
+
+    7.3 Sistema de Amortização Constante (SAC).
+
+    7.4 Sistema Americano de Amortização.
+
+    7.5 Outros sistemas de amortização.
+
+    8. DECISÕES DE INVESTIMENTOS
+
+    8.1 Aspectos gerais sobre tomada de decisão.
+
+    8.2 Métodos inadequados para tomada de decisão.
+
+    8.2.1 Método do “Payback” descontado.
+
+    8.3 Conceito de Taxa Mínima de Atratividade.
+
+    8.4 Comparação de Projetos de Investimentos.
+
+    8.4.1 Método do Valor Presente Líquido (VPL ou NPV).
+
+    8.4.2 Método da Taxa Interna de Retorno (TIR ou IRR).
+
+    8.4.3 Método do Valor Anual Uniforme Equivalente (VAUE).
+
+    8.4.4 Taxa Interna de Retorno Modificada (TIRM).
+
+    8.5 Casos específicos.
+
+    8.5.1 Alternativas com diferentes horizontes de planejamento.
+
+    8.5.2 Alternativas com restrições financeiras.
+
+    8.6 Análise dos efeitos da depreciação e dos impostos.'
+  course_name: 'EAC0217 - Matemática Financeira
+
+    Financial Mathematics'
+  deactivation: ''
+  instructors: '8760796 - Ana Carolina Maia
+
+    8476037 - Eduardo da Silva Flores
+
+    65625 - Joao Domiraci Paccez
+
+    3696531 - Tatiana Albanez'
+  lecture_credits: '4'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    Abordar os conceitos de matemática financeira e capacitar os alunos para desenvolverem
+    raciocínios adequados para aplicação nas análises das principais transações financeiras
+    existentes no mercado.
+
+    Apresentar a aplicação desta técnica para tomada de decisões de investimentos
+    e de alternativas de financiamento.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Permitir que os alunos consigam compreender adequadamente as ferramentas matemáticas
+    para cômputo do valor do dinheiro no tempo, assim como entenderem as diferenças
+    entre o cálculo contínuo e discreto do valor do dinheiro no tempo, assim como
+    emprego dessas alternativas para determinação da etapa de mensuração contábil,
+    atividade fundamental para formulação de demonstrações financeiras.
+
+    Espera-se que ao final do curso os alunos estejam aptos a:
+
+    1. Elaborar cálculos do valor presente de fluxos financeiros;
+
+    2. Desenvolver cálculos do valor futuro de fluxos financeiros;
+
+    3. Calcular, tanto o valor presente, quanto o valor futuro de fluxos financeiros
+    nivelados;
+
+    4. Calcular, tanto o valor presente, quanto o valor futuro de fluxos financeiros
+    desnivelados;
+
+    5. Obter o cômputo das taxas de juros efetivas, nominais e reais;
+
+    6. Compreender a mecânica de fluxos financeiros equivalentes e a forma de se obter
+    taxas que igualem tais fluxos; e
+
+    7. Calcular métricas de análise de investimentos em ativos financeiros como: (a)
+    payback; (b) valor presente líquido, dentre outras possibilidades de avaliação
+    de projetos.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220128233308'
+digest: SB5H7VSYR6ICFO5BORYMKAYGEI55EHVY
+updated_at: '20220128233308'
+url: https://web.archive.org/web/20220128233308id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0217&codcur=12033&codhab=4
