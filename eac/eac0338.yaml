@@ -1,0 +1,131 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação na disciplina
+    caso obtenha nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco)
+    e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    Pronunciamentos do Comitê de Pronunciamentos Contábeis – CPC
+
+    Normas Internacionais de Relatório Financeiro (IFRS)
+
+    GELBCKE, Ernesto Rubens; SANTOS, Ariovaldo dos; IUDÍCIBUS, Sérgio de; MARTINS,
+    Eliseu (2018).  Manual de Contabilidade Societária. 3a ed. São Paulo: Atlas.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    KPMG (2019). Insights into IFRS. Sweet & Maxwell.
+
+    PWC (2020). Manual of Accounting. LexisNexis.
+
+    PKF International (2020). Wiley Interpretation and Application of IFRS Standards.
+    Wiley.'
+  course: '1. MENSURAÇÕES A VALOR JUSTO
+
+    • Definição
+
+    • Aplicação para ativos, passivos e instrumentos patrimoniais
+
+    • Técnicas de avaliação e informações necessárias para aplicação das técnicas
+
+    • Exemplos
+
+    • Divulgação
+
+    2. ATIVO BIOLÓGICO
+
+    • Conceito e importância
+
+    • Reconhecimento e mensuração
+
+    • Exemplos
+
+    • Divulgação
+
+    3. PAGAMENTO BASEADO EM AÇÕES
+
+    • Conceito e importância
+
+    • Tipos de transações com pagamentos baseado em ações
+
+    • Reconhecimento e mensuração
+
+    • Exemplos
+
+    • Divulgação
+
+    4. CONCESSÕES
+
+    • Conceito e importância
+
+    • Principais características dos contratos de concessão
+
+    • Reconhecimento e mensuração
+
+    • Exemplos
+
+    • Divulgação
+
+    5. INFORMAÇÕES POR SEGMENTO
+
+    • Conceito e importância
+
+    • Critérios de divulgação
+
+    • Exemplos
+
+    6. CPC – PME
+
+    • Definição de pequenas e médias empresas
+
+    • Principais diferenças entre normas aplicáveis às grandes empresas e às PMEs
+
+    • Exemplos
+
+    • Divulgação'
+  course_name: 'EAC0338 - Tópicos Avançados em Contabilidade Financeira
+
+    Advanced Topics in Financial Accounting'
+  deactivation: ''
+  instructors: '8476037 - Eduardo da Silva Flores
+
+    1035522 - Guillermo Oscar Braunbeck
+
+    59962 - Luiz Nelson Guedes de Carvalho'
+  lecture_credits: '4'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    No decorrer do estudo das normas internacionais de relatórios financeiros, alguns
+    temas merecem atenção específica por basicamente duas razões: (i) serem conceitos
+    verificáveis em mais de um normativo simultaneamente, portanto da necessidade
+    de serem estudados de forma multidisciplinar; e (ii) se tratarem de assuntos mais
+    avançados cujo conhecimento de temas básicos e intermediários facilitarão a sua
+    compreensão.
+
+    Nesse contexto, esta disciplina visa apresentar temas específicos avançados que
+    possibilitarão uma compreensão mais ampla da contabilidade financeira.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Espera-se que, ao final da disciplina, os alunos estejam aptos a:
+
+    1. Identificar as situações, transações e/ou eventos econômicos abrangidos no
+    escopo das normas tratadas nesta disciplina.
+
+    2. Reconhecer os requerimentos normativos mais importantes relativos aos temas
+    abordados nesta disciplina no tocante ao reconhecimento, mensuração e apresentação/divulgação
+    abrangidas por essas normas.
+
+    3. Aplicar os principais requerimentos das normas estudadas nesta disciplina a
+    situações práticas.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220128233151'
+digest: VG3WXDF7WDFXABGH226GA4NCNPSFFEVC
+updated_at: '20220128233151'
+url: https://web.archive.org/web/20220128233151id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0338&codcur=12033&codhab=4
