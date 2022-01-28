@@ -1,0 +1,144 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    MARTINS, Eliseu. Contabilidade de custos. 10. ed. São Paulo: Atlas, 2010.
+
+    GUERREIRO, Reinaldo. Estruturação de sistemas de custos para a gestão da rentabilidade.
+    1. ed. São Paulo: Atlas, 2010.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    ATKINSON, Anthony A.; BANKER, Rajiv D.; KAPLAN, Robert S.; YOUNG, S. Mark. Contabilidade
+    gerencial. 3. ed. São Paulo: Atlas, 2008.
+
+    HANSEN, Don R.; MOWEN, Maryanne M. Gestão de custos: contabilidade e controle.
+    1. ed. São Paulo: Pioneira Thomson Learning, 2001.
+
+    HORNGREN, Charles T.; DATAR, Srikant M.; FOSTER, George. Contabilidade de custos.
+    Volumes 1 e 2. 11. ed. São Paulo: Prentice Hall, 2004.
+
+    MAHER, Michael. Contabilidade de custos. 1. ed. São Paulo: Atlas, 2001.'
+  course: '1. CONTEXTUALIZAÇÃO, TERMINOLOGIA CONTÁBIL E CLASSIFICAÇÕES DE CUSTOS
+
+    1.1 A contabilidade de custos e seu relacionamento com a contabilidade societária,
+    tributária e gerencial
+
+    1.2 A contabilidade de custos como um sistema de informação
+
+    1.3 Terminologia contábil e classificações dos custos
+
+    2. O MÉTODO DE CUSTEIO POR ABSORÇÃO
+
+    2.1 Conceitos fundamentais do método de custeio por absorção
+
+    2.2 A lógica e o fluxo contábil do método de custeio por absorção
+
+    2.3. Pronunciamento CPC 16
+
+    3. OS ELEMENTOS DE CUSTOS
+
+    3.1 Material direto: classificação, mensuração, apropriação e contabilização
+
+    3.2 Mão-de-obra direta: classificação, mensuração, apropriação e contabilização
+
+    3.3 Custos indiretos de fabricação: classificação, mensuração, apropriação e contabilização
+
+    4. SISTEMAS DE ACUMULAÇÃO DE CUSTOS E PRODUÇÃO CONJUNTA
+
+    4.1 Acumulação de custos por ordem: características, custeio dos produtos, integração
+    com a contabilidade societária
+
+    4.2 Acumulação de custos por processo: características, custeio dos produtos,
+    integração com a contabilidade societária
+
+    4.3 Produção conjunta: características, custeio dos produtos conjuntos'
+  course_name: 'EAC0206 - Contabilidade de Custos
+
+    Cost Accounting'
+  deactivation: ''
+  instructors: '3767752 - Andson Braga de Aguiar
+
+    214113 - Carlos Alberto Pereira
+
+    8091887 - Daniel Magalhães Mucci
+
+    3770882 - Marcio Luiz Borinelli
+
+    64919 - Reinaldo Guerreiro'
+  lecture_credits: '4'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A disciplina visa propiciar aos participantes o entendimento do funcionamento
+    da Contabilidade de Custos, compreendendo os seus conceitos fundamentais, seu
+    funcionamento como sistema de informação e sua integração com a Contabilidade
+    Societária.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    A disciplina oferece uma visão sistêmica abrangente e moderna da contabilidade
+    de custos. Os temas estudados serão tratados de maneira conceitual e prática.
+    Assim, espera-se que, ao final do curso, os alunos estejam aptos a:
+
+    1. Entender a contextualização da contabilidade de custos relativamente às contabilidades
+    societária, tributária e gerencial e entender a contabilidade de custos no contexto
+    dos sistemas de informações empresariais.
+
+    2. Dominar a terminologia contábil e classificações aplicadas na contabilidade
+    de custos. Discriminar os conceitos de custo, despesa, investimento, perda, gasto
+    e desembolso. Classificar os custos e despesas em relação às alterações dos volumes
+    de atividades em fixos e variáveis. Classificar os custos e despesas em relação
+    aos objetos de custeio em diretos e indiretos.
+
+    3. Conhecer os conceitos fundamentais e os procedimentos sistêmicos do método
+    de custeio por absorção. Aprender a elaboração do fluxo contábil do sistema, com
+    a movimentação dos valores de custos pelas diferentes contas de estoques, desde
+    o evento compras até a obtenção do CPV dos produtos. Conhecer o conteúdo do Pronunciamento
+    CPC 16 – Estoques,
+
+    4. Conceituar custo de material direto. Entender a classificação de material direto,
+    a distinção entre material direto e indireto, a composição do custo de material
+    direto, os critérios de avaliação de estoques, o tratamento contábil dos tributos
+    incidentes sobre os materiais, o processo de apropriação do custos de materiais
+    aos produtos e a contabilização dos materiais.
+
+    5. Conceituar mão-de-obra direta, segregar mão-de-obra direta e indireta, mensurar
+    o custo de mão-de-obra- direta, conhecer e tratar contabilmente os encargos incidentes
+    sobre a mão-de-obra- direta, efetuar a apropriação de mão-de-obra- direta aos
+    produtos e proceder à contabilização da mão-de-obra- direta.
+
+    6. Conceituar custos indiretos de fabricação e classificar os elementos que compõem
+    os custos indiretos de fabricação. Compreender o processo de alocação dos custos
+    indiretos de fabricação aos produtos, envolvendo a classificação dos centros de
+    custos de produção, o processo de departamentalização e a utilização das diferentes
+    unidades de trabalho dos centros de custos produtivos. Conhecer a aplicação do
+    conceito de taxas pré-determinadas de custos indiretos de fabricação.
+
+    7. Conhecer as características do sistema de acumulação de custos por ordem de
+    fabricação. Conhecer o processo de custeamento de ordens de fabricação, conhecer
+    a integração do custeamento por ordem com a contabilidade societária, conhecer
+    o tratamento contábil das ordens de produção de longo prazo de execução.
+
+    8. Conhecer as características do sistema de acumulação de custos por processo.
+    Conhecer o processo de custeamento dos processos de produção, conhecer conceito
+    de grau de acabamento de unidades equivalentes de produção. Saber calcular o grau
+    de acabamento. Conhecer a integração do custeamento por processo com a contabilidade
+    societária.
+
+    9. Conhecer as características do sistema de produção conjunta. Classificar os
+    coprodutos, subprodutos e sucatas, classificar os custos na produção conjunta
+    e efetuar a apropriação dos custos conjuntos aos coprodutos.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220128230005'
+digest: 3HI6CZ4MERAYNLITH6XIFSTXCMYQ4NUU
+updated_at: '20220128230005'
+url: https://web.archive.org/web/20220128230005id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0206&codcur=12033&codhab=4
