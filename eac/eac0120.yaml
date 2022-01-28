@@ -1,0 +1,144 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'Borthick, ªF and Kiger, J.E. 1996 Auditing in paperless environments:
+    The case of ticketless travel, 1996
+
+    Carneiro, A., Auditoria de Sistemas de Informação. Portugal - Editora FCA.
+
+    Champlain, J. J., Auditing Information Systems. John Wiley & Sons; 2nd edition
+    (February 2003)
+
+    Clowes, K. W., EDP Auditing. International Thomson Publishing; (November 1988)
+
+    CRC-SP/IBRACON, Auditoria por Meios Eletrônicos. Editora Atlas (1999)
+
+    CRC-SP/IBRACON, Auditoria em Ambiente de Internet. Editora Atlas (2001)
+
+    Dias, C., Segurança e Auditoria da Tecnologia da Informação. Axcel Books (2000)
+
+    Gallegos, F., Richardson, D. R., Borthick, F., Audit and Control of Information
+    Systems. South-Western College/West; (January 1999)
+
+    Gilhooley, I. A., Information Systems Management, Control, and Audit. Institute
+    of Internal Auditors; (June 1991)
+
+    Hall, J. A., Information Systems Auditing and Assurance. South-Western College
+    Pub; Book and CD-ROM edition (June 18, 1999)
+
+    Harnois, A. J., Edp Auditing: A Functional Approach. Prentice Hall Trade; (August
+    1991)
+
+    Internacional Federation of Accountants, The Impact of Information Technology
+    on the Accountancy Profession, "IFAC, December, 1992
+
+    ISACA - Governance, control and Audit for Information and Related Technology,
+    Cobit, 3rd. Ed. Governance Institute
+
+    Jenkins, Cook and Quest, An Audit Approach to Computers, London, Accountancy Books,
+    1992
+
+    Kuong, J. F., How to Train, Develop and Manage the Edp Audit and Control Resource.
+    Management Advisory Publications; (June 1982)
+
+    Kuong, J. F., Edp Systems Auditability. Management Advisory Publications; 1 edition
+    (June 1988)
+
+    Kuong, J. F., Audit and Control of Computerized Systems. Management Advisory Publications;
+    (December 1990)
+
+    Kuong, J. F., How to Prepare Audit and Test Plans for Edp Systems. Management
+    Advisory Publications; (December 1995)
+
+    Morris, EDP AUDITING GUIDE. McGraw-Hill Education - Europe; (December 1, 1992)
+
+    O''Leary, Audit and Security Issues With Expert Systems. American Institute of
+    Certified Public Accountants; (August 1992)
+
+    Osaacspm , G. & Kuong, J. F. & Winters, C. W., Isaacson, G, Microcomputers: Security,
+    Auditability & Controls. Management Advisory Publications; (December 1985)
+
+    Riccio, E.L. Segurança em Processamento de Dados, Dissertação de Mestrado, Out.
+    de 1981, USP - São Paulo/SP
+
+    Stazyk, T.E., 1992 "Information Systems Auditing in the 1990''s: A business approach"
+    Internal Auditing (Summer), 3-8
+
+    Thomas, A. J. & Douglas, I. J., Audit of Computer Systems. International Publications
+    Service; (December 1983)
+
+    Vallabhaneni, Mis and Edp Auditing for Accountants and Auditors. SRV Professional
+    Publications; (June 1992)
+
+    Watne, D. & Turney, P., Auditing EDP systems, EUA, Prentice Hall, 1990.
+
+    Weber, Ron EDP Auditing Conceptual Foundations and Practices, New York: McGraw-Hill,
+    Inc. 1998
+
+    Weber, R., Information Systems: Control and Audit, EUA, Prentice Hall, 1999.'
+  course: '1. INTRODUÇÃO À AUDITORIA DE SISTEMAS DE INFORMAÇÃO
+
+    1.1 Visão geral da Auditoria de Sistemas de Informação
+
+    1.2 Atividades de uma Auditoria de Sistemas de Informação
+
+    2. GOVERNANÇA CORPORATIVA EM SISTEMAS E TECNOLOGIA DE INFORMAÇÃO
+
+    2.1 Controles da Alta Administração; no Desenvolvimento de Sistemas; em Programação;
+    na Gestão de Dados; na Segurança; em Operações (TI); em Quality Assurance
+
+    3. ESTRUTURA DOS CONTROLES GERENCIAIS E OS CONTROLES EM SISTEMAS DE INFORMAÇÃO
+
+    3.1 Normas Nacionais e Internacionais em Auditoria de Sistemas
+
+    3.2 Principais Padrões para Auditoria - COBIT
+
+    3.3 Metodologia de Auditoria de Sistemas conforme as normas internacionais ISACA/COBIT
+
+    3.4 Papel do gestor, natureza das funções desempenhadas, importância, etc
+
+    3.5 Controles e segurança em Sistemas - Planos de Contingência em TI
+
+    3.6 Controles e auditoria em hardware e software
+
+    4. GESTÃO DA FUNÇÃO DE AUDITORIA DE SISTEMAS DE INFORMAÇÃO
+
+    4.1 Visão geral sobre desenvolvimento e gerenciamento de sistemas e programas
+
+    4.2 Palestras por Executivos da área de Auditoria de Sistemas.
+
+    4.3 Apresentações de Softwares para Auditoria de Sistemas'
+  course_name: 'EAC0120 - Auditoria de Sistemas de Informação
+
+    Auditing of Information Systems'
+  deactivation: ''
+  instructors: 78286 - Edson Luiz Riccio
+  lecture_credits: '2'
+  objectives: "APRESENTAÇÃO DA DISCIPLINA:\nFornecer aos alunos conhecimentos básicos\
+    \ sobre Auditoria e Controles de Sistemas de Informação, enfocando a estruturação\
+    \ e implementação de procedimentos de auditoria em ambientes informatizados segundo\
+    \ as normas internacionais ISACA/COBIT.\nA necessidade do conhecimento das técnicas\
+    \ de Auditoria em Sistemas de Informação é devida ao crescente potencial da Tecnologia\
+    \ de Informação (TI) em provocar mudanças nas organizações e nas práticas de negócio.\
+    \ Como consequência, há a necessidade do estudo sobre o projeto de implementação\
+    \ de estruturas de controle interno e o desenvolvimento sistemático do processo\
+    \ de auditoria em todos os aspectos dos Sistemas e da Tecnologia de Informação.\n\
+    OBJETIVOS DE APRENDIZAGEM:\nEspera-se que, ao final da disciplina, as(os) estudantes\
+    \ estejam aptos a:\n1.\tEstruturar e implementar de procedimentos de auditoria\
+    \ em ambientes informatizados.\n2.\tCompreender e aplicar as normas internacionais\
+    \ ISACA/COBIT.\n3.\tCompreender o processo de implementação de estruturas de controle\
+    \ interno.\n4.\tAplicar o desenvolvimento sistemático do processo de auditoria\
+    \ em todos os aspectos dos Sistemas e da Tecnologia de Informação"
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220128234523'
+digest: ZMG4QOSWHS5GCE3ECGJ2TONGG4CNGDRD
+updated_at: '20220128234523'
+url: https://web.archive.org/web/20220128234523id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0120&codcur=12033&codhab=4
