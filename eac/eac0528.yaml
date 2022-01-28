@@ -1,0 +1,110 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    GUERREIRO, Reinaldo. Estruturação de sistemas de custos para a gestão da rentabilidade.
+    1. ed. São Paulo: Atlas, 2010.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    NOREEN, E.; SMITH, D.; MACKEY, J. T. The theory of constraints and its implications
+    for management accounting. Great Barrington: The North River Press Publishing
+    Corporation, 1995.
+
+    CORBETT Neto, T. Contabilidade de ganhos: a nova contabilidade gerencial de acordo
+    com a teoria das restrições. São Paulo: Nobel, 1997.
+
+    GHINATO, P. Elementos fundamentais do sistema Toyota de produção. In: ALMEIDA,
+    A. T.; SOUZA, F. M. C. Produção e competitividade: aplicações e inovações. Recife:
+    UFPE, 2000. p. 31-59.
+
+    GOLDRATT, E. M. A síndrome do palheiro: garimpando informação num oceano de dados.
+    São Paulo: Educator, 1991.
+
+    JONES, T. C; DUGDALE, D. Theory of constraints: transforming ideas? British Accouting
+    Review, v. 30, n. 1, p. 73-91, 1998.'
+  course: '1. CONCEITOS DE CUSTOS PARA GESTÃO DE RENTABILIDADE
+
+    1.1 Custeio Direto
+
+    1.2 Margem de Contribuição
+
+    1.3 Análise de ponto de equilíbrio
+
+    1.4 Decisões de preços de venda
+
+    2. GESTÃO DE CUSTOS ESTRUTURAIS E MANUFATURA ENXUTA
+
+    2.1 Gestão de custos fixos
+
+    2.2 Conceitos e técnicas do Sistema Toyota de produção
+
+    3. ANÁLISE DE RENTABILIDADE DE CANAIS E CLIENTES
+
+    3.1 Revisão do Sistema Baseado em Atividades
+
+    3.2. Custo para Servir
+
+    3.3 Gestão de rentabilidade de canais e clientes
+
+    4. TEORIA DAS RESTRIÇÕES
+
+    4.1 Histórico da teoria das restrições
+
+    4.2 Medidas de desempenho na teoria das restrições
+
+    4.3 Otimização da produção na teoria das restrições
+
+    4.4 Modelo de decisão da teoria das restrições
+
+    4.5 Teoria das restrições e a contabilidade de custos
+
+    4.6 Gargalos comportamentais'
+  course_name: 'EAC0528 - Teoria das Restrições e a Contabilidade de Ganhos
+
+    Theory of Constraints and Throughput Accounting'
+  deactivation: ''
+  instructors: '214113 - Carlos Alberto Pereira
+
+    64919 - Reinaldo Guerreiro'
+  lecture_credits: '2'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    Capacitar os alunos no que diz respeito à compreensão dos aspectos conceituais
+    e práticos da teoria das restrições e sua ligação com a contabilidade gerencial,
+    permitindo uma sólida formação para tomada de decisões de rentabilidade no âmbito
+    das organizações.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    1. Ter domínio completo sobre os conceitos necessários para a gestão de rentabilidade
+    em ambiente de restrições.
+
+    2. Ter domínio de técnicas necessárias para a gestão de custos fixos no ambiente
+    de negócios.
+
+    3. Conhecer o sistema de Custo para Servir.
+
+    4. Saber aplicar os conceitos de Custo para Servir no processo de gestão de rentabilidade
+    de canais e clientes.
+
+    5. Conhecer os conceitos fundamentais da Teoria das Restrições.
+
+    6. Ter domínio sobre a utilização da base conceitual da Teoria das Restrições
+    nas decisões de otimização do lucro dos negócios.
+
+    7. Conhecer o impacto dos gargalos comportamentais na gestão de negócios.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220128235647'
+digest: V4IXQYQMLSP3ZIUWIHSGJ3X3DVEDRZLU
+updated_at: '20220128235647'
+url: https://web.archive.org/web/20220128235647id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0528&codcur=12033&codhab=4
