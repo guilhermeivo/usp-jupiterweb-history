@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2019
+  activation: 01/01/2016
   assessment: avaliação escrita com todo o conteúdo apresentado
   bibliography: 'ANDRADE, F.M.M. de; OLIVEIRA, L.B.; BRITO JÚNIOR, R.B. de. Manual
     para confecção de pôsteres científicos. Campinas: Faculdade São Leopoldo Mandic,
@@ -124,36 +124,44 @@ courses:
 
     VOLPATO, G. Dicas para redação científica. 3.ed. São Paulo: Cultura Acadêmica,
     2010. 152 p.'
-  course: 1. Constituição histórica da ciência; 2. Conhecimentos científicos e tradicionais;
-    3. Ciência normal e ciência revolucionária; 4. Interações e diferenças entre pesquisa
-    qualitativa e pesquisa quantitativa, indução e dedução; 5. Princípios de elaboração
-    de projetos de pesquisa e do TCC; 6. Métodos e técnicas de pesquisa; 7. Princípios
-    éticos da redação científica; 8. Ferramentas de busca em bancos de dados bibliográficos;
-    9. Critérios de seleção de textos científicos 10. Estrutura do trabalho científico;
-    12. Referências bibliográficas e normas técnicas.
+  course: '1. Constituição histórica da ciência; 2. Conhecimentos rivais, científicos
+    e tradicionais; 3. Ciência normal de ciência revolucionária; 4. Interações e diferenças
+    entre pesquisa qualitativa e pesquisa quantitativa, indução e dedução; 5. Características
+    do trabalho científico e princípios de elaboração de projetos de pesquisa e do
+    TCC; 6.Métodos e técnicas de pesquisa; 7. Financiamento à pesquisa. 8. Princípios
+    éticos da redação científica 9.Ferramentas de busca de artigos científicos em
+    bancos de dados bibliográficos: ISI Web of Science, Dedalus, outras bases 10.
+    Critérios de seleção de textos científicos 11. Análise crítica de textos: estrutura,
+    informações essenciais, metodologia, apresentação gráfica de resultados, apresentação
+    de tabelas, conclusões 12. Referências bibliográficas e normas técnicas 13. Redação
+    de resumo.'
   course_name: 'LES0216 - Conhecimento e Pesquisa
 
     Knowledge and Research'
-  deactivation: ''
+  deactivation: 31/12/2018
   instructors: '325635 - Antonio Ribeiro de Almeida Junior
 
     70170 - Maria Elisa de Paula Eduardo Garavello'
   lecture_credits: '2'
   objectives: 'Ao final da disciplina os alunos deverão:
 
-    1. Conhecer elementos da constituição histórica da ciência; 2. Diferenciar conhecimentos,
-    científicos e tradicionais; 3. Diferenciar ciência normal de ciência revolucionária;
-    4. Compreender as interações e diferenças entre pesquisa qualitativa e pesquisa
-    quantitativa, indução e dedução; 5. Conhecer alguns métodos e técnicas de pesquisa;
-    6. Conhecer as características do trabalho científico e os princípios de elaboração
-    de projetos de pesquisa e do TCC; 7. Conhecer princípios éticos da comunicação
-    em ciências; 8. Conhecer as principais fontes de informação científica; 9. Conhecer
-    técnicas de busca e seleção de informações científicas; 10. Conhecer normas para
-    referência bibliográficas.'
+    1. Conhecer elementos da constituição histórica da ciência; 2. Reconhecer a existência
+    de conhecimentos rivais, científicos e tradicionais, bem como suas principais
+    características; 3. Diferenciar ciência normal de ciência revolucionária;4. Compreender
+    as interações e diferenças entre pesquisa qualitativa e pesquisa quantitativa,
+    indução e dedução; 5. Tornar-se capazes de empregar alguns métodos e técnicas
+    de pesquisa; 6. Conhecer as características do trabalho científico e os princípios
+    de elaboração de projetos de pesquisa e do TCC; 7.Conhecer os princípios éticos
+    da comunicação em ciências; 8. Entender as agências de fomento à pesquisa e seus
+    financiamentos. 9. Conhecer as principais fontes de informação científica; 10.
+    Conhecer técnicas de busca e seleção de informações científicas na área de ciências
+    dos alimentos; 11. Demonstrar capacidade análise crítica e síntese de textos;
+    12. Conhecer normas para referência bibliográficas; 13. Redigir resumos e textos
+    de divulgação técnico-científicos.'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20210612201018'
-digest: EV4LB43A5Y45BDYFOWQPU7R2UIH22KET
-updated_at: '20210612201018'
-url: https://web.archive.org/web/20210612201018id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0216&verdis=2
+created_at: '20220222173533'
+digest: GF5EH5DQWQTPR4N2NFOXT5IG4OUFCTY5
+updated_at: '20220222173533'
+url: https://web.archive.org/web/20220222173533id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0216&verdis=1
