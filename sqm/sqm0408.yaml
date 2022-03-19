@@ -1,0 +1,51 @@
+courses:
+  activation: 01/01/2018
+  assessment: Trata-se de disciplina experimental com critérios de avaliação baseados
+    na execução de experimentos. NÃO SERÁ OFERECIDA RECUPERAÇÃO.
+  bibliography: '1) A.I. Vogel Química Analítica Qualitativa, Trad. A. Gimeno, Mestre
+    Jou, São Paulo, 1981.
+
+    2) A.J. Bard Equilíbrio Químico, Harper & Row, New York, 1970.
+
+    3) D.A. Skoog, D.M. West, F.J. Holler, S.R. Crouch Fundamentals of Analytical
+    Chemistry, 8th Ed. Saunders, Philadelphia, 2003.
+
+    4) D.C. Harris, Análise Química Quantitativa, 5ª Ed., Trad. C.A.S. Riehl, A.W.S.
+    Guarino, LTC, Rio de Janeiro, 2001.
+
+    5) G.D. Christian Analytical Chemistry, 6th. Ed., John Willey, New York, 2003.
+
+    6) J. Mendham, R.C. Denney, J.D. Barnes, M.J.K. Thomas Vogel, Análise Química
+    Qualitativa, 6ª Ed., Trad. J. C. Afonso, P.F. de-Aguiar, R.B. de-Alencastro, LTC,
+    Rio de Janeiro, 2002.
+
+    7) N. Bacan, L.M. Aleixo, E. Stein, O.E.S. Godinho Introdução à semi-microanálise
+    Qualitativa, 7ª Ed., UNICAMP,1997.
+
+    8) V.N. Alexeyev Qualitative chemical semimicroanalysis, Mir, Moscow, 1980.'
+  course: 'Análise Sistemática de mistura de cátions e ânions: 1) Exame Inicial de
+    Amostras; 2) Precipitação e Identificação de cátions do Grupo I - Grupo do Cloretos
+    insolúveis; 3) Precipitação e Identificação de Cátions do Grupo II - Grupo dos
+    Sulfetos Insolúveis em meio ácido; 4) Precipitação e identificação dos cátions
+    do Grupo III -Grupo dos sulfetos insolúveis em meio alcalino; 5) Precipitação
+    e identificação dos cátions do Grupo IV - Grupo do Carbonato de Amônio; 6) Precipitação
+    e identificação dos cátions do Grupo V - Grupo dos Cátions Solúveis; 7) Separação
+    e Identificação de ânions.'
+  course_name: 'SQM0408 - Laboratório de Química Analítica Qualitativa
+
+    Laboratory for Qualitative Analytical Chemistry'
+  deactivation: 14/07/2021
+  instructors: '2085451 - Ana Maria de Guzzi Plepis
+
+    90137 - Eder Tadeu Gomes Cavalheiro
+
+    55012 - Eny Maria Vieira'
+  lecture_credits: '4'
+  objectives: Aplicar em aulas práticas os conceitos de Química Analítica Qualitativa.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220319172257'
+digest: F332BVHHIOIVSFYVHZV6J43VFKUUA3BL
+updated_at: '20220319172257'
+url: https://web.archive.org/web/20220319172257id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=sqm0408
