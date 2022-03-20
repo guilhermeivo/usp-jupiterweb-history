@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2017
+  activation: 15/07/2017
   assessment: 'de Aprovação: NP+(Mrec/2,5), se Mrec >= 7,5; ou Max {NP,Mrec}, se Mrec
     <= 5,0;
 
@@ -26,15 +26,13 @@ courses:
 
     - FAIRLEY,R.E. Software Engineering Concepts, New York, McGraw-Hill, 1987 (364p).'
   course: 'Introdução e objetivos da Engenharia de Software. Processo de Desenvolvimento
-    de Software. Modelos de Processos: do linear aos interativos e ágeis. Planejamento
-    e Gestão de Projetos. Técnicas e Métodos de Análise e Especificação de requisitos:
-    características, problemas, conceitos básicos. Métricas e Estimativas de software.
-    Gerenciamento de Configuração de Software. Visão Geral das Fases de Análise e
-    Projeto de Software. Visão Geral de Qualidade de Software, (qualidade de produto
-    e qualidade de processo (CMMI, MPS-BR, ISO 12207, IS 9126)). Métodos e Critérios
-    para verificação e validação: inspeção e teste de software. Manutenção de software.
-    Aulas práticas para a utilização de ferramentas de apoio às atividades de desenvolvimento
-    de software.
+    de Software. Modelos de Processo: do linear aos interativos e ágeis. Métodos e
+    Técnicas de Análise e Especificação de Requisitos: características, problemas,
+    conceitos básicos.  Visão Geral das Fases de Análise e Projeto de Software. Gerenciamento
+    de Projetos de Software: planejamento, métricas e estimativas. Gerenciamento de
+    Configuração de Software. Qualidade de Software: qualidade de produto e de processo.
+    Métodos e Técnicas para Verificação e Validação de Software: inspeção e teste.
+    Manutenção de Software.
 
     Introduction and goals of Software Engineering. Software Development Process.
     Process Models: from linear to interactive and agile. Methods and Techniques to
@@ -46,18 +44,19 @@ courses:
   course_name: 'SSC0130 - Engenharia de Software
 
     Software Engineering'
-  instructors: 235343 - Alexandre Cláudio Botazzo Delbem
+  deactivation: ''
   lecture_credits: '4'
-  objectives: 'Oferecer uma visão geral do processo de desenvolvimento de Software
-    e dos problemas que a engenharia de software tem por objetivo resolver.
+  objectives: 'Oferecer uma visão geral do processo de desenvolvimento de software
+    e dos métodos e técnicas que podem ser utilizadas em cada fase do ciclo de vida
+    do software.
 
     Provide an overview of the software development process as well as the methods
     and  techniques that can be used during the software development.'
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20200810190646'
-digest: HB7KQFB6EIYJ5FRVGCBWQBBU27AHQAMP
+created_at: '20220320155114'
+digest: MSJSJY4TJJ72W5EXCWAIOOLVBPKZDG6Q
 requirements:
 - course: 'Curso: 55041  Bacharelado em Ciências de Computação (integral) - Período
     ideal: 5'
@@ -65,5 +64,5 @@ requirements:
   - code: SSC0124
     name: Análise e Projeto Orientados a Objetos
     type: Requisito fraco
-updated_at: '20200810190646'
-url: https://web.archive.org/web/20200810190646id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=SSC0130
+updated_at: '20220320155114'
+url: https://web.archive.org/web/20220320155114id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0130&codcur=55041&codhab=0
