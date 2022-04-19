@@ -1,0 +1,109 @@
+courses:
+  activation: 01/01/2010
+  assessment: Aplicação de prova teórico-prática sobre todo o programa lecionado.
+  bibliography: 'Literatura Básica:
+
+    BRUSCA, R.C.; G.J. BRUSCA. 2007. Invertebrados. Guanabara Koogan. 968p
+
+    FOOTTIT, R.G.; ADLER, PH. 2009. Insect biodiversity: science and society. Blackwell
+    Publishers. 632p.
+
+    GALLO, D.; NAKANO, O.; SILVEIRA NETO, S.; CARVALHO, R.P.L.; BATISTA, G.C.de; BERTI  FILHO,
+    E.; PARRA, J.R.P.; ZUCCHI, R.A.; ALVES, S.B.; VENDRAMIM, J.D.; MARCHINI, L.C.;
+    LOPES, J.R.S.; OMOTO, C. Entomologia Agrícola. Biblioteca de Ciências Agrárias
+    Luiz de Queiroz, Piracicaba, SP: FEALQ, 2002, 920p.
+
+    GRIMALDI, D.A.; ENGEL, M.S. 2006. Evolution of the insects. Cambridge Univ Press.
+    755p.
+
+    GULLAN, P.J.; CRANSTON, P.S. 1994. The Insects: An Outline of Entomology, Chapman
+    & Hall, 1ª edição, 491p.
+
+    RAFAEL, J.A.; G.A.R. MELO; C.J.B. DE CARVALHO; S.A. CASARI; R. CONSTANTINO. 2012.
+    Insetos do Brasil: diversidade e taxonomia. Holos Editoria. 810 p.
+
+    RIBEIRO-COSTA, C.S.; ROCHA, R.M. 2002. Invertebrados: Manual de Aulas Práticas.
+    Série Manuais Práticos em Biologia-3. Holos Editora, 226p.
+
+    RUPPERT, E.E.; BARNES, R.D. 1996. Zoologia dos Invertebrados. Editora Roca Ltda.,
+    1029p.
+
+    RUPPERT, E.E.; FOX, R.S.; BARNES, R.D. 2005.  Zoologia dos invertebrados: uma
+    abordagem funcional-evolutiva. Editora Roca Ltda. 1145p.
+
+    Obs.: A literatura básica é complementada anualmente com artigos científicos relevantes
+    aos tópicos abordados no curso.
+
+    Literatura Complementar:
+
+    KRISHNA, K; D.A. GRIMALDI, V. KRISHNA, M.S. ENGEL. 2013. Treatise on the Isoptera
+    of the world. Bulletin of the American Museum of Natural History. 377(1): 1-200.
+
+    SANDHU, G.S.; VARDHAN, H. 2003. Advanced practical invertebrate zoology. Campus
+    Books, 339p.
+
+    BORROR, D.J.; C.A. TRIPLEHORN & N.F. JOHNSON. 1989. An Introduction to the Study
+    of Insects, Saunders College Publishing, 6ª edição, 875p.
+
+    HEMMING, B.S. 2003. Insect development and evolution. Comstock Publisher Assocaites.
+    444p.
+
+    LAUFER, H.; G. ROGER; H. DOWNER. 1988. Endocrinology of selected invertebrates
+    types. Are, New York, 500 p.
+
+    S.K. PIERCE; T.K. MAUGEL. 1987. Illustrated invertebrate anatomy: a laboratory
+    guide. Oxford University Press. 307 p.
+
+    CSIRO. 1991. The insects of Australia: a text book for students and research workers.
+    Cornell University Press, 2v., 1137p.'
+  course: "SEMANAS\tAULAS TEÓRICAS\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n\
+    15\tCaracterísticas Gerais e Posicionamento Filogenético dos Artrópodos; Composição\
+    \ do Filo e Importância das Classes\nMorfologia Externa - 1a parte\nMorfologia\
+    \ Externa - 2a parte\nReprodução e Desenvolvimento\nMorfologia Interna e Fisiologia\
+    \ - 1ª Parte\nMorfologia Interna e Fisiologia - 2ª Parte\nEvolução e Classificação\
+    \ dos Insetos\nOrdem Orthoptera/Dispersão e Migração dos Insetos\nOrdens Thysanoptera\
+    \ e Hemiptera (Sternorrhyncha, Auchenorrhyncha)/Relação Inseto-Planta.\nOrdem\
+    \ Hemiptera (Heteroptera)/Relação Inseto-Animal.\nOrdem Coleoptera/Decompositores\
+    \ de Matéria Orgânica\nOrdem Lepidoptera/Comunicação Química\nOrdem Hymenoptera/Comportamento\
+    \ Social\nOrdem Diptera/Insetos de Importância Médico-Veterinária\nArachnida\n\
+    AULAS PRÁTICAS\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\tColeta, Montagem\
+    \ e Conservação dos Insetos"
+  course_name: 'LEA0200 - Zoologia de Invertebrados II
+
+    Invertebrate Zoology II'
+  deactivation: ''
+  instructors: 958270 - Fernando Luis Consoli
+  lecture_credits: '4'
+  objectives: Dar aos alunos conhecimentos básicos sobre morfologia, fisiologia, hábitos
+    e classificação dos insetos visando a obtenção de subsídios para cursar outras
+    disciplinas do Departamento.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: 's de Abdome, Larvas e Pupas.
+
+    Anatomia de um Inseto
+
+    Entrega da Coleção Entomológica
+
+    Classificação das Principais Famílias da Ordem Orthoptera
+
+    Classificação das Principais Famílias da Ordem Hemiptera (Sternorrhyncha, Auchenorrhyncha)
+
+    Classificação das Principais Famílias da Ordem Hemiptera (Heteroptera)
+
+    Classificação das Principais Famílias da Ordem Coleoptera
+
+    Classificação das Principais Famílias da Ordem Lepidoptera
+
+    Classificação das Principais Famílias da Ordem Hymenoptera
+
+    Classificação das Principais Famílias das Ordens Odonata, Dermaptera, Blattodea,
+    Neuroptera e Mantodea
+
+    Classificação das Principais Famílias das Ordens.
+
+    Arachnida'
+created_at: '20220419194943'
+digest: YWWQE72N7FEIP5RVLWO2MJBFVK5ZNLMP
+updated_at: '20220419194943'
+url: https://web.archive.org/web/20220419194943id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0200&codcur=11070&codhab=4
