@@ -1,0 +1,50 @@
+courses:
+  activation: 01/01/2020
+  assessment: Aplicação de prova teórica sobre todo o programa lecionado.
+  bibliography: '- CRANSTON, P. S.; GULLAN, Penny J. Os insetos um resumo de entomologia.
+    Editora Roca, 3° Edição, 440p. 2008.
+
+    - GALLO, D.; NAKANO, O.; SILVEIRA NETO, S.; CARVALHO, R.P.L.; BATISTA, G.C.de;
+    BERTI  FILHO, E.; PARRA, J.R.P.; ZUCCHI, R.A.; ALVES, S.B.; VENDRAMIM, J.D.; MARCHINI,
+    L.C.; LOPES, J.R.S.; OMOTO, C. Entomologia Agrícola. Biblioteca de Ciências Agrárias
+    Luiz de Queiroz, Piracicaba, SP: FEALQ, 2002, 920p.
+
+    - PARRA, José Roberto Postali. Controle biológico no Brasil: parasitóides e predadores.
+    Editora Manole Ltda, 2002.
+
+    - https://abelha.org.br/e-books/'
+  course: '1. Introdução aos insetos benéficos em sistemas agrícolas;
+
+    2. Diversidade, abundância e características de diferentes grupos taxonômicos
+    dos insetos benéficos
+
+    3. Tipos de controle biológico de pragas;
+
+    4. Características e utilização de insetos predadores em sistemas agrícolas;
+
+    5. Características e utilização de insetos parasitoides em sistemas agrícolas;
+
+    6. Insetos polinizadores de plantas cultivadas;
+
+    7. Insetos detritívoros;
+
+    8. Insetos como bioindicadores ambientais;
+
+    9. Insetos na alimentação animal e humana.'
+  course_name: 'LEA0444 - Insetos Benéficos
+
+    Beneficial Insects'
+  deactivation: ''
+  instructors: '8710278 - Alberto Soares Correa
+
+    6590960 - Wesley Augusto Conde Godoy'
+  lecture_credits: '4'
+  objectives: Apresentar noções sobre identificação, biologia, ecologia e manejo de
+    insetos benéficos em sistemas agrícolas.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220419194911'
+digest: 5VESHTR7SG6Y7VUQHZF43Y2GJEEZUZTB
+updated_at: '20220419194911'
+url: https://web.archive.org/web/20220419194911id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0444&codcur=11070&codhab=4
