@@ -1,0 +1,66 @@
+courses:
+  activation: 01/01/2007
+  assessment: Prova teórico-prática
+  bibliography: "BERTONI, J. LOMBARDI NETO, F. Conservação do solo. LIVROCERES. 368\
+    \ p., 1985.\nLAL, R.; BLUM, W.H.; VALENTIN, C. STEWART, B.A. Methods for assessment\
+    \ of soil degradation. Advances in Soil Science.CRC Press, New York. 558p., 1998.\n\
+    MACEDO, A.C. Produção de mudas em viveiros florestais: espécies nativas. Fundação\
+    \ florestal, 1993.\nRODRIGUES, R.R.; LEITÃO FILHO, H.F. Matas ciliares: conservação\
+    \ e recuperação. EDUSP/FAPESP, 320p. 2001.\nWESTERN, D.; PEARL, M.C. Conservation\
+    \ for the twenty-first century. Oxford University Press, New York. 287p., 1989.\n\
+    Literatura Complementar:\nCONSEMA \x96 CONSELHO ESTADUAL DO MEIO AMBIENTE Áreas\
+    \ naturais do Estado de São Paulo. CONSEMA, São Paulo. 1985.\nMARGULES, C.R.;\
+    \ PRESSEY, R.L. Systematic conservation planning. Nature, 405: 243-253. 2000.\n\
+    VICTOR, M.A. A devastação florestal. Sociedade Brasileira de Silvicultura, São\
+    \ Paulo. 1975."
+  course: 'Introdução: Principais conceitos e objetos de estudo.
+
+    As principais funções do solo e os mecanismos de sua degradação.
+
+    Erosão do solo como um mecanismo de degradação ambiental.
+
+    Degradação química de solos.
+
+    Recuperação de solos degradados.
+
+    Características e importância da vegetação ciliar.
+
+    Recuperação de florestas ciliares. Meios e modos.
+
+    A importância de programas de revegetação ciliar e as perspectivas da ecologia
+    de restauração.
+
+    Adequação ambiental de unidades naturais e unidades de produção.
+
+    Degradação e recuperação de áreas litorâneas (mangue e restinga).
+
+    Recuperação de áreas de mineração.
+
+    Manutenção, degradação e recuperação da qualidade da água.
+
+    Planejamento conservacionista.
+
+    Manejo e conservação de bacias hidrográficas.'
+  course_name: 'LSO0360 - Recuperação de Áreas Degradadas
+
+    Restoration of Degraded Lands'
+  deactivation: ''
+  instructors: '1400231 - Miguel Cooper
+
+    3542866 - Rafael Otto
+
+    91886 - Ricardo Ribeiro Rodrigues
+
+    3365924 - Tiago Osorio Ferreira'
+  lecture_credits: '4'
+  objectives: Capacitar o aluno a entender os processos de degradação ambiental, compreender
+    as suas causas, conseqüências e impactos ambientais. Avaliar as formas de recuperação
+    mais adequadas em situações específicas. Estabelecer as ações de recuperação definidas
+    pelas características do entorno e pelo histórico de degradação.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220419194100'
+digest: S5K4MR4WXYZHB6WX5KWPDVD7IQDTPLYG
+updated_at: '20220419194100'
+url: https://web.archive.org/web/20220419194100id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LSO0360&codcur=11080&codhab=4
