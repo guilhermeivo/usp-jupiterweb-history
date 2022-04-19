@@ -1,0 +1,64 @@
+courses:
+  activation: 01/01/2020
+  assessment: O sistema de recuperação é baseado em uma única prova com a matéria
+    toda do semestre, sendo a média final calculada de acordo com a Resolução COG
+    3583, de 29/09/89.
+  bibliography: 'Literatura Básica:
+
+    MELLO, C.R.; SILVA, A.M. Hidrologia: Princípios e aplicações em sistemas agrícolas.
+    Lavras: Ed. UFLA, 2013, 455 p.
+
+    PINTO, N.L.S.; HOLTZ, A.C.T.; MARTINS, J.A.; GOMIDE, F.L.S.   Hidrologia Básica.  São
+    Paulo, E.  Blücher, 1976.
+
+    TUCCI, C.E.M.  Hidrologia – Ciência e Aplicação.  Editora da Universidade de São
+    Paulo. 1993.  943 p.
+
+    SOUSA, A. B. O. de, et al. Hidrologia. Departamento de Engenharia de Biossistemas,
+    ESALQ/USP. (Série Didática, 018, 2ª Edição), Piracicaba, 2014, 457 p.
+
+    Literatura Complementar:
+
+    CRUCIANI, D.E.  Hidrologia.  Apostila.  Centro Acadêmico "Luiz de Queiroz"/USP.  Piracicaba,
+    1987.
+
+    DAEE - Departamento de Águas e Energia Elétrica do Estado de São Paulo. Boletins
+    técnicos e publicações diversas.
+
+    LINSLEY, R.K. & FRANZINI, J.  Engenharia de Recursos Hídricos. MacGraw-Hill/USP.  São
+    Paulo. 1978.
+
+    SILVA, E.F. de F.e, GHEYI, H.R.; MIRANDA, J.H. de, MEDEIROS, J.F. de, DUARTE,
+    S.N.  Controle de Águas Naturais. Série Didática nº 19. Departamento de Engenharia
+    de Biossistemas da ESALQ/USP, Piracicaba, SP, 353 p., 2015.
+
+    TODD, D. K. Hidrologia de águas subterrâneas.  USAID.  Rio de Janeiro.  1967.'
+  course: Importância e aplicações da Hidrologia no manejo ambiental. Ciclo hidrológico,
+    seus componentes e bacias hidrográficas. Chuvas, tipos, características, probabilidades
+    e recorrência. Escoamento superficial, características, condições de ocorrência,
+    quantificação e seu relacionamento com os tipos de ocupação da bacia, dimensionamento
+    de estruturas de controle simples. Caracterização dos recursos hídricos superficiais
+    de uma bacia, vazões médias, máximas e mínimas. Previsão de eventos extremos.
+    Demanda de água, recursos hídricos disponíveis, reservatórios de regularização.
+    Água subterrânea, aquíferos e poços. Qualidade das águas superficiais e subterrâneas.
+    Legislação para Gestão dos Recursos Hídricos.
+  course_name: 'LEB0360 - Hidrologia
+
+    Hidrology'
+  deactivation: ''
+  instructors: '711726 - Fernando Campos Mendonça
+
+    52753 - Sergio Nascimento Duarte'
+  lecture_credits: '2'
+  objectives: Esta disciplina tem por objetivo mostrar aos alunos a importância e
+    as aplicações da Hidrologia, necessárias à caracterização e ao manejo sustentado
+    dos recursos hídricos naturais superficiais e subterrâneos; visa também à capacitação
+    dos alunos para o diagnóstico de problemas ambientais relacionados aos fluxos
+    de água no Ciclo Hidrológico.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220419194105'
+digest: BV54JGXTGSST3MGVJOKWEDBG46GQS7ZJ
+updated_at: '20220419194105'
+url: https://web.archive.org/web/20220419194105id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0360&codcur=11080&codhab=4
