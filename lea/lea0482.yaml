@@ -1,0 +1,41 @@
+courses:
+  activation: 01/01/2020
+  assessment: Aplicação de prova teórico-prática sobre todo o programa lecionado e,
+    eventualmente, entrega de um projeto sobre um tema da disciplina.
+  bibliography: 'Literatura Básica:
+
+    - Hoy, M.A. (2013). Insect Molecular Genetics: an Introduction to Principles and
+    Applications, Third Edition.
+
+    - Freeland, J.R., Kirk, H. and Petersen, S. (2011). Molecular Ecology, Second
+    Edition
+
+    - Beebee, T.J.C. (2008). An Introduction to Molecular Ecology. Oxford University'
+  course: "SEMANAS\tAULAS TEÓRICO-PRÁTICAS\n1 Introdução a Ecologia Molecular de Artrópodes\n\
+    2 Estrutura, Organização e Função dos Ácidos Nucleicos\n3 Coleta, Conservação\
+    \ e Extração de DNA\n4 Como escolher um Marcador Molecular\n5 Plataforma de banco\
+    \ de dados genômico\n6 Introdução a Filogenia Molecular (princípios e ferramentas)\n\
+    7 DNA Barcoding e taxonomia molecular (princípios e ferramentas)\n8 Filogeografia\
+    \ e demografia molecular I (princípios e ferramentas)\n9 Genética de populações\
+    \ naturais de artrópodes I (princípios e ferramentas)\n10 Genética de populações\
+    \ naturais de artrópodes II (princípios e ferramentas)\n11 Hibridização e introgressão\
+    \ em artrópodes pragas e benéficos\n12 Marcadores moleculares aplicados a prospecção\
+    \ de agentes de controle biológico de pragas\n13 Marcadores moleculares aplicados\
+    \ a interação inseto-planta\n14 Marcadores moleculares aplicados a resistência\
+    \ de insetos a estratégias de controle\n15 Biotecnologia aplicada no Manejo Integrado\
+    \ de Pragas"
+  course_name: 'LEA0482 - Ecologia Molecular de Artrópodes
+
+    Arthropod Molecular Ecology'
+  deactivation: ''
+  instructors: 8710278 - Alberto Soares Correa
+  lecture_credits: '3'
+  objectives: Apresentar noções de ecologia molecular aplicada a manejo de insetos
+    em ambientes tropicais.
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220419194927'
+digest: QQG7MPV5K64F5F3BMRH74UZ5EOF7VHDJ
+updated_at: '20220419194927'
+url: https://web.archive.org/web/20220419194927id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0482&codcur=11070&codhab=4
