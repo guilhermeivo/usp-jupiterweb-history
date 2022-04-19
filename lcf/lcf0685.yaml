@@ -1,0 +1,67 @@
+courses:
+  activation: 01/01/2011
+  assessment: Uma prova teórica abrangendo toda a matéria lecionada. A nota desta
+    prova é somada à média final da avaliação normal. A média simples dos dois valores,
+    se superior a 5,0 implicará na aprovação do aluno. Caso contrário, o aluno será
+    considerado reprovado.
+  bibliography: "Blanchard, Olivier. (2001) Macroeconomia \x96 teoria e política econômica.\
+    \ Ed. Campus-Elsevier, Rio de Janeiro. 656 p.\nChiang, Alpha C. & Wainwright,\
+    \ Kevin (2006) Matemática para economistas. Ed. Campus-Elsevier, Rio de Janeiro.\
+    \ 659 p.\nRodrigues, José A. & Mendes, Gilmar M. (2007) Manual de aplicação de\
+    \ matemática financeira \x96 temas básicos, questões-chave, formulários e glossários.\
+    \ FGV Editora, Rio de Janeiro. 250 p.\nRodriguez, Luiz C.E. (2006) Matemática\
+    \ Financeira na Gestão Florestal. Avaliação de Projetos Florestais (Técnicas de\
+    \ Matemática Financeira). 45 p.\nRossetti, José Paschoal (2003) Introdução à economia.\
+    \ Atlas, São Paulo. 922 p.\nSimonsen, Mário H & Cysne, Rubens P. (2007) Macroeconomia.\
+    \ Atlas, Rio de Janeiro. 731 p.\nVarian, Hal R. (2003) Microeconomia \x96 Princípios\
+    \ básicos, uma abordagem moderna. Ed. Campus-Elsevier, Rio de Janeiro. 807 p."
+  course: 'A) INTRODUÇÃO À TEORIA ECONÔMICA: - Uso eficiente de recursos produtivos.
+    1. Fatores de Produção no Setor Florestal; 2. Princípios Econômicos da Produção;
+    3. Eficiência Técnica e Econômica na Produção de um Produto; 3.1. Fatores de produção;
+    3.1.1. Um recurso variável; 3.1.2. Dois ou mais recursos variáveis; 4. Eficiência
+    Técnica e Econômica na Produção de dois ou mais produtos; 5. Estudo da formação
+    das curvas de oferta e demanda; 5.1. Introdução ao conceito de oferta e teoria
+    dos custos; 5.1.1. Custo fixo; 5.1.2. Custo variável; 5.2. Equilíbrio da firma
+    no mercado de competição perfeita (obtenção da curva de oferta individual); 5.3.
+    A oferta agregada do setor; 6. Introdução ao conceito de demanda; 6.1. Demanda
+    individual; 6.2. Demanda agregada; 6.3. Comportamento da demanda; 6.3.1. Fatores
+    que influenciam o comportamento da demanda interna; a) População consumidora;
+    b) Renda dos consumidores; c) Custo de vida; d) Distribuição de Renda; 6.3.2.
+    Fatores que afetam o comportamento da demanda externa; 6.4. Comportamento da oferta;
+    6.4.1.  Fatores que afetam a oferta; 7. O mercado em equilíbrio a partir das curvas
+    de oferta e demanda; 7.1. Determinação do Preço; 7.2. Políticas de preços mínimos;
+    7.3. Políticas de subsídios; B) Matemática Financeira e Critérios de avaliação
+    de projetos; 1. O valor temporal da moeda; 1.1. Juros simples e compostos; 1.2.
+    Valor presente e futuro 1.3. Fórmula Básica da Matemática Financeira; 1.4. Séries
+    de Pagamentos; 1.5. Fórmulas Básicas para séries de pagamentos; 2. Critérios para
+    análise financeira de projetos; 2.1. Convertendo projetos em fluxos de caixa;
+    2.2. Valor Presente Líquido; 2.3. Relação Benefício / Custo; 2.3. Taxa Interna
+    de Retorno; 2.4. VPL Anualizado; 2.5. Valor Esperado da Terra; 2.6. Custo Financeiro
+    da Produção; 3. Escolha do Critério adequado; 4. Análise comparativa envolvendo
+    diferentes atividades; 5. Níveis economicamente ótimos de adubação; 6. Determinação
+    da rotação florestal economicamente ótima; 7. Inclusão do efeito inflacionário
+    nas análises.'
+  course_name: 'LCF0685 - Economia de Recursos Florestais
+
+    Economics of Forest Resources'
+  deactivation: ''
+  instructors: 85364 - Luiz Carlos Estraviz Rodriguez
+  lecture_credits: '3'
+  objectives: 'O objetivo geral do curso é o de prover futuros engenheiros florestais,
+    gestores ambientais e economistas com os conhecimentos básicos de economia e de
+    planejamento através de aplicações na área de recursos florestais. Além da produção
+    e consumo de produtos florestais, ênfase será dada ao uso racional de recursos
+    produtivos e aos critérios de avaliação de projetos florestais. Após a conclusão
+    do curso, espera-se que o aluno: a) domine os conceitos básicos da economia suficientes
+    para compreender as forças que determinam a oferta e a demanda de produtos e serviços
+    de origem florestal; b) possa aplicar os conceitos básicos da teoria da produção
+    para determinar níveis economicamente ótimos dos fatores de produção; e c) saiba
+    aplicar as técnicas básicas de avaliação de projetos na análise de empreendimentos
+    florestais.'
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220419194306'
+digest: XCYZO27TH7UD4MKHZYIN6MAEQILSBSO2
+updated_at: '20220419194306'
+url: https://web.archive.org/web/20220419194306id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0685&codcur=11080&codhab=4
