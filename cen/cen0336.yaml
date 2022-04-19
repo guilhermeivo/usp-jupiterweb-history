@@ -1,0 +1,48 @@
+courses:
+  activation: 01/01/2020
+  assessment: Não há.
+  bibliography: 'Literatura Básica:
+
+    Haddoc SHD & Dunn CW. Practical Computing for Biologist. Sninauer Associates Inc.2011
+
+    Jones NC & Pevzner PA. An Introduction to Bioinformatics Algorithms. MIT Press.
+    2004
+
+    Literatura Complementar:
+
+    Bessant C, Shadforth I & Oakley D. Building Bioinformatics Solutions with Perl,
+    R and MySQL. Oxford University Press. 2009
+
+    Bradnam K & Korf I. Unix & Perl Primer for Biologists . http://korflab.ucdavis.edu/unix_and_perl/
+
+    The Carpentries. The Unix Shell. http://swcarpentry.github.io/shell-novice/'
+  course: 'O programa será dividido em 15 sessões (semanas). Cada sessão com uma duração
+    de 4 h.
+
+    Teórico: Introdução ao sistema operacional UNIX. Conceitos básicos em programação
+    de computadores (algoritmos, linguagens de programação: compilados vs. interpretados).
+    Noções de desenvolvimento de algoritmos. Introdução a BASH. Introdução a Perl
+    ou Python. Tipos de estruturas de dados e variáveis, declaração, estruturas de
+    controle, expressões regulares e funções. Utilização de módulos. Prático: Implementação
+    de scripts simples para manipulação de dados biológicos, com ênfase em manipulação
+    de sequências.'
+  course_name: 'CEN0336 - Introdução a Programação de Computadores Aplicada a Ciências
+    Biológicas
+
+    Introduction to computer programming applied to life sciences'
+  deactivation: ''
+  instructors: 9406670 - Diego Mauricio Riaño Pachón
+  lecture_credits: '4'
+  objectives: Ao finalizar a disciplina o aluno contará com habilidades básicas para
+    o uso de sistemas operacionais tipo UNIX, e para a programação de computadores
+    com linguagens de alto nível (e.g., Bash, Perl, Python). Tais habilidades são
+    indispensáveis para gerenciar grandes quantidades de dados e inflação de forma
+    eficiente na biologia atual. As habilidades adquiridas serão úteis para o aprendizado
+    em outras disciplinas e nas atividades professionais do aluno.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220419194912'
+digest: XD4MZLCGPUT2HWUM23KSQKVSEUPEKLJV
+updated_at: '20220419194912'
+url: https://web.archive.org/web/20220419194912id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0336&codcur=11070&codhab=4
