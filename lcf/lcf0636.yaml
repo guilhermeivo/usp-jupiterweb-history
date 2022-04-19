@@ -1,0 +1,100 @@
+courses:
+  activation: 01/01/2022
+  assessment: )   O aluno realizará uma única prova sobre toda a matéria.
+  bibliography: 'BRADLEY, G.A. (Ed.) Urban Forest Landscapes: integrating multidisciplinary
+    perspectives. Seattle and London, University of Washington Press, Seattle, 1995.
+    224p.
+
+    BRIDGEMAN, P.H. Tree surgery. London: David & Charles, 1976. 144p.
+
+    DEL RIO, V. Introdução ao Desenho Urbano no processo de planejamento. São Paulo:
+    Pini, 1990. 198p.
+
+    GONÇALVES, W. Urbana Paisagem: palestras e conferências. Viçosa: Wantuelfer Gonçalves,
+    2003. 116p.
+
+    GOUVÊA, L.A.G. Biocidade: Conceitos e critérios para um desenho ambiental urbano,
+    em localidades de clima tropical de planalto. Nobel, 2002. 174p.
+
+    GREY, G. W. & DENEKE, F. J. Urban Forestry. New York: John Wiley and Sons, 1986.
+    255p.
+
+    LOMBARDO, M. Ilhas de calor nas metrópoles. São Paulo: Hucitec, 1985. 244p.
+
+    MACEDO, S.S. Quadro do Paisagismo no Brasil. São Paulo: Quapá, 1999. 144p.
+
+    MATTHECK,C.; BRELOER,H. The body language of trees: a handbook for failure analysis.
+    London: Her Majesty s Stationery Office, 1997. 260p.
+
+    MILANO, M.S.; DALCIN, E.C. Arborização de vias públicas. Rio de Janeiro, RJ: Light,
+    2000. 226 p.
+
+    MILLER, R. W. Urban forestry - Planning and managing urban greenspaces. Englewood
+    Cliffs, New Jersey: Prentice Hall, Inc., 1988. 404 p.
+
+    MOREIRA, M.A. Fundamentos do Sensoriamento Remoto e Metodologias de Aplicação.
+    2 ed. Viçosa, UFV, 2003. 307 p.
+
+    PAIVA, H.N. & GONÇALVES, W. Florestas Urbanas: Planejamento para melhoria da qualidade
+    de vida. Viçosa, MG: Aprenda fácil, 2002. 177p.
+
+    ROGERS, R. & GUMUCHDJIAN, P. Cidades para um pequeno planeta. Barcelona, Gustavo
+    Gilli. 2001. 180p.
+
+    ROLNIK, R. O que é cidade. São Paulo. Editora brasiliense. 1988. 86p.
+
+    SANT''ANNA NETO, J.L. & ZAVATINI, J.A. (org.) Variabilidade e Mudanças Climáticas:
+    Implicações ambientais e socioeconômicas. Maringá: UEM, 2000. 259p.
+
+    SEGAWA, H. Ao amor do público: jardins no Brasil. São Paulo: FAPESP - Studio Nobel,
+    1996. 255p.
+
+    SILVA FILHO, D.F. da. Cadastramento informatizado, sistematização e análise da
+    arborização das vias públicas da área urbana do Município de Jaboticabal, SP.
+    2002. 81 f. Dissertação (Mestrado em Agronomia) - Faculdade de Ciências Agrárias
+    e Veterinárias, Universidade Estadual Paulista, Jaboticabal, 2002.'
+  course: 'A história das cidades e da silvicultura urbana: a distribuição e a importância
+    da vegetação nas cidades não planejadas e planejadas (a cidade medieval, a cidade
+    industrial, a cidade jardim, as cidades com influência do desenho urbano espanhol,
+    português, inglês, a cidade moderna). Os usos, benefícios e funções da vegetação
+    nos ambientes urbanos: melhoria da paisagem urbana (estética/paisagismo); melhoria
+    do conforto térmico e acústico; controle da erosão; controle da poluição do ar
+    e da água; controle da luminosidade, reflexão e ofuscamento; lazer e recreação;
+    direcionamento e ordenamento do tráfego de pedestres e veículos; usos na arquitetura;
+    benefícios econômicos; benefícios para a fauna. Princípios de paisagismo: elementos
+    de artes plásticas aplicados ao paisagismo (ritmo, cor, volume, textura,luz);
+    estilos de parques e jardins (estilo clássico/francês, estilo romântico/inglês,
+    estilo composto, estilo moderno, o jardim japonês. Planejamento em silvicultura
+    urbana: a distribuição da vegetação nos espaços públicos e privados e a responsabilidade
+    pelo manejo; arborização de ruas, avenidas e estradas ; parques urbanos; jardins
+    públicos e privados; áreas verdes; florestas ripárias; florestas periurbanas.
+    A influência do meio físico (espaço, adaptação de espécies florestais a diferentes
+    níveis de luminosidade, solos, topografia, microclimas, etc.), das atividades
+    antrópicas (necessidades, usos, poluição, etc.) e das características biológicas
+    e ecológicas das plantas na seleção das espécies e na sustentabilidade dos ecossistemas
+    florestais urbanos naturais ou plantados. Inventário florestal em áreas urbanas.
+    Sensoriamento remoto e bancos de dados no manejo da floresta urbana e sua valoração.
+    Produção de mudas; plantio (espaçamento, distribuição, sistema radicular, nutrição);
+    manutenção (nutrição, poda, pragas, cuidados especiais, máquinas e outros equipamentos
+    para manutenção). Políticas públicas municipais(política ambiental, estrutura
+    administrativa, planejamento urbano, etc.) e programas comunitários para implantação,
+    recuperação, valorização ; manutenção dos ecossistemas florestais urbanos e periurbanos.'
+  course_name: 'LCF0636 - Silvicultura Urbana
+
+    Urban Forestry'
+  deactivation: ''
+  instructors: 4864078 - Demóstenes Ferreira da Silva Filho
+  lecture_credits: '4'
+  objectives: Estudar os princípios e práticas de planejamento, implantação, manejo
+    e conservação, de ecossistemas florestais urbanos, considerando as interações
+    entre vegetação - atividades e necessidades humanas - planejamento e desenho urbano.
+    O enfoque principal será dado sobre a função da vegetação nos espaços urbanos,
+    os modelos de produção de mudas e distribuição de espécies adequadas para diferentes
+    condições, manejo silvicultural, políticas públicas e organização comunitária.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220419194209'
+digest: 2PJFMTQGFH2CWI4YKSEO6PDZAHH6VFYU
+updated_at: '20220419194209'
+url: https://web.archive.org/web/20220419194209id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0636&codcur=11080&codhab=4
