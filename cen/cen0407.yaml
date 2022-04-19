@@ -1,0 +1,60 @@
+courses:
+  activation: 01/01/2002
+  assessment: Trabalho de pesquisa
+  bibliography: "1)\tLivros:\na)\tINTERNATIONAL ATOMIC ENERGY AGENCY. Nuclear and\
+    \ related techniques in animal production and health. Vienna: IAEA. 1986. 695\
+    \ p\nb)\tINTERNATIONAL ATOMIC ENERGY AGENCY. Laboratory training manual on radioimmunoassay\
+    \ in animal reproduction. Vienna: IAEA: 1984. 269 p\nc)\tINTERNATIONAL ATOMIC\
+    \ ENERGY AGENCY. Tracer techniques in tropical animal production. Vienna: IAEA:\
+    \ 1974. 209 p\nd)\tSLATER, R.J. Radioisotopes in biology: a proctical approch.\
+    \ New York: IRL Press. 1993. 307 p.\ne)\tCAYGILL, J.C. & MUELLER-HARVEY, I. Secondary\
+    \ plant products \x96 Antinutritional and beneficia actions in animal feeding.\
+    \ Nottingham University Press. 1999.129 p.\nf)\tL´ANNUNZIATA, M. F. Nuclear radiation,\
+    \ its interaction with matter and radioisotope decay. In: L´ANNUNZIATA, M. F.\
+    \ (Ed.). Handbook of radioactivity analysis. 2. ed. San Diego: Academic Press,\
+    \ 2003. p. 1-121.\n2)\tPeriódicos:\na)\tJournal of Animal Science;\nb)\tInternational\
+    \ Journal of Radiation Biology;\nc)\tRadiation Research;\nd)\tJournal of Nuclear\
+    \ Agriculture and Biology;\ne)\tInternational Journal of Radiation Application\
+    \ and Instrumentation. Part A - Applied Radiation and Isotopes;\nf)\tTrends in\
+    \ Analytical Chemistry;\ng)\tJournal of Chromatography;\nh)\tDrug Safety;\ni)\t\
+    Journal of Agricultural and Food Chemistry;\nj)\tFood Additives and Contaminants\n\
+    L´ANNUNZIATA, M. F. Nuclear radiation, its interaction with matter and radioisotope\
+    \ decay. In: L´ANNUNZIATA, M. F. (Ed.). Handbook of radioactivity analysis. 2.\
+    \ ed. San Diego: Academic Press, 2003. p. 1-121.\n8.  JUSTIFICATIVA:\n\x95\tAdequação\
+    \ de requisitos e alteração do semestre para qual é oferecida para adequar os\
+    \ conhecimentos básicos e propiciar melhor aproveitamento do conteúdo da disciplina;\n\
+    \x95\tInclusão de bibliografia atualizada;"
+  course: Apresentação do uso da energia nuclear e técnicas correlatas como ferramentas
+    para estudos dos processos biológicos, responsáveis pelo crescimento, reprodução
+    e produção em diferentes tipos de animais domésticos. Em nutrição animal é discutida
+    a utilização de traçadores radioativos (3H, 45Ca, 14C, 51Cr, 32P, 35S) e não radioativos
+    (15N, 13C) na compreensão do processo de digestão e da síntese microbiana no rumem
+    dos animais, o uso das radiações X e ? no aumento da digestibilidade de alimentos
+    fibrosos e o uso dos radioisótopos como ferramentas nos estudos de absorção real
+    de minerais. Em reprodução animal, é discutido o uso dos traçadores 3H e 125I
+    para determinação de hormônios através de radioimunoanálise, visando a monitoração
+    das funções reprodutivas de fêmeas de interesse doméstico. No campo da saúde animal
+    são discutidos os usos dos radioisótopos para traçar o caminho e a ação de medicamentos
+    no hospedeiro e parasito; avaliar o efeito do parasito sobre o metabolismo da
+    água no hospedeiro; e como os raios ? e X têm sido utilizados para atenuar patógenos
+    e produzir vacinas seguras e eficientes.
+  course_name: 'CEN0407 - Aplicação de Técnicas Nucleares e Correlatas em Estudos
+    de Produtividade Agropecuária
+
+    Nuclear and Correlated Techniques in Agricultural Productivity Studies'
+  deactivation: ''
+  instructors: '51964 - Adibe Luiz Abdalla
+
+    834866 - Helder Louvandini'
+  lecture_credits: '1'
+  objectives: A disciplina tem por objetivo transmitir aos alunos, noções básicas
+    de diferentes técnicas nucleares e correlatas utilizadas no desenvolvimento de
+    pesquisas em produtividade agropecuária, visando o desenvolvimento seguro e qualitativo
+    dos trabalhos científicos.
+  practical_credits: '1'
+  total_workload: 45 h
+  type: Semestral
+created_at: '20220419194920'
+digest: N2RVWRVJXZ7UETY6DHWJZQYPRU2QZCKT
+updated_at: '20220419194920'
+url: https://web.archive.org/web/20220419194920id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0407&codcur=11070&codhab=4
