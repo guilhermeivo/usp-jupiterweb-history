@@ -1,0 +1,58 @@
+courses:
+  activation: 01/01/2010
+  assessment: Prova a respeito de assuntos do programa geral previamente definidos.
+  bibliography: "Magurran A.E. 2004. Measuring Biological Diversity. Science Books,\
+    \ 256p.\nMelo I.S. e Azevedo J.L. (ed.) 1998. Ecologia Microbiana. EMBRAPA-CNPMA,\
+    \ Jaguariúna-SP, 488p.\nRicklefs R.E. 2010. A Economia da Natureza. Ed. Guanabara\
+    \ Koogan, RJ-Rio de Janeiro,  498p.\nMoreira, F.M.S., Siqueira J.O. e Brussaard\
+    \ L. (ed.) 2008. Ed. UFLA, Lavras-MG, 768P.\nBIBLIOGRAFIA COMPLEMENTAR:\nJustificativa\
+    \ para alterações:\nIntrodução de aulas on line, proporcionando ao aluno melhor\
+    \ interatividade.  Atualização da bibliografia, em busca de assuntos atuais. Devido\
+    \ a essa necessidade de atualização, foi realizada a inclusão dos Professores\
+    \ Colaboradores Jorge Mazza Rodrigues \x96 Universidade da Califórnia \x96 Davis,\
+    \ CA, EUA (aulas on line), Brendan Bohannan \x96 Universidade de Oregon, Eugene,\
+    \ OR, EUA, (aulas online)."
+  course: "\x95 GENES E BIODIVERSIDADE\nBiodiversidade como expressão do processo\
+    \ evolutivo\nSistemas de expressão gênica e adaptabilidade: Geração de biodiversidade"
+  course_name: 'CEN0167 - Biodiversidade e Conservação: Um Enfoque Molecular
+
+    Biodiversity and Conservation: A Molecular Approach'
+  deactivation: ''
+  instructors: 50153 - Tsai Siu Mui
+  lecture_credits: '4'
+  objectives: ':   O objetivo principal desta disciplina é oferecer ao aluno conhecimentos
+    básicos sobre biodiversidade e conservação de recursos biológicos e genéticos,
+    sob um enfoque bioquímico e molecular, que permitam explorar:
+
+    a) O conceito da biodiversidade, os níveis da organização biológica em diferentes
+    sistemas, a possibilidade de identificação dos processos evolutivos prevalecentes
+    e a quantificação através de métodos bioquímicos e moleculares;
+
+    b) A determinação da importância da biodiversidade e sua conservação para o homem,
+    incluindo bioética e as estratégias para manutenção do equilíbrio entre a conservação
+    e exploração dos recursos biológicos, com estudos de caso;
+
+    c) Através de uma noção integrada dos fundamentos das tecnologias de análise de
+    polimorfimos genéticos, proporcionar a competência na análise da biodiversidade
+    do ponto de vista molecular e em tomadas de decisão em políticas de preservação
+    ambiental e da diversidade genética;
+
+    d) Capacitar o aluno na utilização dos recursos genéticos para o descobrimento
+    e aproveitamento de moléculas na geração de bio-produtos inovadores e de interesse
+    agro-industrial de maneira sustentável.
+
+    e) O valor da informação sobre a diversidade biológica, a organização, disseminação
+    e uso na educação, pesquisa e manejo.
+
+    As atividades serão desenvolvidas através de : 1. aulas teóricas; 2. aulas práticas
+    em laboratório para incrementar o conhecimento e experiência em técnicas bioquímicas
+    e moleculares usadas em estudos da biodiversidade e conservação dos recursos biológicos
+    e genéticos; 3.  leitura, trabalho e discussões em grupo sobre a pesquisa na área;
+    4. excursões a programas de conservação da biodiversidade e de recursos genéticos.'
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220419194932'
+digest: 5VIRRZVPJWB73T5MX3W276YRYLH2YSVB
+updated_at: '20220419194932'
+url: https://web.archive.org/web/20220419194932id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0167&codcur=11070&codhab=4
