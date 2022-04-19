@@ -1,0 +1,66 @@
+courses:
+  activation: 01/01/2002
+  assessment: 1 prova teórica escrita.
+  bibliography: 'Nelson, D.L.; Cox, M.M. 2000. Lehninger Principles of Biochemistry.
+    3a ed. Worth Publishers, 1152 pg.
+
+    ou edição mais antiga em português (Princípios de Bioquímica. 1995. Trad. Arnaldo
+    Simões. 2ª Ed. S.Paulo, Ed. Sarvier, 840 pg.)
+
+    Stryer, L. Bioquimica. 1992. [Trad] Luiz Franscisco Macedo ; [Rev] Joao Paulo
+    de Campos. 3a. ed. Rio de Janeiro: Guanabara Koogan. 881 p.
+
+    Textos selecionados'
+  course: '1. A célula e macromoléculas. Água e solutos.
+
+    2. Proteínas: aminoácidos, peptídeos, estrutura tridimensional de proteínas. Funções
+    de proteínas.
+
+    3. Enzimas: classificação, cinética e mecanismos de ação. Regulação de atividade.
+
+    4. Classificação, estrutura e função das principais biomoléculas: carboidratos,
+    lipídeos, nucleotídeos e ácidos nucleicos.
+
+    5. Membranas biológicas: estrutura e transporte.
+
+    6. Bioenergética e metabolismo oxidativo. Glicólise, via das pentoses fosfato,
+    ciclo de Krebs
+
+    7. Teoria quimiosmótica e transporte de elétrons.
+
+    8. Fotossíntese. Reações fotoquímicas.
+
+    9. Vias C-3 e C-4 e adaptação ambiental.
+
+    10. Metabolismo de carboidratos
+
+    11. Metabolismo de lipídeos
+
+    12. Metabolismo de compostos nitrogenados.
+
+    13. Tópico especial: Ferramentas moleculares de interesse ambiental.
+
+    14. Tópico especial: Bioquímica de poluentes, Transporte e acúmulo de metais e
+    poluentes
+
+    15. Tópico especial: Principios e conceitos básicos de toxicologia.'
+  course_name: 'CEN0120 - Princípios de Bioquímica
+
+    Principles of Biochemistry'
+  deactivation: ''
+  instructors: 60172 - Victor Alexandre Vitorello
+  lecture_credits: '2'
+  objectives: 'Aprendizado dos fundamentos e princípios que regem as reações bioquímicas
+    em organismos vivos.
+
+    Descrever os principais processos bioquímicos necessários à manutenção da vida.
+
+    Através de exemplos, tentar relacionar alguns aspectos de bioquímica com questões
+    ambientais.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220419194159'
+digest: BZ7EVC2ANWMI7MYUGFPBUX7LDC6F5LBE
+updated_at: '20220419194159'
+url: https://web.archive.org/web/20220419194159id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0120&codcur=11080&codhab=4
