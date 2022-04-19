@@ -1,0 +1,94 @@
+courses:
+  activation: 01/01/2007
+  assessment: 'Não haverá recuperação, pois ao longo do semestre é dada a possibilidade
+    do aluno realizar quatro avaliações do conteúdo ministrado e um trabalho prático.
+
+    OBS1. A revisão de provas será feita apenas em data agendada junto à Secretaria
+    do Departamento.
+
+    OBS2. A solicitação de retificação de freqüência e nota pelos alunos deverá ser
+    feita até 30 dias após a divulgação da nota e freqüência finais.'
+  bibliography: 'Livros:
+
+    ANDRADE, V.M.M. & DAMIÃO FILHO, C.F. 1989. Morfologia Vegetal. Jaboticabal/SP,
+    FUNEP, 259p.
+
+    APPEZZATO-DA-GLÓRIA, B.  2003. Morfologia de Sistemas Subterrâneos: Histórico
+    e Evolução do Conhecimento no Brasil.  Ed. A. S. Pinto.  80 p.
+
+    APPEZZATO-DA-GLÓRIA, B. & CARMELLO-GUERREIRO, S.M.  2003. Anatomia Vegetal.  Ed.
+    da Universidade Federal de Viçosa.  438 p.
+
+    CARVALHO. H.F. & RECCO-PIMENTEL, S.M.  2001.  A Célula 2001.  São Paulo,  Editora
+    Manole Ltda,  287p.
+
+    CUTTER, E.G. 1986. Anatomia Vegetal. Parte I. Células e Tecidos. Trad. Gabriela
+    V.M.C. Catena. 2a. edição, SP., Editora Roca, 304p.
+
+    CUTTER, E.G. 1987. Anatomia Vegetal. Parte II. Órgãos, Experimentos e Interpretação.
+    Trad. Gabriela V.M.C. Catena. 1a. edição. São Paulo, Editora Roca, 336p.
+
+    ESAU, K. 1974. Anatomia das plantas com sementes. Trad. Berta L. Morretes. Ed.
+    Edgard Blucher, SP, 293p.
+
+    RAVEN, P.H.; EVERT, R.F. & EICHHORN, S.E. 1996. Biologia Vegetal. 5a. edição,
+    Rio de Janeiro, Ed. Guanabara, Koogan S.A. 728p.
+
+    SOUZA, L.A. DE. 2003. Morfologia e Anatomia Vegetal: célula, tecidos, órgãos e
+    plântula. Editora UEPG, Ponta Grossa. 258p.
+
+    Apostila: Morfologia Vegetal Prática'
+  course: 'Anatomia Vegetal - 1. Introdução. 1.1 Considerações gerais e importância.
+    1.2 O corpo da planta. 1.2.1 Organização interna da planta. 2. Embrião. 2.1 Considerações
+    gerais e importância da embriogênese. 2.2 Embrião das Dicotiledôneas . 2.2.1 Partes
+    do embrião (Sementes com e sem endosperma). 2.2.2 Origem e desenvolvimento das
+    partes (embriogênese). 2.2.3 Início e organização dos tecidos no embrião. 2.2.4
+    Meristemas apicais no embrião. 2.3 Embrião das Monocotiledôneas. 2.3.1 Embrião
+    das Gramíneas e da cebola. 3. Do embrião à planta adulta. 3.1 Meristema, tecidos
+    meristemáticos e origem dos tecidos. 3.2 Classificação dos meristemas: 3.2.1 Meristemas
+    apicais: caule (Teoria Túnica-corpo), da raiz (Teoria histogênica). 3.2.2 Meristemas
+    laterais (Câmbio e felogênio). 3.3 Diferenciação e especialização. 3.4 Crescimento
+    primário e secundário. 3.5 Origem da folha e da gema. 4. Parênquima. 4.1 Considerações
+    gerais. 4.2 Forma das células. 4.3 Parede celular. 4.4 Pontoações da parede. 4.5.
+    Conteúdo celular. 5. Colênquima. 5.1 Considerações gerais. 5.2 Parede celular.
+    5.3 Distribuição do espessamento e classificação. 5.4 Distribuição na planta.
+    5.5 Estrutura em relação à função. 6. Esclerênquima. 6.1 Caracteres gerais e diferenças
+    entre esclerênquima e colênquima. 6.2 Parede celular. 6.3. Esclereídes. 6.4 Fibras.
+    7. Epiderme. 7.1 Considerações gerais. 7.2 Composição geral da epiderme. 7.3 Parede
+    das células epidérmicas. 7.4 Apêndices epidérmicos: Estômatos, tricomas, escamas,
+    células buliformes. 8. Xilema: Estrutura geral e tipos de células. 8.1 Considerações
+    gerais. 8.2 Xilema primário e secundário. 9. Câmbio. 9.1 Considerações gerais.
+    9.2 Organização do câmbio: Iniciais fusiformes e Iniciais do raio. 10. Floema.
+    10.1 Considerações gerais. 10.2 Tipos de células do floema: Floema primário; Floema
+    secundário.  11. Periderme. 11.1 Estrutura da periderme e tecidos relacionados:
+    felogênio, felema e feloderme. 11.2 Poliderme. 11.3 Ritidoma. 12. Raiz: Estágio
+    primário de crescimento. 12.1 Considerações gerais. 12.2 Estrutura primária: epiderme,
+    córtex e cilindro vascular. 12.3 Diferenciação vascular. 12.4 Origem das raízes
+    laterais. 12.5 Raiz: Estágio secundário de crescimento. 12.6 Tipos comuns de crescimento
+    secundário. 12.7 Raízes adventícias. 12.8 Anatomia das Raízes de reserva. 13.
+    Caule: Estágio primário de crescimento. 13.1 Considerações gerais. 13.2 Estrutura
+    primária: Epiderme, córtex e sistema vascular. 13.3 Conceito e tipos de estelo.
+    13.4 Caule: Estágio secundário de crescimento (Dicotiledôneas herbáceas e lenhosas).
+    13.5 Considerações gerais e tipos de estruturas. 14. Folha: Estrutura básica e
+    desenvolvimento. 14.1 Considerações gerais. 14.2 Histologia geral da folha das
+    Angiospermas. 14.3 Desenvolvimento da folha. 14.4 Abscisão foliar. 14.5 Estrutura
+    da folha e o ambiente. 14.6 Folhas das Dicotiledôneas. 14.7 Folhas das Gimnospermas.
+    15. Flor, Fruto e Semente.'
+  course_name: 'LCB0140 - Anatomia Vegetal
+
+    Plant Anatomy'
+  deactivation: ''
+  instructors: '87939 - Beatriz Appezzato da Gloria
+
+    81119 - Marcilio de Almeida'
+  lecture_credits: '4'
+  objectives: '- Propiciar aos alunos o estudo teórico e prático dos caracteres morfológicos
+    vegetativos e reprodutivos das plantas superiores analisando o crescimento e o
+    desenvolvimento à partir do embrião até a planta adulta.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220419210738'
+digest: FKRONQMJA2Y4HHCFRSY4ICKTY3XFCBYN
+updated_at: '20220419210738'
+url: https://web.archive.org/web/20220419210738id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0140&codcur=11070&codhab=4
