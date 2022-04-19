@@ -1,0 +1,51 @@
+courses:
+  activation: 01/01/2021
+  assessment: Seguirá a regra estabelecida pelo programa de graduação da ESALQ.
+  bibliography: 'Literatura Básica:
+
+    J.E. SMITH – Biotechnology, Cambridge University Press, 5th edition, 2009. U.
+    HENNING – et al., Bases Moleculares da Biotecnologia, Roca, 1ª ed. 2008. W. BORZANI
+    – et al., Biotecnologia Industrial - Vol 1 – Fundamentos, Blucher, 1ª ed. 2001.
+    W. SCHMIDELL – et al., Biotecnologia Industrial – Vol 2 - Engenharia Bioquímica,
+    1ª ed. 2001. G. J. Tortora- et.al., Microbiologia, Porto Alegre Artmed , 2004.
+    P. M. Lydyard - et al.,  Immunology, New York Garland Science, 2011. Periódicos
+    indicados pelo corpo-docente. M. DEUTSCHER - Guide do Protein Purification, Academic
+    Press, 1990. P. A. BELTER - et al, Bioseparations: downstream processing for Biotechnology,
+    Wiley, 1988. J. BYULOCK - and Jistiansen, B. Basic Biotechnology, Academic Press,
+    1987. A. MIZRAHI - (Edit) Advances in Biotechnology Process, Wiley publicação
+    seriada, vol. 7: Upstream processes, vol. 8: Downstream processes, vol. 11: Monoclonal
+    anbibodies, vol 13: Bacterial vaccines, vol. 14: Viral vaccines. A. MARZZOCO e
+    B. B. TORRES - Bioquímica Básica - Editora Guanabara 2a ed. 1999.
+
+    Literatura Complementar:
+
+    E. KLIPP, R. HERWIG, A. KOWALD, C. WIERLING, H. LEHRACH. Systems Biology in Practice
+    Concepts, Implementation and Application, WILEY-VCH Verlag GmbH & Co. KGaA,Weinheim,
+    2005.'
+  course: 'Teórico: Introdução a Bioquímica e Biologia Molecular Aplicada; Introdução
+    a Bioprocesssos; Biossegurança em Biotecnologia; Imageamento Molecular e Microscopia
+    Eletrônica; Desenvolvimento de Vacinas Novas; Desenho racional de fármacos e bioprodutos;
+    Aplicações da Bioinformática na biotecnologia; Engenharia Integrada de Sistemas
+    Genéticos; Biologia de Sistemas e Biologia Sintética; Química verde; Engenharia
+    Metabólica; Inovação em biodesenhos. Teórico-Prático: Busca de anotação funcional
+    de genes e proteínas e mineração de dados; Desenho de dispositivos genéticos.'
+  course_name: 'CEN0400 - Tópicos Avançados em Biotecnologia
+
+    Advanced topics in biotechnology'
+  deactivation: ''
+  instructors: 9433952 - Flavia Vischi Winck
+  lecture_credits: '4'
+  objectives: Introduzir o estudante aos aspectos teóricos e teórico-práticos de temas
+    atuais avançados da biotecnologia para a consolidação de uma visão abrangente
+    da área com relação às diversas tecnologias utilizadas no desenvolvimento de produtos
+    e processos biotecnológicos, contribuindo para a aquisição de conhecimento sobre
+    métodos de bioquímica e biologia molecular aplicados à biotecnologia, bem como
+    fomentar no estudante a visão crítica sobre a preocupação de integração das necessidades
+    ou anseios da sociedade com os avanços biotecnológicos.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220419194911'
+digest: EKA6I3HPDYLXCZWRCFH7ZUBRA2JCUB5W
+updated_at: '20220419194911'
+url: https://web.archive.org/web/20220419194911id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0400&codcur=11070&codhab=4
