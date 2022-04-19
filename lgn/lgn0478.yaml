@@ -1,0 +1,58 @@
+courses:
+  activation: 01/01/2015
+  assessment: O aluno que, não tendo obtido média maior ou igual a 5,0, mas tenha
+    o mínimo de 70% de freqüência, deverá fazer avaliação escrita (valendo de 0 a
+    10), cujo resultado será somado à nota anterior, para obtenção de nova média.
+    Será aprovado o aluno que então, obtiver média maior ou igual 5,0.
+  bibliography: "Textos Principais:\nDIAMOND, J. Colapso \x96 como as sociedades escolhem\
+    \ o fracasso ou o sucesso. Ed. Record \x96 Rio de Janeiro/São Paulo. 2005. 685\
+    \ p.\nMerrington, G.; Winder, L; Parkinson R.; Redman, M.  Agricultural Pollution.\
+    \ London/New York: Spon Press. 2002, 243p.\nTextos Complementares: serão indicados\
+    \ em aula, tema a tema."
+  course: "1. Introdução\nEfeitos socioambientais de atividades humanas \x96 nesse\
+    \ ponto do curso é dada uma explicação geral e introdutória sobre os mesmos. Ao\
+    \ longo das aulas seguintes serão apresentados estudos de caso históricos e contemporâneos,\
+    \ ilustrando os diferentes tópicos descritos abaixo.\n2. Tratamento e Aproveitamento\
+    \ de resíduos orgânicos de cultivos vegetais, gado, pescados, aves, efluentes\
+    \ de indústrias de alimentos; água e esgoto - contribuições da genética.\n2.1\
+    \ Resíduos Agroindustriais:\nFormas de disposição, eliminação, reciclagem, recuperação\
+    \ e valorização destes resíduos; Técnicas de Tratamento de Resíduos: compostagem,\
+    \ biodigestão, biorremediação, lagoas e tanques, disposição no solo. Técnicas\
+    \ genéticas na pesquisa e otimização de processos de bioprofilaxia e biorremediação\
+    \ de problemas com resíduos agroindustriais (bioconversão, biodisponibilização,\
+    \ biodegradação, biopurificação).\n2.2. Gestão de Resíduos Agroindustriais\nResolução\
+    \ de conflitos na área ambiental; Conscientização e treinamento de Recursos Humanos;\
+    \ Padrões de qualidade e certificação; Abordagens de minimização, reutilização,\
+    \ reciclagem, tratamento e disposição final de resíduos agroindustriais.\n2.3.\
+    \ Aproveitamento Econômico dos Resíduos Agroindustriais"
+  course_name: 'LGN0478 - Genética  e Questões Socioambientais
+
+    Genetics and Socio-environmental Issues'
+  deactivation: ''
+  instructors: 60370 - Silvia Maria Guerra Molina
+  lecture_credits: '4'
+  objectives: 'Ao final do curso o aluno deverá:
+
+    2.1. Identificar e analisar as interações existentes entre a genética como ciência
+    bem como suas aplicações tecnológicas e questões socioambientais.
+
+    2.2. Identificar implicações genéticas (evolução e mutagênese ambiental), ecológicas,
+    sócio-econômicas e culturais das atividades humanas, com ênfase nos impactos da
+    atividade agroindustrial e outros aspectos das sociedades humanas contemporâneas.
+    Ecologia das tecnologias e questões socioambientais.
+
+    2.2. Conhecer técnicas para identificação de efeitos genotóxicos de resíduos agroindustriais.
+
+    2.3. Conhecer técnicas de genética, especialmente de micro-organismos, relacionadas
+    à pesquisa e otimização de procedimentos de bioprofilaxia e biorremediação de
+    problemas relacionados aos resíduos agroindustriais.
+
+    2.4. Conhecer e avaliar as implicações das diferentes abordagens de gestão de
+    resíduos agroindustriais.'
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220419194924'
+digest: LRHDMEIN6KQVPMYC57ISWWYJS55WFSEN
+updated_at: '20220419194924'
+url: https://web.archive.org/web/20220419194924id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0478&codcur=11070&codhab=4
