@@ -1,0 +1,41 @@
+courses:
+  activation: 01/01/2012
+  assessment: prova e/ou trabalho de pesquisa, com mínimo de 5,0.
+  bibliography: 'FAEGRI, K. & PIJL, L.V. 1971. The Principles of Pollination  Ecology.
+    PERGAMON PRESS. 291p.
+
+    JANZEN, D.H. 1980. Ecologia Vegetal nos Trópicos. EPU/EDUSP. 79p.
+
+    KAGEYAMA, P.Y., R.E. Oliveira, L.F.D. Moraes, V.L. Engel (Org.). 2003. Restauração
+    ecológica de Ecossistemas Naturais. FEPAF. Botucatu.SP. 340p.
+
+    PINA-RODRIGUES, F.C.M. Manual de Análise de Sementes Florestais. Fund. Cargill.
+    100p.'
+  course: "-\tFenologia de florescimento e frutificação em espécies arbóreas: - Biologia\
+    \ floral e interação flor x polinizador; Dispersão de sementes de espécies arbóreas\
+    \ e interação fruto/semente x agente dispersor;\n- Sistema reprodutivo de espécies\
+    \ arbóreas: Alogamia e autogamia; determinação de taxa de cruzamento em espécies\
+    \ arbóreas;\n- Germinação de sementes de espécies arbóreas: - Dormência em sementes\
+    \ de espécies arbóreas; Métodos de superação de dormência; Dormência e grupos\
+    \ de sucessão ecológica;\n- Sucessão secundária e banco de sementes no solo: Banco\
+    \ de plântulas de espécies de estágios finais de sucessão;\n-\tFatores que afetam\
+    \ a produção de sementes de espécies arbóreas: - Métodos de produção de sementes\
+    \ de espécies arbóreas. - Secagem e armazenamento de sementes de espécies arbóreas."
+  course_name: 'LCF0681 - Biologia e Produção de Sementes Florestais
+
+    Forest Seed Biology and Production'
+  deactivation: ''
+  instructors: 2801928 - Weber Antonio Neves do Amaral
+  lecture_credits: '3'
+  objectives: 'Fornecer aos alunos os fundamentos básicos da Biologia da Reprodução
+    de Espécies Arbóreas e sua aplicação em métodos de Produção de Sementes Florestais.
+
+    Dar fundamentos de tecnologia de sementes florestais, visando     o manuseio de
+    sementes e produção de mudas de espécies arbóreas.'
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220419225749'
+digest: 4FNNGIQ25ZHXKF2EZZZMYVPAM2TGSSCA
+updated_at: '20220419225749'
+url: https://web.archive.org/web/20220419225749id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0681&codcur=11070&codhab=4
