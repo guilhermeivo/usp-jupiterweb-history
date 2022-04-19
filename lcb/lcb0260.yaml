@@ -1,0 +1,88 @@
+courses:
+  activation: 01/01/2022
+  assessment: Esta disciplina não prevê recuperação.
+  bibliography: 'BENTON, M.J. 2005. Vertebrate Palaeontology. 3a ed. Blackwell Publishing,
+    Oxford.
+
+    DUELLMAN, W.E. & L. TRUEB. 1994. Biology of Amphibians. The Johns Hopkins Univ.
+    Press, Baltimore & London.
+
+    GREENE, H.W. 1997. Snakes:  the evolution of mystery in nature. University of
+    California Press, Berkeley.
+
+    PIANKA, E.R. & L.J. VITT. 2003. Lizards: windows to the evolution of diversity.
+    Univ. of California Press, Berkeley.
+
+    POUGH, F. H., R. M. ANDREWS, J. E. CADLE, M. L. CRUMP, A. H. SAVITZKY & K. D.
+    WELLS. 2004. Herpetology. 3a ed. Prentice-Hall, New Jersey. 726 pp.
+
+    SPARLING, D.W., G. LINDER, C. A. BISHOP & S.K. KREST (eds.). 2010. Ecotoxicoloy
+    of Amphibians and Reptiles. 2a ed. CRC Press. 918 pp.
+
+    STEBBINS, R.C. & N.W. COHEN. 1995. A Natural History of Amphibians. Princeton
+    University Press. Princeton.
+
+    STUART, S.N, M. HOFFMANN, J.S. CHANSON, N.A. COX, R.J. BERRIDGE, P. RAMANI & B.E.
+    YOUNG. 2008. Threatened Amphibians of the World. Lynx Editcons. Barcelona. 758
+    pp.
+
+    VITT, L.J. & J.P. CALDWELL 2014. Herpetology: an introductory biology of amphibians
+    and reptiles. 4a ed. Academic Press, San Diego. 757 pp.
+
+    WELLS, K. D. 2007. The Ecology and Behavior of Amphibians. University of Chicago
+    Press. 1400 pp.'
+  course: "3.\tPROGRAMA ANALÍTICO: 3.1. Posição dos Anfíbios e Répteis na Evolução\
+    \ dos Vertebrados: 3.1.1. Filogenia dos tetrápodes; 3.1.2. Transição de peixes\
+    \ para tetrápodes; 3.1.3. Monofiletismo dos Lissamphibia; 3.1.4. Relações entre\
+    \ os Lissamphibia e os anfíbios do Paleozóico; 3.1.5. Os Lissamphibia como Temnospondylii\
+    \ pedomórficos; 3.1.6 Relações entre as ordens atuais de Lissamphibia; 3.1.7.\
+    \ A irradiação dos Amniota, 3.1.8. Aspectos controversos da evolução dos Amniota;\
+    \ 3.2. Classificação e Diversidade dos Anfíbios Atuais: 3.2.1. Origem e evolução\
+    \ de Urodela, Gymnophiona e Anura; 3.2.2. Reconhecimento de representantes das\
+    \ três ordens de anfíbios atuais e das principais famílias brasileiras de anuros\
+    \ 3.3. Classificação e Diversidade dos Répteis Atuais: 3.3.1. Parafiletismo do\
+    \ grupo; 3.3.2. Origem e evolução de Chelonia, Crocodylia e Lepidosauria; 3.3.3.\
+    \ Identificação de representantes brasileiros das principais famílias de lagartos\
+    \ e serpentes por meio da utilização de chaves dicotômicas; 3.4. Locomoção: 3.4.1.\
+    \ Locomoção terrestre com patas; 3.4.2. Salto; 3.4.3. Locomoção terrestre ápode;\
+    \ 3.4.4. Locomoção aquática; 3.4.5. Escavação; 3.4.6. Escalada; 3.4.7. Locomoção\
+    \ aérea; 3.5. Alimentação: 3.5.1. Sucção; 3.5.2. Mecanismos de alimentação terrestre;\
+    \ 3.5.3. Cinetismo craniano; 3.5.4. Envenenamento; 3.5.5. Fossetas sensoriais;\
+    \ 3.5.6. Herbivoria; 3.6. Reprodução e Ciclos de Vida; 3.6.1. Reprodução sexuada\
+    \ e assexuada; 3.6.2. Ciclos reprodutivos, gametas, fecundação e desenvolvimento;\
+    \ 3.6.3. Determinação do sexo; 3.6.4. Cuidado parental e viviparidade; 3.6.5.\
+    \ Heterocronia; 3.7. Comunicação: 3.7.1. Modos de comunicação; 3.7.2. Restrições\
+    \ sobre a produção de sinais; 3.7.3. Comunicação e ruído; 3.7.4. Comunicação nos\
+    \ principais clados de anfíbios e répteis; 3.8. Movimentos e Orientação: 3.8.1.\
+    \ Conseqüências ecológicas do movimento; 3.8.2. Métodos de estudo; 3.8.3. Tipos\
+    \ de movimento; 3.8.4. Movimentos locais e área domiciliar; 3.8.5. Estratégias\
+    \ espaciais de anfíbios e répteis; 3.8.6. Territorialidade; 3.8.7. Migração; 3.8.8.\
+    \ Movimentos de juvenis; 3.8.9. Comportamento de volta-ao-lar; 3.9. Mecanismos\
+    \ de Defesa; 3.9.1. Considerações filogenéticas; 3.9.2. Principais mecanismos\
+    \ de defesa; 3.9.3. Coevolução entre predadores e presas; 3.10. Ecologia de Taxocenoses:\
+    \ 3.10.1. Gradientes de diversidade de espécies; 3.10.2. Determinantes da estrutura\
+    \ e composição dos agrupamentos; 3.10.3. Estudos de casos de agrupamentos de anfíbios\
+    \ e répteis; 3.11. Conservação: 3.11.1. O declínio de anfíbios como modelo; 3.11.2.\
+    \ Impacto do homem sobre os anfíbios e répteis; 3.11.3. Padrões de extinção e\
+    \ declínio de espécies; 3.11.4. Técnicas de conservação."
+  course_name: 'LCB0260 - Herpetologia Comparada
+
+    Comparative Herpetology'
+  deactivation: ''
+  instructors: 95125 - Jaime Aparecido Bertoluci
+  lecture_credits: '4'
+  objectives: "2.\tOBJETIVOS: A disciplina tem como objetivo o aprofundamento do estudo\
+    \ dos anfíbios e dos répteis por meio de uma abordagem comparativa de aspectos\
+    \ importantes da biologia e da ecologia dos diversos grupos, tais como locomoção,\
+    \ alimentação, reprodução, interações predador-presa, comunicação, movimentos\
+    \ e orientação, agrupamentos de espécies e conservação. O conteúdo programático\
+    \ é transmitido aos alunos por meio de aulas teóricas, seminários e aulas práticas\
+    \ de laboratório e de campo, utilizando-se, sempre que possível, exemplos retirados\
+    \ da herpetofauna brasileira.."
+  practical_credits: '2'
+  total_workload: 120 h
+  type: Semestral
+created_at: '20220419221258'
+digest: RSKWGIPXOQHU6AWQSGP7SIWLSHNMMYD6
+updated_at: '20220419221258'
+url: https://web.archive.org/web/20220419221258id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0260&codcur=11070&codhab=4
