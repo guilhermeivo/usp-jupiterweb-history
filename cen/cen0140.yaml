@@ -1,0 +1,108 @@
+courses:
+  activation: 01/01/2017
+  assessment: Uma prova Escrita
+  bibliography: 'Literatura Básica:
+
+    Decifrando a Terra – Organizadores: Wilson Teixeira et al., São Paulo, Companhia
+    Editora Nacional, 2009, 2ª ed., 623p.
+
+    Literatura Complementar:
+
+    As ciências da Terra e sua importância para a humanidade – Organizador: Rômulo
+    Machado, SBG, 2008, 139p.
+
+    Environmental Geology – Dorothy Merritts et al., New York; W.H. Freeman and Company,
+    1998. 452p.
+
+    Energia e Desenvolvimento Sustentável – José Goldemberg, 2010, São Paulo, Blucher,
+    94p. (Série Sustentabilidade, v. 4)
+
+    Meio Ambiente no Século 21 – Coordenação André Trigueiro, Rio de Janeiro, Sextante,
+    2003, 367p.
+
+    Para Entender a Terra. Grotzinger, J.; Jordan, T.; Tradução, Abreu, I.D., 2013,
+    6ª ed., Porto Alegre, Bookman, 2013 p.
+
+    Recursos Hídricos no século XXI – J.G. Tundisi & T. Matsumura-Tundisi, São Paulo,
+    Oficina de Textos, 2011, 328p.
+
+    Artigos científicos selecionados'
+  course: '1. Introdução à Geociência Ambiental
+
+    Geociência ambiental e sistema Terra
+
+    2. A Terra, suas origens e posição no Universo
+
+    Origem e evolução do Universo
+
+    Modelo de estrutura da Terra
+
+    3. Terra, um sistema dinâmico: as Geoesferas
+
+    Litosfera
+
+    Hidrosfera
+
+    Atmosfera
+
+    Biosfera
+
+    4. Dinâmica interna da Terra
+
+    Magmatismo
+
+    Vulcanismo
+
+    Tectonismo
+
+    Terremotos
+
+    5. Dinâmica externa da Terra
+
+    Intemperismo, pedogênese e sedimentação
+
+    Ação geológica das águas, dos ventos e do gelo
+
+    6. Riscos ambientais naturais
+
+    Vulcanismo
+
+    Terremotos
+
+    Ciclones
+
+    Movimentos de massa
+
+    7. Riscos ambientais de origem antrópica
+
+    Sismicidade induzida
+
+    Subsidência de terreno
+
+    Movimentos de massa
+
+    Inundações
+
+    Poluição de solos, águas e atmosfera
+
+    8. Energia
+
+    Sistemas de energia da Terra
+
+    Energias fósseis e renováveis'
+  course_name: 'CEN0140 - Geociência Ambiental
+
+    Environmental Geoscience'
+  deactivation: ''
+  instructors: 265479 - Celia Regina Montes
+  lecture_credits: '2'
+  objectives: A disciplina Geociência Ambiental visa fornecer aos estudantes uma análise
+    integrada dos fenômenos inerentes à dinâmica do Planeta Terra e o manejo tecnológico
+    de processos e materiais que ocorrem em superfície e sub-superfície.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220419194208'
+digest: FHID2EHCXSASOP46JVZUZIUCULPEZDW7
+updated_at: '20220419194208'
+url: https://web.archive.org/web/20220419194208id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0140&codcur=11080&codhab=4
