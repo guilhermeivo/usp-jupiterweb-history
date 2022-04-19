@@ -1,0 +1,63 @@
+courses:
+  activation: 01/01/2016
+  assessment: Não haverá prova de recuperação.
+  bibliography: 'Complementar:
+
+    Colbert, J.J. ; Schuckers, M.; Fekedulegn, D.; Rentch, J.; MacSiúrtáin, M.; Gottschalk,
+    K.  2004  Individual tree basal-area growth parameter estimates for four models.  Ecological
+    Modelling, v.174, p.115-126.
+
+    Maguire, D.; Mainwaring, D. & Halpern, C.  2006 Stand dynamics after variable-retention
+    harvesting in mature Douglas-fir forests of Western North America. Allg. Forst-
+    u. J.-Ztg., v.177, p.120-131.
+
+    Müller, I.; Finger, C. A. G.; Schneider, P. R.  2005  Forma do tronco e sortimento
+    de madeira de Eucalyptus grandis Hill ex Maiden, na região do Sudeste do Estado
+    do Rio Grande do Sul. Ciência Florestal, v.15, p.293-305.
+
+    Parresol, B.R. 2001  Additivity of nonlinear biomass equations.  Canadian Journal
+    of Forest Reseach, v.31, p.865-878.
+
+    Thiersch, C. R.; Scolforo, J. R.; Oliveira, A. D. d.; Maestri, R.; Dehon, G.   2006  Acurácia
+    dos métodos para estimativa do volume comercial de clones de Eucalyptus sp, Cerne,
+    v.12, p.167-181.
+
+    Vieira, S.A. Et alii  2008 Estimating biomass and carbon: the case of the Atlantic
+    Forest.  Biota Neotropica, v.8, p.21-29.
+
+    Zianis, D.; Radoglou, K.  2006 Comparison between empirical and theoretical biomass
+    allometric models and statistical implications for stem volume predictions. Forestry,
+    v.79, 477-487.'
+  course: "1.\tModelos em Mensuração e Manejo Florestal: conceitos e estrutura dos\
+    \ modelos empíricos. Relação hipsométrica. Equações de volume e de biomassa. Modelos\
+    \ de sortimento da produção. Equações de produção. Modelos de crescimento e produção.\
+    \ Modelos de mortalidade. Modelos de regeneração e ingresso.\n2.\tDistribuição\
+    \ de probabilidades: conceito, estrutura e simulação. Distribuições discretas:\
+    \ binomial, poisson, binomial negativa. Distribuições contínuas: exponencial,\
+    \ Gaussiana, log-normal, Weibull, gama.\n3.\tModelos com parâmetros constantes:\
+    \ estimação de parâmetros, avaliação e comparação de modelos.  Modelos de distribuição\
+    \ de diâmetros.\n4.\tModelos binomiais e poisson: estimação, avaliação e comparação\
+    \ de modelos. Modelos de mortalidade e de regeneração.\n5.\tModelos Gaussianos:\
+    \ estimação, avaliação e comparação de modelos. Relação hipsométrica. Equações\
+    \ de volume e biomassa. Modelos de crescimento e produção no nível de arboreto."
+  course_name: 'LCF0500 - Fundamentos de Biometria Florestal
+
+    Fundamentals of Forest Biometrics'
+  deactivation: ''
+  instructors: '39751 - Hilton Thadeu Zarate do Couto
+
+    86793 - João Luis Ferreira Batista'
+  lecture_credits: '3'
+  objectives: 'Os objetivos são: (1) que os alunos conheçam os fundamentos da construção
+    de modelos empíricos aplicados à mensuração e ao manejo de florestas nativas e
+    plantadas, compreendendo os princípios e os métodos biométricos de construção;
+    (2) que os alunos sejam capazes de  construir modelos empíricos simples a partir
+    de dados de mensuração florestal, adquirindo para isso  proficiência no ambiente
+    computacional R (software R).'
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220419194946'
+digest: EHA6FP5IQMAEWFHOGKK5ETOBHBT3EAA6
+updated_at: '20220419194946'
+url: https://web.archive.org/web/20220419194946id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0500&codcur=11070&codhab=4
