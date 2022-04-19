@@ -1,0 +1,99 @@
+courses:
+  activation: 01/01/2021
+  assessment: Esta disciplina não prevê recuperação, uma vez que existem diversas
+    avaliações ao longo do semestre
+  bibliography: 'Benton, M. J. 2005. Vertebrate paleontology. 3rd. Editon. Blackwell
+    Publishing, Malden.
+
+    Cáceres, N. C. & E. L. A. Monteiro-Filho. 2006. Os marsupiais do Brasil: Biologia,
+    Ecologia e Evolução. Universidade Federal da Santa Maria.
+
+    Carroll, R. L. 1988. Vertebrate paleontology and evolution. W. H. Freeman & Co.,
+    New York.
+
+    Eisenberg, J. F. & Redford, K. H. 1999. Mammals of the Neotropics: The central
+    Neotropics. The University of Chicago Press, Chicago, pp.1-609.
+
+    Emmons, L. H. 1997. Neotropical rainforest mammals. The University of Chicago
+    Press, Chicago and London.
+
+    Gittleman, J. L.  1989. Carnivore behavior, ecology and evolution. Cornell University
+    Press, Ithaca.
+
+    Kardong, K. V. 1998. Vertebrates: comparative anatomy, function, evolution. WCB/McGraw-Hill,
+    Boston.
+
+    Kemp, T. S. The origin and evolution of mammals. Oxford University Press, USA
+
+    Liem, L., W. Bemis, W. F. Walker, L. Grande. 2000. Functional Anatomy of Vertebrates:
+    an evolutionary perspective. 3rd Edition. Brooks Cole.
+
+    Nowak, R. M. 1999. Walker´s mammals of the world. 6a edição. The Johns Hopkins
+    University Press.
+
+    Oliveira, T. G. (1994). Neotropical cats, ecology and conservation. Editora da
+    Universidade Federal do Maranhão.
+
+    Pough, F. H., C. M. Janis & J. B. Heiser. 2003. A vida dos vertebrados. 3a ed.
+    Atheneu Editora, São Paulo.
+
+    Reis, N. R. et al. (Eds.). Mamíferos do Brasil. Universidade Estadual de Londrina.
+
+    Vaughan, T. A. , J. M. Ryan & N. Czaplewski. 1999. Mammalogy. 4 a edição. Harcourt
+    College Publishers.
+
+    Walker, W. F. Jr. & K. F. Liem. 1994. Functional anatomy of the vertebrates -
+    an evolutionary perspective. Saunders College Publishing, Forth Woth.
+
+    Webb, J. E., J. A. Wallwork & J. H. Elgood. 1977. Guide to living mammals. Maxmillan
+    Press, London
+
+    Wilson, D.E. et al. (Eds.). 1996. Measuring and monitoring biological diversity:
+    standard methods for mammals. Smithsonian Institution Press, Washington, D.C.
+
+    Wilson and D.A. Reeder (editors), Mammal species of the world. A taxonomic and
+    geographic reference: 894--1531. 3rd ed. The Johns Hopkins University Press, Baltimore.'
+  course: "1.1 Synapsida. 1.1.1 Sinápsidos do Carbonífero e Permiano. 1.1.2. Pelicosauria\x94\
+    . 1.1.3. Therapsida. 1.1.4. Cynodontia. 1.1.4.1. A extinção Permo-Triássica. 1.2.\
+    \ Cynodontia: a aquisição de caracteres mamalianos. 1.2.1. Evolução da fossa orbital.\
+    \ 1.2.3. Evolução da mastigação e lactação (heterodontia, difiodontia, oclusão\
+    \ dentária, dentes com raízes múltiplas, surgimento do molar tribosfênico, palato\
+    \ secundário, musculatura facial). 1.2.4. Evolução do ouvido médio. 1.2.5. Evolução\
+    \ do esqueleto axial e apendicular. 1.3. Os primeiros mamíferos. 1.3.1. Mamíferos\
+    \ do mesozóico: morganocudontideos e multituberculados. 1.4. Origem dos Monotrêmata.\
+    \ 1.5. Origem dos Theria. 1.5.1. Marsupiais. 1.5.1.1. Vicariância e dispersão.\
+    \ 1.5.1.2. Marsupiais Sul-americanos. 1.5.2. Eutheria. 1.5.2.1. Origem e diversificação\
+    \ dos placentários. 1.5.2.2. Irradiação adaptativa: era dos mamíferos. 1.5.2.3.\
+    \ Classificação dos placentários. 1.6. Os Mamíferos Sul-americanos: origem e evolução.\
+    \ 1.7. Morfologia, distribuição geográfica e diversidade de mamíferos sul-americanos.\
+    \ 1.6.1. Ordem Didelphimorphia. 1.6.2. Ordem Paucituberculata. 1.6.3. Ordem Microbiotheria.\
+    \ 1.6.4. Ordem Cingulata. 1.6.5. Ordem Pilosa. 1.6.6. Ordem Primates. 1.6.7. Ordem\
+    \ Rodentia. 1.6.8. Ordem Lagomorpha. 1.6.9. Ordem Soricomorpha 1.6.10. Ordem Chiroptera.\
+    \ 1.6.11. Ordem Carnivora. 1.6.12. Ordem Perissodactyla. 1.6.13. Ordem Artiodactyla.\
+    \ 1.6.14. Ordem Cetácea. 1.7. Especializações morfo-funcionais de mamíferos. 1.7.1\
+    \ Tegumento. 1.7.2. Esqueleto. 1.7.3. Dentição. 1.7.4. Sistema digestivo. 1.7.5.\
+    \ Encéfalo, órgãos dos sentidos, ecolocação. 1.8. História Natural, Ecologia e\
+    \ Fisiologia. 1.9. Conservação. 1.10. Biogeografia de mamíferos Sul-americanos.\
+    \ 1.10.1. Padrões biogeográficos pretéritos e presentes. 1.10.2. Modelos de especiação.\
+    \ 1.10.3. Vicariância e dispersão. 1.10.4. Estudos de casos. 1.11. Coleções mastozoológicas.\
+    \ 1.11.1. Importância das coleções. 1.11.2. Zoológicos e museus. 1.11.3. Pesquisa."
+  course_name: 'LCB0390 - Mamíferos: Origem, Evolução e Biogeografia
+
+    Mammals: Origin, Evolution and Biogeography'
+  deactivation: ''
+  instructors: 494774 - Alexandre Reis Percequillo
+  lecture_credits: '4'
+  objectives: A disciplina tem como objetivo o aprofundamento do estudo dos mamíferos
+    por meio de uma abordagem comparativa de aspectos importantes da evolução, classificação,
+    biogeografia, história natural, ecologia e conservação das diversas ordens atuais
+    e extintas de mamíferos, com ênfase nos grupos sul-americanos. O conteúdo programático
+    é transmitido aos alunos por meio de aulas teóricas, seminários e aulas práticas
+    de laboratório e de campo, além de visitas ao Zoológico de São Paulo e ao Museu
+    de Zoologia da Universidade de São Paulo.
+  practical_credits: '4'
+  total_workload: 180 h
+  type: Semestral
+created_at: '20220419194933'
+digest: INKQATOKX2SIM6TZLNWEHKXD3LUV7GUP
+updated_at: '20220419194933'
+url: https://web.archive.org/web/20220419194933id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0390&codcur=11070&codhab=4
