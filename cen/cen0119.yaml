@@ -1,0 +1,89 @@
+courses:
+  activation: 01/01/2022
+  assessment: Prova teórica com o conteúdo total abordado na disciplina
+  bibliography: 'Literatura Básica:
+
+    SOLOMONS, T. W. Graham; FRYHLE, Craig B.; SNYDER, Scott A. Química orgânica, volumes
+    1 e 2.
+
+    12. ed. Rio de Janeiro: LTC, 2018.
+
+    MCMURRY, John. Química orgânica. 3. ed. São Paulo: Cengage Learning, 2016.
+
+    MANAHAN, Stanley E. Química Ambiental. 9.ed. Porto Alegre: Bookman, 2013.
+
+    BAIRD, Colin; CANN, Michael. Química Ambiental. 4. ed. Porto Alegre: Bookman,
+    2011.
+
+    Literatura Complementar:
+
+    SCHWARZENBACH, René P.; GSCHWEND, Philip M.; IMBODEN, Dieter M. Environmental
+    Organic
+
+    Chemistry. 3. ed. New York: John Wiley & Sons, 2016.'
+  course: '1. Introdução aos compostos orgânicos: Ligações químicas, representação
+    de fórmulas, estruturas,
+
+    ressonância, hibridização, geometria molecular, polaridade, solubilidade e forças
+    intermoleculares.
+
+    2. Estudo das funções orgânicas, nomenclatura e propriedades: hidrocarbonetos,
+    haletos de alquila,
+
+    álcoois, éteres, compostos carbonílicos (aldeídos, cetonas, ácidos carboxílicos,
+    ésteres e derivados),
+
+    compostos aromáticos (benzeno, fenóis e derivados), compostos nitrogenados (aminas,
+    amidas e
+
+    nitrilas), compostos fosforados, sulfurados e organometálicos.
+
+    3. Reações Orgânicas e Mecanismos de reação: Substituição, adição, eliminação,
+    oxidação, redução,
+
+    hidrólise e fotólise.
+
+    4. Estereoquímica: Estudo das características, nomenclatura e propriedades de
+    isômeros
+
+    constitucionais e estereoisômeros
+
+    5. Introdução à poluição orgânica: compartimentos (atmosfera, hidrosfera, biosfera,
+    geosfera e
+
+    antroposfera), ciclos biogeoquímicos (C, N, P, S), ecologia, impacto ambiental
+    e poluição.
+
+    6. Poluentes orgânicos atmosféricos e suas reações: poluentes orgânicos persistentes,
+    material
+
+    particulado orgânico, compostos biogênicos, compostos aromáticos, organossulfurados,
+
+    nitrogenados e halogenados.
+
+    7. Poluentes orgânicos superficiais e suas reações: pesticidas, herbicidas, fertilizantes,
+    esgoto,
+
+    detergentes e sabões, combustíveis e polímeros
+
+    8. Uso de fontes alternativas, sustentabilidade e Química Verde'
+  course_name: 'CEN0119 - Química Orgânica Ambiental
+
+    Environmental Organic Chemistry'
+  deactivation: ''
+  instructors: '6614663 - Alex Virgilio
+
+    453826 - Ernani Pinto Junior'
+  lecture_credits: '4'
+  objectives: Promover aos graduandos conceitos básicos da Química Orgânica através
+    dos estudos de funções orgânicas, estrutura, propriedades físico-químicas e reatividade
+    dos compostos no contexto ambiental. Possibilitar aos alunos a compreensão de
+    fenômenos, processos e transformações químicas de compostos orgânicos com importância
+    ambiental.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220419221735'
+digest: BZZWVJQ25OBGQO3BNZEVPEXZZ6G7XQI3
+updated_at: '20220419221735'
+url: https://web.archive.org/web/20220419221735id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0119&codcur=11070&codhab=4
