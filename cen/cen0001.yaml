@@ -1,7 +1,6 @@
 courses:
-  activation: 01/01/2011
-  assessment: ': uma prova envolvendo toda a matéria teórica e prática lecionada no
-    semestre.'
+  activation: 01/01/2022
+  assessment: Prova teórica envolvendo todo o conteúdo da disciplina.
   bibliography: 'George, E. F.; Hall, M. A.; Klerk, G. J. 2008. Plant Propagation
     By Tissue Culture. 3rd ed. Springer, Dordrecht. v. 1.
 
@@ -16,21 +15,13 @@ courses:
 
     Trigiano, R.N. & Gray, D.J. 2000. Plant Tissue Concepts and Laboratory Exercises.
     2nd edition. CRC Press, p. 454.'
-  course: 'Aulas teóricas: Histórico do cultivo in vitro, importância do cultivo in
-    vito para espécies de importância econômica e ambiental, panorama da produção
-    de plantas in vitro com ênfase em espécies ornamentais, fruteiras e florestais.
-    Organização de um laboratório de cultura de tecidos. Tipos de explantes e meios
-    de cultura. Contaminação in vitro. Métodos de cultivo in vitro de plantas e suas
-    aplicações na propagação e no melhoramento de plantas. Limpeza de vírus. Uso do
-    cultivo in vitro para estudos de desenvolvimento e fisiologia vegetal. Variação
-    somaclonal. Cultivo in vitro e manipulação genética de plantas. Aclimatação de
-    plantas. Produção comercial de plantas utilizando o cultivo in vitro e biofábricas.
+  course: 'Histórico do cultivo in vitro;
 
-    Aulas Práticas: Uso de equipamentos (balança, pHmetro, microscópio estereoscópico,
-    autoclave, estufa, fluxo laminar), preparo de soluções-estoque,  preparo e esterilização
-    de meios  de cultura, introdução e subcultivo de material in vitro, aclimatação
-    de plantas. Visitas práticas a laboratórios comerciais de plantas cultivadas in
-    vitro .'
+    Infraestrutra do laboratório de cultura de tecidos vegetais;
+
+    Função dos nutrientes no desenvolvimento vegetal com ênfase na cultura de tecidos;
+
+    Meios de cultura;'
   course_name: 'CEN0001 - Cultura de Tecidos Vegetais
 
     Plant Tissue Culture'
@@ -41,13 +32,19 @@ courses:
 
     1412186 - Paulo Hercílio Viegas Rodrigues'
   lecture_credits: '4'
-  objectives: Fornecer aos alunos de Engenharia Agronômica e Florestal conhecimentos
-    básicos das técnicas de cultura de tecidos vegetais, com ênfase nas aulas práticas
-    onde os alunos terão oportunidade de manusear o material cultivado in vitro.
+  objectives: 'Proporcionar aos estudantes de Engenharia Agronômica, Engenharia Florestal
+    e Ciências Biológicas
+
+    conhecimentos básicos sobre técnicas de cultura de tecidos vegetais, com ênfase
+    em aulas práticas onde os
+
+    estudantes poderão manipular o material cultivado in vitro.'
   practical_credits: '0'
   total_workload: 60 h
-  type: Semestral
-created_at: '20200919164232'
-digest: ZDN3WR5WFNMZRT4EJCPNSHHMD4PHTCKM
-updated_at: '20200919164232'
-url: https://web.archive.org/web/20200919164232id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0001&codcur=11010&codhab=0
+  type: 's de explantes;
+
+    Morfogênese vegetal e reprodução;'
+created_at: '20220419194922'
+digest: C55EZJAOJAIUDYBG2ZL5KDIXBHWV776Y
+updated_at: '20220419194922'
+url: https://web.archive.org/web/20220419194922id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0001&codcur=11070&codhab=4
