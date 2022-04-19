@@ -1,0 +1,74 @@
+courses:
+  activation: 01/01/2017
+  assessment: Será efetuada uma prova final abordando todo o conteúdo.
+  bibliography: "7.  BIBLIOGRAFIA  BÁSICA:\nBurrough, P.A. & McDonnell, R. A.  1998.\
+    \ Principles of Geographic Information Systems. Oxford U. Press.\nForman, R. T.\
+    \ T. and M. Godron.  1981.  Patches and structural components for a landscape\
+    \ ecology.\nBioScience31:733-740. Forman, Richard T. T. Landscape ecology. New\
+    \ York : Wiley, c1986. 619 p. : ill.\nForman, R. T. T.  1997.  Land Mosaics. The\
+    \ ecology of landsacapes and regions. Columbia University Press. 632 pp.\nGoodchild,\
+    \ M.F.et al. 1994. GIS and environmental modeling: progress and research issues.\
+    \ GIS \tWorld, Inc.\nColorado, USA. Haines-Young, R; Green, D.R. & Cousins, S.\
+    \ Landscape ecology and GIS. Taylor & Francis, 1993.\nNew York : 288 p. : ill.,\
+    \ maps.   Jensen, J.R. 1996. Introductory digital image processing . A remote\
+    \ sensing\nperspective. 2nd. Ed. Pretice Hall series in geographic information\
+    \ science. New Jersey, USA. 316p.  Naveh,\nLandscape ecology :theory and application.\
+    \ 2nd ed. New York : Springer-Verlag, c1994. \t360 p. : ill., maps.\nPickett,\
+    \ S. T. A., and M. L. Cadenasso.  1995. Landscape ecology: Spatial heterogeneity\
+    \ in ecological systems.\nScience 269: 331-334.  Swanson, F. J., T. K. Kratz,\
+    \ N. Caine, and R. G. Woodmansee.  1988.  Landform effects on\necosystem patterns\
+    \ and processes.  BioScience 38: 92-98. Tenhunen, J.D. and Kabat, P. Eds 1999.Integrating\n\
+    hydrology, ecosystem dinamics, and biogeochemistry in complex landscapes. Wiley\
+    \ and Sons, New York.\nTuner II, B.L.; Clark, W.C.; Kates, R. W.; Richards, J.F.;\
+    \ Mathews, J.T. & Meyer, W.B. Eds. \t1995. The earth as\ntransformed by human\
+    \ action. Global and regional changes in the biosphere over the past 300 years.\
+    \ Cambrige\nUniversity Press. New York, EUA. pp 233-252. Turner, M. G., and R.\
+    \ H. Gardner, eds. 1990. Quantitative methods in\nlandscape ecology. Springer-Verlag.\
+    \ 536pp. Turner, M; Gardner, R.H. & O'Neill, R.V.2001. Landscape Ecology in\n\
+    Theory and Practice:Pattern and Process. Springer-Verlag. Urban,  D. L., R. V.\
+    \ O'Neill, and H. H. Shugart.  1987.\nLandscape ecology. BioScience 37: 119-127."
+  course: "Introdução e definições de Ecologia da paisagem\nDesenvolvimento histórico\
+    \ - Aplicações da Ecologia da paisagem. Definições, fundamentos e terminologia\
+    \ em Ecologia da Paisagem - Características da paisagem: estrutura, função e mudança\
+    \ - Padões e heterogeneidade -Mosaicos, fragmentos, corredores e matrizes - Fragmentação\
+    \ e fragmentos. Escalas e hierarquia em paisagens -Escalas e técnicas de escalonamento.\
+    \ Agentes causadores do padrões -Fatores físicos (clima e gemorfologia) -Formas\
+    \ e posição da paisagem - Processos bióticos -Regimes de perturbação (Mudanças\
+    \ e escalas temporais de longa duração; Uso do solo -paisagens sociais e culturais).\
+    \ Dados de paisagens e análise quantitativa - Sistemas de Informações Geográficas\
+    \ e paisagens: introdução à análise espacial -Sensoriamento remoto em Ecologia\
+    \ da Paisagem -Dados sociais e culturais em Ecologia da Paisagem -Fontes de erros\
+    \ em dados da paisagem e sua análise. Quantificação dos padrões da paisagem: Interação\
+    \ de agentes causadores dos padrões e estratégias de análise -Porque e como quantificar\
+    \ padrões da paisagem - Regras de interpretação de métricas da paisagem - Uso\
+    \ de modelos em em Ecologia da Paisagem: Introdução. Dinâmica dos padrões - Mudanças\
+    \ ecológicas\n- Modelos ecológicos - Dinâmica da paisagem - Modelagem das mudanças\
+    \ na paisagem. Processos, padrões e aplicações em Ecologia da Paisagem  - O papel\
+    \ da distribuição em paisagens: dinâmica espacial das perturbações - Perturbação,\
+    \ equilíbrio e escalonamento de paisagens - Produtividade e dinâmica de nutrientes\
+    \ em paisagens - Interações terra-água: hidrologia e paisagens; controles da paisagem\
+    \ na qualidade das águas superficiais - Conectividade e fragmentação: efeitos\
+    \ nos organismos; biodiversidade e manejo de paisagens - Sucessão como um processo\
+    \ espacial em paisagens -\tSustentabilidade e manejo de paisagens - Monitoramento\
+    \ de paisagens - Análise de risco- Manejo adaptativo - Recuperação de paisagens\
+    \ - Variabilidade natural, incertezas científicas e manejo de paisagens."
+  course_name: 'CEN0628 - Ecologia da Paisagem
+
+    Landscape Ecology'
+  deactivation: ''
+  instructors: 2300606 - Maria Victoria Ramos Ballester
+  lecture_credits: '3'
+  objectives: O objetivo deste curso é o de explorar os conceitos, métodos e aplicações
+    da ecologia da paisagem, os quais serão utilizados como um arcaboço para pesquisa,
+    análise e manejo de paisagens ( solução de problemas). As atividades serão desenvolvidas
+    através de 1- aulas teóricas ; 2- leitura e discussão de literatura representativa
+    do estado da arte na pesquisa na área; 3- resolução de exercícios desenhados para
+    fornecer experiência com algumas ferramentas quantitativas e 4- desenvolvimento
+    de projetos de pesquisa.
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220419195019'
+digest: 5KI36Z33XF7KBZMJXMBD2GD2SSMBW45K
+updated_at: '20220419195019'
+url: https://web.archive.org/web/20220419195019id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0628&codcur=11070&codhab=4
