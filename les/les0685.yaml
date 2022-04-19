@@ -78,7 +78,7 @@ courses:
   total_workload: 60 h
   type: Semestral
 created_at: '20210723185826'
-digest: VZ5RJNR4STBDKWVL73MGTNEUCW2HXKHF
+digest: N3PII43FZ4JHEVK62LFQMCYG6I6QBBZT
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 9'
   requirements:
@@ -126,5 +126,5 @@ requirements:
   - code: LES0561
     name: Economia Brasileira Contemporânea
     type: Requisito
-updated_at: '20210723185826'
-url: https://web.archive.org/web/20210723185826id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LES0685
+updated_at: '20220419213010'
+url: https://web.archive.org/web/20220419213010id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0685&codcur=11080&codhab=4
