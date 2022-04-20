@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2015
+  activation: 01/01/2019
   assessment: 1 prova com toda a matéria do semestre + estudo dirigido
   bibliography: 'Literatura Básica:
 
@@ -22,22 +22,22 @@ courses:
     Populations. Academic Press, San Diego.'
   course: '1. Conservação da biodiversidade: conceitos, definições, finalidades. Conservação
     na teoria. Conservação na prática. Populações pequenas, em declínio e superabundantes.
-    Dimensões humanas da gestão de fauna silvestre. Interação homem-fauna. Valoração
-    da biodiversidade. Biodiversidade como serviço ecossistêmico. 2. Diagnóstico populacional.
-    Técnicas de campo para amostragens populacionais e estimativas. Métodos de levantamento
-    de fauna diretos e indiretos. Ocorrência e distribuição. Tamanho de população
-    e densidade. Índices de abundância. Ferramentas isotópicas, genéticas e de análises
-    espaciais de dados biológicos. 3. Monitoramento populacional: objetivos e questões
-    norteadoras. Plano de monitoramento. Seleção de sítios, espécies e parâmetros.
-    Detectabilidade e erros de amostragem. Escalas de amostragem. 4. Manejo de fauna.
-    Aspectos legais do manejo de fauna no Brasil. Manejo de controle, sustentável
-    e adaptativo. Planos de manejo. 5. Problemas práticos de manejo e conservação
-    de fauna em áreas agrícolas e florestais. Aplicação de conceitos e práticas de
-    conservação e manejo de fauna silvestre através de estudos de caso.'
+    Dimensões humanas da gestão de fauna silvestre. Interação homem-fauna Gestão da
+    biodiversidade nos âmbitos internacional, federal, estadual e regional. 2. Diagnóstico
+    populacional. Técnicas de campo para amostragens populacionais e estimativas.
+    Métodos de levantamento de fauna diretos e indiretos. Ocorrência e distribuição.
+    Tamanho de população e densidade. Índices de abundância. Ferramentas isotópicas,
+    genéticas e de análises espaciais de dados biológicos. 3. Monitoramento populacional:
+    objetivos e questões norteadoras. Plano de monitoramento. Seleção de sítios, espécies
+    e parâmetros. Detectabilidade e erros de amostragem. Escalas de amostragem. 4.
+    Manejo de fauna. Aspectos legais do manejo de fauna no Brasil. Manejo de controle,
+    sustentável e adaptativo. Planos de manejo. 5. Problemas práticos de manejo e
+    conservação de fauna em áreas agrícolas e florestais. Aplicação de conceitos e
+    práticas de conservação e manejo de fauna silvestre através de estudos de caso.'
   course_name: 'LCF0590 - Conservação e Manejo de Fauna Silvestre
 
     Wildlife Management and Conservation'
-  deactivation: 31/12/2018
+  deactivation: ''
   instructors: 836301 - Katia Maria Paschoaletto Micchi de Barros Ferraz
   lecture_credits: '4'
   objectives: 1. Informar o aluno sobre conceitos, definições e objetivos da conservação
@@ -51,7 +51,7 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20201030022623'
-digest: 5CR63EIA27M4TYM3XWIGV4M5ROFWKV5W
-updated_at: '20210803150039'
-url: https://web.archive.org/web/20210803150039id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0590&verdis=2
+created_at: '20220420002803'
+digest: 2LQIRI2C3WDUIJUTGXXE2IPCWSMUQOWO
+updated_at: '20220420002803'
+url: https://web.archive.org/web/20220420002803id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0590&codcur=11080&codhab=4
