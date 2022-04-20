@@ -1,0 +1,42 @@
+courses:
+  activation: 01/01/2010
+  assessment: Aplicação de uma única prova compreendendo toda a matéria lecionada
+    no semestre
+  bibliography: 'Alexander, M. 1999. Biodegradation and Bioremediation. Academic Press,
+    New York. 472 p.
+
+    Bergamin Filho, A., Kimati, K. & Amorim, L. (Eds) 1995. Manual de Fitopatologia
+    Vol. I. Ed. Agronômica Ceres, São Paulo. 919 p.
+
+    Maier, R. (Ed.). 2000. Environmental Microbiology. Academic Press, New York. 608
+    p.
+
+    Pelczar, M.J., Chan, E.C.S. & Krieg, N.R. 1996. Microbiologia: conceitos e aplicações.
+    Vol. II. Makron Books, São Paulo. 517 p.'
+  course: ':   Teórico: taxonomia e classificação de microrganismos; características
+    morfológicas e ultra-estruturais de fungos, bactérias e vírus; atividade microbiana
+    relacionada aos ciclos geoquímicos do carbono, nitrogênio e enxofre; aspectos
+    sobre microbiologia do ar, da água, do solo, de esgotos e de resíduos agrícolas
+    e industriais.
+
+    Prático: técnicas para observação microscópica de fungos e bactérias; esterilização,
+    meios de cultivo-tipos e preparo, métodos aplicados ao isolamento de microrganismos
+    do solo, da água e do ar; tratamento da água e análise da qualidade sanitária.'
+  course_name: 'LFN0125 - Microbiologia Ambiental
+
+    Environmental Microbiology'
+  deactivation: ''
+  instructors: '52923 - Ivan Paulo Bedendo
+
+    1505492 - Nelson Sidnei Massola Júnior'
+  lecture_credits: '2'
+  objectives: ': Dotar os alunos de conhecimentos básicos sobre os diferentes grupos
+    de microrganismos e suas atividades nos principais processos biológicos que se
+    desenvolvem no ambiente.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220420025343'
+digest: 2SMBPXUJNAYSLMDYQB33IENRO72IFVB4
+updated_at: '20220420025343'
+url: https://web.archive.org/web/20220420025343id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LFN0125&codcur=11080&codhab=4
