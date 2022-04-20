@@ -1,0 +1,46 @@
+courses:
+  activation: 01/01/2011
+  assessment: Uma prova teórica abrangendo toda a matéria lecionada. A nota desta
+    prova é somada à média final da avaliação normal. A média simples dos dois valores,
+    se superior a 5,0 implicará na aprovação do aluno. Caso contrário, o aluno será
+    considerado reprovado.
+  bibliography: "Bruni, Adriano Leal (2009) Matemática Financeira com HP 12C e Excel.\
+    \ Ed. Atlas, São Paulo. 522 p.\nLachtermacher, Gerson (2007) Pesquisa Operacional\
+    \ na Tomada de Decisões \x96 modelagem em Excel. Ed. Campus Elsevier, Rio de Janeiro.\
+    \ 213 p.\nLapponi, Juan Carlos (2005) Estatística usando Excel. Elsevier, Rio\
+    \ de Janeiro. 476 p.\nRodriguez, Luiz Carlos Estraviz (2009) Matemática Financeira\
+    \ na Gestão Florestal. (Apostila) Depto. Ciências Florestais \x96 ESALQ, Piracicaba.\
+    \ 45 p."
+  course: 'I. A Estatística, a Regressão Linear e seus métodos para modelagem de problemas
+    ambientais. II. A Matemática Financeira para a avaliação de projetos: convertendo
+    projetos em fluxos de caixa; aplicando os critérios de avaliação em projetos ambientais;
+    incluindo o risco e a incerteza nas análises; determinação da idade economicamente
+    ótima para a exploração de recursos naturais. III. Os princípios da Economia para
+    a determinação de níveis economicamente ótimos de uso dos insumos: modelagem de
+    processos envolvendo crescimento, ingresso e mortalidade; análise envolvendo a
+    determinação de níveis biologicamente ótimos de produção; análises envolvendo
+    recursos naturais renováveis e não renováveis; o ótimo biométrico pode coincidir
+    com o ótimo econômico? A sustentabilidade do ponto de vista do ordenamento dos
+    recursos naturais. IV. A Pesquisa Operacional e suas técnicas de otimização: problemas
+    de otimização com restrições; A Programação Linear como técnica de otimização
+    matemática e na gestão de problemas ambientais.'
+  course_name: 'LCF0280 - Métodos Quantitativos para a Gestão Ambiental
+
+    Quantitative Methods for Environmental Management'
+  deactivation: ''
+  instructors: 85364 - Luiz Carlos Estraviz Rodriguez
+  lecture_credits: '4'
+  objectives: Desenvolver o domínio de técnicas matemáticas, estatísticas e de processamento
+    de dados para apoiar a análise de processos de tomada de decisão.  A partir da
+    aplicação dessas técnicas em estudos de caso, os alunos aprenderão a associar
+    e adequar os instrumentos de análise disponíveis aos problemas apresentados. O
+    principal objetivo é saber identificar nos problemas as suas características mais
+    importantes, e a partir dessa identificação construir um modelo analítico que
+    leve a um conjunto adequado de soluções.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220420024937'
+digest: 6AYQOQ7YWQQJBYJOMBZ57OFDMAVFQSKY
+updated_at: '20220420024937'
+url: https://web.archive.org/web/20220420024937id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0280&codcur=11080&codhab=4
