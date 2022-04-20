@@ -1,0 +1,43 @@
+courses:
+  activation: 01/01/2002
+  assessment: Prova sobre uma listagem de assuntos desenvolvidos durante o semestre.
+  bibliography: 'BRASIL. (1997). Ministério da Saúde. Manual de vigilância da saúde
+    de  populações expostas a agrotóxicos. Brasília: Organização Pan-Americana da
+    Saúde.
+
+    Herbicides Physiology, Biochemistry, Ecology. AUDUS, L.J. (Ed.). 2nd Ed. Academic,
+    Press, N. York, 1964, Vol. II, 564p. Disponível ESALQ.
+
+    LARINI, L. Toxicoloqia .1.ed.São-Paulo: Edítora Manole.315p.
+
+    Pesticides in the soil Environment: Processes, Impacts, and Modeling. H.H. CHENG
+    (editor). Soil Science Society of America Book Series (Number 2), Madison, 1990,
+    530p. Disponível CENA e ESALQ.
+
+    Pesticides Microbiology; microbial aspects of pesticide behaviour in the environment.
+    HILL, I.R. New York: Academica Press, 1978. Disponível CENA e ESALQ.
+
+    Reactions and Movement of Organic Chemicals in Soils. B.L. SAWHNEY & K. BROWN
+    (editores). Soil Science Society of America, Madison, 1989, 474 p. Disponível
+    CENA.'
+  course: Aulas expositivas, discussão em grupos, aulas práticas com apresentação
+    dos materiais, equipamentos e amostras problemas, interpretação de resultados
+    resultados de análises.
+  course_name: 'CEN0413 - Agrotóxicos - Interações no Ambiente
+
+    Pesticides: Environmental Interactions'
+  deactivation: ''
+  instructors: 50921 - Valdemar Luiz Tornisielo
+  lecture_credits: '4'
+  objectives: '2.  OBJETIVOS:   (digitar  em  texto  corrido)
+
+    Apresentar os processos de contaminação ambiental por agrotóxicos, os mecanismos
+    de interações dos agrotóxicos com o ambiente, métodos de amostragens e análises
+    de pesticidas.'
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220420001619'
+digest: MMSZOHIRPDEPZOMMEIPXUAWR4ZWS37AJ
+updated_at: '20220420001619'
+url: https://web.archive.org/web/20220420001619id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0413&codcur=11080&codhab=4
