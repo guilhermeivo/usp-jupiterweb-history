@@ -1,0 +1,68 @@
+courses:
+  activation: 01/01/2010
+  assessment: 'Prova de recuperação com todo o conteúdo da disciplina (Pr)
+
+    (Mfinal + Pr)/2= Conceito final'
+  bibliography: 'Reece, Richard J. Analysis of Genes and Genomes. Ed. John Wiley &
+    Sons Ldt., 2003. 469p.
+
+    Madigan, Michael T. e Martinko, John M. Brock Biology of Microorganisms, 11a Edição,
+    New Jersey, Ed. Pearson Prentice Hall, 2006. 992p.
+
+    Lewin, Benjamin. Genes IX. New Jersey, Ed. Jones & Bartlett Publ., 2007. 892p.
+
+    Hartl, D. e Jones, E. Genetics: Analysis of Genes and Genomes. 7ª Ed., Sudbury,
+    Ed. Jones & Bartlett Publ., 2008. 860p.
+
+    Brown, T.A. Genomes 2. 2aEd., John Wiley & Sons Ldt., 2002. 572p.
+
+    Cowan, Marjorie Kelly & Talaro, Kathleen Park. Microbiology: A Systems Approach,
+    2a Ed., Ed. McGraw-Hill, 2009. 869p.
+
+    Lewontin, Richard C.; Miller Jeffrey H.; Gelbart, William M.; Griffiths Anthony
+    J.F. Modern Genetic Analysis: Integrating Genes and Genomes, 2ª Ed.,  New York,
+    Ed. W. H. Freeman, 2002. 736p.'
+  course: "Teórico: Conceito de Organismo Geneticamente Modificado (OGM) ou transgênico.\
+    \ Conceitos básicos e histórico da biossegurança. Etapas para a análise de detecção\
+    \ e quantificação de transgênicos: extração e purificação de DNA, método imuno-enzimático\
+    \ (ELISA), método molecular de análise por ácidos nucléicos (PCR e Real Time PCR).\
+    \ Lei de Biossegurança, Decreto de Rotulagem, Protocolo de Cartagena, Legislação\
+    \ Internacional \x96 uma visão histórica e atualização dos instrumentos regulatórios\
+    \ no Brasil e no Mundo. Conceitos de Metrologia: materiais de referência e controles.\
+    \ Análise de incerteza dos métodos. Análise de risco na introdução de OGMs no\
+    \ ambiente e na dieta humana e animal: aspectos prioritários e relevantes no estudo\
+    \ de risco, dano x exposição, risco : benefício, baseline.\nPrático: Atividades\
+    \ de extração de DNA de alimentos processados e matérias-primas que podem conter\
+    \ transgênicos. PCR qualitativa para \x93screening\x94 de detecção de produtos\
+    \ transgênicos ou alimentos processados contendo OGMs. PCR em Tempo Real para\
+    \ quantificação de eventos transgênicos, de produtos agropecuários e alimentos\
+    \ processados. Exercício da análise de risco na introdução de novos alimentos\
+    \ na dieta humana: prioridades a serem avaliadas, métodos e análises a serem utilizados."
+  course_name: 'CEN0333 - Análise Diagnóstica de Organismos Geneticamente Modificados(ogms)
+
+    Diagnostic Analysis of Genetically Modified Organisms (GMOs)'
+  deactivation: ''
+  instructors: '2798025 - Adriana Pinheiro Martinelli
+
+    50153 - Tsai Siu Mui'
+  lecture_credits: '4'
+  objectives: A disciplina visa fornecer aos alunos conceitos sobre plantas e alimentos
+    transgênicos, sua forma de obtenção e manipulação, bem como conhecimentos básicos
+    sobre procedimentos de biossegurança relativos à manipulação de organismos, plantas
+    e microrganismos para fins agrícolas ou agroindustriais. Serão apresentados os
+    métodos de extração e purificação de DNA e técnicas moleculares (ELISA, PCR e
+    PCR-Tempo Real) para detecção e quantificação das modificações genéticas nos organismos,
+    considerando ainda o estudo da obtenção e formulação de materiais de referência
+    indicados aos procedimentos de referência certificados. Serão apresentados aspectos
+    legais relativos à biossegurança, tais como normas técnicas referentes ao processo
+    regulatório de introdução e acompanhamento de organismos geneticamente modificados
+    (OGMs). A disciplina deverá também contribuir para uma análise crítica dos procedimentos
+    necessários à análise adequada de riscos ambientais e aqueles referentes à saúde
+    no processamento, consumo ou descarte de OGMs.
+  practical_credits: '2'
+  total_workload: 120 h
+  type: Semestral
+created_at: '20220420041818'
+digest: VZTLMCM4UEC3XNKELLTVTOBYIUHOA3UF
+updated_at: '20220420041818'
+url: https://web.archive.org/web/20220420041818id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0333&codcur=11070&codhab=4
