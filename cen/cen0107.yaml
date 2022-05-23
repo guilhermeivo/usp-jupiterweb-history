@@ -1,0 +1,70 @@
+courses:
+  activation: 01/01/2008
+  assessment: Será efetuada uma prova final abordando todo o conteúdo.
+  bibliography: 'Chapin III, S.F.; Matson, P.A. & Mooney, H.A. Principles of terrestrial
+    ecosystem ecology. Springer-Verlag.  New York. 436pp. Il. 2002.
+
+    Field, C.B. and Raupach, M.R. The global carbon cycle. Integrating humans, climate
+    and the natural world.  SCOPE 62. Island Press, London.526pp.il. 2004.
+
+    INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE. Climate Change 2007: The Physical Science
+    Basis: http://www.ipcc.ch
+
+    Moreira, G.A. & Schwartzman, S. As mudanças climáticas globais e os ecossistemas
+    brasileiros. IPAM, WRC e Env. Defense. Brasília. 165p. 2000.
+
+    Pereira, A.R.; Angelocci, L.R. & Sentelhas, P.C. Agrometeorologia. Fundamentos
+    e aplicações práticas. Ed. Agropecuária. 478 pp. Il. 2002
+
+    Ricklefs, R.E. A economia da natureza. 4ra Ed. Ed. Guanabara-Koogan, Rio de Janeiro.
+    470 pp. Il.  2003.
+
+    Ricklefs, R.E. & Miller, G.T.Jr. Ecology. 4th Ed. Freeman nad Company. New York.
+    822pp. Il. 2000.
+
+    Sala, O.E.; Jackson, R.B.; Mooney, H.A. Howard, R.W. Methods in Ecosysmem Science.
+    Springer-Verlang. New York. 421 pp. Il. 2000.
+
+    Schlesinger, W.H. Biogeochemistry. An analysis of global change. Academic Press.
+    New York.  2nd. Ed. 588 pp. Il. 1997.'
+  course: '1- Estrutura da Terra: conceitos sobre geosfera, hidrosfera, atmosfera,
+    criosfera e biosfera
+
+    2- Funcionamento da Terra e a Teoria de Gaia
+
+    3- O Sol: fonte fundamental de energia, origem da radiação solar e leis da radiação
+
+    4- Transformações da energia solar, fotossíntese, transpiração, evaporação e aquecimento
+
+    5- Balanço global de radição e redistribuição da energia global
+
+    6- Efeito estufa, causas naturais e antrópicas, o papel da matriz energética e
+    das mudanças no uso e cobertura do solo, especialmente agricultua e desmatamento,
+    modelos de previsão do clima
+
+    7- Ações mitigadoras, Protocolos de Montreal e Kyoto
+
+    8- Gestão sustentada dos recursos naturais em termos energéticos e suas nuances'
+  course_name: 'CEN0107 - Energia e Biosfera
+
+    Energy and Biosphere'
+  deactivation: ''
+  instructors: 3210215 - Alex Vladimir Krusche
+  lecture_credits: '2'
+  objectives: Para gerir de o ambiente de forma adequada é necessário conhecer, profundamente,
+    as consequências das ações humanas (individuais e coletivas) para a sobrevivência
+    da demais espécies. O diagnóstico, planejamento, manejo e manutenção do ambiente
+    natural requerem conhecimentos dos possíveis destinos da energia solar captada
+    pelo sistema Terra, fator limitante primário do funcionamento dos ecossistemas.
+    O ambiente natural resulta de infinitas interações a que nos submetemos a cada
+    instante e que determinam a direção e intensidade dos fluxos de energia. Apresentar
+    visões cinetíficas sobre os acontecimentos naturais, os aspectos temporais desses
+    acontecimentos e as mudanças intensionais que impomos à paisagem são os objetivos
+    deste curso.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220523025811'
+digest: TJLNNMDG5XQ3QQ3SIXXF5QY6ESFQKUT5
+updated_at: '20220523025811'
+url: https://web.archive.org/web/20220523025811id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0107&verdis=1
