@@ -1,0 +1,104 @@
+courses:
+  activation: 01/01/2005
+  assessment: Aulas de recuperação dos principais tópicos abordados e avaliação final
+    na forma de prova e/ou elaboração de trabalho.
+  bibliography: '1.Apostilas elaboradas em português e oferecidas pelos professores
+    sobre os temas expostos no conteúdo.
+
+    2.Livro texto em inglês: J.R. Ehleringer, A. E. Hall, G.D. Farquhar. Stable Isotopes
+    and Plant Carbon-Water Relations. Academic Press, San Diego, 1993, 555 pp.
+
+    3.Trabalhos científicos (ou parte deles) selecionados pelos professores e distribuídos
+    à cada aula (exemplos):
+
+    Schlesinger, W.H. Biogeochemistry. An Analysis of Global Change. Academic Press,
+    1991, 443p. - Capítulo 11 - The Global Carbon Cycle, pg 308-321.
+
+    Schlesinger, W.H. Biogeochemistry. An Analysis of Global Change. Academic Press,
+    1991, 443p. - Capítulo 12 - The Global Nitrogen Cycle, pg 322-335.
+
+    Butcher, S.S; Charlson R.L.; Orians G.H. & Wolfe G.V.. Global Biogeochemical Cycles.
+    Academic Press, 1992, 379 pp.
+
+    Walker, B. & W. Steffen. Global Change and Terrestrial Ecosystems. International
+    Geosphere-Biosphere Programme Book Series 2. Cambridge University Press, 1996,
+    619p. - Capítulos 2, 7 e 18.
+
+    Walker, B. & W. Steffen. Global Change and Terrestrial Ecosystems. International
+    Geosphere-Biosphere Programme Book Series 2. Cambridge University Press, 1996,
+    619p. - Capítulo 22 - Carbon and nitrogen interactions in the terrestrial biosphere:
+    anthropogenic effects, pg 431-450.
+
+    Schimel, D.S. Terrestrial ecosystems and the carbon cycle. Global Change Biology
+    1: 77-91, 1995.
+
+    Houghton, R.A. Land-use change and the carbon cycle. Global Change Bioloy 1: 275-287,
+    1995.
+
+    Townsend, A.R., B.H. Brawsell, E.A. Holland, J.E. Penner. Spatial and Temporal
+    Patterns in Terrestrial Carbon Storage Due to Deposition of Fossil Fuel Nitrogen.
+    Ecological Applications 6: 806-814, 1996.
+
+    Fung I. et al. Carbon 13 exchanges between the atmosphere and biosphere. Global
+    Biogeochemical Cycles 11: 507-533, 1997.
+
+    Joos F. and Bruno M.. Long-term variability of the terrestrial and oceanic carbon
+    sinks and the budgets of the carbon isotopes 13C and 14C. Global Biogeochemical
+    Cycles 12: 277-295, 1998.
+
+    Miranda A.C., Miranda H.S., Lloyd J., Grace J., Francey R.J., McIntyre J.A., Meier
+    P., Riggan P., Lockwood R., Brass J.. Fluxes of carbon, water and energy over
+    Brazilian cerrado: an analysis using eddy covariance and stable isotopes. Plant,
+    Cell and Environment 20: 315-328, 1997
+
+    Martinelli LA et al. Stable carbon isotope ratio of tree leaves, boles, and fine
+    litter in a tropical forest in Rondônia, Brazil. Oecologia 114: 170-179, 1998
+
+    Sparks J.P. and J.R. Ehleringer. Leaf carbon isotope discrimination and nitrogen
+    content for riparian trees along elevational transects. Oecologia 109: 362-267,
+    1997.
+
+    Martinelli et al. Carbon-13 variation with depth in soils of Brazil and climate
+    change during the Quaternary. Oecologia 106: 376-381, 1996
+
+    Gerry J.P. Bone Isotope Ratios and Their Bearing on Elite Privilege among the
+    Classic Maya. Geoarchaeology 12: 41-69, 1997.'
+  course: "Conteúdo:\nTema 1 - A metodologia isotópica, fracionamento isotópico e\
+    \ nomenclatura.\nTema 2 - O ciclo global do carbono (C) (visão isotópica).\n1.\
+    \ Os maiores reservatórios de carbono\n2. Fluxo de carbono entre os reservatórios\n\
+    3. O carbono perdido - the missing carbon\n4. Tendências temporais no ciclo do\
+    \ carbono\n5. Os isótopos estáveis e o ciclo do carbono\nTema 3 - O ciclo global\
+    \ do nitrogênio (N) (visão isotópica).\n1.\tOs maiores reservatórios de nitrogênio\n\
+    2.\tFluxo de nitrogênio entre os reservatórios\n3.\tTendências temporais no ciclo\
+    \ do nitrogênio\n4.\tPerturbações devido à atividade humana\nTema 4 - Ciclo da\
+    \ água (visão isotópica).\nTema 5 - Variação isotópica do carbono, nitrogênio,\
+    \ oxigênio e deutério na atmosfera e suas aplicações em estudos ecológicos, ambientais\
+    \ e de agroecossistemas.\nTema 6 - Variação isotópica do carbono, nitrogênio,\
+    \ oxigênio e deutério nas plantas e suas aplicações em estudos ecológicos, ambientais\
+    \ e de agroecossistemas.\nTema 7 - Variação isotópica do carbono, nitrogênio,\
+    \ oxigênio e deutério nos ambientes aquáticos e suas aplicações em estudos ecológicos,\
+    \ ambientais e de agroecossistemas.\nTema 8 - Variação isotópica do carbono, nitrogênio\
+    \ em solos e suas aplicações em estudos ecológicos, ambientais e de agroecossistemas.\n\
+    Tema 9 - Variação isotópica do carbono, nitrogênio em cadeias tróficas e suas\
+    \ aplicações em estudos ecológicos, ambientais e de agroecossistemas.\nTema 10\
+    \ - Aplicações práticas de isótopos estáveis em estudos de: nutrição animal, paleoecologia,\
+    \ qualidade de alimentos e bebidas."
+  course_name: 'CEN0408 - Ecologia Isotópica
+
+    Isotopic Ecology'
+  deactivation: ''
+  instructors: '2084356 - Luiz Antonio Martinelli
+
+    53966 - Marcelo Zacharias Moreira
+
+    54115 - Plinio Barbosa de Camargo'
+  lecture_credits: '4'
+  objectives: Capacitar os alunos a entender e aplicar a metodologia dos isótopos
+    estáveis em estudos ecológicos, ambientais e de agroecossistemas
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220523030213'
+digest: VSGBKL74J3K5AYDKD5IASLKBMACS3LDV
+updated_at: '20220523030213'
+url: https://web.archive.org/web/20220523030213id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0408&verdis=2
