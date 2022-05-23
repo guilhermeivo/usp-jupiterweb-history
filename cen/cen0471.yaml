@@ -1,0 +1,61 @@
+courses:
+  activation: 15/07/2018
+  assessment: Uma prova teórica envolvendo toda a matéria teórica e as práticas lecionadas
+    no laboratório durante o semestre.
+  bibliography: 'Literatura Básica:
+
+    Alberts, B.; Bray, D.; Johnson, A.; Lewis, J.; Raff, M.; Roberts, K.; Walter,
+    P. Biologia Molecular da
+
+    Célula. 5a Edição brasileira. Artmed, Porto Alegre.
+
+    T.A.Brown . Genomas. 3a edição, Ed. brasileira Médica Panamericana. 2007.
+
+    Lewin, B.; Krebs, J.; Kilpatrick S.T. & Goldstein E.S.. Gene XI. Jones & Bartlett
+    Press. 2014.
+
+    Ana Cristina Miranda Brasileiro & Vera Tavares de Campos Carneiro. Manual de Transformação
+
+    Genética de Plantas, 2ª Edição. 2015. Editora EMBRAPA.
+
+    T. A. Brown. Clonagem Gênica e Analise de DNA: Uma Introdução. 2003. Artmed Editora.
+
+    Literatura Complementar:
+
+    T.A. Brown. Gene Cloning and DNA Analisys: An Introduction. 7th Edition. 2015
+    Wiley
+
+    Blackwell Editors.
+
+    Periódicos com assunto relacionado às Ciencias Biológicas:
+
+    M.R. Green & R. Sambrok. Molecular Cloning: A laboratory Manual, 4th Edition.
+    2013.
+
+    CSHL Press.'
+  course: Histórico e conceitos de clonagem gênica. Noções sobre elementos presentes
+    em plasmídeos de clonagem e de transformação, elementos necessários para a transferência
+    gênica de sistemas bacterianos a vegetais mediados por Agrobacterium. Noções de
+    estratégias de clonagem gênica via enzimas de restrição e via recombinação (sistemas
+    Cre/Lox e Gateway).
+  course_name: 'CEN0471 - Metodologias de Clonagem Gênica em Plantas
+
+    Plant Gene Cloning Methods'
+  deactivation: ''
+  instructors: '9502695 - Francisco Scaglia Linhares
+
+    50153 - Tsai Siu Mui'
+  lecture_credits: '3'
+  objectives: Dar aos alunos instrumentos para entender as práticas e estratégias
+    de clonagem mais comuns em âmbito vegetal, de maneira de capacita-los a efetuar
+    clonagens moleculares de genes de seu interesse. Detalhar aos alunos as diferentes
+    estratégias de clonagem, focando na clonagem em função da pergunta biológica do
+    aluno. Efetuar aulas práticas no laboratório para os alunos se familiarizarem
+    com os principais instrumentos e métodos de um laboratório de Biologia Molecular.
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220523024811'
+digest: 3UP65DMR2XRV5URL5JCYW22JSKAJ6BTP
+updated_at: '20220523024811'
+url: https://web.archive.org/web/20220523024811id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0471&verdis=2
