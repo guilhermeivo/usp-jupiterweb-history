@@ -1,0 +1,44 @@
+courses:
+  activation: 01/01/2017
+  assessment: por prova escrita
+  bibliography: 'BOUTTON, T.W.;YAMASAKI, S. (Eds.) Mass Spectrometry of Soils, New
+    York: Marcel Decker, 1996, 517p.
+
+    COLEMAN, D.C.; FRAY, D. (Eds.) Carbon Isotope Techniques, San Diego: Academic
+    Press Inc. 1991, 274p.
+
+    MATSUI, E. Utilização de isótopos estáveis em pesquisas. SPECTRUM, J. Bras.Ci.1(4):73-6,
+    1981.
+
+    ODUM, E.P. Ecologia, Editora Guanabara Koogan S.A. Academic Press Inc. 1988, 434p.
+
+    TRIVELIN, P.C.O.; BENDASSOLLI, J.A.; MORTATTI, J. Apostilas do Curso de Pós-Graduação
+    em Energia Nuclear na Agricultura, CENA/USP, Piracicaba, 2003.'
+  course: '- Origem do Universo, formação da Terra e os isótopos estáveis.
+
+    - Isótopos estáveis: conceitos, definições, carta de nuclídeos.
+
+    - Histórico e evolução de técnicas e medidas isotópicas.
+
+    - Métodos para medidas de isótopos.
+
+    - Princípio e funcionamento de espectrômetros de massas
+
+    - Aplicações de isótopos estáveis em biologia e ambiente.'
+  course_name: 'CEN0225 - Isótopos Estáveis em Biologia
+
+    Stable Isotopes in Biology'
+  deactivation: ''
+  instructors: '6614663 - Alex Virgilio
+
+    6390741 - Hudson Wallace Pereira de Carvalho'
+  lecture_credits: '2'
+  objectives: Desenvolver noções e conceitos básicos de isótopos estáveis enfatizando
+    suas aplicações e usos em ciências biológicas e ambientais.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220523014557'
+digest: IJCN7YPXG7E6IODZKNDZDNW2MKBBSMZY
+updated_at: '20220523014557'
+url: https://web.archive.org/web/20220523014557id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0225&verdis=5
