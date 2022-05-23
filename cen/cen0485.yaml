@@ -1,0 +1,58 @@
+courses:
+  activation: 01/01/2021
+  assessment: Uma prova escrita dentro do prazo regimental. A nota da segunda avaliação
+    será a média aritmética entre a nota da prova de recuperação e a nota final da
+    primeira avaliação. O aluno será aprovado se obtiver nota na segunda avaliação
+    igual ou superior a 6,0 (seis).
+  bibliography: 'Literatura Básica:
+
+    1) Baxevanis, A.D.; Ouellette, B.F.F. (2005). Bioinformatics: A Practical Guide
+    to the Analysis of Genes and Proteins. 3rd edition. John Wiley & Sons, Inc., New
+    York, USA.
+
+    2) Durbin, R.; Eddy S.; Krogh, A.; Mitchison, G. (1998). Biological Sequence Analysis:
+    probabilistic models of proteins and nucleic acids, Cambridge Press.
+
+    3) Gibas, C.; Jambeck, P. (2001). Developing Bioinformatics Computer Skill, O''Reilly
+    & Associates.
+
+    4) Jones, N. C.; Pevzner, P. A. (2004). An Introduction to Bioinformatics Algorithms,
+    MIT Press.
+
+    5) Lesk, A.M. (2014). Introduction to Bioinformatics. Oxford University Press,
+    4th edition, USA.
+
+    6) Mount, D. (2004) Bioinformatics, 2nd edition. Cold Spring Harbor.'
+  course: 'O programa será dividido em 15 sessões (semanas). Cada sessão com uma duração
+    de 4 h. Teórico: Breve resumo da biologia molecular e o fluxo de informações na
+    célula. Histórico e Introdução à Bioinformática; Aquisição de dados biológicos;
+    Métodos de sequenciamento de ácidos nucléicos; Métodos de sequenciamento de proteínas;
+    Métodos para determinação da estrutura de proteínas; Análise de dados de expressão
+    gênica; Conceitos de Bancos de Dados; Bancos de dados de proteínas; Bancos de
+    dados de RNA; Bancos de dados de estruturas; Bancos de dados genômicos; Repositórios
+    de Dados Públicos; Alinhamento de sequências; Visualização de estruturas tri-dimensionais
+    de proteínas Prático: Introdução ao sistema operacional Linux, Buscas em bancos
+    de dados biológicos, Trabalhos com dados de sequenciamento de ácidos nucleicos,
+    Alinhamento de pares de sequências com EMBOSS, Buscas com BLAST, Identificação
+    de domínios proteicos usando HMMs, Predição  por homologia de estruturas tridimensionais
+    de proteínas, Montagem de genomas bacterianos, Anotação de genomas, Identificão
+    de grupos de genes ortologos e paralogos, Estimação de valores de expressão génica,
+    Análise de expressão diferencial. Identificação de termos da ontologia de genes
+    enriquecidos em conjuntos de genes.'
+  course_name: 'CEN0485 - Introdução a Bioinformática
+
+    Introduction to Bioinformatics'
+  deactivation: ''
+  instructors: 9406670 - Diego Mauricio Riaño Pachón
+  lecture_credits: '4'
+  objectives: Explorar os fundamentos teóricos e práticos associados à descrição,
+    recuperação e análise de dados biológicos. Introduzir métodos para determinação
+    da estrutura primaria de ácidos nucléicos e proteínas, predição de estrutura terciaria
+    de proteínas, predição de genes e análise de dados expressão génica.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220523015748'
+digest: 56OGWIVQWNUCGCA62HE4SZPCHEIL6EN7
+updated_at: '20220523015748'
+url: https://web.archive.org/web/20220523015748id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0485&verdis=1
