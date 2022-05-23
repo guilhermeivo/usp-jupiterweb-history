@@ -1,0 +1,34 @@
+courses:
+  activation: 01/01/2016
+  assessment: Prova escrita abordando assuntos do programa geral, previamente definidos.
+  bibliography: 'não há
+
+    Justificativa para as alterações:
+
+    Atualização do programa resumido, facilintando a compreensão. Atualização da bibliografía,
+    retirando literatura antiga, para acrescentar mais recentes.'
+  course: "1 \x96 Introdução à Histologia \x96 tecidos conjuntivos, tecidos epiteliais\
+    \ e tecidos de sustentação, tecido muscular e nervoso; 2 \x96 Sangue: plasma,\
+    \ elementos figurados, linfa e líquidos orgânicos; 3- Proteção Animal: proteção\
+    \ inespecífica; células do sistema imune; antígeno e imunoglobulinas; imunidade\
+    \ celular e tumoral; imunidade passiva e ativa; regulação do sistema imune."
+  course_name: 'CEN0414 - Biologia Tecidual e Proteção Animal
+
+    Tissue Biology and Animal Protection'
+  deactivation: ''
+  instructors: '51964 - Adibe Luiz Abdalla
+
+    834866 - Helder Louvandini
+
+    50153 - Tsai Siu Mui'
+  lecture_credits: '4'
+  objectives: "Fornecer noções básicas sobre histologia, sistema sanguíneo e seus\
+    \ componentes; Elementos de proteção animal \x96 proteção inespecífica, imunidade\
+    \ (passiva, ativa e regulação da resposta imune)"
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220523020104'
+digest: 6MJAM7XUURBVJVXPROIRPOYMARCTJZE4
+updated_at: '20220523020104'
+url: https://web.archive.org/web/20220523020104id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0414&verdis=4
