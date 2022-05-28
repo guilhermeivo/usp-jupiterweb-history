@@ -1,0 +1,50 @@
+courses:
+  activation: 15/07/2021
+  assessment: Todo aluno que tiver frequência mínima de 70% e média final entre 3,0
+    e 4,9.
+  bibliography: '1 - Laboratório para o clínico. Miller O, Gonçalves RR. 8ª ed. São
+    Paulo: Atheneu, 1999.
+
+    2 - Histologia – Texto e Atlas – 6a Edição (2012). Michael Ross e Wojciech Pawlina.
+    Ed. Gen
+
+    3 - Patologia Bases Patológicas das Doenças – 8a Edição (2010) – Vinay Kumar,
+    Abul K. Abbas, Nelson Fausto, Jon C. Aster.'
+  course: 'MÓDULO 1 - Coleta de material biológico, biossegurança e variáveis préanalítica,
+    analítica e pós-analítica;
+
+    MÓDULO 2 – Princípios da Biologia Celular; Conceitos de Histologia e Fisiologia
+    dos tecidos do corpo.
+
+    MÓDULO 3 (prático) - Fixação, microtomia e coloração histológica com Hematoxilina
+    e Eosina;
+
+    Microscopia e laminário virtual; Esfregaço sanguíneo e reconhecimento e caracterização
+    das células do sangue; Princípios básicos do funcionamento dos equipamentos biomédicos;
+
+    MÓDULO 4 – Princípios da citopatologia e diagóstico clínico.'
+  course_name: 'PRG0022 - Interpretação de Exames Laboratoriais para a Área da Saúde
+
+    Interpretation of Laboratory Tests for Health Area'
+  deactivation: ''
+  instructors: '3141406 - Carolina Beltrame Del Debbio
+
+    252781 - Eder Rezende Moraes
+
+    5571466 - Lilia de Souza Nogueira'
+  lecture_credits: '3'
+  objectives: Essa disciplina é oferecida em formato híbrido (remoto e presencial),
+    onde o aluno conhecerá os aspectos introdutórios básicos de alguns exames laboratoriais
+    clínicos, incluindo a coleta do material biológico, os equipamentos de análise,
+    os processamentos de materiais biológicos, o emprego dos conceitos teóricos básicos
+    e a interpretação dos resultados. Este curso permite o aluno de graduação compreender
+    os processos envolvidos em alguns exames clínicos laboratoriais, desde sua coleta
+    e processamento, até a interpretação dos resultados, com enfoque no trabalho colaborativo
+    e interdisciplinar.
+  practical_credits: '0'
+  total_workload: 45 h
+  type: Semestral
+created_at: '20220528124906'
+digest: VHVRZSB4HWS4XJXMO7E24BKCAV6AUNN4
+updated_at: '20220528124906'
+url: https://web.archive.org/web/20220528124906id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PRG0022&codcur=1020&codhab=0
