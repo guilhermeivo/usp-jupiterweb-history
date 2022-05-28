@@ -22,9 +22,15 @@ courses:
   course: ''
   course_name: 'CCM0128 - Computação II
 
-    Computation II'
+    Computer Science II'
   deactivation: ''
-  instructors: 29332 - Routo Terada
+  instructors: '91288 - Carlos Eduardo Ferreira
+
+    6901698 - Guilherme Oliveira Mota
+
+    29332 - Routo Terada
+
+    88134 - Yoshiharu Kohayakawa'
   lecture_credits: '4'
   objectives: 'Refinar o conhecimento de programação de computadores e suas aplicações
     através do estudo de algoritmos, estruturas de dados e tipos abstratos de dados
@@ -49,7 +55,7 @@ courses:
     ADTs: stacks, queues, priority queues and symbol tables.  Basic data structures:
     linked lists, search trees and hashing.  Examples involving text processing; search
     in graphs; interdisciplinary applications.  Extensive programming practice.'
-created_at: '20211027132331'
-digest: TYRCST3K33WJCIX3R6MRKWH224ACU3VF
-updated_at: '20211027132331'
-url: https://web.archive.org/web/20211027132331id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0128
+created_at: '20220528135028'
+digest: V4OYN654BJVGG7UCITPG4AHZBKQFTV37
+updated_at: '20220528135028'
+url: https://web.archive.org/web/20220528135028id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0128
