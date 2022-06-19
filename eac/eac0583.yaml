@@ -137,7 +137,7 @@ courses:
   total_workload: 60 h
   type: Semestral
 created_at: '20220524205200'
-digest: TMGX3QDLSES2QZEGG657HGUEAGCSO6DL
+digest: 3IDGIC45NAOHPYYGDTTSCICMIBXWCB5L
 requirements:
 - course: 'Curso: 12033  Bacharelado em Ciências Contábeis (diurno) - Período ideal:
     7'
@@ -175,5 +175,5 @@ requirements:
   - code: EAE1232
     name: Matemática Financeira e Análise de Projetos
     type: Requisito fraco
-updated_at: '20220524205200'
-url: https://web.archive.org/web/20220524205200id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAC0583
+updated_at: '20220619190904'
+url: https://web.archive.org/web/20220619190904id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=eac0583
