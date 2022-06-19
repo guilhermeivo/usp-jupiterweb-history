@@ -1,0 +1,165 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    BODIE, Z., KANE, A., MARCUS, A.J. Investments. 8. ed. Cidade? McGraw-Hill, 2009.
+
+    BREALEY, R.; MYERS, S.; ALLEN, F. Princípios de Finanças Corporativas. 12a ed.
+    São Paulo: McGraw-Hill, 2018.
+
+    DAMODARAN, A. Gestão Estratégica do Risco. Porto Alegre: Bookman, 2009.
+
+    JORION, P. Value at Risk. São Paulo: BM&F, 2004.
+
+    ROSS, S. A.; WESTERFIELD, R.; JAFFE, J. F.; LAMB, R. Administração Financeira.
+    Corporate Finance. 10. ed. São Paulo: McGraw-Hill, 2015.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    ALEXANDER, C. Market Risk Analysis, Volume IV: Value at Risk Models. New Jersey:
+    John Wiley & Sons, 2009.
+
+    ANDERSEN, T. J.; YOUNG, P. C. Strategic Risk Leadership: Engaging a World of Risk,
+    Uncertainty, and the Unknown. Routledge, 2020.
+
+    ASSAF NETO, A. Finanças Corporativas e Valor. 7. ed. São Paulo, Atlas: 2014.
+
+    AVEN, T.; THEKDI, S. Enterprise Risk Management: Advances on Its Foundation and
+    Practice. Routledge, 2019.
+
+    BERNSTEIN, P. L. Desafio aos Deuses: a fascinante história do risco. São Paulo:
+    Campus, 1997.
+
+    CHAPELLE, A. Operational Risk Management: Best Practices in the Financial Services
+    Industry. John Wiley & Sons, 2019.
+
+    DA SILVEIRA, A. M. Governança Corporativa no Brasil e no Mundo: teoria e prática.
+    Elsevier Brasil, 2015.
+
+    DUARTE JR., A. M. Gestão de Risco para Fundos de Investimentos. São Paulo: Pearson
+    Educacional, 2005.
+
+    HOLTON, G. A. Value-at-Risk: Theory and practice. 2 ed. e-book published by the
+    author at www.value-at-risk.net, 2014.
+
+    HOPKIN, P. Fundamentals of Risk Management: understanding, evaluating and implementing
+    effective risk management. Kogan Page Publishers, 2018.
+
+    HORCHER, K. A. Essentials of Financial Risk Management. New Jersey: Wiley, 2005.
+
+    JORION, P. Value at Risk: The New Benchmark for Managing Financial Risk. 3 ed.
+    New York: McGraw-Hill, 2007.
+
+    JORION, P. Financial Risk Manager Handbook. New Jersey: Wiley, 2003.
+
+    LARCKER, D.; TAYAN, B. Corporate Governance Matters: A closer look at organizational
+    choices and their consequences. 3. ed. London: Pearson education, 2020.
+
+    MAZZALI, R.; ERCOLIN, C. A. Governança Corporativa. São Paulo: Editora FGV, 2018.
+
+    SECURATO, J. R. (Org.). Crédito: análise e avaliação do risco. 2. ed. São Paulo:
+    Saint Paul, 2012.'
+  course: '1. CONCEITO DE RISCO E MODELAGEM DOS FATORES DE RISCO
+
+    1.1 Conceito de risco e gestão estratégica de riscos
+
+    1.2 Classificação dos tipos de risco
+
+    1.3 Fatores de risco de mercado
+
+    1.4 Gestão de títulos de renda fixa: Duration e Convexidade
+
+    2. O ARCABOUÇO DO VALUE AT RISK – VAR
+
+    2.1 VaR individual
+
+    2.2 VaR de carteiras
+
+    2.3 Simulação Histórica e de Monte Carlo
+
+    3. GOVERNANÇA CORPORATIVA
+
+    3.1 Agentes e principais
+
+    3.2 Acionistas e outros stakeholders
+
+    3.3 Modelos de governança
+
+    4. CONTROLES INTERNOS E COMPLIANCE
+
+    4.1 Arcabouço COSO (Committee of Sponsoring Organisations of the Treadway Commission)
+
+    4.2 Compliance e auditoria interna
+
+    5. RISCO EMPRESARIAL
+
+    5.1 Gestão integrada do risco
+
+    5.2 Riscos emergentes
+
+    5.3 Sistemas de gerenciamento de riscos'
+  course_name: 'EAC0413 - Gestão de Riscos, Governança e Compliance
+
+    Risk Management, Governance, and Compliance'
+  deactivation: ''
+  instructors: '8476037 - Eduardo da Silva Flores
+
+    3454235 - Francisco Henrique Figueiredo de Castro Junior
+
+    1035522 - Guillermo Oscar Braunbeck
+
+    3079831 - Lucas Ayres Barreira de Campos Barros
+
+    3132692 - Renê Coppe Pimentel'
+  lecture_credits: '4'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A disciplina oferece uma introdução à análise e gestão de riscos, incluindo sua
+    interação com as estratégias e sistemas de governança das organizações. Também
+    apresenta arcabouços modernos para a mensuração de riscos e para a implementação
+    de sistemas voltados para controles internos e para o gerenciamento integrado
+    de riscos empresariais.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Espera-se que, ao final do curso, os alunos estejam aptos a:
+
+    1. Distinguir e descrever as diferentes abordagens para conceituar o risco e classificar
+    as fontes de risco;
+
+    2. Descrever o conceito moderno de gestão estratégica de riscos e os tipos fundamentais
+    de risco;
+
+    3. Explicar a lógica do Value-at-Risk (VaR) e suas implicações para a gestão de
+    riscos;
+
+    4. Resolver problemas básicos e intermediários aplicando o VaR a ativos individuais
+    e a carteiras de ativos;
+
+    5. Explicar o problema fundamental da governança corporativa;
+
+    6. Distinguir e Descrever os principais mecanismos e modelos de governança corporativa
+    e suas limitações;
+
+    7. Descrever o arcabouço COSO para controles internos;
+
+    8. Reconhecer e explicar as interações entre sistemas de governança e sistemas
+    de gerenciamento de riscos;
+
+    9. Explicar o conceito de gestão integrada de riscos; e
+
+    10. Avaliar a adequação de diferentes sistemas de gerenciamento de riscos.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220619190834'
+digest: VIFGZMC3ZIAU2TLH6EW5CNEZ6QUJIBGN
+updated_at: '20220619190834'
+url: https://web.archive.org/web/20220619190834id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0413
