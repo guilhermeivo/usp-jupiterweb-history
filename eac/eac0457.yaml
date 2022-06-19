@@ -1,0 +1,77 @@
+courses:
+  activation: 01/01/2018
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    PITACCO, E. Health Insurance. European Actuarial Academy. Springer. 2014
+
+    LEIDA, H. K.; BLUHM, W. F. Individual Health Insurance. Actex Professional Series.
+    2015
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    MORRISEY, M. A. Health Insurance. Second Edition. 2013
+
+    SKWIRE, D. D. ET AL. Group Insurance. Seventh Edition. Actex Professional Series.
+    2016
+
+    DUNCAN, I. Healthcare Risk Adjustment and Predictive Modeling. Actex Professional
+    Series.
+
+    2011'
+  course: '1. O mercado de seguro de saúde
+
+    Falhas
+
+    Ambiente
+
+    Dimensão
+
+    2. Principais produtos
+
+    Mix público privado
+
+    Características da oferta no Brasil
+
+    3. Gerenciamento de antiseleção
+
+    Espiral de custos crescentes
+
+    Subscrição
+
+    4. Fixação de tarifas
+
+    5. Regulação do setor
+
+    Aparato regulatório brasileiro
+
+    Reservas'
+  course_name: 'EAC0457 - Modelos de Seguro Saúde
+
+    Health Insurance'
+  deactivation: ''
+  instructors: 8760796 - Ana Carolina Maia
+  lecture_credits: '4'
+  objectives: 'Este curso desenvolve uma compreensão dos conceitos fundamentais do
+    ambiente de cuidados de
+
+    saúde e planos de saúde, seguido por técnicas de apreçamento e controle de custos.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220619190816'
+digest: ZZRLR6SZHWSCPIP3OSDNMQUTP3JLUZX6
+updated_at: '20220619190816'
+url: https://web.archive.org/web/20220619190816id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=eac0457
