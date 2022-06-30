@@ -1,0 +1,107 @@
+courses:
+  activation: 01/01/2006
+  assessment: Uma prova de reavaliação após o término do semestre contendo a matéria
+    toda
+  bibliography: 'BERLE, Adolf; MEANS, Gardiner. The modern corporation and private
+    property. New York: Macmillian, 1932.
+
+    BOVESPA - Níveis de Governança Corporativa - "Regulamentos dos Níveis  1 e 2 de
+    Governança Corporativa" e "Regulamento do Novo Mercado". Endereço: www.bovespa.com.br,
+    entrar em "empresas" e a seguir em "Novo Mercado e Níveis de Governança Corporativa".
+    Disponível em http://www.bovespa.com.br/pdf/RegulamentoNMercado.pdf e http://www.bovespa.com.br/pdf/regulamentonv310502.pdf
+
+    BUSHMAN, Robert M.; SMITH, Abbie. Financial Accounting Information and Corporate
+    Governance. Journal of Accounting and Economics 32, p. 237-333, 2001.
+
+    CVM - Cartilha de Recomendações sobre Governança Corporativa - Jun/2002. Disponível
+    em: http://www.cvm.gov.br/port/public/publ/cartilha/cartilha.doc
+
+    CVM - Ofício Circular SNC / SEP 01/2005, até o final do item 1.12, página 33.
+
+    IBGC. Código Brasileiro das Melhores Práticas de Governança Corporativa.Disponível
+    em: http://www.ibgc.org.br/imagens/StConteudoArquivos/Codigo%20IBGC%203º%20versao.pdf
+
+    IFAC. Enterprise Governance: Getting the Balance Right. Disponível em www.ifac.org.
+
+    ISAR - Governance around the world. Disponível em: http://www.unctad.org/en/docs/iteteb20039_en.pdf
+
+    JENSEN, Michael C.; MECKLING, William H. Theory of the Firm: Managerial Behavior,
+    Agency Costs and Ownership Structure. Social Science Research Network (SSRN) Electronic
+    Library.
+
+    Disponível em:
+
+    Lei 6.404 / 76 - artigo 176, inclusive incisos e parágrafos
+
+    LOPES, Alexsandro B. A Teoria dos Contratos, Governança Corporativa e a Contabilidade.
+    IUDÍCIBUS, Sérgio de; LOPES, Alexsandro B. (Coord.). In: Teoria Avançada da Contabilidade.
+    São Paulo: Atlas, 2004.
+
+    OECD. The OECD principles of Corporate Governance. OECD, 1999. Disponível em:
+    www.oecd.org.. Ver também Draft Revised Principles 2004.
+
+    ____. Survey of Corporate Governance Principles in OECD countries.
+
+    OKIMURA, Rodrigo T. Estrutura de Propriedade, Governança Corporativa, Valor e
+    Desempenho das Empresas no Brasil. Dissertação. FEA-USP, São Paulo, 2003.
+
+    SANTOS, Ariovaldo dos. Demonstração do Valor Adicionado. 1ª Ed.. S. Paulo: Atlas,
+    2003.
+
+    SHLEIFER, Andrei; VISHNY, Robert W. A survey of corporate governance. Journal
+    of Finance, v. 52, p. 737-738, jun, 1997.
+
+    SILVEIRA, Alexandre Di M. Governança Corporativa e Valor da Empresa no Brasil.
+    Dissertação FEA-USP, São Paulo, 2002.
+
+    WEFFORT, Elionor J. Cultura, Fatores Legais e Harmonização Contábil. Tese de Doutorado,
+    FEA/USP. 2004.
+
+    WITHERELL, William. Corporate Governance: A Basic Foundation for the Global Economy.
+    OECD OBSERVER,
+
+    Disponível em:
+
+    .'
+  course: '- Principais Códigos no Brasil:CVM, BOVESPA/NOVO MERCADO e IBGC
+
+    - Principais Códigos no exterior: IFAC, OECD e ISAR
+
+    - O que divulgar: requisitos da Lei das S.A.e da SNC/SEP da CVM
+
+    - Como divulgar: essência sobre forma, e o conceito de "true and fair view"
+
+    - Fatores legais e culturais: "Common Law" x "Civil Law", impacto de sistemas
+    educacionais e da organização do mundo corporativo
+
+    - "Sites" de empresas brasileiras com ADR´s em negociação em NY - estudo de casos
+    em formulários "20-F"'
+  course_name: 'EAC0535 - Governança Corporativa
+
+    Corporate Governance'
+  deactivation: ''
+  instructors: 59962 - Luiz Nelson Guedes de Carvalho
+  lecture_credits: '2'
+  objectives: '1) Fornecer subsídios ao entendimento do papel da Governança Corporativa
+    no mundo empresarial atual, vendo-a como um "conjunto de mecanismos de incentivo
+    e controle que visam harmonizar a relação entre acionistas e gestores pela redução
+    dos custos de agência, numa situação de separação da propriedade e controle".
+
+    2) Explicitar o "estado da arte" em termos de códigos ou normas de Governança
+    Corporativa editados por entidades especializadas e de reputação nessa matéria
+    - governamentais ou não - no Brasil e no mundo
+
+    3) Ressaltar a percepção da relevância da comunicação e divulgação empresariais
+    na redução do custo de capital da firma
+
+    4) Destacar a importância e as técnicas em uso para divulgação de informações
+    de natureza econômico-financeira e contábil, de desempenho operacional e das ações
+    da empresa voltadas à responsabilidade social - conceito de "para quem, o que
+    e como divulgar"'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220630082333'
+digest: 2DYUY35J6XFENTR7MUWLZQBJLGVSA76S
+updated_at: '20220630082333'
+url: https://web.archive.org/web/20220630082333id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0535&codcur=12042&codhab=4
