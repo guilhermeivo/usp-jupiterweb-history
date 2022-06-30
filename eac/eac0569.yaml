@@ -1,0 +1,55 @@
+courses:
+  activation: 01/01/2016
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    PRESTON, S., HEUVELINE, P. e GUILLOT, M. Demography. Oxford: Blackwell Publishers,
+    2001.
+
+    WACHTER, K. W. Essential demographic methods. Berkeley, CA: University of Berkeley,
+    Department of Demography, 2006.
+
+    PITACCO, E. Health Insurance. European Actuarial Academy. Springer. 2014.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    SCHOEM, R. Modeling multigroup populations. New York: Plenum Press. 1988'
+  course: '1. Projeções populacionais
+
+    1.1 Método das componentes demográficas
+
+    2. O modelo de população estável
+
+    3. Riscos Heterogêneos
+
+    3.1 Tabelas de múltiplos decrementos
+
+    3.2 Riscos competitivos
+
+    3.3 Riscos proporcionais
+
+    4. Modalidades de seguro de saúde
+
+    5. Introdução a modelos multiestados com aplicação em seguros por disability'
+  course_name: 'EAC0569 - Demografia Aplicada à Atuária II
+
+    Demographics Applied to Actuarial Sciences II'
+  deactivation: ''
+  instructors: 8760796 - Ana Carolina Maia
+  lecture_credits: '2'
+  objectives: Apresentar ferramental complementar de técnicas demográficas usualmente
+    presentes na prática do atuário, enfatizando a gênese da literatura formal e aplicações
+    empíricas.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220630074409'
+digest: IXOLTSXKFYZZNDFLCKAUVRPLL2ANWXF6
+updated_at: '20220630074409'
+url: https://web.archive.org/web/20220630074409id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0569&codcur=12042&codhab=4
