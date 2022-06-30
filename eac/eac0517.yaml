@@ -1,0 +1,59 @@
+courses:
+  activation: 01/01/2006
+  assessment: O trabalho final deverá ser concluído no prazo determinado.
+  bibliography: "1.\tANCELES, P. E. S. Manual de tributos da atividade rural. 2ª edição,\
+    \ São Paulo: Atlas, 2002.\n2.\tCAIXETA FILHO, José Vicente. Pesquisa operacional\
+    \ - técnicas de otimização aplicadas a sistemas agroindustriais. São Paulo: 2001.\n\
+    3.\tFNP. Agrianual - anuário da agricultura brasileira.\n4.\tGEPAI. Gestão agroindustrial\
+    \ (vos. 1 e 2). 2ª edição, São Paulo: Atlas.\n5.\tKASSAI, José Roberto. Break\
+    \ even point na atividade rural. São Paulo: USP. Anais do VI Congresso Brasileiro\
+    \ de Custos, 1999.\n6.\tKASSAI, José Roberto. Custos e resultados nas atividades\
+    \ avícolas - modelo aplicável a outras atividades rurais. São Paulo: IOB, Caderno\
+    \ Temática Contábil e Balanços, Boletim n. 14/93, abril/93.\n7.\tKASSAI, José\
+    \ Roberto. Fluxo de caixa prospectivo aplicado às atividades rurais. São Paulo:\
+    \ IOB, Caderno Temática Contábil e Balanços, Boletim n. 26/94.\n8.\tKASSAI, José\
+    \ Roberto. Gestão de custos na citricultura: uma experiência na implantação de\
+    \ projetos. São Paulo: USP. Anais do VI Congresso Brasileiro de Custos, 1999.\n\
+    9.\tKASSAI, José Roberto. Gestão de custos na cafeicultura: uma experiência na\
+    \ implantação de projetos. Anais do VII Congresso Brasileiro de Custos, Recife/PE,\
+    \ 2000.\n10.\tMARION, José Carlos, Contabilidade Rural. 7ª edição, São Paulo,\
+    \ Atlas, 2002.\n11.\tSANTOS, Gilberto; MARION, José Carlos; SEGATTI, Sonia. Administração\
+    \ de custos na agropecuária. 3ª edição, São Paulo: Atlas, 2002."
+  course: "1.\tA empresa rural e seu meio ambiente. Ecologia da empresa: As características\
+    \ do homem do campo e o estilo de administração. A natureza e o ciclo de vida\
+    \ dos ativos: nascimento crescimento e morte.\n2.\tAtividades Rurais. Agricultura,\
+    \ reflorestamento, pecuária, agroindustrias, cultura temporárias e perenes. Ativos\
+    \ (animais e vegetais) utilizados na atividade operacional e para vendas.\n3.\t\
+    Aspectos contábeis e legais das atividades rurais. Manual de plano de contas,\
+    \ comentários das contas, fluxogramas contábeis. Transações e contas especiais\
+    \ das atividades rurais. Imposto de renda e principais tributos. Cooperativas.\n\
+    4.\tAspectos de custos e preços. Organograma funcional e plano de centros de custos.\
+    \ Custos fixos e variáveis, refinamento do cálculo das depreciações, amortizações\
+    \ e exaustões. Alavancagem operacional e ponto de equilíbrio. Planejamento de\
+    \ lucros e simulações. Break even-point na atividade rural. Fluxo de caixa prospectivo\
+    \ das atividades rurais.\n5.\tRelatórios contábeis e análises de balanços das\
+    \ atividades rurais. Reclassificações necessárias, análises por meio de coeficientes,\
+    \ quadro clínico de análises, custo de capital e taxas de retorno, EVA e MVA,\
+    \ valor da empresa. Desvendando o termômetro de insolvência de Kanitz. Reflexões\
+    \ sobre a análise das atividades rurais.\n6.\tAnálises de projetos agrícolas.\
+    \ O valor da terra e investimento marginal. Taxa de atratividade, TIR, VPL e payback.\
+    \ Modelos ajustados de análises (TIRM, VPLM) e conciliação com as medidas contábeis\
+    \ (ROI, EVA). Casos da citricultura e da cafeicultura.\n7.\tTópicos especiais,\
+    \ algumas funções do Excel."
+  course_name: 'EAC0517 - Contabilidade Rural
+
+    Agricultural Accounting'
+  deactivation: ''
+  instructors: 84411 - José Roberto Kassai
+  lecture_credits: '2'
+  objectives: Abordar conceitos e técnicas de contabilidade gerencial aplicáveis às
+    atividades rurais (agrícolas, pecuárias e agroindustriais), proporcionando ao
+    aluno uma visão prática do tratamento contábil e do processo de gestão econômica
+    dessas atividades.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220630080923'
+digest: BZAP7CEDCSRH2PWQMZR52KZKFOZGR3FB
+updated_at: '20220630080923'
+url: https://web.archive.org/web/20220630080923id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0517&codcur=12042&codhab=4
