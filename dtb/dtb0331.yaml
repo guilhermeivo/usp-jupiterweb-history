@@ -1,0 +1,125 @@
+courses:
+  activation: 01/01/2015
+  assessment: De acordo com a Resolução CoG nº 3583, de 29.9.1989. Haverá  uma única
+    prova devendo o aluno obter nota mínima 5,0 (cinco) para aprovação.
+  bibliography: 'CORREIA, Marcus Orione Gonçalves; CORREIA, Érica Paula Barcha. Curso
+    de direito da seguridade social. São Paulo: Saraiva, 2002.
+
+    GIGLIO, Wagner Drdla. Direito processual do trabalho. São Paulo: LTr, 2000.
+
+    MAGANO, Octavio Bueno. Manual de direito do trabalho. São Paulo: LTr, 1992. v.
+    2.
+
+    MARTINS, Sergio Pinto. Direito processual do trabalho. São Paulo: Atlas, 2002.
+
+    ______. Direito do trabalho. São Paulo: Atlas, 2002.
+
+    NASCIMENTO, Amauri Mascaro. Iniciação ao direito do trabalho. São Paulo: LTr,
+    2002.'
+  course: 'I- Teoria Geral do Direito do Trabalho
+
+    Fundamentos históricos e filosóficos do direito do trabalho.
+
+    Conceito.
+
+    Natureza jurídica: direito público ou privado.
+
+    Autonomia.
+
+    Princípios jurídicos: universais e específicos.
+
+    Fontes do Direito do Trabalho.
+
+    Interpretação.
+
+    Flexibilização.
+
+    II- Caracterização da relação de emprego
+
+    Natureza jurídica: contrato ou relação de emprego (contrato-realidade).
+
+    Elementos da caracterização: subordinação, não eventualidade, onerosidade, pessoalidade.
+
+    III- Contrato individual do trabalho
+
+    Requisitos de validade (art. 82, CC): capacidade, objeto e forma. Nulidades do
+    contrato de trabalho.
+
+    Sujeitos do contrato: empregado e empregador (grupo de empresas, Estado, sucessão).
+    Cooperativas de trabalho. Consórcio de empregadores. Terceirização. Empregado
+    doméstico. Estagiário. Trabalhador rural. Contrato de aprendizagem.
+
+    Modalidades de contrato: indeterminado, determinado e especiais. Contrato temporário,
+    contrato provisório, contrato a tempo parcial.
+
+    Suspensão e interrupção do contrato de trabalho.
+
+    Alteração do contrato de trabalho. Transferência. Faltas ao serviço.
+
+    IV- Conteúdo normativo
+
+    Salário: salário mínimo, remuneração, salário in natura, regras de proteção ao
+    salário, equiparação salarial.
+
+    13o salário.
+
+    Participação nos lucros ou resultados.
+
+    Jornada de trabalho: adicional noturno, horas extras, banco de horas, compensação
+    de jornada, turnos ininterruptos de revezamento.
+
+    Descanso: DSR, intervalos intrajornada e interjornada, férias.
+
+    V- Saúde e segurança no trabalho
+
+    Efeitos do acidente do trabalho no contrato de trabalho. Insalubridade. Periculosidade.
+    Penosidade. Proteção da Intimidade do trabalhador. Dano moral. Proteção do trabalho
+    da mulher. Proteção do trabalho da criança e do adolescente.
+
+    VI- Cessação do contrato de trabalho
+
+    Estabilidades: definitiva e provisórias (gestante,dirigente sindical, acidente
+    do trabalho, doença profissional, dirigente de CIPA, membro de comissão de conciliação
+    prévia), Conv. 158, OIT.
+
+    FGTS
+
+    Verbas rescisórias: aviso prévio, férias proporcionais 13o salário proporcional,indenização
+    de 40% sobre o FGTS, indenização adicional, seguro-desemprego, multa do parág.
+    8o, do art. 477, da CLT, artigo 467, da CLT.
+
+    VII- Direito Coletivo do Trabalho
+
+    Organização sindical, negociação coletiva, dissídios coletivos, direito de greve,
+    representação dos trabalhadores na empresa.
+
+    VIII- Processo do trabalho
+
+    Organização da Justiça do Trabalho. Noções gerais do procedimento ordinário trabalhista:
+    petição inicial, audiência, prova, sentença e recursos. Procedimento sumaríssimo.
+    Comissões de conciliação prévia.
+
+    IX- Direito da Seguridade Social
+
+    Seguridade social, previdência social e assistência social. Histórico. Noções
+    principais: princípios, segurados, prestações e benefícios. Custeio.
+
+    X- Direito Administrativo do Trabalho
+
+    Carteira de trabalho e demais registros. Atuação do Ministério do Trabalho e Emprego.
+    Atuação do Ministério Público do Trabalho.'
+  course_name: 'DTB0331 - Legislação Social
+
+    Labor Rights'
+  deactivation: ''
+  instructors: 94909 - Nelson Mannrich
+  lecture_credits: '4'
+  objectives: Alteração necessaria face às transformações do Direito do Trabalho na
+    atual conjuntura.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220630065245'
+digest: 3Y3HFDYN45ILDN7DWXB3ZYDVFGDKHINV
+updated_at: '20220630065245'
+url: https://web.archive.org/web/20220630065245id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=DTB0331&codcur=12042&codhab=4
