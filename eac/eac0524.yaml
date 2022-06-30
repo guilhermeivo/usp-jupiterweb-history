@@ -1,0 +1,125 @@
+courses:
+  activation: 01/01/2006
+  assessment: 'e) Reavaliação - Será possível somente se o aluno tiver 70% ou mais
+    de presença.
+
+    Neste caso, a média final será obtida pela soma da nota final + nota do reaval
+    dividida por 2.
+
+    IMPORTANTE: As notas mencionadas em b e c acima somente serão consideradas se
+    o aluno obtiver nas provas(média) a nota = ou > 2(ou seja, 50%).'
+  bibliography: 'BANCROFT, N., SEIP, H., SPRENGEL, A., Implementing SAP R/3 How to
+    introduce a large system into a large organization, USA: Manning Publications,
+    1996.
+
+    BLAIN, J., et al. Administering SAP R/3: The FI - Financial Accounting and CO
+    - Controlling Modules, USA: QUE Corporation, 1998.
+
+    BURNS, J. EZZAMEL, M., SCAPENS, R., Management Accounting Change in the UK, Management
+    Accounting, London, Vol. 77, Issue 3, p. 28-30, Mar 1999.
+
+    CAGLIO, A. Enterprise Resource Planning Systems and accountants: towards hybridization?
+    European Accounting Review 2003, 12:1, 123-153
+
+    CHURCHMAN, C. W. Introdução a Teoria dos Sistemas, Petrópolis: Editora Vozes,
+    1971.
+
+    CURRIE, W & GALLIERS, B. (Editors), Markus, M., Rethinking Management Information
+    Systems, Oxford, 1999, p.185.
+
+    DONNELL, E & DAVID, J., How information systems influence user decisions: a research
+    framework and literature review,  International Journal of Accounting Information
+    Systems (2000), p. 173-203
+
+    EZZAMEL M., Organizational change and accounting: Understanding the Budget, 1994.
+
+    GARTNER GROUP, Anonymous, Taking the pulse of ERP: Modern Materials Handling.
+    Boston:  Ed. 2a. Vol. 56, p.44, Feb., 2001.
+
+    HALL, James A. Accounting Information Systems. South-Western College Publishing,
+    2001.
+
+    HAMMER, M., Além da reengenharia: como organizações orientadas para processos
+    estão mudando nosso trabalho e nossas vidas.  Rio de Janeiro: Campus, 1997.
+
+    MOSCOVE, Stephen A.; SIMKIN, Mark; BAGRANOFF, Nancy A.. Sistemas de Informações
+    Contábeis. São Paulo: Atlas 2002.
+
+    Riccio, Edson Luiz - "Efeitos da Tecnologia de Informação na Contabilidade - Estudo
+    de Casos de Implementação de Sistemas Empresariais Integrados - ERP", Tese de
+    Livre-Docência, FEA/USP, 2001.
+
+    Riccio, Edson Luiz - "Uma Contribuição ao Estudo da Contabilidade como Sistema
+    de Informação", Tese de Doutoramento, FEA/USP, 1989.
+
+    Riccio, Edson Luiz & Oliveira Neto, José Dutra - "Desenvolvimento de um instrumento
+    para mensurar a satisfação do usuário de sistemas de informações" - Revista de
+    Administração RAUSP, Volume 38 Número 3 - Data: Julho/Agosto/Setembro 2003  -
+    Pág. 230 a 241.
+
+    Riccio, Edson Luiz & Pereira, Carlos Daniel Schneider, in SOUZA, Cesar Alexandre
+    de Souza; SACCOL, Amarolinda Zanela. Sistemas ERP no Brasil: teoria e casos. São
+    Paulo: Atlas, 2003.
+
+    Riccio, Edson Luiz & Peters, Marcos .R. S. , "Os Novos Paradigmas da Função Controladoria",
+    XVII Congresso anual da ANPAD, Salvador, 1993.
+
+    Riccio, Edson Luiz & Peters, Marcos R. "Controladoria, Flexibilidade e Foco -
+    Paradoxo Estratégico da Flexibilidade Aplicada a "Core Business" - IV Congresso
+    Internacional de Custos - II Congresso Brasileiro de Gestão Estratégica de Custos
+    Campinas - UNICAMP de 16 A 20 de Outubro de 1995.
+
+    Riccio, Edson Luiz & Peters, Marcos R. "Flexibilidade Empresarial e Controladoria"
+    - XVII Congresso Argentino de Professores Universitarios de Costos - Primeras
+    Jornadas Iberoamericanas De Costos Y Contabilidad de Gestion - Republica Argentina
+    - 5, 6 E 7 de Outubro de 1994.
+
+    Riccio, Edson Luiz & Peters, Marcos R. S. , "Ambiente Virtual E Flexibilidade
+    - O Impacto da Tecnologia de Informação Sobre o Sistema de Informação" - Congresso
+    Internacional de Contabilidad, Finanzas y Administracion - Janeiro - 1997 - Havana
+    ,Cuba.
+
+    Walton, Richard E., "Tecnologia de Informação - O uso da TI Pelas empresas que
+    Obtém Vantagem Competitiva", Tradução do Prof. Edson Luiz Riccio, Ed. Atlas, São
+    Paulo, 1994.'
+  course: 'Os Sistemas de Informações Empresariais e o Contador
+
+    Introdução aos ERP''s;
+
+    Influência dos ERP''s nos processos negociais e na Contabilidade e Controladoria;
+
+    Efeitos dos ERP''s sobre a organização, cultura, valores, controle, gestão, métricas
+    e resultados econômicos financeiros;
+
+    Metodologia de implementação;
+
+    Modelos de procedimentos;
+
+    Parametrização do módulo Contábil, Econômico e Financeiro (inclusive custos);
+
+    Configurações básicas;
+
+    Controles Internos e Auditoria de Sistemas nos ERPs
+
+    Realização de pesquisas sobre ERP''s.'
+  course_name: 'EAC0524 - Sistemas de Informações Empresariais (erp)
+
+    Enterprise Information Systems (ERP)'
+  deactivation: ''
+  instructors: 78286 - Edson Luiz Riccio
+  lecture_credits: '2'
+  objectives: 'Oferecer aos alunos conhecimento sobre o funcionamento geral dos Sistemas
+    de Informações Empresariais (ERP''s - Enterprise Resource Planning), com ênfase
+    na abordagem dos aspectos colaborativos e organizacionais necessários à sua implementação
+    e funcionamento.
+
+    O estudo do Sistema de Informações Empresarias requer abordagem transdisciplinar,
+    pois emprega diversos ramos do conhecimento, sendo útil a todos que tenham interesse
+    no estudo nas empresas e organizações de qualquer tipo.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220630075109'
+digest: OCHRIQFU2UKZTQTJ5YVANYDVQ75XGTSQ
+updated_at: '20220630075109'
+url: https://web.archive.org/web/20220630075109id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0524&codcur=12042&codhab=4
