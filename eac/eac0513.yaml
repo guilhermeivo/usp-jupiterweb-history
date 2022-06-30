@@ -1,0 +1,71 @@
+courses:
+  activation: 01/01/2006
+  assessment: De acordo com o critério da Universidade de São Paulo, será oferecida
+    reavaliação aos alunos que não obtiverem aproveitamento suficiente nas avaliações
+    previstas (50% = mínimo de 10 pontos dos 20 possíveis), tendo o mínimo de freqüência
+    necessário.
+  bibliography: "BIBLIOGRAFIA BÁSICA\nCornahione Jr., Edgard B.\n\"Informática: para\
+    \ as áreas de contabilidade, administração e \teconomia\", 3ª edição. São Paulo\
+    \ : Atlas, 2001.\n(Livro Texto e Livro de Exercícios).\nBIBLIOGRAFIA COMPLEMENTAR\n\
+    Cornachione Jr., Edgard B.\n\"Sistemas integrados de gestão\".  São Paulo : Atlas,\
+    \ 2001\nO'Leary, Timoth J. & O'Leary, Linda I.\n\"Computing essentials\"\nBoston\
+    \ : McGraw-Hill, 2006\nNorton, Peter\n\"Peter Norton's introduction to computers\"\
+    \nBoston : McGraw-Hill, 2006\nMS-WORD, MS-POWERPOINT & MS-EXCEL:\nséries \tQUE/CAMPUS/MAKRON/MS-PRESS"
+  course: '1. Histórico de Informática
+
+    -Evolução, Gerações, Perspectivas e Tendências para área de Negócios
+
+    2. Hardware
+
+    -Caracterização, portes, bits & bytes, unidade básica, CPU, periféricos, meios
+    de armazenagem (primários e secundários), processadores (Cisc, Risc e dispositivos
+    portáteis), exemplos
+
+    3. Software & Linguagens de Programação
+
+    -Classificação (básico, apoio, aplicativos e aplicativos específicos), software
+    para negócios (e.g., área contábil, ERPs), modalidades de acesso (freeware, shareware),
+    pirataria
+
+    -Classificação das linguagens, instrução, aplicações e exemplos
+
+    4.Redes & Internet
+
+    -Utilidade de redes, conceitos, classificações, equipamentos, modalidades (e.g.,
+    wireless), exemplos
+
+    -Origem da Internet, Comitê Gestor, domínios, IP, portas/serviços, usos e segurança
+
+    5. Processadores de Texto & Gerenciadores de Apresentações
+
+    -Caracterização, histórico, classificações, recursos e seus usos
+
+    6.Planilhas Eletrônicas de Cálculos
+
+    -Caracterização, histórico, classificações, recursos e seus usos
+
+    -Operação, gráficos, funções, e recursos avançados'
+  course_name: 'EAC0513 - Microinformática I
+
+    Microinformatics I'
+  deactivation: ''
+  instructors: 73235 - Edgard Bruno Cornacchione Junior
+  lecture_credits: '2'
+  objectives: 'O conteúdo a ser discutido visa permitir a utilização de microcomputadores
+    por parte dos alunos considerando os aspectos relacionados não apenas com a informática
+    pura, mas também aplicada à contabilidade.
+
+    O objetivo é que o aluno adquira conhecimentos e habilidades sobre o assunto MICROINFORMÁTICA
+    por meio de discussão de conceitos e oferta de espaço para treino, em laboratório,
+    de questões práticas relativas ao uso de microcomputadores.
+
+    É prevista revisão conceitual profunda, além do desenvolvimento em laboratório
+    das sessões relacionadas com aplicação prática dos conceitos, em especial com
+    apoio de planilhas eletrônicas.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220630071437'
+digest: JJYVO36UPCX7GKIHSGFPYLJRV4YCIPZE
+updated_at: '20220630071437'
+url: https://web.archive.org/web/20220630071437id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0513&codcur=12042&codhab=4
