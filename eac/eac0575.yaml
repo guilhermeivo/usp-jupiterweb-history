@@ -1,0 +1,80 @@
+courses:
+  activation: 01/01/2018
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    Winklevoss, H. E. (1993). Pension Mathematics with Numerical Illustrations. University
+    of
+
+    Pennsylvania Press. 2 ed. pp. 342.
+
+    Anderson, A. W. (1985). Pension Mathematics for Actuaries. Actex Pubns. 1 ed.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    Rodrigues, J. A. (2008). Gestão de Risco Atuarial. Editora Saraiva. 1 ed. pp.
+    464.
+
+    Cordeiro Filho, A. (2014). Cálculo Atuarial Aplicado. Teoria e Aplicações, Exercícios
+    Resolvidos e
+
+    Propostos. Editora Atlas. 2 ed. pp. 296.
+
+    Bowers, N. L. et al. (1997). Actuarial Mathematics. The Society of Actuaries.
+    2 ed. pp. 753.'
+  course: '1. Principais tipos de planos de benefícios: benefício definido, contribuição
+    definida e contribuição
+
+    variável.
+
+    2. Principais regimes de custeio de planos de benefícios: repartição, repartição
+    por capitais de
+
+    cobertura e capitalização.
+
+    3. O cálculo do custo normal e seus principais métodos: crédito unitário tradicional,
+    crédito unitário
+
+    projetado, entrada à idade normal e o método agregado.
+
+    4. Como lidar com os déficits de planos de benefícios: o custo suplementar e os
+    principais métodos
+
+    explícitos e implícitos.
+
+    5. Considerações contábeis sobre o registro dessas obrigações.'
+  course_name: 'EAC0575 - Métodos de Custeio de Planos de Benefícios
+
+    Pension Mathematics'
+  deactivation: ''
+  instructors: 2112537 - Ricardo Pacheco
+  lecture_credits: '4'
+  objectives: 'Esta disciplina visa a desenvolver a matemática atuarial necessária
+    para que se lide
+
+    com o desenho do custeio dos planos de benefícios. Para tanto, aprofunda-se sob
+    o elenco de
+
+    benefícios comumente observados, as elegibilidades requeridas, os cálculos das
+    contribuições a
+
+    serem feitas e a formação das respectivas provisões técnicas.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220630074149'
+digest: YP5Y6BBRXRLLDH4EGC4W4BFUPE2LXQTU
+updated_at: '20220630074149'
+url: https://web.archive.org/web/20220630074149id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0575&codcur=12042&codhab=4
