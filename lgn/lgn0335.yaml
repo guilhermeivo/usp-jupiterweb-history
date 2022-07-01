@@ -1,0 +1,78 @@
+courses:
+  activation: 01/01/2017
+  assessment: Realização de uma prova escrita.
+  bibliography: 'Literatura Básica:
+
+    FREEMAN, S.; HERRON, J.C. (2009) Análise Evolutiva. Porto Alegre: Artmed. 4ª Ed.,
+    848p.
+
+    FUTUYMA, D.J. (2013). Evolution. 3. Ed. Sinauer Associates, Sunderland, Massachussetts.
+
+    FUTUYMA, D.J. (2009). Biologia Evolutiva. Ribeirão Preto: Funpec. 3ª Ed. 832p.
+
+    MEYER, D.; EL-HANI, C.N. (2005). Evolução: O Sentido da Biologia. São Paulo: Editora
+    UNESP.
+
+    RIDLEY, M. (2006). Evolução. Porto Alegre: Artmed. 752p.
+
+    STEARNS, S.C.; HOEKSTRA, R.F. (2003) Evolução: Uma Introdução. Neves, W.A. (trad.).
+    São Paulo: Atheneu.
+
+    Literatura Complementar:
+
+    FRANKHAM, R.; BALLOU, J.D.; BRISCOE, D.A. (2008) Fundamentos de Genética da Conservação.
+    Ribeirão Preto: Sociedade Brasileira de Genética. 2ª Ed. 592p.
+
+    FUTUYMA, D.J. (2002). Evolução, Ciência e Sociedade. Ribeirão Preto: Sociedade
+    Brasileira de Genética. 73p.
+
+    ZIMMER, C. (2004) O livro de ouro da Evolução: O triunfo de uma idéia. Rio de
+    Janeiro: Ediouro.'
+  course: 'História da Teoria Evolutiva: Precursores de Darwin; Darwin e Wallace;
+    a “Origem das Espécies”, e o papel da seleção natural; o “eclipse” do Darwinismo.
+    Evidências da evolução. Teoria sintética de Evolução: a teoria sintética e sua
+    integração com a Genética de Populações, a Citogenética, a Embriologia, a Anatomia
+    Comparada, a Paleontologia e a Ecologia. Genética de populações: Conceito geral
+    de populações; Panmixia; Frequências alélicas, genotípicas e gaméticas em populações
+    alógamas; Obtenção de frequências alélicas e gaméticas a partir de frequências
+    genotípicas. Parâmetros genéticos no estudo de populações. Estrutura genética
+    de populações. Equilíbrio de Hardy-Weinberg; Fatores que alteram o equilíbrio
+    (seleção, mutação e migração). Seleção contra o homozigoto recessivo. Valor adaptativo.
+    Uso do teste do X2 para verificar a existência do equilíbrio do H.W. Mecanismos
+    microevolutivos: Mutação: bases moleculares da mutação na evolução.  Recombinação:
+    controle genético da meiose e da permuta cromossômica. Papel da recombinação na
+    ampliação da variabilidade.  Deriva genética: o efeito do tamanho de população:
+    estocasticidade das frequências gênicas e efeito sobre variabilidade intra e interpopulacional
+    e sobre especiação. Migração: dispersão e fluxo gênico. Hibridação: papel da hibridação
+    na formação de novas espécies e na introgressão entre espécies.  Seleção Natural:
+    seleção natural vs seleção artificial; tipos de seleção: seleção direcional; seleção
+    disruptiva; seleção estabilizadora; seleção dependente de frequência; seleção
+    dependente de densidade; seleção de grupo; seleção sexual. Mecanismos macroevolutivos:
+    Conceitos de espécies; Mecanismos de isolamento reprodutivo. Especiação: Processos
+    de especiação. Genética da conservação: sistemas reprodutivos e sua influência
+    na preservação de diversidade genética (variação alélica); conservação ex situ
+    e in situ; técnicas de amostragem; unidades de conservação. Filogenia, classificação
+    e evolução: Relações ancestrais entre espécies expressas pela filogenia; conceitos
+    de filogenia; classificação fenética, filogenética e evolutiva. Biogeografia:
+    dispersão e vicariância.  Filogeografia.'
+  course_name: 'LGN0335 - Evolução
+
+    Evolution and Population Ecology'
+  deactivation: ''
+  instructors: 60641 - Giancarlo Conde Xavier Oliveira
+  lecture_credits: '4'
+  objectives: A disciplina Evolução concentra-se nos mecanismos básicos de microevolução
+    e macroevolução, e visa dar ao aluno um enfoque funcional das interações existentes
+    entre os organismos em nível de população e a totalidade dos fatores físicos,
+    biológicos e processos evolutivos que afetam esses organismos. Nesta disciplina,
+    nós damos especial atenção à intersecção entre a Evolução e a Genética de Populações
+    e a Genética da Conservação. Nessa perspectiva, estudam-se as interações dos fatores
+    ambientais com a estrutura genética das populações e sua conservação, e como a
+    abundância e distribuição dos genes variam ao longo do tempo.
+  practical_credits: '2'
+  total_workload: 120 h
+  type: Semestral
+created_at: '20220701170759'
+digest: MMKGPPLPKUQ6CQNND46NOKQ43BM2CGR4
+updated_at: '20220701170759'
+url: https://web.archive.org/web/20220701170759id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0335&codcur=11070&codhab=104
