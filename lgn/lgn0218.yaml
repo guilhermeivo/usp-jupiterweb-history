@@ -1,0 +1,97 @@
+courses:
+  activation: 01/01/2022
+  assessment: Será realizada 01 (uma) prova escrita com o conteúdo de todo o semestre
+  bibliography: 'Literatura Básica:
+
+    • Frankham, Richard; Ballou, Jonathan D.; Briscoe David A. (2010) Introduction
+    to Conservation Genetics. Cambridge University Press, 2nd Edition. 644 p.
+
+    • Griffiths, Anthony J. F.; Wessler, Susan R.; Carroll, Sean B.; Doebley, John
+    (2016) Introdução à Genética. Editora Guanabara Koogan, 11ª Edição.
+
+    • Klug, William S.; Cummings, Michael R.; Spencer, Charlotte A.; Palladino, Michael
+    A. (2009) Conceitos de Genética. Editora Artmed, 9ª Edição.
+
+    • Nussbaum Robert L.; McInnes, Roderick R.; Willard, Huntington F. (2016) Genetics
+    in Medicine. Elsevier, 8th Edition.
+
+    • Pierce, Benjamin A. (2016)  Genética: Um Enfoque Conceitual. Editora Guanabara
+    Koogan, 5ª Edição.
+
+    • Snustad, D. Peter; Simmons, Michael J. (2017) Fundamentos de Genética. Editora
+    Guanabara Koogan, 7ª Edição'
+  course: '- Introdução: Importância da Genética para a Biologia, Biomedicina e Ciências
+    Agrárias e Veterinárias. Genética e hereditariedade. Histórico das descobertas
+    de Mendel.
+
+    - 1ª Lei de Mendel. Conceito de fenótipo, genótipo, loco, alelo, homozigose e
+    heterozigose. Conceito clássico de gene. Metodologia de análise genética (Cruzamentos
+    controlados e análise de progênies e famílias). Análise de Heredogramas e Pedigrees.
+    Populações de estudo: Filial 1 (F1), Filial 2 (F2), Retrocruzamentos (BC1 e BC2).
+    Interação alélica (Dominância, Ação Aditiva, Codominância e Sobredominância).
+    Polialelia, alelos de autoincompatibilidade em plantas. Genética e Estatística:
+    aplicação do teste χ2.
+
+    - Segregação independente. 2ª Lei de Mendel. Experimentos e análise de cruzamentos
+    envolvendo dois ou mais locos. Aplicação do teste χ2. Número de genótipos, fenótipos
+    e tipos de gametas com a alelos e n locos. Interações não alélicas (Epistasia).
+    Relação entre genes epistáticos e hipostáticos e as vias de biossíntese.
+
+    - Herança Ligada ao Sexo. Modelos de estudo, sobretudo a Drosophila.
+
+    - Segregação Dependente. Ligação Gênica. Permuta (Crossing over), quiasma, segregação
+    de cromossomos e de gametas parentais e recombinantes. Símbolos usados para representar
+    locos ligados. Cruzamentos
+
+    envolvendo dois locos. Teste dos 3 pontos: dupla permuta, proporções genotípicas
+    e fenotípicas, interferência e coincidência. Mapas de ligação e Mapeamento.
+
+    - Herança Extracromossômica: genoma da mitocôndria e do cloroplasto. Herança Materna
+    e suas implicações em animais e vegetais. Machoesterilidade em plantas e seu uso
+    no Melhoramento Genético.
+
+    - Herança Poligênica. Caracteres controlados por poligenes. Herança Multifatorial.
+
+    - Princípios de Genética Quantitativa. Parâmetros genético-estatísticos: média,
+    variância, amplitude, distribuição normal e histogramas. Decomposição da variância
+    fenotípica em seus componentes genético e ambiental. Herdabilidade no sentido
+    amplo. Calculo do coeficiente de herdabilidade em populações artificiais e naturais.
+    Seleção artificial.
+
+    - Introdução à Genética da Conservação.
+
+    - Endogamia e Consanguinidade. Cálculo do coeficiente de endogamia (F).
+
+    - Introdução à Genética de Populações: cálculo das frequências alélicas e gaméticas
+    a partir de frequências genotípicas. Equilíbrio de HardyWeimberg. Endogamia e
+    Equilíbrio de Wright. Síntese dos fatores evolutivos.
+
+    - Mutação gênica. Conceito e importância. Mecanismos moleculares. Mutações de
+    ponto (Shift mutation). Mutação espontânea e induzida. Agentes mutagênicos. Tipos
+    e obtenção de mutantes. Uso de mutantes espontâneos na Agricultura.'
+  course_name: 'LGN0218 - Genética Geral
+
+    General Genetics'
+  deactivation: ''
+  instructors: 88923 - Maria Lucia Carneiro Vieira
+  lecture_credits: '4'
+  objectives: 'Ministrar conhecimentos de Genética essenciais para o entendimento
+    da Biologia. A abordagem se dará em dois níveis: fundamental e avançado. Primeiramente,
+    pretende-se abordar as Leis da herança, as técnicas experimentais e metodologias
+    de análise de dados, populações de estudo e espécies-modelo. Nessa etapa, o conceito
+    de segregação em progênies experimentais (ou em famílias) será enfatizado. Em
+    seguida, pretende-se ministrar conhecimentos sobre Variação quantitativa, cujo
+    estudo se dá em nível populacional, bem como a tipificação das populações (silvestres
+    e cultivadas) do ponto de vista genético. Esses conhecimentos são fundamentais
+    e devem atender às necessidades dos estudantes de Ciências Biológicas nas áreas
+    principais que constituem o curso da ESALQ/USP, quais sejam, Biotecnologia, Manejo
+    de Vida Silvestre e Biologia Agrícola. O intuito da disciplina é o de prover ao
+    Biólogo formado na ESALQ/USP uma formação especializada em Genética que o distinguirá
+    no mercado de trabalho.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220701175823'
+digest: AGSFWFHXO2KVQLQ532S3R5I27ZFJKZRW
+updated_at: '20220701175823'
+url: https://web.archive.org/web/20220701175823id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0218&codcur=11070&codhab=104
