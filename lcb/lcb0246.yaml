@@ -1,0 +1,60 @@
+courses:
+  activation: 01/01/2017
+  assessment: A recuperação é feita pelos alunos que ficaram  com a nota final abaixo
+    de 5,0 e maior ou igual a 3,0 e que obtiveram frequência maior ou igual a 70%.
+  bibliography: 'ALBERTS, B. Biologia Molecular da Célula Tradução Ana Beatriz Gorini
+    da Veiga et al. 5ª Ed. Porto Alegre, Ed. Artmed, 2010.
+
+    ALBERTS, B. Fundamentos da Biologia Celular. 3ª Ed. Porto Alegre, Ed. Artes Médicas.
+    2011.
+
+    BROWN, T. A. Gene Cloning & DNA Analysis. An introduction. 6th edition. 2010.
+
+    DE ROBERTIS JR. Biologia Celular e Molecular. 14ª Ed. Ed. Guanabara Koogan, 2003.
+
+    GIBAS. C., JAMBECK, P. Desenvolvendo Bioinformática. Ed. Campus, 2001.
+
+    GRIFFITHS, A.J.F., et al. Introdução à Genética. Tradução Paulo Armando Motta.
+    Ed. Guanabara Koogan. 2010.
+
+    LEWIN, B. Genes IX. 9ª Ed. Porto Alegre, Ed. Artes Médicas, 2009.
+
+    LODISH, H. et al. Biologia Celular e Molecular. 5ª Ed. Porto Alegre, Ed.Artmed.
+    Cap. 7, 2005.
+
+    ZAHA, A. et al. Biologia Molecular Básica. 3ª Ed. Porto Alegre, Ed. Mercado Aberto,
+    2003.
+
+    Periódicos Nacionais e internacionais “on line”:
+
+    http://www.scielo.br
+
+    http://www.periodicos.capes.gov.br'
+  course: '1. Histórico da Biologia Molecular e Biotecnologia: Da descoberta dos ácidos
+    nucléicos a análise de genomas de procariotos e eucariotos; 2. Técnicas de Biologia
+    Molecular: Isolamento de ácidos nucléicos; Reação em Cadeia da Polimerase (PCR);
+    Enzimas de restrição, eletroforese; preparo de agarose e poliacrilamida; 3. Biotecnologia
+    Aplicada: Obtenção de vetores de clonagem e vetores de expressão; isolamento e
+    clonagem de genes, mapas de restrição, obtenção de plantas transgênicas; 3. ÔMICAS
+    (genômica, transcritômica, proteômica): Métodos de sequenciamento de DNA, construção
+    de bibliotecas genômica e de expressão, análises de genômica comparativa, metabolômica;
+    4. Bioinformática: Ferramentas básicas de bioinformática, banco de dados, BLAST,
+    alinhamento e filogenia.'
+  course_name: 'LCB0246 - Biologia Molecular e Biotecnologia
+
+    Molecular Biology and Biotechnology'
+  deactivation: ''
+  instructors: '227584 - Daniel Scherer de Moura
+
+    52242 - Helaine Carrer'
+  lecture_credits: '4'
+  objectives: A disciplina tem como objetivo geral permitir aos alunos terem os conhecimentos
+    básicos fundamentais de técnicas de biologia molecular e genômica envolvidos em
+    processos biotecnológicos e moleculares nas diversas áreas das Ciências Biológicas.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220701173503'
+digest: 6WQDJQCOTEHCIEMETDKY5HRBSLO2P4YF
+updated_at: '20220701173503'
+url: https://web.archive.org/web/20220701173503id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0246&codcur=11070&codhab=104
