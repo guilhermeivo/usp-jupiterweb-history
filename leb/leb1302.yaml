@@ -1,0 +1,40 @@
+courses:
+  activation: 01/01/2022
+  assessment: Uma prova escrita sobre toda a matéria do semestre, a ser realizada
+    em fevereiro, antes do início das aulas do 1o semestre subsequente.
+  bibliography: 'Literatura Básica:
+
+    Arquivos de aula: Disponível em: http://www.leb.esalq.usp.br/aulas/lce1302/lce1302.html
+
+    GARCIA, E.A.C. Biofísica. Sarvier, 2002. 387p.
+
+    MOURÃO JÚNIOR, C.A.; ABRANOV, D.M.  Curso de Biofísica. Guanabara Koogan, Rio
+    de Janeiro, 2008.
+
+    OKUNO, E.; I.L. CALDAS & C.CHOW. Física para Ciências Biológicas e Biomédicas.
+    HARPER & ROW do Brasil, São Paulo,  1982. 490 pp.
+
+    SERWAY, R.A. & JEWETT Jr., J.W.  Princípios de Física, volumes 1 e 2. Thomson,
+    São Paulo, 2004.
+
+    SERWAY, R.A. & JEWETT Jr., J.W. Física para Cientistas e Engenheiros – v. 2 –
+    Oscilações, Ondas e Termodinâmica. Cengage Learning, 2011.'
+  course: '1. Revisão: padrões de comprimento, força, massa e tempo, análise dimensional
+    e conversão de unidades; 2) Características dos Sistemas na Natureza e Leis da
+    Termodinâmica; 3) Ondas e Condução de Calor (Condução e Radiação); 4. Umidade
+    Relativa do Ar; 5. Hidrodinâmica e 6. Física do Solo (Umidade do Solo).'
+  course_name: 'LEB1302 - Física para Biologia
+
+    Physics for Biology'
+  deactivation: ''
+  instructors: 2149858 - Jarbas Honorio de Miranda
+  lecture_credits: '4'
+  objectives: Proporcionar ao aluno conhecimentos em algumas sub-áreas da física que
+    lhe servirão como base de conhecimento em outras disciplinas e na sua vida profissional.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220701171931'
+digest: DKMHUJHGJFD6HUDN42RVFIXPQOLG57MT
+updated_at: '20220701171931'
+url: https://web.archive.org/web/20220701171931id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB1302&codcur=11070&codhab=104
