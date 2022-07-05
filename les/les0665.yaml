@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2016
+  activation: 01/01/2022
   assessment: Uma única prova, com toda a matéria lecionada.
   bibliography: 'Literatura Básica:
 
@@ -69,9 +69,7 @@ courses:
 
     Accounting and Financial Analysis'
   deactivation: ''
-  instructors: '8498852 - Alex da Silva Alves
-
-    2231590 - Elisson Augusto Pires de Andrade
+  instructors: '2231590 - Elisson Augusto Pires de Andrade
 
     3425009 - Lucilio Rogerio Aparecido Alves'
   lecture_credits: '4'
@@ -79,10 +77,10 @@ courses:
 
     b) Entender métodos de análise e interpretação das Demonstrações Financeiras,
     com aplicações práticas em empresas de capital aberto.'
-  practical_credits: '0'
-  total_workload: 60 h
+  practical_credits: '1'
+  total_workload: 90 h
   type: Semestral
-created_at: '20210612210720'
-digest: IKCYVKTCKJ4HCIYGK2SMAUU3ATYT4H4E
-updated_at: '20210612210720'
-url: https://web.archive.org/web/20210612210720id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0665&verdis=6
+created_at: '20220705185706'
+digest: 5RHYRSHWKR7ZSCIAGCXMUF3U5N3CHSXY
+updated_at: '20220705185706'
+url: https://web.archive.org/web/20220705185706id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0665&codcur=11090&codhab=1
