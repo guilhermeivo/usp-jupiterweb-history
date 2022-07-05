@@ -1,0 +1,31 @@
+courses:
+  activation: 01/01/2014
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: FIGUEIREDO, A.C. Introdução aos derivativos. Cengage, 2013.
+  course: "\x95\tTipos de Mercados de Derivativos\n\x95\tParticipantes do Mercado\
+    \ de Derivativos\n\x95\tMercado a Termo\n\x95\tFinanciamento e Arbitragem a Termo\n\
+    \x95\tMercado Futuro\n\x95\tFuturo de Juros: estrutura temporal de taxas de juros\n\
+    \x95\tRelações de equilíbrio de câmbio e Relação de Fisher\n\x95\tSwaps\n\x95\t\
+    Mercado de Opções"
+  course_name: 'EAD0737 - Tópicos Avançados de Finanças
+
+    Advanced Topics in Finance'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: O objetivo do curso é oferecer conhecimentos ao participante para gestão
+    de operações com instituições financeiras ou empresas de médio ou grande porte,
+    que necessitem de mecanismos de proteção contra riscos financeiros de mercado,
+    ou seja, hedge. Empresas que realizam operações de comércio exterior possuem riscos
+    cambiais que precisam ser neutralizados. O intuito do curso é fornecer conhecimento
+    dos contratos derivativos, como swap, termo, futuro e opção, e de técnicas de
+    hedge contra riscos financeiros, como o risco cambial, de taxas de juros e de
+    inflação. O participante aprenderá ferramentas para tomadas de decisão de hedge,
+    técnicas de negociação com bancos e noções de especulação no mercado de derivativos.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705181554'
+digest: WZSXCWEXBXYE37RCQ5ZZKHDMIUKL4PXC
+updated_at: '20220705181554'
+url: https://web.archive.org/web/20220705181554id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0737&codcur=12012&codhab=1
