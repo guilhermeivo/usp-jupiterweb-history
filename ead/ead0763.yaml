@@ -1,0 +1,65 @@
+courses:
+  activation: 01/01/2014
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: "-\tBrown, S.; Lamming, R.; Bessant, J.; Jones, P. Strategic operations\
+    \ management. 2nd. Ed. Amsterdam: Elsevier, 2005.\n-\tChase, R.B.; Jacobs, F.R.;\
+    \ Aquilano, N.J. Operations management for competitive advantage. 11th. Ed. New\
+    \ York: McGraw-Hill, 2006.\n-\tCorrea, H.L.; Correa, C.A. Administração de produção\
+    \ e de operações. São Paulo: Atlas, 2006.\n-\tFitzsimmons, J.A.; Fitzsimmons,\
+    \ M. Administração de serviços: operações, estratégia, tecnologia de informação.\
+    \ 6ª. Ed. Porto Alegre: Bookman, 2011.\n-\tHayes, R.; Pisano, G.; Upton, D.; Wheelwright,\
+    \ S. Operations, strategy and technology: pursuing the competitive edge. River\
+    \ Street: John Wiley & Sons, 2005.\n-\tJohnston, R.; Clark, G. Administração de\
+    \ operações de serviço. São Paulo: Atlas, 2002.\n-\tKim, W.C.; Mauborgne, R. A\
+    \ estratégia do oceano azul: como criar novos mercados e tornar a concorrência\
+    \ irrelevante. Rio de Janeiro: Elsevier, 2005.\n-\tSlack, N.; Chambers, S.; Johnston,\
+    \ R.; Betts, A. Gerenciamento de operações e de processos: princípios e prática\
+    \ de impacto estratégico. Porto Alegre: Bookman, 2008.\n-\tSlack, N.; Lewis, M.\
+    \ Estratégia de operações. 2ª. Ed. Porto Alegre: Bookman, 2009."
+  course: '- Estratégia de operações: conteúdo, processo e contexto.
+
+    - Trade-offs e foco em operações.
+
+    - Estratégia de gestão da capacidade.
+
+    - Estratégia da rede de operações: decisões de integração vertical e alianças
+    estratégicas.
+
+    - Estratégia de tecnologia de processos.
+
+    - Desenvolvimento de novos produtos e serviços.
+
+    - Formulação da estratégia de operações: modelos de Slack & Lewis, Hill, Hayes
+    & Wheelright e Platts & Gregory
+
+    - Integração da estratégia de operações com o planejamento estratégico e demais
+    estratégias funcionais: estratégia de marketing e planejamento financeiro/orçamentário.'
+  course_name: 'EAD0763 - Estratégia de Operações
+
+    Strategy in Operations'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: 'Esta disciplina objetiva estudar a formulação da estratégia de operações
+    de uma organização. Especificamente os objetivos da disciplina são:
+
+    - Apresentar os conceitos básicos, os principais elementos e técnicas associados
+    á formulação da estratégia de operações.
+
+    - Discutir a aplicação prática destes conceitos e técnicas em diferentes tipos
+    de organizações (intensivas em produtos, serviços e conhecimento; com e sem fins
+    lucrativos).
+
+    - Proporcionar aos participantes uma melhor compreensão sobre a contribuição estratégica
+    das operações para o desempenho das organizações.
+
+    - Discutir o inter-relacionamento da estratégia de operações com outras decisões
+    de natureza estratégica, tais como: estratégia corporativa, estratégia competitiva,
+    estratégia de marketing, políticas de gestão de pessoas e planejamento financeiro/orçamentário.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705130258'
+digest: FB63ZG6TJEFVSW45OTD47PMVEL72SJ4W
+updated_at: '20220705130258'
+url: https://web.archive.org/web/20220705130258id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0763&codcur=12012&codhab=1
