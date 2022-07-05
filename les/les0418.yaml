@@ -44,12 +44,12 @@ courses:
   total_workload: 60 h
   type: Semestral
 created_at: '20210723182921'
-digest: NQEJLPZE4CHGDCHYJTFR7XAIX7KKUS4W
+digest: PZ2P6K2U24BGOAZTDCCPOOX2UN4OO7PV
 requirements:
 - course: 'Curso: 11090  Bacharelado em Administração (diurno) - Período ideal: 6'
   requirements:
   - code: LES0318
     name: Marketing II
     type: Requisito
-updated_at: '20210723182921'
-url: https://web.archive.org/web/20210723182921id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LES0418
+updated_at: '20220705194500'
+url: https://web.archive.org/web/20220705194500id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0418&codcur=11090&codhab=1
