@@ -1,0 +1,32 @@
+courses:
+  activation: 01/01/2005
+  assessment: Alunos com média de  3,0 a 4,9  e frequência igual ou superior a 70%
+    farão a prova de reavaliação
+  bibliography: '1. Gaither e Frazier, Administração da Produção e Operações, 8ª Edição,
+    Pioneira, 2001
+
+    2. Slack, Chambers e Johnston, Administração da Produção, 2ª Edição, Atlas, 2002
+
+    3. Clark e Wheelwright, managing New Product and Process Development, Harvard
+    Business School, 1993'
+  course: "O programa do curso encontra-se na tabela a seguir, na qual são apresentados\
+    \ os tópicos e a estimativa do tempo necessário para apresentá-los.\nTÓPICO\t\
+    AULAS\n1. Introdução ao desenvolvimento de produtos\n2. Estratégia de desenvolvimento\
+    \ de produtos: estrutura conceitual, estratégias funcionais, planejamento agregado.\n\
+    3. Organizando e liderando projeto de desenvolvimento de produtos: estrutura organizacional,\
+    \ integração funcional, liderança em projetos.\n4. Processo e metodologias de\
+    \ desenvolvimento: ciclos de desenvolvimento, protótipo e testes, QFD, DFM."
+  course_name: 'EAD0761 - Projeto de Produto e de Processo de Produção
+
+    Product and Production Process Project'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: O curso tem como objetivo elaborar um projeto de desenvolvimento de
+    produto e processo de produção.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705175144'
+digest: 5C3LEFYB2JAFVSVVA2VUIB5UZ6HPKVBI
+updated_at: '20220705175144'
+url: https://web.archive.org/web/20220705175144id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0761&codcur=12012&codhab=1
