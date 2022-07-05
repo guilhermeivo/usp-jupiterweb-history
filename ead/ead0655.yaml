@@ -1,0 +1,35 @@
+courses:
+  activation: 01/01/2017
+  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
+    será submetido a uma reavaliação final, a título de recuperação.
+  bibliography: 'Fonseca, Jairo S. & Toledo, Geraldo L. & Martins, Gilberto A. - Estatística
+    Aplicada - Editora Atlas S.A. - 1982.
+
+    Stevenson, J.. William - Estatística Aplicada à Administração - Harbra - 1981.
+
+    Berenson, M. L. - Basic Business Statisitics: concepts and applications, Prentice
+    Hall, 1996
+
+    Hair Jr. et alli - Multivariate Data Analysis with Readings, Prentice Hall, 1995'
+  course: '· Análise de correlação
+
+    · Análise de regressão simples
+
+    · Análise de regressão múltipla
+
+    · Outras técnicas'
+  course_name: 'EAD0655 - Métodos Estatísticos de Projeção
+
+    Statistical Methods of Projection'
+  deactivation: ''
+  instructors: 606684 - Cesar Alexandre de Souza
+  lecture_credits: '2'
+  objectives: Introduzir as noções básicas de técnicas estatísticas de projeção e
+    suas aplicações em administração.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705115602'
+digest: SUSUA7K7N5XPVRLGH3VX3JFLQ23YXH2O
+updated_at: '20220705115602'
+url: https://web.archive.org/web/20220705115602id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0655&codcur=12012&codhab=1
