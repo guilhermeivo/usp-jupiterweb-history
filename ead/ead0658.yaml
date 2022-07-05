@@ -1,0 +1,34 @@
+courses:
+  activation: 01/01/2017
+  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
+    será submetido a uma reavaliação final, a título de recuperação.
+  bibliography: 'Oz, Effy - Management Information System. Course Technology, 1998
+
+    Laudon, K. C. & Laudon, J. P. - Management Information Systems, Prentice Hall,
+    2000'
+  course: '· Uso estratégico de sistemas de informação
+
+    · Administração de dados
+
+    · Necessidades de informação
+
+    · Sistemas de apoio à decisão
+
+    · Planejamento de sistemas de informação
+
+    · Metodologia de desenvolvimento de sistemas de informação'
+  course_name: 'EAD0658 - Desenvolvimento de Sistemas de Informação
+
+    Information Systems Development'
+  deactivation: ''
+  instructors: 86344 - Antonio Geraldo da Rocha Vidal
+  lecture_credits: '2'
+  objectives: Transmitir conhecimentos básicos sobre os processo de desenvolvimento
+    de sistemas de informação.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705180652'
+digest: GAIC7PLWK5SUA7SVZGQDBZWAWSQGTA4I
+updated_at: '20220705180652'
+url: https://web.archive.org/web/20220705180652id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0658&codcur=12012&codhab=1
