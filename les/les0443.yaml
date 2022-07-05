@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2013
+  activation: 01/01/2022
   assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
     será submetido a uma reavaliação final, a título de recuperação
   bibliography: '1) ALBUQUERQUE, Lindolfo, FRANÇA, Ana Cristina Limongi (1998), Estratégias
@@ -37,10 +37,10 @@ courses:
     \ instâncias organizacionais\n\x95 Familiarizar-se com processo de formulação\
     \ de Políticas de Gestão de Pessoas, identificando seus elementos componentes\
     \ para implementação e avaliação"
-  practical_credits: '0'
-  total_workload: 60 h
+  practical_credits: '1'
+  total_workload: 90 h
   type: Semestral
-created_at: '20200919164852'
-digest: JDY4YNA2O57B3KJZDFLFA2OL4MYQ43AR
-updated_at: '20210612201526'
-url: https://web.archive.org/web/20210612201526id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0443&verdis=1
+created_at: '20220705230205'
+digest: 2FHYCY7JFEIMHCRYM5N4T3RPFEM6NTLY
+updated_at: '20220705230205'
+url: https://web.archive.org/web/20220705230205id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0443&codcur=11090&codhab=1
