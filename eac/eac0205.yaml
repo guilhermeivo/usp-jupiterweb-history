@@ -1,0 +1,91 @@
+courses:
+  activation: 15/07/2018
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'ATKINSON, Anthony A.; MATSUMURA, Ella Mae D.; KAPLAN, Robert S.;
+    YOUNG, S. Mark. Contabilidade gerencial. 4. ed. São Paulo: Atlas, 2015.
+
+    BERTÓ, Dalvio José; BEULKE, Rolando. Gestão de custos. 5. ed. São Paulo: Saraiva,
+    2012.
+
+    BORNIA, Antonio Cezar. Análise gerencial de custos: aplicação em empresas modernas.
+    3. ed. São Paulo: Atlas, 2010.
+
+    GARRISON, Ray H.; NOREEN, Eric. W.; BREWER, Peter C. Contabilidade gerencial.
+    14. ed. Porto Alegre: AMGH, 2013.
+
+    GUERREIRO, Reinaldo. Estruturação de sistemas de custos para a gestão da rentabilidade.
+    São Paulo: Atlas, 2011.
+
+    HANSEN, Don R.; MOWEN, Maryanne M. Gestão de custos: contabilidade e controle.
+    São Paulo: Thomson Pioneira, 2001.
+
+    HORNGREN, Charles T.; DATAR, Srikant M.; FOSTER, George. Contabilidade de custos.
+    11 ed. São Paulo: Prentice Hall, 2004.
+
+    LEONE, George Sebastião Guerra; LEONE, Rodrigo José Guerra. Curso de contabilidade
+    de custos. 4. ed. São Paulo: Atlas, 2010.
+
+    MAHER, Michael. Contabilidade de custos: criando valor para a administração. São
+    Paulo: Atlas, 2001.
+
+    MARTINS, Eliseu. Contabilidade de custos (texto). 10 ed. São Paulo: Atlas, 2010.
+
+    MARTINS, Eliseu; ROCHA, Welington. Contabilidade de custos: Livro de Exercícios.
+    11 ed. São Paulo: Atlas, 2015.
+
+    MARTINS, Eliseu; ROCHA, Welington. Métodos de custeio comparados: custos e margens
+    analisados sob diferentes perspectivas. 2 ed. São Paulo: Atlas, 2015.'
+  course: '1. Terminologia aplicada à custos: investimentos, despesas, custos, perdas,
+    gastos e desembolsos.
+
+    2. Classificação de custos e despesas quanto à sua relação com os produtos: custos
+    e despesas diretos e indiretos
+
+    3. Classificação de custos e despesas quanto à sua relação com o volume de produção
+    e com a receita: custos e despesas fixos e variáveis
+
+    4. Custeio por Absorção Parcial
+
+    5. Custeio Pleno (Custeio Integral)
+
+    6. Custeio Variável
+
+    7. Margem de Contribuição
+
+    8. Relações Custo-Volume-Lucro
+
+    9. Custeio Baseado em Atividades (ABC) e Gestão Baseada em Atividades (ABM)
+
+    10. Custo Padrão
+
+    11. Formação de Preço de Venda'
+  course_name: 'EAC0205 - Custos para Decisão e Controle
+
+    Cost for Decision and Control'
+  deactivation: ''
+  instructors: '3767752 - Andson Braga de Aguiar
+
+    3770882 - Marcio Luiz Borinelli
+
+    64919 - Reinaldo Guerreiro
+
+    1818911 - Valmor Slomski
+
+    85051 - Welington Rocha'
+  lecture_credits: '4'
+  objectives: Desenvolver as competências dos participantes para o entendimento dos
+    principais conceitos relacionados à mensuração e geração de informações de custos
+    para fins de planejamento, controle e tomada de decisão nas organizações.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220705180716'
+digest: VZ5GFGKHG4G3OXFCNH7KPFPBVGOVG5FG
+updated_at: '20220705180716'
+url: https://web.archive.org/web/20220705180716id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0205&codcur=12012&codhab=1
