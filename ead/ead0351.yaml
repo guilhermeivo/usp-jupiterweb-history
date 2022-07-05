@@ -1,0 +1,30 @@
+courses:
+  activation: 01/01/2017
+  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
+    será submetido a uma reavaliação final, a título de recuperação.
+  bibliography: 'Hair Jr. et alli - Análise Multivariada de Dados (quinta edição)
+    - Bookman - 2005.
+
+    Stevenson, W. J. - Estatística Aplicada à Administração - Harbra - 1981.
+
+    Berenson, M. L. - Basic Business Statistics: concepts and applications - Prentice
+    Hall - 1996.'
+  course: "\x95 Análise estatística classificatória\n\x95 Testes não paramétricos\n\
+    \x95 Análise de conglomerados\n\x95 Análise fatorial"
+  course_name: 'EAD0351 - Técnicas Estatísticas de Agrupamento
+
+    Statistical Techniques of Clustering'
+  deactivation: ''
+  instructors: 93933 - Maria Aparecida Gouvea
+  lecture_credits: '2'
+  objectives: 'Introduzir as noções básicas de técnicas estatísticas de análise de
+    conglomerados e fatorial para agrupamento de dados e suas aplicações em Administração.
+
+    .'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705175253'
+digest: WYWTT6JJH7S2NL3BL5WKQANMVFWJWTCI
+updated_at: '20220705175253'
+url: https://web.archive.org/web/20220705175253id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0351&codcur=12012&codhab=1
