@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2014
+  activation: 01/01/2022
   assessment: Uma única prova constando toda a matéria lecionada
   bibliography: "FILELLINI, A  Economia do Setor Público. Editora Atlas S.A, São Paulo,\
     \ 1994. GIAMBIAGI, F. & A C. ALÉM. Finanças Públicas \x96 Teoria e Prática no\
@@ -7,19 +7,23 @@ courses:
     \ do Setor Público. Editora Atlas S.A, São Paulo, 1993 (nova edição em breve,\
     \ porém sem previsão). REZENDE, F. Finanças Públicas. Editora Atlas S.A, São Paulo,\
     \ 2001."
-  course: "1.1.\tFalhas de mercado;  Bens públicos; Monopólio natural; Bens de propriedade\
-    \ comum; Regulamentação de falhas de mercado. 1.2.  Objetivos da política fiscal\
-    \ e as funções do governo;  Função Alocativa; Função Redistributiva; Função Estabilizadora;\
-    \ Inter-relações entre as funções fiscais. 1.3. Orçamento Público. 1.4. Princípios\
-    \ de Tributação. 1.5. Instrumentos de Estabilização. 1.6. Processo Político. 1.7.\
-    \ A Questão Distributiva. 1.8. Poluição e Informação. 2.Conceitos básicos relavantes\
-    \ aplicados ao caso do Brasil."
+  course: '1. Tópicos essenciais de Economia do Setor Público
+
+    1.1. Falhas de mercado; Bens públicos; Monopólio natural; Bens de propriedade
+    comum; Regulamentação de falhas de mercado. 1.2. Objetivos da política fiscal
+    e as funções do governo; Função Alocativa; Função Redistributiva; Função Estabilizadora;
+    Inter-relações entre as funções fiscais. 1.3. Orçamento Público. 1.4. Princípios
+    de Tributação. 1.5. Instrumentos de Estabilização. 1.6. Processo Político. 1.7.
+    A Questão Distributiva. 1.8. Poluição e Informação.
+
+    2.Análise Aplicada de um processo de definição de Orçamento Público: Estudo de
+    Caso em Prefeitura Municipal. (para os Créditos Trabalho).'
   course_name: 'LES0559 - Economia do Setor Público
 
     Public Sector Economics'
   deactivation: ''
   instructors: 2084377 - Heloisa Lee Burnquist
-  lecture_credits: '4'
+  lecture_credits: '3'
   objectives: O objetivo do curso é apresentar ao aluno os fundamentos teóricos das
     ações do governo no campo das finanças públicas, bem como introduzi-lo a uma análise
     crítica da evolução das iniciativas governamentais no contexto histórico e geográfico
@@ -31,10 +35,10 @@ courses:
     examinadas questões teóricas e empíricas ao provisionamento e à alocação de bens
     e serviços públicos, além de aspectos positivos e normativos da taxação e federalismo
     fiscal.
-  practical_credits: '0'
-  total_workload: 60 h
+  practical_credits: '1'
+  total_workload: 75 h
   type: Semestral
-created_at: '20200919161155'
-digest: KSFV2NXQTNQXFAYSDD6JZDXJQGAEZQA4
-updated_at: '20210612203231'
-url: https://web.archive.org/web/20210612203231id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0559&verdis=2
+created_at: '20220705184018'
+digest: X2QKL24JRNTB2BANOGHQ65BSYBE3EAA4
+updated_at: '20220705184018'
+url: https://web.archive.org/web/20220705184018id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0559&codcur=11090&codhab=1
