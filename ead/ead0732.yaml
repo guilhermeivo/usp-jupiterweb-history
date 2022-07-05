@@ -1,0 +1,44 @@
+courses:
+  activation: 01/01/2014
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'BERK, J.; DEMARZO, P. E HARFORD, J. Fundamentos de finanças empresarial.
+    Editora Bookman 2010
+
+    BERK, J.; DEMARZO. Finanças empresarial essencial. Editora Bookman 2010
+
+    ROSS, STEPHEN A. ET AL. Administração financeira. Editora Atlas, 8ª EDIÇÃO 2008;
+
+    GITMAN, L. Princícios de administração financeira. Pearson Addison Wesley
+
+    ASSAF NETO, ALEXANDRE. Finanças corporativas e valor. Editora Atlas 4ª EDIÇÃO
+    2009 ATLAS;
+
+    DAMODARAN, ASWATH. Finanças corporativas: teoria e prática. 2ED, Porto Alegre.
+    Bookman, 2004.'
+  course: "\x95\tFundamentos de Finanças\no\tFunção Financeira da Empresa\no\tInserção\
+    \ da Empresa no Mercado Financeiro\no\tAgentes Reguladores, Fiscalizadores do\
+    \ Mercado Financeiro\no\tFinanças Corporativas: objetivo, separação propriedade\
+    \ x controle\no\tIntrodução à Teoria da Agência: Stakeholders, Governança Corporativa\n\
+    o\tIntrodução Risco x Retorno: características dos indivíduos com relação ao risco\n\
+    \x95\tOrganização das Empresas\no\tEmpresas Individuais\no\tSociedades de responsabilidade\
+    \ Limitada\no\tSociedades Anônimas\n\x95\tIndicadores para tomada de decisão:\
+    \ VPL, TIR\no\tPremissa de Reinvestimento;\no\tTIR e as decisões de Investimento\
+    \ considerando as diferenças na distribuição do fluxo de caixa ao longo do tempo;\n\
+    o\tMúltiplas TIRs, TIR Modificada\no\tProjetos excludentes, restrição de capital,\
+    \ projetos com vidas desiguais\n\x95\tProjeção de Fluxo de Caixa\n\x95\tAnálise\
+    \ de Risco: análise de sensibilidade de construção de cenários"
+  course_name: 'EAD0732 - Finanças Corporativas
+
+    Corporate Finance'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: Apresentar os fundamentos sobre as formas de organização das empresas,
+    os fundamentos das Finanças Corporativas e Decisões de Investimento.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705175827'
+digest: BHD6N7TMRRFB4ALVYJ6GKWB5IVY2JE2C
+updated_at: '20220705175827'
+url: https://web.archive.org/web/20220705175827id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0732&codcur=12012&codhab=1
