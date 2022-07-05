@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2014
+  activation: 01/01/2022
   assessment: Estará apto a efetuar a prova de reavaliação o aluno que tiver como
     média final na disciplina uma nota igual ou superior a três (3,0) e inferior a
     cinco (5,0), e tiver, no mínimo, 70% (setenta por cento) de freqüência às aulas.
@@ -44,16 +44,16 @@ courses:
 
     Organization Behavior'
   deactivation: ''
-  instructors: 93929 - Alex Coltro
+  instructors: 5748111 - Heliani Berlato dos Santos
   lecture_credits: '2'
   objectives: Desenvolver nos alunos a sensibilidade para compreender as relações
     que se estabelecem no interior das organizações entre indivíduos e grupos/organização
     e conhecer os fatores determinantes do como as referidas relações acontecem na
     dinâmica organizacional
-  practical_credits: '0'
-  total_workload: 30 h
+  practical_credits: '1'
+  total_workload: 60 h
   type: Semestral
-created_at: '20210612204937'
-digest: QP3MHPFJ4X6YHJJEBDUXL6WOF3JE7SIJ
-updated_at: '20210612204937'
-url: https://web.archive.org/web/20210612204937id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0227&verdis=2
+created_at: '20220705213626'
+digest: ZHRCNUAOUKOP4YRLNDV3OGNCZSSFHUF5
+updated_at: '20220705213626'
+url: https://web.archive.org/web/20220705213626id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0227&codcur=11090&codhab=1
