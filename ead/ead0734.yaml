@@ -1,0 +1,39 @@
+courses:
+  activation: 01/01/2017
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: "ASSAF NETO, Alexandre. Mercado financeiro. São Paulo: Editora Atlas,\
+    \ 2012.\nSECURATO, J.R. Mercado Financeiro \x96 Conceitos, Cálculo e Análise de\
+    \ Investimento. Editora Saint Paul, 2009.\nPINHEIRO, Juliano Lima. Mercado de\
+    \ Capitais. São Paulo: Editora Atlas, 2012.\nBRITO, Osias. Mercado financeiro.\
+    \ São Paulo: Editora Saraiva, 2005."
+  course: "\x95\tIntermediação financeira\no\tConceito\no\tHistórico e desenvolvimento\
+    \ dos mercados financeiros\no\tCrises financeiras\n\x95\tSistema Financeiro Nacional\n\
+    o\tAgentes e funções\no\tRegulação bancária (órgãos reguladores)\n\x95\tMercado\
+    \ Monetário\no\tTítulos públicos\no\tFunção do Banco Central, COPOM\no\tSelic,\
+    \ CETIP\no\tTaxas de juros\no\tCaracterísticas e precificação dos principais títulos\n\
+    \x95\tMercado de Crédito\no\tPrincipais produtos de curto e longo prazo, características\n\
+    \x95\tMercado Cambial\no\tFunção, participantes, regimes cambiais\no\tMercado\
+    \ Interbancário de Câmbio\no\tCâmbio comercial\no\tProdutos de financiamento de\
+    \ câmbio\n\x95\tMercado de capitais\no\tFunção, agentes, participantes, produtos\n\
+    o\tMercado público\no\tMercado privado\no\tProdutos: Ações, IPO\no\tProdutos:\
+    \ Debêntures, notas promissórias\no\tOperações estruturadas e securitização\n\
+    o\tMercado de capitais internacional\no\tCódigo de Ética do CFA (módulo a distância)"
+  course_name: 'EAD0734 - Mercados Financeiros
+
+    Financial Markets'
+  deactivation: ''
+  instructors: 870996 - Liliam Sanchez Carrete
+  lecture_credits: '2'
+  objectives: Apresentar a função dos mercados que compõem o mercado financeiro, o
+    seu desenvolvimento histórico e o desenvolvimento dos produtos financeiros, suas
+    características e como atendem as necessidades dos tomadores e os aplicadores
+    de recursos com relação a prazos, risco, custos, agentes envolvidos, complexidade
+    contratual.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705174402'
+digest: WIQMUFNSMY5VZVEGNLSBRNUC2CK3AMTQ
+updated_at: '20220705174402'
+url: https://web.archive.org/web/20220705174402id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0734&codcur=12012&codhab=1
