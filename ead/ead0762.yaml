@@ -1,0 +1,38 @@
+courses:
+  activation: 01/01/2014
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: "1.\tSCJ - Slack, N., Chambers, S. e Johnston, R. Administração da\
+    \ Produção. 2ª edição. São Paulo: Atlas, 2002.\n2.\tS&L - SLACK, N. e LEWIS, M.\
+    \ Estrategia de Operações. 2ª edição. Bookman. Porto Alegre. 2009.\n3.\tC&C CORRÊA,\
+    \ H. L.; CORRÊA, C. Administração da produção e operações, Atlas, 2005.\n4.\t\
+    GAITHER, N. e FRAZIER, G. Administração da Produção e Operações. São Paulo: Thomson\
+    \ Learning, 2001. - G&F\n5.\tHayes, R., Pisano, G., Upton, D. e Wheelwright, S.\
+    \ Produção, estratégia e tecnologia. Porto Alegre: Bookman. 2008. - HPUW\n6.\t\
+    Slack, N.; Chambers, S.; Johnston, R. e Betts. Gerenciamento de operações e processos:\
+    \ princípios e práticas de impacto estratégico. Porto Alegre:Bookman, 2008. -\
+    \ SCJB"
+  course: "\x95 A visão sistêmica das operações: agregação de valor e objetivos de\
+    \ desempenho\n. Produtividade: causas, medidas físicas e monetárias e curva de\
+    \ aprendizagem\n. Os processos produtivos: arranjo físico; tecnologia de processo;\
+    \ projeto e organização do trabalho\n\x95 Modelos de Gestão da Qualidade: conceitos,\
+    \ implicações, indicadores e ferramentas\n. Sistemas Integrados de Gestão: ISO\
+    \ 9000, ISO 14000, SA 8000\n. Controle Estatístico do Processo\n. Qualidade total\n\
+    . Melhoria contínua\n. Modelo Enxuto de Produção\n. Seis sigma"
+  course_name: 'EAD0762 - Fundamentos de Excelência em Operações
+
+    Fundamentals of Excellence in Operations'
+  deactivation: ''
+  lecture_credits: '4'
+  objectives: A gestão de operações cuida dos processos operacionais. Tais processos
+    estão na base da atuação do gestor de qualquer unidade organizacional. A disciplina
+    visa apresentar ao aluno o sistema de produção e operações e modelos, conceitos
+    e técnicas de gestão voltados à excelência e melhoria contínua nos processos de
+    produção de bens e prestação de serviços.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220705180030'
+digest: Y22LPYP4E7ZKSE3BXTOVLW5U6AQLLSKP
+updated_at: '20220705180030'
+url: https://web.archive.org/web/20220705180030id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0762&codcur=12012&codhab=1
