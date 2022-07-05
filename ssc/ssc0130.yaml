@@ -56,7 +56,7 @@ courses:
   total_workload: 90 h
   type: Semestral
 created_at: '20220320155114'
-digest: MSJSJY4TJJ72W5EXCWAIOOLVBPKZDG6Q
+digest: GMJH2VWCBLG2LHJEHUILJUH2UAYDEFXV
 requirements:
 - course: 'Curso: 55041  Bacharelado em Ciências de Computação (integral) - Período
     ideal: 5'
@@ -64,5 +64,5 @@ requirements:
   - code: SSC0124
     name: Análise e Projeto Orientados a Objetos
     type: Requisito fraco
-updated_at: '20220320155114'
-url: https://web.archive.org/web/20220320155114id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0130&codcur=55041&codhab=0
+updated_at: '20220705145808'
+url: https://web.archive.org/web/20220705145808id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0130&codcur=55041&codhab=0
