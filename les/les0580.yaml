@@ -45,7 +45,7 @@ courses:
   total_workload: 60 h
   type: Semestral
 created_at: '20210723185329'
-digest: QZXOTGLD53HRVRLZ6TT4Z3JZIKTPTO4O
+digest: 4EHDDQGQAWDN5ZUWJPP5SRVGHAO4MZ2K
 requirements:
 - course: 'Curso: 11050  Ciências Econômicas (diurno) - Período ideal: 4'
   requirements:
@@ -57,5 +57,5 @@ requirements:
   - code: LES0456
     name: Teoria Microeconômica I
     type: Requisito
-updated_at: '20210723185329'
-url: https://web.archive.org/web/20210723185329id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LES0580
+updated_at: '20220705183943'
+url: https://web.archive.org/web/20220705183943id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0580&codcur=11090&codhab=1
