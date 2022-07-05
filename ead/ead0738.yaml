@@ -1,0 +1,65 @@
+courses:
+  activation: 01/01/2014
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: "ANTHONY, R.N.; GOVINDARAJAN, V. Sistemas de controle gerencial. São\
+    \ Paulo: Atlas, 2002.\nATKINSON, Anthony A; BANKER, Rajiv D; KAPLAN, Robert S;\
+    \ YOUNG, S Mark. Contabilidade gerencial. São Paulo: Atlas, 2000.\nCARDOSO, Ruy\
+    \ Lopes. Orçamento empresarial: aprender fazendo. São Paulo: Atlas, 2012.\nCORREIA\
+    \ NETO, Jocildo Figueiredo. Planejamento e controle orçamentário: manual de orçamento\
+    \ empresarial. Rio de Janeiro: Elsevier, 2011.\nFREZATTI, Fábio. Orçamento empresarial:\
+    \ planejamento e controle gerencial. 4ª ed. São Paulo: Atlas, 2008.\nFREZATTI,\
+    \ Fábio; ROCHA, Welington; NASCIMENTO, Artur Roberto; JUNQUEIRA, Emanuel. Controle\
+    \ gerencial: uma abordagem da contabilidade gerencial no contexto econômico, comportamental\
+    \ e sociológico. São Paulo: Atlas, 2009.\nHOJI, Masakazu; SILVA, Hélio Alves da.\
+    \ Planejamento e controle financeiro: fundamentos e casos práticos de orçamento\
+    \ empresarial. São Paulo: Atlas, 2010.\nHORNGREN, Charles T,; DATAR, Srikant M;\
+    \ FOSTER, George. Contabilidade de Custos, v.1: uma abordagem gerencial, 11ª ed.\
+    \ São Paulo: Prentice Hall, 2004.\nPADOVEZE, Clóvis Luís. Planejamento Orçamentário:\
+    \ texto e exercícios. São Paulo:  Pioneira Thomson Learning. 2005.\nPADOVEZE,\
+    \ Clóvis Luis; TARANTO, Fernando Cesar. Orçamento empresarial: novos conceitos\
+    \ e técnicas. São Paulo: Pearson Education do Brasil, 2009.\nPASSARELLI, João;\
+    \ BOMFIM, Eunir de Amorim. Orçamento empresarial: como elaborar e analisar. São\
+    \ Paulo: IOB \x96 Thomson, 2004.\nSANVICENTE, Antônio Zoratto; SANTOS, Celso da\
+    \ Corsta. Orçamento na administração de empresas: planejamento e controle. 2ª.\
+    \ ed. São Paulo: Atlas , 2008.\nSOBANSKI, Jaert. J. Prática de orçamento empresarial:\
+    \ um exercício programado. 3ª. ed. São Paulo: Atlas, 2000.\nTUNG, Nguyen H. Orçamento\
+    \ empresarial e custo padrão. 4ªed. São Paulo: Ed. Universidade Empresa, 1974\n\
+    WELSCH, Glenn A. Orçamento empresarial. 4ª. ed.  São Paulo:Atlas, 2007.\nWELSCH,\
+    \ Glenn A. Livro de casos. 4ª. ed. São Paulo: Atlas, 1997.\nZDANOWICZ, José Eduardo.\
+    \ Planejamento financeiro e orçamento. 4ª ed. Porto Alegre: Sagra Luzzatto, 2001."
+  course: "\x95\tNatureza dos sistemas de controle financeiro\no\tProcesso de elaboração\
+    \ do orçamento\no\tTécnicas quantitativas e operacionais\no\tAspectos comportamentais\
+    \ que interferem no processo de controle\n\x95\tRelatórios de desempenho e sistemas\
+    \ de apoio às decisões\no\tVariações e limitações da análise\no\tSistemas de informações\
+    \ executivas: acesso e segurança\n\x95\tMensuração de desempenho e controles ativos\n\
+    o\tEstrutura da avaliação de desempenho\no\tControle interativo\n\x95\tRemuneração\
+    \ e incentivo de gestores \x96 custo de agência\no\tCaracterísticas dos planos\
+    \ de incentivos\no\tIntegração de orçamento e remuneração\n\x95\tIdentificação\
+    \ e controle de riscos empresariais\no\tDecisões estratégicas sobre riscos\no\t\
+    Metodologias para avaliação dos riscos\no\tImpacto no resultado financeiro\n\x95\
+    \tControles internos e compliance\no\tAmbiente de controle\no\tMatriz de riscos\
+    \ e controle\no\tCompliance e Sarbanes-Oxley\n\x95\tAuditoria interna como suporte\
+    \ à gestão\no\tPlano de auditoria X controles essenciais\no\tPrevenção e combate\
+    \ à fraude e lavagem de dinheiro\n\x95\tSistemas de controle para estratégias\
+    \ diferenciadas e empresas não industriais\no\tOrganizações de serviços\no\tInstituições\
+    \ financeiras\no\tOrganizações internacionais\no\tProjetos e construção"
+  course_name: 'EAD0738 - Planejamento e Controle Financeiro II
+
+    Financial Planning and Control II'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: 'Aprofundar os conceitos em planejamento, orçamento e controle e apresentar
+    modernas ferramentas e sistemas de controle empresarial. A disciplina apresentará
+    os riscos financeiros e as possíveis estratégias a serem adotadas para gestão
+    de riscos: evitar, reter, reduzir, transferir e/ou compartilhar ou explorar o
+    risco. A disciplina também apresentará as metodologias de avaliação de riscos,
+    os procedimentos de auditoria interna e estrutura e requisitos dos relatórios
+    de acompanhamento.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705180055'
+digest: KZ73Z6UWTN6NUPOSLWD3ACPVWHASG7TI
+updated_at: '20220705180055'
+url: https://web.archive.org/web/20220705180055id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0738&codcur=12012&codhab=1
