@@ -1,0 +1,40 @@
+courses:
+  activation: 01/01/2014
+  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
+    será submetido a uma reavaliação final, a título de recuperação.
+  bibliography: 'SLACK, N. et. al.  Administração da produção
+
+    DAVIS, M., AQUILANO, N. & CHASE, R. Fundamentos da Administração da Produção
+
+    MOREIRA, D. A. Administração da produção e operações
+
+    LOVE, S. F. Inventory Control
+
+    PETERSON, R.; SILVER, E. A. Decision systems for inventory management and production
+    control
+
+    HAX, A; CANDEA, D. Production and inventory management'
+  course: 'Processo de atendimento da demanda a partir de estoques ou canais alternativos
+
+    Processos de reposição de estoques no varejo e em fábricas
+
+    Indicadores físicos e econômicos na gestão de atendimento da demanda
+
+    Modelos determinísticos e probabilísticos para reposição de estoques
+
+    Compensações entre indicadores'
+  course_name: 'EAD0662 - Indicadores de Desempenho em Atendimento e Estoques
+
+    Performance Indicators in Service and Storage'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: Apresentar as compensações entre atendimento da demanda, custos operacionais
+    e custos financeiros associados a pedido, manutenção e falta de estoques para
+    atendimento da demanda.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705181328'
+digest: UV4MDD5DLGMLNP74HNMZATEO67ATZ5HM
+updated_at: '20220705181328'
+url: https://web.archive.org/web/20220705181328id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0662&codcur=12012&codhab=1
