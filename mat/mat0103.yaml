@@ -1,0 +1,38 @@
+courses:
+  activation: 01/01/2013
+  assessment: Cada docentes (ou equipe), deverá decidir qual o peso p onde 1<=p<=4.
+    A média final, será média ponderada da nota do semestre com a da recuperação com
+    o peso acima.
+  bibliography: 'P.A. Morettin, W.O. Bussab, S. Hazzan, CÁLCULO -- FUNÇÕES DE UMA
+
+    VARIÁVEL, 3 ed., Atual, 1987 L.D. Hoffmann, CÁLCULO, vol.I, Livros Técnicos e
+    Científicos, 2 ed., 1990.'
+  course: '1. Números naturais, inteiros, reais; logaritmos. 2. Conceito de função
+    polinomial, logarítmica,
+
+    exponencial e racional simples. 3. Aplicações: função receita, custo, lucro. Análise
+    de ponto de equilíbrio. 4. Noções
+
+    de limite. Derivada. Regras de derivação; derivação da função composta. Derivadas
+    sucessivas. 5. Aplicação das
+
+    derivadas: análise marginal. 6. Aplicação das derivadas: máximos, mínimos, concavidades,
+    pontos de inflexão, gráficos.
+
+    7. Regra de L''Hospital. 8. Integração indefinida. Técnicas de integração (substituição,
+    por partes). 9. Integral definida.
+
+    Cálculo de áreas. 10. Aplicações.'
+  course_name: 'MAT0103 - Matemática para Administração e Contabilidade
+
+    Mathematics for Business and Accounting'
+  deactivation: ''
+  lecture_credits: '4'
+  objectives: Conceituar e desenvolver aplicações práticas de derivadas e integrais.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220705182049'
+digest: FCI2CK5SU3UGF54YVQ4O2SRQRQJUMZ3S
+updated_at: '20220705182049'
+url: https://web.archive.org/web/20220705182049id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT0103&codcur=12012&codhab=1
