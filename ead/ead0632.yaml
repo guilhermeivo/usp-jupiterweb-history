@@ -1,0 +1,33 @@
+courses:
+  activation: 01/01/2002
+  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
+    será submetido a uma reavaliação final, a título de recuperação.
+  bibliography: '1. GITMAN, L. J. - Princípios de Administração Financeira, 3ª edição.
+    Ed. Harper & Row do Brasil, 1984.
+
+    2. MATARAZZO, D. C. - Análise Financeira de Balanços - Abordagem Básica, São Paulo,
+    Atlas, 1.989.
+
+    3. DE IUDÍCIBUS, S. - Análise de Balanços, 6ª edição, São Paulo, Atlas, 1.995'
+  course: '· análise integrada: modelo da Du Pont.
+
+    · normas contábeis internacionais
+
+    · análise de empresas nacionais- Estudo de Casos
+
+    · análise de empresas multinacionais - Estudo de Casos
+
+    · análise de Instituições Financeiras - Estudo de Casos'
+  course_name: 'EAD0632 - Análise de Demonstrativos Financeiros
+
+    Financial Reports Analysis'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: Capacitar quanto à interpretação e à análise de demonstrações financeiras.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705181814'
+digest: L75MICBKH76GWMDMOM3ZECAHN7CCRIFL
+updated_at: '20220705181814'
+url: https://web.archive.org/web/20220705181814id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0632&codcur=12012&codhab=1
