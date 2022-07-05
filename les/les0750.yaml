@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2019
+  activation: 01/01/2022
   assessment: Uma prova com toda a matéria lecionada. Estará apto a efetuar a prova
     de recuperação o aluno que tiver como média final na disciplina uma nota igual
     ou superior a três (3,0) e inferior a cinco (5,0), e tiver, no mínimo, 70% (setenta
@@ -10,12 +10,13 @@ courses:
   bibliography: 'Literatura Básica:
 
     CARVALHO, M. M; RABECHINI JR.; R. Fundamentos em gestão de projetos: construindo
-    competências para gerenciar projetos. São Paulo: Atlas, 2011. MAXIMIANO, A. C.
-    A. Administração de projetos: como transformar ideias em resultados. São Paulo:
-    Atlas, 2014. PRESSMAN, R. S. Engenharia de software: uma abordagem profissional.
-    Porto Alegre: Bookman, 2011. PROJECT MANAGEMENT INSTITUTE. Um guia do conhecimento
-    em gerenciamento de projetos (guia PMBOK). São Paulo: Saraiva, 2014. SOMMERVILLE,
-    I. Engenharia de software. São Paulo: Pearson, 2011.
+    competências para gerenciar projetos. São Paulo: Atlas, 2011. LARSON, E. W.; GRAY,
+    C. F. Gerenciamento de projetos: o processo essencial. Porto Alegre: Bookman,
+    2016. MAXIMIANO, A. C. A. Administração de projetos: como transformar ideias em
+    resultados. São Paulo: Atlas, 2014. PRESSMAN, R. S. Engenharia de software: uma
+    abordagem profissional. Porto Alegre: Bookman, 2011. PROJECT MANAGEMENT INSTITUTE.
+    Um guia do conhecimento em gerenciamento de projetos (guia PMBOK). São Paulo:
+    Saraiva, 2017. SOMMERVILLE, I. Engenharia de software. São Paulo: Pearson, 2018.
 
     Literatura Complementar:
 
@@ -50,10 +51,10 @@ courses:
     informação, capacitando o futuro administrador a analisar processos e projetar
     sistemas de informação que atuem como ferramentas de apoio a tomada de decisões
     e fontes estratégicas de vantagem competitiva.
-  practical_credits: '0'
-  total_workload: 30 h
+  practical_credits: '1'
+  total_workload: 60 h
   type: Semestral
-created_at: '20210612201735'
-digest: NMWQKRBWD4UDLYB63GFKBZOHSOG6VBNK
-updated_at: '20210612201735'
-url: https://web.archive.org/web/20210612201735id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0750&verdis=2
+created_at: '20220705184620'
+digest: M7ZOCYTJFXY5V3FLZBFAUNSV65YEVGMA
+updated_at: '20220705184620'
+url: https://web.archive.org/web/20220705184620id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0750&codcur=11090&codhab=1
