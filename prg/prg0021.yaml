@@ -1,5 +1,5 @@
 courses:
-  activation: 15/07/2021
+  activation: 15/07/2022
   assessment: Os estudantes que ficarem de recuperação farão prova e/ou trabalho proposto
     pelos docentes após o  encerramento do período letivo regular, em período estabelecido
     por calendário dos cursos de graduação estabelecido pela USP. A nota final será
@@ -247,7 +247,7 @@ courses:
 
     Education, Health and Social Assistance: Complementary Networks in Basic Social
     Protection'
-  deactivation: 14/07/2022
+  deactivation: ''
   instructors: '461311 - Anna Luiza de Fatima Pinho Lins Gryschek
 
     460053 - Claudia Maria Bógus
@@ -276,10 +276,10 @@ courses:
 
     4. Analisar a efetividade do direito em cada uma dessas políticas: gestão democrática,
     participação e controle popular.'
-  practical_credits: '2'
-  total_workload: 120 h
+  practical_credits: '1'
+  total_workload: 90 h
   type: Semestral
-created_at: '20220521025842'
-digest: CLYRWZADWUMGUVHBKSOGUZLZ2WQDBHRP
-updated_at: '20220528130302'
-url: https://web.archive.org/web/20220528130302id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PRG0021&codcur=1020&codhab=0
+created_at: '20220705131926'
+digest: MMOOBCQVDZ75B3ISF4GGZUKVWMBHHM3N
+updated_at: '20220705131926'
+url: https://web.archive.org/web/20220705131926id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PRG0021&verdis=2
