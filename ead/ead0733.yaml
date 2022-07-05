@@ -1,0 +1,26 @@
+courses:
+  activation: 01/01/2014
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'SECURATO, J. R. Decisões financeiras em condições de risco. Editora
+    Atlas, São Paulo, 1993.
+
+    BREALEY, R. e MYERS, S. Principles of corporate finance. McGraw-Hill Book Co.,
+    1984'
+  course: "\x95\tDiscussão e definição do conceito de riscos\n\x95\tRelação risco-retorno,\
+    \ modelo de Markowitz\n\x95\tModelo de Sharpe\n\x95\tCAPM\n\x95\tIndicadores de\
+    \ desempenho de Carteiras"
+  course_name: 'EAD0733 - Gestão de Carteira e Investimentos
+
+    Portfolio Management and Investments'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: Desenvolvimento do conceito de Risco, da Relação Risco/Retorno e de
+    gestão de carteiras.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705181933'
+digest: CETRMMRHLWKEUFZRKBRZ3P7UAINZNMMK
+updated_at: '20220705181933'
+url: https://web.archive.org/web/20220705181933id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0733&codcur=12012&codhab=1
