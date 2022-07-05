@@ -1,0 +1,31 @@
+courses:
+  activation: 01/01/2010
+  assessment: O aluno será avaliado continuamente e, em caso de desempenho não compatível,
+    será submetido a uma reavaliação final, a título de recuperação.
+  bibliography: '1. ROSS, Stephen; WESTERFIELD, Randolph W.; JAFFE, Jeffrey F. Administração
+    financeira. São Paulo: Atlas, 2002.
+
+    2. BREALEY, Richard A.; MYERS, Stewart C.; ALLEN, Alan J. Princípios de finanças
+    corporativas. 8.ed. Rio de Janeiro: McGraw-Hill, 2008.
+
+    3. BERK, Jonathan; DEMARZO, Peter. Finanças empresariais. Porto Alegre: Bookman,
+    2009'
+  course: "\x95Modigliani e Miller e a irrelevância da estrutura de capital\n\x95\
+    Perspectivas do trade-off, do pecking order e da teoria de agência\n\x95Fontes\
+    \ de recursos próprios (emissão de ações, retenção de lucros, etc)\n\x95Fontes\
+    \ de recursos de terceiros (debêntures, empréstimos, financiamentos, leasing,\
+    \ etc)\n\x95Política de dividendos"
+  course_name: 'EAD0335 - Estrutura de Capital e Fontes de Financiamento
+
+    Capital Structure and Financing Sources'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: Discutir a teoria e a prática de estrutura de capital bem como apresentar
+    as diversas alternativas de fontes de recursos de longo prazo.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705181225'
+digest: TPDSJGCM7CAJEN6U4HLUQHQIZ2DGGS4E
+updated_at: '20220705181225'
+url: https://web.archive.org/web/20220705181225id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0335&codcur=12012&codhab=1
