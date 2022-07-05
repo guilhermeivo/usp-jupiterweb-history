@@ -1,0 +1,60 @@
+courses:
+  activation: 01/01/2014
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: "1.\tBarbieri, J. C. (2006). Gestão Empresarial Ambiental- Conceitos,\
+    \ Modelos e Instrumentos. Editora Saraiva. São Paulo. 2006.\n2.\t   Barbieri et\
+    \ al (2010) Inovação E Sustentabilidade: Novos Modelos E Proposições. RAE - Revista\
+    \ de Administração de Empresas. Vol.50, nr.2, pp.146-154.\n3.\tBettley, A., Burnley,\
+    \ S. Towards Sustainable Operations Management - Integrating Sustainability Management\
+    \ into Operations Management Strategies and Practices. In:  Ed.: Misra, K.. Handbook\
+    \ of Performability Engineering. London: Springer. Pp 874-904. 2008\n4.\tDües,\
+    \ C.M., Tan, K.H. Lim, M. Green as the new Lean: how to use Lean practices as\
+    \ a catalyst to greening your supply chain . Journal of Cleaner Production (2012),\
+    \ doi:10.1016/j.jclepro.2011.12.023 (in press)\n5.\tKleindorfer, P.R, Singhal,\
+    \ K., Wassenhove L.N.V. Sustainable Operations Management. Production ans Operations\
+    \ Management. Vol.14.Nr.4. Pp.482-492. 2005\n6.\t  Melynk, S.A., Sroufe, R.P.,\
+    \ Calantone, R. Assessing the impact of environmental management systems on corporate\
+    \ and environmental performance. Journal of Operations Management. 21 (2003) 329\x96\
+    351\n7.\tMorilhas, L. J. e Nascimento, P. T. S. A Construção de Um Modelo de Desenvolvimento\
+    \ de Produto Com a Variável Ambiental. XIV SIMPEP. Faculdade de Engenharia de\
+    \ Bauru. UNESP. Bauru. 2007.\n8.\tPorter, M.E., van der Linde, C. Toward a new\
+    \ conception of the envirnonment-competitiveness relationship. Journal of Economic\
+    \ Perspectives. Vol.9, Nr.4, pp.97-118.1995\n9.\tPujari, D. Eco-innovation and\
+    \ new product development: understanding the influences on market performance.\
+    \ Technovation. Nr.26. pp.76-85. 2006\n10.\tSeitz, M. A critical assessment of\
+    \ motives for product recovery: the case of engine remanufacturing. Journal of\
+    \ Cleaner Production 15 (2007) 1147e1157\n11.\tSeuring, S., Mueller, M. From a\
+    \ literature review to a conceptual framework for sustainable supply chain management.\
+    \ Journal of Cleaner Production 16 (2008) 1699\x961710\n12.\tTsoulfas, G.T. e\
+    \ Pappis, C.P. Environmental principles applicable to supply chains design and\
+    \ operation. Journal of Cleaner Production 14 (2006) 1593 - 602"
+  course: "1. Conceito de Gestão de Operações Sustentáveis\n- O que é desenvolvimento\
+    \ sustentável /diferentes conceitos e \tinterpretações\n- O que é Gestão de Operações\
+    \ Sustentáveis\n- Sustentabilidade como fonte de competitividade\n2. Estágios\
+    \ da gestão ambiental:\n- Controle de poluição;\n- Prevenção da poluição;\n- Eco\
+    \ estratégia de negócios.\n3. Inovação e Sustentabilidade\n- Papel da Inovação\
+    \ na Gestão Operações Sustentáveis\n- Desenvolvimento de produtos e sustentabilidade\n\
+    4. Conceito de ciclo de vida de produto ampliado\n- Ciclo de vida fechado\n- Novas\
+    \ oportunidades de negócio/ desafios\n- Política Nacional de resíduos sólidos\n\
+    - Logística Reversa\n5. Cadeia de Suprimentos Sustentável - \x93Green Supply Chain\x94\
+    \n- Modelos de \x93Green procurement\x94e \x93cadeia verde\n6. Sistemas de Gestão\
+    \ / Certificação:\n- ISO 14000\n- SA 8000\n7. JIT e práticas ambientais \x93Lean\
+    \ and Green\x94"
+  course_name: 'EAD0765 - Gestão de Operações Sustentáveis
+
+    Sustainable Operations Management'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: A disciplina tem por objetivo discutir como as operações podem ser geridas
+    de maneira que a sustentabilidade faça parte de sua estratégia e como (e se) esta
+    questão pode ser uma fonte de vantagem competitiva. Visa estender o entendimento
+    do sistema de produção e do ciclo de vida dos produtos/serviços, de modo a incluir
+    as variáveis de perdas, resíduos e outros impactos ambientais em sua análise.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705175225'
+digest: OLKADBICU7KXO54YAADMZELB6YIA6NHX
+updated_at: '20220705175225'
+url: https://web.archive.org/web/20220705175225id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0765&codcur=12012&codhab=1
