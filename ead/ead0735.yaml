@@ -1,0 +1,29 @@
+courses:
+  activation: 01/01/2014
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'Damodaran, Aswath. Avaliação de Empresas. São Paulo: Pearson Prentice
+    Hall, 2.ed., 2008.'
+  course: "\x95\tConceitos fundamentais\n\x95\tMercado de Capitais: Valor e Fundamentos\
+    \ das Empresas\n\x95\tMétodos de Avaliação\no\tValor Patrimonial\no\tValor Patrimonial\
+    \ a Mercado\no\tFluxo de Caixa Empresarial Descontado\n\tComponentes do Modelo\n\
+    \tDirecionadores de Valor\n\tMétodos para Projeção de Fluxo de Caixa\no\tEstimativa\
+    \ do custo de capital\n\tMétodos de Estimativa do β\no\tFluxo de Caixa do Acionista\
+    \ Descontado\no\tModelo de Desconto de Dividendos\no\tModelos dos Múltiplos\n\
+    o\tAvaliação por Opções\n\x95\tRisco: medidas de risco\n\x95\tLiquidez e Valor:\
+    \ Private Equity e Venture Capital"
+  course_name: 'EAD0735 - Avaliação de Empresas (Valuation)
+
+    Business Valuation'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: Fornecer conhecimentos e ferramentas para que os alunos possam atuar
+    na prática como analista de investimentos em Bancos de Investimentos, corretoras,
+    asset management, decisões de fusões e aquisições, IPOs, entre outros.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220705175406'
+digest: 3FWSRKUGVF6NJMRBOKZC7Y2LXXFTL7I7
+updated_at: '20220705175406'
+url: https://web.archive.org/web/20220705175406id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0735&codcur=12012&codhab=1
