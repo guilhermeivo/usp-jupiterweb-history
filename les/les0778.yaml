@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2019
+  activation: 01/01/2022
   assessment: Uma prova com toda a matéria lecionada. Estará apto a efetuar a prova
     de recuperação o aluno que tiver como média final na disciplina uma nota igual
     ou superior a três (3,0) e inferior a cinco (5,0), e tiver, no mínimo, 70% (setenta
@@ -10,8 +10,11 @@ courses:
   bibliography: 'Literatura Básica:
 
     CARPINETTI, L. C. R. Gestão da Qualidade: conceitos e técnicas. 3ª ed. São Paulo:
-    Atlas, 2016. TOLEDO, J. C.; BORRÁS, M. A.; MERGULHÃO, R. C.; MENDES, G. H. S.
-    Qualidade: gestão e métodos. Rio de Janeiro: LTC, 2014.
+    Atlas, 2016. KRAJEWSKI, J.; MALHOTRA, M.; RITZMAN, B. Administração de produção
+    e operações. São Paulo: Pearson, 2017.SLACK, N.; CHAMBERS, S.; JOHNSTON, R.; BETTS,
+    A. Gerenciamento de operações e de processos: princípios e práticas de impacto
+    estratégico. Porto Alegre: Bookman, 2013. TOLEDO, J. C.; BORRÁS, M. A.; MERGULHÃO,
+    R. C.; MENDES, G. H. S. Qualidade: gestão e métodos. Rio de Janeiro: LTC, 2014.
 
     Literatura Complementar:
 
@@ -20,9 +23,7 @@ courses:
     desde o Projeto: novos passos para o planejamento da qualidade em produtos e serviços.
     São Paulo: Cengage Learning, 2009. MOREIRA, D. A. Administração da Produção e
     Operações. São Paulo: Cengage Learning, 2008. PALADINI, E. P. Gestão da qualidade:
-    teoria e prática. 3ª ed. São Paulo: Atlas, 2017. SLACK, N.; CHAMBERS, S.; JOHNSTON,
-    R.; BETTS, A. Gerenciamento de operações e de processos: princípios e práticas
-    de impacto estratégico. 2ª ed. Porto Alegre: Bookman, 2013.'
+    teoria e prática. 3ª ed. São Paulo: Atlas, 2017.'
   course: Evolução do conceito e da prática da gestão da qualidade. Fundamentos da
     qualidade e modelos de gestão. Sistema de gestão da qualidade. Ferramentas para
     o controle e melhoria da qualidade. Desdobramento da função qualidade (QFD). Análise
@@ -43,7 +44,7 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20210612200508'
-digest: ERAISTGJRC22WYINUPJRYHINPQ6GOQDM
-updated_at: '20210612200508'
-url: https://web.archive.org/web/20210612200508id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0778&verdis=3
+created_at: '20220706062804'
+digest: U2RGMIWRFOPFL34TPC7RYNPGXQ7EFVBX
+updated_at: '20220706062804'
+url: https://web.archive.org/web/20220706062804id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0778&codcur=11090&codhab=1
