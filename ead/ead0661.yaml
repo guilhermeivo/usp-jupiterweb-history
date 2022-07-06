@@ -1,0 +1,46 @@
+courses:
+  activation: 01/01/2014
+  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
+    será submetido a uma reavaliação final, a título de recuperação.
+  bibliography: 'SLACK, Nigel  Administração da produção
+
+    DAVIS, M., AQUILANO, N. & CHASE, R. Fundamentos da Administração da Produção MOREIRA,
+    Daniel A.  Administração da produção e operações
+
+    CORRÊA, Henrique L. & GIANESI, Irineu G. N.  Just in time, MRP II e OPT
+
+    BUFFA, Elwood S.  Modern Production Management - 5th edition'
+  course: '· Conceitos de planejamento, programação e controle da produção
+
+    · Conceitos básicos de estoques
+
+    · Modelos de planejamento agregado da produção
+
+    · Balanceamento de linhas
+
+    · Cálculo de necessidades (MRP)
+
+    · Seqüenciação
+
+    · Kanban/Just-in-time
+
+    · Planejamento e programação em redes
+
+    · Projeção (média corrida e suavização exponencial)
+
+    · Avaliação de modelos de previsão'
+  course_name: 'EAD0661 - Planejamento, Programação e Controle das Operações
+
+    Operations Planning, Programming and Control'
+  deactivation: ''
+  lecture_credits: '4'
+  objectives: Fornecer uma visão geral sobre sistemas de operações e seus principais
+    problemas, além de familiarizar o aluno com as técnicas mais difundidas de planejamento,
+    programação e controle de operações.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220706123134'
+digest: GE75QSY2NS2RMYQDDDCPQDKQFJQHVQBP
+updated_at: '20220706123134'
+url: https://web.archive.org/web/20220706123134id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0661&codcur=12012&codhab=4
