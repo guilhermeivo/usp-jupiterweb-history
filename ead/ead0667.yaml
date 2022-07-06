@@ -1,0 +1,52 @@
+courses:
+  activation: 01/01/2002
+  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
+    será submetido a uma reavaliação final, a título de recuperação.
+  bibliography: 'SLACK, N. et. al.  Administração da produção
+
+    LOVE, S. F. Inventory Control
+
+    PETERSON, R.; SILVER, E. A. Decision systems for inventory management and production
+    control
+
+    BALLOU, R. H. Business Logistics Management. 3rd ed. Englewood Cliffs: Prentice-Hall,
+    1992.
+
+    BOWERSOX, D. J., CLOSS, D. J.  Logistical management: the integrated supply chain
+    process. New York: McGraw-Hill, 1996.
+
+    LAMBERT, D. M.; STOCK, J. R.  Strategic Logistics Management - 3rd ed. Boston:
+    MA., Irwin/McGraw-Hill, 1993.
+
+    CHOPRA, S.;MEINDL, P. Supply Chain Management: Strategy, Planning and Operation.
+    Prentice Hall, 2001.'
+  course: '· Logística e cadeia de suprimentos: conceitos, funções e custos associados
+
+    · Localização e utilização de várias unidades (modelos quantitativos baseados
+    em programação linear mista): sistema com 1 produto fabricado em várias fábricas,
+    sistema com vários produtos fabricados em fábricas distintas, sistemas de manufatura
+    em unidades distintas (cálculo de necessidades/mistura)
+
+    · Inclusão de decisões de planejamento agregado da produção em modelos de localização
+
+    · Planejamento de estoques de sistemas em série
+
+    · Movimentação e armazenagem de materiais
+
+    · Roteamento de entregas
+
+    · Técnicas de compras'
+  course_name: 'EAD0667 - Logística e Cadeia de Suprimentos
+
+    Logistics and Supply Chain'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: Apresentar conceitos e discutir técnicas de administração de logística
+    e cadeia de suprimentos.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220706083501'
+digest: OXYO6IDTLNMXGZLWO4QMQ2Y26UJSTTYG
+updated_at: '20220706083501'
+url: https://web.archive.org/web/20220706083501id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0667&codcur=12012&codhab=1
