@@ -1,0 +1,75 @@
+courses:
+  activation: 01/01/2020
+  assessment: Prova dissertativa incluindo toda a matéria lecionada no semestre.
+  bibliography: 'DÂNGELO, J. G. & FATTINI, C. A. 1986. Anatomia Humana Básica. Ed.
+    Atheneu, RJ, 200 p.
+
+    DÂNGELO, J. G. & FATTINI, C. A. 1998. Anatomia Básica dos Sistemas Orgânicos.
+    Ed. Atheneu, RJ, 510 p.
+
+    *JUNQUEIRA, L. C. & CARNEIRO, J. 2008. Histologia Básica. Ed. Guanabara Koogan
+    S.A., RJ, 542 p.
+
+    PUTZ, R. & PABST, R., 2000. Sobotta atlas de anatomia humana. Ed. Guanabara Koogan
+    S.A., RJ, 2 volumes.
+
+    *RANDALL, D.; BURGGREN, W. & FRENCH, K. 2000. ECKERT Fisiologia Animal – Mecanismos
+    e Adaptações. Ed. Guanabara Koogan, RJ, 729 p.
+
+    STUART, I. F. 2000. Human Physiology. Wm. C. Brown Publ., USA, 671 p.
+
+    SWENSON, M. J. & REECE, W. O., eds. 1996. DUKES Fisiologia dos Animais Domésticos.
+    Ed. Guanabara Koogan, RJ, 856 p.
+
+    *TORTORA, G. J. 2000. Corpo humano – Fundamentos de Anatomia e Fisiologia. Ed.
+    ARTMED, RS, 574 p.
+
+    *KARDONG, K. V. 2016. Vertebrados: anatomia comparada, função e evolução. Ed.
+    Guanabara  Koogan, RJ, 788 p.
+
+    COMPLEMENTAR:
+
+    KÖPF-MAIER, P., coord. 2000. Wolf-Heidegger Atlas de anatomia humana. Ed. Guanabara
+    Koogan S.A., RJ, 2 volumes.
+
+    CURSOS ON-LINE/USP. Versão 2010. LZT 0307 - Anatomia e Fisiologia de Vertebrados.
+
+    * Literatura requerida'
+  course: 'SISTEMA ESQUELÉTICO: noções anatômicas, função e divisão do esqueleto;
+    Estrutura e desenvolvimento ósseo; Classificação dos ossos; esqueleto axial: crânio,
+    coluna vertebral, esterno e costelas; esqueleto apendicular: membros anteriores,
+    membros posteriores e bacia pélvica. SISTEMA ARTICULAR: conceito, tipo e classificações
+    das articulações; Articulações fibrosas (suturas e sindesmoses); Articulações
+    cartilaginosas (sincondroses e sínfises); Articulações sinoviais: bolsas sinoviais
+    e bainhas dos tendões; movimento das articulações sinoviais; ligamentos, estrutura,
+    função e tipos. SISTEMA MUSCULAR: noções anatômicas comparativas; nomenclatura
+    dos músculos; características e funcionamento. SISTEMA DIGESTÓRIO. Noções anatômicas:
+    boca, língua, dente, glândulas salivares, faringe, esôfago, cavidade abdominal,
+    estômago, intestino delgado, intestino grosso, fígado e pâncreas. Fisiologia:
+    preensão, mastigação, ensalivação, deglutição, digestão no estômago simples, digestão
+    no estômago plurilocular, digestão no intestino delgado, digestão no  intestino  grosso,
+    defecação. Absorção. SISTEMA URINÁRIO. Noções anatômicas: rins, ureteres, bexiga,
+    uretra. Mecanismos da secreção urinária. SISTEMA REPRODUTOR MASCULINO. Noções
+    anatômicas: testículos, dutos, pênis e órgãos acessórios. Espermatogênese, sêmen
+    e ejaculação. SISTEMA REPRODUTOR FEMININO. Noções anatômicas: ovários, útero,
+    vagina e vulva. Ciclo estral. Oogênese, fecundação, gestação, anexos embrionários
+    e parto.'
+  course_name: 'LZT0407 - Anatomia e Fisiologia de Vertebrados II
+
+    Anatomy and Physiology of Vertebrates'
+  deactivation: ''
+  instructors: '3389521 - Eduardo Francisquine Delgado
+
+    5735072 - Roberto Sartori Filho'
+  lecture_credits: '2'
+  objectives: Através do estudo comparativo dos conceitos básicos da organização e
+    funcionamento dos sistemas fisiológicos estruturais, de metabolimo alimentar e
+    de reprodução nos mamíferos, aves, anfíbios e peixes, busca-se alcançar o entendimento
+    dos mecanismos que permitem a operação harmoniosa do organismo animal.
+  practical_credits: '3'
+  total_workload: 120 h
+  type: Semestral
+created_at: '20220706122130'
+digest: 5IDYYTVWXMPKR4R32EJFQ4SRC2SSGHW3
+updated_at: '20220706122130'
+url: https://web.archive.org/web/20220706122130id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0407&codcur=11070&codhab=104
