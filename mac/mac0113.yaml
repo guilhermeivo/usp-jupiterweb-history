@@ -1,0 +1,44 @@
+courses:
+  activation: 01/01/2020
+  assessment: 1 (uma) prova de recuperação.
+  bibliography: Não há bibliografia.
+  course: 'Algoritmos: caracterização, notação, estruturas básicas. Computadores:
+    unidades básicas, instruções, programa armazenado, endereçamento, programas em
+    linguagem de máquina.; Conceitos de linguagens algorítmicas: expressões; comandos
+    sequenciais, seletivos e repetitivos; entrada/saída; variáveis estruturadas.;
+    Desenvolvimento e documentação de programas.; Software de uso geral: processadores
+    de textos, planilhas eletrônicas, gerenciadores de arquivos, gerenciadores de
+    bancos de dados, sistemas operacionais de microcomputadores.
+
+    Algorithms: characterization, notation, basic structures. Computers: basic units,
+    instructions, stored program, addressing, programs in machine language .; Concepts
+    of algorithmic languages: expressions; sequential, selective, and repetitive commands;
+    input and output; structured variables; Program development and documentation
+    .; Software of general use: word processors, spreadsheets, file managers, database
+    managers, microcomputer operating systems.'
+  course_name: 'MAC0113 - Introdução à Computação para Ciências Humanas
+
+    Introduction to Computing for Human Sciences'
+  deactivation: ''
+  instructors: '2564323 - Ana Cristina Vieira de Melo
+
+    78352 - Flavio Soares Correa da Silva
+
+    91271 - Kunio Okuda
+
+    60050 - Marcelo Finger
+
+    1722571 - Renata Wassermann'
+  lecture_credits: '4'
+  objectives: 'Introduzir a programação de computadores através do estudo de uma linguagem
+    algorítmica e de exercícios práticos; introduzir software de uso geral.
+
+    To introduce computer programming through the study of algorithmic language and
+    practical exercises; introduce general purpose software.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220706023531'
+digest: UAB6VVEVP3ASRIUSW2ULSTSSQNYKGYFS
+updated_at: '20220706023531'
+url: https://web.archive.org/web/20220706023531id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAC0113&codcur=12012&codhab=1
