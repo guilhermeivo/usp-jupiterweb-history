@@ -1,49 +1,37 @@
 courses:
-  activation: 01/01/2006
+  activation: 01/01/2020
   assessment: Nota da 2ª Avaliação = Nota da 1ª Avaliação + 2 x (Nota da prova de
     recuperação) dividido por 3.
-  bibliography: 'A. L. Lehninger - Princípios de Bioquímica, Editora Savier, 2002.
+  bibliography: 'Bioquímica Básica - A. Marzzocco e B. B. Torres
 
-    A Lehninger; D.L. Nelson & M.M. Cox - Principles of Biochemistry, Worth Publishers,
-    2000.
+    Princípios de Bioquímica de Lehninger, D. L. Nelson & M. M. Cox
 
-    A. Marzzocco e B. B. Torres - Bioquímica Básica, Editora Guanabara, 2ª Edição,
-    1999.
+    Fundamentos de Bioquímica - D. Voet, J. G. Voet, C.W. Pratt
 
-    D. Voet e J.G. Voet - Biochemistry, 3a ed. Editora J. Wiley & Sons, 2004.
+    Bioquímica -  J. M. Berg, J. L. T. e L. Stryer
 
-    D. Voet, J. G. Voet, C.W. Pratt - Fundamentos de Bioquímica, Editora Artmed, 2002.
-
-    D. Voet, J. G. Voet, C.W. Pratt - Fundamentals of Biochemistry, Editora J. Wiley
-    & Sons, 1999.
-
-    J. M. Berg, J. L. T. e L. Stryer - Biochemistry - 5a edição, Editora W.H. Freeman
-    and Co, 2002.
-
-    M. K. Campbell. - Biochemistry, 3a edição, Editora Saunders College Pub, 1999'
-  course: 'Estrutura de Biomoléculas: Conceito de pH. Sistemas "tampão". Sistemas
-    "tampão" fisiológicos. Noções básicas de estrutura de carboidratos. Noções básicas
-    de estrutura e função de lipídeos e membranas biológicas. Estrutura e propriedades
-    de aminoácidos, peptídeos e proteínas. Funções de proteínas. Propriedades de enzimas.
-
-    Metabolismo: Modelo geral do metabolismo celular. Vias metabólicas: glicólise,
-    ciclo de Krebs, cadeia de transporte de elétrons, fosforilação oxidativa, oxidação
-    de ácidos graxos, gliconeogênese, via das pentoses, síntese e degradação de glicogênio,
-    biosíntese de ácidos graxos, noções gerais sobre metabolismo de aminoácidos e
-    ciclo da uréia.Ação de hormônios (insulina, glucagon e adrenalina) nas vias metabólicas.
-    Integração de vias metabólicas.'
+    Artigos e revisões da literatura ou outra bibliografia indicada no cronograma
+    anual da disciplina.'
+  course: 'Água e tampões biológicos. Estrutura e propriedades de aminoácidos, proteínas,
+    enzimas, lipídios, carboidratos e membranas biológicas. Visão geral e integrada
+    do metabolismo celular. Glicólise. Fermentações lática e alcoólica. Gliconeogênese.
+    Beta-oxidação de ácidos graxos. Acetil-CoA: formação e destino. Ciclo de Krebs.
+    Cadeia de transporte de elétrons e fosforilação oxidativa. Metabolismo do Glicogênio
+    e Via das Pentoses-Fosfato. Síntese de ácidos graxos. Metabolismo de aminoácidos.
+    Regulação metabólica, ação hormonal no controle do metabolismo (insulina, glucagon
+    e epinefrina). Integração e alterações metabólicas fisiológicas e patológicas.'
   course_name: 'QBQ0116 - Bioquímica: Estrutura de Biomoléculas e Metabolismo
 
     Biochemistry: Structure of Biomolecules and Metabolism'
-  deactivation: 31/12/2019
+  deactivation: ''
   instructors: 7105312 - Daniela Sanchez Bassères
   lecture_credits: '8'
-  objectives: Proporcionar aos alunos uma visão global dos princípios gerais da Bioquímica
-    e da Biologia Celular e Molecular.
+  objectives: Proporcionar aos alunos uma visão global dos princípios gerais da Bioquímica,
+    incluindo estrutura de biomoléculas.
   practical_credits: '0'
   total_workload: 120 h
   type: Semestral
-created_at: '20191210235128'
-digest: 5QA7K5AD3NBZKA2QLUT3R73EBJM5UW75
-updated_at: '20191210235128'
-url: https://web.archive.org/web/20191210235128id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QBQ0116&codcur=43021&codhab=104
+created_at: '20220706014445'
+digest: 2HQ64CGIJGOWFSC7FKG6KHTNSBXZFDTR
+updated_at: '20220706014445'
+url: https://web.archive.org/web/20220706014445id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QBQ0116&codcur=43021&codhab=101
