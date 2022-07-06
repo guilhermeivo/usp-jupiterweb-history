@@ -1,0 +1,34 @@
+courses:
+  activation: 01/01/2002
+  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
+    será submetido a uma reavaliação final, a título de recuperação.
+  bibliography: 'Laudon, K. C. & Laudon, J. P. - Management Information Systems, Prentice
+    Hall, 2000
+
+    Oz, Effy - Management Information System. Course Technology, 1998
+
+    Turban, E. et alli - Electronic Commerce: A managerial Perspective, Prentice Hall,
+    2000'
+  course: '· Sistemas de Informação: Introdução
+
+    · Hardware e Software
+
+    · Tecnologia de redes de comunicação
+
+    · Internet, Intranet e Extranet
+
+    · Outras tecnologias emergentes'
+  course_name: 'EAD0657 - Tecnologia da Informação
+
+    Information Technology'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: Dar uma visão geral sobre tópicos importantes de tecnologia de informação
+    e sua aplicação em Administração.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220706135834'
+digest: OK5VLUQB6G3DFXQVPY2XNZR4BLKJWKLR
+updated_at: '20220706135834'
+url: https://web.archive.org/web/20220706135834id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0657&codcur=12012&codhab=4
