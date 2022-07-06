@@ -1,0 +1,28 @@
+courses:
+  activation: 01/01/2017
+  assessment: Prova
+  bibliography: 'SECURATO, José Roberto CÁLCULO FINANCEIRO DAS TESOURARIAS
+
+    FABOZZI, Frank FIXED INCOME HANDBOOK'
+  course: "•\tAtivos Financeiros Estruturados: Mercados Domésticos e Internacionais\n\
+    •\tComponentes dos Títulos de Renda Fixa\n•\tTaxas de Juros Mercados Internacionais\n\
+    •\tPrecificação dos Ativos Estruturados\n•\tEstrutura de Taxas de Juros: desenvolvimento\n\
+    •\tDuration e Convexidade\n•\tEstratégias de Imunização\n•\tEstratégias de Trading."
+  course_name: 'EAD0739 - Finanças Estruturadas
+
+    Structured Finance'
+  deactivation: ''
+  instructors: 870996 - Liliam Sanchez Carrete
+  lecture_credits: '2'
+  objectives: O objetivo do curso é preparar os alunos para calcular o preço dos ativos
+    usualmente negociados no mercado doméstico e nos mercados internacionais, calcular
+    as medidas de risco dos títulos e entender as principais estratégias de trading
+    e gestão. Formação dos alunos com interesse em atuar no mercado de operações estruturadas,
+    tanto em instituições financeiras como na área financeira das empresas.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220706022233'
+digest: OFO3AT5RFK5YASBJ3Z42N5QOJAYBR7HF
+updated_at: '20220706022233'
+url: https://web.archive.org/web/20220706022233id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0739&codcur=12012&codhab=1
