@@ -1,21 +1,44 @@
 courses:
-  activation: 01/01/2013
+  activation: 01/01/2022
   assessment: Uma única prova com toda matéria lecionada.
-  bibliography: "LEGISLAÇÃO E LITERATURA RECOMENDADA\nCELSO ANTONIO PACHECO FIORILLO.\
-    \  Curso de Direito Ambiental Brasileiro. 12ª edição.  2011.  Editora Saraiva.\
-    \ São Paulo.\nÉDIS MILARÉ. Direito do Ambiente. 7ª edição. 2011. Editora Revista\
-    \ dos Tribunais. São Paulo.\nÉDIS MILARÉ e PAULO AFFONSO LEME MACHADO (org.).\
-    \  1ª edição. 2011. Coleção Doutrinas Essenciais \x96 Direito Ambiental. 7 volumes.\
-    \ Editora Revista dos Tribunais. São Paulo.\nMARIA LUIZA MACHADO GRANZIERA. Direito\
-    \ Ambiental. 2ª edição. 2011. Editora Atlas. São Paulo.\nLUÍS PAULO SIRVINSKAS.\
-    \ Manual de Direito Ambiental.  9ª edição.  2011.  Editora Saraiva. São Paulo.\n\
-    PAULO AFFONSO LEME MACHADO. Direito Ambiental Brasileiro. 19ª edição. 2011. Malheiros\
-    \ Editores. São Paulo.\nPAULO DE BESSA ANTUNES. Direito Ambiental. 13ª edição.\
-    \ 2011. Lumen Juris Editora. Rio de Janeiro.\nSANDRA AKEMI SHIMADA KISHI e outros\
-    \ (org.).  Desafios do Direito Ambiental no século XXI: Estudos em homenagem a\
-    \ Paulo Affonso Leme Machado.  1ª edição. 2005. Malheiros Editores. São Paulo.\n\
-    HELENO TAVEIROS TÔRRES (org.). Direito Tributário Ambiental. 1ª edição. 2005.\
-    \ Malheiros Editores. São Paulo."
+  bibliography: 'LEGISLAÇÃO E LITERATURA RECOMENDADA
+
+    ANA MARIA DE OLIVEIRA NUSDEO e TERENCE TRENNEPOHL (org.). Temas de Direito Ambiental
+    Econômico. 1ª edição. 2019. Thomson Reuters Brasil - Editora Revista dos Tribunais.
+    São Paulo.
+
+    ÉDIS MILARÉ. Direito do Ambiente. 11ª edição. 2018. Editora Revista dos Tribunais.
+    São Paulo.
+
+    ÉDIS MILARÉ e PAULO AFFONSO LEME MACHADO (org.).  1ª edição. 2011. Coleção Doutrinas
+    Essenciais – Direito Ambiental. 7 volumes. Editora Revista dos Tribunais. São
+    Paulo.
+
+    INGO WOLFGANG SARLET e TIAGO FENSTERSEIFER. Curso de Direito Ambiental.  1ª edição.  2020.  Editora
+    Forense. São Paulo.
+
+    MARIA LUIZA MACHADO GRANZIERA. Direito Ambiental. 5ª edição. 2019. Editora Foco.
+    São Paulo.
+
+    LUÍS PAULO SIRVINSKAS. Manual de Direito Ambiental.  18ª edição.  2020.  Editora
+    Saraiva. São Paulo.
+
+    PAULO AFFONSO LEME MACHADO. Direito Ambiental Brasileiro. 26ª edição. 2018. Malheiros
+    Editores. São Paulo.
+
+    PAULO DE BESSA ANTUNES. Direito Ambiental.  21ª edição. 2020. Editora Atlas. São
+    Paulo.
+
+    SANDRA AKEMI SHIMADA KISHI e outros (org.).  Desafios do Direito Ambiental no
+    século XXI: Estudos em homenagem a Paulo Affonso Leme Machado.  1ª edição. 2005.
+    Malheiros Editores. São Paulo.
+
+    JOANA SETSER e outros (coord.). Litigância Climática: novas fronteiras para o
+    direito ambiental no Brasil.  2019.  Thomson Reuters Brasil - Editora Revista
+    dos Tribunais. São Paulo.
+
+    TALDEN FARIAS e TERENCE TRENNEPOHL (org.). Direito Ambiental Brasileiro. 1ª edição.
+    2019. Thomson Reuters Brasil - Editora Revista dos Tribunais. São Paulo.'
   course: '1. Apresentação do curso e introdução: Evolução histórica do direito ambiental,
     Conceito atual de direito ambiental, Princípios do direito ambiental, O ordenamento
     ambiental brasileiro;2. Política Nacional do Meio Ambiente e Sistema Nacional
@@ -56,7 +79,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20210612201356'
-digest: UE7HCTQ6EQLXNSPKAKRH53SMEBZJMZRH
-updated_at: '20210612201356'
-url: https://web.archive.org/web/20210612201356id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0614&verdis=4
+created_at: '20220706041050'
+digest: 5ZP5K7BOQPXGVDE24MYLGCOPMWBEQMIC
+updated_at: '20220706041050'
+url: https://web.archive.org/web/20220706041050id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0614&codcur=11090&codhab=1
