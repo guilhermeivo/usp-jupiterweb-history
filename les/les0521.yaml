@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2020
+  activation: 01/01/2022
   assessment: Uma prova com toda a matéria dada.
   bibliography: 'ASSIS, A.M.O. e col. (1999), Bró, caxixe e ouricuri: estratégias
     de sobrevivência no semi-árido baiano. Revista de Nutrição, Campinas, v.12, n.2,
@@ -157,7 +157,7 @@ courses:
     Anthropology of Food'
   deactivation: ''
   instructors: 1261309 - Paulo Eduardo Moruzzi Marques
-  lecture_credits: '4'
+  lecture_credits: '2'
   objectives: 'Fornecer aos alunos subsídios para: identificar os componentes sociais
     e culturais da alimentação; entender a evolução do processo alimentar e dos hábitos
     alimentares de diferentes sociedades e grupos; avaliar os condicionantes do acesso
@@ -165,9 +165,9 @@ courses:
     ocidental, no consumo de alimentos; discutir  novas alternativas para os sistemas
     alimentares.'
   practical_credits: '1'
-  total_workload: 90 h
+  total_workload: 60 h
   type: Semestral
-created_at: '20210117025429'
-digest: CNC4L52423SQFRNGAYCYMPAYN6LWWVZU
-updated_at: '20210612211351'
-url: https://web.archive.org/web/20210612211351id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0521&verdis=4
+created_at: '20220706060724'
+digest: PJRCM2I4CSTXNPD4QZBU3AVK2QC42L22
+updated_at: '20220706060724'
+url: https://web.archive.org/web/20220706060724id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0521&codcur=11090&codhab=1
