@@ -1,0 +1,42 @@
+courses:
+  activation: 01/01/2017
+  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
+    será submetido a uma reavaliação final, a título de recuperação.
+  bibliography: 'Bekman, O R. & Costa Neto, P. L. O . Análise estatística da decisão.
+    Editora Edgard Blücher, 1993.
+
+    Bierman Jr., H.; Bonini, C.P. & Hausman, W.H. Quantitative analysis for business
+    decisions, 8ª ed. Irwin, 1991.
+
+    Clemen, R.T. Making hard decisions: an introduction to decision analysis, 2ª ed.,
+    Duxbury, 1996.
+
+    DeAndrade, E.L. Introdução à pesquisa operacional: métodos e modelos para a análise
+    de decisão, 2ª ed. LTC, 1998.
+
+    Raiffa, H. Teoria da decisão: aulas introdutórias sobre escolhas em condições
+    de incerteza. Vozes - EDUSP, 1977.
+
+    Silva, E.M. Pesquisa operacional, 3ª ed. Atlas, 1998.
+
+    Smith, D.E. Quantitative business analysis. John Wiley & Sons, 1997.'
+  course: '· Decisões sob incerteza
+
+    · Decisões sob risco
+
+    · Técnicas de resolução'
+  course_name: 'EAD0659 - Análise da Decisão
+
+    Decision Analysis'
+  deactivation: ''
+  instructors: 94701 - Fernando Carvalho de Almeida
+  lecture_credits: '2'
+  objectives: Iniciar o estudo da tomada de decisão através da metodologia desenvolvida
+    pela análise de decisão.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220706025653'
+digest: QEJSVOR7CXUD2G7LAJW3QVMAE3CETNWZ
+updated_at: '20220706025653'
+url: https://web.archive.org/web/20220706025653id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0659&codcur=12012&codhab=1
