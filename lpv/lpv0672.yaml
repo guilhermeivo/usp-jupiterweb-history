@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2019
+  activation: 01/01/2022
   assessment: não há recuperação
   bibliography: 'ALTMAN, J.  Pesticides Interactions in Crop Production.  Boca Raton,
     CRC Press, 1993.  350 p.
@@ -13,18 +13,14 @@ courses:
     AULD, B.A., K.M. MENZ, C.A. TISDELL.  Weed Control Economics.  Academic Press.  London,
     1987, 177 p.
 
+    BARROSO, A.A..; MURATA, A.T.  Matologia: estudos sobre plantas daninhas. 1ed.
+    Fábrica da palavra: Jaboticabal/SP. 547p. Disponível em www.matologia.com. 2021.
+
     BARROSO, G.M.  Sistemática das angiospermas no Brasil.  Vols. 1, 2 e 3.  Rio de
     Janeiro.  Livros Técnicos e Científicos Editora S/A.  1978.
 
-    COMPÊNDIO DE DEFENSIVOS AGRÍCOLAS.  Guia Prático de Produtos Fitossanitários para
-    Uso Agrícola.  4a edição, Organização Andrei Editora Ltda.,  São Paulo, 1993.  448
-    p.
-
     CONSELHO REGIONAL DE ENGENHARIA ARQUITETURA E AGRONOMIA.  Controle Integrado de
     Plantas Daninhas.  2a edição, CREA, São Paulo, 1985.  161 p.
-
-    CORREA, M.P.  Dicionário das Plantas Úteis do Brasil.  Ministério da Agricultura.  Rio
-    de Janeiro, 6 volumes.  1975.
 
     DEBACH, P.  Control biologico de las Plagas e Insectos e Malas Hierbas.  Companhia
     Editorial Continental, México,  1985.
@@ -32,13 +28,7 @@ courses:
     DEUBER, R.  Ciência das Plantas Daninhas: Fundamentos.  Editora da Unesp, Jaboticabal,
     Vol. I.  2003.  452 p.
 
-    FERRI, M.G.  Glossário ilustrado de botânica.  Editora Nobel, 1981.  197 p.
-
     FOY, C.L.  Adjuvants for Agrichemicals.  Boca Raton, CRC Press, 1992.  220 p.
-
-    FREIRE, C.V.  Chaves analíticas.  Piracicaba, ESALQ/USP.  1990.  99p.GARCIA TORRES,
-    L. & C. FERNANDEZ-QUINTANILLA.  Fundamentos sobre Malas Hierbas y Herbicidas.  Ediciones
-    Mundi-Prensa, Madrid,  1991.  348 p.
 
     GODFREY, C.R.A.  Agrochemicals from Natural Products.  New York, Marcel Dekker,
     1995.  420 p.
@@ -62,10 +52,10 @@ courses:
     e convencional.  7a edição, Editora Plantarum, Nova Odessa.  2014.
 
     LORENZI, H.  Plantas Daninhas do Brasil: terrestres, aquáticas, parasitas, tóxicas
-    e medicinais.  2a Edição, Editora Plantarum, Nova Odessa, 1991.  440 p.
+    e medicinais.  3a Edição, Editora Plantarum, Nova Odessa, 2000.  608 p.
 
-    MATHEWS, G.A.  Pesticides Application Methods.  2nd editon, England, Longman Scientific
-    & Technical, 1992.  320 p.
+    MATHEWS, G.A.  Pesticides Application Methods.  3nd editon, England, Longman Scientific
+    & Technical, 2000.  432 p.
 
     RADOSEVISH, S.R.; J. HOLT. GHEPSA, C. Weed Ecology: implications for vegetation
     management.  John Wiley & Sons, Inc.,  New York,  1997.  589p.
@@ -81,6 +71,9 @@ courses:
 
     SILVA, A.A.; SILVA, J.F. Tópicos em manejo de plantas daninhas. Viçosa, UFV. 2007,
     367p.
+
+    SOC. BRAS. da CIENC. das PLANTAS DANINHAS. Manejo de Plantas Daninhas nas culturas
+    Agrícolas. Org. Monqueiro, P.A. RiMA Ed. 2014,306.
 
     SMITH, A.E.  Handbook of Weed Management Systems.  Marcel Dekker, Inc., New York,
     1995.  741 p.
@@ -110,14 +103,13 @@ courses:
     \ herbicidas\tinibidores da ALS e ACCase. T -Impacto ambiental do uso de herbicidas.\
     \ P -Formulação de herbicidas e importância nas aplicações de campo. T -Ecotoxicologia\
     \ de herbicidas.T -Possibilidades de utilização de plantas geneticamente modificadas\
-    \ resistentes aos herbicidas. T - Manejo integrado de plantas daninhas."
+    \ resistentes aos herbicidas. T - Manejo integrado de plantas daninhas\nVisitas\
+    \ técnicas (3) a estação experimental e CPFL"
   course_name: 'LPV0672 - Biologia e Manejo de Plantas Daninhas
 
     Weed Biology and Management'
   deactivation: ''
-  instructors: '54394 - Pedro Jacob Christoffoleti
-
-    3749501 - Rafael Munhoz Pedroso
+  instructors: '3749501 - Rafael Munhoz Pedroso
 
     69192 - Ricardo Victoria Filho'
   lecture_credits: '4'
@@ -130,7 +122,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20200922084814'
-digest: J3S4BFUNHS5LBVHGCPIMSNF44XMD3OIB
-updated_at: '20200922084814'
-url: https://web.archive.org/web/20200922084814id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0672&codcur=11010&codhab=0
+created_at: '20220707012234'
+digest: N5FCYUXLA3TAHRYBM7R543NG5B4UWVYV
+updated_at: '20220707012234'
+url: https://web.archive.org/web/20220707012234id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0672&codcur=11020&codhab=0
