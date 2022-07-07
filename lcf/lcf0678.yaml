@@ -1,0 +1,122 @@
+courses:
+  activation: 01/01/2021
+  assessment: Esta disciplina não terá recuperação.
+  bibliography: 'Literatura básica:
+
+    BRADY, N.C.; Weil, R.R. Elementos da Natureza e Propriedades dos Solos. Bookman,
+    2013. 716p.
+
+    BREN, L. Forest Hydrology and Catchment Management – An autralian perspective.
+    New York: Springer, 2014, 268p.
+
+    CHANG, M., Forest Hydrology – An introduction to water and forests. Taylor & Francis.
+    Boca Raton. 2006. 474p.
+
+    CHAPIN III,F.S.; MATSON, P.A.; MOONEY,H.A. Principles of Terrestrial Ecosystem
+    Ecology.1.ed. New York: Springer, 2002. 436p.
+
+    FERRAZ, SILVIO F.B. ; LIMA, Walter de Paula ; RODRIGUES, Carolina Bozetti . Managing
+    forest plantation landscapes for water conservation. Forest Ecology and Management,
+    v. 301, p. 58-66, 2012.
+
+    Ferraz, SILVIO F.B.; LIMA, WALTER P. Hidrologia Florestal Aplicada:
+
+    Planejando as Interações entre a Floresta e a Água. EDUSP. 2020.
+
+    LIMA, W.P., Princípios de Hidrologia Florestal para o Manejo de Bacias Hidrográficas.
+    ESALQ-USP, Depto. Ciências Florestais. 1990. 242p.
+
+    LIMA, W.P. A silvicultura e a água: ciência, dogmas, desafios. Rio de Janeiro:
+    Instituto BioAtlântica, 2010.64 p.
+
+    LIMA. W.P.; FERRAZ, S.F.B; FERRAZ, K.M.P.M.B. Interações Bióticas e Abióticas
+    na Paisagem: uma Perspectiva Ecohidrológica. In: Calijuri, M.C.; Gasparin, D.
+    (editores). Engenharia Ambiental: Conceitos, Tecnologia e Gestão. Elsevier. São
+    Paulo, 2012. 832p.
+
+    REICHARDT, K; TIMM , L.C. Solo Planta e atmosfera: conceitos, processos e aplicações.
+    Barueri: Manole, 2004. 478p.
+
+    Literatura Complementar:
+
+    BEDIENT, P.B.; HUBER,W.C.; VIEUX,B.E. Hydrology and floodplain analysis. Prentice
+    Hall. 2001. 763p.
+
+    BROOKS, K.N.; P.F. FFOLLIOTT; H.M. GREGERSEN; deBano, L.F, Hydrology and the Management
+    of Watersheds. Iowa State University Press. 2003. 574p.
+
+    GORDON, N.D.; McMahon, T.A.; Finlayson, B.L.; Gippel, C.J. Nathan, R.J. Stream
+    Hydrology: an introduction for ecologists, John Wiley & Sons Ltd., West Sussex,
+    2004, 429p.
+
+    LIMA, W.P., Impacto Ambiental do Eucalipto. EDUSP. 1993. 302p.
+
+    LIMA, W.P.; ZAKIA, M.J.B. As florestas plantadas e a água. Rima. São Carlos, 2006.
+    226p.
+
+    LIMA, W. P. O eucalipto seca o solo? Boletim Informativo da Sociedade Brasileira
+    de Ciência do Solo, v. 29, p. 13-17, 2004.
+
+    LIMA. W.P.; FERRAZ, S.F.B; FERRAZ, K.M.P.M.B. Interações Bióticas e Abióticas
+    na Paisagem: uma Perspectiva Ecohidrológica. In: Calijuri, M.C.; Gasparin, D.
+    (editores). Engenharia Ambiental: Conceitos, Tecnologia e Gestão. Elsevier. São
+    Paulo, 2012. 832p.
+
+    NAIMAN, R.J.; R.E. BILBY. River Ecology and Management: Lessons from the Pacific
+    Coastal Ecoregion. Springer-Verlag, New York. 1998. 560p.
+
+    OMETTO, J.C. Bioclimatologia vegetal. Editora agronômica Ceres, São Paulo, 1981.
+    440p.
+
+    TURNER, M. G., R. H. GARDNER AND R. V. O’NEILL. Landscape ecology in theory and
+    practice. Springer-Verlag, New York.  2001.'
+  course: 'Hidrologia florestal, terminologia, unidades e transformações. Ciclo hidrológico,
+    processos hidrológicos. Bacia hidrográfica: escala, delimitação / cálculo de área;
+    Caracterização física de bacias por meio de Sistemas de Informações Geográficas.
+    Precipitação: intensidade, distribuição e métodos de mensuração em áreas florestadas.
+    Distribuição espacial da precipitação em bacias. A interceptação da chuva pela
+    copa das florestas: conceitos, fatores que influenciam a interceptação. Papel
+    das perdas por interceptação no balanço hídrico da microbacia. Medição dos processos
+    envolvidos na interceptação. Evapotranspiração potencial. Balanço hídrico em microbacias
+    hidrográficas florestadas. Quantificação do balanço hídrico. Regime da água do
+    solo em áreas florestais: conceitos de hidrologia do solo, dinâmica da água do
+    solo, umidade do solo. Infiltração da água no solo. Escoamento superficial. Escoamento
+    direto / indireto. Vazão: deflúvio, medição e avaliação de hidrograma. Hidrologia
+    da microbacia hidrográfica: o processo de geração do deflúvio em microbacias florestadas,
+    conceito de área variável de afluência, resposta hidrológica.  Efeitos da floresta
+    sobre a produção de água da microbacia. Métodos de medição do deflúvio em microbacias
+    experimentais. Zona ripária: dinâmica, caracterização, importância. Interação
+    sistema terrestre / aquático. Florestas e produção de água. Consumo de água por
+    espécies florestais: fatores envolvidos, evaporação, transpiração e perdas por
+    interceptação. Medição da evapotranspiração em florestas.  Manejo florestal: impactos:
+    Erosão e sedimentos; Composição físico-química da água em microbacias hidrográficas
+    florestadas: conceitos, parâmetros de qualidade da água, ciclagem de nutrientes
+    em florestas. Efeitos das atividades florestais de uso da terra sobre a qualidade
+    da água. Avaliação da qualidade da água. Planejamento integrado de bacias hidrográficas.
+    Uso de Sistemas de Informações Geográficas para manejo de bacias hidrográficas
+    Alocação de áreas naturais. Corte raso. Desenho de talhões e estradas florestais.
+    Monitoramento de microbacias. Sustentabilidade do manejo florestal: manutenção
+    do potencial produtivo, processos hidrológicos e diversidade biológica. Aula prática
+    sobre medição de processos hidrológicos na Estação Experimental de Itatinga.'
+  course_name: 'LCF0678 - Manejo de Bacias Hidrográficas
+
+    Forest Watershed Management'
+  deactivation: ''
+  instructors: 2058395 - Sílvio Frosini de Barros Ferraz
+  lecture_credits: '3'
+  objectives: 'a) Informar o aluno a respeito dos princípios fundamentais de hidrologia
+    florestal, com ênfase em suas aplicações práticas para o manejo de microbacias
+    hidrográficas.
+
+    b) Fornecer ao aluno elementos que lhe permitam entender e planejar o manejo da
+    floresta visando a produção e a qualidade da água.
+
+    c) Desenvolver a visão holística de manejo florestal tendo a microbacia hidrográfica
+    como base física de planejamento, visando a minimização dos impactos ambientais.'
+  practical_credits: '2'
+  total_workload: 105 h
+  type: Semestral
+created_at: '20220707074429'
+digest: TPW36KW6Z5W6Q4OIQYWG26BMERE7QAV7
+updated_at: '20220707074429'
+url: https://web.archive.org/web/20220707074429id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0678&codcur=11020&codhab=0
