@@ -1,0 +1,89 @@
+courses:
+  activation: 01/01/2020
+  assessment: Uma prova teórica versando sobre toda matéria
+  bibliography: 'BERTONI, J. & LOMBARDI NETO, F. Conservação do solo. São Paulo, Ícone,
+    1990. 355p.
+
+    DEMATTÉ, J.L.I. Manejo de solos ácidos dos trópicos úmidos, Região Amazônica.
+    Campinas. Fundação Cargill. 1988. 215p.
+
+    GONÇALVES, J.L.M. & BENEDETTI, V. (eds.) Forest Nutrition and Fertilization, IPEF,
+    Piracicaba, 2004. 421p.
+
+    GONÇALVES, J.L.M. & STAPE, J.L. (Eds.) Conservação e cultivo de solos para plantações
+    florestais. Piracicaba, IPEF, 2002. 498p.
+
+    GONÇALVES, J.L.M. Interpretação de levantamento de solo para fins silviculturais.
+    IPEF, Piracicaba, 39:65-72. 1988.
+
+    GONÇALVES, J.L.M.; NOGUEIRA JR., L.R.; DUCATTI, F. Recuperação de solos degradados.
+    In: KAGEYAMA, P.I.; OLIVEIRA, R.E.; MORAES, L.F.D.; ENGEL, V.L.; GANDARA, F.B.
+    (Org.). Restauração ecológica de ecossistemas naturais. FEPAF, Botucatu, 2003.
+    p. 111-163.
+
+    GONÇALVES, J.L.M.; RAIJ, B. & GONÇALVES, J.C. Florestais. In: Recomendações de
+    adubação e calagem para o Estado de São Paulo. Campinas, Instituto Agronômico
+    de Campinas. Segunda Edição, 300p., 1996. pp. 219-232.
+
+    GONÇALVES JLM, ALVARES CA, HIGA AR, SILVA LD, ALFENAS AC, STAHL J, FERRAZ SFB,
+    LIMA WP, BRANCALION PHS, HUBNER A et al. 2013. Integrating genetic and silvicultural
+    strategies to minimize abiotic and biotic constraints in Brazilian eucalypt plantations.
+    Forest Ecology and Management 301: 6–27.
+
+    GONÇALVES, J.L.M.; VALERI, S.V. Eucalipto e pinus. In: FERREIRA, M.E.; CRUZ, M.C.P.;
+    RAIJ, B. van; ABREU, C.A. (Eds.). Micronutrientes: elementos tóxicos na agricultura.
+    Jaboticabal: CNPq /FAPESP /PATAFOS, 2001. p.393-423.
+
+    LOPES, A.S. Solos sob cerrado. Características, propriedade e manejo. 2.ed. Piracicaba,
+    POTAFOS, 1984. 162p.
+
+    Manual técnico de pedologia: guia prático de campo / IBGE, Coordenação de Recursos
+    Naturais e Estudos Ambientais. - Rio de Janeiro: IBGE, 2015. 134 p.
+
+    NAMBIAR, S. & BROWN, A. (Eds.) Management of soil, nutrients and water in tropical
+    plantation forests. Camberra, ACIAR Austrália/CSIRO Austrália/CIFOR Indonésia,
+    1997. 571 p.
+
+    PRITCHETT, W.L. Suelos forestales - propiedades, conservación y mejoramiento.
+    México. Limusa. 1986. 634p.
+
+    SANTOS,H.G.; JACOMINE,P.K.T.; ANJOS, L.H.C.; OLIVEIRA, V.A.; LUMBRERAS, J.F.;
+    COELHO, M.R.; ALMEIDA, J.A.; ARAUJO FILHO, J.C.; OLIVEIRA, J.B.; CUNHA, T.J.F.
+    (Eds.) Sistema Brasileiro de Classificação de Solos. 5 ed., rev. e ampl. − Brasília,
+    DF : Embrapa, 2018. 590 p.
+
+    TEIXEIRA, P.C.; DONAGEMMA, G.K.; FONTANA, A.; TEIXEIRA, W.G. (Eds)
+
+    Manual de métodos de análise de solo. 3. ed. rev. e ampl. – Brasília, DF : Embrapa,
+    2017. 574 p.'
+  course: 'Histórico: Fatores e processos de formação dos solos. Características mineralógicas,
+    morfológicas, químicas e físicas dos principais tipos de solos utilizados para
+    fins florestais. Implicações silviculturais. Reflexos da ciclagem de nutrientes
+    sobre a fertilidade e características físicas dos solos: Características climáticas
+    e edáficas relacionadas com a ocorrência das principais províncias florestais
+    brasileiras: Floresta Tropical Perenifólia, Floresta Tropical Subperenifólia,
+    Floresta Tropical Caducifólia, Floresta Caducifólia, Caatinga e Cerrado. Avaliação
+    da Fertilidade do Solo. Recomendação de Corretivos e Adubos: amostragem de solo;
+    métodos, calibração e interpretação de análises de solo; exigências nutricionais
+    das árvores; épocas, dosagens e métodos de aplicação de corretivos e adubos. Métodos
+    e indiretos de mapeamento da capacidade produtiva dos sítios florestais em função
+    das condições climáticas, fisiográficas, edáficas e de manejo florestal. O sistema
+    radicular das árvores: características morfológicas, distribuição no perfil de
+    solo e funções.'
+  course_name: 'LCF0620 - Solos Florestais
+
+    Forest Soils'
+  deactivation: ''
+  instructors: 55756 - José Leonardo de Moraes Gonçalves
+  lecture_credits: '4'
+  objectives: 'Transmitir conhecimentos básicos e aplicados sobre: a) a caracterização
+    dos principais tipos de solos usados para fins florestais; b) métodos de manejo
+    físico, químico e biológico desses solos; c) o sistema radicular das árvores;
+    d) os métodos de classificação da qualidade dos sítios florestais.'
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220707025553'
+digest: DBRQPHR46CGIXBUYINICSLAB5R2XOI3B
+updated_at: '20220707025553'
+url: https://web.archive.org/web/20220707025553id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0620&codcur=11020&codhab=0
