@@ -1,0 +1,61 @@
+courses:
+  activation: 01/01/2020
+  assessment: A Recuperação será feita por meio de uma prova teórica.
+  bibliography: 'Literatura Básica:
+
+    CARDOSO, E.J.B.N.; ANDREOTE, F.D. Microbiologia do solo 2a Ed. Piracicaba, ESALQ,
+    2016. 221p. (Capítulos indicados em cada aula) – Disponível em pdf no Portal de
+    Livros Abertos da USP.
+
+    BRADY, N. C. & WEIL, R.R. 1999. The Nature and Properties of Soil (12th edition).
+    Prentice Hall, New Jersey.
+
+    MOREIRA, F.M.S. & SIQUEIRA, J.O. Microbiologia e Bioquímica do Solo. Editora UFLA,
+    Lavras. 2002.
+
+    MELO, I.S.; AZEVEDO, J.L. Microbiologia ambiental. Jaguariúna: Embrapa Meio Ambiente,
+    1997.
+
+    Literatura Complementar:
+
+    HATFIELD, J.L.; STEWART, B.A. Soil biology: effects on soil quality. Boca Raton:
+    CRC Press, 1993.
+
+    PAUL, E.A. & CLARK, F.E. Soil biology and biochemistry. San Diego: Academic Press,
+    1989.
+
+    PELCZAR, M.J.; CHAN, E.C.S. & KRIEG, N.R. Microbiologia: conceitos e aplicações.
+    2 ED. São Paulo Makron Books, 1997.
+
+    SIQUEIRA, J. O. (Editor). Avanços em fundamentos e aplicação de micorrizas. Universidade
+    Federal de Lavras, 1996.
+
+    SMITH, S.E. AND READ, D.J. Mycorrhizal symbiosis. 2nd ed.  San Diego : Academic
+    Press, 1997.
+
+    SUBBA RAO, N.S. Soil microorganisms and plant growth. 3rd ed. Lebanon, NH Science
+    Publishers, Inc., 1995.'
+  course: "1.\tMicrobiologia do Solo em perspectiva\n2.\tO solo como habitat para\
+    \ organismos.\n3.\tA comunidade microbiana dos solos.\n4.\tEcologia dos microrganismos\
+    \ do solo.\n5.\tEcofisiologia da rizosfera.\n6.\tMetabolismo microbiano.\n7.\t\
+    Biodegradação.\n8.\tTransformações do carbono e a matéria orgânica do solo.\n\
+    9.\tTransformações do nitrogênio no solo.\n10.\tFixação biológica do nitrogênio.\n\
+    11.\tTransformações do fósforo no solo.\n12.\tMicorrizas.\n13.\tTransformações\
+    \ do enxofre e outros elementos no solo.\n14.\tFauna do solo."
+  course_name: 'LSO0400 - Biologia do Solo
+
+    Soil Biology'
+  deactivation: ''
+  instructors: 2976163 - Fernando Dini Andreote
+  lecture_credits: '2'
+  objectives: Capacitar os estudantes de graduação a avaliar processos biológicos
+    que ocorrem no solo e sua relação com as transformações biogeoquímicas de diferentes
+    espécies químicas de interesse para a produção agrícola e florestal, bem como
+    para a qualidade do ambiente.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220707043850'
+digest: MGZ6HP5ZWP7IM65LZLY6DIT637E2T3BZ
+updated_at: '20220707043850'
+url: https://web.archive.org/web/20220707043850id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LSO0400&codcur=11020&codhab=0
