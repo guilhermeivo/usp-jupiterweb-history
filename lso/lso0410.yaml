@@ -1,0 +1,126 @@
+courses:
+  activation: 01/01/2017
+  assessment: Uma prova escrita teórico-prática.
+  bibliography: 'Literatura Básica:
+
+    BRADY, N. & WEIL, R.R. Elementos da Natureza e Propriedades dos Solos.  Tradutor
+    I.F. Lepsch. Editora Bookman , 2013. 685p.
+
+    EMBRAPA (2013). Sistema Brasileiro de Classificação de Solos (SiBCS).  Terceira
+    edição. SPI, EMBRAPA, 306p.
+
+    KER, J.C.; CURI, N.; SCHAEFER, C.E.G.R. & VIDAL-TORRADO, P. (editores). Pedologia:
+    Fundamentos. Sociedade Brasileira de Ciência do Solo, Viçosa-MG. 2012. 343p.
+
+    LEPSCH, I.F. (2012). 19 Lições de Pedologia. Ed. Oficina de textos. São Paulo.
+    456p.
+
+    SANTOS, R.D.; LEMOS, R.C.; SANTOS, H.G., KER, J.C. & ANJOS, L.H.C.  Manual de
+    Descrição e Coleta de Solos no Campo. SBCS. 6ª edição. Viçosa, 2013. 100p.
+
+    Literatura Complementar :
+
+    IBGE. Coordenação de Recursos Naturais e Estudos Ambientais. Manual Técnico de
+    Pedologia, 2ª  Edição. 2007.
+
+    GROTZINGER, J. & JORDAN, T. Para entender a Terra. Tradução Iuri Duqia Abreu;
+    revisão técnica Rualdo Menegat, Sexta edição. Porto Alegre, Ed. Bookman, 2013.
+    738p.
+
+    TEIXEIRA, W.; TOLEDO, M.C.M.; FAIRCHILD, T.R.; & TAIOLI, F. (2000) Decifrando
+    a Terra. Ed. Oficina de Textos. São Paulo. 557 p.'
+  course: 'TEÓRICA
+
+    - Histórico da Pedologia.
+
+    - O solo para os diferentes usuários: conceito de solo.
+
+    - Mineralogia de Solos e intemperismo. Revisão sobre principais rochas.
+
+    - Fatores de formação do solo. Formação de solos nos domínios geomorfoclimáticos
+    brasileiros.
+
+    - Morfologia de solos: cor, textura, estrutura, consistência.
+
+    - Processos pedogenéticos.
+
+    - O Sistema Brasileiro de Classificação de Solos. Histórico e evolução. Classificações
+    pedológicas internacionais.
+
+    - Atributos diagnósticos.
+
+    - Horizontes diagnósticos.
+
+    - Morfologia, fatores de formação e processos pedogenéticos específicos, comportamento
+    e ocorrência nos domínios geomorfoclimáticos brasileiros de:
+
+    * Argissolos
+
+    * Nitossolos.
+
+    * Planossolos
+
+    * Luvissolos.
+
+    * Latossolos.
+
+    * Chernossolos
+
+    * Cambissolos
+
+    * Neossolos.
+
+    * Gleissolos
+
+    * Organossolos
+
+    * Plintossolos.
+
+    * Vertissolos
+
+    * Espodossolos.
+
+    PRÁTICA
+
+    - Morfologia de solos. Cor, textura e estrutura (laboratório)
+
+    - Descrição morfológica de um perfil (campo).
+
+    - Solos com B textural. (2 aulas de campo).
+
+    - Solos com B nítico. (campo).
+
+    - Solos com B latossólico  ( 2 aulas de campo).
+
+    - Exercícios de classificação de perfis de solos utilizando o Sistema Brasileiro
+    de Classificação de Solos (SiBCS, 2013) (laboratório).
+
+    - Solos pouco desenvolvidos (campo).
+
+    - Solos Hidromórficos (campo).
+
+    - Exercícios de classificação de perfis de solos utilizando o Sistema Brasileiro
+    de Classificação de Solos (SiBCS, 2013) (laboratório).'
+  course_name: 'LSO0410 - Gênese, Morfologia e Classificação de Solos
+
+    Soil Genesis, Morphology and Classification'
+  deactivation: ''
+  instructors: '5471325 - Antonio Carlos de Azevedo
+
+    2084697 - Pablo Vidal Torrado
+
+    3365924 - Tiago Osorio Ferreira'
+  lecture_credits: '4'
+  objectives: Conhecer o solo, sua origem e distribuição na paisagem. Identificar
+    e conhecer os processos formadores de solos. Capacitar o aluno a reconhecer no
+    campo os diferentes tipos de solos, interpretando suas vantagens e limitações
+    aos usos agrícola e ambiental. Aprender o sistema brasileiro e conhecer os sistemas
+    internacionais de classificação de solos. Interpretar mapas de solos para fins
+    agrícolas e ambientais.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220707124056'
+digest: TO4ESC24AHYX5MAIHKGS3YTDNIUTZGAK
+updated_at: '20220707124056'
+url: https://web.archive.org/web/20220707124056id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LSO0410&codcur=11020&codhab=0
