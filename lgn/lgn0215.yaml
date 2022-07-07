@@ -1,0 +1,92 @@
+courses:
+  activation: 01/01/2020
+  assessment: Não haverá recuperação.
+  bibliography: 'CUMMINGS, M.R.; KLUG, W.; PALLADINO, M.A.; SPENCER, C.A. (2010) Conceitos
+    de genética. Artmed, 9a edição.
+
+    GRIFFITHS, A.J.F.; WESSLER, S.R.; CARROLL, S.B.; DOEBLEY, J. (2013) Introdução
+    à Genética. Guanabara Koogan, 10a edição. 736 p.
+
+    RAMALHO, M.A.P.; SANTOS, J.B.; PINTO, A.B.P.; SOUZA, E.A.P.; GONÇALVES, E.M.A.;
+    SOUZA, J.C. (2012). Genética na Agropecuária. UFLA, 5ª edição. 565p.
+
+    SNUSTAD, D.P.; SIMMONS, M.J. (2008) Fundamentos de Genética. Guanabara Koogan,
+    4a edição. 922p.
+
+    LIVRO TEXTO RECOMENDADO
+
+    GRIFFITHS, A.J.F.; WESSLER, S.R.; CARROLL, S.B.; DOEBLEY, J. (2013) Introdução
+    à Genética. Guanabara Koogan, 10a edição. 736 p.
+
+    (Comentário sobre esta obra: Introdução à Genética enfatiza a força e a abrangência
+    da abordagem genética na pesquisa biológica e suas aplicações. Em suas muitas
+    edições, o texto foi revisado e atualizado à medida que a força da análise genética
+    tradicional estendeu-se com a introdução da tecnologia do DNA recombinante e em
+    seguida da genômica. Na 10ª edição, incorporou-se a prática da genética moderna
+    nos novos capítulos sobre genética de populações e a herança de traços complexos.'
+  course: "Introdução: Importância e objetivos da Genética de plantas e animais. Genética\
+    \ da Transmissão: Histórico das descobertas de Mendel; 1ª Lei de Mendel; conceitos\
+    \ de fenótipo, genótipo, conceito clássico de gene, metodologia de análise genética\
+    \ clássica (cruzamentos e análise de progênies). Alelismo múltiplo e alelos de\
+    \ autoincompatibilidade em plantas; cruzamento teste; retrocruzamento; interação\
+    \ alélica (dominância, codominância, sobredominância). Aplicação do teste do X2\
+    \ em Genética. Segregação independente: cruzamentos digênicos, trigênicos, etc...;\
+    \ experimentos de Mendel referentes à 2ª Lei. Recombinação genética: número de\
+    \ genótipos, fenótipos e tipos de gametas possíveis com a alelos e n locos; Interações\
+    \ não alélicas (epistasia); relação entre genes e as vias bioquímicas. Ligação\
+    \ Gênica: Permuta, cromossomos e gametas parentais e recombinantes com genes ligados;\
+    \ provas clássicas de que a recombinação genética corresponde à recombinação cromossômica;\
+    \ símbolos usados para genes ligados; mapeamento genético, cruzamentos envolvendo\
+    \ dois ou mais genes. Mutação: Conceitos e importância; mecanismos de origem,\
+    \ espontâneos e induzidos; mutações de ponto e estruturais; elementos transponíveis;\
+    \ mutações numéricas: poliploidia e aneuploidia; aplicações da poliploidia, incluindo\
+    \ efeito gigas e produção de plantas sem sementes; somática e germinativa; agentes\
+    \ mutagênicos; obtenção de mutantes; uso de mutantes espontâneos e induzidos na\
+    \ agricultura. Herança Poligênica e Genética Quantitativa: Base genética de caracteres\
+    \ controlados por poligenes; contraste entre genes principais (de efeitos maiores)\
+    \ e poligenes e entre caracteres com distribuição contínua e distribuição discreta;\
+    \ médias; variâncias; distribuição normal. Decomposição da variância fenotípica\
+    \ em seus componentes (genético e ambiental). Herdabilidade no sentido amplo;\
+    \ seleção artificial e ganho genético; vigor do híbrido. Genética de Populações:\
+    \ Conceito geral de populações; panmixia; estrutura genética de populações; frequências\
+    \ alélicas, genotípicas e gaméticas em populações panmíticas. Obtenção de frequências\
+    \ alélicas e gaméticas a partir de frequências genotípicas. Equilíbrio de Hardy-Weinberg;\
+    \ uso do teste do X2 para verificar a existência do equilíbrio de H.W; fatores\
+    \ que alteram o equilíbrio: seleção, deriva, mutação e migração. Seleção contra\
+    \ o homozigoto recessivo. Seleção contra um alelo dominante. Conceito de endogamia\
+    \ e autozigose; cálculo do coeficiente de endogamia (F). Conceito de desequilíbrio\
+    \ de ligação. Aplicações dos marcadores moleculares: mistura de sementes. Lei\
+    \ de Proteção de Cultivares. Evolução: Charles Darwin e a \x93Origem das espécies\x94\
+    ; definição darwiniana de seleção natural. Darwinismo e Mendelismo. A Teoria Sintética.\
+    \ Mutação e recombinação; seleção natural; deriva genética aleatória; migração\
+    \ e fluxo gênico. Isolamento reprodutivo e especiação."
+  course_name: 'LGN0215 - Genética
+
+    Genetics'
+  deactivation: ''
+  instructors: 3705356 - Gabriel Rodrigues Alves Margarido
+  lecture_credits: '4'
+  objectives: A disciplina de Genética tem como objetivo proporcionar aos alunos de
+    Engenharia Agronômica e Engenharia Florestal conhecimentos da ciência da genética
+    em dois níveis principais. Inicialmente, através do desenvolvimento de conhecimentos
+    básicos sobre fenômenos, leis, técnicas experimentais e conceitos gerais desta
+    ciência, visa tornar o aluno capaz de analisar e interpretar resultados referentes
+    à herança de caracteres Mendelianos e complexos, em situações de cruzamentos controlados
+    ou não, comumente praticados no contexto de produção agrícola. Em seguida, com
+    o intuito de prover conhecimentos específicos da área das Agrárias, ou de particular
+    relevância para tal, a disciplina visa a introduzir potenciais aplicações dos
+    conhecimentos em genética ao melhoramento de plantas e animais, no tocante à seleção
+    de indivíduos superiores e ao manejo de variabilidade genética no ambiente agrícola.
+    A disciplina visa também dar o embasamento necessário a disciplinas voltadas à
+    conservação de plantas e animais, ou seja, à conservação do meio ambiente. No
+    momento do curso em que está inserida, a disciplina fornece embasamento crítico
+    para a contextualização de conhecimentos a serem adquiridos em disciplinas aplicadas
+    posteriores, fundamentais à capacitação especializada para a atuação de engenheiros
+    agrônomos e florestais no mercado de trabalho.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220707075326'
+digest: GCXOTSIP7LK26R47I6V76D3SZC35QFFI
+updated_at: '20220707075326'
+url: https://web.archive.org/web/20220707075326id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0215&codcur=11020&codhab=0
