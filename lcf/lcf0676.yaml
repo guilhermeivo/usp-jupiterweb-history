@@ -1,0 +1,74 @@
+courses:
+  activation: 01/01/2010
+  assessment: 1 avaliação escrita versando sobre todo o conteúdo do curso
+  bibliography: "AMARAL, W A N. (2001). Characterization, evaluation and conservation\
+    \ of forest genetic resources: the potentials and limitations of new biotechnology\
+    \ tools. In: Forest genetic resources: Status, threats and conservation strategies\
+    \ (eds) Uma Shaanker; R. Ganeshaiah, K. N. & Bawa, K. S. Science Publications,\
+    \ New York, pp 1-10.\nAMARAL, W.A.N.; KJAER, E. ; & GRAUDAL, L. 2004. Forest Genetic\
+    \ Resources: research needs. In: FAO, DFSC & IPGRI. Forest genetic resources conservation\
+    \ and management: In managed natural forests and protected areas (In situ). Chapter\
+    \ 4. pp. 44 - 55, 2004.\nDi Ciero, L. ; AMARAL, W. A. N., Árvores Geneticamente\
+    \ Modificadas na Silvicultura Intensiva . Biotecnologia Ciência e Desenvolvimento.\
+    \ Brasil: , v.29, p.92 - 98, 2002.\nFalconer, D. S. 1990. Introducao a genetica\
+    \ quantitative, Longman, Londres.  464 p.\nKanashiro, M.; Thompson, I. S.; Yared,\
+    \ J. A. G.; Loveless, M. D.; Coventry, P.; Martins-da-Silva, R. C. V.; Degen,\
+    \ B.; Amaral, Weber Antônio Neves do. Improving conservation values of managed\
+    \ forests : the dendrogene project in the Brazilian Amazon.  Roma, 2002.  p. 25-33.\
+    \ Unasylva, Roma, v.53, n. 209, p. 25-33, 2002.\nKJAER, E. ; AMARAL, W.A.N.;;\
+    \ & GRAUDAL, L. 2004. Strategies for conservation of forest genetic resources.\
+    \ In: FAO, DFSC & IPGRI. Forest genetic resources conservation and management:\
+    \ In managed natural forests and protected areas (In situ). Chapter 2. pp. 12-\
+    \ 33, 2004.\nKOSHY, M. P.; AMARAL, W. A. N.  et al.2002. Decision making strategies\
+    \ for conservation and use of forest genetic resources. Chapter 25. In: Managing\
+    \ Plant Genetic Resources. Eds J M M Engels, A H D Brown & M T Jackson CAB International.\n\
+    KWESI, Atta Krah ; KINDT, R ; SKILTON, Jn ; AMARAL, W. A. N. Managing biological\
+    \ and genetic diversity in tropical agroforestry. Agroforestry Systems, Kluwer\
+    \ Academic Publishers, v.61, p. 183-194, 2004.\nVINCETI, B ; AMARAL, W. A. N.\
+    \ ; MILLEUR, B. 2004. Challenges in managing forest genetic resources for livelihoods.\
+    \ BMZ (Bundesministerium für Wirtschaftliche Zusammenarbeit) \x96 FGR(Forest Genetic\
+    \ Resources) - GTZ (Deutsche Gesellschaft für Technische Zusammenarbeit) \x96\n\
+    ZOBEL, B. TALBERT, Applied forest tree improvement. New  York, John Wiley & Sons,\
+    \ 1984, 496p.\nREVISTAS ESPECÍFICAS\n- Scientia Florestalis\n- Silvae Genética\n\
+    - Forest Genetics\n- Unasylva, Roma\nPROCEEDINGS DE CONGRESSOS ESPECÍFICOS\n-\
+    \ FAO\n-IUFRO\n-IPEF\n-SBS e outros relevantes ao tema do melhoramento florestal"
+  course: "1. Importância do Melhoramento Florestal e Histórico e evolução do melhoramento\
+    \ florestal no Brasil e no mundo.\n2. Evolução e Genética de populações: Causas\
+    \ da variação natural.  Mutação; fluxo gênico; seleção natural; deriva genética.\
+    \ Tamanho efetivo populacional\n3.\tPadrões de variação dentro e entre populações\
+    \ e indivíduos: a) localidade geográfica. b) sites. c) povoamentos. d) indivíduos.\n\
+    4.\tProcedências das sementes e variação genética: importância da procedência\
+    \ das sementes - Testes de procedências para essências   exóticas e nativas.\n\
+    5. Métodos de melhoramento: a) seleção massal versus genotípica; b) hibridação\
+    \ e c) seleção assistida por marcadores moleculares.\n6. Métodos de produção de\
+    \ sementes voltados para cálculo de parâmetros genéticos: a) área de coleta de\
+    \ sementes. b) área de produção de sementes. c) pomares de sementes. d) testes\
+    \ de progênies.\n7. Genética quantitativa - testes de progênies e estimação de\
+    \ parâmetros genéticos.\n8. Métodos assexuados: a) importância. b) seleção de\
+    \ árvores superiores. c) testes clonais. d) limitações dos métodos.\n9. Uso da\
+    \ diversidade genética em conservação e melhoramento florestal: seleção de populações\
+    \ x uso do material; conceito de múltiplas populações de cruzamento; estratégias\
+    \ de conservação pelo uso.\n10. Uso de ferramentas biotecnológicas e moleculares\
+    \ aplicadas a conservação e ao melhoramento florestal.\n11. Estudos de caso I.\
+    \ - Melhoramento de Eucaliptos, Pinus, Araucária, Seringueira e outras espécies\
+    \ de interesse econômico.\n12. Estudos de caso II. - Melhoramento de espécies\
+    \ florestais nativas."
+  course_name: 'LCF0676 - Melhoramento Florestal I
+
+    Forest Improvement I'
+  deactivation: ''
+  instructors: 2801928 - Weber Antonio Neves do Amaral
+  lecture_credits: '4'
+  objectives: O curso visa dar ao aluno conhecimentos básicos e aplicados sobre os
+    principais métodos de melhoramento genético de espécies arbóreas. Por intermédio
+    do estudo de variações naturais em essências florestais procura-se motivar o aluno
+    para problemas relativos à conservação genética das espécies (in-situ; ex-situ
+    e circa-situ) e a utilização racional dos recursos genéticos florestais em programas
+    de conservação e melhoramento florestal aplicados a diferentes usos.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220707143341'
+digest: 6BIXA5YBTDBWWJQSHALNIL7OPVA626XN
+updated_at: '20220707143341'
+url: https://web.archive.org/web/20220707143341id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0676&codcur=11020&codhab=0
