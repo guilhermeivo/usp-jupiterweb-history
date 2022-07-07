@@ -1,0 +1,149 @@
+courses:
+  activation: 01/01/2017
+  assessment: Uma prova teórico-prática versando sobre todo o programa lecionado.
+  bibliography: 'Literatura Básica
+
+    ERNANI, P.R. Química do Solo e Disponibilidade de Nutrientes.  Lages: Udesc, 1.
+    ed. , 2008. v.1. 230p.
+
+    LESPSCH, I.F. 19 Lições de Pedologia. São Paulo: Oficina de Textos. 2011. 456p.
+
+    LOPES, A.S. (trad.). Manual da Fertilidade do Solo. São Paulo: ANDA/POTAFOS, 1989.
+    153p.
+
+    MELO, V.F.; ALLEONI, L.R.F. (Eds.). Química e Mineralogia do Solo - Conceitos
+    Básicos. 1. ed. Viçosa: Sociedade Brasileira de Ciência do Solo, 2009. v.1. 695
+    p.
+
+    MELO, V.F.; ALLEONI, L.R.F. (Eds.). Química e Mineralogia do Solo - Aplicações.
+    1.ed. Viçosa: Sociedade Brasileira de Ciência do Solo, 2009. v.1. 685 p.
+
+    MELLO, F.A.F.; BRASIL SOBRINHO, M.O.C.; ARZOLLA, S. et al. Fertilidade do Solo,
+    3 ed. São Paulo: Nobel, 1987.  400p.
+
+    MEURER, E.J. Fundamentos de Química do Solo, 3.ed. Porto Alegre: Editora Evangraf,
+    2006. 285 p.
+
+    NOVAIS, R.F.; ALVAREZ V., V.H.; BARROS, N.F.; FONTES, R.L.F.; CANTARUTTI, R.B.;
+    NEVES, J.C.L. Fertilidade do Solo. Viçosa: Sociedade Brasileira de Ciência do
+    Solo, 2007. v.1. 1017 p.
+
+    RAIJ, B. van. Avaliação da Fertilidade do Solo. Piracicaba: Instituto da Potassa
+    e do Fosfato, 1981. 142p.
+
+    SANTOS, G.A; SILVA, L.S.; CANELLAS, L.P.; CAMARGO, F.A.O. (Eds). Fundamentos da
+    matéria orgânica do solo: ecossistemas tropicais e subtropicais. Porto Alegre:
+    Genesis. 636p. 2008.
+
+    Literatura Complementar:
+
+    BORKERT, C.M.; LANTMAN, A.F. (ed.) Enxofre e micronutrientes na agricultura brasileira.
+    Londrina: Embrapa Soja/IAPAR/SBCS, 1988.  317p.
+
+    BRADY, N.C. Natureza e Propriedades dos Solos, 5 ed. Rio de Janeiro: Livraria
+    Freitas Bastos, 1983.  647p.
+
+    CAMARGO, O.A.; ALLEONI, L.R.F.; CASAGRANDE, J.C. Química dos micronutrientes e
+    de elementos tóxicos em solos. In: FERREIRA, M.E. et al. (ed.) Simpósio sobre
+    micronutrientes e elementos tóxicos na agricultura. Jaboticabal: FCAV/Unesp, 1999.
+    Anais, 2001. cap.5, p.89-124.
+
+    KIEHL, E.J. Manual de Edafologia - Relações Solo-Planta. São Paulo, Editora Agronômica,
+    1979.  264p.
+
+    MAGDOFF, F.; WEIL, R.R. (Eds). Soil organic matter in sustainable agriculture.
+    New York: CRC Press. 398p. 2004.
+
+    MALAVOLTA, E. Manual de Química Agrícola - Nutrição de Plantas e Fertilidade do
+    Solo. São Paulo: Editora Ceres, 1976.  528p.
+
+    MIELNICZUK, J. O Potássio no Solo. Piracicaba: Instituto da Potassa-Fosfato: Instituto
+    Internacional da Potassa, 1978. 79p.  (Boletim Técnico 2)
+
+    MONIZ, A.C. (Coord.) Elementos de Pedologia.  São Paulo: Edusp, 1972.  459p.
+
+    NOVAIS, R.F.; SMYTH, T.J. Fósforo em solo e planta em condições tropicais. Viçosa:
+    UFV, 1999. 399p.
+
+    QUAGGIO, J.A. Acidez e calagem em solos tropicais. Campinas: Instituto Agronômico,
+    2000. 111p.]
+
+    RAIJ, B. van. Fertilidade do Solo e Adubação. São Paulo: Editora Ceres, 1991.
+    343p.
+
+    RAIJ, B. van; BATAGLIA, O.C.; SILVA, N.M. (Coord.) Acidez e Calagem no Brasil.  Campinas:
+    Sociedade Brasileira de Ciência do Solo, 1983.  361p.
+
+    ROSCOE, R.; MERCANTE, F.M.; SALTON, J.C. (Eds). Dinâmica da matéria orgânica do
+    solo em sistemas conservacionistas. Dourados: Embrapa Agropecuária Oeste. 304p.
+    2006.'
+  course: 'Teórico:
+
+    Composição do solo: composição química: as fases sólida, líquida e gasosa do solo;
+    equilíbrio entre as fases do solo. Cargas elétricas do solo: origem, natureza
+    e caráter das cargas elétricas do solo; cargas constantes e cargas variáveis;
+    ponto de carga zero e carga líquida do solo. Adsorção e troca de íons: adsorção
+    e troca catiônica; capacidade de troca catiônica (CTC); CTC efetiva; os cátions
+    trocáveis; soma de bases e saturação por bases; saturação de alumínio; adsorção
+    e trocas de ânions; adsorção específica e não específica. Reação do solo: conceito
+    e importância; origem da acidez e alcalinidade do solo; influência sobre a disponibilidade
+    de nutrientes e o crescimento de plantas; o poder tampão do solo. Acidez do solo:
+    conceitos e causa da acidez, componentes de acidez do solo. Conceitos de matéria
+    orgânica do solo (MOS). Constituintes: Pluviolixiviados; Serapilheira e restos
+    de culturas; Raizes e exsudatos; Substâncias não húmicas e Substâncias húmicas.
+    Características químicas da MOS: Composição elementar e estruturas moleculares
+    das substâncias húmicas; Propriedades coloidais das substâncias húmicas. MOS e
+    atributos químicos do solo. Efeito da MOS nos atributos químicos do solo: Efeito
+    na CTC e na ciclagem de nutriente no sistema solo-planta; Processos de formação
+    de complexos estáveis com cátions; Reações envolvendo íons metálicos. Óxi-redução
+    no solo: Conceito básico; Transformações químicas de elementos essenciais; redutores
+    ou doadores de elétrons do solo; oxidantes ou receptores de elétrons; transformações
+    em solos inundados. Nitrogênio do solo: formas de ocorrência; conteúdo e distribuição
+    do perfil; flutuação do N assimilável; ganhos e perdas de N do solo; mineralização
+    e imobilização; nitrificação e desnitrificação; manutenção do N no solo; o ciclo
+    do N. Fósforo do solo: teor e distribuição no perfil; formas de ocorrência; adsorção
+    e dessorção; precipitação e dissolução dos compostos inorgânicos de P; mineralização
+    e imobilização; fósforo disponível; equilíbrio entre as formas de P; o ciclo do
+    P. Potássio do solo: conteúdo e distribuição no perfil; formas de ocorrência;
+    equilíbrio entre as formas de K; disponibilidade no solo; perdas do solo; o ciclo
+    do K. Cálcio e magnésio do solo: conteúdo e distribuição no perfil; formas de
+    ocorrência; formas disponíveis de Ca e Mg e utilização pelas plantas; perdas do
+    solo; o ciclo do Ca e Mg. Enxofre do solo: conteúdo e distribuição no perfil;
+    formas de ocorrências; o S disponível; mineralização e imobilização do S; oxidação
+    e redução; adição e perdas do solo; o ciclo do S. Micronutrientes do solo: conteúdo
+    e distribuição no perfil; formas de ocorrência; fatores que afetam a disponibilidade;
+    condições favoráveis à ocorrência de deficiência e toxidez; Conceito de solo fértil
+    e solo produtivo; elementos essenciais; leis da fertilidade do solo.
+
+    Prático:
+
+    Uso de unidades do Sistema Internacional em Química e Fertilidade do Solo. Métodos
+    de avaliação da fertilidade do solo: Amostragem de terra para fins de fertilidade:
+    planejamento da amostragem e coletas de amostras de terra (campo); Análises químicas
+    da terra para fins de fertilidade: extratores e métodos analíticos; conferência
+    de resultados; classes de teores e interpretação de resultados. Ensaios demonstrativos
+    (estudos de casos - dinâmica em grupos): A: Avaliação da fertilidade de solos
+    da região de Piracicaba. B: Alterações nos atributos do solo após aplicação de
+    calcário e de fertilizantes N-P-K e sua relação com a resposta das culturas.'
+  course_name: 'LSO0300 - Química e Fertilidade do Solo
+
+    Soil Chemistry and Fertility'
+  deactivation: ''
+  instructors: '128041 - Carlos Eduardo Pellegrino Cerri
+
+    2988250 - Jussara Borges Regitano
+
+    982271 - Luis Reynaldo Ferracciú Alleoni'
+  lecture_credits: '4'
+  objectives: A disciplina tem o objetivo de apresentar ao estudante informações a
+    respeito das características do solo e dos fenômenos químicos que nele ocorrem,
+    e que o tornam um meio adequado ao fornecimento de nutrientes às plantas em quantidades
+    suficientes e balanceadas, de forma a permitir altas taxas de crescimento e produtividade
+    das culturas.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220707050745'
+digest: O6ZZW4FZQVN7HSGX7ACMFPTHFUQI66SL
+updated_at: '20220707050745'
+url: https://web.archive.org/web/20220707050745id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LSO0300&codcur=11020&codhab=0
