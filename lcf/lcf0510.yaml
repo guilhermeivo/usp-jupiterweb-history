@@ -1,0 +1,79 @@
+courses:
+  activation: 01/01/2021
+  assessment: A recuperação é realizada através de um exame de 2 horas que engloba
+    todos assuntos desenvolvidos durante o curso tanto em aulas teóricas, listas de
+    problemas, atividades das aulas práticas, excursões e relatórios técnicos.
+  bibliography: 'Literatura Básica:
+
+    Batista, J.L.F.; Couto, H.T.Z. do; Silva Filho, D.F. da;  Quantificação de Recursos
+    Florestais: árvores, arvoredos e florestas. São Paulo: Oficina de Textos, 384p,
+    2014.
+
+    Lima, A.C.; Pesquisa de Opinião Pública: Teoria, Prática e Estudos de Caso.  São
+    Paulo: Novatec Editora, 400p., 2017.
+
+    Péllico Neto, S.; Brena, D.A.  Inventário Florestal (volume 1). Curitiba: Editado
+    pelos autores, 316p., 1997.
+
+    Sanqueta, C.R.; Watzlawick, L.F.; Côrte, A.P.D.; Fernandes, L. de A.V.; Inventários
+    Florestais: Planejamento e Execução.  Curitiba: Multi-Graphic Gráfica e Editora,
+    270p., 2006.
+
+    Soares, C.P.B.; Paula Neto, F. de; Souza, A.L. de; Dendrometria e Inventário Florestal.
+    Viçosa: Editora UFV, 276p., 2006.
+
+    Literatura Complementar:
+
+    Avery, T.E.; H.E. Burkhart; Forest Mensurements. New York: McGraw-Hill, 1983.
+
+    Figueiredo Filho, A.; Machado, S. do A.; Miranda, R.O.V. de; Retslaff, F.A. de
+    S.; Compêndio de Equações de Volume e de Afilamento de Espécies Florestais Plantadas
+    e Nativas para as Regiões Geográficas do Brasil. Curitiba: Os autores.
+
+    Finger, C.; 1992 Fundamentos de Biometria Florestal. Universidade Federal de Santa
+    Maria / CEPEF / FATEC, 2014.
+
+    Gomes, A.; Medição de arvoredos. Lisboa: Livraria Sã da Costa, 1957.
+
+    Gregoire, T.G.; Valentine, H.T.  Sampling Strategies for Natural Resources and
+    The Environment. Boca Raton: CRC Press, 474p., 2008.
+
+    Husch, B.; C.I. Miller; T.W. Beers; Forest Mensuration. New York: John Wiley &
+    Sons, 1982.
+
+    Schreuder, H.T.; Gregoire, T.G.; Wood G.B.; Sampling Methods for Multiresource
+    Forest Inventory.  New York: John Wiley & Sons, 446p., 1993.
+
+    Shiver, B.D.; Borders, B.E.;  Sampling Techniques for Forest Resource Inventory.  New
+    York: John Wiley & Sons, 356p., 1996.
+
+    Spurr, G. Forest inventory. New York, Ronald Press, 1952. 476p.'
+  course: 'Definição e tipos de inventário florestal; Finalidades dos levantamentos
+    de recursos florestais: comercial, planejamento, abastecimento, pesquisa e conservação;
+    Classificação de tipos florestais através de análise por agrupamento; Índice de
+    sítio: usos e modelos; Curvas de crescimento: modelos matemáticos; Tamanho e forma
+    de parcelas de amostragem; Amostragem simples ao acaso: intensidade da amostragem
+    e seleção aleatória; Amostragem simples ao acaso de proporções: determinação do
+    erro e intervalo de confiança; Amostragem sistemática: problemas e soluções; Amostragem
+    estratificada: determinação da intensidade da amostragem; Estimador de Razão;  Amostragem
+    por conglomerado: usos e determinação da intensidade da amostragem; Levantamento
+    de opinião de populações humanas: métodos e suas aplicações à Engenharia Florestal.'
+  course_name: 'LCF0510 - Inventário Florestal
+
+    Forest Inventory'
+  deactivation: ''
+  instructors: '86793 - João Luis Ferreira Batista
+
+    85364 - Luiz Carlos Estraviz Rodriguez'
+  lecture_credits: '4'
+  objectives: Capacitar o aluno a utilizar as diversas técnicas estatísticas de amostragem
+    nos levantamentos florestais a níveis nacional e regional e de propriedade rural,
+    de modo a fornecer subsídios ao planejamento, conservação e utilização racional
+    de recursos florestais.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220707131921'
+digest: GDFNQM7NAVCWXQ6PWZAQNQM6ZGNVBSP2
+updated_at: '20220707131921'
+url: https://web.archive.org/web/20220707131921id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0510&codcur=11020&codhab=0
