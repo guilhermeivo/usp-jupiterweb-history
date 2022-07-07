@@ -1,0 +1,52 @@
+courses:
+  activation: 01/01/2020
+  assessment: Aplicação de prova teórica e prática sobre todo o programa lecionado
+    e, eventualmente, apresentação da coleção de insetos de importância florestal,
+    no caso de aluno que não o apresentou na época devida.
+  bibliography: "Literatura Básica:\nGALLO, D.; NAKANO, O.; SILVEIRA NETO, S.; CARVALHO,\
+    \ R.P.L.; BATISTA, G.C.de; BERTI  FILHO, E.; PARRA, J.R.P.; ZUCCHI, R.A.; ALVES,\
+    \ S.B.; VENDRAMIM, J.D.; MARCHINI, L.C.; LOPES, J.R.S.; OMOTO, C. Entomologia\
+    \ Agrícola. Biblioteca de Ciências Agrárias Luiz de Queiroz, Piracicaba, SP: FEALQ,\
+    \ 2002, 920p.\nLiteratura Complementar:\nCIESLA, W.  Forest entomology, a global\
+    \ perspective. Wiley Blackwell, 2011, 416 p.\nCOSTA-LEONARDO, A. M. 2002. Cupins-praga,\
+    \ Morfologia, Biologia e Controle. Divisa Editora, Rio Claro São Paulo.\nCOULSON,\
+    \ R.N. & WITTER, J.A. Forest Entomology. Ecology and Management.  John Wiley &\
+    \ Sons, New York, 1984.  669p.\nDELLA LUCIA, T. M. 2011. Formigas Cortadeiras,\
+    \ da Bioecologia ao Manejo. Editora UFV.\nCOSTA, E. C., CANTARELLI, E. B. Entomologia\
+    \ Florestal Aplicada. Editora UFSM. 2014, 256 p.\nGRAHAM, S.A. & KNIGHT, F.B.\
+    \  Principles of forest entomology. McGraw-Hill Book Company, San Francisco, 1965.\
+    \  417p.\nSILVA, A.G.A. & ALMEIDA, D.G.  Entomologia florestal. Contribuição ao\
+    \ estudo das\t coleobrocas. Serv. inf. Agr., Min. Agricultura, Rio de Janeiro,\
+    \ 1941.  100p."
+  course: "SEMANAS\tAULAS TEÓRICO-PRÁTICAS (4 horas) e EBP (1 hora)\n1. Introdução\
+    \ à entomologia – características gerais dos insetos e introdução ao EBP\n2. Morfologia\
+    \ da cabeça. Tipos de aparelho bucal.\n3. Morfologia do tórax. Tipos de pernas.\n\
+    4.Morfologia do abdome. Tipos de larvas e pupas.\n5. Regra de nomenclatura e Ordens,\
+    \ instruções EBP\n6. Aula de campo e aplicações EBP\n7.Desenvolvimento e Fisiologia\
+    \ - Sistemas.\n8.Controle de pragas florestais: químico, biológico (inimigos naturais)\
+    \ e integrado\n9. Aula de campo e aplicações EBP\n10. Entomologia Florestal: histórico\
+    \ e desenvolvimento no Brasil. Ordens de importância florestal.\n11. Ordem Lepidoptera:\
+    \ lagartas desfolhadoras\n12. Ordem Coleoptera: besouros desfolhadores e inimigos\
+    \ naturais.\n13. Ordem Hymenoptera: formigas, vespas, abelhas e parasitoides\n\
+    14. Ordem Blattodea: cupins\n15. Ordem Orthoptera: gafanhotos, grilos e paquinhas\
+    \ – pragas de viveiros florestais\n16. Ordens Hemiptera e Homoptera: percevejos,\
+    \ psilideos e cigarrinhas\n17. Apresentações EBP"
+  course_name: 'LEA0221 - Entomologia Florestal
+
+    Forest Entomology'
+  deactivation: ''
+  instructors: 6590960 - Wesley Augusto Conde Godoy
+  lecture_credits: '5'
+  objectives: Dar aos alunos conhecimentos básicos sobre os insetos, fornecer informações
+    básicas sobre as principais pragas florestais e os insetos envolvidos em serviços
+    ecossistêmicos, discutir métodos de controle das pragas e sua aplicação no controle
+    de pragas das espécies florestais arbóreas, estimular os alunos na identificação
+    de sinais de infestações por insetos florestais através do estudo baseado em problemas
+    (EBP).
+  practical_credits: '0'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220707164457'
+digest: ZC6A7TUGZMWIVCLOQN4QYNRDJPKZ3TD3
+updated_at: '20220707164457'
+url: https://web.archive.org/web/20220707164457id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0221&codcur=11020&codhab=0
