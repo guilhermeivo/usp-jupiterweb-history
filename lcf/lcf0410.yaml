@@ -1,8 +1,8 @@
 courses:
-  activation: 01/01/2016
+  activation: 01/01/2021
   assessment: A recuperação é realizada através de um exame de 2 horas que engloba
     todos assuntos desenvolvidos durante o curso tanto em aulas teóricas, listas de
-    problemas e atividades das aulas práticas.
+    problemas, atividades das aulas práticas, excursões e relatórios técnicos.
   bibliography: 'Literatura Básica:
 
     Batista, J.L.F.; Couto, H.T.Z. do; Silva Filho, D.F. da; 2014 Quantificação de
@@ -16,6 +16,9 @@ courses:
 
     Batista, J.L.F. et al. 2001 Desempenho de modelos de relação hipsométrica: estudo
     em três tipos de floresta, Scientia Forestalis, n.60, p.149-163.
+
+    Deese, J.; Deese, E.K.; 1986 Estudando em Livros Didáticos. In: Deese, J.; Deese,
+    E.K. Como Estudar, cap. 5. Rio de Janeiro: Livraria Freitas Bastos, 1986.
 
     Machado, S. do A.; Figueiredo Filho, A.; 2003 Dendrometria. Afonso Figueiredo
     Filho e Sebastião do S. Do A. Machado, Curitiba.
@@ -31,18 +34,25 @@ courses:
 
     Avery, T.E.; H.E. Burkhart; 1983 Forest Mensurements. New York: McGraw-Hill.
 
-    Bitterlich, W. The Relascope Idea: Relative Measurement in Forestry. Slough: Commonwealth
-    Agricultural Bureaux, 1984
+    Bitterlich, W.; 1984  The Relascope Idea: Relative Measurement in Forestry. Slough:
+    Commonwealth Agricultural Bureaux.
 
-    Finger, C. Fundamentos de Biometria Florestal. Universidade Federal de Santa Maria
-    / CEPEF / FATEC, 1992
+    Figueiredo Filho, A.; Machado, S. do A.; Miranda, R.O.V. de; Retslaff, F.A. de
+    S.; 2014 Compêndio de Equações de Volume e de Afilamento de Espécies Florestais
+    Plantadas e Nativas para as Regiões Geográficas do Brasil. Curitiba: Os autores.
 
-    Gomes, A. Medição de arvoredos. Lisboa: Livraria Sã da Costa, 1957
+    Finger, C.; 1992 Fundamentos de Biometria Florestal. Universidade Federal de Santa
+    Maria / CEPEF / FATEC.
+
+    Gomes, A.; 1957  Medição de arvoredos. Lisboa: Livraria Sã da Costa.
 
     Husch, B.; C.I. Miller; T.W. Beers; 1982 Forest Mensuration. New York: John Wiley
-    \& Sons.
+    & Sons.
 
-    Philip, M. Measuring Trees and Forests. Wallingford: CAB International, 1994'
+    Machado, S. do A.; Figueiredo Filho, A.; 2003 Dendrometria.Curitiba: Os autores.
+
+    Perlin, J.; 1992 História das florestas: a importância da madeira no desenvolvimento
+    da civilização. Rio de Janeiro: Imago, 490p.'
   course: "Apresentação da disciplina: apresentação da relação da disciplina com as\
     \ outras áreas das Ciências Florestais e com as atividades técnicas da profissão\
     \ florestal; apresentação do \x93modus operandi\x94 da disciplina.\nMensuração\
@@ -81,14 +91,14 @@ courses:
   deactivation: ''
   instructors: 86793 - João Luis Ferreira Batista
   lecture_credits: '4'
-  objectives: Auxiliar os alunos a conhecer e entender os métodos e técnicas utilizados
-    na mensuração de árvores e arvoredos, os tipos de dados gerados, bem como os métodos
-    quantitativos de processamento dos dados obtidos em campo necessários para gerar
-    informações úteis ao conhecimento das florestas e ao seu manejo.
+  objectives: Apresentar e discutir os métodos e técnicas utilizados na mensuração
+    de árvores e arvoredos, os tipos de dados gerados, bem como os métodos quantitativos
+    de processamento dos dados obtidos em campo necessários para gerar informações
+    úteis ao conhecimento das florestas e ao seu manejo.
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20201029113802'
-digest: JTJCRM3E4IUB7JS2NEKMLJL22UACXVCJ
-updated_at: '20201029113802'
-url: https://web.archive.org/web/20201029113802id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0410&nomdis=
+created_at: '20220707043738'
+digest: UWIS2CW2PVP6DUS4LQPM3UMZQ6DQ7I4S
+updated_at: '20220707043738'
+url: https://web.archive.org/web/20220707043738id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0410&codcur=11020&codhab=0
