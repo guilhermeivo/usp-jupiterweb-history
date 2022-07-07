@@ -1,0 +1,88 @@
+courses:
+  activation: 15/07/2020
+  assessment: "Opção 1: \treentrega das atividades não cumpridas com sucesso no semestre\
+    \ da disciplina, para alunos com média entre 4,5 e 4,99\nOpção 2: \tOpção1 + trabalho\
+    \ de pesquisa no laboratório que deve culminar numa participação num SIICUSP,\
+    \ para alunos com média entre 3,0 e 4,49\nOpção 3: \tprova abrangendo toda a matéria\
+    \ dada na disciplina, principalmente a dos exercícios e relatórios."
+  bibliography: 'Phyton documentation online;
+
+    Coursera, cursos selecionados;
+
+    Youtube.com, vídeos selecionados;
+
+    Herbert Schildt. C compelto e total. 3a ed. Tradução Roberto Carlos Mayer. Makon
+    Books, 810p. 1996.
+
+    Delgado, A.L.N. Linguagem C++ Notas de aula. http://www.inf.ufpr.br/ci208/NotasAula/notas.html,
+    02/02/2020.
+
+    Jaime Evaristo. Aprendendo a Programar Programando na Linguagem C. Ed Digital
+    revisada. 138p. http://professor.ic.ufal.br/jaime/livros/Aprendendo%20a%20Programar%20Programando%20na%20Linguagem%20C.pdf,
+    02/03/2020.
+
+    DEITEL, Paul. DEITEL, Harvey. C: Como Programar. Editora Makron Books, 6ª edição,
+    2011.
+
+    MIZRAHI, Victorine Viviane. Treinamento em Linguagem C: módulo 1, São Paulo: McGraw-
+    Hill. 1995.
+
+    MIZRAHI, Victorine Viviane. Treinamento em Linguagem C: módulo 2, São Paulo: McGraw-Hill.
+    1995.
+
+    KELLEY, Al. POHL, Ira. A Book on C – Editora Addison Wesley, Fourth Edition, 1998.
+
+    CARPENTER, V. Learn C/C++ today : http://www.cyberdiem.com/vin/learn.html Uma
+    coleção de referências e tutoriais sobre as linguagens C e C++ disponíveis na
+    Internet.
+
+    Pereira, M.M.F; Tostes, R.P. Criando Macros com o VBA. Alta Books, Rio de Janeiro,
+    304p. 2017.
+
+    CELANI, G. CAD Criativo. Rio de Janeiro: Campus, 2003.
+
+    ROE, A. G. Using Visual Basic with AutoCAD. 2a Edição. Albany, NY: Thomson Learning
+    / AutoDesk Press, 2001.'
+  course: 'ção Computacional Estruturada:
+
+    -Linguagem Phyton: Definição de variáveis, comandos print e input, estruturas
+    de repetição (while, for), comando de opção (if, elif, else), funções, listas,
+    operações algébricas, operações com vetores e matrizes.
+
+    -Linguagem C e C++: Instalação IDE-Codeblocks, Definição de variáveis, comando
+    printf e scanf, diretivas include, desvios condicionais (If, Else), estruturas
+    de repetição (while, for), funções, listas, Operações algébricas, operações com
+    vetores e matrizes.
+
+    -Linguagem Visual Basic (VBA), Exel e Macros: guia desenvolvedor, desvios condicionais
+    (if then else), estruturas de repetição (do while loop, do until, for next/step,
+    for each next. Funções, operações algébricas, operações com vetores e matrizes,
+    gráficos.
+
+    Introdução à robótica: adaptação de linguagens ao comando de sensores, comandos
+    de operações robotizadas, práticas com arduíno.
+
+    Introdução à mecatrônica, máquinas de comando numérico por computador.'
+  course_name: 'LCF0420 - Linguagens Estruturadas e Programação Computacional Orientada
+    à Robótica
+
+    STRUCTURED LANGUAGES AND COMPUTATIONAL PROGRAMMING ORIENTED TO ROBOTICS'
+  deactivation: ''
+  instructors: 74003 - José Nivaldo Garcia
+  lecture_credits: '2'
+  objectives: 'Oferecer aos alunos a oportunidades de iniciarem-se nas linguagens
+    computacionais modernas e na programação orientada à robótica industrial.
+
+    Formar o aluno para avaliar os diferentes processos de industrialização da madeira
+    e sua transformação final em bens e produtos, estudando os diversos equipamentos
+    de última geração, “layouts” e os conceitos básicos dos principais processos industriais
+    adequados às especificidades da matéria-prima. Consolidar conceitos de qualidade
+    da madeira associada ao uso final do produto e criar indicadores técnicos de otimização
+    de industrias madeireiras.'
+  practical_credits: '2'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220707033243'
+digest: R5V2DEEKYLCNQB2S2NQF2MKO6SZCKXPM
+updated_at: '20220707033243'
+url: https://web.archive.org/web/20220707033243id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0420&codcur=11020&codhab=0
