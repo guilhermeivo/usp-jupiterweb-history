@@ -1,0 +1,62 @@
+courses:
+  activation: 01/01/2021
+  assessment: 1 Prova Teórica
+  bibliography: "BORÉM, A. Biotecnologia Florestal. Editora UFV, Viçosa \x96 MG, 2007.\
+    \ 387p.\nBRASIL. Ministério da Agricultura, Pecuária e Abastecimento. Legislação\
+    \ sobre sementes e mudas: Lei N° 10.711, de 05 de agosto de 2003, Decreto N° 5.153,\
+    \ de 23 de julho de 2004/Ministério da Agricultura, Pecuária e Abastecimento,\
+    \ Secretaria de Defesa Agropecuária. Coordenação de sementes e mudas \x96 Brasília:\
+    \ MAPA/DAS/CSM, 2007. 318p.\nBRASIL. Ministério da Agricultura, Pecuária e Abastecimento.\
+    \ Lei de Proteção de Cultivares: Lei N° 9.456, de 25 de abril de 1997, Serviço\
+    \ Nacional de Proteção de Cultivares \x96 Brasília: MAPA/SNPC, 1997.\nCARNEIRO,\
+    \ J.G.A. Produção e Controle de Qualidade de Mudas Florestais. UFPR/FUPEF, 1995.\n\
+    CARVALHO, C.M. Produção de Mudas de Essências Florestais de Rápido Crescimento.\
+    \ FCA/UNESP, Botucatu, 1992.\nCESP - COMPANHIA ENERGÉTICA DE SÃO PAULO. Manual\
+    \ de produção de mudas de essências florestais. CESP : São Paulo, 2000. 55p. (Série\
+    \ Divulgação e Informação, 244).\nGONÇALVES, J.L.M. & BENEDETTI, V. (eds.) Forest\
+    \ Nutrition and Fertilization, IPEF, Piracicaba, 2004. 421p.\nSIMÕES, J.W. Problemática\
+    \ da produção de mudas de essências florestais. Série Técnica, IPEF. Piracicaba.\
+    \ 4(13):1-29. 1987.\nTRINDADE, C.; REZENDE, J.L.P.; JACOVINE, L.A.G.; SARTÓRIO,\
+    \ M.L. Ferramentas da Qualidade: Aplicação na Atividade Florestal. Editora UFV.\
+    \ Viçosa - MG, 2007. 158p.\nUPOV. International Union for the Protection of New\
+    \ Varieties of Plants. Explanatory notes on essentially derived varieties under\
+    \ the UPOV Convention. Genebra/Suíça, 2008. 11 f. 57ª Sessão do Comitê Administrativo\
+    \ e Jurídico da UPOV, Genebra/Suíça, 2008.\nXAVIER, A.; WENDLING, I.; SILVA, R.L.\
+    \ Silvicultura Clonal: Princípios Técnicos. Editora UFV. Viçosa - MG, 2009. 272p."
+  course: '* Introdução: Avaliação do local para instalação de viveiros florestais;
+
+    * Infraestrutura de viveiro;
+
+    * Recipiente e Substrato;
+
+    * Qualidade da água e fertilização de mudas;
+
+    * Propagação sexuada;
+
+    * Propagação assexuada (cultura de tecido, macro e micro propagação, técnicas
+    de bioreatores);
+
+    * Pragas e doenças em viveiros florestais;
+
+    * Padrão de qualidade de mudas;
+
+    * Produção de mudas de variedades trangênicas e biossegurança;
+
+    * Aspectos legais relativos à produção de sementes e mudas (Lei, Decreto e Normativas
+    relacionadas).'
+  course_name: 'LCF0720 - Viveiro Florestal
+
+    Forest Nursery'
+  deactivation: ''
+  instructors: 7024292 - Luciana Duque Silva
+  lecture_credits: '3'
+  objectives: Transmitir conhecimentos de natureza teórica e práticas relativas às
+    principais técnicas utilizadas para a produção de mudas de espécies florestais
+    cultivadas em escala comercial.
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220707053813'
+digest: 2K6NUDW3I7RNXWODAOQ4BKYXQACAXADL
+updated_at: '20220707053813'
+url: https://web.archive.org/web/20220707053813id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0720&codcur=11020&codhab=0
