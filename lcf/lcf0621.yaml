@@ -1,0 +1,103 @@
+courses:
+  activation: 01/01/2020
+  assessment: Uma prova teórica versando sobre toda matéria
+  bibliography: 'BERTONI, J. & LOMBARDI NETO, F. Conservação do solo. São Paulo, Ícone,
+    1990. 355p.
+
+    BROOKER, M.I.H. & KLEINIG, D.A. Field guide to Eucalypts. Melbourne, Bloomings
+    books, 3a edição, 2006. 356p.
+
+    CARPANEZZI, A.A. et al. Zoneamento ecológico para plantios florestais no Estado
+    do Paraná. EMBRAPA-CNPF, Documento no 17, 1986, 89 p.
+
+    FERREIRA, M. Escolha de espécies de eucalipto. Piracicaba, ESALQ, Apostila, sem
+    data, 29 p.
+
+    FERREIRA, L.R.; MACHADO, A.F.L.; FERREIRA, F.A. & SANTOS, L.D.T. Manejo integrado
+    de plantas daninhas na cultura do eucalipto. Viçosa, Ed. UFV, 2010. 140p.
+
+    GOLFARI, L.; CASER, R.L. & MOURA, V.P. Zoneamento ecológico esquemático para reflorestamento
+    no Brasil (2a aproximação), PNUD/FAO/IBDF/BRA-45. Série Técnica no 11, Brasília,
+    1978, 66p.
+
+    GONÇALVES JLM, ALVARES CA, HIGA AR, SILVA LD, ALFENAS AC, STAHL J, FERRAZ SFB,
+    LIMA WP, BRANCALION PHS, HUBNER A et al. 2013. Integrating genetic and silvicultural
+    strategies to minimize abiotic and biotic constraints in Brazilian eucalypt plantations.
+    Forest Ecology and Management 301: 6–27.
+
+    GONÇALVES, J.L.M. & BENEDETTI, V. (eds.) Forest Nutrition and Fertilization, IPEF,
+    Piracicaba, 2004. 421p.
+
+    GONÇALVES JLM, SILVA LD, BEHLING M, ALVARES CA. 2014. Management of industrial
+    forest plantations. IN: BORGES JG, DIAZ-BALTEIRO L, MCDILL ME, RODRIGUEZ LCE (EDS),
+    the management of industrial forest plantations: theoretical foundations and applications.
+    BERLIN: SPRINGER. PP 91–119.
+
+    GONÇALVES, J.L.M. & STAPE, J.L. (Eds.) Conservação e cultivo de solos para plantações
+    florestais. Piracicaba, IPEF, 2002. 498p.
+
+    GONÇALVES, J.L.M.; NOGUEIRA JR., L.R.; DUCATTI, F. Recuperação de solos degradados.
+    In: KAGEYAMA, P.I.; OLIVEIRA, R.E.; MORAES, L.F.D.; ENGEL, V.L.; GANDARA, F.B.
+    (Org.). Restauração ecológica de ecossistemas naturais. FEPAF, Botucatu, 2003.
+    p. 111-163.
+
+    GONÇALVES, J.L.M.; VALERI, S.V. Eucalipto e pinus. In: FERREIRA, M.E.; CRUZ, M.C.P.;
+
+    RAIJ, B. van; ABREU, C.A. (Eds.). Micronutrientes: elementos tóxicos na agricultura.
+    Jaboticabal: CNPq /FAPESP /PATAFOS, 2001. p.393-423.
+
+    LAMPRECHT, H. Silvicultura nos trópicos: ecossistemas florestais e respectivas
+    espécies arbóreas - possibilidades e métodos de aproveitamento sustentado. Eschborn,
+    1990, 343p.
+
+    LORENZI, H. Árvores brasileiras. Manual de identificação e cultivo de plantas
+    arbóreas nativas do Brasil. Editora Plantarum, 1992. 368p.
+
+    NAMBIAR, S. & BROWN, A. (Eds.) Management of soil, nutrients and water in tropical
+    plantation forests. Camberra, ACIAR Austrália/CSIRO Austrália/CIFOR Indonésia,
+    1997. 571 p.
+
+    PRADO, R. M.; WADT, P.G.S.(Org.). Nutrição e adubação de espécies florestais e
+    palmeiras. 1ed.Jaboticabal-SP: FCAV/CAPES, 2014, v. 1, p. 349-382.
+
+    PROCHNOW, L.I.; CASARIN, V. 7 STIPP, S.R. (Eds.) Boas práticas para uso eficiente
+    de fertilizantes. Piracicaba, IPNI, 2010. (volume 3) Serviço Florestal Brasileiro.
+    Florestas do Brasil em resumo. Brasília, SFB, 2010. 152p.
+
+    SILVA, A. A.; SILVA, J. F. (Eds.). Tópicos em manejo de plantas daninhas. Viçosa,
+    MG: Universidade Federal de Viçosa, 2007. p. 17-62.
+
+    STAPE, J.L. Memória da 4a Reunião Técnica sobre Manejo de Brotação de Eucalyptus
+    - Série Técnica IPEF, Piracicaba, v. 11, n. 30, 1997.'
+  course: "\x95\tO setor florestal brasileiro: aspectos sociais, econômicos, ecológicos\
+    \ e silviculturais;\n\x95\tConservação e preparo do solo: i) práticas de caráter\
+    \ vegetativo, edáfico e mecânico; ii) efeito de diferentes sistemas de manejo\
+    \ sobre os atributos morfológicos, físicos e químicos do solo;\n\x95\tDiagnóstico\
+    \ da fertilidade do solo; Adubos e recomendação de adubação: i) características\
+    \ físicas, químicas e efeito dos principais adubos sobre a fertilidade do solo;\
+    \ ii) adubação de plantio e de cobertura: época de aplicação, doses e métodos\
+    \ de distribuição;\n\x95\tEspaçamento de plantio: critérios para sua definição\
+    \ em função das características ecofisiológicas, edáficas e do manejo florestal;\n\
+    \x95\tTécnicas de plantio e replantio;\n\x95\tRegeneração de povoamentos florestais\
+    \ por meio da condução da brotação (Método da Talhadia): objetivos, fatores econômicos\
+    \ e técnicos a serem considerados para a tomada de decisão, desbrota, planejamento\
+    \ operacional (época, rendi¬mentos operacionais e custos). Interplantio;\n\x95\
+    \tTratos culturais: controle de plantas daninhas; prevenção contra incêndios;\
+    \ controle de formigas e cupins;\n\x95\tSilvicultura de precisão: objetivos; equipamentos;\
+    \ aplicações nas fases de planejamento, implantação e manejo florestal."
+  course_name: 'LCF0621 - Implantação e Regeneração de Plantações Florestais
+
+    Establishment and Regeneration of Forest Plantations'
+  deactivation: ''
+  instructors: 55756 - José Leonardo de Moraes Gonçalves
+  lecture_credits: '4'
+  objectives: Transmitir conhecimentos teóricos e práticos relativos à implantação,
+    à regeneração e aos tratos culturais essenciais para o estabelecimento de plantações
+    florestais sustentáveis socioeconômica e ecologicamente.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220707005417'
+digest: EBIFWG34Z72UMH7GUK6XSZ3QNIK7MBZA
+updated_at: '20220707005417'
+url: https://web.archive.org/web/20220707005417id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0621&codcur=11020&codhab=0
