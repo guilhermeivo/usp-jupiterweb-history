@@ -1,0 +1,69 @@
+courses:
+  activation: 15/07/2020
+  assessment: "Opção 1: \treentrega das atividades não cumpridas com sucesso no semestre\
+    \ da disciplina, para alunos com média entre 4,5 e 4,99\nOpção 2: \tOpção1 + trabalho\
+    \ de pesquisa no laboratório que deve culminar numa participação num SIICUSP,\
+    \ para alunos com média entre 3,0 e 4,49\nOpção 3: \tprova abrangendo toda a matéria\
+    \ dada na disciplina, principalmente a dos exercícios e relatórios"
+  bibliography: 'BROWN, N.C. & BETHEL, J.S. Lumber, New York, John Willey &       Sons,
+    1958, 2 ed. 379 p.
+
+    BROWN, N.C. & BETHEL, J.S. La indústria maderera, México,       Limusa Wiley,
+    1965. 397 p.
+
+    COLEÇÃO WOOD SCIENCE AND TECHNOLOGY e outros periódicos afins.
+
+    PANSHIN, A.J. & HARRAR, E.S. & BETHEL, J.S. Forest products, New York, McGraw-Hill,
+    1962, 2 ed. 538 p.
+
+    WALLIS, N.K. Australian timber handbook, Sydney, Halstead, 1963. 391p.
+
+    ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. Norma NBR-7190: projeto de estruturas
+    de madeira. Rio de Janeiro, 1997. 107 p.
+
+    AMERICAN SOCIETY FOR TESTING AND MATERIALS. D4688-99 Standard Test Methods for
+    evaluating strutural adhesives for finger jointing lumber. West Conshohoken, 2005.
+    7p.
+
+    AMERICAN SOCIETY FOR TESTING AND MATERIALS. D198-84. Standard Methods of StaticTest
+    of Timber in Strutural Sizes. West Conshohoken,1997.
+
+    FOREST PRODUCTS LABORATORY. Wood handbook - Wood as an engineering material, Madison:
+    U.S. Department of Agriculture, Forest Service, 1999. 463 p.
+
+    GARCIA, J.N. Serraria, ESALQ/LCF, 2009.'
+  course: 'Introdução à linguagens Python, C, C++ e VBA com ênfase ao cálculo vetorial
+    e matricial.
+
+    Introdução à mecatrônica, máquinas de comando numérico por computador (CNC: routers,
+    planners, drillers), uso do AutoCad em projetos de madeira e comunicação com equipamentos
+    CNC, Interação máquina madeira,
+
+    Problemas que surgem no e após o desdobro: Devido aos equipamentos,Devido às matérias-primas.
+    Procedimentos minimizadores de defeitos: Por seleção da matéria-prima. Por adequada
+    adaptação dos equipamentos. Por técnicas de serrar e beneficiar. Clínica das serras,
+    facas brocas e fresas. Programação linear aplicada à otimização de indústrias
+    madeireiras. Levantamento de demandas. Estoque de matéria-prima para auto-sustentação.
+    Versatilidade de produção: para atendimento do mercado, para melhores qualidades.
+    Pré-fabricação de estruturas de madeira: maciças. VLC, OSL, reticuladas, vergadas.
+    Produtos engenheirados de madeira. Ensaios mecânicos de árvores e de estruturas
+    reais.'
+  course_name: 'LCF0665 - Tópicos Avançados em Processamento Mecânico da Madeira
+
+    Advanced Topics on Wood Mechanical Processing'
+  deactivation: ''
+  instructors: 74003 - José Nivaldo Garcia
+  lecture_credits: '2'
+  objectives: Formar o aluno para avaliar os diferentes processos de industrialização
+    da madeira e sua transformação final em bens e produtos, estudando os diversos
+    equipamentos de última geração, “layouts” e os conceitos básicos dos principais
+    processos industriais adequados às especificidades da matéria-prima. Consolidar
+    conceitos de qualidade da madeira associada ao uso final do produto e criar indicadores
+    técnicos de otimização de industrias madeireiras.
+  practical_credits: '2'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220707062830'
+digest: 3GOK4IYTRL3NFW4IKA4IAC62DIGO4CSV
+updated_at: '20220707062830'
+url: https://web.archive.org/web/20220707062830id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0665&codcur=11020&codhab=0
