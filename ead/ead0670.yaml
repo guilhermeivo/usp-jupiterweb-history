@@ -1,0 +1,53 @@
+courses:
+  activation: 01/01/2014
+  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
+    será submetido a uma reavaliação final, a título de recuperação.
+  bibliography: 'PINDYCK, Robert S. & RUBINFELD, Daniel  L. Microeconomia: quarta
+    edição. São Paulo, Makron, 1999. (*)
+
+    GARÓFALO, G. L. & CARVALHO, L. C. P. - Teoria Microeconômica, São Paulo, Atlas,
+    1986, 2ª ed.
+
+    McGUIGAN, J. R.; MOYER, R.C.; HARRIS, F.H. Managerial economics: applications,
+    strategy and tatics. Cincinatti, South Western, 1999. 8e.
+
+    MANSFIELD, Edwin. Managerial economics: theory, applications and cases. Nova Iorque,
+    Prentice-Hall, 1995. 4e.
+
+    REEKIE, W.D.; CROOK, J.N. Managerial economics: a european text. Nova Iorque,
+    Prentice-Hall, 1005. 4e.
+
+    VARIAN, Hal R. Microeconomia: princípios básicos. (tradução da quarta edição americana).
+    Rio de Janeiro, Campus, 1999.
+
+    (*) Bibliografia Básica'
+  course: "1.\tRevisão de regressão e cálculo\n2.\t Introdução a mercados e preços;\
+    \ fundamentos da oferta e demanda;\n3.\tComportamento do consumidor: preferências,\
+    \ restrições e escolha;\n4.\tÍndices de custo de vida;\n5.\tDemanda individual\
+    \ e demanda de mercado;\n6.\tEstimativa empírica da demanda;\n7.\tEscolha do consumidor\
+    \ e incerteza;\n8.\tAspectos econômicos comportamentais;\n9.\tTecnologia e produção;\n\
+    10.\tCustos da produção;\n11.\tEstimativa e previsão de custos;\n12.\tMaximização\
+    \ de lucros e oferta competitiva;\n13.\tAnálise de mercados competitivos;"
+  course_name: 'EAD0670 - Economia de Empresas I
+
+    Corporate Economics I'
+  deactivation: ''
+  lecture_credits: '4'
+  objectives: 'Uma das possíveis formas de dividir a economia é separá-la em duas
+    grandes partes: microeconomia e macroeconomia. A macroeconomia trataria de grandezas
+    agregadas, como, produto (PIB), emprego, inflação, etc. A microeconomia, por sua
+    vez, focalizaria o comportamento dos agentes econômicos (consumidores, firmas)
+    individualmente considerados e também suas interações em mercados visando a explicar
+    a formação dos preços. Para tomar suas decisões, o administrador lança mão de
+    conhecimentos de diversas disciplinas, dentre as quais a economia, especialmente
+    a microeconomia. O objetivo central desta disciplina é mostrar como os modelos
+    teóricos da microeconomia podem auxiliar o administrador na tomada de decisão.
+    Nesta disciplina são explorados conceitos relacionados à teoria do consumidor,
+    produção e mercados competitivos.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220707224932'
+digest: KF2ZG5XJ5TBF36LWR2VASZ34CMWT2MZK
+updated_at: '20220707224932'
+url: https://web.archive.org/web/20220707224932id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0670&codcur=12012&codhab=4
