@@ -1,0 +1,118 @@
+courses:
+  activation: 01/01/2010
+  assessment: 'Opção 1: reentrega das atividades não cumpridas com sucesso no semestre
+    da disciplina, para alunos com média entre 4,5 e 4,99
+
+    Opção 2: Opção1 + trabalho de pesquisa no laboratório que deve culminar com a
+    participação num SIICUSP, para alunos com média entre 3,0 e 4,49
+
+    Opção 3: prova abrangendo toda a matéria dada na disciplina, principalmente a
+    dos exercícios e relatórios'
+  bibliography: 'ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. Norma NBR-7190: projeto
+    de estruturas de madeira. Rio de Janeiro, 1997. 107 p.
+
+    ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. Norma NB-599. Forças devidas ao vento
+    em edificações. 1978. 62p.
+
+    AMERICAN SOCIETY FOR TESTING AND MATERIALS. D2525-96 Standard Test Methods for
+    Establishing Clear Wood Strength Values. West Conshohoken, 1998.
+
+    AMERICAN SOCIETY FOR TESTING AND MATERIALS. D143 Standard Methods of Testing Small
+    clear Specimens of Timber. West Conshohoken, 1994.
+
+    AMERICAN SOCIETY FOR TESTING AND MATERIALS. D198-84. Standard Methods of StaticTest
+    of Timber in Strutural Sizes. West Conshohoken,1997.
+
+    CALIL JR, C; LAHR, F. A. R; DIAS, A. A. Dimensionamento de elementos estruturais
+    de madeira. V.1. Barueri: Editora Manole Ltda, 2003. 152 p.
+
+    FOREST PRODUCTS LABORATORY. Wood handbook - Wood as an engineering material, Madison:
+    U.S. Department of Agriculture, Forest Service, 1999. 463 p.
+
+    LAHR, F. A. R. Produtos derivados da madeira: síntese dos trabalhos desenvolvidos
+    no Laboratório de Madeiras e de Estruturas de Madeira. EESC  /  SET  / LaMEM,
+    2008. 166 p.
+
+    GARCIA, J.N. Introdução à Estática. Resistência dos Materiais para Engenheiros
+    Florestais e Agrônomos. Piracicaba, ESALQ/LCF, 2009.
+
+    HELLMEIESTER, J.C. Pontes de Madeira. São Carlos, EESC. Tese de Livre docente.
+
+    ________________ Sobre a determinação das características físicas da madeira.
+    São Carlos, EESC/USP. 1973. Tese de Doutorado.
+
+    LAHR, F.A.R. Telhados convencionais de madeira. São Carlos, EESC, 1979.
+
+    MELLO, G.R. Estrutura de Madeira. 1978. 272p.
+
+    MORI, D.D. Exercícios propostos de resistência de materiais. São Carlos, EESC,
+    1978.
+
+    ---------- Exercícios resolvidos de resistência de materiais. São Carlos, EESC,
+    1978.
+
+    NASH, W.A. Resistência dos materiais: resumo da teoria, problemas resolvidos,
+    problemas propostos. São Paulo, McGraw-Hill do Brasil. 1979. 384p.
+
+    PFEIL. W. Estruturas de madeira: dimensionamento segundo as normas brasileiras
+    NB11 e os modernos critérios das normas alemãs e americanas. Rio de Janeiro, Livros
+    Técnicos e Científicos. 1978. 253p.
+
+    SCHIEL, F. Introdução à resistência dos materiais. São Carlos. UFSC. 1980. 3v.
+
+    SILVA JR, J. F. Resistência dos materiais. Belo Horizonte. Edições Engenharia
+    e Arquitetura. 4 ed. 1974. 456p.
+
+    TIMOSHENKO, S. Resistência dos materiais. Rio de Janeiro. Livros Técnicos e Científicos.
+    1979. 2v.
+
+    ---------- Mecânica Técnica. Rio de Janeiro. Livros Técnicos e Científicos. 1977.
+    89p.'
+  course: 'Noções de estática: conceitos fundamentais, corpo rígido, força, unidades
+    de força, composição de forças, decomposição de forças, momento de uma força em
+    relação a um ponto, caso geral de forças no plano, força resultante, ponto de
+    aplicação da resultante, equilíbrio estático de um corpo, tipos de vínculos, diagrama
+    de sólido livre, condições gerais de equilíbrio de um corpo. Características das
+    figuras planas: área, centro de gravidade, momento estático, momento de inércia,
+    raio de giração. Noções de resistência dos materiais: tração simples e compressão
+    em peças curtas (tensão de tração/compressão, deformação, lei de Hooke, diagramas
+    de esforço normal). cisalhamento simples (tensão última de cisalhamento e distorção),
+    flexão simples (esforço cortante, momento fletor, função geral de momentos; tensões
+    normais oriundas da flexão pura, simples, oblíqua e composta;, linha elástica,
+    tensões de cisalhamento), compressão em peças esbeltas (comprimento de flambagem,
+    índice de esbeltez, carga crítica de flambagem). Propriedades mecânicas da madeira:
+    resistência à compressão paralela, módulo de elasticidade na compressão paralela,
+    resistência e módulo de elasticidade na compressão normal, resistência, resistência,
+    módulo de elasticidade e rigidez à flexão estática, resistência ao cisalhamento
+    paralelo às fibras, módulo de elasticidade transversal, dureza Janka, resistência
+    e módulo de elasticidade à compressão/tração inclinada em relação à direção das
+    fibras, fendilhamento longitudinal, tabelas de valores das propriedades físicas
+    e mecânicas de madeiras brasileiras e correlações entre elas. Especificações para
+    o cálculo de peças e estruturas de madeira: cargas permanentes (externas, peso
+    próprio dos elementos), cargas acidentais (sobrecargas, pressão do vento, cargas
+    móveis em pontes rodoviárias). Verificação da estabilidade das estruturas: estruturas
+    isostáticas, vigas maciças, pórticos e estruturas reticuladas, dimensionamentos
+    (teoria de vigas, método dos nós e processo de Hitter). Defeitos naturais da madeira:
+    Origem e importância nas estruturas e as possíveis formas de minimização de seus
+    efeitos através de técnicas construtivas ou de manejo florestal. Dimensionamento
+    de ligações: tipos de ligações, tensões na madeira e nas partes metálicas, ligações
+    com parafusos, ligações com pregos, ligações com entalhes, tarugos ou cavilhas
+    e ligações com adesivos.'
+  course_name: 'LCF0623 - Propriedades Mecânicas e Estruturas de Madeira
+
+    Mechanical Properties and Wood Engineering'
+  deactivation: ''
+  instructors: 74003 - José Nivaldo Garcia
+  lecture_credits: '4'
+  objectives: Caracterizar mecanicamente as propriedades das madeiras nacionais, estabelecendo
+    comparações entre as diversas espécies para indicação de seus fins mais apropriados.
+    Mostrar ao aluno a grande possibilidade de utilização da madeira como elemento
+    estrutural, introduzindo cálculos e projetos estruturais para o dimensionamento
+    de obras como habitações, telhados em geral, pontes e torres de vigia.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220707093757'
+digest: 25NRFO7VQBKNXQFSYY3W3XRSKBAS42MQ
+updated_at: '20220707093757'
+url: https://web.archive.org/web/20220707093757id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0623&codcur=11020&codhab=0
