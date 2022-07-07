@@ -1,0 +1,63 @@
+courses:
+  activation: 01/01/2021
+  assessment: Uma prova sobre toda a matéria
+  bibliography: "BÁSICA:\nMACHADO, C.C. et al. Transporte rodoviário florestal. 2\
+    \ ed. Viçosa: Editora UFV, 2009. 217 p.\nMACHADO, C.C.(Ed.). Colheita florestal.\
+    \ 3 ed. Viçosa: UFV, 2014.543 p.\nSEIXAS, F.; ROMANO, D. Colheita e transporte\
+    \ florestal. Notas de aula. Piracicaba, LCF-ESALQ, 2008. 241 p.\nCOMPLEMENTAR:\n\
+    AMARAL, P. C.; VERÍSSIMO, J. A. O.; BARRETO, P. G.; VIDAL, E. J. S. Floresta para\
+    \ Sempre: um Manual para Produção de Madeira na Amazônia. Belém: Imazon, 1998.130\
+    \ p.\nAPUD, E. et al. Guide-lines on ergonomic study in forestry. Genebra, ILO,\
+    \ 1989. 241 p.\nHASELGRUBER, F.; GRIEFFENHAGEN, K.F.G. Motosserras: mecânica e\
+    \ uso. Porto Alegre, Metrópole, 1989. 136 p.\nLENTINI, M.; VERÍSSIMO, A.; SOBRAL,\
+    \ L. Fatos florestais da Amazônia. Belém: Imazon, 2003. 110 p.\nMACHADO, C.C.\
+    \ Exploração Florestal. Viçosa, Imprensa    Universitária. Volumes 1 a 6.\nMALINOVSKI,\
+    \ J.R. - Técnicas de estudo do trabalho florestal. In: DIETZ, P. Curso de Atualização\
+    \ sobre Sistemas de Exploração e Transporte Florestal. Curitiba-PR, FUPEF, 1983.\
+    \ p.92-109.\nMALINOVSKI, R.A.; MALINOVSKI, J.R. Evolução dos sistemas de colheita\
+    \ de Pinus na região sul do Brasil. Curitiba: FUPEF, 1998. 138 p.\nSEIXAS, F.\
+    \ - Exploração e Transporte de Eucalyptus spp. IPEF/DCF-ESALQ/USP. 1987.\nVIEIRA,\
+    \ G.A. Logística de processo florestal \x96 uma abordagem gerencial. In: XIII\
+    \ SEMINÁRIO DE ATUALIZAÇÃO EM SISTEMAS DE COLHEITA DE MADEIRA E TRANSPORTE FLORESTAL,\
+    \ Curitiba, 2004. Anais. Curitiba, FUPEF. P.147-192. 2004."
+  course: 'Mecanização florestal e colheita de madeira: introdução, evolução, sistemas,
+    planejamento da colheita de madeira e levantamento de dados. Fatores de influência
+    na colheita de madeira e principais efeitos no ambiente. Colheita de madeira em
+    florestas tropicais. Colheita de florestas implantadas: corte raso e desbastes.
+    Equipamentos de corte: características técnicas e econômicas, esquema de trabalho,
+    rendimentos e efeitos. Extração florestal: máquinas e equipamentos, descrição
+    técnica, avaliação econômica e rendimentos. Determinação do custo de equipamentos
+    florestais. Desgalhamento, toragem e descascamento. Produção de cavacos no campo.
+    Transporte principal: ferroviário, hidroviário e rodoviário. Caminhões: importância,
+    análise técnica e econômica, alternativas de veículos e legislação. Estradas florestais:
+    projeto e alocação da rede viária, características técnicas, construção de obras
+    de arte e impactos sobre o meio ambiente. Ergonomia florestal. Aspectos fisiológicos
+    do trabalho. Estudo do trabalho e de tempo: planejamento, instrumentos, etapas,
+    identificação de atividades parciais e coleta de dados. Introdução aos conceitos
+    sobre Logística e Gestão da Cadeia de Suprimentos.'
+  course_name: 'LCF0683 - Colheita e Transporte de Madeira
+
+    Harvest and Transport of Wood'
+  deactivation: ''
+  instructors: '2151034 - Edson José Vidal da Silva
+
+    7024292 - Luciana Duque Silva'
+  lecture_credits: '3'
+  objectives: 'e importância da mecanização florestal e descrição dos sistemas de
+    colheita florestal nas atividades de: corte, toragem, desgalhamento, extração,
+    carga e descarga, transporte principal e descascamento.Analisa máquinas e implementos
+    florestais e os efeitos da colheita de madeira no ambiente. Aspectos de ergonomia
+    nas atividades florestais. Estradas florestais. Logística.
+
+    Objectives and importance of forest mechanization; Description of systems in forest
+    harvesting activities: cutting, bucking, debranching, extraction, loading and
+    unloading, wood transportation and debarking; Machinery and forest implements
+    analysis, and the effects of timber harvesting on the environment; Aspects of
+    ergonomics in forestry activities; Forest roads.'
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220707140528'
+digest: NMP3RSIVACVK2GEU3WALGSCDFCQLAMH6
+updated_at: '20220707140528'
+url: https://web.archive.org/web/20220707140528id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0683&codcur=11020&codhab=0
