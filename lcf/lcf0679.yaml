@@ -1,0 +1,77 @@
+courses:
+  activation: 01/01/2014
+  assessment: '- prova e/ou trabalho de pesquisa, com mínimo de 5,0.'
+  bibliography: "BAUMAN, Zigmunt (2003). Comunidade. Rio de Janeiro: Jorge Zahar Editora.\n\
+    ________  (2005). Identidade: entrevista a Benedetto Vecchi. Rio de Janeiro: J.Zahar\
+    \ Editor.\nBERMAN, Marshal (1986). Tudo que é sólido desmancha no ar, Companhia\
+    \ das Letras, São Paulo, 360p.\nBRASIL (2005). ProFEA - Programa nacional de formação\
+    \ de educadoras(es) ambientais: por um Brasil educado e educando ambientalmente\
+    \ para a sustentabilidade, ProFEA, texto enviado juntamente com o edital FNMA\
+    \ no 05/2005, MMA/DEA, Brasília, DF. Disponível em: http://www.mma.gov.br/\nBUBER,\
+    \ Martin (1971). Socialismo utópico. São Paulo: Perspectiva, 1971.\nCASTELLS,\
+    \ Manoel (2007). A era da informação: economia sociedade e cultura. Volume I:\
+    \ A sociedade em rede. São Paulo: Paz e Terra.\n________ (1999). O \x93verdejar\x94\
+    \ do ser: o movimento ambientalista. In: O Poder da Identidade. São Paulo: Paz\
+    \ e Terra.\nCAVALCANTI, Clóvis (Org). (1995). Desenvolvimento e Natureza: estudo\
+    \ para uma sociedade sustentável - Cortez/Fundação Joaquim Nabuco, São Paulo/Recife.\
+    \ 450p.\nConstituição da República Federativa do Brasil \x96 1988.\nCOSTA, Luiz\
+    \ Roberto F.( 1986).  Estratégias de Planejamento. Ciência e Cultura. 38(8): 1372,\
+    \ SBPC. São Paulo.\nGASPAR, Fabricio (2008).Direito Ambiental Positivo: comentários\
+    \ à legislação, doutrina e mais de 200 questões \x96 Rio de Janeiro: Elsevier,.\
+    \ 368p.\nMACHADO, Paulo Affonso Leme - Direito Ambiental Brasileiro - São Paulo.\
+    \ Editora Revista dos Tribunais Ltda, 2011 13º edição.\nSANTOS, Boaventura de\
+    \ Souza (2002). \x93Para uma sociologia das ausências e uma sociologia das emergências\x94\
+    \ Revista Crítica de Ciências Sociais, Lisboa, nº 63, outubro. (disponível em\
+    \ http://www.ces.uc.pt/bss/documentos/sociologia_das_ausencias.pdf)\nSEN, Amartya\
+    \ (2000). Desenvolvimento como Liberdade. Trad. por Laura Teixeira Motta. São\
+    \ Paulo, Companhia das Letras.\nO Código Florestal Brasileiro e as resoluções\
+    \ CONAMA.\nPolítica Nacional do Meio Ambiente (lei federal 3869/1981)."
+  course: 'Módulo 1: Legislação ambiental e florestal
+
+    Introdução à legislação ambiental: hierarquia das leis; princípios do direito
+    ambiental, esclarecimentos sobre como ler uma lei; Política Nacional do Meio Ambiente
+    (LEI 6938 DE 31/08/1981) e órgãos gestores; Código Florestal Brasileiro: histórico
+    e contextualizarão da lei, análise dos principais capítulos da lei (APP e RL),
+    os decretos CONAMA mais usados, a implementação (órgãos gestores); Estudos de
+    caso sobre o cumprimento, ou não, da legislação e suas consequências.
+
+    Módulo 2: Políticas públicas que regulamentam as florestas brasileiras
+
+    Administração Pública do Setor Florestal e Ambiental: órgãos responsáveis pelo
+    Setor. Forma de atuação dos órgãos ligados à administração pública do Setor. Política,
+    programas/projetos em andamento (Gestão de Florestas Públicas e o Serviço Florestal
+    Brasileiro); Política Nacional de Florestas e políticas locais; Programa de Microbacias
+    Hidrográficas e Política Estadual de Meio Ambiente; Propostas de uso da APP e
+    RL e possíveis fontes de financiamento da restauração.
+
+    Módulo 3: Educação e outros instrumentos de políticas públicas
+
+    Instrumentos de Políticas Públicas; Educação Ambiental e Extensão Florestal; Cidadania,
+    participação e política florestal. Utopias, estado-nação contemporâneo e cenários
+    de futuro.'
+  course_name: 'LCF0679 - Políticas Públicas,  Legislação e Educação  Florestal
+
+    Forest Education, Public Policies and Legislation'
+  deactivation: ''
+  instructors: 85364 - Luiz Carlos Estraviz Rodriguez
+  lecture_credits: '3'
+  objectives: 'Apresentar histórico das políticas públicas e da legislação florestal
+    no Brasil analisando sua relação com o direito e a educação ambiental, em geral;
+    Estudar as principais leis e políticas públicas relacionadas às florestas brasileiras:
+    a Constituição Federal, o Código Florestal, a Política Nacional do Meio Ambiente
+    e as Políticas Setoriais; Analisar a hierarquia das normas e os instrumentos de
+    políticas públicas; Apresentar os principais órgãos colegiados brasileiros que
+    compõem o SISNAMA e discutir sobre a competência desses colegiados na regulamentação
+    de florestas no Brasil, os programas e projetos em andamento e os canais de participação
+    social na conservação da biodiversidade existentes; Debater as principais dificuldades
+    e estratégias da restauração florestal, sobretudo no que diz respeito à área de
+    preservação permanente (APP) e Reserva Legal (RL); Apresentar experiências de
+    políticas públicas que obtiveram êxito, as dificuldades encontradas e possíveis
+    formas de financiamento; Analisar o papel da educação no contexto florestal.'
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220707060233'
+digest: QNL36GPI7FOOTKYKBIV7MOHAICJU3GMI
+updated_at: '20220707060233'
+url: https://web.archive.org/web/20220707060233id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0679&codcur=11020&codhab=0
