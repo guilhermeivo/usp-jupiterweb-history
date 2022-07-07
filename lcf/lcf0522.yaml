@@ -1,0 +1,80 @@
+courses:
+  activation: 01/01/2020
+  assessment: Trabalho dirigido, com liberdade de consulta, abrangendo toda a matéria
+    lecionada na disciplina.
+  bibliography: 'ANDRADE, A.; JANKOWSKY, I. P. Pisos de madeira: características de
+    espécies brasileiras. Piracicaba: Associação Nacional dos Produtores de Pisos
+    de Madeira, 2015. 184 p.
+
+    ANDRADE, A.; JANKOWSKY, I. P.; DUCATTI, M. A. Grupamento de madeiras para secagem
+    convencional. Scientia Forestalis, Piracicaba, n. 59, p. 89-99, 2001.
+
+    ANDRADE, A.; JANKOWSKY, I. P.; GALINA, I. C. M. Guia básico para instalação de
+    pisos de madeira. 2ª ed. Piracicaba: Associação Nacional dos Produtores de Pisos
+    de Madeira, 2015. 104 p. (Capítulo 1. O Material Madeira)
+
+    KOLLMANN, F.F.P. & W.A. CÔTÉ JR. - Principles of Wood Science and Technology.
+    I: Solid Wood. New York, Springer-Verlag, 1968. 592 p.
+
+    GALVÃO, A.P.M. & I.P. JANKOWSKY. - Secagem Racional da       Madeira. São Paulo,
+    Mobel, 1985. 112 p.
+
+    IBDF. Madeiras da Amazônia, características e utilização: Floresta Nacional do
+    Tapajós. Brasília, 1981, v. 1. 113 p
+
+    IBDF. Madeiras da Amazônia, características e utilização: Estação Experimental
+    de Curuá-Una. Brasília, 1988, v. 2. 236 p
+
+    JANKOWSKY, I. P. Equipamentos e processos para a secagem de madeiras. In: SEMINÁRIO
+    INTERNACIONAL DE UTILIZAÇÃO DA MADEIRA DE EUCALIPTO PARA SERRARIA, 1995, São Paulo.
+    Anais... Piraciaba: IPEF, 1995. p. 109-118.
+
+    JANKOWSKY, I. P. Metodologia simplificada para a indicação de programas de secagem.
+    2009. 119 p. Tese (Livre Docência) – Escola Superior de Agricultura “Luiz de Queiroz”,
+    Universidade de São Paulo, Piracicaba, 2009.
+
+    JANKOWSKY, I. P.; GALINA, I. C. M. Secagem de madeiras (Curso Técnico). 2ª ed.
+    ANPM, Piracicaba, 37 p. 2014.
+
+    JANKOWSKY, I. P.; CHIMELO, J. P.; CAVALCANTE, A. A.; GALINA, I. C. M.; NAGAMURA,
+    J. C. S. Madeiras brasileiras. Caxias do Sul: Spectrum, 1990. 172 p.
+
+    LEPAGE, E.S. (Coord.) - Manual de Preservação de Madeiras. São Paulo, IPT/SICCT,
+    1986. 2 v.
+
+    LEPAGE, E.; DE SALIS, A. G. & GUEDES, E. C. R. Tecnologia de proteção da madeira.
+    São Paulo, Montana Química, 2017. 225 p.
+
+    SANTOS, G. R. V. Otimização da secagem da madeira de Eucalyptus grandis. 2002.
+    70 p. Dissertação (Mestrado em Ciências Florestais) – Escola Superior de Agricultura
+    “Luiz de Queiroz”, Universidade de São Paulo, Piracicaba, 2002.'
+  course: Conceito genérico de propriedade física. Principais propriedades físicas
+    da madeira.Massa específica, densidade e densidade básica. Variações na densidade.
+    Relações entre densidade e umidade. Métodos de determinação da densidade. Relações
+    água-madeira. Formas de água presentes na madeira. Umidade, definição e determinação
+    Higroscopicidade, umidade de equilíbrio e ponto de saturação das fibras. Movimentação
+    dimensional.Propriedades elétricas da madeira. Condutividade e resistividade.
+    Aplicações. Movimentação de fluídos na madeira. Porosidade, permeabilidade, capilaridade,
+    difusão.Secagem de madeiras. Secagem natural. Secagem convencional. Defeitos de
+    secagem, causa e controle. Controle de processo, de defeitos e de qualidade. Deterioração
+    física, química e biológica da madeira. Principais agentes da degradação biológica.Tratamentos
+    preservativos de madeiras. Principais produtos e processos.
+  course_name: 'LCF0522 - Física da Madeira
+
+    Physics of Madeira'
+  deactivation: ''
+  instructors: 75175 - Ivaldo Pontes Jankowsky
+  lecture_credits: '3'
+  objectives: 'Fornecer aos alunos o conhecimento das principais propriedades físicas
+    da madeira e a aplicação desses     conceitos nos diversos processos de transformação
+    e industrialização da madeira.
+
+    Destaque para a aplicação da física da madeira aos processos de secagem e tratamento
+    químico.'
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220707112046'
+digest: S76FYQY6CW5OTTFYUZWDFVKNGG42WVYJ
+updated_at: '20220707112046'
+url: https://web.archive.org/web/20220707112046id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0522&codcur=11020&codhab=0
