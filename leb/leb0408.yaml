@@ -1,0 +1,80 @@
+courses:
+  activation: 01/01/2011
+  assessment: Uma prova escrita.
+  bibliography: 'Literatura Básica:
+
+    MARIN, F.R.; ASSAD, E.D.; PILAU, F.G.  Clima e Ambiente: introdução à climatologia
+    para ciências ambientais. Campinas, SP: Embrapa Informática Agropecuária, 2008.
+    126p.
+
+    MENDONÇA, F.; DANNI-OLIVEIRA, I.M.  Climatologia: noções básicas e climas do Brasil.
+    São Paulo: Oficina de Textos, 2007. 206p.
+
+    OMETTO, J.C.; 1981. Bioclimatologia Vegetal. Editora Agronômica Ceres.
+
+    PEREIRA, A.R.; VILLA NOVA, N.A.; SEDYAMA, G. Evapo(transpi)ração. FEALQ, 183 p.,
+    1997.
+
+    SENTELHAS, P.C.; PEREIRA, A.R., ANGELOCCI, L.R. Meteorologia Agrícola. Apostila.
+    DFM/ESALQ/USP. 131 p. 1999.
+
+    TUBELIS, A. & NASCIMENTO, F.J.L., sem data. Meteorologia Descritiva: fundamentos
+    e aplicações brasileiras. Livraria Nobel S.A., São Paulo.
+
+    VIANELLO, R.L. e ALVES. A.R. Meteorologia Básica e Aplicações. Imprensa Universitária,
+    Universidade Federal de Viçosa. 1991.
+
+    Literatura Complementar:
+
+    ARYA, S.P.  Introduction to Micrometeorology. Second Edition. Academic Press.
+    USA. 2001. 420p.
+
+    HATFIELD, J.L.; BAKER, J.M.   Micrometeorology in Agricultural Systems. Agronomy
+    Monograph nº 47. USA. 2005. 584p.
+
+    REICHARDT, K. A água em sistemas agrícolas. Editora Manole. 1987.
+
+    SCHNEIDER, S.H. 1989. Climatic Change. V. 15. nos 1-2. p. 1-338. outubro 1989.
+    London.'
+  course: 'Conceitos básicos: tempo, clima, escalas de estudo do clima.  Fatores determinantes
+    do tempo do clima: fatores geográficos (latitude, altitude, relevo oceanidade/continentalidade,
+    correntes marítimas); circulações atmosféricas; massas de ar; fatores topoclimáticos
+    e fatores microclimáticos; formação dos climas no território brasileiro.  Elementos
+    metodológicos, sua observação e quantificação: radiação solar, temperatura do
+    ar e do solo; umidade do ar; precipitação; ventos, evaporação. Observações meteorológicas
+    de superfície. Análise de séries de dados climáticos.  Aspectos de Climatologia
+    Dinâmica do Brasil e da América do Sul; classificações climáticas;  climas do
+    Brasil; mudanças climáticas.  Balanço de energia radiante e sistemas florestais;  Aspectos
+    quali-quantitativos da interação da radiação solar com os vegetais;  Aspectos
+    ecológicos do fotoperiodismo;   Disponibilidade  energética,  temperatura  e  crescimento
+    vegetal; estimativa de produtividade potencial de espécies florestais;  Temperatura
+    e desenvolvimento de plantas e insetos; graus-dia:  Temperatura como fenômeno
+    adverso na silvicultura; geadas; Temperatura e condições de estabilidade atmosférica.  Umidade
+    do ar e armazenamento de produtos e materiais florestais. Balanço hídrico no solo.
+    Precipitação e irrigação. Evapotranspiração: conceitos, métodos de medida e de
+    estimativa; drenagem profunda; armazenamento e disponibilidade de água no solo;
+    cálculo do balanço hídrico segundo Thornthwaite e Mather; uso do balanço hídrico
+    para acompanhamento da disponibilidade hídrica das regiões.  Deficiência hídrica
+    e produtividade das espécies florestais.  Interações tempo-incêndios florestais.
+    Circulações atmosféricas e ventos: Circulações nas diferentes escalas de espaço
+    e tempo; formação dos ventos; vento como fenômeno favorável e como fenômeno desfavorável
+    à silvicultura: efeitos sobre plantas, animais e silvicultura em geral; quebra-ventos.  Aptidão
+    climática das regiões para as espécies florestais.  Dendroclimatologia.'
+  course_name: 'LEB0408 - Meteorologia Florestal
+
+    Forest Meteorology'
+  deactivation: ''
+  instructors: 3609007 - Felipe Gustavo Pilau
+  lecture_credits: '4'
+  objectives: A produtividade dos sistemas florestais, é condicionada pelo ambiente.
+    Nesta disciplina, procura-se descrever as interações clima-planta e as maneiras
+    práticas de melhorá-las. Espera-se que os alunos fiquem capacitados a entender
+    e a interferir favoravelmente no sistema florestal, natural ou implantado, minimizando
+    os aspectos negativos da silvicultura exploratória.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220707040741'
+digest: PA76JWUFDZKDN47FE2UV3JNMJFTFCFHN
+updated_at: '20220707040741'
+url: https://web.archive.org/web/20220707040741id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0408&codcur=11020&codhab=0
