@@ -1,0 +1,75 @@
+courses:
+  activation: 01/01/2010
+  assessment: Uma prova escrita
+  bibliography: 'Baginsky S., Fernie A.R eds. (2007) Plant Systems Biology, Birkhäuser
+    Verlag, Berlin, 362p.
+
+    Gibson, G. (2002) A primer of genome science. Sunderland, Mass. 347p.
+
+    Griffiths, A.; Wessler, S.; Lewontin, R.; Carroll, S. (2007) Introduction to genetic
+    analysis 9th edition. W.H. Freeman & Co Ltd, 800p.
+
+    Griffiths, A.J.F., Gelbart, W.M., Miller, J.H., Lewontin, R.C. (2001) Genética
+    Moderna. Editora Guanabara Koogan S.A., 589p.
+
+    Kitano H. Ed. (2001) Foundations of System Biology, The MIT Press, Cambridge-Massachusetts,
+    290p.
+
+    Lesk, A. (2007) Introduction to Genomics, Oxford University Press, UK, 440p.
+
+    Palsson B.O. (2005) Systems Biology: Propertie of Reconstructed Networks, Cambridge
+    University Press, Cambridge UK, 335p'
+  course: "1) Introdução (importância da biologia molecular e exemplos de aplicação\
+    \ da biologia molecular aplicada à biologia sistêmica); o DNA como material genético;\
+    \ a estrutura do gene; região promotora; fatores de transcrição; conceito moderno\
+    \ do gene; transcrição; tradução; mecanismos de regulação da expressão gênica\
+    \ (splicing do RNAm; splicing alternativo). 2) Bioinformática, histórico da bioinformática\
+    \ (de 1962 até hoje, principais avanços e descobertas); Sequenciamento do DNA;\
+    \ Construções de bibliotecas genômicas (shot-gun e enzimas de restrição), bibliotecas\
+    \ de ESTs; síntese de cDNA (primeira e segunda fita e as enzimas utilizadas);\
+    \ montagem das seqüências, qualidade dos cromatogramas (Phred); interpretação\
+    \ dos cromatogramas em seqüências de DNA. 3) Montagem das seqüências com similaridade\
+    \ formando contigs (phrap); visualização das montagens (consed); serviços de busca\
+    \ sisponíveis no NCBI; comparação das ferramentas blastn, blastp e blastx; descrição\
+    \ das ferramentas tblastn e tblastx; uso da ferramenta ORFinder; alinhamento de\
+    \ múltiplas seqüências de DNA e proteínas para análise de similaridade (clustal\
+    \ W). 4) Ferramentas para o desenho de primers; introdução e uso do software PRIMER3;\
+    \ reação de PCR e RT-PCR. 5) Clonagem de genes de interesse; plasmídeos; vetores\
+    \ de clonagem; extração de plasmídeos, vetores binários. 6) Expressão de genes\
+    \ em bactérias, vetor de expressão pDEST17, transformação de E. coli; indução\
+    \ por L-arabinose; purificação de proteínas recombinantes. 7) Transformação genética\
+    \ de plantas; transformação via Agrobacterium, eletroporação e biobalística; transformação\
+    \ genética de Nicotiana tabacum; promotores para expressão tecido específico do\
+    \ transgene; genes de seleção (GUS, GFP, BAR, etc); análise molecular de transgênicos\
+    \ (Southern, Northern e PCR em tempo real). 8) Genômica Funcional 1 - TRANSCRITÔMICA:\
+    \ ESTs, SAGE, Microarranjos de cDNA, bibliotecas subtrativas, bibliotecas de ESTs;\
+    \ Bioinformática aplicada à genômica funcional (uso do software SAGE 2000); anotação\
+    \ de ESTs, vias metabólicas e expressão gênica; marcadores moleculares aplicados\
+    \ ao melhoramento genético. 9) Genômica Funcional 2 \x96Proteômica: química das\
+    \ proteínas, diversidade dos proteomas, separação de proteínas (eletroforese,\
+    \ SDS-PAGE, 2D-PAGE, cromatografia líquida), sequenciamento de proteínas por degradação\
+    \ de Edman; sequenciamento de proteínas por espectrometria de massas; bioinformática\
+    \ aplicada à proteômica (Proteinlynx, Mascot); bancos de dados de proteínas. 10)\
+    \ Métodos, aplicações e conceitos de metabolômica, profiling parametabólitos primários\
+    \ e secundários; análise de fluxos metabólicos; análise de redes metabólicas.\
+    \ 11) Biologia de Sistemas: integração das várias áreas da genética molecular:\
+    \ transcritômica, proteômica e metabolômica para o entendimento dos sistemas celulares;\
+    \ bioinformática aplicada ao estudo de biologia de sistemas; identificação de\
+    \ genes regulatórios e design de sistemas biológicos sintéticos, identificação\
+    \ de QTLs metabólicos."
+  course_name: 'LGN0622 - Genética Molecular Aplicada à Biologia de Sistemas
+
+    Molecular Genetics Applied to Systems Biology'
+  deactivation: ''
+  instructors: 53862 - Carlos Alberto Labate
+  lecture_credits: '4'
+  objectives: O curso se propõe a desenvolver os tópicos básicos da Genética Molecular
+    através de aulas teóricas e práticas, enfatizando seus avanços mais recentes e
+    suas aplicações na Agropecuária.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220707015621'
+digest: XT4IUQWA3FPEEH5KI542XSES53BRWSHK
+updated_at: '20220707015621'
+url: https://web.archive.org/web/20220707015621id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0622&codcur=11020&codhab=0
