@@ -1,0 +1,71 @@
+courses:
+  activation: 01/01/2020
+  assessment: Através de aplicação de prova teórico-prática.
+  bibliography: 'CAMPOS,  H. 1979. Estatística Experimental Não-Paramétrica. Piracicaba,
+    FEALQ, 343 pp.
+
+    COCHRAN, W. G. & COX, G. M. 1957. Experimental Design. John Wiley & Sons, N.Iorque.
+
+    DAGNELIE, P. 1973. Estatística: Teoria e Métodos. Publicações Europa- América,
+    Portugal. Vol. 1 e 2.
+
+    HOFFMAN, R. & VIEIRA, S. 1977. Análise de Regressão. Hucitec, EDUSP, S. Paulo.
+
+    FONSECA, J. S. & MARTINS, G. A. 1986. Curso de Estatística. Ed. Atlas, São Paulo,
+    286 pp.
+
+    GOMES, F. P. 1982. Curso de Estatística Experimental. 1a Ed. Livraria Nobel, S.Paulo.
+
+    SAS Institute Inc.. 1991. SAS® System for Regression, Second Edition Cary, NC:SAS
+    Institute Inc. 210 pp.
+
+    WALKER, G. 1997. Common Statistical Methods for Clinical Research with SAS® Examples,
+    Cary, NC:SAS Institute Inc., 315 pp.
+
+    SNEDCOR, G. W. & W. G. COCHRAN. 1967. Statistical Methods. 6a Ed. Iowa State Univ.,
+    Ames, E.U.
+
+    SOKAL, R. R. & F.J. ROHLF. 1980. Biometry. Freeman, São Francisco. E.U.
+
+    ZAR, J.H. 1998. Biostatistical Analysis. Prentice Hall, 929 pp.'
+  course: "Importância do SAS para a área biológica. Origens da Estatística: sua importância\
+    \ na pesquisa e relações com outras disciplinas.\nO método científico: raciocínio\
+    \ dedutivo e indutivo. Introdução ao sistema SAS Conceitos de amostragem e variáveis.\t\
+    Conceito de população e parâmetros populacionais (média, variância, desvio padrão);\
+    \ Conceito de amostra e estatísticas (média(x), variância(s2) e desvio padrão\
+    \ amostral(s)); A Distribuição Normal: origens, forma, usos. Assimetria e Curtose.\
+    \ Testes de ajustamento (interpretação do valor-p). Testes de hipóteses: Formulação\
+    \ de hipóteses. A Hipótese de Nulidade. A Hipótese Alternativa. Tipos de erros.\
+    \ Nível de significância. O teste t para dados pareados: Histórico, Suposições,\
+    \ Exemplo de cálculo. O teste t para duas amostras: Histórico, Suposições, Exemplo\
+    \ de cálculo. Suposições dos modelos de análises de dados. Transformação de dados:\
+    \ o teste de BOX-COX. Testes não-paramétricos. Planejamento de experimentos. Considerações\
+    \ teóricas a respeito de planejamento de experimentos: Formulação de hipótese.\
+    \ Repetições. Casualização. Controle Local. Quadro de análise de Variância. Graus\
+    \ de liberdade.  Experimentos inteiramente ao acaso – Aplicações e Restrições.\
+    \ Cálculos manuais do quadro de análise de variância. Graus de liberdade. Soma\
+    \ de quadrados. Quadrados médios. Estatística F. Consulta à tabela da estatística\
+    \ F. Experimentos em blocos ao acaso – Aplicações e Restrições. Cálculos do quadro\
+    \ de análise de variância. Graus de liberdade. Soma de quadrados. Quadrados médios.\
+    \ Estatística F. Consulta à tabela da estatística F. Testes para comparação múltipla\
+    \ de médias: Principais testes para comparações de médias, características principais\
+    \ e restrições aos testes: Tukey, Duncan, Dunnett. Análise de variáveis nominais.\
+    \ O teste QUI- QUADRADO e o teste G. Análise de regressão Linear Simples."
+  course_name: 'LCF0612 - Introdução à Pesquisa Florestal
+
+    Introduction to Forestry Research'
+  deactivation: ''
+  instructors: 39751 - Hilton Thadeu Zarate do Couto
+  lecture_credits: '4'
+  objectives: 'Capacitar o aluno a planejar, delinear, instalar, medir, analisar e
+    interpretar experimentos florestais usando o sistema SAS.
+
+    To enable the student to plan, delineate, install, measure, analyze and interpret
+    forest experiments using the SAS system.'
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220707034334'
+digest: U4H27POI4KFJV4BBGEJYADTX37QVFB5Q
+updated_at: '20220707034334'
+url: https://web.archive.org/web/20220707034334id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0612&codcur=11020&codhab=0
