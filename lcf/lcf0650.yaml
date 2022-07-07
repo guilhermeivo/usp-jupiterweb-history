@@ -1,0 +1,54 @@
+courses:
+  activation: 01/01/2010
+  assessment: "Opção 1: \treentrega das atividades não cumpridas com sucesso no semestre\
+    \ da disciplina, para alunos com média entre 4,5 e 4,99\nOpção 2: \tOpção1 + trabalho\
+    \ de pesquisa no laboratório que deve culminar numa participação num SIICUSP,\
+    \ para alunos com média entre 3,0 e 4,49\nOpção 3: \tprova abrangendo toda a matéria\
+    \ dada na disciplina, principalmente a dos exercícios e relatórios"
+  bibliography: "ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. Norma NBR-7190: projeto\
+    \ de estruturas de madeira. Rio de Janeiro, 1997. 107 p.\nASSOCIAÇÃO BRASILEIRA\
+    \ DE NORMAS TÉCNICAS. Norma NB-599.\nForças devidas ao vento em edificações. 1978.\
+    \ 62p.\nAMERICAN SOCIETY FOR TESTING AND MATERIALS. D4688-99 Standard Test Methods\
+    \ for evaluating strutural adhesives for finger jointing lumber. West Conshohoken,\
+    \ 2005. 7p.\nAMERICAN SOCIETY FOR TESTING AND MATERIALS. D198-84. Standard Methods\
+    \ of StaticTest of Timber in Strutural Sizes. West Conshohoken,1997.\nFOREST PRODUCTS\
+    \ LABORATORY. Wood handbook - Wood as an engineering material, Madison: U.S. Department\
+    \ of Agriculture, Forest Service, 1999. 463 p.\nFrancisco Antonio Rocco Lahr (organizador)\
+    \ \x96 Produtos Derivados da Madeira: Síntese dos Trabalhos Desenvolvidos no Laboratório\
+    \ de Madeiras e de Estruturas de Madeira  -  EESC  /  SET  / LaMEM \x96 2008 \x96\
+    \ 166 pg.\nGARCIA, J.N. Serraria. ESALQ/LCF, 2009.\nBROWN, N.C. & BETHEL, J.S.\
+    \ Lumber, New York, John Willey &       Sons, 1958, 2 ed. 379 p.\nBROWN, N.C.\
+    \ & BETHEL, J.S. La indústria maderera, México,       Limusa Wiley, 1965. 397\
+    \ p.\nDESCH, H.E. Timber its structure and properties, New York, St.       Martin's,\
+    \ 1973, 5 ed. 424 p.\nDUERR, W.A. Timber: problems/prospects/policies, Iowa, 1973.\
+    \ 260 p.\nKOLLMANN, F.F.P. & Côté Jr., W.A. Principles of wood science       and\
+    \ technology, New York, Springer-Verlag, 1968, 2 v. 592 p.\nMELLO, G.R. de Processamento\
+    \ mecânico da madeira, Piracicaba,       LCF, 1978. 88 p.\nPANSHIN, A.J. & HARRAR,\
+    \ E.S. & BETHEL, J.S. Forest products, New York, McGraw-Hill, 1962, 2 ed. 538\
+    \ p.\nWALLIS, N.K. Australian timber handbook, Sydney, Halstead, 1963. 391p."
+  course: 'Principais equipamentos de serraria: Serras de fita, Serras circulares;
+    Serras alternativas ou de quadro. Equipamentos auxiliares. Manutenção de ferramentas
+    de corte básicas. Técnica de desdobro: Pinus, Eucalyptus (tensões e deformações
+    de crescimento, tensões residuais, defeitos originados das tensões de crescimento)
+    e nativas. Layouts de serraria. Prognoses de produtividade industrial, produção
+    e sustentabilidade florestal. Beneficiamento básico da madeira: equipamentos de
+    desbaste e acabamento (plainas, fresas, tupias, furadeiras, tornos e lixadeiras)
+    e exigências do produto final. Viga laminada colada (VLC): propriedades mecânicas
+    da lâmina, resistência ao cisalhamento(no plano de cola e na madeira maciça),
+    emenda dentada colada (finger joint), noções básicas de adesivo e adesão, montagem
+    da VLC, propriedades mecânicas da VLC.'
+  course_name: 'LCF0650 - Industrialização de Produtos Florestais I
+
+    Forest Product Industrialization I'
+  deactivation: ''
+  instructors: 74003 - José Nivaldo Garcia
+  lecture_credits: '2'
+  objectives: Formar alunos com conhecimentos técnicos para projetar, resolver problemas
+    operacionais e administrar serrarias e também marcenarias.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220707122238'
+digest: YSGPOS65FBCHNTLGBYV4UPNYWGXFSKQD
+updated_at: '20220707122238'
+url: https://web.archive.org/web/20220707122238id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0650&codcur=11020&codhab=0
