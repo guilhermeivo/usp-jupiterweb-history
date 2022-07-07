@@ -1,0 +1,112 @@
+courses:
+  activation: 01/01/2020
+  assessment: Uma prova sobre toda a matéria ministrada.
+  bibliography: 'ADEODATO, Sérgio. Caminhos para a mudança. Imaflora. Piracicaba,
+    2009. 152 p. http://www.imaflora.org/downloads/biblioteca/Brasil_certificado.pdf
+
+    ANGELO, H. Comércio de madeiras tropicais: subsídios para a sustentabilidade das
+    florestas no Brasil. Brasília: MMA, 2002. 87p.
+
+    BRUNO MARTINS. A Certificação da Gestão Florestal. Dissertação (Mestrado em Recursos
+    Florestais. Instituto Politécnico de Coimbra. Escola Superior Agrária. 2011. 17p.
+
+    Carneiro, M. S. A CONSTRUÇÃO SOCIAL DO MERCADO DE MADEIRAS CERTIFICADAS NA AMAZÔNIA
+    BRASILEIRA: a atuação das ONGs ambientalistas e das empresas pioneiras. Sociedade
+    e Estado, Brasília, v. 22, n. 3, p. 681-713. set./dez. 2007.
+
+    FIGUEIREDO, C. Para sempre, certificação florestal FSC. Brasília, 2005. 24p.
+
+    FSC - Forest Stewardship Council FSC Principles and Criteria for Forest Stewadship.
+    FSC-STD-01-001 (version 4-0) EN. Forest Stewardship Council A.C., 2018. Capturado
+    em Dezembro, 2018. http://www.fsc.org/
+
+    GARCIA,J.D. Perspectivas estruturais da comercialização de produtos florestais
+    Brasília: MMA, 2002. 71p.
+
+    IMAFLORA. Acertando o alvo 3. Orgs.: Marco W. Lentini, Patrícia Cota Gomes, Leonardo
+    Sobral. Piracicaba, SP: Imaflora, 2012. 73 p.
+
+    https://ic.fsc.org/en
+
+    https://br.fsc.org/pt-br
+
+    https://br.fsc.org/pt-br/polticas-e-padres/padres-nacionais
+
+    http://www.fsc.org/accreditation_docs.html?&no_cache=1&dlpath=certification_bodies
+
+    LENTINI,M.; PEREIRA,D.; CELENTANO,D.; PEREIRA,R. Fatos florestais da Amazônia.
+    Belém: IMAZON, 2010. 140p.
+
+    LENTINI, M.; GOMES, P. C.; SOBRAL, L. Acertando o Alvo 3. Piracicaba, 2013. 73p.
+
+    Nussbaum, R. & Simula, M., 2005. The forest certification handbook/Ruth Nussbaum
+    and Markku Simula – 2nd ed. Eartscan, 309 pg.
+
+    O HARA,J.; ENDARA,M.; WONG,T.; HOPKINS,C.; MAYKISH,P. Timber certification: implications
+    for tropical forest management New Haven: Yale University, 1994. 169p.
+
+    PEREIRA, D.; SANTOS, D.; VEDOVETO, M.; GUIMARÃES, J.; VERÍSSIMO, A. 2010. Fatos
+    Florestais da Amazônia 2010. Belém: Imazon. 141.
+
+    Romero C.; Guariguata MR.; FE Putz; Sills EO; Lima GR; Papp L; Voigtlaender M
+    and Vidal E. 2015. The context of natural forest management and FSC certification
+    in Brazil. Occasional Paper 148. Bogor, Indonesia: CIFOR
+
+    SHANLEY,P.; PIERCE,A.; LAIRD, S. Além da madeira: a certificação de produtos florestais
+    não-madeireiros . Bogor: CIFOR, 2006. 153p.
+
+    SIMÕES,L.L.; REIS,M.S. Recursos florestais da mata atlântica: manejo sustentável
+    e certificação.  São Paulo: Conselho Nacional da reserva da Biosfera da Mata Atlântica,
+    2003. 52p
+
+    SOBRAL, L.; VERÍSSIMO,A.; LIMA,E.; AZEVEDO,T.; SMERALDI,R. Acertando o alvo 2:
+    Consumo de madeira amazônica e certificação florestal no Estado de São Paulo,
+    Belém: Imazon, 2002. 72p.
+
+    V.M. Basso, L.A.G. Jacovine, A.M.B. Nardelli, R.R. Alves, E.V. Silva, M.L. Silva
+    and B.G. Andrade. 2018. FSC Forest Management Certification in the Americas. International
+    Forestry Review, 20(1):31-42.
+
+    VIANA,V.M.; MAY,P.; LAGO,L.; DUBOIS,OL; GRIEG-GRAN,M. Instrumentos para o manejo
+    sustentável do setor florestal privado no Brasil. Londres: IIED, 2002. 90p.
+
+    VIDAL, E.; PAPP, L. M. . Auditoria e certificação florestal. In: Clauciana Schmidt
+    Bueno de Moraes; Érica Pugliesi. (Org.). Auditoria e Certificação Ambiental. 1ed.Curitiba:
+    Intersaberes, 2014, v. 1, p. 358., lprincipalmente as páginas 296-303.'
+  course: '1. A certificação como um instrumento de gestão sustentável
+
+    2. Sistemas de Certificação Florestal Objetivos, requisitos, entidades envolvidas
+    e programas aplicáveis FSC e PEFC-CERFLOR
+
+    3. Princípios & Critérios do FSC
+
+    4. Processo de Elaboração de um Padrão Internacional e de adaptação local. Padrões
+    Válidos no Brasil e Hierarquia do padrão.
+
+    5. Auditoria: Tipos, métodos de amostragem e fases.
+
+    6. Certificação de Cadeia de Custódia
+
+    7. Contexto social global da certificação florestal e Aspectos Sociais e Trabalhistas
+    no Contexto da Certificação Florestal,
+
+    8. Contexto econômico global da certificação florestal
+
+    9. Contexto ambiental global da certificação florestal'
+  course_name: 'LCF0290 - Certificação Florestal
+
+    Forest Certification'
+  deactivation: ''
+  instructors: 2151034 - Edson José Vidal da Silva
+  lecture_credits: '3'
+  objectives: Capacitar os estudantes a compreender, entender e atuar nos diferentes
+    processos de certificação em vigência no Brasil, de florestas nativas, plantações
+    florestais, e de seus produtos, pensando-se na sustentabilidade das atividades
+    florestais.
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220707035843'
+digest: JFHMVFYUVSQTB7Z4TJG22RXVVBZ2KJV4
+updated_at: '20220707035843'
+url: https://web.archive.org/web/20220707035843id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0290&codcur=11020&codhab=0
