@@ -1,0 +1,67 @@
+courses:
+  activation: 01/01/2022
+  assessment: Para os alunos reprovados por nota, mas beneficiados pelo sistema de
+    recuperação, esta será realizada através da aplicação de uma única prova teórica,
+    abrangendo todo o programa do semestre letivo.
+  bibliography: 'AYRES, R. U. Eco-thermodynamics: economics and the second law. Ecological
+    Economics 26 (1998) 189–209
+
+    AYRES, R. U. The second law, the fourth law, recycling and limits to growth. Ecological
+    Economics 29 (1999) 473–483
+
+    CLEVELAND, C. Encyclopedia of energy. New York: Elsevier. 5376p.
+
+    DALY, H.E.; FARLEY, J. Ecological economics – principles and application. Washington
+    D.C.: Island Press, 2004, 454p.
+
+    GIAMPIETRO, M; MAYUMI, K; MARTINEZ-ALIER, J. Introduction to the special issues
+    on societal metabolism: blending new insights from complex system thinking with
+    old insights from biophysical analyses of the economic process. Population and
+    Environment, Nov 2000, v.2, n.22, p.97-108.
+
+    GIAMPIETRO, M.; MAYUMI, K. 2004; Complex systems and energy. In CLEVELAND, C.  (ed.)
+    Encyclopedia of energy. New York: Elsevier. P. 617-631.
+
+    HALL, C.A.S.; CLEVELAND, C.J.; KAUFMANN, R. The ecology of the economic process
+    – Energy and Resource Quality. New York: John Wiley & Sons, 1986, 577p.
+
+    HEINBERG, R. The party’s over. Gabriola Island: New society publishers, 2nd ed,
+    2005, 306p.
+
+    KORMONDY, E.J.; BROWN, D.E. Ecologia humana. São Paulo: Atheneu editora., 2002,
+    503p.
+
+    MOLINA JUNIOR, W. F., ROMANELLI, T. L. Recursos energéticos e ambiente. Curitiba
+    : Intersaberes, 2015 p.311.
+
+    ODUM, H.T. Environmental Accounting: Emergy and decision making. New York: John
+    Wiley, 1996. 370 p.
+
+    PIMENTEL, D. Handbook of energy utilization in agriculture. Boca Raton: CRC Press.
+    1980. 475p.
+
+    SCHNEIDER, E.D.; KAY, J.J., 1994, “Life as a manifestation of the second law of
+    thermodynamics, Mathematical and Computer Modeling, v.19, n.6-8, p.25-48.'
+  course: '1) A energia e a espécie humana. Produção Natural x Sistemas Produtivos.
+    Demanda de alimentos, fibra e energia. Intensificação de sistemas de produção
+    agrícola. 2) Conceitos e reflexões: leis da termodinâmica, sustentabilidade, origem
+    de energia, ambiente, escala de análise. 3) Análises ambientais baseadas em fluxos
+    de energia; 4) Emergia; 5) Noções de Análise de Ciclo de Vida; 6) fontes de energia
+    (solar, hidráulica, eólica, petróleo, etanol, biomassa florestal; nuclear, cogeração,
+    biodigestão) e seus impactos ambientais.'
+  course_name: 'LEB0490 - Sustentabilidade Energética de Sistemas Agrícolas
+
+    Energy Sustainability in Agricultural Systems'
+  deactivation: ''
+  instructors: 2230585 - Thiago Liborio Romanelli
+  lecture_credits: '2'
+  objectives: Apresentar aos alunos conceitos e reflexões contemplando os sistemas
+    produtivos como unidades termodinâmicas e permití-los obter um senso crítico mínimo
+    referente às fontes de energia disponíveis e sua interação no agronegócio.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220707012756'
+digest: UMMBHOELLPXCJ3PXYVR6ISMPR2NP6A7C
+updated_at: '20220707012756'
+url: https://web.archive.org/web/20220707012756id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0490&codcur=11020&codhab=0
