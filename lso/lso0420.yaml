@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2009
+  activation: 01/01/2022
   assessment: Prova Teórico-Prática realizada antes do início do semestre seguinte
     (dentro do calendário estipulado pela ESALQ/USP).
   bibliography: 'Literatura Básica:
@@ -7,8 +7,8 @@ courses:
     EPSTEIN, E.; BLOOM, A.J. Nutrição mineral de plantas: princípios e perspectivas.
     2ª ed. Tradução de M.E.T. Nunes. Londrina: Ed. Planta, 2006. 403 p.
 
-    FERNANDES, M.S. Nutrição mineral de plantas. Viçosa: Sociedade Brasileira de Ciência
-    do Solo, 2006, 432p.
+    FERNANDES, M.S.; SOUZA, S.R.; SANTOS, L.A. Nutrição mineral de plantas. 2ª ed.
+    Viçosa: Sociedade Brasileira de Ciência do Solo, 2018, 670p.
 
     MALAVOLTA, E. Manual de nutrição mineral de plantas. São Paulo: Agronômica Ceres,
     2006. 638p.
@@ -17,8 +17,8 @@ courses:
     plantas: princípios e aplicações. Piracicaba: Associação Brasileira para Pesquisa
     da Potassa e do Fosfato, 1997. 319 p.
 
-    MARSCHNER, H. Mineral nutrition of higher plants. London: Academic Press, 1995.
-    889 p.
+    MARSCHNER, P. Marschner''s Mineral Nutrition of Higher Plants. 3rd ed. London:
+    Academic Press, 2012. 672 p.
 
     MENGEL, K.; KIRKBY, E.A.  Principles of plant nutrition. 5th ed. Dordrecht: Kluwer
     Academic, 2001. 849 p.
@@ -36,8 +36,8 @@ courses:
     p.
 
     Artigos publicados nos periódicos: Pesquisa Agropecuária Brasileira; Revista Brasileira
-    de Ciência do Solo; Communications in Soil Science and Plant Analysis; Journal
-    of Plant Nutrition e Plant and Soil.
+    de Ciência do Solo; “Communications in Soil Science and Plant Analysis”; “Journal
+    of Plant Nutrition”, “Plant and Soil” e outros periódicos relevantes.
 
     SITES:
 
@@ -48,56 +48,31 @@ courses:
     - http://www.sigma-aldrich.com/pathways
 
     MATERIAL DE AULA DISPONÍVEL NO:   http://www.solos.esalq.usp.br/arquivos.html'
-  course: '1) T. Introdução - Histórico - Elementos essenciais. / P. Soluções nutritivas
-    e suas aplicações.
+  course: 'Teórica:
 
-    2) T. Critérios de essencialidade - Extração de elementos pelas plantas. / P.
-    Fundamentos de hidroponia.
+    Introdução, histórico e evolução da Nutrição Mineral das Plantas
 
-    3) T. Nitrogênio na nutrição das plantas. / P. Instalação do experimento de deficiências.
+    Fundamentos da absorção, transporte e redistribuição dos elementos nas plantas
 
-    4) T. Fósforo na nutrição das plantas. / P. Níveis críticos - Instalação do experimento.
-
-    5) T. Potássio e enxofre na nutrição das plantas. / P. Colheita e preparo de amostras
-    vegetais para análise.
-
-    6) T. Cálcio e magnésio na nutrição das plantas. / P. Análises químicas em tecidos
-    vegetais: fundamentos.
-
-    7) T. Ferro e manganês na nutrição das plantas. / P. Análises químicas em tecidos
-    vegetais: prática.
-
-    8) T. Cobre e zinco na nutrição das plantas. / P. Cálculos e Interpretação de
-    resultados.
-
-    9) T. Boro e níquel na nutrição das plantas. / P. Colheita dos experimentos.
-
-    10) T. Molibdênio e cloro na nutrição das plantas. / P. Discussão dos resultados
-    dos experimentos.
-
-    11) T. Elementos benéficos: cobalto, silício e sódio. / P. Determinação de nível
-    crítico de nutrientes.
-
-    12) T. Elementos com problemas de toxicidade: alumínio, bromo, flúor, iodo e selênio.
-    / P. Avaliação do estado nutricional das plantas.
-
-    13) T. Absorção radicular e foliar. / P. Nutrição e qualidade dos produtos agrícolas.'
+    Absorção de íons pelas folhas: teoria e fundamentos'
   course_name: 'LSO0420 - Nutrição Mineral de Plantas
 
     Plant Mineral Nutrition'
   deactivation: ''
-  instructors: '77243 - Antonio Roque Dechen
+  instructors: '7921125 - Paulo Sergio Pavinato
 
-    2086229 - Francisco Antonio Monteiro'
+    3542866 - Rafael Otto'
   lecture_credits: '4'
-  objectives: Dar uma visão ao aluno dos problemas de nutrição mineral das plantas,
-    da sua importância e da sua interação com outras disciplinas dos cursos de Agronomia
-    e Engenharia Florestal, sendo estudados com detalhes as funções dos nutrientes,
-    conforme o programa seguinte.
+  objectives: Dar visão aos estudantes de graduação em Engenharia Agronômica e Engenharia
+    Florestal dos fundamentos da nutrição mineral de plantas, funções dos nutrientes
+    nas plantas, avaliação do estado nutricional, sintomas de deficiência e toxidez
+    de nutrientes, soluções nutritivas e temas recentes associados à nutrição mineral
+    de plantas. A disciplina fundamenta os alunos sobre uso eficiente de fertilizantes
+    e manejo nutricional de plantas.
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20200922150552'
-digest: KWWACRG7GCUN7X7W3JQ5CI3CVN3BJ4YL
-updated_at: '20200922150552'
-url: https://web.archive.org/web/20200922150552id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LSO0420&codcur=11010&codhab=0
+created_at: '20220707064932'
+digest: 2RJ375YWSHZU6UZLCEF6OS43NG63HKE3
+updated_at: '20220707064932'
+url: https://web.archive.org/web/20220707064932id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LSO0420&codcur=11020&codhab=0
