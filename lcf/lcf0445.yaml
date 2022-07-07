@@ -1,0 +1,47 @@
+courses:
+  activation: 01/01/2012
+  assessment: Uma prova de recuperação versando sobre toda a matéria.
+  bibliography: "BRITO, J.O. & BARRICHELO, L.E.G., 1985. Química da Madeira.\nPiracicaba.\
+    \ Centro Acadêmico Luiz de Queiroz, 125 p.       (mimeogr.).\nBARRICHELO, L.E.G.\
+    \ & BRITO, J.O., 1976. A madeira das espécies de eucalipto como matéria-prima\
+    \ para a indústria de celulose e papel. Brasília, PNUD/FAO/IBDF/BRA-45 - Série\
+    \ Divulgação no 13, 145p.\nCLARK, J. H., 2008. Introduction to Chemicals from\
+    \ Biomass. Chichester, 184p.\nD'ALMEIDA, M.L.O., 1981. Celulose e Papel. Tecnologia\
+    \ de       fabricação da pasta celulósica. São Paulo, SENAI-IPT. Vol.       I.\
+    \ 492 p.\nFENGEL, D. & WEGENER, G., 1984. Wood-Chemistry,       Ultrastructure,\
+    \ Reactions. N. York, Walter de Gruyter.\nFOELKEL, C.E.B. & BARRICHELO, L.E.G.,\
+    \ 1975. Tecnologias de       celulose e papel. Piracicaba. ESALQ-USP, Mimeografado,\
+    \       207p.\nKAMM, B., 2006. Biorefineries \x96 Industrial Processes and Products.\
+    \ Weinhein, 440p.\nSJOSTROM, EERO., 1981. Wood Chemistry - Fundamentals and  \
+    \     Application. N. York, Academic Press.\nWENZL, H.F.J., 1970. The chemical\
+    \ technology of wood. N. York, Academic Press, 692 p."
+  course: 'Revisão sobre composição química da madeira. Madeira e suas reações à ação
+    de agentes químicos. Separação química de carboidratos e lignina. Obtenção de
+    pasta celulósica. Matérias primas para produção de celulose. Classificação quanto
+    à fonte e tipo de fibra. Qualidade da matéria-prima. Madeira de coníferas e folhosas,
+    fibras anuais, resíduos agrícolas e industriais; Processos de obtenção de celulose.
+    Classificação quanto ao rendimento, tipo de energia empregada. Adequação com a
+    matéria-prima e qualidade do produto. Processos mecânicos, termo mecânicos, semi
+    químicos e químicos: classificação, principais equipamentos e variáveis de processo,
+    qualidade e uso da celulose/pasta resultante. Aspectos técnicos, econômicos e
+    sociais da indústria de celulose no mundo e no Brasil. Hidrólise da madeira. Etanol
+    da madeira. Alternativas de pré-tratamento químico da madeira. Conceitos sobre
+    biorefinaria.'
+  course_name: 'LCF0445 - Fundamentos e Aplicações da Química de Produtos Florestais
+    II
+
+    Principles and Applications of Forest Products Chemistry II'
+  deactivation: ''
+  instructors: 1166011 - Francides Gomes da Silva Junior
+  lecture_credits: '3'
+  objectives: Fornecer aos alunos conhecimentos básicos e aplicados referentes ao
+    processamento químico de matérias primas de origem florestal, seus produtos e
+    aplicações, tendo em conta, especialmente, os componentes lignocelulósicos como
+    fonte de biofibras e biocombustíveis.
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220707011131'
+digest: 6VRCL77ODCUUOSRFSXNOVD3NR27PJ2LM
+updated_at: '20220707011131'
+url: https://web.archive.org/web/20220707011131id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0445&codcur=11020&codhab=0
