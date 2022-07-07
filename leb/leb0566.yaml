@@ -1,0 +1,59 @@
+courses:
+  activation: 01/01/2022
+  assessment: Não há recuperação.
+  bibliography: 'BATALHA, M.O. et al, Introdução à Engenharia de Produção, Rio de
+    Janeiro, Elsevier, 2008.
+
+    BAZZO, W.A. Introdução à Engenharia. Florianópolis: Editora da UFSC, 1998.
+
+    BELARDO, G. C.; CASSIA, M. T.; SILVA, R. P. Processos agrícolas e mecanização
+    da cana-de-açúcar. 1ed. Jaboticabal: SBEA, 2015, v., p. 519-526.
+
+    CAIXETA FILHO, J.V. Pesquisa Operacional: Técnicas de otimização aplicadas a Sistemas
+    Agroindustriais. 2ª ed. São Paulo: Atlas: 2004.
+
+    SIQUEIRA, L. G. Controle estatístico do processo, São Paulo: Pioneira, 1997.
+
+    SRIVASTAVA, A. K.; GOERING, C. E.; ROHRBACH, R. P.; BUCKMASTER, D. R. Engineering
+    principles of agricultural machines. 2 ed. St. Joseph: American Society of Agricultural
+    and Biological Engineers, 2006, 588 p.'
+  course: 'Introdução o estudo de sistemas: abordagem sistêmica, apresentação da teoria
+    geral dos sistemas, o que é complexidade, abordagens de hard e soft systems;
+
+    Introdução à Engenharia de produção: noções de planejamento e controle da produção,
+    pesquisa operacional, gestão e controle de qualidade, projeto do produto, projeto
+    da fábrica, projeto e estudo de métodos de trabalho;
+
+    Pesquisa operacional: histórico, conceitos fundamentais, definição do problema,
+    obtenção de dados, construção do modelo matemático, obtenção de soluções, teste
+    de modelos, introdução à programação linear;
+
+    Planejamento e controle de sistemas mecanizados: planejamento da produção, operações
+    agrícolas e seus requisitos, restrições, definição da intensidade de trabalho,
+    capacidade e eficiência de máquinas agrícolas, parâmetros de desempenho operacional
+    e econômico.'
+  course_name: 'LEB0566 - Pensamento Sistêmico na Agricultura
+
+    Systems Thinking in Agriculture'
+  deactivation: ''
+  instructors: 2231586 - Leandro Maria Gimenez
+  lecture_credits: '2'
+  objectives: "Com a inserção de tecnologias digitais e a evolução da indústria de\
+    \ máquinas é possível compreender restrições pontuais e controlar em maior nível\
+    \ de detalhe estes recursos. Entretanto, mesmo havendo diversidade de tecnologias\
+    \ para planejamento e controle, continua-se deixando de lado outros componentes\
+    \ como os sociais e políticos, o que leva ao emprego inadequado ou à baixa aceitação\
+    \ das tecnologias ofertadas. A necessidade de diversificar os sistemas de produção\
+    \ em função de restrições ambientais e econômicas traz consigo demandas por uma\
+    \ visão multidisciplinar que não será atendida pelo estudo dos subsistemas componentes\
+    \ de forma isolada.\n1)\tEstimular o pensamento sistêmico e sua aplicação na caracterização\
+    \ e resolução dos problemas comuns aos sistemas agrícolas;\n2)\tApresentar as\
+    \ principais técnicas e ferramentas empregadas pela engenharia de produção e abordar\
+    \ como pode ser realizada sua inserção na produção agrícola;"
+  practical_credits: '2'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220707060244'
+digest: 5FXUV4WL7FJRQZD7IS3YP7NV2JS2HJQ7
+updated_at: '20220707060244'
+url: https://web.archive.org/web/20220707060244id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0566&codcur=11020&codhab=0
