@@ -1,0 +1,48 @@
+courses:
+  activation: 01/01/2020
+  assessment: No mínimo 70% de frequência e média final entre 3,0 e 4,9
+  bibliography: 'Clemen, R. T. Making hard decisions: an introduction to decision
+    analysis. 2ª edição. Duxbury. 1996.
+
+    Eisenfuhr, F. et al. Rational Decision Making. Springer, 2010.
+
+    Hillier e Lieberman, Introdução à Pesquisa Operacional 8ª. Ed, Bookman, 2010.
+
+    Huchzermeier, A., & Loch, C. H. (2001). Project Management Under Risk: Using the
+    Real Options Approach to Evaluate Flexibility in R & D. Management Science, 47(1),
+    85–101.
+
+    Knight, F. H. (1921). Risk, Uncertainty and Profit. On the History and Method
+    of Economics. New York, NY: Hart, Schaffner and Marx.
+
+    Rice, M. P., Connor, G. C. O., & Pierantozzi, R. (2008). Implementing a Learning
+    Plan to Counter Project Uncertainty. MIT Sloan Management Review, 49(2), 54–62.'
+  course: 'Tópicos
+
+    Introdução à solução de problemas
+
+    Metodologias de análise e solução de problemas
+
+    Ferramentas da Qualidade
+
+    Modelos de otimização (Pesquisa Operacional)
+
+    Análise de redes
+
+    Técnicas de análise de decisão
+
+    Soft system methodologies'
+  course_name: 'EAD0904 - Solução de Problemas em Negócios
+
+    Business Problem Solving'
+  deactivation: ''
+  instructors: 6497191 - Leonardo Augusto de Vasconcelos Gomes
+  lecture_credits: '4'
+  objectives: Solução de problemas, trabalho em equipe & comunicação.
+  practical_credits: '2'
+  total_workload: 120 h
+  type: Semestral
+created_at: '20220707034627'
+digest: KEG6HAJHVO32NIOQ5WB6F56XP65OH25H
+updated_at: '20220707034627'
+url: https://web.archive.org/web/20220707034627id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0904&codcur=12012&codhab=1
