@@ -1,0 +1,110 @@
+courses:
+  activation: 01/01/2011
+  assessment: Prova escrita versando sobre toda a matéria ministrada (teoria e prática).
+  bibliography: "-BARNES, B. V. et al. Forest Ecology. N. York, John Wiley & Sons,\
+    \ 1998. 687p.\n-DURIGAN, G. et. al. Plantas do Cerrado Paulista  São Paulo. Páginas\
+    \ & Letras Ed., 2004.  475p.\n-FEARNSIDE, P. M. Desmatamento na Amazônia: dinâmica,\
+    \ impactos e controle. Acta Amazônica,\nManaus, v.36, n.3, p.395-400, 2006.\n\
+    -FERRI, M. G. Vegetação brasileira. São Paulo, EDUSP, 1980. 157p.\n-HUECK, K.\
+    \ As Florestas da América do Sul. São Paulo, Ed. Polígono, 1972. 466p.\n-LORENZI,\
+    \ H. Árvores brasileiras. Nova Odessa, Ed. Plantarum, 1992. 352p.\nMARTINS, S.\
+    \ V. (Ed.) Ecologia de Florestas tropicais do Brasil. Viçosa (MG) Editora UFV,\
+    \ 2009.261p.\n-ODUM, E. P.; BARRET, G. W. Fundamentos de Ecologia. Thomson Learning.\
+    \ São Paulo, 2007. 612p.\n-PINTO-COELHO, R. M. Fundamentos de Ecologia. Artmed\
+    \ Ed., 2000. 252p.\n-POGGIANI, F. Ecologia Florestal. Práticas. Piracicaba. ESALQ/USP,\
+    \ 2009. 46p.\n-RAMOS, V. S. et al. Árvores da Floresta Estacional Semidecidual:\
+    \ Guia de Identificação de Espécies. São Paulo. EDUSP. Biota FAPESP, 2008. 320p.\n\
+    -RICKLEFS, E. R. Economia da natureza. Ed. Guanabara, 1993. 470p.\n-RIZZINI, O.\
+    \ T. Tratado de fitogeografia do Brasil. São Paulo, EDUSP, 1979.\n-RODRIGUES,\
+    \ R. R. et. al. (Ed.) Matas ciliares: conservação e recuperação. São Paulo, EDUSP,\
+    \ 2000. 320p.\n-SIOLI, H. \x93Amazônia\x94 Fundamentos da ecologia da maior região\
+    \ de florestas tropicais. Vozes, R. de Janeiro. 1985. 72p.\n-TOWNSEND, C. R.;\
+    \ BEGON, M.; HARPER, J. L. Fundamentos em Ecologia. 2ª. |Ed. - Porto Alegre\n\
+    -WALTER, H. Vegetação e zonas climáticas. São Paulo, Editora Pedagógica Universitária.\
+    \ 1986. 325p."
+  course: 'Aulas teóricas:
+
+    1. Conceitos de Ecologia e Ecologia Florestal e sua aplicação no manejo florestal.
+    Os fatores do ambiente. Vegetação e zonas climáticas da Terra. Adaptações das
+    plantas ao clima e ao solo. Principais formações vegetais brasileiras. Os ecossistemas
+    amazônicos, o Cerrado, a Caatinga, a Mata Atlântica, as florestas sazonais do
+    interior, as matas de Araucária e o complexo do Pantanal. Adaptação das espécies
+    arbóreas às condições edáficas.
+
+    2. Conceitos de populações, comunidades, ecossistemas e biosfera. Habitat e nicho
+    ecológico. O ecossistema e suas características. Ecossistemas autotróficos e heterotróficos.
+    O ecossistema da floresta: sua estrutura e funcionamento. Características das
+    populações e das comunidades florestais. Interações dos seres vivos na floresta.
+    Biodiversidade. Capacidade de suporte do meio e sustentabilidade dos ecossistemas.
+    Características e evolução dos agroecossistemas: aspectos ecológicos e sociais.
+
+    3. O fluxo de energia na floresta. Características da radiação solar. Produtividade
+    primária e secundária nos ecossistemas florestais. Conceitos de biomassa florestal,
+    eficiência fotossintética e incremento florestal. Funcionamento da cadeia alimentar
+    nos ecossistemas. A cadeia de detritos na floresta. Conceito de eficiência ecológica
+    dos ecossistemas.
+
+    4. O ciclo da água e dos nutrientes na biosfera e nas florestas. Conceito de bacia
+    hidrográfica. O papel das florestas no ciclo da água e sua importância na sustentabilidade
+    dos recursos hídricos e na movimentação dos nutrientes. O ciclo de nutrientes:
+    ciclos gasosos e sedimentares. Transferências de nutrientes no ecossistema e sua
+    importância no manejo das florestas.
+
+    5. Radiação Solar: características qualitativas e quantitativas. Alterações da
+    radiação solar na floresta e seu reflexo sobre a atividade fotossintética das
+    plantas nos diferentes estratos da comunidade. Comportamento das espécies arbóreas
+    em relação à luminosidade. Características das espécies pioneiras e tolerantes
+    à sombra. Fixação do carbono em florestas.
+
+    6. Sucessão florestal. Conceitos de sucessão primária e secundária. Sucessão autotrófica
+    e heterotrófica. Tendências da sucessão ecológica. Conceito de estágio seral,
+    clímax e disclimax. Bioenergética do desenvolvimento do ecossistema florestal.
+    Relação entre fotossíntese e respiração. Dinâmica florestal de regeneração de
+    clareiras.
+
+    7. Conceitos de fitossociologia. Densidade, freqüência, dominância e valor de
+    importância das diferentes espécies arbóreas na comunidade florestal. Índices
+    de similaridade e de diversidade. Aplicabilidade dos conceitos fitossociológicos
+    ao manejo das florestas nativas.
+
+    8. A intervenção do homem sobre as florestas nativas e suas conseqüências. O desmatamento
+    e seus reflexos no equilíbrio ecológico. Características dos fragmentos florestais
+    e efeito de borda. Queimadas e expansão da fronteira agrícola: aspectos ambientais.
+    A destruição das matas ciliares e dos recursos hídricos. Importâncias das áreas
+    de preservação. Noções sobre recuperação de áreas degradadas. Princípios de ecologia
+    da paisagem. Ecologia aplicada ao manejo das plantações florestais para fins comerciais.
+    A importância da legislação ambiental.
+
+    Aulas práticas:
+
+    Estudo do habitat florestal e dos componentes da vegetação. Relações dendrométricas
+    das árvores da floresta: forma específica e forma florestal. Representação da
+    estrutura horizontal e vertical da floresta. Análise microclimática do habitat:
+    radiação solar, temperatura, umidade do ar e do solo. Estudo do ecossistema do
+    cerrado (Viagem para o cerrado de Cachoeira das Emas-SP). Fenologia de espécies
+    florestais. Medição dos índices relativos de radiação solar e de cobertura do
+    dossel em florestas. Ciclagem de nutrientes: em florestas e plantações florestais.
+    Estimativa do estoque de nutrientes na serapilheira. Avaliação da regeneração
+    natural em florestas. Observação da mesofauna do solo. Exercícios de fitossociologia.
+    Estudo dos ecossistemas da Mata Atlântica: restinga, mangue, mata de planície
+    e mata de encosta (Viagem para a Mata Atlântica no Parque Estadual da Serra do
+    Mar-SP).'
+  course_name: 'LCF0491 - Ecologia Florestal
+
+    Forest Ecology'
+  deactivation: ''
+  instructors: 374151 - Ciro Abbud Righi
+  lecture_credits: '4'
+  objectives: Fornecer ao aluno os conhecimentos de ecologia necessários para analisar
+    a estrutura e o funcionamento dos ecossistemas terrestres e principalmente das
+    florestas, bem como sua importância e evolução no espaço e ao longo do tempo.
+    Capacitar o aluno de Engenharia Florestal para desenvolver estudos de ecologia
+    básica e aplicada em ecossistemas florestais e para relacionar a matéria ministrada
+    com o desenvolvimento das práticas do bom manejo florestal.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220707041619'
+digest: 4HWYAUKIKS5SYFENWQJU3VHD2PFYCP5E
+updated_at: '20220707041619'
+url: https://web.archive.org/web/20220707041619id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0491&codcur=11020&codhab=0
