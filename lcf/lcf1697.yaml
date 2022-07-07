@@ -1,0 +1,57 @@
+courses:
+  activation: 01/01/2019
+  assessment: 1 prova dissertativa com toda a matéria do semestre.
+  bibliography: 'Decisão de Diretoria Nº 153/2014/I, de 28 de maio de 2014
+
+    Decisão de Diretoria 247/17/I, de 28 de agosto de 2017
+
+    Deliberação CONSEMA Normativa 01/2014
+
+    LCP 140/11
+
+    Lei 6.938/81
+
+    Resolução CONAMA 001/86
+
+    Resolução CONAMA 237/97
+
+    Resolução SMA 49/14
+
+    Resolução SMA 102/16
+
+    Manual para elaboração de estudos para o licenciamento com avaliação de impacto
+    ambiental (http://licenciamento.cetesb.sp.gov.br/cetesb/documentos/Manual-DD-217-14.pdf)
+
+    SANCHEZ, L.E. 2006. Avaliação de impacto ambiental: Conceitos e Métodos. Oficina
+    de textos, São Paulo.'
+  course: "Conceituação de impactos ambientais. Ações humanas, aspectos e impactos\
+    \ ambientais. Histórico e evolução do processo de avaliação ambiental no Brasil.\
+    \ Legislação do licenciamento ambiental. Competência dos órgãos federais, estaduais\
+    \ e municipais no licenciamento ambiental. Avaliação Ambiental Estratégica. O\
+    \ processo e etapas do licenciamento ambiental. Licenciamento ambiental com avaliação\
+    \ de impactos ambientais. Estrutura dos EIA/RIMA e RAP. Caracterização do empreendimento.\
+    \ Diagnóstico ambiental dos meios físico, biótico e sócio-econômico. Classificação\
+    \ dos impactos ambientais. Análise de impactos ambientais. Medidas mitigadoras\
+    \ e compensatórias. Programa de monitoramento, acompanhamento e gestão de impactos\
+    \ ambientais. Elaboração e análise dos EIA/RIMA através de estudos de casos (estudos\
+    \ dirigidos).\nOBSERVAÇÕES:\nEIA\t-  Estudo de Impacto Ambiental\nRIMA -  Relatório\
+    \ de Impacto no Meio Ambiente\nRAP\t-  Relatório Ambiental Preliminar"
+  course_name: 'LCF1697 - Gestão de Impactos Ambientais
+
+    Environmental Impact Assessment'
+  deactivation: ''
+  instructors: 836301 - Katia Maria Paschoaletto Micchi de Barros Ferraz
+  lecture_credits: '4'
+  objectives: 2.1.Conscientizar o aluno sobre a importância do processo de avaliação
+    e gestão de impactos ambientais. 2.2.Fornecer aos alunos instrumentos técnico-científicos
+    que o capacitem a compreender o processo de avaliação de impactos ambientais.
+    2.3.Capacitar o aluno sobre a estrutura e funcionamento do EIA/RIMA. 2.4.Preparar
+    o aluno para participar em equipes na elaboração do EIA/RIMA. 2.5.Capacitar o
+    aluno para o gerenciamento de trabalhos de elaboração dos EIA/RIMA
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220707084828'
+digest: UWWGTPC36BPMSJMLRW7227NZAIONVJ2Z
+updated_at: '20220707084828'
+url: https://web.archive.org/web/20220707084828id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF1697&codcur=11020&codhab=0
