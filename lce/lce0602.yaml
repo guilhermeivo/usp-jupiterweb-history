@@ -1,0 +1,71 @@
+courses:
+  activation: 15/07/2019
+  assessment: Será feita sob a forma de uma prova com duas horas de duração, aplicada
+    após o término das aulas, em época determinada pela USP. A média final será a
+    média aritmética entre a nota desta prova e a média obtida no semestre.
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    BARBIN, D. Planejamento e Análise Estatística de Experimentos Agronômicos.  Mecenas-Londrina,
+    2013. 213p, 2ª edição.
+
+    PIMENTEL GOMES, F. Curso de Estatística Experimental.  15ª edição, São Paulo,
+    2009 (reimpressão).  451 p.
+
+    VIEIRA, S. Análise de Variância (ANOVA). 1ª edição, São Paulo, 2006. Editora Atlas,
+    216p.
+
+    BIBLIOGRAFIA COMPLEMENTAR
+
+    COCHRAN, W.G. e G.M. COX.   Experimental Design. 2ª edição. Nova York. John Wiley,1992.
+    611p.
+
+    DIAS,C.T.S.  Estatística Básica por meio do SAS para Windows, Material Didático-nacional,
+    Piracicaba, 2015, ISBN 978-8586481-3 CDD 519.50285 D 5412.
+
+    MONTGOMERY, D. C. Introdução ao controle estatístico da qualidade. [Tradução de]
+    Ana Maria Lima de Farias e Vera Regina Lima de Farias e Flores; [revisão técnica
+    de] Luiz da Costa Laurencel. Rio de Janeiro: Editoria LTC 2009, 513 p.
+
+    MONTGOMERY, Douglas C. Design and Analysis of Experiments. 8th edition. 2012.
+
+    NOGUEIRA, M.C.S. Experimentação Agronômica I. Conceitos, Planejamento e Análise
+    Estatística. Piracicaba:  Ed. MCSNogueira, 2007. 494p.
+
+    PIMENTEL GOMES, F.; GARCIA, C.H. Estatística Aplicada a Experimentos Agronômicos
+    e Florestais. Piracicaba: Fealq, 2002. 307p.
+
+    VENABLES, W.N.; RIPLEY. B.D.  Modern applied statistics with S. New York: Springer,
+    2002. 495 p.'
+  course: '1. Introdução à Informática: 1.1. Uso do processador de texto: formatação,
+    tabelas, geradores de índices, fórmulas. 1.2. Uso da planilha eletrônica: confecção
+    de planilhas, funções estatísticas, gráficos; macros. 1.3. Pacotes Estatísticos
+    para microcomputadores. 2. Variação do acaso. Modelo matemático. 3. Medidas de
+    posição e medidas de dispersão: média, variância, desvio padrão, erro padrão da
+    média e coeficiente de variação. 4. Etapas para o planejamento de experimentos:
+    escolha de fatores e seus níveis. Unidade experimental. Definição do delineamento
+    experimental. 5. Princípios básicos de experimentação: repetição, casualização
+    e controle local. 6. Experimentos inteiramente ao acaso. 7. Métodos de comparações
+    múltiplas (Tukey, Duncan, Schefeé, Dunnett). 8. Análise de regressão. Modelo polinomial.
+    9. Exigências do modelo matemático. Transformações de dados. 10. Experimentos
+    em blocos casualizados. 11. Experimentos em blocos casualizados com parcelas perdidas.
+    12. Experimentos em quadrados latinos. 13. Experimentos fatoriais. 14. Experimentos
+    fatoriais: deslocamento das somas de quadrados. 15. Experimentos fatoriais: confundimento.
+    16. Experimentos em parcelas subdivididas. 17. Experimentos em faixas. 18. Análise
+    de grupos de experimentos: delineamentos inteiramente ao acaso e em blocos casualizados.'
+  course_name: 'LCE0602 - Estatística Experimental
+
+    Experimental Statistics'
+  deactivation: ''
+  instructors: 93551 - Sônia Maria De Stefano Piedade
+  lecture_credits: '4'
+  objectives: A disciplina Estatística Experimental tem como objetivo principal estimular
+    o senso crítico do estudante com relação à experimentação, de tal modo que, recebendo
+    informações a respeito da pesquisa, o estudante seja capaz de planejar e conduzir
+    um experimento, analisar os dados e interpretar os resultados.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220707194701'
+digest: SVJ7ZYTLU7NSPVMHVKJIVDZDVVN4MOWB
+updated_at: '20220707194701'
+url: https://web.archive.org/web/20220707194701id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0602&codcur=11020&codhab=0
