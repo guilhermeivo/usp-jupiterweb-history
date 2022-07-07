@@ -1,0 +1,69 @@
+courses:
+  activation: 01/01/2020
+  assessment: Através de aplicação de prova teórico-prática.  1 prova escrita e 1
+    prova prática versando sobre toda matéria dada.
+  bibliography: "APPEZZATO-DA-GLÓRIA, B.; CARMELLO-GUERREIRO, S.M. Anatomia Vegetal\
+    \ Universidade Federal de Viçosa, MG. 2003.\nALEX C. WIEDENHOEFT . Structure and\
+    \ Function of Wood. In: Handbook of Wood Chemistry and Wood Composites, second\
+    \ edition, pp.9-32, (2013). Chapter 2.Forest Products Laboratory. Madison.\nMARIANO\
+    \ M. AMOROSO, LORI D. DANIELS, PATRICK J. BAKER, J. JULIO CAMARERO. Dendroecology:\
+    \ Tree-Ring Analyses Applied to Ecological Studies. Vol. 231. Ecological Studies\
+    \ Editora\tSpringer, 400p., (2017).\nROSANNE D'ARRIGO,‎ NICOLE DAVI,‎ GORDON JACOBY,‎\
+    \ ROB WILSON,‎ GREG WILES., Dendroclimatic Studies: Tree Growth and Climate Change\
+    \ in Northern Forests. Publisher: American Geophysical Union; 1 edition; 88p.\
+    \ (2014)\nMALCOLM K. HUGHES ,‎ THOMAS W. SWETNAM,‎ HENRY F. DIAZ. Dendroclimatology:\
+    \ Progress and Prospects. Publisher: Springer; 368p. (2011).\nGARCIA ESTEBAN,\
+    \ L. et al. La madera y su anatomia: anomalias, defectos, estructura microscópica\
+    \ de coniferas y frondosas, identification de maderas, description de especies\
+    \ y pared celular. Madrid, ES, Multi-Prensa, 2003.\nGARCIA ESTEBAN, L. et al.\
+    \ Anatomia y identification de maderas de coniferas a nivel de espécie.  Madri,\
+    \ ES, Multi-Prensa. 2002.\nJAMES H. SPEER. Fundamentals of Tree Ring Research\
+    \ 2nd Edition Publisher: University of Arizona Press; 2 edition; 368p. (2012);\n\
+    MARKUS STOFFEL,‎ MICHELLE BOLLSCHWEILER,‎ DAVID R. BUTLER,‎ BRIAN H. LUCKMAN.\
+    \ Tree Rings and Natural Hazards: A State-of-Art. Series: Advances in Global Change\
+    \ Research. Publisher: Springer; 2010 edition; 505p.\nFRITZ HANS SCHWEINGRUBER,‎\
+    \ ANNETT BÖRNER,‎ ERNST-DETLEF SCHULZE. Atlas of Woody Plant Stems: Evolution,\
+    \ Structure, and Environmental Modifications. Publisher: Springer; 229p. (2011);\
+    \ ISBN-10: 3540325239; ISBN-13: 978-3540325239\nFRITZ HANS SCHWEINGRUBER. Wood\
+    \ Structure and Environment. Publisher: Springer; 279p.  (2010); ISBN-10: 364208009X;\
+    \ ISBN-13: 978-3642080098\nKLAUS ULRICH LEISTIKOW,‎ ROMEYN BECK HOUGH. The Woodbook\
+    \ Hardcover. Publisher: Taschen America; 772p. (2013);\nAIDAN WALKER The Encyclopedia\
+    \ Of Wood: A Tree-By-Tree Guide. Publisher: Checkmark Books; 192p. (2005);\nR.\
+    \ BRUCE HOADLEY. Understanding Wood: A Craftsman's Guide to Wood Technology Hardcover.\
+    \ Publisher: The Taunton Press; 288p. (2000);"
+  course: 'Dendrologia e biologia da madeira: da morfologia externa a anatomia do
+    lenho das árvores de espécies florestais nativas e introduzidas. Partes integrantes
+    de um vegetal arbóreo; estudo da raiz, caule, folha, flores, frutos e sementes.
+    Atividade cambial e formação do tronco das árvores. Anéis de crescimento no lenho
+    das árvores: caracterização anatômica e aplicações no manejo, monitoramento ambiental,
+    reconstrução climática, datação de árvores, etc. Composição do tronco e a formação
+    do alburno/cerne, madeira juvenil/adulta, lenho de reação (compressão e tração).
+    Biodeterioração do lenho das árvores e da madeira. Planos de observação do tronco.
+    Estrutura anatômica da madeira das angiospermas (folhosas) e das gimnospermas
+    (coníferas). Identificação macro e microscópica das principais espécies comerciais
+    no Brasil, através das características de suas madeiras.'
+  course_name: 'LCF0225 - Dendrologia e Biologia da Madeira
+
+    Dendrology and Wood Biology'
+  deactivation: ''
+  instructors: 49807 - Mario Tommasiello Filho
+  lecture_credits: '3'
+  objectives: Transmitir conhecimentos básicos sobre a dendrologia das principais
+    espécies florestais nativas e exóticas cultivadas no país. Explicar a origem e
+    formação dos tecidos que formam o lenho das árvores. A estrutura e composição
+    dos meristemas apicais e lateral. Distinguir as células e tecidos estruturais
+    que compõem o lenho das árvores e as funções desempenhadas. Estudar o processo
+    de formação do cerne e da madeira juvenil e adulta no lenho das árvores. Estudar
+    a formação e aplicação dos anéis de crescimento no lenho das árvores. Analisar
+    a parede das células do lenho madeira até a sua ultra-estrutura. Reconhecer as
+    principais estruturas anatômicas utilizadas na identificação macroscópica das
+    espécies florestais. Identificar macro e microscopicamente as principais madeiras
+    através da sua estrutura anatômica e aplicação de chaves. Estudar a biodeterioração
+    do lenho das árvores e da madeira em uso, por microorganismos e insetos.
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220707130752'
+digest: DAREPHBXPF3MRTMY7TEKBGQIJWRKA7RL
+updated_at: '20220707130752'
+url: https://web.archive.org/web/20220707130752id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0225&codcur=11020&codhab=0
