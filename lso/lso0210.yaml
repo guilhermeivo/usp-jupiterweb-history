@@ -1,0 +1,103 @@
+courses:
+  activation: 01/01/2011
+  assessment: Uma prova teórica.
+  bibliography: "Literatura Básica:\nCLEMENTE,C.A. & AZEVEDO, A.C. 2011 \x96 Anotações\
+    \ da Disciplina LSO-210 Geologia Aplicada a Solos. Departamento de Ciência do\
+    \ Solos.ESALQ/USP. 87pg.\nLEINZ, V. & AMARAL, S.E. (1978) Geologia Geral. Cia\
+    \ Editora Nacional, 397p.\nSUMNER M.E. (Editor) Handbook of Soil Science. CeC\
+    \ Press.2000. Washington 2.148p. Section F. Soil Mineralogy p.F-1 a F-182.\nTEIXEIRA\
+    \ W., TOLEDO, M.C.M., FAIRCHILD, T.R., & TAIOLI, F. (2000). Decifrando a Terra.\
+    \ Ed. Oficina de Textos. São Paulo. 557 p.\nLiteratura Complementar :\nPRADO,\
+    \ H. do. Pedologia Fácil. (2008) (2 ed.). Piracicaba. 145p.\nOLIVEIRA, J. B. de.\
+    \ Pedologia Aplicada (2008) (3 ed.). FEALQ, Pircacicaba. 592 p.\nBRADY, C.N. &\
+    \ WEIL, R.R. (2008) The Nature and Properties of Soils (14th ed.). Prentice Hall,\
+    \ 975p.\nPRESS, F. & SIEVER, R. (1998) Understanding Earth (2nd ed.). W. H. Freeman\
+    \ Comp., 682p.\nLEPSCH, I.F.19 Lições de Pedologia. São Paulo. Oficina de Textos,\
+    \ 2011 \x96 456p.\nDANA,J.D.Manual de Mineralogia 9ª.Edição.Livros técnicos e\
+    \ científicos editora SP.1984.\nPETRI, S. & FULFARO, V.J. 1983. Geologia do Brasil.\
+    \ EDUSP. 631P.\nPRÓ-MINÉRIO-PROMOCET/IPT.1981. Mapa Geológico do Estado de São\
+    \ Paulo. Mapa 1:500.000 e Notícia Explicativa. 125P."
+  course: '1 INTRODUÇÃO
+
+    Importância e objetivos da disciplina no contexto agronômico e florestal. Princípios
+    da Geologia Tempo Geológico. Idades relativas e absolutas. Composição e Estrutura
+    da Terra. Interação das diferentes esferas (atmosfera, hidrosfera, pedosfera e
+    litosfera). Litosfera ou Crosta Composição.
+
+    2. MINERALOGIA
+
+    Estado cristalino. Estrutura cristalina e amorfa. Espécie mineral. Minerais constituintes
+    de rochas e de solos. Principais minerais de cada grupo. Silicatos: estrutura
+    e classificação. Importância no estudo de solos. Propriedades físicas e identificação
+    macroscópica dos minerais mais comuns.
+
+    3. PETROLOGIA
+
+    Rochas como material de origem de solos. Gênese e classificação dos principais
+    grupos de rochas ígneas, sedimentares e metamórficas. Propriedades macroscópicas
+    e identificação das principais rochas de interesse agronômico.
+
+    4. GEOLOGIA DE SÃO PAULO E DO BRASIL
+
+    Aspectos Geomorfológicos e Geológicos do Brasil. Bacia do Paraná. Geologia e Geomorfologia
+    do Estado de São Paulo. Estratigrafia. Complexo Cristalino no Estado. Litologia,
+    distribuição espacial e solos relacionados. Principais Grupos e Formações Geológicas
+    da Bacia do Paraná no Estado de São Paulo, sua distribuição espacial, características
+    e solos relacionados. Corte Geológico Esquemático do Estado de São Paulo. Aspectos
+    Geomorfológicos e Geológicos da Quadrícula de Piracicaba. Litologia, distribuição
+    espacial e solos relacionados. Corte Geológico esquemático de região.
+
+    5. INTEMPERISMO
+
+    Conceitos e divisão. Processos de intemperismo químico, biológico e físico biológico.
+    Fatores que condicionam o intemperismo. Seqüências de intemperismo. Produtos de
+    intemperismo. Minerais primários e secundários. Processos de gênese de argilominerais,
+    óxidos e hidróxidos de ferro, manganês e de alumínio. Formação de solos. Evolução
+    da paisagem (topografia e relevo, relevos esculpidos pela erosão e sedimentação,
+    fatores que controlam a paisagem)
+
+    6. MINERAIS SECUNDÁRIOS NO SOLO
+
+    Importância agronômica e ecológica. Filossilicatos de Alumínio: estrutura, formação
+    e reatividade. Relação com os materiais de origem. Óxidos de Fe e Al: estrutura,
+    formação e reatividade. Relação com os materiais de origem.
+
+    7. INTRODUÇÃO À PEDOLOGIA
+
+    Conceito de solo, pedon, perfil e horizontes. Principais tipos de horizontes.
+    Relações rocha/solo/paisagem.
+
+    Identificação de horizontes de solo no campo.
+
+    AULAS PRÁTICAS (Laboratório e Campo)
+
+    Identificação dos principais minerais de interesse agronomico no laboratório;
+
+    Identificação de rochas ígneas, sedimentares e metamórficas no laboratório;
+
+    Identificação de rochas ígneas, sedimentares e metamórficas no campo;
+
+    Relações Geologia, Geomorfologia e Solos.
+
+    Reconhecimento de perfil e horizontes de solo no campo e suas principais propriedades'
+  course_name: 'LSO0210 - Geologia Aplicada a Solos
+
+    Geology Applied to Soils'
+  deactivation: ''
+  instructors: 82131 - Celso Augusto Clemente
+  lecture_credits: '2'
+  objectives: "-\tApresentar a Geologia ao aluno iniciante em Engenharia Agronômica\
+    \ e Engenharia Florestal. Fazer entender as relações entre a Geologia e o contexto\
+    \ agronômico e florestal.\n-\tLocalizar a Agronomia e as Ciências Florestais no\
+    \ Sistema TERRA\n-\tConhecer os principais materiais de origem de solo, seus constituintes\
+    \ minerais, processos de alteração das rochas e formação do solo.\n-\tRochas como\
+    \ matéria prima para corretivos e fertilizantes agrícolas.\n-\tInterpretar mapas\
+    \ geológicos visando conhecer a Geologia do Brasil, do Estado de São Paulo e entender\
+    \ as relações com a distribuição dos principais tipos de solos."
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220707031559'
+digest: E67VC5J4EWX7WI45ZVFIEWPROAXNXH3O
+updated_at: '20220707031559'
+url: https://web.archive.org/web/20220707031559id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LSO0210&codcur=11020&codhab=0
