@@ -1,0 +1,105 @@
+courses:
+  activation: 01/01/2019
+  assessment: 'A recuperação envolve a revisão de toda a matéria pelo aluno interessado,
+    sob orientação do professor responsável.
+
+    A avaliação será feita na forma de prova global teórico-prática, dentro do prazo
+    regulamentar.'
+  bibliography: 'Literatura básica:
+
+    Aronof, S. Geographic Information Systems: a management perspective. Canada. WDL
+    Publications, 1989.
+
+    Assad, E.D., SANO, E.E. Sistemas de Informações Geográficas: aplicações na agricultura.
+    Planaltina-BR: Embrapa CPAC, 1993. 274p.
+
+    Bettinger, P. and M. Wing. 2004. Geographic Information Systems- Applications
+    in Forestry and Natural Resources Management. McGraw Hill, Boston.
+
+    Novo, E.M.L.M. Sensoriamento remoto: princípios e aplicações. São José Campos:
+    INPE, 1988. 364p.
+
+    THEOBALD, D.M. GIS Concepts and ArcGIS Methods, 3rd Edition. Conservation Planning
+    Technologies, Fort Collins, CO. 2003.
+
+    Literatura complementar:
+
+    BOLSTAD, P. GIS Fundamentals, 3rd Edition. Eider Press, White Bear Lake Minnesota.
+    2008.
+
+    BURROUGH P.A. and MCDONNELL R. A. 1998. Principles of Geographical Information
+    Systems. Oxford University Press: Oxford, 333.
+
+    COUTO,H.T.Z. Sistemas de informações geográficas: aplicações florestais. Série
+    Técnica IPEF, v.9, n.28, p.1-18, dez.1993.
+
+    FELGUEIRAS, C. A. Modelagem Numérica de Terreno. In: CÂMARA, Gilberto; DAVIS,
+    Clodoveu; MONTEIRO, Antônio Miguel Vieira. Introdução à Ciência da Geoinformação.  (Disponível
+    em: http://www.dpi.inpe.br/gilberto/livro/introd/index.html).
+
+    GOODCHILD, M.F.,  Geographical information science. International Journal of Geographical
+    Information Systems 6(1): 31-45. 1992.
+
+    ITC. Principles of Geographic Information Systems. ITC Educational Textbook Series.
+    International Institute for GeoInformation Sciences and Earth Observation. Enschede,
+    The Netherlands. 540 pp. 2009. (Disponível em: http://www.itc.nl/library/papers_2009/general/PrinciplesGIS.pdf).
+
+    ITC. Principles of Remote Sensing. ITC Educational Textbook Series. International
+    Institute for GeoInformation Sciences and Earth Observation. Enschede, The Netherlands.
+    591 pp. 2009. (Disponível em: http://www.itc.nl/library/papers_2009/general/PrinciplesRemoteSensing.pdf).
+
+    JOHNSON C. E. and. BARTON C. C. "Where in the World Are My Field Plots? Using
+    GPS Effectively in Environmental Field Studies" Frontiers in Ecology and the Environment
+    2.9 (2004): 475-482. (Disponível em: http://works.bepress.com/christopher_barton/53).
+
+    LISBOA FILHO, J. & IOCHPE, C. Introdução    a Sistemas de Informações Geográficas    com
+    Ênfase em Banco de Dados. Apostila.    47 p. 1996.
+
+    LONGLEY, P.A.; GOODCHILD, M.F.; MAGUIRE, D.J.; RHIND, D.W. Geographic Information
+    Systems and Science, John Wiley & Sons, New York, NY, 2005, ISBN 0470870001.
+
+    MOREIRA, M.A. Fundamentos do Sensoriamento Remoto e Metodologias de Aplicação.
+    2 ed. Viçosa, UFV, 2003. 307 p.
+
+    SILVA, I.F.T.; Manual Técnico de Noções Básicas de Cartografia. Fundação IBGE,
+    1989
+
+    VETTORAZZI, C.A. Sensoriamento remoto orbital. Piracicaba: ESALQ/DER, 1992. 134p.'
+  course: 'Importância da Informação Espacial; Sistemas de coordenadas / Sistemas
+    de projeção; Unidades para medidas lineares e de área; Cartografia básica; SIG:
+    definição, tipos, softwares, visão geral do ARCGIS; GPS: Sistema; Receptores;
+    Conceitos de Sensoriamento remoto.Fontes de dados digitais e analógicos; Digitalização
+    de mapas; Escanerização; Vetorização; GPS: Coleta de dados no campo; Imagens:
+    fonte de dados, tipos, formatos; Georeferenciamento de imagens digitais. Coleta
+    de pontos de controle; Cálculo do erro aceitável. Conceito de raster; Imagens
+    multiespectrais, infravermelho próximo e fisiologia. Classificação supervisionada
+    e geração de mapas temáticos por meio de Raster; Pratica com classificação de
+    imagens com o Multispec  usando imagens de altíssima definição e infravermelho
+    próximo. ArcGIS; Projeto; Layers; Simbologia; Plotagem de pontos do campo; Consultas.
+    Adição de atributos; Edição, manutenção de tabelas; Associação. Estrutura do Cadastro
+    florestal; Consultas por atributos; Consultas espaciais. Banco de dados relacional.
+    Criação, edição e manutenção de bases cartográficas. Digitalização de curvas de
+    nível; Preparação do MDT; Derivação de declividade e exposição. Uso de buffers
+    na delimitação de APP; Álgebra de mapas vetoriais; Sobreposição de mapas; Aplicações:
+    adequação ambiental,  traçado de estradas, demarcação de talhões, silvicultura
+    de precisão.'
+  course_name: 'LCF0131 - Gestão de Informações Espaciais em Atividades Florestais
+
+    Spatial Information Management in Forestry'
+  deactivation: ''
+  instructors: 2058395 - Sílvio Frosini de Barros Ferraz
+  lecture_credits: '3'
+  objectives: a) fornecer conceitos básicos sobre SIG, incluindo estrutura de dados
+    espaciais, projeções de mapas; sistemas de coordenadas; sensoriamento remoto e
+    sistemas de posicionamento global; b) instruir alunos a criação de bases cartográficas
+    com a utilização de interpretação de imagens e levantamentos com GPS; c) demonstrar
+    como a tecnologia de informação espacial pode ser utilizada para solução de problemas
+    reais no manejo de recursos naturais; d) realizar exercícios práticos que subsidiem
+    trabalhos de outras disciplinas do currículo.
+  practical_credits: '2'
+  total_workload: 105 h
+  type: Semestral
+created_at: '20220707014544'
+digest: XK3H3AGLTAXKQF75E4UD7FNCABFI75QY
+updated_at: '20220707014544'
+url: https://web.archive.org/web/20220707014544id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0131&codcur=11020&codhab=0
