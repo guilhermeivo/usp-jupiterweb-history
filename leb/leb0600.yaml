@@ -1,0 +1,85 @@
+courses:
+  activation: 01/01/2022
+  assessment: Uma avaliação escrita.
+  bibliography: 'Literatura Básica:
+
+    Klar, A.E. A água no sistema solo-planta-atmosfera. Editora Nobel. 1984.
+
+    Marin, F.R. Microclimatologia agrícola. Fealq. 2021.
+
+    Marin, F.R., Assad, E.D.; Pilau, F.G. Clima e ambiente. Embrapa. 2008.
+
+    Ometto, J.C. 1981. Bioclimatologia Vegetal. Editora Agronômica Ceres. 1981
+
+    Pereira, A.R.; Angelocci, L.R.; Sentelhas, P.C.; Agrometeorologia: Fundamentos
+    e Aplicações Práticas. Ed.
+
+    Agropecuária, 477 p. 2002.
+
+    Pereira, A.R.; Villa Nova, N.A.; Sedyama, G.C. Evapo(transpi)ração. FEALQ, 183p.,
+    1997.
+
+    Tubelis, A. & Nascimento, F. J. L. Meteorologia Descritiva. Editora Nobel S.A.,
+    1980.
+
+    Varejão-Silva, M.A. Meteorologia e Climatologia. INMET, 552p. 2001.
+
+    Literatura Complementar:
+
+    Campbell, G.S.; Norman, J.M. An introduction to environmental biophysics. Springer.1998
+
+    Montheith, J.L.; Unsworth, M.H. Principles of environmental physics. Elsevier.
+    2008.'
+  course: "Atmosfera e escalas climáticas: A biosfera e sua composição; atmosfera\
+    \ terrestre; as escalas do clima.\nInterceptação da radiação solar pela Terra:\
+    \ o sol como fonte primária de energia. Relações Terra-Sol:\ncoordenadas solares\
+    \ em relação à Terra; constante solar e irradiância no limite superior da atmosfera;\n\
+    interação da radiação solar com a atmosfera; radiação solar ao nível do solo:\
+    \ radiação solar na superfície\nterrestre; balanço de radiação. Interação copa-radiação\
+    \ solar: absorção, reflexão e transmissão de energia radiante; lei de Beer-Lambert;\
+    \ ângulo médio de inserção; coeficiente de extinção; arquitetura de copa; índice\
+    \ de área foliar. Balanço de carbono: fotossíntese bruta e líquida; respiração;\
+    \ balanço de carbono no campo; eficiência de uso da radiação. Folhas e fluxos:\
+    \ resistências e condutâncias; teoria do fluxo-gradiente; estômatos, cutícula\
+    \ e espaços intercelulares de ar; Lei de Fick; teoria da similaridade; resistência\
+    \ aerodinâmica. Calor sensível em comunidades vegetais: aspectos físicos da temperatura\
+    \ do ar e do solo; variabilidade na microescala; estabilidade atmosférica; temperatura\
+    \ potencial; Número de Richardson. Calor latente em comunidades vegetais: Calor\
+    \ latente de vaporização; propriedades físicas da água e do vapor d’água; umidade\
+    \ do ar; evaporação, transpiração e evapotranspiração; coeficiente de cultivo.\
+    \ Transporte de momento em comunidades vegetais: Formação dos ventos predominantes\
+    \ e locais; perfis de velocidade de vento; fluxo laminar e turbulento; Equação\
+    \ de Prandtl; Número de Reynolds; viscosidade; comprimento da rugosidade e deslocamento\
+    \ do plano zero; camada limite e bordadura; acoplamento copa\x02atmosfera. Eficiência\
+    \ de uso da água: o papel do dióxido de carbono; antitranspirantes; plantas C3\
+    \ e plantas C4; controle estomático."
+  course_name: 'LEB0600 - Microclimatologia Agrícola e Florestal
+
+    Forest And Agricultural Microclimatology'
+  deactivation: ''
+  instructors: 925245 - Fábio Ricardo Marin
+  lecture_credits: '4'
+  objectives: 'Capacitar o aluno e analisar e entender os processos físicos do ambiente
+    de importância agroecológica, na
+
+    escala microclimática. Ênfase é dada na interação entre a radiação solar com a
+    vegetação e ao transporte de
+
+    massa e energia em sistemas vegetados. Os princípios básicos da arquitetura dos
+    dosséis vegetativos são
+
+    estudados como base para a compreensão da absorção da energia radiante pela vegetação.
+    Conceitos de
+
+    mecânica dos fluídos, processos turbulentos, resistências e condutâncias, são
+    aplicados aos fluxos
+
+    atmosféricos buscando-se o entendimento dos processos de transporte e sua implicação
+    no balanço de massa e energia em sistemas agrícolas e florestais.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220707142050'
+digest: W7BLA2S4J4STK563ODNYCOHRFZH5YJRI
+updated_at: '20220707142050'
+url: https://web.archive.org/web/20220707142050id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0600&codcur=11020&codhab=0
