@@ -1,0 +1,106 @@
+courses:
+  activation: 01/01/2020
+  assessment: Prova dissertativa incluindo toda a matéria lecionada no semestre
+  bibliography: 'Literatura Básica:
+
+    d’ARCE, R.D. & C.H.W. FLECHTMANN, 1985. Introdução à Anatomia e Fisiologia Animal.
+    1
+
+    Ed. Nobel, SP, 186 p.
+
+    JUNQUEIRA, L.C. & J. CARNEIRO, 2008. Histologia Básica. 11. Ed. Guanabara Koogan
+    S.A., RJ,
+
+    542 p.
+
+    FRANDSON, R. D.; WILKE, W. L. e FAILS, A. D. 2005. Anatomia e Fisiologia dos Animais
+    de
+
+    Fazenda. 6 Ed. Guanabara Koogan S.A., RJ, 454 p.
+
+    Literatura Complementar:
+
+    SISSON, S. & J.D. GROSSMAN, 1973. Anatomia de los Animales Domésticos. Salvat,
+    Editores
+
+    S.A. Barcelona, 952 p.
+
+    TORTORA, G. J. & DERRICKSON, B., 2006. Principles of Anatomy and Physiology, edit
+    11 –
+
+    John Wiley & Sons Inc.
+
+    SWENSON, M.J & REECE, W.O., eds. 1996. DUKES Fisiologia dos Animais Domésticos.
+    Ed.
+
+    Guanabara Koogan, RJ, 856 p.
+
+    Aprendizado eletrônico/USP. Versão 2012. LZT 0313 - Anatomia e Fisiologia Animal.
+    http://tidiaae.usp.br/portal.'
+  course: "Definições em Anatomia e Fisiologia: Conceitos básicos de organização,\
+    \ Meio Interno, Homeostase, Funcionamento de sistemas do corpo. Embriologia: Origem\
+    \ dos tecidos.Tecido epitelial: Importância na exploração zootécnica; origem;\
+    \ características celulares específicas; epitélios de revestimento e glandulares;\
+    \ histofisiologia de glândulas de interesse zootécnico; epitélios especiais. Tecido\
+    \ conjuntivo: Importância na exploração zootécnica; origem; características gerais;\
+    \ células do tecido conjuntivo; matriz do tecido conjuntivo \x96  estrutura do\
+    \ colágeno; classificação do tecido conjuntivo; tecidos conjuntivos de propriedades\
+    \ especiais \x96 tecido adiposo, tecido ósseo, tecido cartilaginoso; aplicações\
+    \ na produção animal. Tecido muscular: tipos de tecido muscular; funções do tecido\
+    \ muscular; características morfológicas; mecanismos de contração; tipos de fibras\
+    \ musculares e suas características fisiológicas; crescimento e produção de carne.\
+    \ Tecido nervoso: organização; neurônios e neuróglia; funções. SANGUE: plasma\
+    \ e elementos figurados. Linfa e outros líquidos orgânicos. SISTEMA ESQUELÉTICO:\
+    \ classificação dos ossos; esqueleto axial: crânio, coluna vertebral, esterno\
+    \ e costelas; esqueleto apendicular: membros anteriores, membros posteriores e\
+    \ bacia pélvica. SISTEMA NERVOSO: O neurônio; sistema nervoso central: encéfalo\
+    \ e medula espinhal; sistema nervoso periférico: nervos craniais e espinais; sistema\
+    \ nervoso autônomo. SISTEMAS CIRCULATÓRIO-RESPIRATÓRIO: noções anatômicas: coração;\
+    \ artérias, capilares e veias; linfáticos. Fisiologia da circulação.  Circulação\
+    \ no coração, nos vasos sanguíneos e linfáticos. Ciclo cardíaco. Respiração: movimentos\
+    \ respiratórios,  mecanismos das trocas gasosas. SISTEMA DIGESTIVO. Noções anatômicas:\
+    \ boca, língua, dente, glândulas salivares, faringe, esôfago, cavidade abdominal,\
+    \ estômago, intestino delgado, intestino grosso, fígado e pâncreas. Fisiologia:\
+    \ preensão, mastigação, ensalivação, deglutição, digestão no estômago simples,\
+    \ digestão no estômago plurilocular, digestão no intestino delgado, digestão no\
+    \ intestino grosso, defecação. Absorção. SISTEMA URINÁRIO. Noções anatômicas:\
+    \ rins, ureteres, bexiga, uretra. Mecanismos da secreção urinária e micção. SISTEMA\
+    \ ENDÓCRINO. Noções anatômicas e hormônios da hipófise, tireóide, paratireóides,\
+    \ pâncreas, adrenais e gônadas. SISTEMA REPRODUTOR MASCULINO. Noções anatômicas:\
+    \ testículos, dutos, pênis e órgãos acessórios. Espermatogênese e ejaculação.\
+    \ SISTEMA REPRODUTOR FEMININO. Noções anatômicas: ovários, útero, vagina e vulva.\
+    \ Ciclo estral. Oogênese, fecundação, gestação, anexos embrionários e parto."
+  course_name: 'LZT0313 - Anatomia e Fisiologia Animal
+
+    Animal Anatomy and Physiology'
+  deactivation: ''
+  instructors: '3389521 - Eduardo Francisquine Delgado
+
+    5735072 - Roberto Sartori Filho'
+  lecture_credits: '3'
+  objectives: 'Através do estudo dos conceitos básicos da organização e funcionamento
+    dos tecidos e
+
+    órgãos nos mamíferos domésticos de interesse zootécnico, busca-se: 1) alcançar
+    o entendimento dos
+
+    mecanismos e sistemas que permitem a operação harmoniosa do organismo animal;
+    2) Incentivar o
+
+    interesse na compreensão e integração daqueles mecanismos e sistemas que estão
+    diretamente envolvidos
+
+    na prática zootécnica; 3) Introduzir conceitos centrais para disciplinas a serem
+    cursadas posteriormente, tais
+
+    como: nutrição animal, reprodução animal, disciplinas relacionadas à produção
+    animal princípios de
+
+    crescimento animal.'
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220707092155'
+digest: KZUUCSBWKKHWMKBUDV5GJTMCAIKXMYHU
+updated_at: '20220707092155'
+url: https://web.archive.org/web/20220707092155id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0313&codcur=11020&codhab=0
