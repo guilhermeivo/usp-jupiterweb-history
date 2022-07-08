@@ -1,0 +1,102 @@
+courses:
+  activation: 01/01/1989
+  assessment: 01 avaliação escrita sobre toda a matéria dada no semestre.
+  bibliography: 'F.A.O., BRUXELAS - Actas de la Consultas Mundial sobre Paneles       a
+    Base de Madera. San Francisco, San Francisco, Miller       Freeman Publications,
+    1976. 454 p.
+
+    SUCHSLAND, O. & I.P. JANKOWSKY - Aprodução de lâminas de       madeira por desenrolamento,
+    Revista da Madeira, São Paulo,       321:7-12-1978.
+
+    SUCHSLAND, O. & I.P. JANKOWSKY - A regulagem do torno       desenrolador. Revista
+    da Madeira, São Paulo, 326:12-6.       1979.
+
+    JANKOWSKY, I.P. & O. SUCHSLAND - Avaliação da linha de cola em       painéis compensados.
+    Revista da Madeira, São Paulo, 343:7-      10. 1980.
+
+    BALDWIN, R.F. - Polywood Manufacturing Practices. San       Francisco, Miller
+    Freeman Publications, 1975. 260 p.
+
+    MALONEY, T.M. - Modern Particleboard and Dry-process Fiberboard
+
+    Manufacturing. San Francisco, Miller Freeman Publications,         1977. 672 p.
+
+    SELBO, M.L. - Adhesive Bonding of Wood. Washington, U.S.       Department of Agriculture,
+    1975. 122 p.
+
+    KOLLMANN, F.F.P.; E.W. KUENZI & A.J. STAMM. Principles of Wood       Science and
+    Tecnology. (Vol. II : Wood Based Materials).       New York, Springer Verlag,
+    1975. 703 p.'
+  course: '1. Características, produção, consumo e  perspectivas de uso dos painéis
+    à base de madeira.
+
+    2. Chapas de Fibras :
+
+    2.1. Matéria-prima
+
+    2.2. Processos de desfibramento
+
+    2.3. Formação da manta:
+
+    2.3.1. Processo seco
+
+    2.3.2. Processo úmido
+
+    2.4. Processo de manufatura da chapa
+
+    2.4.1. Chapa mole
+
+    2.4.1. Chapa dura
+
+    2.5. Controle de Qualidade
+
+    3. Adesivo :
+
+    3.1. Adesivos naturais
+
+    3.2. Adesivos sintéticos :
+
+    3.2.1. Formas de obtenção
+
+    3.2.2. Características dos principais adesivos
+
+    3.3. Fundamentos básicos de colagem
+
+    4. Agromerados :
+
+    4.1. Matéria-prima
+
+    4.2. Processos :
+
+    4.2.1. Extrusão
+
+    4.2.2. Prensagem
+
+    4.3. Controle de Qualidade
+
+    5. Painéis compensados :
+
+    5.1. Produção de lâminas
+
+    5.2. Manufatura do painel
+
+    5.3. Controle de qualidade
+
+    6. Outros painéis à base de madeira.'
+  course_name: 'LCF0543 - Painéis à Base de Madeira
+
+    Wood Based Panels'
+  deactivation: ''
+  instructors: 1121661 - Geraldo Bortoletto Junior
+  lecture_credits: '3'
+  objectives: Dar ao aluno conhecimentos sobre os princípios envolvidos nos    processos
+    de manufatura dos painéis a base de madeira (chapas    de fibras, aglomerados,
+    compensados e sarrafeados), estudando    a tecnologia envolvida no processamento,
+    as propriedades    físico-mecânicas do produto final e o controle de qualidade.
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20220708075640'
+digest: ZBZ7LDXCW4ODEBVY7DH6Q7C3W3I3NIGO
+updated_at: '20220708075640'
+url: https://web.archive.org/web/20220708075640id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0543&codcur=11020&codhab=0
