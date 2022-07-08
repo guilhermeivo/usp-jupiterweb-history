@@ -1,0 +1,86 @@
+courses:
+  activation: 01/01/2017
+  assessment: Prova escrita sobre todo programa da disciplina.
+  bibliography: 'Literatura Básica:
+
+    Matoso, L.H. C.: Nanotecnologia: Introdução, Preparação e Caracterização de Nanomateriais
+    e Exemplos de Aplicação, São Paulo Artliber / ABPol c2006
+
+    Shriver & Atkins: inorganic chemistry, New York W. H. Freeman and Co c2010, 842
+    p.
+
+    Binns, C.: Introduction to nanoscience and nanotechnology, Oxford : Wiley-Blackwell,
+    c2010, 301p.
+
+    Ramsden, Jeremy: Nanotechnology :an introduction, Oxford : Elsevier, c2011, 272
+    p.
+
+    Reineke, Joshua: Nanotoxicitymethods and protocols, New York Humana Press c2012,
+    414 p.
+
+    Soloviev, Mikhail: Nanoparticles in biology and medicinemethods and protocols,
+    New York Humana Press 2012, 555 p.
+
+    Chaudhry, Q.: Nanotechnology in food, Cambridge RSC c2010, 229 p.
+
+    Ganguli, Prabuddha: Nanotechnology: intellectual property rights research, design
+    and commercialization, FL CRC Press c2012, 270 p
+
+    Literatura Complementar:
+
+    Livros abertos na web:
+
+    Nanoparticles Technology
+
+    Edited by Mahmood Aliofkhazraei, 2015, Publisher: InTech, DOI: 10.5772/59894
+
+    Graphene - New Trends and Developments
+
+    Edited by Farzad Ebrahimi, 2015, Publisher: InTech, DOI: 10.5772/59823
+
+    Biosensors - Micro and Nanoscale Applications
+
+    Edited by Toonika Rinken, 2015, Publisher: InTech, DOI: 10.5772/59391
+
+    Nanomaterials - Toxicity and Risk Assessment
+
+    Edited by Sonia Soloneski and Marcelo L. Larramendy, 2015, Publisher: InTech,
+    DOI: 10.5772/59381
+
+    Advances in Nanofibers
+
+    Edited by Russell Maguire, 2013, Publisher: InTech, DOI: 10.5772/45983
+
+    Nanocomposites - New Trends and Developments
+
+    Edited by Farzad Ebrahimi, 2012, Publisher: InTech, DOI: 10.5772/3389'
+  course: 'As origens das propriedades dos nanomateriais. Principais métodos de síntese
+    de nanomateriais: sol-gel, solvotérmico, e precipitação. Principais técnicas de
+    caracterização de nanomateriais: Microscopias eletrônicas, microscopia de força
+    atômica, espalhamento de luz e métodos que empregam raios X. Estratégias de desenvolvimento
+    de nanomateriais por biomimetismo. Toxicidade e riscos associados aos nanomateriais.
+    Nanomateriais e nanotecnologias na liberação de substâncias químicas como fertilizantes,
+    defensivos e fragrâncias. Nanomateriais e nanotecnologias na remediação ambiental:
+    adsorção e degradação fotocatalítica de contaminantes. Catálise heterogênea e
+    energias renováveis. Nanomateriais e nanotecnologias para coleta, purificação
+    de água e irrigação. Nanocompósitos na embalagem e conservação de alimentos. Biossíntese
+    de nanomateriais. Nanomateriais na nutrição mineral de plantas.'
+  course_name: 'CEN0370 - Nanotecnologia na Agricultura, Meio Ambiente e Ciência dos
+    Alimentos
+
+    Nanotechnology in Agriculture, Environment and Food Science'
+  deactivation: ''
+  instructors: 6390741 - Hudson Wallace Pereira de Carvalho
+  lecture_credits: '4'
+  objectives: Através de uma abordagem teórico-prática o curso se propõe a discutir
+    as relações entre estrutura e propriedades da matéria. Objetiva-se introduzir
+    os principais métodos de síntese e caracterização de nanomateriaism, assim como
+    construir dispositivos e realizar experimentos que permitam explorar as atuais
+    e potencias aplicações da nanotecnologia na agricultura e ambiente.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220708110756'
+digest: Q6SULBHS34L5IPIHSH6WEHIONYBOJ4DD
+updated_at: '20220708110756'
+url: https://web.archive.org/web/20220708110756id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0370&codcur=11020&codhab=0
