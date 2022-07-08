@@ -1,0 +1,54 @@
+courses:
+  activation: 01/01/2020
+  assessment: Será realizada uma prova de recuperação que contemplará toda a matéria
+    lecionada no semestre com notas de 0 (zero) a 10,0 (dez) para os alunos que ficaram
+    com média final abaixo de 5,0 e maior ou igual a 3,0 e que obtiveram freqüência
+    maior ou igual a 70%. A nota final será calculada a partir da média da nota final
+    obtida pelo aluno no semestre mais a nota da prova de recuperação dividida por
+    dois.
+  bibliography: 'Bioquímica. Donald Voet Judith G Voet; Ana Beatriz Gorini da Veiga;
+    Carlos Termignoni. Porto Alegre Artmed 2015
+
+    Princípios de Bioquímica de Lehninger. David Lehninger Nelson; Michael Cox; Trad.:
+    Carla Dalmaz; Carlos Termignomi; Maria Luiza Pereira. Porto Alegre Artmed 2019
+
+    Bioquímica. Jeremy M. Berg John L Tymoczko; Lubert Stryer; Gregory J Gatto Jr.;
+    Deborah Schechtman; Antonio José Magalhães da Silva Moreira. Rio de Janeiro Guanabara
+    Koogan 2014
+
+    Bioquímica. Mary K Campbell Shawn O Farrell; All Tasks; Maria Martha Guedes Chaves.
+    São Paulo Cengage Learning 2011
+
+    Bioquímica básica. Anita Marzzoco Bayardo Baptista Torres. Rio de Janeiro Guanabara
+    Koogan 2015'
+  course: "3.\tPROGRAMA ANALÍTICO:  1. Metabolismo Anaeróbico dos Carboidratos: Fermentação\
+    \ alcoólica e láctica. Rendimento do processo. 2. Via Pentose e seu Significado\
+    \ Fisiológico. 3. Ciclo dos Ácidos Tricarboxílicos: Cadeia de transporte de elétrons\
+    \ e fosforilação oxidativa. Transporte de elétrons na cadeia respiratória. 4.\
+    \ Metabolismo dos Triglicerídios: Beta oxidação dos ácidos graxos e biossíntese\
+    \ de lipídeos, 5. Metabolismo dos Aminoácidos e Proteínas: Biossíntese de aminoácidos\
+    \ e proteínas, aminoácidos essenciais, qualidade das proteínas, metabolismo degradativo\
+    \ dos aminoácidos e proteínas, excreção do nitrogênio. 6. Ciclo do Nitrogênio:\
+    \ Aminoficação, nitrificação, fixação simbiótica do nitrogênio, formação dos aminoácidos.\
+    \ 7. Fotossíntese: Reações luminosas, ciclos de Calvin, Via C-4 dos ácidos dicarboxílicos.\
+    \ Metabolismo ácido das crassuláceas, fotorrespiração. 8. Integração do Metabolismo\
+    \ dos Carboidratos, Lipídeos e Proteínas: Controle metabólico celular."
+  course_name: 'LCB0313 - Bioquímica II
+
+    Biochemistry II'
+  deactivation: ''
+  instructors: 5388513 - Paulo Jose Pereira Lima Teixeira
+  lecture_credits: '2'
+  objectives: "2.\tOBJETIVOS:  Capacitar o aluno para que tenha os conhecimentos básicos\
+    \ e necessários para compreensão dos fenômenos biológicos ao nível das transformações\
+    \ moleculares dos constituintes celulares. Para tal, o aluno receberá conhecimento\
+    \ das principais vias metabólicas do metabolismo. O objetivo último da disciplina\
+    \ é fazer o aluno compreender a nível celular e molecular os processos biológicos\
+    \ como respiração, crescimento e fotossíntese."
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220708110246'
+digest: PAVONNVBNZGA3ZNDJEBYHZRRKKQXGL2E
+updated_at: '20220708110246'
+url: https://web.archive.org/web/20220708110246id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0313&codcur=11070&codhab=104
