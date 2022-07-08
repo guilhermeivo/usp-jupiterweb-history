@@ -1,0 +1,93 @@
+courses:
+  activation: 01/01/2017
+  assessment: Será efetuada uma prova final abordando todo o conteúdo.
+  bibliography: 'BÁSICA:
+
+    Begon, M., C.R. Townsed e J.L. Harper. 2007. Ecologia: De Indivíduos a Ecossistemas,
+    4ª. ed.
+
+    Artmed Editora. Porto Alegre.
+
+    EMBRAPA. Atlas do meio ambiente do Brasil . Brasília, 140p. 1994.
+
+    Ferri, M.G. Vegetação brasileira. EDUSP, São Paulo, 157 p. 1980.
+
+    Jansen, D.H. Ecologia vegetal bos trópicos. Coleção Temas de Biologia. Vol7.,
+    São Paulo.
+
+    EDUSP, 79 p. 1980.
+
+    Miller, G.T.Jr. Living in the envinment. Wadsworth Pub.Co.10th Ed. Boston, EUA.
+    761 pp.
+
+    II. 1998. Pomeroy, L. Concepts of ecosystem ecology. Spring-Verlag. NY 1988.
+
+    Odum, E.P. Ecologia. Guanabara, Rio de Janeiro. 434p. 1988.
+
+    Pinto Coelho, R.M. Fundamentos em Ecologia. Ed. Artmed. Porto Alegre, RS 252p.
+    2000.
+
+    Ricklesfs, R.E. A economia da natureza. 3ra Ed. Ed. Guanabara-Koogan, Rio de Janeiro.
+    470p.
+
+    1996.
+
+    COMPLEMENTAR: artigos científicos'
+  course: 'I. Introdução
+
+    I.1. Ecossistemas: histórico, conceitos.
+
+    I.2. Principais tipos de ecossistemas naturais, ecossistemas brasileiros (biomas).
+
+    II. Estrutura e Dinâmica dos Ecossistemas
+
+    II1. Termodinâmica. Fluxos de energia.
+
+    II2. Níveis tróficos, cadeia alimentar, teia alimentar. Pirâmides ecológicas,
+    espécies chaves.
+
+    II.3. Produção primária e secundária, decomposição.
+
+    II.4. Ciclos Biogeoquímicos.
+
+    II.5. Sucessão Ecológica, fases sucessionais, sucessão primária e secundária.
+
+    II.6 Clímax e equilíbrio, mecanismos homeostáticos.
+
+    III. Aspectos Aplicados
+
+    III.1. Interferência antrópica: ecossistemas urbanos e agrícolas, poluição, mudanças
+    climáticas globais.
+
+    III.2. Manejo e conservação de ecossistemas. Restauração de ecossistemas degradados.'
+  course_name: 'CEN0110 - Ecologia de Ecossistemas
+
+    Ecosystems Ecology'
+  deactivation: ''
+  instructors: '2084356 - Luiz Antonio Martinelli
+
+    54115 - Plinio Barbosa de Camargo'
+  lecture_credits: '4'
+  objectives: '1. Oferecer o conhecimento básico sobre ecologia de ecossistemas, através
+    de conceitos
+
+    fundamentais, a sua origem, sua evolução e aplicações nas questões ambientais.
+
+    2. Proporcionar o entendimento sobre a organização da biosfera ao nível de ecossistemas.
+
+    3. Compreender aspectos relacionados à estrutura e dinâmica dos ecossistemas.
+
+    4. Oferecer bases para a compreensão e interpretação das consequências da ação
+    humana e efeitos das mudanças globais sobre  os ecossistemas.
+
+    5. Proporcionar embasamento teórico com relação a aspectos aplicados como manejo
+    e
+
+    conservação de ecossistemas.'
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220708081036'
+digest: ZAZIBQRW2FGC5PFKGFLU33VBZAGVGNDH
+updated_at: '20220708081036'
+url: https://web.archive.org/web/20220708081036id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0110&codcur=11070&codhab=104
