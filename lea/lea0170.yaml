@@ -1,0 +1,51 @@
+courses:
+  activation: 01/01/2010
+  assessment: Uma prova geral que envolve toda a matéria lecionada (teórico-prática)
+    no início do semestre subseqüente.
+  bibliography: "BARNES, R.D. 1990. Zoologia dos invertebrados. 4a. ed., Roca, São\
+    \ Paulo, 1179 p.\nBARNES, R.S.K., CALOW, P. & OLIVE, P.J.W. 1995. Os invertebrados:\
+    \ uma nova síntese. São\nPaulo: Atheneu. 526 p.\nBRUSCA, R.C. & G.J. BRUSCA, 2003.\
+    \ Invertebrados. Sinaeur associates, Inc. Sunderland, MA. 936 p.\nHICKMAN JR.,\
+    \ CLEVELAND, P.; ROBERTS, LARRY S. & LARSON, ALLAN. 2004. Princípios integrados\
+    \ de Zoologia. Editora Guanabara, 872 p.\nMARGULIS, L. & SCHWARTZ, K.V. 2001.\
+    \ Cinco reinos. 3a. Ed. Guanabara Koogan. 497 p.\nMEGLITSCH, P.A. & SCHRAM, F.R.\
+    \ 1991.  Invertebrate Zoology. 3 ed., Oxford: Oxford University Press. 623 p.\n\
+    PASCHOAL, A . D.; MONTEIRO, .A.R. ; FERRAZ, L.C.C.B.; MARICONI, F.A.M.; FLECHTMANN,\
+    \ C.H.W.;\nINOMOTO, M.M. 1996. Animais de interesse  agrícola,  veterinário  e\
+    \  médico.  Apontamentos\nPráticos de Zoologia e Parasitologia. Piracicaba, Centro\
+    \ Acadêmico \x93Luiz de Queiroz\x94, 224 p.\nPASCHOAL, A .D.; MONTEIRO,  A.R.;\
+    \ FERRAZ, L.C.C.B.; INOMOTO, M.M. 1996. Fundamentos de Zo-\nologia Agrícola e\
+    \ Parasitologia. Animais do meio rural e sua importância. Piracicaba, Dept. de\n\
+    Zoologia, ESALQ, 244 p.\nRIBEIRO-COSTA, C.S. & ROCHA, R.M. (Coord.). 2002. Invertebrados\
+    \ \x96 Manual de aulas práticas.\nRibeirão Preto, Holos Editora, 226 p.\nRUPPERT,\
+    \ E.E. & BARNES, R.D. 1994. Invertebrate Zoology. 6a. Ed. Saunders, 1056 p.\n\
+    STORER, T.I.; USINGER, R.L. 1971.  Zoologia Geral. Companhia Editora Nacional,\
+    \ São Paulo, 757 p."
+  course: 1.Considerações sobre o Reino Animal. Nomenclatura zoológica e classificação
+    dos seres, elementos básicos de sistemática filogenética, origem e evolução dos
+    metazoários, conceitos básicos em embriologia e ontogenia. 2. Noções gerais sobre
+    a organização, estrutura e biologia dos Porifera. 3. Organização e biologia dos
+    Cnidaria. Morfologia interna e externa de formas polipóides e medusóides. 4. Noções
+    gerais sobre a organização e biologia dos Platyhelminthes. Esquistossomose mansônica,
+    teníases e cisticercoses humanas. 5. Organização e biologia dos Nematoda. Modos
+    de parasitismo e ação sobre plantas e animais. Ascaríase e ancilostomose. 6. Classificação,
+    morfologia e biologia dos Mollusca.  Diversidade e hábitos de vida. 7. Classificação,
+    morfologia e biologia dos Annelida. 8. Classificação, morfologia e biologia dos
+    Echinodermata. 9. Noções gerais sobre a organização e biologia de outros grupos
+    menores de invertebrados.
+  course_name: 'LEA0170 - Zoologia de Invertebrados I
+
+    Invertebrate Zoology I'
+  deactivation: ''
+  instructors: 1033541 - Italo Delalibera Junior
+  lecture_credits: '4'
+  objectives: Transmitir aos alunos informações básicas sobre a morfologia, biologia,
+    ecologia, importância e relações filogenéticas entre os grupos dos invertebrados  (exceto
+    os grupos abrordados na LEF0200)
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220708222905'
+digest: GIQE6STY647DOXQQCEXJTSAYLFQHPMGR
+updated_at: '20220708222905'
+url: https://web.archive.org/web/20220708222905id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0170&codcur=11070&codhab=104
