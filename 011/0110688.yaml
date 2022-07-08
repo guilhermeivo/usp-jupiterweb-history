@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2013
+  activation: 01/01/2021
   assessment: Prova geral que envolve toda a matéria lecionada (teórico-prática)
   bibliography: '1) AZEVEDO, L.A. S. 2001. Proteção Integrada de Plantas em Fungicidas.
     1ª ed., Campinas, Emopi. 230 p.
@@ -24,8 +24,8 @@ courses:
     7) MATUO, T. 1990. Técnicas de Aplicação de Defensivos Agrícolas. FUNEP, Jaboticabal.
     139 p.
 
-    8) RODRIGUES, B. W.;  ALMEIDA, F.S. de. Guia de Herbicidas. 5º ed. IAPAR, Londrina,
-    2005 592 p.
+    8) RODRIGUES, B. W.; ALMEIDA, F.S. de. Guia de Herbicidas. 6º ed. IAPAR, Londrina,
+    201. 700 p.
 
     9) SILVA JR., D. F. 2003. Legislação Federal (incluso CF 88 atualizadas): Agrotóxicos
     e Afins. Indax Adv., São Paulo, 392 p.
@@ -37,7 +37,10 @@ courses:
 
     12) ZAMBOLIN, L; M. ZUPPI DA CONCEIÇÃO & T. SANTIAGO. 2008. O que os Engenheiros
     Agrônomos devem saber para orientar o uso de Produtos Fitossanitários. ANDEF,
-    São Paulo. 464 p.'
+    São Paulo. 464 p.
+
+    e os Engenheiros Agrônomos devem saber para orientar o uso de Produtos Fitossanitários.
+    ANDEF, São Paulo. 464 p.'
   course: 'Importância e alternativas de manejo de pragas agrícolas. Importância,
     evolução, produção e registro de produtos fitossanitários. Legislação sobre produtos
     fitossanitários, com ênfase a responsabilidade civil e criminal. Formulações e
@@ -51,9 +54,9 @@ courses:
   deactivation: ''
   instructors: '86410 - Casimiro Dias Gadanha Junior
 
-    93742 - Celso Omoto
-
     50215 - Jose Otavio Machado Menten
+
+    3199683 - Pedro Takao Yamamoto
 
     69192 - Ricardo Victoria Filho'
   lecture_credits: '4'
@@ -63,7 +66,7 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20200927175704'
-digest: AKC5UDTC4HCJ5IUZ5POJBVDS7VXT74Z6
-updated_at: '20200927175704'
-url: https://web.archive.org/web/20200927175704id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=0110688&codcur=11010&codhab=0
+created_at: '20220708050614'
+digest: YPJVZO6OAAPUMXLO6L467B2L55SUB3O3
+updated_at: '20220708050614'
+url: https://web.archive.org/web/20220708050614id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=0110688&codcur=11020&codhab=0
