@@ -1,0 +1,49 @@
+courses:
+  activation: 01/01/2010
+  assessment: prova geral que envolve toda a matéria lecionada no semestre.
+  bibliography: "Literatura Básica:\nBARBOSA, H.R.; TORRES, B.B. - Microbiologia Básica.\
+    \ Editora Atheneu, 1999.\nLACAZ-RUIZ, R.- Manual Prático da Microbiologia Básica.\
+    \ EDUSP, 2000.\nMADIGAN, M.T.; MARTINKO, J.M.; PARKER, J. \x96 Microbiologia de\
+    \ Brock. 10a. Ed.  Prentice Hall, 2004.\nMADIGAN, M.T.; MARTINKO, J.M.; STAHL,\
+    \ D.A.; CLARK, D.P. \x96Brock Biology of Microorganisms. 13ed.  Benjamin Cummings,\
+    \ 2012.\nPELCZAR, M.J.; CHAN, E.C.S.; KRIEG, N.R.- Microbiologia. Conceitos e\
+    \ Aplicações. Makron Books do Brasil Editora. MacGraw-Hill, 1997.\nTORTORA, G.T.;\
+    \ FUNKE, B.R.; CASE, C.L. Microbiology: na introduction. Benjamin Cummings. 10ª.\
+    \ Ed. 2009.\nTORTORA, G.T.; FUNKE, B.R.; CASE, C.L.; CASALI, A.K. Microbiologia.\
+    \ 8a ed., Artes Médicas Sul, 2005.\nLiteratura Complementar:\nJornais/revistas\
+    \ científicas ligadas à microbiología."
+  course: 'Teórico
+
+    Introdução a Microbiologia. Classificação dos microrganismos: seres procariotos
+    e eucariotos; categorias taxonômicas; esquemas de classificação. Características
+    dos principais grupos de microrganismos: fungos, bactérias, vírus. Nutrição e
+    cultivo de bactérias e fungos. Metabolismo fúngico e bacteriano. Taxonomia e ultra-estrutura
+    de fungos e bactérias. Controle de microrganismos: agentes químicos e físicos.
+    Relações entre os microrganismos e os seres vivos. Microrganismos e Engenharia
+    Genética / Biotecnologia.
+
+    Prático
+
+    Observação microscópica de fungos e bactérias; métodos para coloração de microrganismos;
+    preparo de meio de cultivo; manutenção e cultivo de microrganismos; efeitos de
+    agentes químicos e físicos sobre microrganismos; produção de exoenzimas; antagonismo
+    microbiano; associações simbióticas; análise microbiológica da água; isolamento
+    de microrganismos do solo e do ar.'
+  course_name: 'LFN0225 - Microbiologia Geral
+
+    General Microbiology'
+  deactivation: ''
+  instructors: 2162461 - Francisco Andre Ossamu Tanaka
+  lecture_credits: '4'
+  objectives: Fornecer ao aluno informações básicas da biologia dos microrganismos,
+    propiciando condições para o entendimento de aspectos relacionados com a caracterização,
+    nutrição, crescimento, controle e inter-relações entre esses organismos. Capacitar
+    o aluno no acompanhamento, dentro da grade curricular das Ciências Biológicas,
+    de assuntos relacionados à Microbiologia.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220708090639'
+digest: U7GPNBLGBAH2RTWIFS2UOGRJMVJH6MON
+updated_at: '20220708090639'
+url: https://web.archive.org/web/20220708090639id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LFN0225&codcur=11070&codhab=104
