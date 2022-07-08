@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2020
+  activation: 01/01/2022
   assessment: não há
   bibliography: 'ASTOLFI, J; DEVELAY, M. A Didática das Ciências. 4 ed. Campinas:
     Papirus, 1995.
@@ -37,6 +37,9 @@ courses:
 
     GIMENO SÁCRISTAN, J. O currículo: uma reflexão sobre a prática. 3. Ed. Porto Alegre:
     ArtMed, 2000. (cap. 6 e 9)
+
+    IMBERNÓN, F. Formação docente e profissional: formar-se para a mudança e a incerteza.
+    6ª ed. São Paulo: Cortez, 2006.
 
     KRASILCHICK, M. Prática de ensino de Biologia. Cap. 1, 3, 4 e 8. 3. ed. São Paulo:
     EDUSP, 2008.
@@ -87,38 +90,41 @@ courses:
     2002.
 
     ZABALA, A. A prática educativa: como ensinar. Porto Alegre: ArtMed, 1998.'
-  course: '1.Conteúdo teórico-prático: Contextualização das metodologias específicas.
-    O triângulo pedagógico para compreender o papel do professor na definição da metodologia
-    na elaboração da própria prática na escola. Abordagem tradicional e a formação
-    de professores de Ciências e a aprendizagem significativa. O construtivismo no
-    ensino de Ciências. Tipos de conhecimento e suas relações com as metodologias
-    de ensino de ciências e as ciências biológicas; relações entre a Ciência e) O
-    ensino da Ciência, a aprendizagem, suas dificuldades e problemas na atualidade,
-    nas escolas; currículo e conteúdos da área na escola e avaliação; concepções sobre
-    Ciências; diversidade metodológica e autonomia dos professores; perspectivas da
-    construção do conhecimento e o pensamento dos alunos, direcionando metodologias
-    de ensino dialógicas e criativas (tirar- a escola e do professor na sociedade
-    e o ensino de Ciências;), O uso de atividades práticas e experimentação em projetos
-    e atividades de preparação para o trabalho em sala de aula, considerando as características
-    dos alunos, o contexto de atuação e o papel do ensino da área; a elaboração, análise
-    e uso de materiais didáticos; relação do projeto político pedagógico e prática
-    de ensino de Ciências/Biologia); a gestão da aula (tempos e espaços escolares),
-    de forma a organizar situações construtivas no ensino- aprendizagem de Ciências/Biologia.
-    Inclui PCC (prática como componente curricular) no levantamento dos materiais
-    didáticos e análise dos conteúdos curriculares na escola.
+  course: '3.1.Conteúdo teórico-prático:
 
-    2.Estágio supervisionado: Estágio de prática de ensino supervisionado na educação
-    básica. Observação, participação e regência em grupos de trabalho na escola. Análise
-    da escola, variedade didática no ensino de Ciências, materiais didáticos e processos
-    pedagógicos. Apresentação dos projetos de estágio. Acompanhamento do professor
-    supervisor na elaboração de projeto, materiais e planos necessários às aulas de
-    estágio, em colaboração com o campo de estágio; vivência na escola nos anos finais
-    do ensino fundamental ou no ensino médio e reconhecimento das atividades de gestão
-    do ensino na escola. Registro reflexivo das atividades de estágio, a ser entregue
-    em relatório final.'
+    - O estágio de observação, participação e regência e a contextualização das metodologias
+    específicas,  com aprendizagem do uso de tecnologias e contexto de atividades
+    online. O triângulo pedagógico para compreender o papel do professor na definição
+    da metodologia na elaboração da própria prática na escola. Abordagem tradicional
+    e a formação de professores de Ciências e a aprendizagem significativa. O construtivismo
+    no ensino de Ciências. Tipos de conhecimento segundo Zabala e suas relações com
+    as metodologias de ensino de ciências e o ensino da Ciência, a aprendizagem, suas
+    dificuldades e problemas na atualidade, nas escolas, currículo e conteúdos da
+    área na escola e avaliação; concepções sobre Ciências; diversidade metodológica
+    e autonomia dos professores; perspectivas da construção do conhecimento e o pensamento
+    dos alunos, direcionando metodologias de ensino dialógicas e criativas (tirar-
+    a escola e do professor na sociedade e o ensino de Ciências;), O uso de atividades
+    práticas e experimentação em projetos e atividades de preparação para o trabalho
+    em sala de aula, considerando as características dos alunos, o contexto de atuação
+    e o papel do ensino da área; a elaboração, análise e uso de materiais didáticos;
+    relação do projeto político pedagógico e prática de ensino de Ciências/Biologia);
+    a gestão da aula (tempos e espaços escolares), de forma a organizar situações
+    construtivas no ensino- aprendizagem de Ciências/Biologia.
+
+    3.2.Estágio supervisionado:
+
+    Estágio de prática de ensino supervisionado na educação básica. Observação, participação
+    e regência em grupos de trabalho na escola. Análise da escola, variedade didática
+    no ensino de Ciências, materiais didáticos e processos pedagógicos. Apresentação
+    dos projetos de estágio. Acompanhamento do professor supervisor na elaboração
+    de projeto, materiais e planos necessários às aulas de estágio, em colaboração
+    com o campo de estágio; vivência na escola nos anos finais do ensino fundamental
+    ou no ensino médio e reconhecimento das atividades de gestão do ensino na escola.
+    Registro reflexivo das atividades de estágio, a ser entregue em relatório final.
+    .'
   course_name: 'LES0315 - Metodologia do Ensino em Ciências Biológicas
 
-    Teaching Methods in Biological Sciences I'
+    Teaching Methods in Biological Sciences'
   deactivation: ''
   instructors: 5553650 - Vânia Galindo Massabni
   lecture_credits: '4'
@@ -146,7 +152,7 @@ courses:
 
     )'
   type: Semestral
-created_at: '20210612210415'
-digest: 3WYU6OVDZJV42FXLHXNROISUA7EF7DCA
-updated_at: '20210612210415'
-url: https://web.archive.org/web/20210612210415id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0315&verdis=10
+created_at: '20220708142116'
+digest: 7QV3NITXEGDQYUMHNHMCZWKSYQJOFQ6E
+updated_at: '20220708142116'
+url: https://web.archive.org/web/20220708142116id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0315&codcur=11070&codhab=104
