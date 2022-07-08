@@ -1,0 +1,57 @@
+courses:
+  activation: 01/01/2021
+  assessment: Uma única prova escrita com o conteúdo integral do curso.
+  bibliography: 'Literatura Básica:
+
+    1. Alberts, B.; Bray, D.; Johnson, A.; Lewis, J.; Raff, M.; Roberts, K.; Walter,
+    P. 2009. Biologia Molecular da Célula. 5ª Edição brasileira. Artmed, Porto Alegre.
+
+    2. Alberts, B.; Bray, D.; Johnson, A.; Lewis, J.; Raff, M.; Roberts, K.; Walter,
+    P. 2011. Fundamentos da Biologia Celular. 3ª Edição brasileira. Artmed, Porto
+    Alegre.
+
+    3. De Robertis, E.M.F.; Hib, J. & Ponzio, R. 2004. Biologia Celular e Molecular.
+    4ª Edição. Editora Guanabara Koogan, Rio de Janeiro, 432 p.
+
+    4. Junqueira L.C.U. & Carneiro J. 2005. Biologia Celular e Molecular. 8a Edição.
+    Editora Guanabara Koogan, Rio de Janeiro, 352 p.
+
+    5. Lodish, H.; Berk, A.; Matsudaira, P.; Kaiser, C.A.; Krieger, M.; Scott, M.P.;
+    Zipursky, L.; Darnell, J.   2005. Biologia Celular e Molecular. 5ª Edição. Artmed,
+    Porto Alegre. 1054 p.
+
+    6. CD-ROM Biologia Celular, à disposição na Biblioteca Central da ESALQ.
+
+    7. Pierce, BA. Genética: Um enfoque conceitual.  3ª Edição brasileira. Editora
+    Guanabara Koogan, Rio de Janeiro.
+
+    Literatura Complementar:
+
+    Artigos de revisão selecionados a cada ano.'
+  course: 'Organização da célula dos organismos procarióticos e eucarióticos. Métodos
+    de estudo das células I (Microscopia). Métodos de estudo das células II (Cultura
+    de células, fracionamento celular, isolamento dos compostos moleculares por cromatografia,
+    eletroforese, etc). Macromoléculas da célula: carboidratos, lipídios, proteínas
+    e ácidos nucléicos Estrutura dos ácidos nucléicos. Núcleo, e nucléolo. Membrana
+    plasmática: estrutura, sinalização e transporte. Sistemas de endomembranas. Secreção
+    e tráfego celular. Cloroplastos e mitocôndrias (Estrutura e funções). Sinalização
+    celular: sinais, receptores e vias de sinalização. Ciclo celular. Mitose. Meiose.'
+  course_name: 'LGN0117 - Biologia Celular
+
+    Cell Biology'
+  deactivation: ''
+  instructors: 538639 - Claudia Barros Monteiro Vitorello
+  lecture_credits: '2'
+  objectives: A disciplina tem como objetivo apresentar uma visão integrada sobre
+    a estrutura e a função das células. Os tópicos abordados serão introduzidos referenciando
+    as metodologias modernas de estudo da célula, desde a microscopia às técnicas
+    moleculares. Será discutido o conjunto de organelas e suas funções e apresentar
+    as bases da sinalização celular. Por fim, a disciplina visa fazer o aluno perceber
+    as relações entre controle do ciclo celular e os processos de crescimento e diferenciação.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220708221202'
+digest: D63PCYW3APDCBE4GHI6FQ6FOLEPYZDUF
+updated_at: '20220708221202'
+url: https://web.archive.org/web/20220708221202id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0117&codcur=11070&codhab=104
