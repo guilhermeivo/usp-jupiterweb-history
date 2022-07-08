@@ -1,0 +1,62 @@
+courses:
+  activation: 01/01/2017
+  assessment: prova escrita.
+  bibliography: 'ARTHUR, V.; MACHI, A.; MASTRANGELO, T. Ionizing Radiations in Entomology.
+    In: Mitsuru Nenoi. (Org.). Evolution of Ionizing Radiation Research. 1ed.: InTech,
+    2015, v. , p. 214-234.
+
+    BAKRI, A.; HEATHER, N.; HENDRICHS, J.; FERRIS, I. Fifty Years of radiation biology
+    in entomology: lessons learned from IDIDAS. Annals of Entomological Society of
+    America, Columbus, v. 98, n. 1, 2005, p. 1-12.
+
+    DYCK, V.A.; HENDRICHS, J.; ROBINSON, A.S. Sterile insect technique: principles
+    and practice in area-wide integrated pest management. Berlin: Springer, 2005.
+    787 p.
+
+    GALLO, D.; NAKANO, O.; SILVEIRA NETO, S.; CARVALHO, R.P.L.; BATISTA, G.C.de; BERTI
+    FILHO, E.; PARRA, J.R.P.; ZUCCHI, R.A.; ALVES, S.B.; VENDRAMIM, J.D.; MARCHINI,
+    L.C.; LOPES, J.R.S.; OMOTO, C. Entomologia Agrícola. Biblioteca de Ciências Agrárias
+    Luiz de Queiroz, Piracicaba, SP: FEALQ, 2002, 920p.
+
+    [IAEA]  International  Atomic  Energy  Agency.  Model  business  plan  for  a  sterile
+
+    insect  production  facility.  Vienna, 2008, 396  pp.  (Project  INT/5/145  Insect  Pest  Control
+
+    Using the Sterile Insect Technique).
+
+    IDIDAS.  International  Database  on  Insect  Disinfestation  and  Sterilization.
+    International  Atomic  Energy  Agency,  Vienna,  Austria. 2015.  Available  from:  http://www-
+
+    infocris.iaea.org/IDIDAS/start.htm).
+
+    KNIPLING, E.F. Present status and future trends of the SIT approach to the control
+    of arthropod pests. In: IAEA. Sterile Insect Technique and radiation in insect
+    control. Vienna, 1982. p. 3-23.
+
+    MASTRANGELO, T. & WALDER, J.M. Use of Radiation and Isotopes in Insects. In: Nirmal
+    Singh. (Org.). Radioisotopes - Applications in Bio-Medical Science. : InTech,
+    2011, v. 1, p. 67-92.'
+  course: Noções básicas sobre entomologia, noções sobre criação de insetos em meios
+    artificiais, métodos de marcação de insetos, histórico e conceitos básicos das
+    radiações ionizantes, noções sobre proteção radiológica, fontes de radiação ionizante
+    utilizadas, radionuclídeos utilizados em entomologia, cuidados gerais para o manuseio
+    de radionuclídeos em laboratório, efeitos das radiações nos insetos, determinação
+    de doses letais e esterilizantes para insetos praga, tratamento quarentenário
+    e desinfestação de produtos armazenados por radiação.
+  course_name: 'CEN0364 - Radioisótopos em Entomologia
+
+    Radioisotopes in Entomology'
+  deactivation: ''
+  instructors: '3705273 - Thiago de Araújo Mastrangelo
+
+    51985 - Valter Arthur'
+  lecture_credits: '4'
+  objectives: Oferecer aos alunos de Ciências Biológicas conhecimentos básicos de
+    aplicações de técnicas nucleares em entomologia.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220708040928'
+digest: 5IRJS6RYKJWTDRH4VWKWQPSI62XJJPCG
+updated_at: '20220708040928'
+url: https://web.archive.org/web/20220708040928id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0364&codcur=11020&codhab=0
