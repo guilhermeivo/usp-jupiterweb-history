@@ -1,0 +1,44 @@
+courses:
+  activation: 01/01/2014
+  assessment: Uma prova geral que envolve toda a matéria lecionada(teórico-prática)
+  bibliography: 'Blanchard, R.O. & Tattar, T.A.; 1981. Field and Laboratory Guide
+    to Tree Pathology. Academic Press, New York, 285 pp.
+
+    Bergamin Filho, H. Kimati, Amorim, L. (Eds). 1995. Manual de Fitopatologia. Vol
+    1. Ed. Agronômicas Ceres, São Paulo, 919 pp.
+
+    Ferreira, F.A. 1989. Patologia Florestal - Principais Doenças Florestais no Brasil.
+    Sociedade de Investigações Florestais, Viçosa. 570 pp.
+
+    Alfenas, A.C.; Zauza, E.A.V.; Máfia, R.G.; Assis, T.F. 2004. Clonagem e Doenças
+    do Eucalipto. Editora UFV, Viçosa, 442 pp.
+
+    Tattar, T.A. 1978. Diseases of Shade Trees. Academic Press, New York, 361 pp.'
+  course: 'Escopo e importância da Fitopatologia e da Patologia Florestal. Epidemias
+    históricas e seus impactos sócio econômicos: mal-das folhas, vassoura de bruxa
+    e cancro. Natureza e classificação das doenças de plantas. Análise de sintomas
+    e sinais. Postulados de Koch. Ciclo das relações patógeno-hospedeiro. Epidemiologia:
+    a análise do progresso de doenças em populações. Mecanismos de ataque de patógenos
+    e de defesa de plantas. Princípios e métodos de controle de doenças. Doenças de
+    viveiros florestais. Podridões de raízes. Murchas. Cancros e declínios. Manchas
+    e crestamentos foliares. Ferrugens. Oídios . Podridões de cerne de árvores vivas.
+    Patologias de árvores urbanas. Deterioração da madeira: manchas e podridões. Técnicas
+    de isolamento de patógenos. Clínica fitopatológica. Análises de sintomas e sinais.
+    Diagnose de doenças florestais.'
+  course_name: 'LFN0425 - Patologia Florestal
+
+    Forest Pathology'
+  deactivation: ''
+  instructors: 2090990 - Luis Eduardo Aranha Camargo
+  lecture_credits: '4'
+  objectives: A disciplina visa transmitir conceitos de Patologia Florestal que permitam
+    o aluno reconhecer os principais tipos de doenças que ocorrem em florestas implantadas
+    no país, bem como eleger os princípios e métodos de controle mais apropriados
+    a serem adotados em cada caso.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220708133500'
+digest: CODW3MANBZYBNT46KX5DRQTIWDDZRHA3
+updated_at: '20220708133500'
+url: https://web.archive.org/web/20220708133500id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LFN0425&codcur=11020&codhab=0
