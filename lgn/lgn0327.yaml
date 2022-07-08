@@ -1,0 +1,43 @@
+courses:
+  activation: 01/01/2021
+  assessment: Uma prova com todo o conteúdo oferecido na disciplina.
+  bibliography: 'Literatura Básica:
+
+    1) Menck, C. & Van Sluys, M-A. (2017).  Genética Molecular Básica. Editora Guanabara-Koogan.
+    2) Snustad, P. & Simmons, M.J. Fundamentos de Genética. Eidtora Guanabara – Koogan.
+    7 Edição. 3) Luís Mir et al. (2004) Genômica, Editora Atheneu, 1114 p. 4) Griffiths
+    A. J.F. et al. (2006) Intordução à Genética, Editora Guanabara-Koogan, Oitava
+    Edição, 743p. 5) Alberts, B. Bray, D.; Johnson, A.; Lewis, J.; Raff, M.; Roberts,
+    K.; Walter, P. 2011. Fundamentos da Biologia Celular. 3ª Edição brasileira. Artmed,
+    Porto Alegre. 6) Lodish, H.; Berk, A.; Matsudaira, P.; Kaiser, C.A.; Krieger,
+    M.; Scott, M.P.; Zipursky, L.; Darnell, J. 2005. Biologia Celular e Molecular.
+    5ª Edição. Artmed, Porto Alegre. 1054 p. 7) Malacinski G.M. (2005) Fundamentos
+    de Biologia Molecular, Editora Guanabara-Koogan, Quarta Edição, 439p. 8) Lesk,
+    A. (2007) Introdução à Bioinformática. 2ª Edição brasileira. Artmed, Porto Alegre.381p.'
+  course: Introdução, importância da genética molecular; o DNA como material genético
+    e Mecanismos de Replicação. Estrutura molecular dos genes e dos cromossomos. Transcrição
+    de genes codificadores de proteínas e a formação de mRNA funcionais. Controle
+    transcricional da expressão gênica. Sequências regulatórias dos genes codificadores
+    de proteínas. Controle pós-transcricional da expressão gênica. Regulação da atividade
+    dos fatores de transcrição. Integração de sinais e controle gênico. Organização
+    cromossômica dos genes e o DNA não codificante. O mundo dos RNAs. Papel dos RNAs
+    não codificadores de proteínas na regulação da expressão gênica. DNA móvel.
+  course_name: 'LGN0327 - Genética Molecular
+
+    Molecular Genetics'
+  deactivation: ''
+  instructors: 538639 - Claudia Barros Monteiro Vitorello
+  lecture_credits: '2'
+  objectives: Todas as aplicações da biologia dependem do entendimento de como os
+    eventos moleculares acontecem dentro e fora da célula. Este curso pretende ser
+    uma continuação da Biologia Celular, ligando os eventos moleculares às estruturas
+    celulares a cada momento da célula. O curso se propõe a desenvolver os tópicos
+    básicos da Genética Molecular através de aulas teóricas e práticas, enfatizando
+    seus avanços mais recentes e suas aplicações na Agropecuária.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220708232419'
+digest: NVZMPB3UDBAPICWRAIPK4UZAU2TGS6HN
+updated_at: '20220708232419'
+url: https://web.archive.org/web/20220708232419id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0327&codcur=11070&codhab=104
