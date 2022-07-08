@@ -1,0 +1,67 @@
+courses:
+  activation: 01/01/2022
+  assessment: Não será oferecida provas de recuperação.
+  bibliography: 'Literatura Básica:
+
+    JENSEN, J. R. Remote sensing of the environment: An earth resource perspective.
+    Upper Saddle River, N.J: Prentice Hall. 2000.
+
+    FORMAGGIO, A. R.; SANCHES, I. del A. Sensoriamento remoto em agricultura. São
+    Paulo: Oficina de Textos, 2017. 288p.
+
+    LILLESAND, T.M.; KIEFER, R.N.  Remote Sensing and Image Interpretation.  3a. ed.  New   York,
+    John Wiley and Sons.   1994.
+
+    LORENZZETTI, J.A . Princípios físicos de sensoriamento remoto. (1 ed.), São Paulo,
+    Blucher (2015). 292p.
+
+    NOVO, E.M.L.M.  Sensoriamento Remoto: Princípios e Aplicações. 3ª ed.  São Paulo,
+    Edgard Blucher. 2008.
+
+    PONZONI, F.J.; SHIMABUKURO, Y.E.; KUPLICH, T.M. Sensoriamento Remoto da Vegetação.
+    Segunda Edição Atualizada e Ampliada. Oficina de Textos, São Paulo, SP 2012.
+
+    Literatura Complementar:
+
+    CROSTA, A.P.  Processamento Digital de Imagens de Sensoriamento Remoto.  Campinas,  UNICAMP.  1992.
+
+    MOREIRA, M.A.  Fundamentos do Sensoriamento Remoto e Metodologias de Aplicação.
+    Viçosa, Editora UFV.  4ª edição. 2011
+
+    FLORENZANO, T.G.  Iniciação em Sensoriamento Remoto.  São Paulo, Oficina de Textos.
+    3ª Ed. 2011.'
+  course: 'Conceitos e histórico do sensoriamento remoto: Importância e aplicações
+    nas áreas agrícola, ambiental e florestal. Princípios físicos de sensoriamento
+    remoto e Radiometria: aquisição de dados e interação de energia alvo, maturação
+    da radiação eletromagnética, espectroeletromagnético. Grandezas radiométricas,
+    interação energia-matéria, fontes de radiação eletromagnética. Níveis de aquisição
+    de dados: Níveis de aquisição de dados remotos, efeitos atmosféricos na propagação
+    da radiação eletromagnética, correção geométrica e atmosférica. Comportamento
+    espectral dos alvos: Solo, água e vegetação. Levantamento aéreo RPA: Princípios,
+    normativas e aplicações. Sistemas sensores: Princípios de funcionamento. Sistemas
+    orbitais: características e aplicações. Índices de vegetação: cálculo de índices
+    de vegetação e índices de solo. Análise espacial de imagens orbitais: Processamento
+    digital de imagens, análises estatísticas e classificadores. Aplicações do sensoriamento
+    orbital em mapeamento de uso e cobertura da terra: identificações de padrões nas
+    imagens, classificação de uso e cobertura da terra.'
+  course_name: 'LEB0487 - Sensoriamento Remoto
+
+    Remote Sensing'
+  deactivation: ''
+  instructors: '11967931 - Ana Claudia dos Santos Luciano
+
+    2151441 - Peterson Ricardo Fiorio'
+  lecture_credits: '4'
+  objectives: Capacitar os alunos para compreender os princípios físicos de sensoriamento
+    remoto e suas aplicações para o monitoramento agrícola, ambiental e florestal.
+    Aprimorar o conhecimento dos alunos em relação as tecnologias disponíveis de sensoriamento
+    remoto para que profissionalmente possam contribuir com soluções adequadas no
+    levantamento e gerenciamento de recursos naturais terrestres, em escalas regionais
+    e locais.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220708032132'
+digest: L2NBOMAAHIEIMXEHPYB26B6YESVPNGVG
+updated_at: '20220708032132'
+url: https://web.archive.org/web/20220708032132id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0487&codcur=11020&codhab=0
