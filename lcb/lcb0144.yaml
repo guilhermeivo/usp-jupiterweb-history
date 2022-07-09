@@ -1,0 +1,103 @@
+courses:
+  activation: 01/01/2021
+  assessment: Esta disciplina não tem recuperação, uma vez que existem diversas avaliações
+    ao longo do semestre letivo.
+  bibliography: 'Benton, M. J. 2005. Vertebrate paleontology. 3rd. Editon. Blackwell
+    Publishing, Malden.
+
+    Brusca, R.C. & G.J. Brusca. 2003. Invertebrates. 2a ed. Sinauer Associates, Sunderland.
+
+    Carroll, R. L. 1988. Vertebrate paleontology and evolution. W. H. Freeman & Co.,
+    New York.
+
+    Duellman, W.E. & L. Trueb. 1994. Biology of Amphibians. The Johns Hopkins Univ.
+    Press, Baltimore & London.
+
+    Hildebrand, M. & G. Goslow. 2006. Análise da estrutura dos vertebrados. 2a edição.
+    Atheneu Editora, São Paulo.
+
+    Höfling, E., A. M. S. Oliveira, M. T. Rodrigues, E. Trajano & P. L. B. Rocha.
+    1995. Chordata: manual para um curso prático. EDUSP, São Paulo.
+
+    Kardong, K. V. 1998. Vertebrates: comparative anatomy, function, evolution. WCB/McGraw-Hill,
+    Boston.
+
+    Liem, L., W. Bemis, W. F. Walker, L. Grande. 2000. Functional Anatomy of Vertebrates:
+    an evolutionary perspective. 3rd Edition. Brooks Cole.
+
+    Pough, F. H., J. B. Heiser  & C. M. Janis. 2008. A vida dos vertebrados. 4a ed.
+    Atheneu Editora, São Paulo.
+
+    Romer, A. S. & T. S. Parsons. 1985. Anatomia comparada dos vertebrados. Atheneu
+    Editora, São Paulo.
+
+    Ruppert, E. E. & R. D. Barnes. 1996. Zoologia dos Invertebrados. 6a ed. Roca,
+    São Paulo. 1029 pp.'
+  course: 'Origem e Filogenia dos Cordados: filogenia de Metazoa, protostômios e deuterostômios,
+    sinapomorfias para Chordata, estrutura e função da notocorda, filogenia dos cordados.
+    Protocordados: Urochordata e Cephalochordata, origem, diversidade e evolução.
+    Agnatos: origem dos Craniata e Vertebrata, estrutura básica dos vertebrados, crânio,
+    vértebras e costelas, miômeros, os primeiros vertebrados, os conodontes, origem
+    do osso e dos demais tecidos mineralizados, filogenia dos vertebrados, morfologia
+    de Myxinoidea e Petromyzontoidea, diversidade e classificação dos agnatos atuais,
+    os Ostracodermes, o parafiletismo de “Agnatha”. A origem dos Gnathostomata e a
+    vida na água: a origem das maxilas, plano corporal básico dos gnatostomados, funções
+    das nadadeiras, filogenia dos Gnathostomata, os Placodermi, os Acanthodii. Vida
+    na Água: brânquias, nadadeiras, linha lateral, eletrorrecepção, osmorregulação.
+    Chondrichthyes: Chondrichthyes do Paleozóico, Elasmobranchii do Mesozóico, filogenia,
+    escamas, dentes e substituição dentária, maxilas e hábitos alimentares; filogenia
+    dos Chondrichthyes atuais. Osteichthyes: pulmão e bexiga natatória, lepidotríquios,
+    filogenia dos grupos atuais, os Sarcopterygii, estrutura e hábitos dos Actinistia,
+    os Dipnoi viventes, origem e características básicas dos Actinopterygii, os Neopterygii,
+    os Teleostei, protrusão maxilar, modificações das nadadeiras, Polypteriformes
+    e Acipenseriformes, os Neopterygii primitivos, Osteoglossomorpha, Elopomorpha,
+    Clupeomorpha, características distintivas dos Ostariophysi, os “Protacanthopterygii”,
+    os Neoteleostei basais, Paracanthopterygii, principais famílias de Acanthopterygii.
+    Origem e irradiação dos Tetrapoda: os Sarcopterygii e a origem dos tetrápodes,
+    características dos Panderychthyidae, modificações esqueléticas durante a transição
+    da vida na água para a vida na terra, respiração no meio aéreo, os tetrápodes
+    do Paleozóico, os anfíbios primitivos, relações de parentesco entre os Lissamphibia
+    e os anfíbios do Paleozóico, Seymouriamorpha, Diadectomorpha, o ovo amniótico,
+    filogenia dos Amniota, Amniota primitivos, diversidade e filogenia dos tetrápodes
+    atuais, ectotermia e endotermia. Lissamphibia: características derivadas dos anfíbios
+    atuais, relações filogenéticas entre os Lissamphibia, filogenia das ordens atuais,
+    diversidade, classificação e distribuição geográfica das anfíbios atuais. Mammalia:
+    os Synapsida e a origem dos mamíferos, geologia e ecologia do Cenozóico, características
+    dos mamíferos, diversidade e distribuição geográfica, filogenia e classificação..
+    Chelonia: origem e relações filogenéticas entre os grupos atuais, diversidade
+    e distribuição geográfica, filogenia e classificação das formas atuais. Os Diapsida
+    do Mesozóico: relações filogenéticas entre os Diapsida; distribuição no registro
+    fóssil, características derivadas, Archosauromorpha, Rhynchosauria, Prolacertiformes,
+    características dos Archosauria, Phytosauria e Crocodylia, Pterosauria, características
+    dos Dinosauria, Sauropodamorpha e Theropoda, os dinossauros Ornithischia, comportamento
+    social, Lepidosauromorpha primitivos, Placodontia, Ichthyosauria, Plesiosauria,
+    Mosasauria, extinções do Cretáceo superior. Crocodylia: características gerais,
+    diversidade e distribuição geográfica, filogenia e classificação. Aves: os dinossauros
+    Saurischia e a origem das aves, a origem do vôo, diversidade e distribuição geográfica,
+    filogenia e classificação. Lepidosauria: características derivadas, estrutura
+    e biologia dos Rhynchocephalia, características derivadas de Squamata, autotomia
+    caudal, estrutura e biologia de Amphisbaenia, parafiletismo de Lacertilia, diversidade
+    e distribuição geográfica, filogenia e classificação.'
+  course_name: 'LCB0144 - Zoologia dos Cordados
+
+    Zoology of chordates'
+  deactivation: ''
+  instructors: '494774 - Alexandre Reis Percequillo
+
+    95125 - Jaime Aparecido Bertoluci'
+  lecture_credits: '4'
+  objectives: Apresentar conceitos de Sistemática Filogenética. Caracterizar os cordados,
+    incluindo as formas extintas, com base em sua morfologia e biologia (história
+    natural, comportamento, fisiologia e ecologia). Apresentar a diversidade e a unidade
+    desses táxons em um contexto evolutivo. Descrever a evolução dos grupos com base
+    em aspectos morfológicos, moleculares e biológicos. Discutir as relações de parentesco
+    dentro de cada grupo. Apresentar ao aluno as metodologias adequadas de estudo
+    desses grupos, salientando as aplicações práticas do conhecimento zoológico, como
+    a conservação e o manejo das espécies silvestres.
+  practical_credits: '2'
+  total_workload: 120 h
+  type: Semestral
+created_at: '20220709072605'
+digest: 2LAA7GV3AL4EVRCKKZEFTXT2PF64I7RP
+updated_at: '20220709072605'
+url: https://web.archive.org/web/20220709072605id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0144&codcur=11070&codhab=104
