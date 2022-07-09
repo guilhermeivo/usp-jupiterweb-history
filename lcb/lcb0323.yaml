@@ -1,0 +1,62 @@
+courses:
+  activation: 01/01/2007
+  assessment: A recuperação é feita pelos alunos que ficaram por nota (média final
+    abaixo de 5,0) e com frequência às aulas de no mínimo 70% das aulas dadas. Através
+    de uma prova, com questões teóricas e práticas, abrangendo todo o programa lecionado.
+  bibliography: "7.\tBIBLIOGRAFIA BÁSICA:\nAWAD,  M.;  CASTRO,  P.R.C. 1983. Introdução\
+    \ à Fisiologia Vegetal. Editora Nobel, São Paulo, 176p.\nCASTRO, P.R.C.; FERREIRA,\
+    \ S.O.; YAMADA, T. 1987. Ecofisiologia da produção agrícola. Associação Brasileira\
+    \ para Pesquisa da Potassa e do Fosfato,  Piracicaba, 249p.\nFERRI, M.G. (Coord.)\
+    \ 1980. Fisiologia Vegetal. EPU/EDUSP. São Paulo, vols. 1 e 2.\nKERBAUY, G.B.\
+    \ 2004. Fisiologia Vegetal. Guanabara Koogan, Rio de Janeiro, 452p.\nLARSHER,\
+    \ W. 2000. Ecofisiologia Vegetal. Rima Artes e Textos, São  Carlos, 531p.\nSALISBURY,\
+    \  F. B.;  ROSS,  C.  1991.   Plant   Physiology. Wadsworth, Belmont, 442p.\n\
+    TAIZ, L.; ZEIGER, E. 2004. Fisiologia Vegetal. Artmed, Porto Alegre, 719p."
+  course: 1. A água na planta. Propriedades da água. Difusão. Relações  osmóticas
+    celulares.  Plasmólise e deplasmólise. Potencial osmótico.  Método plasmolítico.
+    Termodinâmica e conceito de potencial hídrico - método de Chardakov; Volumétrico
+    e câmara de Scholander.  Potencial matricial. Dinâmica de embebição. Embebição
+    de sementes. Perda de água pelas plantas. Processo transpiratório. Amplitude e
+    determinações. Transpiração e ambiente - método do potômetro; Gravimétrico e pesagens
+    rápidas. Mecanismo estomático. Capacidade difusiva dos estômatos. Fatores de variação
+    diária da transpiração. Gutação e significância. Água no solo e na raiz. Absorção
+    passiva e ativa. Fatores e vias de translocação; Teoria de Dixon e Joly - método
+    do atmômetro; Pressão radicular. Competição interna pela água. Resistência ao
+    estresse hídrico. Evolução das plantas em função da colonização do ambiente seco.
+    2. Nutrição mineral. Propriedades do solo. Funções dos nutrientes essenciais.
+    Mecanismos de absorção e transporte de nutrientes minerais. Transporte transmembrana.
+    Translocação dos nutrientes minerais. Metabolismo do nitrogênio. Salinidade. 3.
+    Absorção foliar. Estrutura da folha. Mecanismos de absorção. Lixiviação foliar.
+    4. Fotossíntese. Natureza da luz. Comprimento de onda e processos fisológicos.
+    Estrutura dos cloroplastos. Separação dos pigmentos. Fase fotoquímica. Ciclo de
+    Calvin. Fotorrespiração. 5. Fotossíntese em plantas C3. Fotossíntese em plantas
+    C4. Metabolismo ácido das crassuláceas (MAC). Fotossíntese líquida em função da
+    disponibilidade de luz e CO2 . 6. Translocação de solutos orgânicos. Carregamento
+    e descarregamento do floema. Mecanismos de transporte. Relações fonte-dreno. 7.
+    Crescimento e desenvolvimento.  Modelos e processos. Parede e membrana celular.
+    Enzimas e bombas de prótons. Expansão, divisão e diferenciação celular. Embriogênese
+    e organogênese. Cultura de tecidos. 8. Auxinas, giberelinas, citocininas, retardadores,
+    inibidores e etileno. Metabolismo hormonal. Mecanismos de ação dos hormônios vegetais.
+    9. Fototropismo. Geotropismo. Dominância apical. Partenogênese. 10. Fotoperiodismo.
+    Receptores para luz vermelha, azul e UV. Mecanismos de evitação à sombra. Mecanismos
+    de floração.  Vernalização. Abscisão e senescência.
+  course_name: 'LCB0323 - Fisiologia Vegetal
+
+    Plant Physiology'
+  deactivation: ''
+  instructors: 837790 - Lazaro Eustaquio Pereira Peres
+  lecture_credits: '4'
+  objectives: Conhecer a importância e o domínio da Fisiologia Vegetal, sendo capaz
+    de integrar esta ciência com a Anatomia e a Ecologia das Plantas. Compreender
+    os processos fundamentais e os mecanismos que mantém os vegetais desde sua economia
+    hídrica, nutrição mineral, fotossíntese, translocação orgânica e controle do desenvolvimento.
+    Entender como os fatores ambientais afetam os processos fisiológicos das plantas.
+    Compreender a importância da fisiologia vegetal para a manutenção dos biomas e
+    dos agroecossistemas produtivos.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220709004425'
+digest: CZPPGYAL43DXPX7XCVE57EVBKXYQ54VL
+updated_at: '20220709004425'
+url: https://web.archive.org/web/20220709004425id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0323&codcur=11070&codhab=104
