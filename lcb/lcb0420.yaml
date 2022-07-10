@@ -1,0 +1,91 @@
+courses:
+  activation: 01/01/2022
+  assessment: Esta disciplina não possui prova repositiva ou substituta e, nem tão
+    pouco de recuperação.
+  bibliography: 'Bicudo, C.E.M.; Menezes, M. 2005. Gêneros de Algas de Águas Continentais
+    do Brasil – Chave para Identificação e Descrições. Ed. Rima. 508 pg. (só chave
+    de identificação)
+
+    Hirakawa, Y. Secondary Endosymbioses, Volume 84. 1st Edition. Advances in Botanical
+    Research. 2017. Eds Jacquot, JP, Gadal, P. 452p.
+
+    Lee, R. E. 2008 Phycology. Cambridge University Press.
+
+    van den Hoek, C.; Mann, D.G.; Jahns, H.M. 1995. Algae: an introduction to  phycology.
+    Cambridge University Press. 627p.
+
+    Raven,  P.H., Evert, R.F., Eichhorn,  2011 (ou edição posterior). Biologia vegetal.
+    Editora Guanabara Koogan.
+
+    Lourenço, S.O.   2006. Cultivo de Microalgas Marinhas - Princípios e Aplicações
+    . 588p.  Editora RIMA
+
+    Ruppert, E.E. & R.D. Barnes, 1996. Zoologia dos Invertebrados. 6a ed. Editora
+    Roca Ltda, São Paulo 1029p.
+
+    Ruppert, E.E., R.S. Fox; R.D. Barnes, A.C. Marques, A.C. 2005. Zoologia dos invertebrados:
+    uma abordagem funcional-evolutiva 7. ed Roca Ltda, São Paulo. 1145 p
+
+    (Outras)
+
+    Bold, H.C.; Wynne, M.J. 1985. Introduction to the algae: structure and  reproduction       (2
+    ed. ). Prentice-Hall, Inc., Englewood Cliffs. 720p..
+
+    Calijuri, M.C., Alves, M.S.A, Santos ACA. 2006. Cianobactérias e cianotoxinas
+    em águas continentais. Rima Editora, São Carlos, 118p.
+
+    CYBIS, L.F. ; BENDATI, M.M., MAIZONAVE, C.R.M., WERNER, V.R., DOMINGUES, C.D.
+    2006. Manual para estudos de cianobactérias planctônicas em mananciais de abastecimento
+    público:caso da represa Lomba de Sabão e Lago Guaíba, Porto Alegre, Rio Grande
+    do Sul. Rio de Janeiro: ABES, 64p.
+
+    Esteves, F. A. 1988. Fundamentos de Limnologia  Rio de Janeiro, Brasil : Editora
+    Interciência : FINEP.
+
+    John, D.M., Whitton, B.; Brook, A.J. 2002.The freshwater algal flora of the British
+    isles: an identification Guide to freshwater and terrestrial algae. Cambridge
+    University Press.  ISBN 0521770513
+
+    Raven,  P.H., Evert, R.F., Eichhorn,  2007. Biologia vegetal. Editora Guanabara
+    Koogan.., Rio de Janeiro. 728p.
+
+    South, G.R.; Whittick, A. 1996. Introduction of phycology. Blackwell Scientific
+    Publications. 341p.
+
+    Código Internacional de Nomenclatura para algas, fungos e plantas (Código de Melbourne)
+    Tradução de Carlos E. de Matos Bicudo e Jefferson Prado. Editora RiMa
+
+    Outros materiais (artigos científicos, vídeos etc.)  disponibilizados no site
+    do LCB ou GoogleClassroom'
+  course: '1. Introdução à diversidade dos protistas e a árvore da vida dos eucariotos;
+    2. Teoria da endossimbiose serial e a evolução dos grupos fotossintetizantes e
+    seus relacionados; 3. Cianobactérias/Cyanophyta - precursores dos cloroplastos:
+    caracterização morfológica e ecológica; importância econômica e sua relação com
+    os eucariotos fotossintetizantes; 4. Os Super-grupos Archaeplastida: (Chlorophyta;
+    Rhodophyta e Glaucophyta); SAR (Estramenopilos / Heterokonthophyta (Bacillariophyceae
+    e Phaeophyceae, Rhizaria (Actinopoda, Granuloreticulosa; Chloraracniophyta); Apicomplexa
+    (Dinophyta, Gregarina, Plasmodium, Toxoplasma, Ciliophora (Paramecium);) Opisthokonta:
+    Choanoflagellata; Haptista (Haptophyta); Excavata: (Diplomonadida; Parabasilida;
+    Kinetoplastida, Euglenophyta); Amoebozoa: Rhizopoda. Extinção de Chromalveolata
+    e novas proposiçoes para Hacrobia.'
+  course_name: 'LCB0420 - Protistas
+
+    Protist'
+  deactivation: ''
+  instructors: 3257861 - Maria do Carmo Bittencourt de Oliveira
+  lecture_credits: '4'
+  objectives: Fornecer subsídios biológicos para o entendimento das relações filéticas
+    entre os principais grupos de organismos vivos com ênfase naqueles conhecidos
+    tradicionalmente como “algas” e “protozoários” ou “protistas” baseados em conceitos
+    atuais que norteiam a classificação destes; b) Conhecer a sua importância na saúde
+    humana e no ambiente, apresentando a diversidade biológica e ecológica de alguns
+    subgrupos, inclusive, procariotos (cianobactérias) relacionados à origem dos eucariotos
+    fotossintetizantes.   Conhecer a importância dos eventos de endossimbiose na diversidade
+    destes organismos e a formação dos supergrupos e as tendências atuais
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220710031134'
+digest: KQ464AIWPRBCKNETUDDV4QXC37FEAKOM
+updated_at: '20220710031134'
+url: https://web.archive.org/web/20220710031134id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0420&codcur=11070&codhab=104
