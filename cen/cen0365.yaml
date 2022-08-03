@@ -1,0 +1,80 @@
+courses:
+  activation: 01/01/2002
+  assessment: Uma (01) avaliação escrita
+  bibliography: 'BOZZOLA, J.J.; RUSSEL, L.D. 1998.  Electron Microscopy: Principles
+    and Techniques for Biologists. 2nd. Jones and Bartlett Publishers, Boston. 542p.
+
+    FLEGLER, S.L.; HECKMAN, J.W.; KLOMPARENS, K.L. 1995. Scanning and transmission
+    electron microscopy: an introduction. Oxford University Press.
+
+    HAYAT, M.A. 1974.  Principles and Techniques of Scanning Electron Microscopy.
+    Van Nostrand Reihold Company, New York. 273 p. V . I.
+
+    HAYAT, M.A. 2000.  Principles and Techniques of Electron Microscopy: Biological
+    Applications. 4th ed. Cambridge University. 543 p.
+
+    LEDBETTER, M.C. & PORTER, K.R. 1970.  Introduction to the Fine Structure of Plant
+    Cells. Springer-Verlag, New York. 188 p.
+
+    MEEK, G.A.  Practical Electron Microscopy for Biologists. Willey - Interscience.  London.
+    1970.
+
+    POSTEK, M.T.; HOWARD, K.S.; JOHNSON, A.H. & McMICHAEL, K.L. 1980. Scanning Electron
+    Microscopy.  A student''s handbook.  Ladd Research Industries, Inc. 305 p.
+
+    SOUZA, W. de (ed) 1998. Técnicas básicas de microscopia eletrônica aplicadas às
+    ciências biológicas. Sociedade Brasileira de Microscopia, Rio de Janeiro. 179
+    p
+
+    Periódicos
+
+    Journal of Cell Biology
+
+    Journal of Electron Microscopy
+
+    Experimental; Cell Research
+
+    International Journal of Plant Sciences
+
+    Phytopathology
+
+    Virology
+
+    Annals of botany
+
+    Journal of Ultrastructure Research'
+  course: '3-  PROGRAMA  ANALÍTICO:         (digitar em  texto  corrido)
+
+    Conceitos básicos de Microscopia Óptica e Eletrônica; Constituição e funcionamento
+    do microscópio eletrônico de transmissão e varredura; Considerações teóricas sobre
+    preparo de espécimens para microscopia eletrônica de transmissão e varredura:
+    Fixação de tecido, principais fixadores, propriedades, cuidados com a fixação,
+    soluções tampão - propriedades; Desidratação; Inclusão dos materiais (no caso
+    de ME de transmissão) uso de resinas; Secagem ao ponto crítico e metalização de
+    espécimen (no caso de ME de varredura);  Preparo de materiais em suspensão para
+    diagnosticar doenças de plantas (contrastação negativa) - exames ao microscópio
+    de transmissão; Práticas Histológicas: preparação de materiais para exame: fixação,
+    desidratação e inclusão; Preparo de tampões, soluções fixadoras, resinas; Ultramicrotomia
+    - considerações teórica e prática; Preparo de secções semifinas e ultrafinas (trimagem
+    dos blocos, preparação de navalhas, seccionamento dos materiais); Limpeza de lâminas
+    e grades, preparo de corantes, coloração de lâminas; Exames aos microscópios óptico
+    e eletrônico; Obtenção de fotomicrografias; Técnicas fotográficas e interpretação
+    de fotografias.'
+  course_name: 'CEN0365 - Ultra Estrutura Celular
+
+    Cell Ultra Structure'
+  deactivation: ''
+  instructors: 50236 - Neusa de Lima Nogueira
+  lecture_credits: '2'
+  objectives: '2.  OBJETIVOS:   (digitar  em  texto  corrido)
+
+    Capacitar o aluno para o preparo de amostras e observação aos microscópios eletrônico
+    de transmissão, varredura e óptico, visando a descrição e compreensão dos processos
+    biológicos através da análise de células e tecidos.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220803090201'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20220803090201'
+url: https://web.archive.org/web/20220803090201id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0365&codcur=11070&codhab=4
