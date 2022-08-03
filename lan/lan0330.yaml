@@ -1,14 +1,8 @@
 courses:
-  activation: 01/01/2020
+  activation: 01/01/2021
   assessment: Para a prova de recuperação, toda a matéria lecionada no semestre será
     questionada, exigindo do aluno uma revisão completa dos assuntos tratados.
-  bibliography: 'BIBLIOGRAFIA BÁSICA:
-
-    ANDRADE, N.J. de. Higienização na indústria de alimentos: avaliação e controle
-    da adesão e formação de biofilmes bacterianos. São Paulo: Varela, 2008. 412 p
-
-    DÂNGELO, J. G.; FATTINI, C. A. Anatomia humana básica. 2ª ed. Editora: Atheneu,
-    2006. 184p.
+  bibliography: 'Básica
 
     FORSYTHE, S. J. Microbiologia da segurança dos alimentos. 2ª ed. Porto Alegre:
     Artmed, 2013. 602p.
@@ -33,12 +27,7 @@ courses:
     OKAZAKI, M.M. Manual de métodos de análise microbiológica de alimentos e água.
     5ª ed. São Paulo: Blucher, 2017. 560p.
 
-    BIBLIOGRAFIA COMPLEMENTAR
-
-    BRASIL, Ministério da saúde, Agência Nacional de Vigilância Sanitária (ANVISA),
-    Resolução RDC nº 12 de 02 de janeiro de 2001. Regulamento técnico sobre os padrões
-    microbiológicos para alimentos. Diário Oficial. Brasília, DF. 10 de janeiro de
-    2011.
+    Complementar
 
     CODEX ALIMENTARIUS. Principles for the establishment and application of microbiological
     criteria for foods (CAC/ GL-21). Rome: FAO, 1997. FAO/WHO Food Standards Program.
@@ -49,41 +38,25 @@ courses:
     DOYLE, M.P., BEUCHAT, L.R. Food microbiology: fundamentals and frontiers. 3rd
     ed. Washington. DC: ASM Press, 2007. 1038p.
 
-    KUAYE, A. Y. (ed). Limpeza e sanitização na indústria de alimentos. São Paulo:
-    Atheneu, 2017. 323p.
-
     MONTVILLE, T.J., MATTHEWS, K.R. Food microbiology: an introduction, 2nd ed. Washington.
-    DC: ASM Press, 2008. 427p.
-
-    SILVA JUNIOR, E.A. Manual de controle higiênico sanitário em serviços de alimentação.
-    7ª ed. São Paulo: Livraria Varela, 2014. 693p.'
-  course: '1. Introdução à microbiologia dos alimentos. 2. Alimento como ecossistema:
-    fatores intrínsecos e extrínsecos que afetam o desenvolvimento microbiano. 3.
-    Epidemiologia: definições, conceitos, princípios e propósitos, alimentos como
-    veículos de infecções, intoxicações e toxinfecções alimentares. 4. Saúde: definição
-    saúde-doença, agentes, hospedeiros e meio-ambiente, portadores, vias de transmissão,
-    princípios de infecção, virulência dos agentes, dose infectante, defesas do organismo
-    humano, interações entre micro-organismos e seres humanos. 5. Princípios de anatomia,
-    histologia e fisiologia do aparelho digestório. 6. Zoonoses e doenças transmitidas
-    por alimentos, relações ecológicas dos micro-organismos patogênicos com o alimento
-    e o ambiente; principais grupos de patógenos e suas características de multiplicação
-    nos alimentos, fontes de contaminação, capacidade de sobrevivência aos processos
-    de industrialização/conservação de alimentos. 7. Micro-organismos indicadores.
-    8. Metodologia epidemiológica: fase descritiva, coleta de dados, fase analítica,
-    medidas de morbidade e mortalidade. 9. Planos de amostragem e critérios microbiológicos.
-    10. Termobacteriologia aplicada a alimentos. 11. Microbiologia de hortaliças.
-    12. Microbiologia do pescado. 13. Microbiologia de carnes e produtos cárneos.
-    14. Microbiologia do leite e derivados. 15. Microbiologia de sucos e outros alimentos.
-    16. Microbiologia da água. 17. Biologia molecular aplicada à microbiologia dos
-    alimentos. 18. Princípios gerais de higienização, detergentes e sanificantes,
-    principais princípios ativos empregados nas indústrias de alimentos. 19. Métodos
-    de higienização em indústrias e cozinhas industriais, tipos de sujidades (resíduos
-    de alimentos), biofilmes microbianos, sistemas CIP e SIP. 20. Aulas práticas:
-    a) micro-organismos indicadores e patogênicos em alimentos - preparo de amostras,
-    técnicas de diluição decimal, métodos de detecção e enumeração de micro-organismos
-    em placas e tubos; b) higiene e sanitização - preparo de soluções sanificantes,
-    uso de detergentes em diferentes sujidades e avaliação do processo de higienização
-    pela técnica de amostragem por swab.'
+    DC: ASM Press, 2008. 427p.'
+  course: '1. Introdução à microbiologia dos alimentos. 2. Fatores intrínsecos e extrínsecos
+    que afetam o desenvolvimento microbiano. 3. Micro-organismos indicadores. 4. Princípios
+    de anatomia e fisiologia do sistema digestório. 5. Zoonoses e parasitologia. 6.
+    Micro-organismos patogênicos: principais bactérias e suas características de multiplicação
+    nos alimentos, fontes de contaminação e capacidade de sobrevivência aos processos
+    de industrialização/conservação de alimentos. 7. Microbiologia de hortaliças.
+    8. Microbiologia do pescado. 9. Microbiologia de carnes e produtos cárneos. 10.
+    Microbiologia do leite e derivados. 11. Microbiologia de sucos e outros alimentos.
+    12. Microbiologia da água. 13. Termobacteriologia aplicada a alimentos. 14. Critérios
+    microbiológicos e planos de amostragem. 15. Epidemiologia: definições, conceitos,
+    princípios e propósitos. 16. Metodologia epidemiológica: fase descritiva, coleta
+    de dados, fase analítica, medidas de morbidade e mortalidade. 17. Biologia molecular
+    aplicada à microbiologia dos alimentos. 18. Métodos rápidos em microbiologia dos
+    alimentos (possibilidade de viagem didática para visitar empresa da área). 19.
+    Aulas práticas para pesquisa e enumeração de micro-organismos patogênicos e indicadores
+    de contaminação nos alimentos: preparo de amostras, técnicas de diluição decimal,
+    métodos de detecção e enumeração de micro-organismos em placas e tubos.'
   course_name: 'LAN0330 - Microbiologia dos Alimentos e Epidemiologia das Doenças
     Veiculadas por Alimentos
 
@@ -108,7 +81,7 @@ courses:
   practical_credits: '1'
   total_workload: 150 h
   type: Semestral
-created_at: '20200922073700'
-digest: CHLQ25WO2AMEN4T2SYNL4XLVCWF6BPI7
-updated_at: '20200922073700'
-url: https://web.archive.org/web/20200922073700id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN0330&codcur=11010&codhab=0
+created_at: '20220803083705'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20220803083705'
+url: https://web.archive.org/web/20220803083705id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN0330&codcur=11070&codhab=4
