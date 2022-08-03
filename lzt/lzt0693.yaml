@@ -1,0 +1,35 @@
+courses:
+  activation: 01/01/2021
+  assessment: Uma prova discursiva envolvendo toda a matéria lecionada no semestre
+  bibliography: 'Farah, Solange Bento, 2007, DNA Segredos e Mistérios, 538p, Editora
+    Sarvier.
+
+    Luciana Correia da Almeida Regitano e Luiz Lehmanm Coutinho, 2001, Biologia molecular
+    : aplicada à produção animal, 216p, Editora Embrapa Informação Tecnológica, 2001.
+
+    José Luiz de Paiva Bello, 2005, Metodologia Científica: Manual para Elaboração
+    de Textos Academicos, Monografias, Dissertações e Teses
+
+    http://www.icb.ufmg.br/pgrh/aulas/flavio/Profº%20Flavio.pdf'
+  course: "Introdução a metodologia cientifica: Como fazer uma pesquisa bibliográfica;\
+    \ O que é plagio; \tComo escrever uma revisão; Definição do problema e da hipótese;\
+    \ Ferramentas de biologia molecular; Desenvolvimento de projetos de iniciação\
+    \ científica nos seguintes temas: (1) Identificação de doenças genéticas: (2)\
+    \ Verificação de fraude em alimentos: (3) Identificação de espécies silvestres;\
+    \ (4) Testes de paternidade."
+  course_name: 'LZT0693 - Iniciação Científica em Biotecnologia
+
+    Scientific Initiation in Biotechnology'
+  deactivation: ''
+  instructors: 57932 - Luiz Lehmann Coutinho
+  lecture_credits: '4'
+  objectives: Apresentar aos estudantes os princípios básicos da metodologia científica,
+    biotecnologia e biologia molecular e, suas aplicações na resolução de problemas
+    práticos.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220803122756'
+digest: VYVQELRWMCH62KLN65WBF2LFERCXORMA
+updated_at: '20220803122756'
+url: https://web.archive.org/web/20220803122756id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0693&codcur=11070&codhab=4
