@@ -1,0 +1,62 @@
+courses:
+  activation: 01/01/2017
+  assessment: Para os alunos reprovados por nota, mas beneficiados pelo Sistema de
+    Recuperação, esta será realizada através de uma única prova teórica,  no período
+    determinado pelo Serviço de Graduação.
+  bibliography: 'Literatura Básica:
+
+    AVERY, T.E.; BERLIN, G.L.. Interpretation of aerial photographs.  Minneapolis,
+    Burgess Publishing Company, 4ª ed, 1985.
+
+    FLORENZANO, T.G.  Iniciação em Sensoriamento Remoto.  São Paulo, Oficina de Textos.
+    3ª Ed. 2011.
+
+    GODOY, R.  Topografia Básica.  Piracicaba, FEALQ, 1988. 349p.
+
+    MIRANDA, J.I. Fundamentos de Sistemas de Informações Geográficas – EMBRAPA Informação
+    Tecnológica. Brasília, DF. 425p. 2005.
+
+    NOVO, E.M.L.M. Sensoriamento Remoto: Princípios e Aplicações. 3ª ed.  São Paulo,
+    Edgard Blucher. 2008.
+
+    PONZONI, F.J.; SHIMABUKURO, Y.E.; KUPLICH, T.M. Sensoriamento Remoto da Vegetação.
+    Segunda Edição Atualizada e Ampliada. Oficina de Textos, São Paulo, SP 2012.
+
+    SEGANTINE, P.C.L.  GPS: Sistema de Posicionamento Global. EESC/USP. São Carlos,
+    SP. 364p. 2005.
+
+    Literatura Complementar:
+
+    LIBAULT, A.  Geocartografia.  São Paulo, Ed. Da USP, 1975.
+
+    MONICO, J.F.G. Posicionamento pelo GNSS: descrição, fundamentos e aplicações.
+    2ª ed. São Paulo, Editora UNESP.  2007.'
+  course: "Geprocessamento aplicado às ciências do ambiente. Topografia:  - Definição,\
+    \ objetivos e divisão; Planimetria: conceitos fundamentais, medição de ângulos\
+    \ e distâncias e cálculo de coordenadas;  Altimetria: conceitos  fundamentais\
+    \ e curvas de nível.  Fundamentos de Cartografia: Projeções cartográficas; Sistemas\
+    \ de coordenadas. GPS: princípios de funcionamento e aplicações.  Fotogrametria:-\
+    \ Conceitos fundamentais; - Geometria da fotografia área vertical; Estereoscópios\
+    \ e estereoscopia. Introdução ao Sensoriamento Remoto: - Fundamentos físicos do\
+    \ sensoriamento remoto; - Sistemas de sensoriamento remoto orbital; \t- Comparação\
+    \ entre fotografias áreas, imagens orbitais e mapas; - Interpretação de imagens.\
+    \ Sistemas de Informação Geográfica (SIG): - Conceito, histórico e perspectivas;\
+    \ - Componentes (estrutura) de um SIG; - Aplicações."
+  course_name: 'LEB0210 - Geoprocessamento
+
+    Geoprocessing'
+  deactivation: ''
+  instructors: '11967931 - Ana Claudia dos Santos Luciano
+
+    2151441 - Peterson Ricardo Fiorio'
+  lecture_credits: '4'
+  objectives: Desenvolver princípios e fundamentos necessários ao embasamento teórico
+    dos acadêmicos de Gestão Ambiental e Ciências Biológicas na utilização de técnicas
+    de Geoprocessamento no processo de tomada de decisão nas suas áreas de atuação.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220803120651'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20220803120651'
+url: https://web.archive.org/web/20220803120651id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0210&codcur=11070&codhab=4
