@@ -1,34 +1,35 @@
 courses:
-  activation: 01/01/2020
+  activation: 01/01/2023
   assessment: Será realizada uma prova de recuperação que contemplará toda a matéria
     lecionada no semestre com notas de 0 (zero) a 10,0 (dez) para os alunos que ficaram
-    com média final abaixo de 5,0 e maior ou igual a 3,0 e que obtiveram freqüência
+    com média final abaixo de 5,0 e maior ou igual a 3,0 e que obtiveram frequência
     maior ou igual a 70%. A nota final será calculada a partir da média da nota final
     obtida pelo aluno no semestre mais a nota da prova de recuperação dividida por
     dois.
-  bibliography: 'Bioquímica. Donald Voet Judith G Voet; Ana Beatriz Gorini da Veiga;
-    Carlos Termignoni. Porto Alegre Artmed 2015
+  bibliography: 'Literatura Básica:
 
-    Princípios de Bioquímica de Lehninger. David Lehninger Nelson; Michael Cox; Trad.:
-    Carla Dalmaz; Carlos Termignomi; Maria Luiza Pereira. Porto Alegre Artmed 2019
+    Princípios de Bioquímica de Lehninger. David Lehninger Nelson; Michael Cox. 2019
 
-    Bioquímica. Jeremy M. Berg John L Tymoczko; Lubert Stryer; Gregory J Gatto Jr.;
-    Deborah Schechtman; Antonio José Magalhães da Silva Moreira. Rio de Janeiro Guanabara
-    Koogan 2014
+    Bioquímica. D Voet, JG Voet. 2015
 
-    Bioquímica. Mary K Campbell Shawn O Farrell; All Tasks; Maria Martha Guedes Chaves.
-    São Paulo Cengage Learning 2011
+    Bioquímica, por Jeremy M. BERG, John L. TYMOCZKO, e outros. 2021
 
-    Bioquímica básica. Anita Marzzoco Bayardo Baptista Torres. Rio de Janeiro Guanabara
-    Koogan 2015'
-  course: '1. Introdução a disciplina, importância e inserção na grade curricular.
-    Soluções aquosas, interações e tampões. Princípios da Termodinâmica. 2. Carboidratos:
-    Conceito, classificação, estrutura e propriedades; 3. Lipídeos: Conceito, classificação,
-    estruturas e propriedades. 4. Aminoácidos e Proteínas: Conceito, classificação,
-    estruturas e propriedades. Técnicas de purif. de proteínas. 5. Energética Bioquímica:
-    Energia livre, energia de ativação, entropia, compostos ricos em energia e reações
-    acopladas. 6. Enzimas: Conceitos, especificidade, fatores que afetam a velocidade
-    de reação enzimática, co-fatores (vitaminas), enzimas alostéricas e isoenzimas.'
+    Literatura Complementar:
+
+    Bioquímica Ilustrada de Harper, Victor W. Rodwell, David Bender, e outros. 2021
+
+    Bioquímica básica. Anita Marzzoco Bayardo Baptista Torres. 2015
+
+    Bioquímica. Mary K Campbell Shawn O Farrell. 2015'
+  course: '1. Introdução a disciplina: importância e inserção na grade curricular.
+    Soluções aquosas, interações moleculares e tampões. 2. Princípios da Termodinâmica:
+    energia livre, energia de ativação, entropia, compostos ricos em energia e reações
+    acopladas. 3. Carboidratos: conceito, classificação, estrutura e propriedades;
+    4. Lipídeos: conceito, classificação, estruturas e propriedades. 5. Aminoácidos:
+    conceito, classificação, estruturas e propriedades. 6. Estrutura e função de Proteínas:
+    conceito, classificação e propriedades. 7. Técnicas de purif. de proteínas: extração,
+    estabilização e separação. 8. Enzimas: conceitos, especificidade, fatores que
+    afetam a velocidade de reação enzimática, co-fatores, regulação e cinética enzimática.'
   course_name: 'LCB0213 - Bioquímica I
 
     Biochemistry I'
@@ -42,7 +43,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220708080012'
-digest: 2QNKVLXNTUZA7BQQERYGFCCW3YOU75ZH
-updated_at: '20220708080012'
-url: https://web.archive.org/web/20220708080012id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0213&codcur=11070&codhab=104
+created_at: '20220803152933'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20220803152933'
+url: https://web.archive.org/web/20220803152933id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0213&codcur=11070&codhab=4
