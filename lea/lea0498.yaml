@@ -1,0 +1,61 @@
+courses:
+  activation: 01/01/2013
+  assessment: Uma prova com toda a matéria dada nas aulas teórico-práticas.
+  bibliography: 'Literatura Básica:
+
+    BARROS-BATTESTI, D.M.; M. ARZMA, G.H. BECHARA. 2006. Carrapatos de importância
+    médico-veterinária da Região Neotropical. Vox/ICTTD-3/Butantan, São Paulo, 223
+    p.
+
+    FLECHTMANN, C.H.W., 1977.  Ácaros de importância Médico-Veterinária. Nobel ed.,  São
+    Paulo, 192 p.
+
+    MORAES, G.J. de & C.H.W. FLECHTMANN. 2008. Manual de Acarologia. Acarologia básica
+    e ácaros de plantas cultivadas no Brasil. Editora  Holos, Ribeirão Preto, 308
+    p.
+
+    Literatura Complementar:
+
+    ARAGÃO, H.B. & F. FONSECA, 1961.  Notas de Ixodologia. Mem. Inst. Oswaldo Cruz,
+    Rio de Janeiro, 59(2): 115-129.
+
+    FLECHTMANN, C.H.W., 1986.  Ácaros em Produtos Armazenados e na Poeira Domiciliar.
+    FEALQ, USP,
+
+    Piracicaba, SP, 97 p. Nobel ed., São Paulo, 189 p.
+
+    GUIMARÃES, J.H., E.C. TUCCI & D.M. BARROS-BATTESTI. 2001. Ectoparasitos de importância                 veterinária.
+    Editora Pleiade, 206 p.
+
+    HOY, M.A., 2011. Agricultural Acarology. Introduction to integrated mite management.
+    CRC Press, Boca Raton, 410 p.
+
+    MORAES, G.J. de. 2002. Controle biológico de ácaros fitófagos com ácaros predadores.
+    In: Parra, J.R.P.; P.S.M. Botelho; B.S. Correa-Ferreira & J.M.S. Bentol  eds.).
+    Controle biológico no Brasil, pp. 225-237.
+
+    OLIVEIRA, D.C. & G.J. de MORAES. 2012. Ácaros. Uma importante ferramenta para
+    o controle biológico. Ciência & Ambiente, 43: 37-54.'
+  course: 1. Introdução, histórico. 2. Coleta, preparação e montagem de ácaros para
+    estudo.3. Posição taxonômica dos Acari. 4. Morfologia dos Acari; reconhecimento
+    dos grandes grupos. 5. Ácaros em cultivos extensivos. 6. Ácaros em hortaliças.  7.  Ácaros  em  frutíferas.  8.
+    Ácaros em ornamentais. 9. Ácaros em  florestas.  10.  Ácaros  em  alimentos  armazenados.  11.  Ácaros   de
+    solo. 12. Ácaros que  atacam  insetos  úteis. 13. Ácaros que atacam os mamíferos.  14.  Ácaros
+    que atacam as aves. 15. Ácaros em poeira domiciliar. 16. Manejo integrado de ácaros
+    de importância agrícola.
+  course_name: 'LEA0498 - Acarologia
+
+    Acarology'
+  deactivation: ''
+  instructors: 6676707 - Marina Ferraz de Camargo Barbosa
+  lecture_credits: '4'
+  objectives: Formação básica na estrutura geral, desenvolvimento e biologia de ácaros
+    em geral e reconhecimento dos  grupos  de  importância  econômica  na   área agrícola
+    e médico-veterinária.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20220803185504'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20220803185504'
+url: https://web.archive.org/web/20220803185504id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0498&codcur=11070&codhab=4
