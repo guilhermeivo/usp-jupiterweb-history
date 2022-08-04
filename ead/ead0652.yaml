@@ -1,0 +1,40 @@
+courses:
+  activation: 01/01/2017
+  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
+    será submetido a uma reavaliação final, a título de recuperação.
+  bibliography: 'Turban, E. & Meredith, J. R. - Fundamental of Management Science,
+    Irwin, 1994
+
+    Hiller, F. J. & Liberman, G. L. - Introduction to Operations Research, McGraw-Hill,
+    1991
+
+    Eppen, G. D. et alli - Introductory Management Science, Prentice Hall, 1998
+
+    Khoshnevis, B. - Discrete Systems Simulation, McGraw-Hill, 1994'
+  course: '· Simulação
+
+    · Planejamento de experimentos
+
+    · Números aleatório e pseudo-aleatório
+
+    · Geração de variáveis estocásticas
+
+    · Modelo de Monte Carlo
+
+    · Aplicações
+
+    · Uso de softwares'
+  course_name: 'EAD0652 - Simulação
+
+    Simulation'
+  deactivation: ''
+  instructors: 105091 - Adriana Backx Noronha Viana
+  lecture_credits: '2'
+  objectives: Iniciar o estudo de simulação em computadores.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220804011406'
+digest: MIR5OUUUROV3T35F6T6BN6BOBDADFUDQ
+updated_at: '20220804011406'
+url: https://web.archive.org/web/20220804011406id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0652&codcur=12012&codhab=1
