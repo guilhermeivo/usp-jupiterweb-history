@@ -1,0 +1,31 @@
+courses:
+  activation: 01/01/2010
+  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
+    será submetido a uma reavaliação final, a título de recuperação.
+  bibliography: 'Moore, J. H. & Weatherford, L. R. - Tomada de Decisão em Administração
+    com Planilhas Eletrônicas (sexta edição), Bookman, 2005
+
+    Turban, E. & Meredith, J. R. - Fundamental of Management Science, Irwin, 1994
+
+    Hiller, F. J. & Liberman, G. L. - Introduction to Operations Research, McGraw-Hill,
+    1991
+
+    Eppen, G. D. et alli - Introductory Management Science, Prentice Hall, 1998'
+  course: "\x95 Modelos em ciência da decisão\n\x95 Formulação de modelos\n\x95 Programação\
+    \ linear\n\x95 Elementos de programação inteira\n\x95 Elementos de programação\
+    \ não linear\n\x95 Outras técnicas de otimização\n\x95 Uso de softwares\n\x95\
+    \ Aplicações em administração"
+  course_name: 'EAD0350 - Pesquisa Operacional
+
+    Operations Research'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: Introduzir as noções básicas de programação matemática e otimização,
+    bem como suas aplicações em Administração
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20220804011336'
+digest: RDBA5MBDKDZNYPAYI5OJ2H7BX6QLGA64
+updated_at: '20220804011336'
+url: https://web.archive.org/web/20220804011336id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0350&codcur=12012&codhab=1
