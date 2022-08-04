@@ -1,0 +1,72 @@
+courses:
+  activation: 01/01/2017
+  assessment: Prova teórico-prática.
+  bibliography: 'BRADY, N.C., WEIL, R.W. Elementos da Natureza e Propriedades dos
+    Solos. 3ª Ed. Tradução por Igo F. Lepsch. BOOKMAN COMPANHIA EDITORA LTDA. 2013.
+    716p
+
+    CARDOSO, E.J.B.N., TSAI, S.M., NEVES, M.C.P., Microbiologia do Solo, Soc. Bras.
+    Ciência do Solo, Campinas, 1992, 360p.
+
+    KER, J.C., CURI, N., SCHAEFER, C.E.G.R., VIDAL-TORRADO, P. Pedologia – Fundamentos.
+    1ª Ed. , Soc. Bras. Ciência do Solo, Viçosa, 2012, 343p.
+
+    LEPSCH, I.F. Formação e conservação dos solos. Oficina de Texto, SP. 2002. 178p.
+
+    NOVAIS, R.F.; ALVAREZ, V.H. BARROS, N.F.; FONTES, R.L.F.; CANTARUTTI, R.B.; NEVES,
+    J.C.L. (Ed). Fertilidade do solo. Sociedade Brasileira de Ciência do Solo. Viçosa,
+    2007.1071p.
+
+    ROSCOE, R.; MERCANTE, F.M.; SALTON, J.C. Dinâmica da matéria orgânica do solo
+    em sistemas conservacionistas. Dourados: Embrapa Agropecuária Oeste. 304p. 2006.
+
+    van RAIJ, B. Fertilidade do solo e manejo de nutrientes. International Plant Nutrition
+    Institute, 2011. 420p.'
+  course: '1. Introdução ao estudo de solos; importância para a gestão ambiental;
+    conceito de solo.
+
+    2. Frações sólidas do solo; mineralogia do solo; propriedades dos colóides do
+    solo: húmus e argila.
+
+    3. Fases líquida e gasosa do solo.
+
+    4. Atributos físicos e água do solo: estrutura, textura e consistência do solo;
+    cor do solo; densidade do solo e das partículas; porosidade do solo e compactação;
+    importância da água; movimento e retenção da água no solo; o solo e o ciclo hidrológico.
+
+    5. Formação do solo: materiais de origem, fatores e processos de formação; perfil  e
+    horizontes do solo
+
+    6. Classificação de solos: Sistema Brasileiro de Classificação de Solos (SiBCS);
+    principais classes de solos.
+
+    7. Biologia do solo: ação dos macro e microrganismo do solo; ciclos biogeoquímicos;
+    bioprospecção e biorremediação.
+
+    8. Matéria Orgânica do solo.
+
+    9. Fertilidade do solo e ciclagem de nutrientes: adsorção e troca iônica; reação
+    do solo; saturação por bases; acidez do solo; importância e relações do solo com
+    as plantas.
+
+    10.  Processos de degradação e poluição do solo: impactos ambientais das atividades
+    agrícola e industrial; caracterização de resíduos agrícolas e industriais; recuperação
+    de solos contaminados; uso urbano do solo e seus impactos.
+
+    11. Solos e a produção agrícola.'
+  course_name: 'LSO0257 - Fundamentos de Ciência do Solo
+
+    Soil Science Fundamentals'
+  deactivation: ''
+  instructors: 8398051 - Maurício Roberto Cherubin
+  lecture_credits: '4'
+  objectives: Dar ao aluno a formação básica para caracterizar e utilizar os diferentes
+    solos, particularmente os existentes na região tropical, a fim de capacitá-lo
+    a compreender a importância dos fatores edafológicos na preservação do ambiente.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20220804110801'
+digest: RJNZI7ZSNJ2337CXA4T6X7FBBI7DJPYM
+updated_at: '20220804110801'
+url: https://web.archive.org/web/20220804110801id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LSO0257&codcur=11080&codhab=4
