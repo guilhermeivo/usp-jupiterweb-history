@@ -167,7 +167,20 @@ courses:
 
     )'
   type: Semestral
-created_at: '20220701170247'
-digest: QAXSOAC2B4SY664P572JRIVATPKJ5CSH
-updated_at: '20220701170247'
-url: https://web.archive.org/web/20220701170247id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES1202&codcur=11070&codhab=104
+created_at: '20220816194357'
+digest: ZHIXZ4QRJGQ2BONZKRARXCKOFANXD2CX
+requirements:
+- course: 'Curso: 11040  Licenciatura em Ciências Agrárias (noturno) - Período ideal:
+    4'
+  requirements:
+  - code: LES0266
+    name: Política e Organização da Educação Brasileira
+    type: Requisito
+- course: "Curso: 11070  Ciências Biológicas - Habilitação: Licenciatura em Ciências\
+    \ Biológicas \r\n                          (noturno) - Período ideal: 8"
+  requirements:
+  - code: LES0266
+    name: Política e Organização da Educação Brasileira
+    type: Requisito
+updated_at: '20220816194357'
+url: https://web.archive.org/web/20220816194357id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LES1202
