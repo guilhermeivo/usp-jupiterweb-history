@@ -38,12 +38,12 @@ courses:
   total_workload: 15 h
   type: Semestral
 created_at: '20220122205230'
-digest: 2QXHHCIEINV7PUYZGP2OO4Q2HNGXK2K7
+digest: ICZFPV5EH567C4HK5LLWCHKWMZ7UAGHC
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 5'
   requirements:
   - code: VNP3122
     name: Gestão Aplicada para Médicos Veterinários
     type: Indicação de Conjunto
-updated_at: '20220527065709'
-url: https://web.archive.org/web/20220527065709id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3123
+updated_at: '20220816041842'
+url: https://web.archive.org/web/20220816041842id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VNP3123
