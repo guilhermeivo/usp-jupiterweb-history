@@ -111,7 +111,20 @@ courses:
   practical_credits: '8'
   total_workload: 270 h
   type: Semestral
-created_at: '20220120225403'
-digest: KETJVUNFG7AMIACVZI5PQWGG2ERAMXMO
-updated_at: '20220808221927'
-url: https://web.archive.org/web/20220808221927id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0507&codcur=12033&codhab=4
+created_at: '20220927202014'
+digest: RKYSYCXSZWQJZOIIA2Z66RLFMUGW4HLW
+requirements:
+- course: 'Curso: 12033  Bacharelado em Ciências Contábeis (diurno) - Período ideal:
+    8'
+  requirements:
+  - code: EAC0506
+    name: Trabalho de Conclusão do Curso I
+    type: Requisito
+- course: 'Curso: 12033  Bacharelado em Ciências Contábeis (noturno) - Período ideal:
+    8'
+  requirements:
+  - code: EAC0506
+    name: Trabalho de Conclusão do Curso I
+    type: Requisito
+updated_at: '20220927202014'
+url: https://web.archive.org/web/20220927202014id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAC0507
