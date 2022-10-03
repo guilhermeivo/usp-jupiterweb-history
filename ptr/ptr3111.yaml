@@ -78,7 +78,7 @@ courses:
   course_name: 'PTR3111 - Geomática I
 
     Geomatics I'
-  deactivation: ''
+  deactivation: 31/12/2022
   instructors: '103165 - Ana Paula Camargo Larocca
 
     45845 - Denizar Blitzkow
@@ -99,7 +99,7 @@ courses:
   practical_credits: '2'
   total_workload: 120 h
   type: Semestral
-created_at: '20190818211814'
-digest: XN2TW5CGMAPWTQUELQGZ747RVMWBPW52
-updated_at: '20210927121456'
-url: https://web.archive.org/web/20210927121456id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3111&codcur=16011&codhab=100
+created_at: '20221003044144'
+digest: 3TFCG7KGYKEAPKNPW6H56GZYLVDUAAKU
+updated_at: '20221003044144'
+url: https://web.archive.org/web/20221003044144id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3111&nomdis=
