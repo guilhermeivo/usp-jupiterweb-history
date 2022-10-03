@@ -1,0 +1,71 @@
+courses:
+  activation: 01/01/2021
+  assessment: 'A recuperação constará de duas provas a serem realizadas até uma semana
+    antes do término do período de retificação de matrícula (estabelecido anualmente
+    pelo Calendário USP). A média da avaliação final da disciplina entrará no computo
+    da recuperação, sendo: média = média da avaliação final + média da recuperação
+    ÷ 2.'
+  bibliography: "1.\tCarlton WW, McGavin MD Patologia veterinária especial de Thomson.\
+    \ 2ed. Artmed, Porto Alegre, 1998, 672p.\n2.\tGross, TJ, Ihrke, PJ;, Walder, EJ,\
+    \ Affolter, VK Skin diseases of the dog and cat. Clinical amd Histopathologic\
+    \ diagnosis. 2nd Edition. Blackwell Publishing, 2005. 932p.\n3.\tJones, TC, Hunt\
+    \ RD, & King NW Veterinary Pathology. 6ed. Lippincott Williams & Wilkins, Philadelphia,\
+    \ EUA, 1997, 1392p.\n4.\tJones, TC, Hunt RD, & King NW Patologia Veterinária.\
+    \ Tradução 6ed. Editora Manole.\n5.\tJUBB, KV; KENNEDY, PC.; PALMER, N. Pathology\
+    \ of domestic animals. 5.ed. Vols. 1,2 e 3.  2007.\n6.\tMcGavin, MD, Zachary,\
+    \ JF Bases da Patologia Veterinária. Tradução da 5ed. Mosby Elsevier, 2013.\n\
+    7.\tSantos, RL, Alessi, AC Patologia Veterinária. Editora Roca, São Paulo, 2011.\
+    \ 892p."
+  course: 'O ensino das enfermidades terá enfoque na fisiopatologia e aspectos macro
+    e microscópicos dos grandes processos que acometem os diferentes sistemas, bem
+    como especificamente da etiologia e patogenia de processos de importância em medicina
+    veterinária.
+
+    Aulas Teórico-práticas:
+
+    1. Patologia do Sistema Respiratório
+
+    2. Patologia do Sistema Hematopoiético e Linfopoiético
+
+    3. Patologia do Sistema Circulatório
+
+    4. Patologia do Sistema Digestório
+
+    5. Patologia das Glândulas Anexas ao Sistema Digestório
+
+    6. Patologia das Glândulas Endócrinas
+
+    6. Patologia do Sistema Urinário
+
+    7. Patologia do Sistema Genital Feminino e do Sistema Genital Masculino
+
+    8. Patologia do Sistema Nervoso
+
+    9. Patologia do Sistema tegumentar
+
+    10. Doenças causadas por ectoparasitos
+
+    11. Patologia do sistema músculo-esquelético
+
+    12. Patologia do olho e ouvido
+
+    13. Patologia forense.'
+  course_name: 'VPT2202 - Patologia Animal
+
+    Animal Pathology'
+  deactivation: ''
+  instructors: '9128068 - Claudia Momo
+
+    1122119 - Frederico Azevedo da Costa Pinto'
+  lecture_credits: '7'
+  objectives: A disciplina tem o objetivo de proporcionar condições para que o aluno
+    compreenda as respostas teciduais por sistemas e reconheça e descreva as alterações
+    anatomopatológicas que são observadas em maior frequência nos diferentes sistemas
+    e nas diferentes espécies de animais.
+  practical_credits: '0'
+  total_workload: 105 h
+  type: Semestral
+created_at: '20221003060708'
+digest: T2GG2GUN5XDE7G3GEM4E4G7CBT2VMN5E
+updated_at: '20221003060708'
+url: https://web.archive.org/web/20221003060708id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT2202&verdis=2
