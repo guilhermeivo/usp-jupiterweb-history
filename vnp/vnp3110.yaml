@@ -1,0 +1,59 @@
+courses:
+  activation: 01/01/2019
+  assessment: 'A recuperação constará de duas  provas a ser realizada até uma semana
+    antes do término do período de retificação de matrículas (estabelecido anualmente
+    pelo calendário USP). A média da avaliação final da disciplina entrará no computo
+    da recuperação, sendo: Média = média da avaliação final + média da recuperação
+    / 2.'
+  bibliography: 'FONSECA, D.M. e MARTUSCELLO, J.A. Plantas Forrageiras. Editora UFV.
+    2010.
+
+    SILVA, S.C.; NASCIMENTO JUNIOR, D.; EUCLIDES, V.B.P. Pastagens: Conceitos Básicos,
+    Produção e Manejo. Editora: Produção Independente. 2008.
+
+    HUMPHREYS, L. R. Tropical pasture utilization. Cambridge University Press, 1991.
+    206 p.
+
+    PEIXOTO A. M.; MOURA, J. C.; FARIA, V. P. Manejo do Capim Elefante. Piracicaba,
+    FEALQ, 1994. 329p.
+
+    PEIXOTO A. M.; MOURA, J. C.; FARIA, V. P. Produção de bovinos a pasto. Ed: Peixoto,
+    A. M. e outros. Piracicaba, FEALQ, 1997. 352p.
+
+    PEIXOTO A. M.; MOURA, J. C.; FARIA, V. P. Fundamentos do Pastejo Rotacionado.
+    Ed: Peixoto, A. M. e outros. Piracicaba, FEALQ, 1997. 327p
+
+    BARNES, R.F. e outros. The science of grassland agriculture. v.2 -, Ames, Iowa,
+    USA : Iowa State University Press, 1995.
+
+    GOMIDE, J.A.  Anais do simpósio internacional sobre produção animal em pastejo
+    Viçosa : UFV, 1997.
+
+    HODGSON, J. Grazing management: science into practice / Burnt Mill, Harlow, Essex,
+    England; New York : Longman Scientific & Technical: Wiley, 1990, 203p.
+
+    HODGSON, J.; ILLIUS, A.W. The ecology and management of grazing systems, Wallingford,
+    Oxon, UK : CAB International, 1996, 466 p.'
+  course: "Teóricos:\n•\tImportância das pastagens para a pecuária.\n•\tAnatomia e\
+    \ fisiologia de plantas forrageiras.\n•\tPrincípios do manejo de plantas forrageiras\
+    \ tropicais.\n•\tManejo de cultivares de Panicum e Pennisetum.\n•\tAspectos de\
+    \ adubação de plantas forrageiras.\n•\tIrrigação de pastagens.\n•\tManejo intensivo\
+    \ da Brachiaria e Cynodon.\n•\tVolumosos suplementares.\nPrático:\n•\tReconhecimento\
+    \ de espécies forrageiras.\n•\tOrçamentação forrageira."
+  course_name: 'VNP3110 - Agrostologia
+
+    Forages'
+  deactivation: ''
+  instructors: 3076741 - Francisco Palma Rennó
+  lecture_credits: '2'
+  objectives: "O programa a ser desenvolvido tem como objetivo tornar o aluno capacitado\
+    \ a:\n1)\tEntender os fundamentos de estabelecimento e manejo de pastagens tropicais\
+    \ visando à alimentação animal,\n2)\tReconhecer os principais gêneros e espécies\
+    \ de plantas forrageiras tropicais."
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20221003045403'
+digest: FRKSUUVSAHEZAPOOX4EI4O7ML3MVGLRU
+updated_at: '20221003045403'
+url: https://web.archive.org/web/20221003045403id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3110
