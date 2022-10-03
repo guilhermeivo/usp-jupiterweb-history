@@ -1,0 +1,80 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'A recuperação constará de duas provas a serem realizadas até uma semana
+    antes do término do período de retificação de matrícula (estabelecido anualmente
+    pelo Calendário USP). A média da avaliação final da disciplina entrará no computo
+    da recuperação, sendo: média = média da avaliação final + média da recuperação
+    ÷ 2'
+  bibliography: 'Palermo-Neto, J.; Spinosa, H.S.; Gómiak, S.L. Farmacologia Aplicada
+    à Avicultura: boas práticas no manejo de medicamentos. Roca Ed. l" Edição, 2005.
+
+    Riviere, I.E.; Papich, M.G. Veterinary pharmacology & therapeutics. 10 ed. Ames,
+    Blackwell, 2018.
+
+    Spinosa, H.S.; Palermo-Neto, J.; Gómiak, S.L. Medicamentos em Animais de produção.
+    Grupo Gen (ROCA) Ia Edição, 2014.
+
+    Spinosa, H.S.; Gómiak, S.L.; Bemardi, M.M. Farmacologia Aplicada à Medicina Veterinária.
+    6 ed. Guanabara Koogan, Y Edição, 2017.
+
+    As demais bibliografias serão fornecidas durante as aulas.'
+  course: 'Aulas teóricas expositivas dialogadas:
+
+    1. Panorama nacional e internacional sobre o uso de medicamentos em animais de
+    produção.
+
+    2. Relevância dos estudos de farmacocinética em animais de produção.
+
+    3. Tipos de medicação em animais de produção.
+
+    4. Aditivos zootécnicos: digestivos, equilibradores da flora e melhoradores do
+    desempenho zootécnico.
+
+    5. Medicamentos usados terapêutica e metafilaticamente.
+
+    6. O Codex alimentarius e a qualidade dos alimentos de origem animal: análises
+    de risco de resíduos de medicamentos veterinários;
+
+    7. Legislação brasileira para registro de medicamentos veterinários.
+
+    8. Legislação internacional relativa ao uso de medicamentos veterinários: a OMC
+    e o comércio internacional de alimentos.
+
+    Seminários e Discussões em grupos.
+
+    1. Resistência bacteriana e uso de antimicrobianos em animais de produção.
+
+    2. Cálculo do período de carência para medicamentos veterinários e aditivos de
+    uso em animais de produção.
+
+    3. Protocolos para estudos de eficácia e segurança de medicamentos veterinários
+    de uso em animais de produção.
+
+    4. Os padrões de referência para segurança de medicamentos veterinários do Codex
+    alimentarius, da EMA (European Medical Agency), do FDA (US Food and Drug Administration)
+    e de outros organismos internacionais.
+
+    5. Normas para registro de medicamentos Veterinários no MAPA'
+  course_name: 'VPT4102 - Medicamentos em Animais de Produção
+
+    Drugs in food animals'
+  deactivation: ''
+  instructors: '70486 - Helenice de Souza Spinosa
+
+    91736 - Silvana Lima Gorniak'
+  lecture_credits: '2'
+  objectives: Contribuir para a formação de profissionais ligados à área de animais
+    de produção para os quais o conhecimento e o desenvolvimento de habilidades e
+    do raciocínio na área de Farmacologia e Toxicologia são fundamentais para a manutenção
+    da saúde dos animais, da qualidade dos alimentos deles derivados e, via de consequência,
+    da saúde pública (do consumidor). Pretende-se, também, contribuir para o entendimento
+    e avaliação crítica das legislações nacionais (MAPA, ANVISA) e internacionais
+    (Codex alimentarius, FAO/OMS, European Medical Agency - EMA, United States Food
+    and Drug Administration - FDA) ligadas ao tema.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20221003045556'
+digest: YAAJ3MPM3KREVXWN7M6N2XYK6XLERUTN
+updated_at: '20221003045556'
+url: https://web.archive.org/web/20221003045556id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT4102&codcur=10012&codhab=0
