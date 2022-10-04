@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2017
+  activation: 01/01/2022
   assessment: "1(uma) prova a ser realizada dentro do período estabelecido pela universidade\
     \ e/ou unidade.\nCálculo da Média Final (aluno que ficou em recuperação):\nMF\
     \ = (NF + NR) / 2\nOnde: \tMF = Média Final (após a recuperação)\nNR = Nota da\
@@ -41,8 +41,8 @@ courses:
   course_name: 'PTR3311 - Geomática II
 
     Geomatics II'
-  deactivation: ''
-  instructors: 60849 - Jose Alberto Quintanilha
+  deactivation: 31/12/2022
+  instructors: 1351435 - Mariana Abrantes Giannotti
   lecture_credits: '2'
   objectives: 'Fornecer conceitos fundamentais de Geoprocessamento, incluindo o Sensoriamento
     Remoto, a Modelagem Digital do Terreno, os Sistemas de Informações Geográficas
@@ -54,7 +54,7 @@ courses:
   practical_credits: '1'
   total_workload: 60 h
   type: Semestral
-created_at: '20190818222003'
-digest: WUJKLDNRLMGTFBAOHCNNYZHLRK4CZRTP
-updated_at: '20191019005726'
-url: https://web.archive.org/web/20191019005726id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3311&nomdis=
+created_at: '20221004044829'
+digest: ES4SZ4UIMENKGOZDWUL34OYA2Z74F73A
+updated_at: '20221004044829'
+url: https://web.archive.org/web/20221004044829id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3311&nomdis=
