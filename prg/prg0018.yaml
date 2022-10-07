@@ -32,7 +32,7 @@ courses:
   course_name: 'PRG0018 - Processamento de Linguagem Natural
 
     Natural Language Processing'
-  deactivation: ''
+  deactivation: 31/12/2022
   instructors: 3761610 - Thiago Alexandre Salgueiro Pardo
   lecture_credits: '2'
   objectives: 'A disciplina visa introduzir o aluno à área de Processamento de Linguagem
@@ -66,7 +66,7 @@ courses:
   practical_credits: '1'
   total_workload: 60 h
   type: Semestral
-created_at: '20211012134936'
-digest: 6KTOFTWAOQF2RMITPJXYFCFMADLPSSF4
-updated_at: '20220528142041'
-url: https://web.archive.org/web/20220528142041id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PRG0018&codcur=1020&codhab=0
+created_at: '20221007002257'
+digest: VWNOZ2Y7N2KLJMNYB4LMWCASSXMCG7R7
+updated_at: '20221007002257'
+url: https://web.archive.org/web/20221007002257id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PRG0018&codcur=1020&codhab=0
