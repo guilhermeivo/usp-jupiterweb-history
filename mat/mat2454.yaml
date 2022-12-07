@@ -24,7 +24,108 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20160830001141'
-digest: P5W65HUEB6OKXL5F5JJZFZMAXN4PMBHQ
-updated_at: '20221004025135'
-url: https://web.archive.org/web/20221004025135id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT2454&codcur=3056&codhab=3000
+created_at: '20221207004340'
+digest: 2KS3JM3GO3MT6LCKW7PTVY7JHJGVYTV3
+requirements:
+- course: "Curso: 3011  Engenharia - Habilitação: Engenharia - Ciclo Básico \r\n \
+    \                         (integral) - Período ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: "Curso: 3022  Engenharia - Habilitação: Ciclo Básico - Civil / Ambiental\
+    \ \r\n                          (integral) - Período ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: "Curso: 3022  Engenharia - Habilitação: Habilitação: Engenharia Civil \r\
+    \n                          (integral) - Período ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: "Curso: 3032  Engenharia - Habilitação: Ciclo Básico - Engenharia Elétrica\
+    \ \r\n                          (integral) - Período ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: "Curso: 3044  Engenharia - Habilitação: Habilitação: Engenharia Mecânica\
+    \ \r\n                          (integral) - Período ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: "Curso: 3052  Engenharia - Habilitação: Habilitação: Engenharia de Minas\
+    \ \r\n                          (integral) - Período ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: "Curso: 3056  Engenharia - Habilitação: Habilitação: Engenharia de Petróleo\
+    \ \r\n                          (integral) - Período ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: "Curso: 3072  Engenharia - Habilitação: Habilitação: Engenharia Naval \r\
+    \n                          (integral) - Período ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: "Curso: 3083  Engenharia - Habilitação: Habilitação: Engenharia de Produção\
+    \ \r\n                          (integral) - Período ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: "Curso: 3092  Engenharia - Habilitação: Habilitação: Engenharia Química\
+    \ \r\n                          (integral) - Período ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: "Curso: 3112  Engenharia - Habilitação: Habilitação: Engenharia Mecatrônica\
+    \ \r\n                          (integral) - Período ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: "Curso: 3122  Engenharia - Habilitação: Habilitação: Engenharia de Computação\
+    \ \r\n                          (integral) - Período ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: "Curso: 3151  Engenharia - Habilitação: Habilitação: Engenharia Ambiental\
+    \ \r\n                          (integral) - Período ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: "Curso: 3170  Engenharia - Habilitação: Habilitação: Engenharia de Computação\
+    \ - Ênfase Sistemas Corporativos \r\n                          (integral) - Período\
+    \ ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: "Curso: 3200  Engenharia - Habilitação: Ciclo Básico - Materiais/Metalúrgica/Nuclear\
+    \ \r\n                          (integral) - Período ideal: 2"
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito fraco
+- course: 'Curso: 45052  Bacharelado em Ciência da Computação (diurno) - Período ideal:
+    2'
+  requirements:
+  - code: MAT2453
+    name: Cálculo Diferencial e Integral I
+    type: Requisito
+updated_at: '20221207004340'
+url: https://web.archive.org/web/20221207004340id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=MAT2454
