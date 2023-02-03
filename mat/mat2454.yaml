@@ -25,7 +25,7 @@ courses:
   total_workload: 60 h
   type: Semestral
 created_at: '20221207004340'
-digest: 2KS3JM3GO3MT6LCKW7PTVY7JHJGVYTV3
+digest: RADYMMIZ7WSAAW2VTCV6HCA4ATKH2TMJ
 requirements:
 - course: "Curso: 3011  Engenharia - Habilitação: Engenharia - Ciclo Básico \r\n \
     \                         (integral) - Período ideal: 2"
@@ -127,5 +127,5 @@ requirements:
   - code: MAT2453
     name: Cálculo Diferencial e Integral I
     type: Requisito
-updated_at: '20221207004340'
-url: https://web.archive.org/web/20221207004340id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=MAT2454
+updated_at: '20230203132500'
+url: https://web.archive.org/web/20230203132500id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT2454&codcur=3092&codhab=3000
