@@ -1,5 +1,5 @@
 courses:
-  activation: 15/07/2021
+  activation: 01/01/2023
   assessment: Não será oferecida recuperação.
   bibliography: '. Jurafsky, D. and Martin, J.H. (2008). Speech and Language Processing:
     An Introduction to Natural Language Processing, Computational Linguistics and
@@ -28,45 +28,32 @@ courses:
     PLN.
 
     Apresentação de tópicos relevantes atuais de PLN, assim como modelos e métodos
-    associados.'
+    associados.
+
+    A disciplina será oferecida de forma remota e síncrona, utilizando como base as
+    plataformas e-Disciplinas e e-Aulas da USP.'
   course_name: 'PRG0018 - Processamento de Linguagem Natural
 
     Natural Language Processing'
-  deactivation: 31/12/2022
+  deactivation: ''
   instructors: 3761610 - Thiago Alexandre Salgueiro Pardo
   lecture_credits: '2'
-  objectives: 'A disciplina visa introduzir o aluno à área de Processamento de Linguagem
-    Natural (PLN), ramo
-
-    de pesquisa da Inteligência Artificial que visa habilitar a máquina a lidar com
-    as línguas humanas
-
-    e ser capaz de realizar tarefas como tradução automática, revisão ortográfica
-    e gramatical,
-
-    perguntas e respostas, sumarização automática, simplificação textual e análise
-    de sentimentos,
-
-    entre muitas outras. Ao final da disciplina, o aluno deverá ter uma visão geral
-    da área e de seus
-
-    recursos, ferramentas e aplicações, dominando seus conceitos básicos, conhecendo
-    sua história
-
-    e tendo contato com alguns tópicos relevantes atuais, de forma que possa agregar
-    esses
-
-    conhecimentos e habilidades a suas competências e adquirindo noções que auxiliem
-    em sua
-
-    atuação na área. Para cursar a disciplina, habilidades computacionais básicas
-    são desejadas, mas
-
-    não necessárias, uma vez que a disciplina tem caráter introdutório e generalista.'
+  objectives: A disciplina visa introduzir o aluno à área de Processamento de Linguagem
+    Natural (PLN), ramo de pesquisa da Inteligência Artificial que visa habilitar
+    a máquina a lidar com as línguas humanas e ser capaz de realizar tarefas como
+    tradução automática, revisão ortográfica e gramatical, perguntas e respostas,
+    sumarização automática, simplificação textual e análise de sentimentos, entre
+    muitas outras. Ao final da disciplina, o aluno deverá ter uma visão geral da área
+    e de seus recursos, ferramentas e aplicações, dominando seus conceitos básicos,
+    conhecendo sua história e tendo contato com alguns tópicos relevantes atuais,
+    de forma que possa agregar esses conhecimentos e habilidades a suas competências
+    e adquirindo noções que auxiliem em sua atuação na área. Para cursar a disciplina,
+    habilidades computacionais básicas são desejadas, mas não necessárias, uma vez
+    que a disciplina tem caráter introdutório e generalista.
   practical_credits: '1'
   total_workload: 60 h
   type: Semestral
-created_at: '20221007002257'
-digest: VWNOZ2Y7N2KLJMNYB4LMWCASSXMCG7R7
-updated_at: '20221007002257'
-url: https://web.archive.org/web/20221007002257id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PRG0018&codcur=1020&codhab=0
+created_at: '20230204062539'
+digest: U24GPVJRCRUKANG7UWV3WHZWZ5NVRTXW
+updated_at: '20230204062539'
+url: https://web.archive.org/web/20230204062539id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PRG0018&codcur=1020&codhab=0
