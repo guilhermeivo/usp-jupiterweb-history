@@ -1,0 +1,45 @@
+courses:
+  activation: 01/01/2008
+  assessment: "Os critérios de avaliação da recuperação devem ser similares aos aplicados\
+    \ durante o semestre regular do oferecimento da disciplina;\n1)\tA nota final\
+    \ (MF) do aluno que realizou provas de recuperação dependerá da média do semestre\
+    \ (MS) e da média das provas de recuperação (MR), como segue:\nd)\tMF=5 se 5 ≤MR\
+    \ ≤ (10 - MS);\ne)\tMF = (MS + MR) / 2 se MR > (10 \x96 MS)\nf)\tMF = MS se MR\
+    \ < 5.\n2)\tO período de recuperação das disciplinas deve se estender do início\
+    \ até um mês antes do final do semestre subsequente ao da reprovação do aluno\
+    \ em primeira avaliação."
+  bibliography: 'INVERSIN, A.R. - Micro-Hydropower Sourcebook, NRECA International
+    Foundation, Washington, USA, 1990.
+
+    MACINTYRE, A.J. - Bombas e Instalações de Bombeamento, Guanabara Dois, Rio de
+    Janeiro, 1990.
+
+    MACINTYRE, A.J. - Máquinas Motrizes Hidráulicas. Guanabara Dois, Rio de Janeiro,
+    1983.
+
+    MAUAD, F.F. - Aproveitamento Hidroelétricos, EESC, São Carlos, 2001.
+
+    PFLEIDERER, C. e PETERMANN, H. - Máquinas de Fluxo. Livro Técnico e Científico.
+    Rio de Janeiro, 1979, Tradução Souza, Z. et. all.
+
+    ROMA, W.N.L. - Introdução às Máquinas Hidráulicas, EESC, São Carlos, 2001.'
+  course: Bombas hidráulicas de fluxo. Coeficientes adimensionais, curvas características.
+    Escolha de uma bomba. Rotação específica. Tubulações. Anteprojeto de uma estação
+    elevatória - semelhança hidrodinâmica aplicada às bombas hidráulicas. Associações
+    de bomba. Turbinas hidráulicas, noções de aproveitamentos hidroelétricos. Escolha
+    de uma turbina hidráulica. Modelos reduzidos. Cavitação.
+  course_name: 'SHS0103 - Máquinas Hidráulicas
+
+    Hydraulic Machines'
+  deactivation: ''
+  instructors: 2782466 - Frederico Fabio Mauad
+  lecture_credits: '4'
+  objectives: Conhecimentos básicos para o ante projeto de máquinas, bem como conhecimentos
+    gerais para especificação de bombeamento, ventilação e turbinas.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20230208113202'
+digest: NRTCF2VJJ3KXMJVJ5YXIP2JEOE7PBJZX
+updated_at: '20230208113202'
+url: https://web.archive.org/web/20230208113202id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SHS0103&codcur=18062&codhab=200
