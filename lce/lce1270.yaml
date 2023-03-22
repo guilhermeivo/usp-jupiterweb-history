@@ -1,80 +1,139 @@
 courses:
-  activation: 01/01/2020
+  activation: 01/01/2023
   assessment: Será feita sob a forma de uma prova com duas horas de duração, aplicada
     após o término das aulas, em época determinada pela USP. A média final será a
     média aritmética entre a nota desta prova e a média obtida no semestre.
-  bibliography: 'AZEVEDO FILHO, A. J. B.V. .Princípios de Inferência Dedutiva e Indutiva:
-    Noções de Lógica e Métodos de Prova. 1/1. ed. Scotts Valley, EUA: CreateSpace
-    Publishers, 2010. v. 1. 140p .
+  bibliography: 'Literatura Básica:
 
-    BARBOSA L. P.;MORAES W. F. A. Estratégias em Ambientes Hipercompetitivos: O Caso
-    da Indústria Brasileira de Embalagens para Cervejas e Refrigerantes. 2016. Disponível
-    em:< http://www.anpad.org.br/admin/pdf/enanpad2001-eso-276.pdf>. Acesso em: 20/02/2019.
+    ALCOFORADO, L. F. Utilizando a linguagem R: conceitos, manipulação, visualização,
+    modelagem e elaboração de relatórios. Editora Alta Books, São Paulo. 2021. 384p.
 
-    COELHO A. C. As 7 tendências para o uso de inteligência artificial no Direito
-    em 2018. Thomson Reuters The AnswerCompany. 2018. Disponível em:
+    AZEVEDO FILHO, A. J. B.V. . Princípios de Inferência Dedutiva e Indutiva: Noções
+    de Lógica e Métodos de Prova. 1/1. ed. Scotts Valley, EUA: CreateSpace Publishers,
+    2010. v. 1. 140p.
 
-    Acesso em: 21/2/2019.
+    MICROSOFT. Office Online. Janeiro 2010. <http://office.microsoft.com/en-us/training/CR061829401033.aspx>
 
-    CURY R. G.; SERAFIM J. S. A Formação em Ciência de Dados: Uma Analise Preliminar
-    do Panorama Estadunidense.  DOI: 10.5433/1981-8920.2016v21n2p307. 2016. Disponível
-    em
+    MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e Lógica de
+    Programação Para Iniciantes, 3a ed, 2019.
 
-    . Acesso em: 20/02/2019.
+    MONDEN, Y. Toyota Management System: Linking the Seven Key Functional Areas. Kindle,
+    USA. 2018. 435p.
 
-    GALDINO N. Big Data: Ferramentas e Aplicabilidade. IESSA. 2016. Disponível em:
+    SARRIÉS, G.A. Site da Disciplina LCE 1270, 1998. Disponível em:
 
-    .  Acesso em: 20/2/2019.
+    . Acesso em: 15/2/2022.
 
-    GOVERNO FEDERAL. Agenda brasileira para a Indústria 4.0 – O Brasil Preparado para
-    os Desafios do Futuro. Ministério da Industria Comercio e Serviços. Disponível
-    em: < http://www.industria40.gov.br/>. Acesso em: 20/02/2019.
+    SARRIÉS, G.A. Blog da Disciplina LCE 1270, 2002. Disponível em < https://gest-certif-estat-lce1270.blogspot.com/
+    >. Acesso em: 15/2/2022.
 
-    HEKIMA. O guia definitivo de Big Data para iniciantes.  Big Data Business. 2019.
-    Disponível em: < http://www.mettodo.com.br/ebooks/O_guia_definitivo_de_Big_Data_para_iniciantes.pdf
-    >Acesso em: 21/2/2019.
+    SARRIÉS, G.A. Projeto Inteligência Artificial, Ciência de Dados e Robótica Aplicada.
+    2021. Disponível em < https://sites.google.com/usp.br/ia-cd-ra-gestao-gabriel
+    >. Acesso em: 15/2/2022.
 
-    INTEL IT CENTER. Introdução à Big Data. Guia de Planejamento. 2014. Disponível
-    em:
+    SARRIÉS, G.A. Gabriel Informação e Inteligência Organizacional (BI). Gabriel-Informa-intel-
 
-    . Acesso em: 20/02/2019.
+    organiza.blogspot.com.br. 2015.
 
-    OVANESSOFFA.; PLASTINO E. Como a Inteligência Artificial pode Acelerar o Crescimento
-    de América do Sul. 2018. Disponível em: https://www.accenture.com/t20170927T065936Z__w__/us-en/_acnmedia/PDF-50/Accenture-Como-a-inteligencia-artificial-acelero-crescimento-da-america-do-sul.pdf.  Acesso
-    em: 20/02/2019.
+    TURBAN, E. & RAINER, R. K. & PORTTER, R. E. Introdução a Sistemas de Informação
+    uma Abordagem Gerencial. São Paulo: Editora Campus. 2007, 457p.
 
-    SANTOS R. Introdução à Mineração de Dados com Aplicações em Ciências Ambientais
-    e Espaciais. LAC-INPE.2012. Disponível em:
+    Literatura Complementar:
 
-    . Acesso em: 20/02/2019.
+    ISHIKAWA, K. Guide to quality control. Tokyo: Kraus Asian Productivity Organization,
+    1982. 221p.
 
-    TEIXEIRA T.M.C. Uma Reflexão Teórica Sobre a Subjetividade da Informação.  Perspectivas
-    em: Ciência da Informação, v.22, n.4, p.82-97, out./dez. 2017. Disponível em:
+    JURAN, J.M.; GRYNA, F.M. Juran controle da qualidade: métodos especiais de apoio
+    à qualidade. São Paulo: Makron Books, 1993. 193p.
 
-    . Acesso em: 20/02/2019.
+    LIKER, K. & MEIER D. O Modelo Toyota, Manual de Aplicação. Porto Alegre: Bookman,
+    2007. 432p.
 
-    VON ZUBEN F. Introdução à Inteligência Artificial. DCA/FEEC/Unicamp. 2017. Disponível
-    em:
+    SARRIÉS, G.A. Treinamentos em Inteligência Artificial, Ciência de Dados e Robótica
+    Aplicada. 2021. Disponível em < https://sites.google.com/view/ia-cd-treinamentos-usp-gabriel>.
+    Acesso em: 15/2/2022.
 
-    . Acesso em: 20/02/2019.'
-  course: 'Inteligência Artificial (IA): conceito, algoritmos: Rain Forest, Support
-    Vector Machine, NaiveBayes, E Clasification e RegressionTree. Aplicações em gestão,
-    engenharia, biologia, ambiência, economia, gestão de negócios e pesquisa.Aprendizado
-    de máquina e redes neurais, comparação de resultados com métodos estatísticos
-    convencionais, linguagens R, Python, SAS e outras. Noções introdutórias: Regressão
-    Logística, MANOVA, NPMANOVA, Funções Canônicas, DiscriminanteNP. Aplicação de
-    IA,Big Data VsSmall Data, trade off,  Big Data (petabytes, noções de Ferramentas:
-    Inteligência Artificial, Machine Learning, Redes Neurais, HDFS, YARN, Hadoop,
-    MAP REDUCE, etc. para desenvolver produtos hipercompetitivos) Small Data (terabytes,
-    noções de Ferramentas: Inteligência Artificial, Machine Learning, Redes Neurais,
-    testes de hipóteses, métodos robustos, multivariados, univariados, paramétricos,
-    etc., para decisões internas das organizações, acabamento dos produtos hipercompetitivos,
-    etc.)  e Tecnologias de Gestão  (como LeanSartup_Amazom, TQM_Toyota-Porsche-GE,
-    ISO-9001-14001-22000-27000-17025,etc.GlobalGAP, BSC, PNQ,PPQ, EQA,  6 Sigma, Malcolm
-    Baldrige, Deming Prize,LeanCanvas, QFD, FMEA/FTA, RCA,   etc.)  na Industria,
-    Serviços Marketing e Fazenda  4.0 Visando Hipercompetitividade.'
-  course_name: 'LCE1270 - Inteligência Artificial, Big-Small Data e Gestão para Indústria,
-    Serviços e Fazenda  4.0
+    SARRIÉS, G.A. Workshops em Inteligência Artificial, Ciência de Dados e Robótica
+    Aplicada. 2021. Disponível em < https://sites.google.com/usp.br/melhorar-empregab-competit
+    >. Acesso em: 15/2/2022.
+
+    SARRIÉS, G.A. Site da Disciplina de Pós-graduação. LCE 5736. 2002. Disponível
+    em < https://sites.google.com/view/lce5736-usp-sarries >. Acesso em: 15/2/2022.
+
+    SARRIÉS, G.A.; VICINO, S.R.; LAY REYES, A.E. Qualidade Total e Certificação Internacional
+    da Qualidade em Internet. Introdução ao Controle Estatístico da Qualidade: Controle
+    de Qualidade Usando o Excel. In: ESALQ (on line). Piracicaba: ESALQ, CIAGRI, Janeiro
+    2015. Available from World Wide Web: http://www.esalq.usp.br/qualidade.
+
+    SARRIÉS, G.A. Benchmarking na Agricultura. In: ESALQ (on line). Piracicaba: ESALQ.
+    CIAGRI, Janeiro 2015. Available from world wide web: http://www.esalq.usp.br/bentevi
+
+    TIPS TRAINING AND CONSULTING. Excel tip.com, janeiro 2010. Available from World
+    Wide Web: <http://www.exceltip.com>'
+  course: 'A) Conceituação, tipos e aplicações da Inteligência Artificial (IA), RA
+    (Robótica Aplicada) e CDR (Ciência de Dados Robusta): indutiva, supervisionada
+    para classificação, para predição e não supervisionada B) Algoritmos para inteligência
+    artificial indutiva e dedutiva, implementações em Python (IDEs: Jupyter, VS Code,
+    Pycharm e Spyder Python IDE), SAS, R, Weka, RapidMiner e JMP, os alunos aprenderão
+    a utilizar Weka, programa exclusivamente de IA, visual, amigo do usuário, SAS
+    o mais importante para empregabilidade, linguagem de quarta geração. Também R,
+    Python (a linguagem de terceira geração mais importante para IA e RA) e Excel
+    Avançado. Serão apresentadas linguagens de computação de alto e baixo nível, de
+    primeira até quinta geração. Os algoritmos de IA Indutiva, Machine Learning que
+    serão ensinadas são: Redes Neurais (Multilayer Perceptron) com diferente número
+    de camadas de neurônios, hiper parâmetros e funções de inicialização, Random Forest,
+    Suport Vector Machine, Naives Bayes, CART, Deep Learning, Função Logística, Analise
+    Discriminante Linear, Quadrático, Bayesiano e Robusto, Funções Canônicas 1D, 2D
+    e 3D (redução de dimensão), PCA e Biplot, Cluster Analysis, Factor Analysis Exploratório,
+    Confirmatório e Equação de Modelos Estruturais. Visual Analytics. C) Parâmetros
+    da IA, hiper parâmetros e funções de inicialização, learning rate, momentum etc.
+    Parâmetros provenientes da Matriz de Confusão: Taxa de Acerto-Acuracy, Erro Tipo
+    I e II, Taxa de Falsos Positivos e Negativos, Especificidade, Sensibilidade (recall),
+    Taxa de Omissão, Precisão, F1Score, FDR, Predição Negativa, tamanho ótimo de amostra
+    para IA Indutiva, Índice de Generalização, Overfiting etc. Publicações dos professores
+    da disciplina utilizando os conceitos na ESALQ e CENA.  D) CDR univarida, multivariada,
+    conjoint analysis (fatoriais fracionários), interação dupla e tríplice, regressão
+    robusta e polinomial, uniformidade e capacidade de processos uniformidade e capacidade
+    de processos, U de Mann Witney, Wilcoxon, NPANOVA, NPMANOVA, Correlações Canônicas,  Robust
+    Multivariate Regression, Gráfico de Uniformidade-Controle para a Mediana, Cusum,
+    MMEP, Gráficos de Capacidade de Processos Robustos, uni e multivariados, Proficiência
+    de Organizações, Metrologia, métodos robustos, Power BI, Power BI Desktop, SAP
+    Lumira, Tableau e Data-Driven Documents, edição vetorial de gráficos: Gimp e InkScape.
+    E) Robótica Aplicada, conceito de robô (ISO 8373), tipos de robôs, tipos de inteligência
+    artificial embarcada num robô: Dedutiva, Indutiva-Supervisionada para Classificação
+    e para Predição e Não Supervisionada. Etapas do desenvolvimento dos robôs: analise,
+    projeto, prototipação, codificação, testes e documentação de robôs e aplicativos
+    para pc, tablet e celular linguagens Python e C, comparação em custo, desempenho
+    e segurança de aplicativos e robôs, bots financeiros e para Blockchain. Digrama
+    de Nassi Schneiderman, Diagrama Hierárquico de Blocos, DFD, Diagrama Entidade
+    Relacionamento, simulação computacional, Bootstrapping e Jackknife, Monte Carlo,
+    . Robôs elaborados pela equipe de IA-CDR e RA da ESALQ e CENA. F) IA – RA e CDR
+    para Segurança da Informação, Família ISO 27.000 (ISO 27001 a 27018), 5 Pilares
+    da Segurança da Informação: Integridade, Confidencialidade, Disponibilidade, Autenticidade
+    e Irretratabilidade, Sistema Integrado de Certificação ISO 9001, 27001 e 14001.
+    IA-RA e CDR para Prevenir Sequestro de Informação, Ransomware  .G) Bancos de Dados
+    SQL, relacionais e não relacionais (Oracle, My SQL, SAS, Access, Livre Office
+    etc.), Não SQL: Redis, Cassandra, Amazon Dynamodb e Mondodb. Fermentas para implementação,
+    pesquisa e análise de Bancos de Dados. H) Big Data, Small Data, Machine Learning,
+    Text Mining (Iramutec-R), interpretação de linguagem natural (Python) e RA para
+    armazenamento e processamento de dados distribuídos, rede de supercomputadores
+    da Google, Oracle e SAS. I) Trade off IA-CDR e RA, funcionamento para Small e
+    Big Data. J) IA-RA e CDR para FEMEA/FTA, Shewhart, RCA, QFD, 7 Ferramentas da
+    Gestão de Kaoru Ishikawa e 7 Ferramentas da Gestão, Inbound Marketing, implementações
+    em Weka, Python, Rapidminer, Planer. K) Elaboração de Site, blog e GitHub, Blogger,
+    Sites Google e Logical Awesome LLC, linkagem de imagenes, vídeos e áudios, edição
+    de vídeos: Blender e HitFilm. L) IA-CDR e RA para sistemas de gestão: Toyota,
+    Toyota 4.0, Porsche, Mercedes Benz, BSC (MIT e Harvard), OKR (Microsoft e Intel),
+    BS 25.999 (plano de continuidade do negócio e informação), Lean Six Sigma (GE),
+    Lean Startup (Uber, Amazon e Facebook) e Lean Canvas. Macroprocessos e mais de
+    90 ferramentas de gestão. Testes de proficiência em organizações. Sistemas implantados
+    pelos professores da disciplina, Biblioteca Central da ESALQ, LRi/CENA e outras
+    organizações, projetos com mais de 28 anos de funcionamento ininterrupto. M) Organizações
+    com Gestão 4.0 e 5.0 e Projetos Data Driven. M) Hierinovação Disruptiva e Radical
+    e Hipercopetitividade.'
+  course_name: 'LCE1270 - Inteligência Artificial, Ciência de Dados e Robótica Aplicada
+    para Hiperinovação e Hipercompetitividade em Organizações 4.0 e 5.0 e Projetos
+    Data Driven
 
     Artificial Intelligence, Big-Small Data and Management for Industry, Services
     and Farm 4.0'
@@ -85,14 +144,14 @@ courses:
 
     2688982 - Gabriel Adrian Sarries'
   lecture_credits: '4'
-  objectives: Desenvolver no aluno senso crítico em Inteligência Artificial, Big-Small
-    Data e Gestão para Indústria, Serviços Marketing, Economia e Fazenda 4.0, buscando
-    aumentar significativamente sua empregabilidade e competitividade quando ingressar
-    no mercado de trabalho.
+  objectives: Preparar os alunos para os desafios do mundo digital, a inteligência
+    artificial e robótica eletrônica (bots) aplicadas, ciência da dados robusta, hiperinovação,
+    disruptiva e radical, e hipercompetitividade em organizações com sistemas de gestão
+    4.0 e 5.0 e projetos data driven.
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20200927174955'
-digest: AEWKBLR276GHN5RUA337JLE6ZYOXTLUN
-updated_at: '20220805214749'
-url: https://web.archive.org/web/20220805214749id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE1270&codcur=11080&codhab=4
+created_at: '20230322093619'
+digest: TP6KL7BSALA3KXNKYXQ4NR45GGY3C6AS
+updated_at: '20230322093619'
+url: https://web.archive.org/web/20230322093619id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE1270&codcur=11070&codhab=4
