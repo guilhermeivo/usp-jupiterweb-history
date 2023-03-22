@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2019
+  activation: 01/01/2023
   assessment: A recuperação dos alunos será efetuada mediante prova, com data e horário
     a serem marcados.
   bibliography: 'CHANG, R; GOLDSBY, K.A. Química, 11ª. Edição, McGRAW HILL, 2013.
@@ -33,13 +33,7 @@ courses:
 
     Chemistry'
   deactivation: ''
-  instructors: '2151308 - Marcelo Eduardo Alves
-
-    5280826 - Marcos Yassuo Kamogawa
-
-    1882809 - Simone Possedente de Lira
-
-    4860481 - Wanessa Melchert Mattos'
+  instructors: 5280826 - Marcos Yassuo Kamogawa
   lecture_credits: '4'
   objectives: Fornecer conhecimentos básicos teóricos e práticos de Química para que
     os alunos possam cursar diversas disciplinas do curso de Agrobiologia, que fazem
@@ -47,7 +41,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20210928051644'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20220803124412'
-url: https://web.archive.org/web/20220803124412id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0118&codcur=11070&codhab=4
+created_at: '20230322083641'
+digest: N5QPIWHNOEFME72J73IXRTDS5Y7ZIDDR
+updated_at: '20230322083641'
+url: https://web.archive.org/web/20230322083641id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0118&codcur=11070&codhab=4
