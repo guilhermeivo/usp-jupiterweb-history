@@ -1,47 +1,52 @@
 courses:
-  activation: 01/01/2019
-  assessment: 'A recuperação constará de duas provas sendo que a média da avaliação
-    final da disciplina entrará no computo da recuperação. Desta maneira, a média
-    final, após a recuperação, constará: média da avaliação final + média da recuperação
-    ÷ 2'
+  activation: 01/01/2023
+  assessment: A recuperação constará de novo projeto final, contemplando 100% dos
+    pontos oferecidos.
   bibliography: 'https://support.office.com/en-us/excel
-
-    Korpelainen, E., Tuimala, J., Somervuo, P., Huss, M., Wong, G. (2015). RNA-seq
-    Data Analysis. New York: Chapman and Hall/CRC.
 
     Gondro, C. (2015). Primer to Analysis of Genomic Data Using R. Springer International
     Publishing
 
-    https://cran.r-project.org/web/packages/neuralnet/neuralnet.pdf
+    R Development Core Team (2008). R: A language and environment for statistical
+    computing.
 
-    R Development Core Team (2008). R: A language and environment for
+    R Foundation for Statistical Computing, Vienna, Austria. ISBN 3-900051-07-0, URL
+    http://www.R-project.org.
 
-    statistical computing. R Foundation for Statistical Computing,
+    R for Dummies. Andrie de Vries and Joris Meys. 2nd Edition. Willey (2015)
 
-    Vienna, Austria. ISBN 3-900051-07-0, URL http://www.R-project.org.
+    https://powerbi.microsoft.com/pt-br/
 
-    Específica: Periódicos internacionais'
+    https://plotly.com/
+
+    Literatura específica: Periódicos internacionais'
   course: 'Introdução à Bioinformática aplicada à Produção Animal e Medicina Veterinária.
 
-    Ciências "ômicas" e noções sobre dados relacionadas à Produção Animal de Precisão
+    Introdução aos conceitos sobre visão computacional, Big Data, Aprendizado de Máquina
+    e banco de dados, todos relacionados a possíveis aplicações em Veterinária.
+
+    Noções sobre dados relacionadas à Produção Animal de Precisão
 
     Novos fenótipos mensurados em Bovinocultura de Leite, Corte e Suinocultura
 
-    Noções básicas sobre EXCEL
+    Conceitos básicos sobre o uso do EXCEL para fins de exploração inicial dos dados
 
-    Aprendizado de máquina e Mineração de dados
+    Introdução à lógica de programação e linguagem R
 
-    Noções básicas sobre análises de expressão gênica
+    Ferramentas visuais: ggplot2, plotly e Power BI
 
-    Noções básicas sobre análises de dados genômicos
+    Apresentação e discussão de projetos/pesquisas envolvendo dados de Precisão (Imagem,
+    vídeo, sensores e áudio)
+
+    Simulação de dados
+
+    Projeto Final
 
     Bioinformática na Prática: problemas ligados à Bovinocultura de Leite
 
     Bioinformática na Prática: problemas ligados à Bovinocultura de Corte
 
-    Bioinformática na Prática: problemas ligados à Suinocultura
-
-    Bioinformática na Prática: Aplicações de Teoria de Redes e reconhecimento de imagens'
+    Bioinformática na Prática: problemas ligados à Suinocultura'
   course_name: 'VNP3124 - Bioinformática aplicada à Medicina Veterinária e Pecuária
     de Precisão
 
@@ -49,28 +54,30 @@ courses:
   deactivation: ''
   instructors: 9124662 - Ricardo Vieira Ventura
   lecture_credits: '2'
-  objectives: 'Avanços teóricos e tecnológicos em bioinformática, genética, estatística
-    e coleta de novos tipos de dados, podem ser definidos como fatores determinantes
-    para a proliferação de tecnologias e técnicas que auxiliam no entendimento dos
-    mecanismos que controlam a diversidade genética e fenotípica em animais de diferentes
-    espécies. Novos projetos relacionados à área de produção animal estão gerando
-    grandes quantidades de dados biológicos complexos, que requerem melhor entendimento
-    sobre fatores como armazenamento eficaz, análise e interpretação de dados relacionados
-    aos sistemas de produção animal. Esta disciplina fornecerá aos alunos uma visão
-    geral e conhecimento inicial sobre aplicação de recursos computacionais e estatísticos
-    relacionadas à análise de dados biológicos aplicados às áreas de Medicina Veterinária
-    e Zootecnia de Precisão. A disciplina tem como objetivos específicos: introduzir
-    conceitos básicos sobre linguagem EXCEL para resolução de problemas simplificados;
-    apresentar e discutir tópicos como exploração de dados "ômicos", mineração de
-    dados,  reconhecimento de padrões e análise de imagens. Espera-se que, ao final
-    do curso, o aluno possa ter capacidade de utilização da ferramenta EXCEL para
-    fins de manipulação de dados simplificados e também possa acumular conhecimento
-    para um futuro aprofundamento diante das novas técnicas relacionadas à exploração
-    de dados biológicos via recursos computacionais.'
+  objectives: 'Novos projetos relacionados à área de produção animal estão gerando
+    grandes quantidades de dados biológicos, o que em muitos casos requer estratégias
+    específicas sobre armazenamento, e visualização, previamente as etapas de análise
+    estatística e emprego de modelagens específicas. Esta disciplina fornecerá aos
+    alunos uma visão geral e conhecimento inicial sobre possíveis aplicações de técnicas
+    computacionais com foco na manipulação de dados biológicos, fontes de projetos
+    aplicados às áreas de Medicina Veterinária e Zootecnia de Precisão. Adicionalmente,
+    irá capacitar os estudantes possibilitando o aprendizado da linguagem computacional
+    R, utilizada para manipulação e visualização de dados, além de noções sobre ferramentas
+    de visualização de dados. A disciplina tem como objetivos específicos: introduzir/rever
+    conceitos básicos sobre linguagem EXCEL; introduzir conceitos sobre lógica de
+    programação e linguagem R; apresentar as ferramentas ggplot, plotly e PowerBI;
+    Discutir brevemente sobre projetos na área de veterinária que envolvam áreas como
+    visão computacional, Big Data, aprendizado de Máquina, banco de dados, e reconhecimento
+    de padrões envolvendo dados como imagens, vídeos e áudios. Espera-se que, ao final
+    do curso, o aluno possa ter capacidade de utilização da ferramenta EXCEL, R, além
+    de aplicar ferramentas gráficas para fins de manipulação e interpretação inicial
+    de dados simplificados. Adicionalmente, almeja-se também que se possa acumular
+    noções gerais para participação em projetos que envolvam dados e novas técnicas
+    relacionadas à Zootecnia e Medicina Veterinária de Precisão.'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20211208092758'
-digest: EPT4C4VOZU7XINUDCJV44QTFVC6TEQUG
-updated_at: '20211208092758'
-url: https://web.archive.org/web/20211208092758id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3124
+created_at: '20230330235557'
+digest: QWTF2AFPT4BV64HFJF4U3L7L74KFTIOX
+updated_at: '20230330235557'
+url: https://web.archive.org/web/20230330235557id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3124
