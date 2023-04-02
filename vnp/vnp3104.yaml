@@ -78,12 +78,12 @@ courses:
   total_workload: 30 h
   type: Semestral
 created_at: '20221206231408'
-digest: QJMPUT7JDGD3IOHFA6V7NOVJBXQ5KR7S
+digest: SZDNFN2BVYEI2MGHJT6UBQOVFJLFTOEI
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 5'
   requirements:
   - code: BMB0212
     name: Fisiologia II
     type: Requisito
-updated_at: '20221206231408'
-url: https://web.archive.org/web/20221206231408id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VNP3104
+updated_at: '20230402081329'
+url: https://web.archive.org/web/20230402081329id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3104
