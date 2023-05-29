@@ -82,7 +82,65 @@ courses:
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20220803074053'
-digest: BIB2H3GMCUO4HX3DI2YFUP62VNQZDBG4
-updated_at: '20230322093052'
-url: https://web.archive.org/web/20230322093052id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0370&codcur=11070&codhab=4
+created_at: '20230529162902'
+digest: 36CVIQHLCUAUUHJ7TXO6M5ME7LUB5DUP
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 6'
+  requirements:
+  - code: LCE0111
+    name: Química Analítica Inorgânica - Teórica
+    type: Requisito
+  - code: LEB0200
+    name: Física do Ambiente Agrícola
+    type: Requisito
+- course: 'Curso: 11020  Engenharia Florestal (integral) - Período ideal: 6'
+  requirements:
+  - code: LCE0111
+    name: Química Analítica Inorgânica - Teórica
+    type: Requisito
+  - code: LEB0200
+    name: Física do Ambiente Agrícola
+    type: Requisito
+- course: 'Curso: 11061  Ciências dos Alimentos (noturno) - Período ideal: 8'
+  requirements:
+  - code: LCE0130
+    name: Cálculo Diferencial e Integral
+    type: Requisito
+  - code: LCE0143
+    name: Quimica Geral
+    type: Requisito
+  - code: LEB0140
+    name: Física
+    type: Requisito
+- course: 'Curso: 11062  Ciências dos Alimentos (noturno) - Período ideal: 8'
+  requirements:
+  - code: LCE0130
+    name: Cálculo Diferencial e Integral
+    type: Requisito
+  - code: LCE0143
+    name: Quimica Geral
+    type: Requisito
+  - code: LEB0140
+    name: Física
+    type: Requisito
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 8'
+  requirements:
+  - code: LCE0118
+    name: Química
+    type: Requisito
+  - code: LCE0130
+    name: Cálculo Diferencial e Integral
+    type: Requisito
+  - code: LEB1302
+    name: Física para Biologia
+    type: Requisito
+- course: 'Curso: 11080  Gestão Ambiental (noturno) - Período ideal: 8'
+  requirements:
+  - code: LCE0130
+    name: Cálculo Diferencial e Integral
+    type: Requisito
+  - code: LCE0180
+    name: Química Ambiental
+    type: Requisito
+updated_at: '20230529162902'
+url: https://web.archive.org/web/20230529162902id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=CEN0370
