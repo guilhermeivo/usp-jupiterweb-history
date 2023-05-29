@@ -51,7 +51,28 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20200919165103'
-digest: YNT7PW7HSAX6ARFTGWKOOTAH5AS2WU2Z
-updated_at: '20230322094614'
-url: https://web.archive.org/web/20230322094614id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=1100222&codcur=11070&codhab=4
+created_at: '20230529145932'
+digest: QQNX5IDQZCDCEIA7FKWL2XGTAIRTJZD3
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 7'
+  requirements:
+  - code: LCE0120
+    name: Cálculo I
+    type: Requisito
+- course: 'Curso: 11020  Engenharia Florestal (integral) - Período ideal: 7'
+  requirements:
+  - code: LCE0120
+    name: Cálculo I
+    type: Requisito
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 7'
+  requirements:
+  - code: LCE0130
+    name: Cálculo Diferencial e Integral
+    type: Requisito
+- course: 'Curso: 11080  Gestão Ambiental (noturno) - Período ideal: 7'
+  requirements:
+  - code: LCE0130
+    name: Cálculo Diferencial e Integral
+    type: Requisito
+updated_at: '20230529145932'
+url: https://web.archive.org/web/20230529145932id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=1100222
