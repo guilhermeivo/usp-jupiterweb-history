@@ -123,7 +123,13 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20220123074654'
-digest: 4B52FA3562IHOG6FISOK42COKSZ7CRO6
-updated_at: '20230322093335'
-url: https://web.archive.org/web/20230322093335id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0148&codcur=11070&codhab=4
+created_at: '20230604135429'
+digest: NHU2MXH6RGZWX2KX3U2QYT3PKWGQVPGQ
+requirements:
+- course: 'Curso: 11080  Gestão Ambiental (noturno) - Período ideal: 3'
+  requirements:
+  - code: CEN0107
+    name: Energia e Biosfera
+    type: Requisito
+updated_at: '20230604135429'
+url: https://web.archive.org/web/20230604135429id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=CEN0148
