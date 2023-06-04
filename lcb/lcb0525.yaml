@@ -63,7 +63,13 @@ courses:
   practical_credits: '5'
   total_workload: 165 h
   type: Semestral
-created_at: '20220419195043'
-digest: FE7MAUUMO4NAXNS7UPYHK7K5A444R42G
-updated_at: '20230322090521'
-url: https://web.archive.org/web/20230322090521id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0525&codcur=11070&codhab=4
+created_at: '20230604141540'
+digest: OTRH4MCM7OSRBDDQWFSEKXYC6EWMY76M
+requirements:
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 10'
+  requirements:
+  - code: LCB0425
+    name: Monografia I
+    type: Requisito
+updated_at: '20230604141540'
+url: https://web.archive.org/web/20230604141540id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCB0525
