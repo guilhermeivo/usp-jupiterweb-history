@@ -63,7 +63,19 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20230322093942'
-digest: 5IUTSZMNENJI7LRJLIMVQMH4H53LYHCW
-updated_at: '20230322093942'
-url: https://web.archive.org/web/20230322093942id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0204&codcur=11070&codhab=4
+created_at: '20230604125750'
+digest: EO5N7PHYT44TEAY5ZBAKAULRHBRTXBCI
+requirements:
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 4'
+  requirements:
+  - code: LCE0130
+    name: Cálculo Diferencial e Integral
+    type: Requisito
+- course: "Curso: 11070  Ciências Biológicas - Habilitação: Licenciatura em Ciências\
+    \ Biológicas \r\n                          (noturno) - Período ideal: 4"
+  requirements:
+  - code: LCE0130
+    name: Cálculo Diferencial e Integral
+    type: Requisito
+updated_at: '20230604125750'
+url: https://web.archive.org/web/20230604125750id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCE0204
