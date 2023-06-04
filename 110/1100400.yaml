@@ -32,7 +32,38 @@ courses:
 
     )'
   type: Semestral
-created_at: '20220708233248'
-digest: UEDJR5NUH32Z7LIOY5J2KZI2V3G3MFLA
-updated_at: '20230322095428'
-url: https://web.archive.org/web/20230322095428id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=1100400&codcur=11070&codhab=4
+created_at: '20230604140747'
+digest: U6TFSO6UV7VNTK3D5MM5EXFUMLFNZU7W
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 6'
+  requirements:
+  - code: '1100300'
+    name: Estágio Supervisionado I
+    type: Requisito
+- course: 'Curso: 11020  Engenharia Florestal (integral) - Período ideal: 6'
+  requirements:
+  - code: '1100300'
+    name: Estágio Supervisionado I
+    type: Requisito
+- course: 'Curso: 11061  Ciências dos Alimentos (noturno) - Período ideal: 8'
+  requirements:
+  - code: '1100300'
+    name: Estágio Supervisionado I
+    type: Requisito
+- course: 'Curso: 11062  Ciências dos Alimentos (noturno) - Período ideal: 8'
+  requirements:
+  - code: '1100300'
+    name: Estágio Supervisionado I
+    type: Requisito
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 8'
+  requirements:
+  - code: '1100300'
+    name: Estágio Supervisionado I
+    type: Requisito
+- course: 'Curso: 11080  Gestão Ambiental (noturno) - Período ideal: 7'
+  requirements:
+  - code: '1100300'
+    name: Estágio Supervisionado I
+    type: Requisito
+updated_at: '20230604140747'
+url: https://web.archive.org/web/20230604140747id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=1100400
