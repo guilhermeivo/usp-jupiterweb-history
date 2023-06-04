@@ -35,7 +35,21 @@ courses:
   practical_credits: '1'
   total_workload: 75 h
   type: Semestral
-created_at: '20220419225749'
-digest: FZLNMAVXET24I7H2EYTS3BL6LWJSPFOE
-updated_at: '20230322092505'
-url: https://web.archive.org/web/20230322092505id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0681&codcur=11070&codhab=4
+created_at: '20230604132710'
+digest: BCAKXJXUFBR2VRFYRV332NHBTFCNA7CQ
+requirements:
+- course: 'Curso: 11020  Engenharia Florestal (integral) - Período ideal: 4'
+  requirements:
+  - code: LCF0324
+    name: Fisiologia das Árvores
+    type: Requisito
+  - code: LCF0491
+    name: Ecologia Florestal
+    type: Requisito
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 8'
+  requirements:
+  - code: LCB0323
+    name: Fisiologia Vegetal
+    type: Requisito
+updated_at: '20230604132710'
+url: https://web.archive.org/web/20230604132710id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCF0681
