@@ -78,7 +78,19 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20220710011738'
-digest: OHPW55SI6STZ2EHICUF2EES3WBYL4G6U
-updated_at: '20230322100013'
-url: https://web.archive.org/web/20230322100013id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0217&codcur=11070&codhab=4
+created_at: '20230604135928'
+digest: TJ3XPQFHUJPNIRGJIOEXKJ3KXW3ODM7A
+requirements:
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 3'
+  requirements:
+  - code: CEN0110
+    name: Ecologia de Ecossistemas
+    type: Requisito
+- course: "Curso: 11070  Ciências Biológicas - Habilitação: Licenciatura em Ciências\
+    \ Biológicas \r\n                          (noturno) - Período ideal: 3"
+  requirements:
+  - code: CEN0110
+    name: Ecologia de Ecossistemas
+    type: Requisito
+updated_at: '20230604135928'
+url: https://web.archive.org/web/20230604135928id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCB0217
