@@ -87,7 +87,19 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20220708081036'
-digest: IQFNRJT6ZIIORLFYYDOEH2NANHSSNKZW
-updated_at: '20230322091759'
-url: https://web.archive.org/web/20230322091759id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0110&codcur=11070&codhab=4
+created_at: '20230604133730'
+digest: A7VG2Z7SACBZM63GQQKHAIV25J6CWA33
+requirements:
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 2'
+  requirements:
+  - code: LCF0104
+    name: Ecologia Aplicada
+    type: Requisito
+- course: "Curso: 11070  Ciências Biológicas - Habilitação: Licenciatura em Ciências\
+    \ Biológicas \r\n                          (noturno) - Período ideal: 2"
+  requirements:
+  - code: LCF0104
+    name: Ecologia Aplicada
+    type: Requisito
+updated_at: '20230604133730'
+url: https://web.archive.org/web/20230604133730id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=CEN0110
