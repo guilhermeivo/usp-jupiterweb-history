@@ -61,7 +61,19 @@ courses:
   practical_credits: '2'
   total_workload: 210 h
   type: Semestral
-created_at: '20220701162057'
-digest: YENWXILLJA6JKQJQQPZVRSIOYAEWUX2J
-updated_at: '20230322091925'
-url: https://web.archive.org/web/20230322091925id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0320&codcur=11070&codhab=4
+created_at: '20230604125229'
+digest: YYZWGQEAXNB3EW53PFI6FVMGMHC6FJF5
+requirements:
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 2'
+  requirements:
+  - code: LCB0140
+    name: Anatomia Vegetal
+    type: Requisito
+- course: "Curso: 11070  Ciências Biológicas - Habilitação: Licenciatura em Ciências\
+    \ Biológicas \r\n                          (noturno) - Período ideal: 2"
+  requirements:
+  - code: LCB0140
+    name: Anatomia Vegetal
+    type: Requisito
+updated_at: '20230604125229'
+url: https://web.archive.org/web/20230604125229id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCB0320
