@@ -59,17 +59,15 @@ courses:
   course_name: 'CCM0224 - Quimica IV
 
     Chemistry IV'
-  deactivation: ''
-  instructors: '174439 - Denise Freitas Siqueira Petri
-
-    4893780 - Lucas Carvalho Veloso Rodrigues'
+  deactivation: 14/07/2023
+  instructors: 4893780 - Lucas Carvalho Veloso Rodrigues
   lecture_credits: '6'
   objectives: Apresentar os conceitos básicos de espectroscopia eletrônica e vibracional.
     Introduzir os principais conceitos da Química de Coordenação.
   practical_credits: '0'
   total_workload: 90 h
   type: Semestral
-created_at: '20211027130805'
-digest: 6SQCPTK4YL2V6BXGGIOLP6LKFAAVGSAU
-updated_at: '20230204054244'
-url: https://web.archive.org/web/20230204054244id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0224
+created_at: '20230608013630'
+digest: KSVM3QZJZLG7JMX64N6HYLMOUACCMC4S
+updated_at: '20230608013630'
+url: https://web.archive.org/web/20230608013630id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0224
