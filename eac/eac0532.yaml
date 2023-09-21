@@ -1,0 +1,140 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    CONTADOR, C. R. (2007). Economia do Seguro: fundamentos e aplicações. 1a ed. São
+    Paulo: Atlas, 2007.
+
+    LUCCAS FILHO, O. (2011). Seguros: Fundamentos, Formação de Preço, Provisões e
+    Funções Biométricas. 1. ed. São Paulo: Atlas.
+
+    MANO, C. C. A; FERREIRA, P. P. (2018). Aspectos Atuariais e Contábeis das Provisões
+    Técnicas. 2. ed. Rio de Janeiro: Funenseg.
+
+    PACHECO, R. (2014). Matemática Atuarial de Seguros de Danos. Atlas.
+
+    VAUGHAN, E. J.; VAUGHAN, T. M. (2014). Fundamentals of Risk and Insurance. 11.
+    Ed. New York: Wiley.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    AZEVEDO, G. H. W. (2008). Seguros, Matemática Atuarial e Financeira: uma abordagem
+    introdutória. São Paulo: Saraiva.
+
+    BOWERS, N. L.; GERBER, H. U; HICKMAN, J. C.; JONES, D. A.; NESBITT, C. J. (1997).
+    Actuarial Mathematics. The Society of Actuaries, 2. ed. 753 p.
+
+    CHAN, B. L.; SILVA, F. L.; MARTINS, G. A. (2006). Fundamentos da Previdência Complementar:
+    da atuária à contabilidade. São Paulo: Atlas.
+
+    KLUGMAN S. A; PANJER, H.; WILLMOT, G.E. (2019). Loss Models: From Data to Decisions.
+    5. Ed. New York: Wiley.
+
+    JORDAN, C. W. (1991). Society of Actuaries’ Textbook on Life Contingencies. The
+    Society of Actuaries, 2. ed. 349 p.'
+  course: '1. FUNDAMENTOS GERAIS DO RISCO SOB A ÓTICA ATUARIAL
+
+    1.1 Características e classificação
+
+    1.2 Risco e Seguro
+
+    1.3 Tipologia dos riscos
+
+    2. OPERAÇÕES, CONTRATOS E APREÇAMENTO DE SEGUROS GERAIS
+
+    2.1 Gerenciamento de riscos: processos, técnicas, e avaliação de alternativas
+
+    2.2 O mecanismo do seguro: fundamentos, contribuições econômicas e elementos do
+    risco segurável
+
+    2.3 Formação de preço: conceituação e tipos de prêmios
+
+    2.4 Avaliação do equilíbrio econômico-financeiro: capital de solvência e probabilidade
+    de ruína
+
+    2.5 Organização setorial e efeitos econômicos do seguro
+
+    3. OPERAÇÕES, CONTRATOS E APREÇAMENTO DE SEGUROS DE VIDA E PREVIDÊNCIA
+
+    3.1 Visão geral da Previdência Social
+
+    3.2 Entidades Abertas e Fechadas de Previdência Complementar
+
+    3.3 Modalidades de planos de benefícios
+
+    3.4 Regimes de financiamento
+
+    3.5 Formação de preços: aspectos demográficos, financeiros e prêmios atuarialmente
+    justos de seguros de vida e planos de previdência complementar
+
+    4. ASPECTOS ATUARIAIS E CONTÁBEIS DAS PROVISÕES TÉCNICAS
+
+    4.1 Definição das provisões técnicas e reservas patrimoniais
+
+    4.2 Importância do correto dimensionamento e impactos dos erros de dimensionamento
+
+    4.3 Tipos de provisões técnicas e visão geral da contabilização
+
+    4.4 Regras de alocação dos ativos garantidores das provisões técnicas'
+  course_name: 'EAC0532 - Introdução à Atuária para Contadores
+
+    Principles of Actuarial Science for Accountants'
+  deactivation: ''
+  instructors: '8476037 - Eduardo da Silva Flores
+
+    4894284 - João Vinícius de França Carvalho
+
+    1064696 - Luiz Jurandir Simões de Araujo
+
+    2112537 - Ricardo Pacheco'
+  lecture_credits: '2'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A disciplina busca apresentar aos alunos de Ciências Contábeis conceitos teóricos
+    sobre as operações de produtos que possuem o risco como elemento fundamental.
+    Abordam-se os principais aspectos de gerenciamento de risco e a sua relação com
+    a atividade seguradora. Para além de articular os conceitos teóricos, procura-se
+    dar um caráter prático no processo de apreçamento dos riscos incorridos por seguradoras
+    e entidades de previdência por meio de resolução de exercícios.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    A disciplina oferece uma visão holística, com viés quantitativo, dos principais
+    temas relacionados às operações de seguros. Os temas estudados serão tratados
+    de maneira conceitual e prática. Ao final do curso, espera-se que os alunos estejam
+    aptos a:
+
+    1. Reconhecer e descrever os principais fontes e fatores de riscos inerentes à
+    atividade seguradora;
+
+    2. Organizar o raciocínio matricial nas dimensões relevantes de classificação
+    de riscos;
+
+    3. Entender e aplicar ferramentas para gerenciamento da postura perante o risco;
+
+    3. Conhecer a organização formal dos setores relevantes (Seguros, Previdência,
+    Saúde), seus ambientes regulatórios e suas idiossincrasias;
+
+    4. Mensurar as obrigações assumidas junto às contrapartes;
+
+    5. Dimensionar a necessidade de capital para manter o equilíbrio econômico-financeiro
+    das operações securitárias;
+
+    6. Computar medidas probabilísticas que sinalizem insuficiência de recursos de
+    maneira antecipada; e
+
+    7. Avaliar a alocação prudencial das provisões técnicas.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20230921114512'
+digest: XO6P4E5J34S6SFUL4DW6WCIYPTY5TNEG
+updated_at: '20230921114512'
+url: https://web.archive.org/web/20230921114512id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0532&codcur=12033&codhab=4
