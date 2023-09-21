@@ -1,0 +1,144 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    JOHNSTONE, Karla; GRAMLING, Audrey; RITTENBERG Larry E. Auditing: A Risk Based-Approach
+    to Conducting a Quality Audit. 10th edition. Cengage, 2016. (ou GRAMLING, Audrey
+    A.; RITTENBERG, Larry E.; JOHNSTONE, Karla M. Auditoria. Tradução da 7a Edição.
+    São Paulo: Cengage Learning, 2012)
+
+    MESSIER, William F.; GLOVER, Steven M.; Prawitt, Douglas F. Auditing & Assurance
+    Services – A systematic approach. 8th edition, New York: McGraw-Hill/Irwin, 2012
+
+    International Auditing and Assurance Standards Board (IAASB). Handbook of International
+    Quality Control, Auditing, Review and Other Assurance and Related Services Pronouncements.
+    (versão mais atual) Edition, New York: IAASB (a tradução das ISAs encontra-se
+    disponível no Conselho Federal de Contabilidade, em seus pronunciamentos NBC-TA)
+
+    Imoniana, J. O. Auditoria: Planejamento, Execução e Reporte.  São Paulo: Atlas,
+    2019
+
+    BELL, Timothy B.; PEECHER, Mark E.; SOLOMON, Ira. The 21st Century Public Company
+    Audit. KPMG, 2005
+
+    LONGO, Claudio Gonçalo. Manual de Auditoria e Revisão de Demonstrações Financeiras.
+    3ª edição, São Paulo: Atlas, 2015
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    ARENS, Alvin A. e LOEBBECKE, James K – Auditing – An Integrated Approach, Editora
+    Prentice-Hall, Inc - Upper Saddle River, New Jersey, USA..
+
+    ATTIE, Willian. Auditoria: Conceitos e Aplicações – Ed. Atlas, São Paulo. ATTIE,
+    Willian. Auditoria Interna – Ed. Atlas, São Paulo.
+
+    BORGERTH, Vania M. C. – SOX – Entendendo a Lei Sarbanes-Oxley – Ed. Thomson, S.Paulo.
+    BOYNTON, William C. JOHNSON, R., KELL, Walter G. - Auditoria, Edit. Atlas – São
+    Paulo.
+
+    RITTENBERG, Larry E. and SCHWIEGER, Bradley J. - Auditing - Concepts for a Changing
+    Environment - Editora Harcourt Brace College Publishers - Philadelphia, USA.
+
+    STUART, Iris C. – Serviços de Auditoria e Asseguração na Prática – Editora Mc
+    Graw Hill – Porto Alegre.
+
+    ANTUNES, Jerônimo - Contribuição ao Estudo da Avaliação de Risco e Controles Internos
+    na Auditoria de Demonstrações Contábeis no Brasil - Dissertação de Mestrado –
+    FEA/USP - São Paulo, 1998. (disponível para download no site www.teses.usp.br).
+
+    ANTUNES, Jerônimo – Modelo de Avaliação de Risco de Auditoria Utilizando a Lógica
+    Nebulosa – Tese de Doutorado– FEA/USP – S.Paulo, 2005. (disponível para download
+    no site www.teses.usp.br).
+
+    CARVALHO, Luiz Nelson Guedes de - Uma Contribuição à Auditoria do Risco de Derivativos
+    - Tese de Doutorado, FEA/USP - São Paulo, 1996. (disponível para download no site
+    www.teses.usp.br). CARVALHO, Luiz Nelson Guedes de – Limitações ao Poder de Comunicação
+    do Parecer dos Auditores Independentes sobre Demonstrações Contábeis no Brasil
+    – Dissertação de Mestrado, FEA/USP – São Paulo, 1989.
+
+    BRAUNBECK, Guillermo Oscar – Determinantes da Qualidade da Auditorias Independentes
+    no Brasil – Tese de Doutorado– FEA/USP – S.Paulo, 2010s. (disponível para download
+    no site www.teses.usp.br).'
+  course: "1.\tESTRUTURA CONCEITUAL DOS TRABALHOS DE ASSEGURAÇÃO E REGULAÇÃO\n1.1\t\
+    Definição e tipos de trabalhos de asseguração\n1.2\tElementos de trabalhos de\
+    \ asseguração\n1.3\tAsseguração razoável e asseguração limitada sobre demonstrações\
+    \ financeiras\n1.4\tAuditoria e governança corporativa: comunicação dos auditores\
+    \ com os responsáveis pela Governança\n1.5\tPrincípios éticos e conduta profissional\
+    \ em trabalhos de asseguração\n2.\tPLANEJAMENTO E ANÁLISE DE RISCOS\n2.1\tObtenção,\
+    \ aceitação (ou retenção) de clientes\n2.2\tObjetivos e princípios do planejamento\
+    \ de trabalhos de asseguração de demonstrações contábeis\n2.3\tAfirmações das\
+    \ Demonstrações Contábeis\n2.4\tRiscos de Auditoria, Riscos Inerentes, Riscos\
+    \ de Controle e Riscos Residuais\n2.5\tMaterialidade: conceito e prática\n2.6\t\
+    Entendimento da entidade e de seu ambiente de negócios\n2.7\tAnálise de riscos\
+    \ de auditoria\n2.8\tFraude, leis e regulação\n2.9\tDocumentação do planejamento\n\
+    2.10\tUtilização de especialistas: plano, extensão e formato das conclusões como\
+    \ evidência de auditoria\n3.\tCONTROLES INTERNOS\n3.1\tSistema de Controles Internos,\
+    \ objetivos e conceitos\n3.2\tEstrutura conceitual de controles internos (e.g.\
+    \ COSO)\n3.3\tO uso de controles internos na auditoria de demonstrações contábeis\n\
+    3.4\tAvaliação de desenho de controles internos\n3.5\tAvaliação de eficácia de\
+    \ controles internos\n3.6\tAmostragem\n3.7\tTestes de controles com CAATs\n3.8\t\
+    Diferenciação dos trabalhos dos auditores externos e internos e interação com\
+    \ trabalhos de auditores internos\n3.9\tDeterminação do risco residual\n3.10\t\
+    Comunicações sobre controles internos"
+  course_name: 'EAC0401 - Auditoria I
+
+    Auditing I'
+  deactivation: ''
+  instructors: '1035522 - Guillermo Oscar Braunbeck
+
+    822081 - Jeronimo Antunes
+
+    990725 - Joshua Onome Imoniana'
+  lecture_credits: '4'
+  objectives: "APRESENTAÇÃO DA DISCIPLINA:\nO trabalho de asseguração, em termos gerais,\
+    \ é o trabalho no qual o auditor independente visa obter evidências apropriadas\
+    \ e suficientes para expressar sua conclusão, na forma de emissão de uma “opinião\
+    \ técnica-profissional”, de forma a aumentar o grau de confiança dos usuários\
+    \ previstos sobre o resultado da mensuração ou avaliação do objeto, elaboradas\
+    \ de acordo com os critérios que sejam aplicáveis (normas contábeis) e sob a responsabilidade\
+    \ da Administração. O trabalho do auditor independente com o objetivo de emitir\
+    \ tal opinião consiste fundamentalmente em avaliar – e relatar – se as demonstrações\
+    \ financeiras examinadas estão – ou não – em conformidade com as normas contábeis.\n\
+    O foco desta disciplina é o trabalho de auditoria independente de demonstrações\
+    \ financeiras realizado em consonância com as Normas de Auditoria e que visam\
+    \ fornecer asseguração razoável. No trabalho de asseguração razoável, o auditor\
+    \ independente reduz o risco do trabalho para um nível aceitavelmente baixo nas\
+    \ circunstâncias do trabalho como base para a sua conclusão. A conclusão do auditor\
+    \ independente é expressa no Relatório dos Auditores Independente, onde os auditores\
+    \ transmitem a sua opinião sobre o resultado da mensuração ou avaliação das demonstrações\
+    \ financeiras de acordo com as Normas Contábeis.\nOBJETIVOS DE APRENDIZAGEM:\n\
+    Espera-se que, ao final da disciplina, as(os) estudantes estejam aptos a:\n1.\t\
+    Entender o conceito de auditoria e asseguração e as funções de auditoria, governança\
+    \ corporativa, incluindo ética e conduta profissional.\n2.\tDemonstrar como o\
+    \ auditor obtém e aceita trabalhos de auditoria, obter compreensão da entidade\
+    \ e de seu ambiente, avaliar o risco de distorção relevante (seja decorrente de\
+    \ deficiências nos controles internos ou outras distorções) e planejar a extensão,\
+    \ época e tipos de exames de uma auditoria das demonstrações contábeis\n3.\tDescrever\
+    \ e avaliar controles internos, técnicas e testes de auditoria, incluindo sistemas\
+    \ de tecnologia da informação para identificar e comunicar os riscos de controle\
+    \ e suas consequências potenciais, fazendo recomendações apropriadas. Descrever\
+    \ o escopo, papel e função da auditoria interna e julgar em que circunstâncias\
+    \ seus trabalhos servem como evidência para a asseguração.\n4.\tIdentificar e\
+    \ descrever o trabalho e as evidências obtidas pelo auditor e outros necessários\
+    \ para atender aos objetivos dos trabalhos de auditoria e a aplicação das Normas\
+    \ de Auditoria.\n5.\tPlanejar o escopo e extensão dos trabalhos a serem realizados\
+    \ por especialistas (Impostos, Cybersecurity, Avaliações econômicas, etc.)\n6.\t\
+    Aplicar técnicas de auditoria assistidas por computador (CAATs – Computer Assisted\
+    \ Audit Techniques) na realização de testes de controles\n7.\tAplicar métodos\
+    \ quantitativos como ferramentas de apoio à realização dos exames de auditoria\
+    \ (e.g. revisão analítica, determinação de materialidade, amostragem, determinação\
+    \ de efeitos sobre uma população)"
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20230921130455'
+digest: CWAFLAN42VZA7S46ANK3SVVBK32DPQOS
+updated_at: '20230921130455'
+url: https://web.archive.org/web/20230921130455id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0401&codcur=12033&codhab=4
