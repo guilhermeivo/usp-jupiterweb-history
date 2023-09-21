@@ -1,0 +1,58 @@
+courses:
+  activation: 01/01/2013
+  assessment: Média simples calculada entre o resultado final alcançado na primeira
+    avaliação e a nota obtida na prova de reavaliação, mantida a exigência de freqüência
+    mínima de 70%.
+  bibliography: "Texto básico:\nMANKIW, N. Gregory. \x93Introdução à Economia: princípios\
+    \ de micro e macroeconomia\x94; Tradução da 2ª edição original Maria José Cyhlar\
+    \ Monteiro. Editora Campus. Rio de Janeiro, 2001.\nTextos complementares:\nINTRODUÇÃO\
+    \ A MICROECONOMIA E INTRODUÇÃO A MACROECONOMIA\nJoseph E.: Stigiglitz e Carl E.\
+    \ Walsh \x96 Editora Campus.\nEQUIPE DE PROFESSORES DA USP \x96 Manuel de Economia\
+    \ \x96 3º edição \x96 Editora Saraiva.\nSAMUELSON, Paul e Nordhaus, William D.\
+    \ \x93Economia\x94, 12 edição, São Paulo. McGraw-Hill (330.1 S193 ec), 1988."
+  course: "INTRODUÇÃO\nI.\tCONTABILIDADE NACIONAL\n1.\tRenda e Despesa da Economia\n\
+    2.\tCálculo do Produto Interno Bruto (PIB)\n3.\tOs componentes do PIB.\n4.\tPIB\
+    \ Real e Nominal\n5.\tPIB e Bem-Estar Econômico.\nII.\tPRODUÇÃO E CRESCIMENTO\n\
+    1.\tA Experiência de Crescimento Econômico Mundial.\n2.\tProdutividade: seu Papel\
+    \ e seus Determinantes\n3.\tCrescimento Econômico e Políticas Públicas\n4.\tA\
+    \ Importância do Crescimento no Longo Prazo.\nIII.\tPOUPANÇA, INVESTIMENTO E O\
+    \ SISTEMA FINANCEIRO\n1.\tInstituições Financeiras de uma Economia\n2.\tPoupança\
+    \ e Investimento nas Contas Nacionais\n3.\tO mercado de Fundos de Empréstimo.\n\
+    IV.\tTAXA NATURAL DE DESEMPREGO\n1.\tIdentificando o Desemprego\n2.\tPoupança\
+    \ e Investimento nas Contas Nacionais\n3.\tO Mercado de Fundos de Empréstimo.\n\
+    V.\tO SISTEMA MONETÁRIO\n1.\tO Significado da Moeda\n2.\tO Banco Central\n3.\t\
+    Bancos Comerciais e a Oferta de Moeda.\nVI.\tINFLAÇÃO: CAUSAS E CUSTOS\n1.\tAs\
+    \ Causas da Inflação\n2.\tOs Custos da Inflação.\nVII.\tMACROECONOMIA DAS ECONOMIAS\
+    \ ABERTAS: CONCEITOS BÁSICOS\n1.\tOs Fluxos Internacionais de Bens e Capitais\n\
+    2.\tPreços das Transações Internacionais: Taxas de Câmbio Real e Nominal.\n3.\t\
+    Uma Teoria de Determinação da Taxa de Câmbio: a Paridade do Poder de Compra.\n\
+    VIII.\tTEORIA MACROECONÔMICA DA ECONOMIA ABERTA.\n1.\tOferta e Demanda de Fundos\
+    \ de Empréstimos e a Taxa de Câmbio\n2.\tEquilíbrio na Economia Aberta.\n3.\t\
+    Efeitos de Políticas e Eventos em uma Economia Aberta.\nIX.\tDEMANDA E OFERTA\
+    \ AGREGADA\n1.\tTrês Elementos Chaves sobre as Flutuações Equilíbrio na Economia\
+    \ aberta.\n2.\tExplicações para as Flutuações Econômicas de Curto Prazo.\n3.\t\
+    A Curva de Demanda Agregada\n4.\tA Curva de oferta Agregada.\n5.\tAs Causas da\
+    \ Recessão.\nX.\tA INFLUÊNCIA DAS POLÍTICAS MONETÁRIAS E FISCAL SOBRE A DEMANDA\
+    \ AGREGADA.\n1.\tPolítica Monetária e a Demanda Agregada.\n2.\tPolítica Fiscal\
+    \ e a Demanda agregada\n3.\tPolíticas Macroeconômicas para Estabilizar a Economia.\n\
+    4.\tA Economia no Curto e Longo Prazo.\nXI.\tO TRADEOFF ENTRE INFLAÇÃO E DESEMPREGO\n\
+    1.\tA Curva de Phillips.\n2.\tDeslocamento da Curva de Phillips: O Papel das Expectativas\n\
+    3.\tDeslocamento da Curca de Phillips: O Papel dos Choques de Oferta.\n4.\tO Custo\
+    \ de Reduzir a Inflação."
+  course_name: 'EAE0111 - Fundamentos de Macroeconomia
+
+    Foundations of Macroeconomics'
+  deactivation: ''
+  instructors: '41625 - Carlos Antonio Luque
+
+    2082994 - Marco Antonio Sandoval de Vasconcellos'
+  lecture_credits: '4'
+  objectives: Esta disciplina visa introduzir os alunos nos conhecimentos básicos
+    da contabilidade nacional e de macroeconomia.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20230921114554'
+digest: HYBVDC3EMBYPSQPQ3RUS3OGPDRFKZTPK
+updated_at: '20230921114554'
+url: https://web.archive.org/web/20230921114554id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAE0111&codcur=12033&codhab=4
