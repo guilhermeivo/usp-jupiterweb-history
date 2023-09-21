@@ -1,0 +1,123 @@
+courses:
+  activation: 15/07/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    SILVEIRA, Alexandre Di Miceli (2004). Governança Corporativa e Estrutura de Propriedade:
+    Determinantes e Relação com Desempenho das Empresas no Brasil. Tese (Doutorado),
+    USP. (Sigla: SIL)
+
+    BRAUNBECK, Guillermo Oscar; CARVALHO, Luiz Nelson Guedes (2012). Auditoria Independente.
+    In: Iudícibus, S. de, & Lopes, A. B. Teoria avançada da contabilidade. São Paulo:
+    Atlas. (Sigla: NC/GOB)
+
+    FLORES, Eduardo; BRAUNBECK; Guillermo O; CARVALHO, Nelson. (2018). Teoria da Contabilidade
+    Financeira. São Paulo: Atlas. (Sigla: FBC).
+
+    IASB. (2018). IFRS Conceptual Framework - Conceptual Framework for Financial Reporting.
+    London: IFRS Foundation (Sigla EC).
+
+    IASB. (2018). IFRS Conceptual Framework – Basis for Conclusions. London: IFRS
+    Foundation. (Sigla EC BC).
+
+    IUDÍCIBUS, Sérgio de (2015). Teoria da Contabilidade. São Paulo: Atlas, 11ª edição.
+    (Sigla: Iudícibus).
+
+    LOPES, Alexsandro Broedel; MARTINS, Eliseu (2005). Teoria da Contabilidade – Uma
+    Nova Abordagem. São Paulo: Atlas. (Sigla: LM).
+
+    MARTINS, Gilberto de Andrade; THEÓPHILO, Carlos Renato (2016). Metodologia da
+    Investigação Científica para Ciências Sociais Aplicadas. São Paulo: Atlas, 3ª
+    edição.
+
+    OLIVEIRA, Alan Teixeira de; RECH, Ilírio José (2014). Conteúdo Informativo da
+    Contabilidade. In: LOPES, Alexsandro Broedel (org.). Contabilidade e Finanças
+    no Brasil - Estudos em Homenagem ao Professor Eliseu Martins, São Paulo: Atlas.
+    (Sigla: LO).
+
+    STIGLITZ, Joseph E., WALSH, Carl E. (2003). Introdução à Microeconomia. Tradução
+    da 3a.ed. Rio de Janeiro: Elsevier. (Sigla: SW).
+
+    SUNDER, Shyam (2014). Teoria da Contabilidade e do Controle. São Paulo: Atlas.
+    (Sigla: Sunder).
+
+    WELLS, Michael J.C.; TARCA, Ann (2014). Estágio 3 - Ativos Não Financeiros: estudo
+    de caso da Open Safari. Londres: Fundação IFRS. (Sigla: WT).
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    Watts, R. L., & Zimmerman, J. L. (1986). Positive accounting theory. Englewood
+    Cliffs, N.J: Prentice-Hall.
+
+    Hendriksen, E. S., & Van, B. M. F. (1992). Accounting theory. Homewood, IL: Irwin
+
+    Jensen, M.C. and Meckling, W.H. (1976) Theory of the Firm: Managerial Behavior,
+    Agency Costs and Ownership Structure. Journal of Financial Economics, 3, 305-360.
+
+    Akerlof, George A. (1970). The Market for "Lemons": Quality Uncertainty and the
+    Market Mechanism, The Quarterly Journal of Economics, Oxford University Press,
+    vol. 84(3), pages 488-500.
+
+    Scott, W. R. (2009). Financial accounting theory. Toronto, Ont: Pearson Prentice
+    Hall.'
+  course: "1. INTRODUÇÃO AO ESTUDO DA TEORIA DA CONTABILIDADE\n•\tO conhecimento científico\
+    \ e o papel da teoria\n•\tConhecimento científico e suas especificidades; teoria,\
+    \ modelos, hipóteses e conceitos\n•\tIntrodução à pesquisa e investigação científica\
+    \ em contabilidade\nLeitura: MT, caps.2 e 3; LM, cap 1, FBC, Caps 1 e 3.\n2. MICRO\
+    \ FUNDAMENTOS: OS CONCEITOS FUNDAMENTAIS PARA A TEORIA DA CONTABILIDADE\n•\tConflito\
+    \ de agência, Governança Corporativa e Auditoria (SIL, NC/GOB 2, LM, cap. 2)\n\
+    •\tAssimetria de informações (SW, cap. 14; LM, cap 2)\n•\tContabilidade como instrumento\
+    \ de implementação e observância de contratos: teoria contratual da firma (Sunder,\
+    \ cap.2; LM, cap. 2)\nLeitura: LM, cap 2; SW, cap. 14; Sunder, cap.2, SIL, NC/GOB\
+    \ , LO, cap 3.\n3. ESTRUTURA CONCEITUAL DAS IFRS E O NÚCLEO FUNDAMENTAL DA TEORIA\
+    \ NORMATIVA DA CONTABILIDADE\n•\tEstrutura conceitual da contabilidade nova:\n\
+    o\tObjetivo da informação financeira;\no\tUsuários da informação financeira de\
+    \ propósito geral;\no\tRegime de competência e o conteúdo informativo das 'accruals';\n\
+    o\tCaracterísticas qualitativas da informação Elementos fundamentais da informação\
+    \ financeira: Ativo; Passivo; Patrimônio Líquido; Receitas/ganhos, Despesas/perdas.\n\
+    Leitura: Estrutura Conceitual IASB (EC); Bases para Conclusão da Estrutura Conceitual\
+    \ IASB (EC BC); IUDÍCIBUS, Unidade II (O Núcleo Fundamental da Teoria Contábil:\
+    \ ativo, passivo, receitas, despesas, perdas, ganhos e PL).\n4. COMPREENDENDO\
+    \ A INFORMAÇÃO FINANCEIRA A PARTIR DA ESTRUTURA CONCEITUAL\n•\tEstudo de caso\
+    \ Open Safari (WT)."
+  course_name: 'EAC0115 - Teoria da Contabilidade Financeira
+
+    Financial Accounting Theory'
+  deactivation: ''
+  instructors: '8476037 - Eduardo da Silva Flores
+
+    1035522 - Guillermo Oscar Braunbeck
+
+    59962 - Luiz Nelson Guedes de Carvalho'
+  lecture_credits: '2'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    Apresentar os principais conceitos relacionados à Teoria da Contabilidade Financeira
+    de modo a demonstrar suas aplicações em casos práticos e situações reais.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Espera-se que, ao final da disciplina, os alunos estejam aptos a:
+
+    1. Discutir questões conceituais e práticas no campo do conhecimento e aplicação
+    da Teoria da Contabilidade Financeira.
+
+    2. Pensar criticamente sobre assuntos contábeis, reconhecendo as diversas opções
+    metodológicas para o estudo da Contabilidade Financeira; e
+
+    3. Aperfeiçoar as condições para a elaboração de projetos de pesquisa, em complemento
+    às competências e habilidades adquiridas na disciplina de Metodologia da Pesquisa
+    Aplicada à Contabilidade.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20230921125738'
+digest: IKX66DXNK6JKH3P6KXTO3N3LNSWAIX62
+updated_at: '20230921125738'
+url: https://web.archive.org/web/20230921125738id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0115&codcur=12033&codhab=4
