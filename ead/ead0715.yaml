@@ -1,75 +1,180 @@
 courses:
-  activation: 01/01/2016
-  assessment: "\x95 Norma de Recuperação: O aluno com desempenho não compatível, será\
-    \ submetido a uma reavaliação final, a título de recuperação."
-  bibliography: "ARMANDO, E; FISCHMANN, A. A. Alianças estratégicas e competitividade\
-    \ internacional: recomendações para empresas de confeccionados têxteis. Anais\
-    \ do XVII Congresso Latino-Americano de Estratégia, Itapema-SC, 2004.\nBARBOSA,\
-    \ C. A.; ZILBER, M. A.; TOLEDO, L. A. A Aliança estratégica como fator de vantagens\
-    \ competitivas em empresa de TI \x96 Um Estudo Exploratório. RAI - Revista de\
-    \ Administração e Inovação, São Paulo, v. 6, n. 1, 2009 p.30-49.\nBRUNO-FARIA,\
-    \ Mª. F. Estímulos e barreiras à criatividade no ambiente de trabalho de uma instituição\
-    \ bancária. Dissertação de Mestrado em Psicologia da Universidade de Brasília:\
-    \ 1996.\nBRUNO, M.A.C.; VASCONCELLOS, E..  Gestão de alianças tecnológicas de\
-    \ alto compartilhamento: modelo e aplicação em empresas químicas. In: SEMINARIO\
-    \ LATINO-IBEROAMERICANO DE GESTIÓN TECNOLÓGICA (ALTEC\x9299), 8., Valencia, Espanha,\
-    \ 27-29 out. 1999. Anais...Valencia: Generalitat Valenciana, 1999. 1 CD-ROM\n\
-    BRUNO, M.A.C.; CAMPANÁRIO, M. A.; NOFFS, S. L.; VASCONCELLOS, E.  Bases para modelo\
-    \ de análise de gestão da inovação tecnológica: a gangorra da competitividade.\
-    \ In: SEMINÁRIO LATINO-IBEROAMERICANO DE GESTIÓN TECNOLÓGICA, 11., 2005, Salvador.\
-    \ Memorias.... Salvador: ALTEC, 2005. 1 CD-ROM.\nCOSTA, R.M.; BRUNO, M.A.C.; VASCONCELLOS,\
-    \ E.  Estratégia de Inovação Tecnológica Combinando Aquisições de Empresas e Globalização\
-    \ de P&D: o Caso da EMC. In: SIMPÓSIO DE ENGENHARIA DE PRODUÇÃO, 16., 2010, Baurú.\
-    \ Proceedings... Baurú: UNESP/Departamento de Engenharia de Produção, 2010. 1\
-    \ CD-ROM.\nFERREIRA, G. C.; BARCELLOS, M. D. Vantagens e desvantagens das alianças\
-    \ estratégicas: uma análise sob a ótica dos agentes da cadeia produtiva da carne\
-    \ bovina. Organizações Rurais & Agroindustriais, Lavras, v. 8, n.1, 2006.\nFISS,\
-    \ M. A estrutura organizacional para a inovação na 3M do Brasil. Dissertação de\
-    \ Mestrado em Administração, Faculdade de Economia e Administração, Universidade\
-    \ de São Paulo, 2003.\nPLSEK, P. E. Creativity, innovation, and quality. Milwaukee,\
-    \ Wisconsin: ASQC Quality Press, 1997\nSANTOS, M.C.B.G.; VASCONCELLOS, E.P.G.;\
-    \ BRUNO, M.A.C.; PAULA, M. L.  Facilitadores e barreiras para aliança na pesquisa\
-    \ e desenvolvimento de fármacos no Brasil: o estudo de caso do COINFAR. In: SIMPÓSIO\
-    \ DE GESTÃO DA INOVAÇÃO TECNOLÓGICA, 25., 2008, Brasília. Anais... Rio de Janeiro:\
-    \ ANPAD, 2008. 1 CD-ROM.\nSOHN, A. P. L.; APERSTEDT, G. D.; CUNHA, I. J. C. A\
-    \ estratégia de internacionalização da Datasul: um caso baseado na formação de\
-    \ parcerias de distribuição. Anais do XXIV ENEGEP, Florianopolis, 2004.\nVASCONCELLOS,\
-    \ E. (Org.). Como estruturar a função tecnológica na empresa. In: Gerenciamento\
-    \ da Tecnologia: Um Instrumento para a Competitividade Empresarial . São Paulo:\
-    \ Edgard Blücher, 1992."
-  course: "\x95 Importância da Inovação para a competitividade\n\x95 Modelo de Inovação\
-    \ \x96 \x93Gangorra da Competitividade\x94 \x96 aplicação em projetos de inovação\
-    \ da Siemens.\n\x95 Inovação incremental e radical.\n\x95 Como estabelecer um\
-    \ modelo de gestão, integrando tecnologia, mercado e resultado financeiro \x96\
-    \ a experiência do Google,\n\x95 Como reunir as condições necessárias para tornar\
-    \ um produto aprimorado num sucesso absoluto \x96 A experiência do iPOD e o caso\
-    \ Apple.\n\x95 Descentralização x Centralização mundial do processo de inovação\
-    \ \x96 a experiência da 3M.\n\x95 Ferramentas de gestão para integrar a inovação\
-    \ tecnológica ao negócio \x96 experiências da Vale, Vallée e Wahler.\n\x95 Modelos\
-    \ de Gestão bem sucedidos, integrando inovação, estratégia, estrutura e cultura\
-    \ \x96 as experiências da IBM e da GE.\n\x95 Modelo de gestão de alianças estratégicas\
-    \ para a inovação.\n\x95 Modelo de negócios tipo rede de inovação. Aplicação na\
-    \ Petrobrás.\n\x95 Aliança estratégica entre empresas como ferramenta para inovação\
-    \ radical \x96 a experiência da FIAT.\n\x95 Estratégia de consórcio entre empresas\
-    \ como ferramenta para inovação radical \x96 a experiência no setor farmacêutico\
-    \ Coinfar.\n\x95 Estratégia de aquisição como opção para inovação tecnológica\
-    \ competitiva no setor de TI \x96 a experiência da EMC.\n\x95 Como uma empresa\
-    \ brasileira familiar de tamanho médio consegue enfrentar a Pfizer e grandes multinacionais\
-    \ através da inovação \x96 a experiência da Cristália"
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'BIBLIOGRAFIA BÁSICA
+
+    BARBIERI, J.C. (Org.). Organizações inovadoras: estudos e casos brasileiros. 2.
+    ed. São Paulo: Editora FGV, 2004. 164p.
+
+    BRUNO, M.A.C.; NOFFS, S.L.; CAMPANARIO, M.A.; VASCONCELLOS, E.  A new graphic
+    format to facilitate the understanding of technological innovation models: the
+    see-saw of competitiveness. Technology Analysis & Strategic Management, Abingdon,
+    v. 21, n. 5, p. 565-582, July 2009.
+
+    BRUNO, M.A.C.; VASCONCELLOS, E.  Applying a management framework to three high-sharing
+    technological alliances. Rivista Finanza, Marketing e Produzione, Milano, v. 21,
+    n. 2, p. 107-126, giugno 2003.
+
+    COSTA, R.M.; BRUNO, M.A.C.; VASCONCELLOS, E.  Strategy of company acquisition
+    for technological innovation: management practices and critical success factors.
+    In: INTERNATIONAL CONFERENCE ON MANAGEMENT OF TECHNOLOGY, 21., 2011, Miami. Proceedings...
+    Miami: IAMOT, 2011. 1 CD-ROM.
+
+    COSTA, R. M.; BRUNO, M. A. C.; VASCONCELLOS, E. P. G.; SILVEIRA JUNIOR, L. A.
+    B. MNCs’ subsidiaries in emerging countries driving internationalisation and innovation:
+    a case study in Brazil. International Journal of Automotive Technology and Management,
+    Oxford, v.15, n. 4, p.381-400, 2015.
+
+    GRANDO, A.; BRUNO, M.A.C.; VASCONCELLOS, E.; BAGLIERI, V.  Innovation management
+    and competitiveness in business networks involving SMEs - Italian industrial districts.
+    Revista de Administração e Inovação, São Paulo, v. 5, n. 2, p.112-131, 2008.
+
+    JOHNSON, M., CHRISTENSEN C., KAGERMANN, H. Reinventing your business model. Boston:
+    Harvard Business School Press, 2008.
+
+    OECD Eurostat. Oslo Manual 2018. Guidelines for collecting, reporting, and using
+    data on innovation. Luxembourg: OECD Publishing, 2018, 4th. edition.
+
+    SANTOS, M.C.B.G.; VASCONCELLOS, E.P.G.; BRUNO, M.A.C.; PAULA, M. L.  Facilitadores
+    e barreiras para aliança na pesquisa e desenvolvimento de fármacos no Brasil:
+    o estudo de caso do COINFAR. In: SIMPÓSIO DE GESTÃO DA INOVAÇÃO TECNOLÓGICA, 25.,
+    2008, Brasília. Anais... Rio de Janeiro: ANPAD, 2008. 1 CD-ROM.
+
+    TIDD, J. Innovation management in context: environment, organization and performance.
+    International Journal of Management Reviews, v. 3, n. 3, p. 169-183, 2001.
+
+    VASCONCELLOS, E.; BRUNO, M.A.C. et al. Innovation in service: the case of Fleury
+    - a Diagnostic Medical Center.  In: BAGLIERI, E.; KARMARKAR, U. (Org.). Managing
+    consumer services: factory or theater?  London: Springer Publishing, 2014. cap.
+    11, p. 211-231.
+
+    BIBLIOGRAFIA COMPLEMENTAR
+
+    ANDREW, J.P.; SIRKIN, H.L. Innovating for cash. Harvard Business Review, Boston,
+    v.81, n. 9, p.76-83, set.2003.
+
+    BAGLIERI, V.; BRUNO, M.A.C.; GRANDO, A.; VASCONCELLOS, E.  Innovation process
+    in the automotive MNCs: implications for the role of the international subsidiaries.
+    International Journal of Automotive Technology and Management, v. 14, n.1, p.
+    82-98, 2014.
+
+    BIRKINSHAW, J. Managing internal R&D networks in global firms. Long Range Planning
+    35, 245–267, 2002.
+
+    CHESBROUGH, H. Open Innovation. Boston: Harvard Business School Press, 2003.
+
+    COSTA, R.M.; BRUNO, M.A.C.; SILVEIRA JR., L.A.B.; VASCONCELLOS, E.  Technology
+    innovation management in MNCs’ business internationalization: the role of a Brazilian
+    subsidiary from the automotive industry. In: INTERNATIONAL CONFERENCE ON MANAGEMENT
+    OF TECHNOLOGY, 22., 2013, Porto Alegre. Proceedings... Coral Gables: IAMOT, 2013.
+    CD-ROM. (Best Student Paper Award 2013).
+
+    DODGSON, M.; GANN, D.; SALTER, A. The role of technology in the shift towards
+    open innovation: the case of Procter & Gamble. R&D Management, v. 36, n. 3, p.333-46,
+    2006.
+
+    FISS, M. A estrutura organizacional para a inovação na 3M do Brasil. Dissertação
+    de Mestrado em Administração, Faculdade de Economia e Administração, Universidade
+    de São Paulo, 2003.
+
+    GOVINDARAJAN, V.; TRIMBLE, C.  The other side of innovation: solving the execution
+    challenge. Boston: Harvard Business School Press, 2010. 288p.
+
+    GUPTA, A. K., GOVINDARAJAN, V. Knowledge flows within the Multinational Corporation.
+    Strategic Management Journal, 21, 473–496, 2000.
+
+    HITT, M.A.; IRELAND, R. D.; HOSKISSON R.E.  Administração estratégica.  São Paulo:
+    Pioneira, 2002. 550p.
+
+    MILLER, J. DuPont. In: KANTER, R.S.; KAO, J.; WIERSEMA, F. (Ed.) Inovação: pensamento
+    inovador na 3M, DuPont, GE, Pfizer e Rubbermaid. Tradução June Camargo. São Paulo:
+    Negócio Editora, 1998. p.75-104.
+
+    OLIVEIRA JUNIOR, M.M.; BOHE, D.M.; BORINI, F.M. Estratégia e inovação em corporações
+    multinacionais.  São Paulo: Saraiva, 2009. 251p.
+
+    QUINN, J.B. Administrando a inovação: caos controlado. In: MINTZBERG, H; QUINN,
+    J. B. (Org.). O Processo da Estratégia. 3.ed. Tradução James Sunderland Cook.
+    São Paulo: Bookman, 2001. p.305-314.
+
+    VASCONCELLOS, E. (Org). Como estruturar a função tecnológica na empresa. In: Gerenciamento
+    da Tecnologia: Um Instrumento para a Competitividade Empresarial. São Paulo: Edgard
+    Blücher, 1992.
+
+    WOLPERT, J.D. Breaking out of the innovation box. Harvard Business Review, Boston,
+    v.80, n.8, p.77-83, ago.2002.'
+  course: 'Importância da inovação para a competitividade empresarial. Conceitos.
+    As diferentes dimensões da inovação: tecnológica, organizacional.
+
+    Conceito estratégico de inovação integrando inovação, estratégia, estrutura e
+    cultura.
+
+    Inovação incremental e radical.
+
+    Sistema Nacional de Inovação. Ecossistema de inovação empresarial. Organizações
+    participantes: papéis e interação entre as mesmas.
+
+    Ecossistemas inovação empresarial - a experiência IPT Open; Distrito Industrial
+    (Itália).
+
+    Fomento à inovação - experiências de organizações governamentais e não-governamentais:
+    agências de inovação; incubadoras de empresas; startups; parques tecnológicos;
+    entidades financiadoras.
+
+    Estratégia de cooperação entre empresas para acesso à inovação e mercado - experiências
+    de alianças estratégicas: Nokia/Gradiente (telefone celular); Stellantis FCA &
+    PSA (mobilidade-auto); EVE-Embraer/Parceiros (eVTOL “carro voador”; mobilidade-aero);
+    Fiocruz/Astrazeneca-U. Oxford (vacina para covid19); Butantã/Sinovac (vacina para
+    covid19).
+
+    Modelo de gestão de alianças estratégicas. Aplicação.
+
+    Estratégia de aquisição como opção para inovação tecnológica competitiva no setor
+    de TI - a experiência da EMC.
+
+    Inovação, modelos de negócios e transformação digital - a experiência da Magalu.
+
+    Transformação digital na Construção Civil - a experiência do CTE Centro de Tecnologia
+    de Edificações.
+
+    Inovação em serviços - a experiência do Laboratório Fleury.
+
+    Modelo de gestão de inovação tecnológica - “Gangorra da Competitividade” - aplicação
+    em projetos de inovação da Siemens.
+
+    Formas de organização para a inovação:
+
+    Inovação aberta - Cristália (farmacêutico); Klabin (caixas alimentos);
+
+    Inovação em redes - Petrobras (energia/petróleo e gás: centro de excelência/redes:
+    naval e oceânica; pré-sal);
+
+    Consórcio entre empresas - Coinfar (farmacêutico).
+
+    Inovação em subsidiária e internacionalização de negócios - a experiência da Magneti
+    Marelli Cofap (autopeças).
+
+    Inovação em cadeia produtiva - a experiência da Klabin (celulose/papel/ondulado/embalagens).'
   course_name: 'EAD0715 - Gestão da Inovação para a Competitividade Empresarial
 
     Innovation Management for Business Competitiveness'
   deactivation: ''
+  instructors: '76284 - Guilherme Ary Plonski
+
+    1305012 - Moacir de Miranda Oliveira Júnior'
   lecture_credits: '2'
-  objectives: "\x95 Desenvolver com os estudantes sua capacidade de compreender a\
-    \ importância da Inovação para a competitividade da empresa.\n\x95 Discutir a\
-    \ aplicabilidade das principais ferramentas para viabilizá-la.\n\x95 Mostrar exemplos\
-    \ de inovações bem e mal sucedidas e analisar o que pode ser aprendido dessas\
-    \ experiências."
+  objectives: 'Desenvolver com os/as estudantes sua capacidade de compreender a importância
+    da inovação para a competitividade da empresa, com ênfase no contexto brasileiro.
+
+    Discutir a aplicabilidade das principais ferramentas para viabilizá-la.
+
+    Mostrar exemplos de inovações bem e malsucedidas e analisar o que pode ser aprendido
+    dessas experiências.'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220706142403'
-digest: XQTMIM3JK2I2RAYJ4TGNB4IBXOYU7G5N
-updated_at: '20220706142403'
-url: https://web.archive.org/web/20220706142403id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0715&codcur=12012&codhab=4
+created_at: '20230922023645'
+digest: 6EW6P6YEILNL6NMURYDSIKGWI46KVXGI
+updated_at: '20230922023645'
+url: https://web.archive.org/web/20230922023645id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0715&codcur=12012&codhab=1
