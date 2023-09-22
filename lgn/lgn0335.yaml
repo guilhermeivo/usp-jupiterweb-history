@@ -73,7 +73,7 @@ courses:
   total_workload: 120 h
   type: Semestral
 created_at: '20230529160105'
-digest: XCKODEBQQURT3HHDUBVIBAIA6UYN57ZS
+digest: Z6MTAN3OCKL4GXTFHCC4EBOQDV7EUEDB
 requirements:
 - course: 'Curso: 11061  Ciências dos Alimentos (noturno) - Período ideal: 8'
   requirements:
@@ -98,5 +98,5 @@ requirements:
   - code: LFN0233
     name: Zoologia e Ambiente
     type: Requisito
-updated_at: '20230529160105'
-url: https://web.archive.org/web/20230529160105id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LGN0335
+updated_at: '20230922090104'
+url: https://web.archive.org/web/20230922090104id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0335&codcur=11070&codhab=4
