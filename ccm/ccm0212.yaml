@@ -1,5 +1,5 @@
 courses:
-  activation: 01/07/1994
+  activation: 15/07/2023
   assessment: A possibilidade de recuperação depende de análise, caso a caso, feita
     pela Comissão de Graduação do CCM.
   bibliography: 'Curso de Física de Berkeley, vol. 2, Eletricidade e Magnetismo, E.M.
@@ -11,7 +11,9 @@ courses:
     Classical Electrodynamics, J.D. Jackson, second edition, John Wiley and Sons Inc.,
     New York, 1975.
 
-    The Feynman Lectures on Physics, vol. 2. Addison-Wesley Publishing Company.'
+    The Feynman Lectures on Physics, vol. 2. Addison-Wesley Publishing Company.
+
+    online: https://www.feynmanlectures.caltech.edu/II_toc.html'
   course: "1. Visão geral do eletromagnetismo.\n(a) Forças elétricas e magnéticas.\n\
     (b) A noção de campo.\n(c) O impacto do eletromagnetismo na ciência e na tecnologia\n\
     2. Revisão do cálculo vetorial integral e diferencial.\n3. Eletrostática.\n(a)\
@@ -62,7 +64,7 @@ courses:
   practical_credits: '0'
   total_workload: 90 h
   type: Semestral
-created_at: '20211027124930'
-digest: LYU4HAFH6CFJ6MOCH3EOT4OAGOGKPCAJ
-updated_at: '20230204051828'
-url: https://web.archive.org/web/20230204051828id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0212
+created_at: '20230922075656'
+digest: 4GRKPOZJXDAIDRESCLWE3QTHQQ3KA34F
+updated_at: '20230922075656'
+url: https://web.archive.org/web/20230922075656id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0212
