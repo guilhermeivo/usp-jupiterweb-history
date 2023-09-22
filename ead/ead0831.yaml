@@ -1,0 +1,115 @@
+courses:
+  activation: 15/07/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'Básica
+
+    Carrete e Tavares Cálculo no Mercado Financeiro – Conceitos, Ferramentas e Exercícios
+    Editora Gen Carrete e Tavares Mercado Financeiro Brasileiro, Editora Gen
+
+    Assaf Mercado Financeiro Editora Gen
+
+    Securato, Cálculo Financeiro das Tesourarias Ed. Saint Paul'
+  course: 'Intermediação financeira Conceito
+
+    Histórico e desenvolvimento dos mercados financeiros Crises financeiras
+
+    Sistema Financeiro Nacional Agentes e funções
+
+    Regulação bancária (órgãos reguladores)
+
+    Mercado Monetário Títulos públicos
+
+    Função do Banco Central, COPOM Selic, CETIP
+
+    Taxas de juros
+
+    Características e precificação dos principais títulos
+
+    Mercado de Crédito
+
+    Principais produtos de curto e longo prazo, características
+
+    Mercado Cambial
+
+    Função, participantes, regimes cambiais Mercado Interbancário de Câmbio
+
+    Câmbio comercial
+
+    Produtos de financiamento de câmbio
+
+    Mercado de capitais
+
+    Função, agentes, participantes, produtos Mercado público
+
+    Mercado privado Produtos: Ações, IPO
+
+    Produtos: Debêntures, notas promissórias Operações estruturadas e securitização
+    Mercado de capitais internacional
+
+    Conceitos fundamentais de Matemática FInanceira Fluxo de Caixa: componentes e
+    representação Valor do dinheiro no tempo
+
+    Juros
+
+    Regimes de Capitalização - Juros Simples Aplicações Juros Simples
+
+    Aplicação Hot Money
+
+    Desconto Simples ou Comercial Aplicação Desconto Duplicatas Aplicação US. TBill
+
+    Taxas Proporcionais
+
+    Regimes de Capitalização – Juros Compostos Aplicações Juros Compostos
+
+    Operações de Desconto Aplicação LTN
+
+    Taxas de Juros Equivalentes
+
+    Taxas de Juros Nominal, Real, Inflação
+
+    Sequencia de Capitais (Prestações) Uniformes
+
+    Aplicação Notas do Tesouro Nacional Perpetuidade
+
+    Consols
+
+    Sistemas de Amortização de Empréstimos SAC
+
+    Tabela Price'
+  course_name: 'EAD0831 - Mercados Financeiros e Matemática Financeira
+
+    Financial Markets and Financial Math'
+  deactivation: ''
+  instructors: '120407 - Eduardo Kazuo Kayo
+
+    761326 - Jose Roberto Ferreira Savoia
+
+    11705705 - Leandro dos Santos Maciel
+
+    870996 - Liliam Sanchez Carrete
+
+    1733351 - Rafael Paschoarelli Veiga
+
+    5355200 - Rosana Tavares
+
+    2917292 - Roy Martelanc'
+  lecture_credits: '4'
+  objectives: 'Apresentar a estrutura, função, agentes do mercado financeiro
+
+    Apresentar como os mercados financeiros estão relacionados
+
+    Apresentar os principais produtos do mercado financeiro
+
+    Apresentar os cálculos que envolvem decisão com recursos financeiros
+
+    Decisão de alocação de recursos Precificação de Ativos
+
+    Desenvolvimento de soluções de cálculo financeiro'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20230922015648'
+digest: FW5YKXDPCU7YCUMX4Y2ATTAUVJZJBMBC
+updated_at: '20230922015648'
+url: https://web.archive.org/web/20230922015648id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0831&codcur=12012&codhab=1
