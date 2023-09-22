@@ -1,85 +1,218 @@
 courses:
-  activation: 01/01/2006
-  assessment: ''
-  bibliography: 'Avgerou, C. Information Systems and Global Diversity, Oxford University
-    Press, 2002 - Part I - pp 23-120
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: Masiero, Gilmar. Managing Organizations in Brazil. Unpublished Book
+    prepared to Emerald in 2021, but not yet published. Available at the Dropbox.
+  course: 'Contexto sócio-econômico e temas atuais
 
-    Donald N. Sull, Alejandro Ruelas-Gossi , Martin Escobari ,  "Innovating Around
-    Obstacles," Strategy & Innovation", Harvard Business School Publishing, November/December
-    2003.
+    Visão geral do Brasil em Números e Fatos
 
-    Keys, J. Bernard; Edge, Alfred G. e Wells, Robert A. The Multinational Management
-    Game: a game of strategy,  1992.
+    Temas atuais: Má gestão da Pandemia e do Desenvolvimento Sustentável
 
-    Project Management Body of Knowledge, PMI - Project Management Institute, Four
-    Campus Boulevard, Newton Square, Pennsylvania, 2004.
+    O Território e Regiões do Brasil
 
-    Pindyck, Robert and Rubinfeld, Daniel L. Microeconomics. 6a. edition, Prentice
-    Hall.
+    O Instituto Brasileiro de Geografia e Estatística - IBGE e os seus dados sobre
+    a população brasileira
 
-    The Great Leap: Driving Innovation From the Base of the Pyramid
+    Sociedade Brasileira e Questões Sociais
 
-    Stuart L. Hart and Clayton M. Christensen
+    Desigualdades Econômicas e Espaciais
 
-    Topic: Corporate Strategy
+    Diversidade do País e das suas Regiões
 
-    Reprint 4415; Fall 2002, Vol. 44, No. 1, pp. 51-56
+    Cinco Grandes e Contrastantes Regiões do Brasil
 
-    Tidd, Joe; Bessant, John and Pavitt, Keith. Managing innovation: integrating technological,
-    market and organizational change. Hohn Wiley & Sons
+    A Maior e Pouco Conhecida Região do Mundo: A Amazônia
 
-    Vasconcellos, Eduardo and Bruno, Marcos. "Applying a Management Framework to Three
-    High-Sharing Technological Alliances", Rivista di Economia Dimpresa Del Universitá
-    à Bocconi. Anno XXVI, nr. 2, giugno 2003.
+    A Região Sul do Brasil - Europeus fora da Europa
 
-    Wright, James T.C. ,  BACK TO THE VW  BEETLE OR A NEW INDUSTRIAL POLICY?  Article
-    originally published in O Estado de São Paulo, pg. 2 , São Paulo, Brazil, 22 nd
-    of March, 1993.  www.fia.com.br/profuturo
+    A Região Sudeste do Brasil - Um País Desenvolvido
 
-    WRIGHT, James Terence Coulter. Technological Strategies for Competitiveness in
-    Brazil''s Wine Industry. International Conference on Management of Technology,
-    IV, 1994. Miami. Anais. USA: Industrial Engineering and Management Press Institute
-    of Industrial Engineers, 1994, v. II - p. 1437-1442.
+    A Região Nordeste do Brasil - Uma Terra Seca com Concentração de Poder Político
 
-    Zylbersztajn,D and Miele,M.2002. Stability of Contracts in the Brazilian Wine
-    Industry.Paradoxes infood chains and networks.University of Wageningen, THe Netherlands.
+    A Região Centro-Oeste do Brasil - Uma Nova Fronteira para o Agronegócio
 
-    Zylbersztajn,D.2004. Organization of firm networks: Five critical points for empirical
-    analysis. Chain and Network Science.'
-  course: 'Caracterização do ambiente das organizações brasileiras: ambiente político-institucional,
-    aspectos da economia brasileira e sua inserção global, estruturas de mercado e
-    negócios
+    Desenvolvimento Sustentável no Mundo e no Brasil
 
-    Estudos organizacionais no Brasil
+    Crescimento Econômico Brasileiro com Industrialização
 
-    Estratégia, Previsão e Cenários para organizações brasileiras
+    Iniciativas de Desenvolvimento Sustentável Global
 
-    Finanças no Brasil
+    O progresso brasileiro em direcção aos Objectivos de Desenvolvimento Sustentável
+    (ODS)
 
-    Marketing no Brasil
+    A pobreza no Mundo e no Brasil
 
-    Gestão de Pessoas no Brasil
+    O Fundo da Amazônia
 
-    Cultura nas organizações brasileiras
+    A Amazônia Azul: O Brasil quer ser Maior
 
-    Administração de Projetos no Brasil
+    Empreendedorismo no Brasil
 
-    Gestão de Inovação Tecnológica no Brasil
+    Empresários Brasileiros
 
-    Gestão da Informação na organização brasileira.'
-  course_name: 'EAD0780 - Administração de Organizações no Brasil
+    Embrapa e Embrapi apoiam RD&I
+
+    O Sistema S: Senai, Senac, Sesc, Sesi
+
+    O Sistema Financeiro Brasileiro
+
+    A Concentração do Setor Bancário Brasileiro
+
+    Um resumo da História do Banco do Brasil
+
+    PMEs no Brasil
+
+    Uma visão geral de como fazer negócios no Brasil
+
+    Peculiaridades das pequenas empresas no Brasil
+
+    Famosas iniciativas das Marcas Brasileiras durante a Pandemia da Covid-19
+
+    Incubadoras de empresas no Brasil
+
+    Fintechs e Bancos Virtuais no Brasil
+
+    Digitalização do País - Algumas Iniciativas
+
+    Multinacionais no Brasil
+
+    Parceiros brasileiros de Comércio e Investimento
+
+    O Agronegócio Brasileiro: Um Fornecedor Global de Commodities
+
+    Empresas europeias e americanas operando no Brasil
+
+    Empresas japonesas, chinesas e sul-coreanas no Brasil
+
+    Multinacionais Brasileiras: Petrobras, Embraer, e Natura
+
+    Zonas Francas do Brasil
+
+    Socio-economic Context and Current Themes
+
+    General overview of Brazil in Numbers and Facts
+
+    Current Themes: Mismanagement of the Pandemic and Unsustainable Development
+
+    The Territory and Regions of Brazil
+
+    The Brazilian Institute of Geography and Statistics – IBGE and its data on the
+    Brazilian Population
+
+    Brazilian Society and Social Issues
+
+    Economic and Spatial Inequalities
+
+    Diversity of the Country and its Regions
+
+    Five Large and Contrasting Regions of Brazil
+
+    The Largest and Little-known Region of the World: The Amazon
+
+    The South Region of Brazil - Europeans outside Europe
+
+    The Southeast Region of Brazil – A Developed Country
+
+    The Northeast Region of Brazil – A Dry Land with Political Power Concentration
+
+    The Center-West Region of Brazil – A New Agribusiness Frontier
+
+    Sustainable Development in the World and in Brazil
+
+    Brazilian Economic Growth with Industrialization
+
+    Global Sustainable Development Initiatives
+
+    Brazilian Progress toward the Sustainable Development Goals (SDGs)
+
+    Poverty in the World and in Brazil
+
+    The Amazon Fund
+
+    The Blue Amazon: Brazil wants to be Bigger
+
+    Entrepreneurship in Brazil
+
+    Brazilian Entrepreneurs
+
+    Embrapa and Embrapi supporting RD&I
+
+    The S System: Senai, Senac, Sesc, Sesi
+
+    The Brazilian Financial System
+
+    The Concentration of the Brazilian Bank Sector
+
+    A summary of the History of Banco do Brasil
+
+    SMEs in Brazil
+
+    An overview of how to do Business in Brazil
+
+    Small Business Peculiarities in Brazil
+
+    Famous Brazilian Brands’ initiatives during the Covid-19 Pandemic
+
+    Business Incubators in Brazil
+
+    Fintechs and Virtual Banks in Brazil
+
+    Digitalizing the Country - Some Initiatives
+
+    Multinationals in Brazil
+
+    Brazilian Trade and Investment Partners
+
+    Brazilian Agribusiness: A Global Commodity Supplier
+
+    European and American Companies operating in Brazil
+
+    Japanese, Chinese, and South Korean Companies in Brazil
+
+    Brazilian Multinationals: Petrobras, Embraer, and Natura
+
+    Brazilian Free Trade Zones'
+  course_name: 'EAD0780 - Management of Organizations in Brazil
 
     Management of Organizations in Brazil'
   deactivation: ''
-  instructors: 31652 - Nicolau Reinhard
+  instructors: 5848082 - Gilmar Masiero
   lecture_credits: '2'
-  objectives: Apresentar, para alunos não familiarizados com a realidade brasileira,
-    o contexto institucional e de negócios e as características da administração de
-    organizações no Brasil.
+  objectives: 'Acquire or reinforce foundations of academic practices regarding writing
+    scientific papers and coordinating interactive and proactive learning sections.
+
+    Develop critical thinking skills, precisely, the use of analytical and comparative
+    reasoning. This skill will be cultivated through in-class guided discussions
+
+    Gain familiarity with Brazilian (as well as international) data sources and develop
+    the skills needed to find and use the information to accomplish a specific task
+
+    Develop critical thinking skills, precisely, the use of analytical and comparative
+    reasoning. This skill will be cultivated through in-class guided discussions
+
+    Develop critical thinking skills, precisely, the use of analytical and comparative
+    reasoning. This skill will be cultivated through in-class guided discussions
+
+    Acquire or reinforce foundations of academic practices regarding writing scientific
+    papers and coordinating interactive and proactive learning sections.
+
+    Develop critical thinking skills, precisely, the use of analytical and comparative
+    reasoning. This skill will be cultivated through in-class guided discussions
+
+    Gain familiarity with Brazilian (as well as international) data sources and develop
+    the skills needed to find and use the information to accomplish a specific task
+
+    Develop critical thinking skills, precisely, the use of analytical and comparative
+    reasoning. This skill will be cultivated through in-class guided discussions
+
+    Develop critical thinking skills, precisely, the use of analytical and comparative
+    reasoning. This skill will be cultivated through in-class guided discussions'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220705084939'
-digest: U7INXZHWT2MASH57JXXKUOYPERNPTKUT
-updated_at: '20220705084939'
-url: https://web.archive.org/web/20220705084939id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0780&codcur=12012&codhab=1
+created_at: '20230922014452'
+digest: 5CDQ2AVYSB56AYHN4DVSUAHLSEYE4ZOH
+updated_at: '20230922014452'
+url: https://web.archive.org/web/20230922014452id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0780&codcur=12012&codhab=1
