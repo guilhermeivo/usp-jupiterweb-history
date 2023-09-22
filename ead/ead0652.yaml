@@ -1,40 +1,98 @@
 courses:
-  activation: 01/01/2017
-  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
-    será submetido a uma reavaliação final, a título de recuperação.
-  bibliography: 'Turban, E. & Meredith, J. R. - Fundamental of Management Science,
-    Irwin, 1994
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'Básica
 
-    Hiller, F. J. & Liberman, G. L. - Introduction to Operations Research, McGraw-Hill,
-    1991
+    1. Moore, J.H. e Weatherford, L.R. Tomada de Decisão em Administração com planilhas
+    eletrônicas, 6ª. Edição (trad). Porto Alegre: Bookman, 2005. (capítulos 9 e 10)
 
-    Eppen, G. D. et alli - Introductory Management Science, Prentice Hall, 1998
+    2. Materiais disponibilizados no ambiente virtual (http://disciplinas.stoa.usp.br/)'
+  course: 'Conceito de Simulação
 
-    Khoshnevis, B. - Discrete Systems Simulation, McGraw-Hill, 1994'
-  course: '· Simulação
+    Números aleatório e pseudo-aleatório
 
-    · Planejamento de experimentos
+    Distribuição de probabilidade
 
-    · Números aleatório e pseudo-aleatório
+    Geração de variáveis estocásticas
 
-    · Geração de variáveis estocásticas
+    Modelo de Monte Carlo (Simulação)
 
-    · Modelo de Monte Carlo
+    Simulação a Eventos Discretos
 
-    · Aplicações
+    Aplicações e Uso de softwares
 
-    · Uso de softwares'
-  course_name: 'EAD0652 - Simulação
+    Simulation Concept
 
-    Simulation'
+    Random and pseudo-random numbers
+
+    Probability distribution
+
+    Generation of stochastic variables
+
+    Monte Carlo Model (Simulation)
+
+    Simulation of Discrete Events
+
+    Applications and Use of Software'
+  course_name: 'EAD0652 - Modelos de Simulação
+
+    Simulation Models'
   deactivation: ''
   instructors: 105091 - Adriana Backx Noronha Viana
   lecture_credits: '2'
-  objectives: Iniciar o estudo de simulação em computadores.
+  objectives: '- Compreender problemas que podem ser resolvidos por meio da simulação,
+    identificando a diferença entre modelos analíticos e simulação;
+
+    - Recordar do framework apresentado na solução de problemas envolvendo a simulação,
+    identificando cada parte do framework na solução de problemas
+
+    - Estimar uma solução ou alternativa para o problema ou situação estudada, justificando
+    as decisões ou escolhas realizadas
+
+    - Enumerar os tipos de variáveis existentes, identificando suas respectivas distribuições
+    de probabilidade;
+
+    - Diferenciar solução analítica e numérica, categorizando problemas a serem resolvidos;
+
+    - Classificar as variáveis existentes nos problemas propostos, inferindo que distribuição
+    de probabilidade deverá ser considerada
+
+    - Reconhecer qual o tipo de simulação deve ser utilizado enumerando os tipos de
+    simulação existentes e as perguntas-chave para a classificação das simulações;
+
+    - Utilizar funções do Excel para gerar valores para as variáveis identificadas
+    nos problemas propostos, executando possíveis cenários para o problema em estudo;
+
+    - Organizar os resultados gerados pelo processo de simulação de forma visual (gráficos
+    de dispersão, gráficos de tendência, tabela de dados, entre outros), concluindo
+    (obtendo) a solução para o problema em estudo;
+
+    - Analisar o impacto das variáveis selecionadas no resultado do objetivo final
+    da simulação selecionando melhores combinações ou possibilidades em relação aos
+    valores das variáveis;
+
+    - Criar novos cenários para uma situação problema, produzindo melhorias para a
+    solução encontrada.
+
+    - Julgar se o modelo de simulação utilizado retrata satisfatoriamente o problema
+    proposto, determinando uma solução possível para o problema em estudo;
+
+    - Refletir se o problema proposto foi solucionado de maneira adequada verificando
+    outras soluções possíveis;
+
+    - Desenvolvimento de trabalho em grupo para Interpretar e selecionar modelos que,
+    em determinadas circunstâncias, melhor retratam uma situação (ou problema).
+
+    - Elaborar apresentação aos colegas de solução encontrada, produzindo vídeo com
+    resolução e demais explicações
+
+    - Executar modelos de simulação utilizando-se as planilhas eletrônicas do Microsoft
+    Excel.'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220804011406'
-digest: MIR5OUUUROV3T35F6T6BN6BOBDADFUDQ
-updated_at: '20220804011406'
-url: https://web.archive.org/web/20220804011406id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0652&codcur=12012&codhab=1
+created_at: '20230922020445'
+digest: 2YX4UM43PQGSL4W7FNEN6AE43LKZEPDU
+updated_at: '20230922020445'
+url: https://web.archive.org/web/20230922020445id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0652&codcur=12012&codhab=1
