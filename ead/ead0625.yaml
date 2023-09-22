@@ -1,59 +1,121 @@
 courses:
-  activation: 01/01/2014
-  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
-    será submetido a uma reavaliação final, a título de recuperação.
-  bibliography: '1. ALBUQUERQUE, Lindolfo G. Competitividade e Recursos Humanos. Revista
-    de Administração da USP, vol. 27(4), p. 16-29, out/dez 1992.
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'Livros base para o curso
 
-    2. DUTRA, Joel Souza. Administração de Carreiras - uma proposta para repensar
-    a gestão de pessoas. São Paulo: Atlas, 1996.
+    DUTRA, Joel – Administração de Carreiras: a pessoa, a organização e as oportunidades.
+    São Paulo, Gen/Atlas. 2017;
 
-    4. LAWLER, E. E. Strategic Pay. USA: Jossey-Bass Inc. Publishers, 1991.
+    DUTRA, Joel; DUTRA, Tatiana; DUTRA, Gabriela – Gestão de Pessoas: Realidade Atual
+    e Desafios Futuros. São Paulo, Gen/Atlas. 2017;
 
-    5. TEIXEIRA, Gilney M. A Curva da Maturidade. Apostila publicada pelo DLP, 1985.
+    Livros de apoio
 
-    6. ULRICH, Dave. Os campeões de Recursos Humanos. São Paulo: Futura, 1998.
+    FLEURY, Maria T. e outros – As Pessoas na Organização. São Paulo, Gente. 2002;
 
-    7. WOOD, T. e PICARELLI, V. (Coopers & Lybrand). Remuneração Estratégica - a nova
-    vantagem competitiva. São Paulo: Atlas, 1999.
+    DUTRA, Joel – Gestão da Carreira na Empresa Contemporânea. São Paulo, Atlas. 2010;
 
-    8. ZIMPECK, Beverly G. Administração de Salários. São Paulo: Atlas, 1990.'
-  course: '· modelo integrado de gestão de pessoas
+    DUTRA, Joel – Desafios na Gestão de Carreiras. São Paulo, Atlas. 2013;
 
-    · gestão de pessoas e estratégia de negócios
+    DUTRA, Joel – Avaliação de Pessoas. São Paulo, Atlas. 2014;
 
-    · processos de remuneração baseados em Cargos
+    DUTRA, Joel – Processo Sucessório. São Paulo, Gen/Atlas. 2016;
 
-    · processos de remuneração baseados no indivíduo
+    DUTRA, Joel – Competências: Conceitos, Instrumentos e Experiências. São Paulo,
+    Gen/Atlas. 2017;
 
-    · sistemas de remuneração variável
+    Dutra, Joel; Veloso, Elza R.; Trevisan Leonardo N. Carreira e Liderança: fronteiras
+    móveis entre indivíduo e organização - Editora In House - 2020
 
-    · processos de remuneração indireta
+    Dutra, Joel; Hipólito José A. Gestão de Pessoas em Empresas e Organizações Públicas
+    - Editora Gen/Atlas 2019
 
-    · processos de carreira e avaliação do desenvolvimento
+    HIPÓLITO, José A.; DUTRA, Joel – Remuneração e Recompensas – São Paulo, Elsevier.
+    2012.
 
-    · participação nos lucros e resultados
+    LAWLER, E. – Strategic Pay – Jossey-Bass, USA 1991;
 
-    · planejamento de carreira - enfoque organizacional
+    ZIMPECK, Beverly – Administração de Salários – Atlas, São Paulo 1990;'
+  course: 'Dinâmica da carreira no mercado e nas organizações
 
-    · planejamento de carreira - enfoque individual
+    Trajetórias de carreira típicas no mercado
 
-    · desafios e tendências em compensação de recursos humanos'
-  course_name: 'EAD0625 - Gestão de Carreira e Remuneração
+    Sistemas de gestão de carreiras
 
-    Compensation and Career Management'
+    Processo sucessório
+
+    Processos de orientação profissional
+
+    Protagonismo na gestão da própria carreira
+
+    Autoconhecimento
+
+    Enfrentamento de dilemas de carreira
+
+    Planejamento da carreira individual
+
+    Construção de projeto de desenvolvimento profissional
+
+    Conciliação de expectativas entre as pessoas e a organização
+
+    Diferentes papéis no processo de conciliação de expectativas (pessoa, gestor e
+    organização)
+
+    Suporte da organização para as pessoas refletirem sobre suas carreiras
+
+    Etapas da carreira e valorização profissional
+
+    Níveis de complexidade nas carreiras profissionais e gerenciais
+
+    Lógica de valorização do mercado para cada degrau de complexidade
+
+    Processos de transição de carreira e fechamento de ciclos.'
+  course_name: 'EAD0625 - Gestão de Carreira
+
+    Career Gestion'
   deactivation: ''
+  instructors: '2783915 - Joel Souza Dutra
+
+    1849068 - Tania Casado'
   lecture_credits: '2'
-  objectives: Propiciar aos alunos conhecimento sobre conceitos, métodos e práticas
-    de Gestão da Compensação de Recursos Humanos, integrando essa função às demais
-    atividades de Gestão de Pessoas na Organização. Estimular os alunos a refletir
-    criticamente sobre as modernas técnicas de Gestão da Remuneração  nas Organizações
-    e seus principais desafios.Auxiliar os alunos a avaliar decisões de CArreira como
-    parte de seu desenvolvimento em Organizações.
+  objectives: 'Refletir sobre seus objetivos de carreira e e sobre as ações de desenvolvimento
+    necessárias, construindo seu plano individual de carreira
+
+    Compreender a dinâmica da carreira no mercado de trabalho e nas organizações,
+    desenhando e explicando as trajetórias de carreira de uma determinada organização
+
+    Analisar o processo de desenvolvimento na carreira e de valorização profissional,
+    identificando e diferenciando as etapas de uma determinada carreira e os níveis
+    salariais correspondentes
+
+    Avaliar seu próprio desenvolvimento na carreira e dos membros de sua equipe, predizendo
+    indicadores de evolução e de aprendizagem.
+
+    Analisar o peso da carreira profissional frente às demais dimensões da sua vida,
+    comparando situações de escolhas efetuadas por diversas pessoas com as suas possíveis
+    escolhas.
+
+    Avaliar alternativas profissionais ponderando os aspectos racionais e emocionais
+    envolvidos nas possíveis escolhas de carreira
+
+    Compreender os ciclos de carreira e a necessidade de renovação contínua de conhecimentos,
+    exemplificando situações vividas por pessoas do seu conhecimento ou investigadas
+    nos trabalhos para a disciplina
+
+    Criar distância crítica sobre a própria carreira e sobre o seu processo de desenvolvimento,
+    desenvolvendo ações para construir consciência crítica sobre a carreira.
+
+    Compreender a importância da cooperação no processo de desenvolvimento profissional,
+    explicando os benefícios e contribuições da cooperação no desenvolvimento das
+    pessoas
+
+    Compreender a contribuição da diversidade no desenvolvimento pessoal e profissional,
+    explicando como a diversidade pode influenciar no desenvolvimento.'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220705174735'
-digest: MK7BOPD7ZGBONUX43BVZNFEK5JUDN7JI
-updated_at: '20220804011335'
-url: https://web.archive.org/web/20220804011335id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0625&codcur=12012&codhab=1
+created_at: '20230922002730'
+digest: NCTA6ATBSSDUZXACTMCOUPW7TGIGIYNT
+updated_at: '20230922002730'
+url: https://web.archive.org/web/20230922002730id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0625&codcur=12012&codhab=1
