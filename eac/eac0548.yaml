@@ -1,0 +1,154 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    Bio, S. R. (2008). Sistemas de informação: um enfoque gerencial, 2 ed. São Paulo,
+    SP: Atlas.
+
+    Cornacchione, E. B., Jr. (1999). Contribuição ao estudo de arquitetura de sistemas
+    de informações de gestão econômica”. Tese (Doutorado em Controladoria e Contabilidade)
+    – FEA/USP.
+
+    Gil, A. L., Biancolino, C. A. & Slavov, T. N. B. (2017). Sistemas de informações
+    contábeis. São Paulo: Atlas.
+
+    Gonçalves, R & Riccio, E. L. (2009). Sistemas de informação. São Paulo: Atlas.
+
+    Padoveze, C. L. (2019). Sistemas de informações contábeis, 8 ed. São Paulo: Atlas.
+
+    Reginato, L. (2006). A tecnologia da informação como instrumento de apoio à controladoria:
+    um estudo de caso envolvendo a aplicação das ferramentas de Business Intelligence.
+    Dissertação (Mestrado) - UNISINOS.
+
+    Riccio, E. L. (1989). Uma contribuição ao estudo da contabilidade como sistema
+    de informação. Tese (Doutorado em Controladoria e Contabilidade) – FEA/USP.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    Assi, M. (2012). Gestão de Riscos com Controles Internos. São Paulo: Saint Paul.
+
+    Biancolino, C. A. (2010). Valor de uso do ERP e gestão contínua de pós-implementação:
+    estudo de casos múltiplos no cenário brasileiro. Tese (Doutorado em Controladoria
+    e Contabilidade) – FEA/USP.
+
+    Baltzan, P., & Phillips, A. (2012). Sistemas de informação. Porto Alegre: AMGH
+    Bookman.
+
+    Hall, J. A. (2011). Accounting information systems. Mason, OH: Cengage.
+
+    Lake, P. & Crowther, P. (2013). Concise guide to databases: A pratical introduction.
+    London: Springer.
+
+    Laudon, K. C. & Laudon, J. P. (2015). Sistemas de informações gerenciais, 11 ed.
+    São Paulo, SP: Pearson.
+
+    Li, H. (2017). Three essays on cybersecurity-related issues. (Non-published Dissertation).
+    Rutgers, The State University of New Jersey.
+
+    Mancini, D., Vaassen, E. H. J, & Dameri, R. P. (Eds.) (2013). Accounting information
+    systems for decision making. New York, NY: Springer.
+
+    Moscove, S. A., Simkin, M. G. & Bagranoff, N. A. (2002). Sistemas de Informações
+    Contábeis. São Paulo: Atlas.
+
+    Papazafeiropoulou, A. & Spanaki, K. (2016). Undestanding governance, risk and
+    compliance information systemsL The experts view. Information Systems Frontier,
+    18, 1251-1263.
+
+    Perks, C. & Beveridge, T. (2003). Guide to Enterprise IT Architecture. New York:
+    Springer- Verlag.
+
+    Rezende, D. A. (2011). Planejamento de Sistemas de informação e Informática, 2
+    ed. São Paulo, Atlas.
+
+    Romney, M. B. & Steinbart, P. J. (2015). Accounting information systems, 13th
+    ed. Upper Saddle River, NJ: Pearson.
+
+    Ross, J. W., Weill, P., & Robertson, D. C. (2012). Arquitetura de TI como Estratégia
+    Empresarial. Porto Alegre: AMGH Bookman.
+
+    Turban, E., Volonino, L., Sipior, J. C., & Wood, G. R. (2013). Information Technology
+    for Management. Advancing Sustainable Profitable Business Grown, 9th Edition,
+    Wiley.
+
+    Wallace, P. (2015). Introduction to information systems, 2nd ed. Upper Saddle
+    River, NJ: Pearson.
+
+    Westerman, G.,Hunter, R. (2008). O Risco de TI: Convertendo as ameaças aos negócios
+    em Vantagem Competitiva. São Paulo: M.Books do Brasil.'
+  course: "1.\tA EMPRESA COMO SISTEMA\n1.1.\tConceitos, Classificação, Componentes,\
+    \ Enfoque sistêmico\n1.2.\tCaracterização do ambiente empresarial e seus elementos\n\
+    1.3.\tSubsistemas empresariais\n2.\tSISTEMA DE INFORMAÇÃO DA EMPRESA (SI)\n2.1.\t\
+    Dados & Informação\n2.2.\t Atributos da informação\n2.3.\tConceitos, Classificação,\
+    \ Componentes\n2.4.\tA importância da informação nas organizações e o papel dos\
+    \ sistemas de informação\n3.\tSISTEMA DE INFORMAÇÕES POR CICLO OPERACIONAL\n3.1.\t\
+    Ciclos operacionais (Receitas, Gastos, Produção, RH, Financeiro, Imobilizados...)\n\
+    3.2.\tDecisões\n3.3.\tPapel dos sistemas de informações\n4.\tTECNOLOGIA NO SISTEMA\
+    \ DE INFORMAÇÕES DA EMPRESA (IMPACTOS E INFRAESTRUTURA)\n4.1.\tConceitos, Componentes,\
+    \ Tipos (bancos de dados, hardware, software, aplicativos)\n4.2.\tRelação entre\
+    \ TI e SI\n4.3.\tUso, benefícios e desafios da TI para o SI\n5.\tTECNOLOGIA E\
+    \ LINGUAGEM DOS SISTEMAS DE INFORMAÇÕES ELETRÔNICOS (ESPECIALMENTE XBRL)\n5.1.\t\
+    Decisão\n5.2.\tRelatórios\n5.3.\tFuncionalidades\n5.4.\tInterfaces\n6.\tSISTEMA\
+    \ INTEGRADO DE INFORMAÇÕES DA EMPRESA (ERP)\n6.1.\tPapel estratégico dos SI\n\
+    6.2.\tPerfil do Profissional da Área de Negócios\n6.3.\tRelacionamento com outras\
+    \ áreas e especialidades\n6.4.\tPlanejamento de implementação e/ou manutenção\
+    \ do ERP\n6.5.\tPadronização dos processos e dos controles internos\n6.6.\tReavaliação\
+    \ dos processos e dos controles das informações da empresa\n6.7.\tAtuação humana\
+    \ no ERP: formação, treinamento e engajamento\n7.\tSISTEMAS EMPRESARIAIS: APLICAÇÕES\n\
+    7.1.\tEPM, CRM, SCM, BI...\n8.\tSPED: O ERP FISCAL\n9.\tSISTEMA DE INFORMAÇÃO\
+    \ CONTÁBIL (SIC) - ABORDAGEM PRÁTICA\n9.1.\tMetodologia de implantação do SIC\n\
+    9.2.\tTimes (pessoas), Integração\n9.3.\tCentralização, Descentralização, Distribuição\
+    \ e Terceirização\n10.\tINTEGRIDADE E SEGURANÇA EM SISTEMAS\n10.1.\tIntegridade\
+    \ do sistema de informações contábeis (Governança, Risco e Compliance)\n10.2.\t\
+    Proteção do sistema de informações contábeis (proteção de dados e ciberataque)"
+  course_name: 'EAC0548 - Sistemas de Informações Contábeis
+
+    Accounting Information Systems'
+  deactivation: ''
+  instructors: '73235 - Edgard Bruno Cornacchione Junior
+
+    606298 - Edison Carlos Fernandes
+
+    990725 - Joshua Onome Imoniana'
+  lecture_credits: '4'
+  objectives: "APRESENTAÇÃO DA DISCIPLINA:\nProfissionais da área financeira são cada\
+    \ vez mais demandados pelas organizações para assumirem papéis e tomarem decisões\
+    \ que envolvem ambiente tecnológico e soluções digitais que se desenvolvem de\
+    \ forma rápida em ambiente extremamente dinâmico. Nesta disciplina um olhar mais\
+    \ dedicado é dado sobre os Sistemas de Informações Contábeis, seus usos e integrações\
+    \ no ambiente corporativo, benefícios e desafios de projetos de implantação e\
+    \ manutenção, bem como seu papel na elaboração de relatórios contábeis em atendimento\
+    \ às demandas internas e externas. Aplicações práticas são exploradas. Ambiente\
+    \ para fomentar o desenvolvimento de atitude e postura positiva e apreciativa\
+    \ ao papel da tecnologia e dos sistemas na profissão é claramente oferecido. A\
+    \ estratégia instrucional adotada esta pautada em visão mais ampla sobre os temas\
+    \ e suas relações com as organizações e o profissional da área financeira, prevendo\
+    \  oportunidades para discussões práticas e aplicações destes conceitos.\nOBJETIVOS\
+    \ DE APRENDIZAGEM:\nOs participantes que concluírem exitosamente esta disciplina\
+    \ estarão aptos a:\n1.\tDiscutir conceitos, características estruturação e funcionamento\
+    \ de Sistemas de Informações Contábeis (SIC);\n2.\tDescrever processos de integração\
+    \ de Sistemas de Informações Contábeis (SIC) com os demais sistemas de informações\
+    \ de uma organização;\n3.\tAdotar visão sistêmica ao analisar os componentes da\
+    \ organização;\n4.\tDemonstrar benefícios e desafios relacionados operacionalização\
+    \ de Sistemas de Informações Contábeis (SIC) com uso de softwares específicos\
+    \ adotados pelas organizações;\n5.\tComparar soluções tecnológicas relacionadas\
+    \ aos Sistemas de Informações Contábeis (SIC), incluindo, por exemplo, ERP, EPM,\
+    \ CRM, SPM, SCM, GRC, BI e SPED;\n6.\tIlustrar o processo de preparação de relatórios\
+    \ financeiros e não-financeiros em ambiente tecnológico;\n7.\tInterpretar soluções\
+    \ de governança;\n8.\tDescrever o processo de gestão de riscos e compliance;\n\
+    9.\tAdotar postura positiva e apreciativa em relação ao uso de tecnologias para\
+    \ otimização de Sistemas de Informações Contábeis (SIC)."
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20230922022339'
+digest: WKXIGE4HSEVSN3TT6ZF24QUH5XFODEG7
+updated_at: '20230922022339'
+url: https://web.archive.org/web/20230922022339id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0548&codcur=12033&codhab=4
