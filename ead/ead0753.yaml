@@ -1,40 +1,121 @@
 courses:
-  activation: 01/01/2014
+  activation: 01/01/2023
   assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
     média final.
-  bibliography: "Complementar\n- Turban, E. Electronic Commerce 2010: A Managerial\
-    \ Perspective: Pearson, 2010\n- Osterwalder e Pigneur \x96 Business Model Generation\
-    \ \x96 Alta Books, 2011\n- Barabasi, Albert-Laszlo, Linked: a nova ciência dos\
-    \ networks \x96 Leopardo Editora, 2009\n- McAfee, Andrew \x96 Empresas 2.0 \x96\
-    \ Editora Campus, 2010\n- Tapscott e Williams: Wikinomics, como a colaboração\
-    \ em massa muda tudo. Ed. Nova Fronteira, 2007\n- Anderson, Chris \x96 A Cauda\
-    \ Longa \x96 Elsevier, 2006\n- Qualman, Erik \x96 Socialnomics \x96 Saraiva, 2011\n\
-    - SUROWIECKI, JAMES \x96 A Sabedoria das Multidões \x96 Record, 2006\n- Gansky,\
-    \ Lisa \x96 Mesh, Porque o futuro dos negócios é compartilhar \x96 Starlin Alta,\
-    \ 2011"
-  course: "1.\tA Sociedade da Informação\n2.\tO impacto das redes sociais\n3.\tA adoção\
-    \ de inovações na sociedade da informação\n4.\tInclusão Digital e Governança da\
-    \ Internet\n5.\tApresentação, temas e evolução de Sistemas e Tecnologia de TI\n\
-    6.\tSistemas Empresariais\n7.\tRedes Sociais, Web 2.0 e Mídias Digitais\n8.\t\
-    Modelos de negócio em comércio eletrônico\n9.\tNovas Tecnologias de Informação\
-    \ e Inovação"
-  course_name: 'EAD0753 - Sistemas de Informações Empresariais e Negócios Digitais
+  bibliography: 'Complementar
 
-    Business Information Systems and Digital Business'
+    - McAfee, A.; Brynjolfsson, Machine, Platform, Crowd: Harnessing our Digital Future.
+    Norton Books, 2017.
+
+    - Turban, E. Electronic Commerce 2010: A Managerial Perspective: Pearson, 2010
+
+    - Stone, B. The Everything Store: Jeff Bezos and the Age of Amazon. Little, Brown
+    and Company, 2013
+
+    - Barabasi, Albert-Laszlo, Linked: a nova ciência dos networks – Leopardo Editora,
+    2009
+
+    - Shirky, C. Here Comes Everybody: how change happens when people come together.
+    Penguin Books, 2008
+
+    - McAfee, Andrew – Empresas 2.0 – Editora Campus, 2010
+
+    - Anderson, Chris – A Cauda Longa – Elsevier, 2006
+
+    - Qualman, Erik – Socialnomics – Saraiva, 2011
+
+    - Surowiecki, James – A Sabedoria das Multidões – Record, 2006
+
+    - Gansky, Lisa – Mesh, Porque o futuro dos negócios é compartilhar – Starlin Alta,
+    2011
+
+    - Mayer-Schönberger e Cukier – Big Data: A revolution that will transform how
+    we live, work and think, 2013
+
+    - Souza, C.A.; Saccol, A.Z. (Orgs) Sistemas ERP no Brasil. Ed Atlas, 2003.
+
+    - Kelmereit, D. The Silent Intelligence: The Internet of Things, Ventures, 2013
+
+    - Scoble, R.; Israel, S. Age of Context: Mobile, Sensors, Data and the Future
+    of Privacy, CreateSpace, 2013
+
+    - Turkle, S. Alone Together: why we expect more from technology and less from
+    each other, First Trade, 2012
+
+    - Evans. D. Schmalensee, R. Matchmakers: the new economics of Multisided Platforms,
+    HBR Press, 2016
+
+    - Domingos, P. The Master Algorithm: how the quest for the ultimate learning machine
+    will remake our world. Basic Books, 2015.
+
+    - Ford, M. The Rise of the Robots: Technology and the Threat of a Jobless Future.
+    Basic Books, 2015
+
+    - Tegmark, M. Life 3.0: Being Human in the age of Artificial Intelligence. Knopf,
+    2017
+
+    - Vigna, P. Casey, M.J. The Age of Criptocurrency: how Bitcoin and Digital Money
+    are challenging the Global Economic Order. St. Martin´s Press, 2015
+
+    - Dowling, J.P. Schrödinger´s Killer App: race to build the first Quantum Computer.
+    CRC, 2013'
+  course: 'Apresentação, Temas e Evolução de Sistemas e dos Modelos de Negócios Digitais
+
+    Transformação Digital
+
+    Sistemas Empresariais (ERP/CRM/SCM/BI/CE)
+
+    Modelos de Negócios Digitais - Conceituação
+
+    Modelos de Negócio em Comércio Eletrônico
+
+    Modelos de Negócio em Redes Sociais, Web 2.0 e Mídias Digitais
+
+    Modelos de Negócio em Aplicativos Móveis
+
+    Modelos de Negócio em Plataformas Multilaterais Digitais
+
+    Tecnologias Emergentes e Disruptivas (p.ex Blockchain, Smart Robots, Inteligência
+    Artificial, Big Data, Internet of Things, Realidade Virtual e Realidade Aumentada,
+    Veículos Autonomos...)
+
+    Desenvolvimento de um Modelo de Negócios Digital (trabalho semestral)'
+  course_name: 'EAD0753 - Transformação Digital e Negócios Digitais nas Organizações
+
+    Digital Transformation and Digital Business in Organizations'
   deactivation: ''
+  instructors: 606684 - Cesar Alexandre de Souza
   lecture_credits: '2'
-  objectives: "Apresentar visão sobre Sistemas e Tecnologias de Informação (TI) e\
-    \ conceitos atuais relacionados à aplicação e uso estratégico da Web e da TI nas\
-    \ organizações e na sociedade. Avaliar o potencial de inovação contínua e de ruptura\
-    \ para os negócios trazidos por novas tecnologias de informação. Apresentar e\
-    \ discutir os sistemas empresariais da atualidade \x96 ERP / CRM / BI / e-commerce\
-    \ / social-commerce / mobile-commerce. Apresentar e discutir os impactos das novas\
-    \ tecnologias de redes sociais e Web 2.0 nas organizações e na sociedade, bem\
-    \ como seus aspectos éticos."
+  objectives: 'Compreender os conceitos envolvidos na elaboração e apresentação de
+    novos modelos de negócio digitais e desenvolver a capacidade de elaboração dos
+    mesmos.
+
+    Compreender os impactos das tecnologias digitais disruptivas e emergentes (p,ex
+    Blockchain, Smart Robots, Big Data, Inteligência Artificial, Internet of Things,
+    Realidade Virtual/Aumentada, Veículos Autônomos...) nas organizações, nos seus
+    modelos de negócio e na sociedade.
+
+    Discutir os impactos das tecnologias de redes sociais, Web 2.0 e novas mídias
+    digitais nas organizações e na sociedade, bem como seus aspectos éticos.
+
+    Discutir os impactos das tecnologias de redes sociais, Web 2.0 e novas mídias
+    digitais nas organizações e na sociedade, bem como seus aspectos éticos.
+
+    Realizar trabalho semestral em grupo envolvendo a proposta e apresentação de modelo
+    de negócio digital baseado em tecnologia digital
+
+    Realizar a apresentação do trabalho semestral no formato de “pitch”
+
+    Desenvolver relatório escrito apresentado o modelo de negócios proposto no trabalho
+    semestral.
+
+    Compreender os conceitos atuais relacionados à aplicação de Sistemas de Informação
+    e Tecnologias de Informação Digitais (TDs) e seu uso estratégico em organizações
+    e em novos modelos de negócios digitais (NMND).'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220706025536'
-digest: WL3DZ7XHXQ2X25WV4WZGNGKSVLGUPGLL
-updated_at: '20220706025536'
-url: https://web.archive.org/web/20220706025536id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0753&codcur=12012&codhab=1
+created_at: '20230922022627'
+digest: MQ4BOQDH4XD2KLTRJDZNAONVBYQUX5X5
+updated_at: '20230922022627'
+url: https://web.archive.org/web/20230922022627id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0753&codcur=12012&codhab=1
