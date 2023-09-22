@@ -1,0 +1,134 @@
+courses:
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'Básica
+
+    CARMONA, René. Statistical Analysis of Financial Data in R. 2 Ed. NY, US: Springer,
+    2014.
+
+    DIXON, Mattew F.; HALPERIN, Igor; BILOKON, Paul. Machine Learning in Finance –
+    From Theory to Practice. Switzerland: Springer, 2020.
+
+    GERON, Aurelien. Mãos à Obra: Aprendizado de Máquina com Scikit-Learn, Keras &
+    TensorFlow – Conceitos, Ferramentas e Técnicas para a Construção de Sistemas Inteligentes.
+    2 Ed. O’Reilly, 2019.
+
+    HASTIE, Trevor; TIBSHIRANI, Robert; FRIEDMAN, Jerome. The Elements of Statistical
+    Learning - Data Mining, Inference and Prediction. 2 Ed. New York: Springer, 2017.
+
+    HILPISCH, Yves. Artificial Intelligence in Finance – A Python-Based Guide. US:
+    O’Reilly, 2021.
+
+    PRADO, Marcos L. Advances in Financial Machine Learning. Hoboken, NJ, US: John
+    Wiley & Sons, 2018.'
+  course: 'Sistemas Inteligentes
+
+    Inteligência Artificial e Machine Learning na análise de dados financeiros;
+
+    Aprendizado supervisionado e não supervisionado.
+
+    Redes Neurais Artificiais em Finanças
+
+    Estrutura e funcionalidade;
+
+    Treinamento e validação;
+
+    Aplicações em finanças: previsão de séries econômico-financeiras.
+
+    K-Nearest Keighbors em Finanças
+
+    Problemas de classificação;
+
+    Métricas de (dis)similaridade;
+
+    Aplicações em finanças: avaliação de empresas e rating de crédito.
+
+    Algoritmos Genéticos em Finanças
+
+    Otimização e computação evolucionária;
+
+    Operadores genéticos e processo evolucionário;
+
+    Aplicações em finanças: otimização de carteiras de investimento.
+
+    Outras técnicas de Inteligência Artificial e Machine Learning
+
+    Redes Neurais Profundas (Deep Learning), Árvores de Decisão, Random Forest, Support
+    Vector Machines.
+
+    1. Intelligent Systems
+
+    a. Artificial Intelligence and Machine learning in financial data analysis;
+
+    b. Supervised and unsupervised learning.
+
+    2. Artificial Neural Networks in Finance
+
+    a. Topology and functionality;
+
+    b. Trainning and validation;
+
+    c. Applications in finance: economic and financial time series forecasting.
+
+    3. K-Nearest Keighbors in Finance
+
+    a. Classification problems;
+
+    b. Measures of (dis)similarity;
+
+    c. Application in finance: valuation and credit rating.
+
+    4. Genetic Algorithms in Finance
+
+    a. Optimization and evolutionary computation;
+
+    b. Genetic operators and evolutionaty process;
+
+    c. Applications in finance: portfolio optimization.
+
+    5. Other Artificial Intelligence and Machine Learning Techniques
+
+    a. Deep Neural Networks, Decision Trees, Random Forest, Support Vector Machines.'
+  course_name: 'EAD0830 - Inteligência Artificial e Machine Learning Aplicados a Finanças
+
+    Artificial Intelligence and Machine Learning in Finance'
+  deactivation: ''
+  instructors: 11705705 - Leandro dos Santos Maciel
+  lecture_credits: '2'
+  objectives: '- Planificar problemas financeiros baseados em dados.
+
+    - Solucionar problemas de gestão e otimização de carteiras de forma automatizada.
+
+    - Identificar a relevância do uso de ferramentas de aprendizado de máquinas em
+    finanças.
+
+    - Produzir decisões em finanças com base na análise de dados (data driven decision
+    making).
+
+    - Extrair informação e conhecimento a partir de dados econômico-financeiros.
+
+    - Apresentar os conceitos básicos das principais técnicas de inteligência artificial
+    e machine learning para o tratamento, na área de finanças, de problemas de regressão/previsão,
+    classificação e otimização.
+
+    - Identificar o modelo/método mais adequado de machine learning para problemas
+    envolvendo decisão em finanças.
+
+    - Desenvolver projetos aplicados de inteligência artificial e machine learning.
+
+    - Compreender problemas em finanças baseados em dados, produzir e justificar soluções
+    computacionais e relatar resultados observados.
+
+    - Organizar a apresentação de soluções de problemas em finanças baseadas em dados
+    econômico-financeiros.
+
+    - Implementar computacionalmente métodos de inteligência artificial e machine
+    learning em finanças usando linguagens de programação como R ou Python.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20230922021415'
+digest: 4MDJZJMBYRUCHJSXIQFIVHQFMCLCK72E
+updated_at: '20230922021415'
+url: https://web.archive.org/web/20230922021415id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0830&codcur=12012&codhab=1
