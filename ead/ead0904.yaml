@@ -1,48 +1,75 @@
 courses:
-  activation: 01/01/2020
-  assessment: No mínimo 70% de frequência e média final entre 3,0 e 4,9
-  bibliography: 'Clemen, R. T. Making hard decisions: an introduction to decision
-    analysis. 2ª edição. Duxbury. 1996.
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'Hillier e Lieberman, Introdução à Pesquisa Operacional 8ª. Ed, Bookman,
+    2010
 
-    Eisenfuhr, F. et al. Rational Decision Making. Springer, 2010.
+    Taha, A. H, Pesquisa Operacional, Pearson, 8ª ed, Pearson, 2008
 
-    Hillier e Lieberman, Introdução à Pesquisa Operacional 8ª. Ed, Bookman, 2010.
+    Clemen, R. T. Making hard decisions: an introduction to decision analysis. 2ª
+    edição. Duxbury. 1996.
 
-    Huchzermeier, A., & Loch, C. H. (2001). Project Management Under Risk: Using the
-    Real Options Approach to Evaluate Flexibility in R & D. Management Science, 47(1),
-    85–101.
+    Eisenfuhr, F. et al. Rational Decision Making. Springer, 2010
 
-    Knight, F. H. (1921). Risk, Uncertainty and Profit. On the History and Method
-    of Economics. New York, NY: Hart, Schaffner and Marx.
+    Complementar:
 
-    Rice, M. P., Connor, G. C. O., & Pierantozzi, R. (2008). Implementing a Learning
-    Plan to Counter Project Uncertainty. MIT Sloan Management Review, 49(2), 54–62.'
-  course: 'Tópicos
+    Belfiore e Fávero, Pesquisa Operacional para Cursos de Administração, Contabilidade
+    e Economia, Ed. Campus, 2012
 
-    Introdução à solução de problemas
+    Lachtermacher, Pesquisa Operacional na Tomada de Decisões, 4ª. ed, Campus, 2009
 
-    Metodologias de análise e solução de problemas
+    Moore, J., H. & Weatherford, L., R., Tomada de Decisão em Administração com Planilhas
+    6ª. Ed, Bookman, 2007
 
-    Ferramentas da Qualidade
+    Pajek Wiki,  and Riddle, M.Network analysis and visualization: R http://pajek.imfm.si/doku.php
 
-    Modelos de otimização (Pesquisa Operacional)
+    Hannemann, Introduction to social network methods: http://faculty.ucr.edu/~hanneman/nettext/
+
+    Waner,S.,Finite Mathematics:everything, 5ª ed.: http://www.zweigmedia.com/tcpage.
+
+    html#ed6#en#finite
+
+    Moore, J.H. e Weatherford, L.,.R. Tomada de Decisão em Administração com planilhas
+    eletrônicas, 6ª. Edição (trad). Porto Alegre: Bookman, 2005'
+  course: 'ção Linear
+
+    - Problemas de otimização
+
+    - Método Simplex
+
+    Teoria da decisão
+
+    - Elementos de um problema decisório
+
+    - Árvores de decisão
 
     Análise de redes
 
-    Técnicas de análise de decisão
+    - Métricas em redes
 
-    Soft system methodologies'
+    - Métricas em redes sociais
+
+    - Cadeias de Markov'
   course_name: 'EAD0904 - Solução de Problemas em Negócios
 
     Business Problem Solving'
   deactivation: ''
-  instructors: 6497191 - Leonardo Augusto de Vasconcelos Gomes
+  instructors: '105091 - Adriana Backx Noronha Viana
+
+    3532378 - Daielly Melina Nassif Mantovani'
   lecture_credits: '4'
-  objectives: Solução de problemas, trabalho em equipe & comunicação.
+  objectives: 'Identificar situações nas quais envolvem problemas estruturados e problemas
+    não estruturados
+
+    Identificar as principais abordagens, ferramentas e estratégias para lidar com
+    problemas estruturados e não estruturados
+
+    Aplicar técnicas apropriadas a problemas estruturados e não-estruturados'
   practical_credits: '2'
   total_workload: 120 h
   type: Semestral
-created_at: '20220707034627'
-digest: AXOW7YH24VZJBLXRR3PIMTMD3ABNBX4D
-updated_at: '20220804011335'
-url: https://web.archive.org/web/20220804011335id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0904&codcur=12012&codhab=1
+created_at: '20230922010424'
+digest: WSMNP2G435A633S4QAEYX7HCFEI223G4
+updated_at: '20230922010424'
+url: https://web.archive.org/web/20230922010424id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0904&codcur=12012&codhab=1
