@@ -151,7 +151,7 @@ courses:
   total_workload: 60 h
   type: Semestral
 created_at: '20230208092857'
-digest: BYOVHJHMTPFAWH3WW5PG7X2453ALEXAB
+digest: 2IFIA7N7BBFN7SRZQE3HFHQXDLLNMZHO
 requirements:
 - course: 'Curso: 12033  Bacharelado em Ciências Contábeis (diurno) - Período ideal:
     6'
@@ -165,5 +165,5 @@ requirements:
   - code: EAC0401
     name: Auditoria I
     type: Requisito fraco
-updated_at: '20230208092857'
-url: https://web.archive.org/web/20230208092857id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAC0490
+updated_at: '20230922021000'
+url: https://web.archive.org/web/20230922021000id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0490&codcur=12033&codhab=4
