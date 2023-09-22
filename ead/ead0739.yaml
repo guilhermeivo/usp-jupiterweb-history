@@ -1,28 +1,73 @@
 courses:
-  activation: 01/01/2017
-  assessment: Prova
-  bibliography: 'SECURATO, José Roberto CÁLCULO FINANCEIRO DAS TESOURARIAS
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'SECURATO, José Roberto CÁLCULO FINANCEIRO DAS TESOURARIAS Ed. Saint
+    Paul
 
-    FABOZZI, Frank FIXED INCOME HANDBOOK'
-  course: "•\tAtivos Financeiros Estruturados: Mercados Domésticos e Internacionais\n\
-    •\tComponentes dos Títulos de Renda Fixa\n•\tTaxas de Juros Mercados Internacionais\n\
-    •\tPrecificação dos Ativos Estruturados\n•\tEstrutura de Taxas de Juros: desenvolvimento\n\
-    •\tDuration e Convexidade\n•\tEstratégias de Imunização\n•\tEstratégias de Trading."
+    FABOZZI, Frank FIXED INCOME HANDBOOK McGraw Hill
+
+    CLIFFORD, Paul Project Finance Applications and Insights to Emerging Markets Infrastructure
+    Ed. Wiley'
+  course: 'Ativos Financeiros Estruturados: Mercados Domésticos e Internacionais
+
+    Componentes dos Títulos de Renda Fixa
+
+    Taxas de Juros Mercados Internacionais
+
+    Precificação dos Ativos Estruturados
+
+    Estrutura de Taxas de Juros: desenvolvimento
+
+    Duration e Convexidade
+
+    Estratégias de Imunização
+
+    Estratégias de Trading.
+
+    1. Structured Financial Assets: Domestic and International Markets
+
+    2. Components of Fixed Income Securities
+
+    3. Interest Rates International Markets
+
+    4. Pricing of Structured Assets
+
+    5. Interest Rate Structure: development
+
+    6. Duration and Convexity
+
+    7. Immunization Strategies
+
+    8. Trading Strategies.'
   course_name: 'EAD0739 - Finanças Estruturadas
 
     Structured Finance'
   deactivation: ''
-  instructors: 870996 - Liliam Sanchez Carrete
+  instructors: '120407 - Eduardo Kazuo Kayo
+
+    761326 - Jose Roberto Ferreira Savoia
+
+    11705705 - Leandro dos Santos Maciel
+
+    870996 - Liliam Sanchez Carrete'
   lecture_credits: '2'
-  objectives: O objetivo do curso é preparar os alunos para calcular o preço dos ativos
-    usualmente negociados no mercado doméstico e nos mercados internacionais, calcular
-    as medidas de risco dos títulos e entender as principais estratégias de trading
-    e gestão. Formação dos alunos com interesse em atuar no mercado de operações estruturadas,
-    tanto em instituições financeiras como na área financeira das empresas.
+  objectives: 'Apresentar operações estruturadas para financiamento de empresas, gestão
+    de riscos, restrições de liquidez
+
+    Apresentar instrumentos avançados de gestão de riscos de renda fixa
+
+    Precificação de Operações Estruturadas; instrumentos de gestão de riscos de renda
+    fixa
+
+    Estruturação de novos produtos para solucionar falta de liquidez, excesso de riscos
+    das empresas e instituições financeiras
+
+    Modelagem financeira'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220706022233'
-digest: PQWWYXWVHGDL4XILF6VNJKWLMD56H36O
-updated_at: '20220804011327'
-url: https://web.archive.org/web/20220804011327id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0739&codcur=12012&codhab=1
+created_at: '20230922005925'
+digest: FSJD6ABUAXEB6TTIRLNEMMQQM6KKCXUP
+updated_at: '20230922005925'
+url: https://web.archive.org/web/20230922005925id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0739&codcur=12012&codhab=1
