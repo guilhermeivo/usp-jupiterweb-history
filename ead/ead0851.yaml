@@ -1,0 +1,194 @@
+courses:
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma reavaliação cuja nota terá peso de 50%
+    na média final.
+  bibliography: 'Site oficial da linguagem R: https://www.r-project.org/
+
+    Manuais oficiais da linguagem R: https://cran.r-project.org/manuals.html/
+
+    Site oficial do RStudio: https://www.rstudio.com
+
+    Site oficial da linguagem Python: https://www.python.org
+
+    Python Tutorial, Guido van Rossum, 2018
+
+    Oficial Python Tutorial: https://docs.python.org/pt-br/3.7/tutorial/index.html
+
+    Apostilas da Disciplina: disponíveis no e-Disciplinas/Moodle
+
+    Linguagem R para Todos
+
+    Linguagem R Programação Orientada a Dados
+
+    Linguagem Python para todos
+
+    Introdução à Linguagem Python
+
+    Dive into Deep Learning: https://d2l.ai
+
+    MIT Introduction to Deep Learning: http://introtodeeplearning.com
+
+    Deep Learning with Python, François Chollet, 2018
+
+    Hands-On Machine Learning with Scikit-Learning & TensorFlow, Aurélien Géron, 2017,
+    O´Reilly
+
+    Python Deep Learning, Second Edition, Ivan Vasilev et all, 2019
+
+    Python Machine Learning and Deep Learning, Second Edition, Raschka & Mirjalili,
+    2017, Packt Publishing
+
+    Python Analytics Cloud – Google Colaboratory: https://colab.research.google.com
+
+    Plataforma Python Anaconda: https://www.anaconda.com
+
+    Keras Deep Learning: https://keras.io
+
+    Plataforma TensorFlow: https://www.tensorflow.org
+
+    PyTorch Machine Learning Framework: https://pytorch.org'
+  course: 'ção Orientada a Dados
+
+    Linguagem de Programação Python
+
+    Linguagem de Programação R
+
+    Jupyter Notebook – Google Colaboratory
+
+    RStudio Ambiente Integrado de Desenvolvimento (IDE)
+
+    Algoritmos de Redes Neurais com as Linguagens R e Python
+
+    Classificação
+
+    Regressão
+
+    Reconhecimento de Imagens
+
+    Deep Learning com a Linguagem Python
+
+    Modelos e Arquiteturas em Deep Learning
+
+    Visão Computacional e Detecção de Objetos
+
+    Séries Temporais
+
+    Classificação de Textos
+
+    Processamento de Linguagem Natural
+
+    Exercícios e Laboratórios Aplicados com as Linguagens R e Python
+
+    Exercícios sobre a Linguagem Python
+
+    Laboratórios de Redes Neurais para Problemas de Classificação e Regressão
+
+    Laboratórios de Redes Neurais Convolucionais - Reconhecimento de Imagens
+
+    Laboratório de Redes Neurais Recorrentes - Séries Temporais
+
+    Laboratório de Redes Neurais Recorrentes - Processamento de Linguagem Natural'
+  course_name: 'EAD0851 - Ciência de Dados e Inteligência Artificial Aplicada aos
+    Negócios
+
+    Data Science and Artificial Intelligence Applied to Business'
+  deactivation: ''
+  instructors: 86344 - Antonio Geraldo da Rocha Vidal
+  lecture_credits: '2'
+  objectives: '-Conhecer os principais conceitos de ciência de dados e sua aplicação
+    aos negócios.
+
+    -Conhecer os principais conceitos relacionados à Inteligência Artificial, Machine
+    Learning e Deep Learning e suas aplicações aos negócios.
+
+    -Conhecer as principais metodologias e técnicas em ciência de dados para aplicações
+    em negócios.
+
+    -Conhecer os fundamentos e técnicas de aprendizado de máquina (machine learning
+    e deep learning).
+
+    -Compreender os fundamentos de Redes Neurais Artificiais (RNA).
+
+    -Conhecer as principais Arquiteturas e Topologias de Redes Neurais Artificiais.
+
+    -Compreender os fundamentos do Processo de Treinamento de Redes Neurais Artificiais.
+
+    -Compreender os conceitos de underfitting e overfitting em Redes Neurais Artificiais.
+
+    -Compreender os conceitos de Aprendizado de Máquina (Machine Learning) e Profundo
+    (Deep Learning).
+
+    -Conhecer e utilizar as estruturas básicas das linguagens de programação R e Python.
+
+    -Conhecer as principais ferramentas para utilização das linguagens R e Python.
+
+    -Conhecer e utilizar as principais bibliotecas da linguagem Python para aprendizado
+    de máquina (Machine Learning).
+
+    -Conhecer e utilizar as principais bibliotecas da linguagem Python para aplicação
+    de técnicas de aprendizado de profundo (Deep Learning).
+
+    -Selecionar e compreender a aplicação de técnicas de redes neurais artificiais
+    para criação de modelos para solução de problemas de classificação e regressão.
+
+    -Selecionar e compreender a aplicação de técnicas de redes neurais artificiais
+    para a criação de modelos para solução de problemas de otimização.
+
+    -Selecionar e compreender a aplicação de técnicas de redes neurais artificiais
+    para a criação de modelos para solução de problemas de reconhecimento de imagem
+    (computer vision).
+
+    -Selecionar e compreender a aplicação de técnicas de redes neurais artificiais
+    para a criação de modelos para solução de problemas de reconhecimento de textos
+    e linguagem natural (natural language processing).
+
+    -Avaliar e validar de modelos de redes neurais artificiais.
+
+    -Aplicar modelos de redes neurais artificiais para tomada de decisão.
+
+    Aplicar modelos de deep learning para a tomada de decisão.
+
+    -Aplicação de modelos analíticos baseados em redes neurais artificiais para solução
+    de problemas de negócio.
+
+    -Descobrir oportunidades de mudança e inovação nos negócios através da construção
+    de modelos de inteligência artificial baseados em redes neurais artificiais e
+    deep learning.
+
+    -Compreender e avaliar o potencial, as possibilidades, as limitações e as dificuldades
+    para aplicação de modelos inteligência artificial nos negócios.
+
+    -Compreender e avaliar os aspectos éticos aplicação de técnicas relacionadas à
+    inteligência artificial.
+
+    -Discutir a privacidade, segurança, veracidade e propriedade de dados entre outros
+    aspectos éticos ligados modelos de inteligência artificial.
+
+    -Discutir os possíveis impactos e responsabilidades sociais com a aplicação de
+    modelos de inteligência artificial nos negócios.
+
+    -Colaborar na realização de exercícios e estudos de caso sobre a aplicação de
+    técnicas e modelos de redes neurais artificiais em problemas de negócio.
+
+    -Adquirir competência para a redação de relatórios conclusivos sobre os modelos
+    de inteligência artificial e sua aplicação, resultados e impactos nos negócios.
+
+    -Pesquisar informações sobre técnicas, ferramentas e bibliotecas de aprendizado
+    de máquina e aprendizado profundo e sua aplicação nos negócios.
+
+    -Pesquisar informações sobre fontes de dados e exemplos de modelos analíticos
+    baseados em redes neurais artificiais e deep learning.
+
+    -Adquirir competência básica para criação e aplicação de modelos analíticos de
+    redes neurais artificiais utilizando as linguagens de programação R e Python.
+
+    -Conhecer os principais recursos, ferramentas e bibliotecas da linguagem de programação
+    Python para aplicações de algoritmos baseados em redes neurais artificiais (machine
+    learning e deep learning).'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20230922013100'
+digest: RE5KY72CB5KMT2WTH63Y7WASC62XW25Z
+updated_at: '20230922013100'
+url: https://web.archive.org/web/20230922013100id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0851&codcur=12012&codhab=1
