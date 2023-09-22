@@ -1,29 +1,123 @@
 courses:
-  activation: 01/01/2017
-  assessment: Prova
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
   bibliography: HULL JOHN Fundamentals of Futures and Options Markets, Prentice Hall,
     5ª Edição
-  course: "O conteúdo consiste em conhecer os seguintes produtos do mercado derivativos:\n\
-    1.\tMercado a Termo\na.\tConceito\nb.\tComponentes\nc.\tAnálise de Risco\nd.\t\
-    Principais Produtos\ne.\tPrecificação\n2.\tMercado Futuro\na.\tConceito\nb.\t\
-    Componentes\nc.\tAnálise de Risco\nd.\tPrincipais Produtos\ne.\tPrecificação\n\
-    3.\tSwaps\na.\tConceito\nb.\tComponentes\nc.\tAnálise de Risco\nd.\tPrincipais\
-    \ Produtos\ne.\tPrecificação\n4.\tOpções\na.\tConceito\nb.\tComponentes\nc.\t\
-    Análise de Risco\nd.\tPrincipais Produtos\ne.\tPrecificação"
+  course: 'Mercado a Termo
+
+    Conceito
+
+    Componentes
+
+    Análise de Risco
+
+    Principais Produtos
+
+    Precificação
+
+    Mercado Futuro
+
+    Conceito
+
+    Componentes
+
+    Análise de Risco
+
+    Principais Produtos
+
+    Precificação
+
+    Swaps
+
+    Conceito
+
+    Componentes
+
+    Análise de Risco
+
+    Principais Produtos
+
+    Precificação
+
+    Opções
+
+    Conceito
+
+    Componentes
+
+    Análise de Risco
+
+    Principais Produtos
+
+    Precificação
+
+    1. Terms Market
+
+    a. Definition
+
+    b. Components
+
+    c. Risk Analisys
+
+    d. Produtos
+
+    e. Pricing
+
+    2. Futures
+
+    a. Definition
+
+    b. Components
+
+    c. Risk Analisys
+
+    d. Produtos
+
+    e. Pricing
+
+    3. Swaps
+
+    a. Definition
+
+    b. Components
+
+    c. Risk Analisys
+
+    d. Produtos
+
+    4
+
+    e. Pricing
+
+    4. Options
+
+    a. Definition
+
+    b. Components
+
+    c. Risk Analisys
+
+    d. Produtos'
   course_name: 'EAD0736 - Derivativos
 
     Derivatives'
   deactivation: ''
-  instructors: 870996 - Liliam Sanchez Carrete
+  instructors: '11705705 - Leandro dos Santos Maciel
+
+    1733351 - Rafael Paschoarelli Veiga'
   lecture_credits: '2'
-  objectives: Os produtos derivativos fazem parte do dia a dia do administrador que
-    atua na área de finanças. Os conceitos e instrumentos vistos na disciplina visam  apoiar
-    o administrador financeiro na tomada de decisão sobre operações de hedge e alocação
-    de recursos.
+  objectives: 'Apresentação dos produtos do mercado de derivativos
+
+    Função dos produtos do mercado de derivativos
+
+    Modelagem de risco e precificação dos produtos
+
+    Modelagem Financeira'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220705180111'
-digest: VTKSUHN7ON3BZBLI5HDWMQDWI3S7X3RK
-updated_at: '20220707214834'
-url: https://web.archive.org/web/20220707214834id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0736&codcur=12012&codhab=4
+created_at: '20230922015515'
+digest: ALBSI4OVCRZ6YLQAZVE2G2MTI7HFYEM4
+updated_at: '20230922015515'
+url: https://web.archive.org/web/20230922015515id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0736&codcur=12012&codhab=1
