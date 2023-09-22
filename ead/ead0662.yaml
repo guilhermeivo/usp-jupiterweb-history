@@ -1,40 +1,61 @@
 courses:
-  activation: 01/01/2014
-  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
-    será submetido a uma reavaliação final, a título de recuperação.
-  bibliography: 'SLACK, N. et. al.  Administração da produção
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'CHOPRA, S. & MEINDL, P. Gerenciamento da cadeia de suprimentos: estratégia,
+    planejamento e operação. São Paulo: Prentice Hall, 2003.
 
-    DAVIS, M., AQUILANO, N. & CHASE, R. Fundamentos da Administração da Produção
+    GAITHER, N.; Frazier, G. Administração da produção e operações. 8ª edição. São
+    Paulo: Pioneira Thomson Learning, 2001.
 
-    MOREIRA, D. A. Administração da produção e operações
-
-    LOVE, S. F. Inventory Control
+    LOVE, S. F. Inventory Control. McGraw-Hill, 1979.
 
     PETERSON, R.; SILVER, E. A. Decision systems for inventory management and production
-    control
+    control. John Wiley & Sons, New York 2nd Ed., 1985.
 
-    HAX, A; CANDEA, D. Production and inventory management'
-  course: 'Processo de atendimento da demanda a partir de estoques ou canais alternativos
+    WANKE, Peter. Gestão de Estoques na Cadeia de Suprimento: decisões e modelos quantitativos.
+    São Paulo: Atlas, 2003.'
+  course: '1. Definições, usuários dos sistemas de estoques, funções e custos associados
+    a estoques, classificação ABC, políticas de estoque
 
-    Processos de reposição de estoques no varejo e em fábricas
+    2. Modelos determinísticos de gestão de estoques
 
-    Indicadores físicos e econômicos na gestão de atendimento da demanda
+    Wilson/Harris
 
-    Modelos determinísticos e probabilísticos para reposição de estoques
+    Lead-time > 0
 
-    Compensações entre indicadores'
-  course_name: 'EAD0662 - Indicadores de Desempenho em Atendimento e Estoques
+    Atraso; taxa de suprimento finita; descontos por quantidade
 
-    Performance Indicators in Service and Storage'
+    Indicadores: custos, giro e cobertura de estoques
+
+    Demanda variável: Wagner-Whitin; Silver-Meal; programação linear mista
+
+    Reposição coordenada de vários itens
+
+    3. Modelos probabilísticos de gestão de estoques
+
+    Reposição periódica com perda de venda
+
+    Revisão contínua e demanda estável
+
+    Lead-time probabilístico
+
+    Indicadores: custos e nível de serviço
+
+    Demanda variável'
+  course_name: 'EAD0662 - Planejamento e Controle de Estoques
+
+    Inventory Planning and Control'
   deactivation: ''
+  instructors: 64610 - Jorge Luiz de Biazzi
   lecture_credits: '2'
-  objectives: Apresentar as compensações entre atendimento da demanda, custos operacionais
-    e custos financeiros associados a pedido, manutenção e falta de estoques para
-    atendimento da demanda.
+  objectives: Entender o ambiente operacional em que as decisões de gestão de estoques
+    estejam sendo tomadas, estimar os parâmetros necessários à aplicação do modelo
+    adequado e executá-lo; avaliar os resultados econômicos e operacionais.
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220705181328'
-digest: APD4L3ROLUIKI6J54ZHKYQ5DQB7XLCD6
-updated_at: '20220804011342'
-url: https://web.archive.org/web/20220804011342id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0662&codcur=12012&codhab=1
+created_at: '20230922004732'
+digest: 4WTTZ6BJZ54PSR6YV3RXESTAMSSZFUZ3
+updated_at: '20230922004732'
+url: https://web.archive.org/web/20230922004732id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0662&codcur=12012&codhab=1
