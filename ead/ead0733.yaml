@@ -1,26 +1,56 @@
 courses:
-  activation: 01/01/2014
+  activation: 01/01/2023
   assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
     média final.
-  bibliography: 'SECURATO, J. R. Decisões financeiras em condições de risco. Editora
-    Atlas, São Paulo, 1993.
+  bibliography: 'Básica
 
-    BREALEY, R. e MYERS, S. Principles of corporate finance. McGraw-Hill Book Co.,
-    1984'
-  course: "\x95\tDiscussão e definição do conceito de riscos\n\x95\tRelação risco-retorno,\
-    \ modelo de Markowitz\n\x95\tModelo de Sharpe\n\x95\tCAPM\n\x95\tIndicadores de\
-    \ desempenho de Carteiras"
-  course_name: 'EAD0733 - Gestão de Carteira e Investimentos
+    1. ELTON, E. J.; GRUBER, M. J.;  BROWN, S. J.; GOETZMANN, W. N. – Moderna Teoria
+    de Carteiras e Análise de Investimentos
 
-    Portfolio Management and Investments'
+    2. BREALEY, R. A. E MYERS, S. C. - Princípios de Finanças Empresariais, 3ª ed.
+    Portugal,  McGraw Hill, l.992
+
+    3. ROSS, S. A., WESTERFIELD, R. W. E JORDAN, B. D. - Princípios de Administração
+    Financeira, São Paulo, Atlas, l.998.
+
+    4. GITMAN – Princípios de Administração Financeira, 10a Edição, Editora Pearson
+    / Addison Wesley do Brasil, São Paulo, 2004
+
+    5. SECURATO, J. R. - Decisões Financeiras em Condições de Risco. Ed. Atlas, São
+    Paulo, 1993.
+
+    6. HULL, JOHN - "Introdução aos Mercados Futuros e de Opções”  - BM&F e Cultura
+    Editores Associados – SP -  1994.'
+  course: 'Medidas de Risco e Retorno de um Ativos
+
+    Risco e Retorno de uma Carteira
+
+    Diversificação
+
+    Fronteira Eficiente'
+  course_name: 'EAD0733 - Gestão de Carteiras
+
+    Portfolio Management'
   deactivation: ''
+  instructors: '120407 - Eduardo Kazuo Kayo
+
+    761326 - Jose Roberto Ferreira Savoia
+
+    2917292 - Roy Martelanc
+
+    91312 - Wadico Waldir Bucchi'
   lecture_credits: '2'
-  objectives: Desenvolvimento do conceito de Risco, da Relação Risco/Retorno e de
-    gestão de carteiras.
+  objectives: 'Fronteira Eficiente
+
+    Decisão de Carteira de Investimento
+
+    Indicadores de Risco
+
+    Modelagem Financeira'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220705181933'
-digest: CETRMMRHLWKEUFZRKBRZ3P7UAINZNMMK
-updated_at: '20220705181933'
-url: https://web.archive.org/web/20220705181933id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0733&codcur=12012&codhab=1
+created_at: '20230922002903'
+digest: XEQUHRPEKHRDXBG2AQ64EWMOBWNWZ233
+updated_at: '20230922002903'
+url: https://web.archive.org/web/20230922002903id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0733&codcur=12012&codhab=1
