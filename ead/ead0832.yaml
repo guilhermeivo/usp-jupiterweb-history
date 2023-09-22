@@ -1,0 +1,115 @@
+courses:
+  activation: 15/07/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'Básica
+
+    Assaf Neto Estrutura e Análise de Balanços Ed. Gen
+
+    Berk, J.; DeMarzo Finanças Empresarial Essencial. Editora Bookman 2010
+
+    ROSS, Stephen A.; WESTERFIELD, Randolph W.; JAFFE, Jeffrey; LAMB, Roberto. Administração
+    financeira: versão brasileira de corporate finance. 10a. ed. Porto Alegre: AMGH,
+    2015.
+
+    Carrete, L e Tavares, R. Mercado Financeiro Brasileiro Editora Atlas 2019
+
+    Carrete, L e Tavares, R. Cálculo no Mercado Financeiro – Conceitos, Ferramentas
+    e Exercícios Editora Atlas 2015'
+  course: 'O conteúdo do curso consiste nos seguintes tópicos:
+
+    -Fundamentos de Finanças o Função financeira da empresa
+
+    -Inserção da empresa no mercado financeiro
+
+    -Agentes reguladores, fiscalizadores do mercado financeiro
+
+    -Finanças Corporativas: objetivo, separação propriedade x controle Introdução
+    à Teoria da Agência: stakeholders, Governança Corporativa
+
+    -Introdução Risco x Retorno: características dos indivíduos com relação ao risco
+
+    -Organização das empresas
+
+    -Empresas individuais
+
+    -Sociedades de responsabilidade limitada
+
+    -Sociedades anônimas
+
+    -Indicadores para tomada de decisão: Conceitos fundamentais e os elementos da
+    decisão de investimento
+
+    -Técnicas de Avaliação de Projetos de Investimento
+
+    -VPL
+
+    -Payback
+
+    -Payback Descontado
+
+    -IL
+
+    -TIR
+
+    -Premissa de Reinvestimento;
+
+    -TIR e as decisões de Investimento considerando as diferenças na distribuição
+    do fluxo de caixa ao longo do tempo;
+
+    -Múltiplas TIRs
+
+    -TIR Modificada
+
+    -Projetos excludentes, restrição de capital, projetos com vidas desiguais
+
+    -Projeção de Fluxo de Caixa
+
+    -Análise dos Demonstrativos Financeiros
+
+    -Análise Vertical e horizontal
+
+    -Indicadores de Liquidez
+
+    -Indicadores de Alavancagem Financeira
+
+    -Indicadores de Alavancagem Operacional
+
+    -Indicadores de Rentabilidade
+
+    -Indicadores de Atividades'
+  course_name: 'EAD0832 - Finanças Corporativas
+
+    Corporate Finance'
+  deactivation: ''
+  instructors: '120407 - Eduardo Kazuo Kayo
+
+    761326 - Jose Roberto Ferreira Savoia
+
+    11705705 - Leandro dos Santos Maciel
+
+    870996 - Liliam Sanchez Carrete
+
+    1733351 - Rafael Paschoarelli Veiga
+
+    5355200 - Rosana Tavares
+
+    2917292 - Roy Martelanc'
+  lecture_credits: '4'
+  objectives: 'Objetivo e Função da Gestão Financeira Decisão de Investimento
+
+    Decisão de Financiamento Decisão de Dividendos
+
+    Divulgação de Informações para os stakeholders
+
+    Principais decisões do Gestor Financeiro: acesso a recursos e alocação dos recursos
+    Conflitos de Interesse: teoria de agência
+
+    Desenvolvimento de soluções de cálculo financeiro'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20230922014026'
+digest: VRCUQ3YCH4LSX6VOE2SNEP2SZ3FMCHWH
+updated_at: '20230922014026'
+url: https://web.archive.org/web/20230922014026id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0832&codcur=12012&codhab=1
