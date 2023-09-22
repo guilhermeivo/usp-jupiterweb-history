@@ -1,0 +1,75 @@
+courses:
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'Básica
+
+    CHOPRA, S. & MEINDL, P. Gestão da Cadeia de Suprimentos – estratégia, planejamento
+    e operação, São Paulo, Pearson-Prentice Hall, 6ª. edição, 2015.
+
+    CORRÊA, Henrique L. e CORRÊA, Carlos A. Administração de Produção e Operações:
+    manufatura e serviços - Uma Abordagem Estratégica, São Paulo: Atlas, 2ª edição,
+    2013.
+
+    TORRES JR. Alvair S. Série de artigos na revista Mundo Logística, disponibilizados
+    no sistema e-disciplina Moodle da FEA-USP, 2020-2022
+
+    Auxiliar
+
+    LEITE, Paulo Roberto. Logística Reversa – meio ambiente e competitividade, São
+    Paulo, Prentice Hall,2ª. Edição, 2009.
+
+    Ellen MacArthur, Fundação.  Economia Circular, disponível em
+
+    SLACK, Nigel, CHAMBERS, Stuart & JOHNSTON, Robert. Gerenciamento de Operações
+    e de Processos. Porto Alegre:Bookman, 2ª edição, 2013.
+
+    TAYLOR, David A. Logística na Cadeia de Suprimentos – uma perspectiva gerencial.
+    São Paulo, PEARSON-ADDISON WESLEY, 2005.'
+  course: 'Cadeia de Suprimentos como Geradora de Valor
+
+    Estratégia  de  Cadeia de Suprimentos
+
+    Suprimento e Logística  Enxuta
+
+    Gestão de Estoques
+
+    Previsão de Demanda
+
+    Planejamento da Produção
+
+    Planejamento de Materiais
+
+    Logística Empresarial
+
+    Gestão de Transportes
+
+    Cadeias na Economia Circular, Green Supply Chain'
+  course_name: 'EAD0668 - Logística e Cadeia de Suprimentos
+
+    Logistics and Supply Chain'
+  deactivation: ''
+  instructors: '204522 - Alceu Salles Camargo Júnior
+
+    320498 - Alvair Silveira Torres Junior
+
+    64610 - Jorge Luiz de Biazzi'
+  lecture_credits: '4'
+  objectives: '-Analisar as cadeias de suprimentos identificando os tipos de fluxos
+    e  impactos nos negócios e desempenho das empresas
+
+    -Desenhar cadeias de suprimento através da análise de alternativas de propósito
+    de valor
+
+    -Projetar relações de colaboração na cadeia através da categorização de problemas
+    na entrega de valor
+
+    -Avaliar os elementos necessários para implantar o green supply Chain e/ou Economia
+    Circular'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20230922010648'
+digest: BMWSGZYEAMVMLKO7OB3T6THDXN36EYJB
+updated_at: '20230922010648'
+url: https://web.archive.org/web/20230922010648id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0668&codcur=12012&codhab=1
