@@ -1,0 +1,128 @@
+courses:
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'Complementar
+
+    AAKER, D. S. Administração estratégica de mercado, Editora Bookman, Porto Alegre,
+    5ª. Edição, 2001.
+
+    CRAVENS, D. W.; PIERCY, N. F. Marketing Estratégico, McGraw Hill, 8a ed., SP.
+    2008.
+
+    CRESCITELLI, E; SHIMP, T. Comunicação de Marketing. Integrando propaganda, promoção
+    e outras formas de divulgação. 8ª. edição. São Paulo, Prentice Hall, 2012.
+
+    DAY, G. A empresa orientada para o mercado, Editora Bookman, Porto Alegre, 2001.
+
+    FERRELL, O. C.; HARTLINE, M. D. Estratégia de marketing, São Paulo: Cengage Learning,
+    2010.
+
+    GALVAGNO, M. ; DALLI, D. Theory of value co-creation: a systematic literature
+    review. Managing Service Quality Vol. 24 No. 6, 2014 pp. 643-683 r Emerald Group
+    Publishing Limited 0960-4529 DOI 10.1108/MSQ-09-2013-0187
+
+    HISRICH, R.D., PETERS, M.P., SHEPHERD, D.A. Empreendedorismo. 9a. Ed. McGraw Hill.
+    New York, 2014
+
+    HOOLEY, G. J., SAUNDERS, J. A., PIERCY, N. F. Estratégia de marketing e posicionamento
+    competitivo. Pearson, São Paulo, 2005.
+
+    HUTT, M. D.; SPEH, T. W. Gestão de marketing em mercados industriais e organizacionais.
+    Bookman, São Paulo, 2002.
+
+    LAMBIN, J. J., Marketing estratégico, quarta edição, McGraw-Hill, Lisboa, 2000.
+
+    LEITE, R. S. ; PINTO, M.R. ; TEIXEIRA, D.J. ; JOAQUIM, A..M. “Mocinho” ou “bandido”?:       o
+    marketing e suas relações com a sociedade no “fio da navalha”. E&G Economia e
+    Gestão, Belo Horizonte, v. 15, n. 40, Jul./Set. 2015.
+
+    MURPHY, P.; LACZNIAK, G.R.; BOWIE, N.E.; KLEIN, T.A. Ethical Marketing: basic
+    ethics in action. New Jersey: Pearson Prentice Hall, 2005.
+
+    PEREIRA, C. B. TOLEDO, G. L.; TOLEDO, L. A. Considerações sobre o conceito de
+    marketing: teoria e prática gerencial. Revista O & S – Organizações e Sociedade,
+    vol. 16, n. 50, p. 519-544, 2009.
+
+    RUST, R. T. Zeithaml, V. e Lemon, K. N. O valor do cliente, Editora Bookman, Porto
+    Alegre, 2001.
+
+    SHETH, J. N.; MITTAL, B.; NEWMAN, B. I. Comportamento do cliente: indo além do
+    comportamento do consumidor. São Paulo: Atlas, 2001.
+
+    TOLEDO, G. L. Marketing Estratégico, cap. 4 do livro Gestão de Marketing (organizador
+    Bráulio Oliveira), Pearson Education, pg. 89 – 113. 2012.
+
+    TOLEDO, L. A., CAMPOMAR, M. C., TOLEDO, G. L. Planejamento de marketing e confecção
+    do plano de marketing: uma análise crítica. Revista O & S – Organizações e Sociedade,
+    vol. 13, n. 37, 2006.
+
+    TUTEN, T. L. Principles of Marketing for a Digital Age. (p. i).Los Angeles, SAGE
+    Publications. 2020.
+
+    TUTEN, T. L.; SOLOMON, M. R. Social media marketing. New York: Pearson, 2012
+
+    WOODRUFF, R. B. Customer value: the next source for competitive advantage. Journal
+    of the Academy of Marketing Science, Greenvale, v. 25, n. 2, p. 139-153, 1997.
+
+    ZEITHAML,V.A.; JAWORSKI, B.J.; KOHLI, A.K. TULI,  K.R.; ULAGA, W ; ZALTMAN, G.
+    A Theories-in-Use Approach to Building Marketing Theory. Journal of Marketing
+    2020, Vol. 84(1) 32-51 ª American Marketing Association 2019.'
+  course: '- Administração de marketing
+
+    Conceito de marketing
+
+    Evolução do pensamento de marketing
+
+    Tarefas da administração de Marketing
+
+    Ambiente de marketing
+
+    Marketing ético e responsável
+
+    - Marketing estratégico
+
+    Segmentação
+
+    Diferenciação e posicionamento
+
+    Pesquisa de marketing
+
+    - Conexões com clientes
+
+    Criação de relações, fidelidade e valor
+
+    Comportamento do consumidor
+
+    Mercados organizacional e global
+
+    - Aplicações de marketing
+
+    Marketing mix
+
+    Plano de marketing
+
+    Planejamento estratégico corporativo'
+  course_name: 'EAD0745 - Marketing I: Conceitos e Estratégias
+
+    Marketing I: Concepts and Strategies'
+  deactivation: ''
+  instructors: '3454983 - Edson Crescitelli
+
+    2975141 - Guilherme de Farias Shiraishi'
+  lecture_credits: '4'
+  objectives: "Compreender o conceito e fundamentos de marketing.\nEntender as técnicas\
+    \ de marketing e suas aplicações na gestão de organizações.\nCapacidade de diagnosticar\
+    \ e propor alternativas para problemas de gestão mercadológicas.\nCapacidade para\
+    \ analisar e avaliar os efeitos das ações de marketing nas estratégias das organizações.\n\
+    Compreender a relação organização versus mercado em ambientes complexos.\nCompreender\
+    \ o papel desempenhado pelo marketing frente às demandas da \t sociedade contemporânea\
+    \ e seus impactos no planeta e na sociedade.\nPesquisar sobre estratégias de marketing\
+    \ para organizações diferentes setores, produzindo documentos com parecer crítico."
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20230922005703'
+digest: PF4JAYH6LDCRMSZ2RZIRB27TKQWMPRSZ
+updated_at: '20230922005703'
+url: https://web.archive.org/web/20230922005703id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0745&codcur=12012&codhab=1
