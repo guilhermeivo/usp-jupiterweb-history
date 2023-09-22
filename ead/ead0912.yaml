@@ -1,0 +1,67 @@
+courses:
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'Masiero, Gilmar. Administração de empresas: Teoria e funções com
+    exercícios e casos. 3a. Ed. São Paulo: Saraiva, 2012.
+
+    Slack, N., Chambers, S. e Johnston, R. Administração da Produção. 8a edição.
+    São Paulo: Atlas, 2018.
+
+    Berk, Demarzo e Harford Fundamentos de Finanças Empresariais. Editora Bookman'
+  course: 'Módulo 1 (ADM Geral) (6 aulas): O que é uma empresa/organização? O papel
+    do gestor na empresa Como estruturar a empresa - parte I Como estruturar a empresa
+    - parte II Design organizacional e tomada de decisão Análise e discussão de um
+    caso prático Palestra Estrutura e apresentação do projeto final.
+
+    Módulo 2 (GPO) (6 aulas): Grupos e equipe de trabalho Desafios do trabalho em
+    equipe Processo de comunicação Gestão de conflitos Avaliação de equipes de trabalho
+    Visão geral dos subprocessos de Gestão de Pessoas Processos de Gestão de Pessoas
+    aplicados ao projeto final Avaliação das equipes de trabalho.
+
+    Módulo 3 (MKT) (6 aulas): Segmentação e Posicionamento de Mercado Composto de
+    Marketing (Produto, Praça, Preço e Promoção) Comportamento do Consumidor Pesquisa
+    de Marketing.
+
+    Módulo 4 (PROD) (6 aulas): A Operação como criação e entrega de Valor Gestão de
+    Recursos escassos nos negócios Fluxos produtivos e a rede de negócios Fluxos de
+    transporte e Logística Medidas de tempo como métrica de desempenho Gestão por
+    processos - Função produção como conjunto de processos.
+
+    Módulo 5 (FIN) (6 aulas): Desenvolvimento do Orçamento do Projeto, fontes de financiamento,  identificação
+    de custo fixo e custo variável, definição de preço, margem de contribuição, break-even
+    e elaboração do orçamento de caixa e capital de giro.'
+  course_name: 'EAD0912 - Administração
+
+    Management'
+  deactivation: ''
+  instructors: '9162898 - Claudia Sofia Frias Pinto
+
+    6497191 - Leonardo Augusto de Vasconcelos Gomes
+
+    870996 - Liliam Sanchez Carrete
+
+    1093406 - Liliana Vasconcellos
+
+    73829 - Lino Nogueira Rodrigues Filho'
+  lecture_credits: '4'
+  objectives: '-Entender o papel do gestor
+
+    -Entender o papel da função produção nas organizações, explicando como recursos
+    são geridos de forma a entregar produtos e serviços.
+
+    -Entender o papel do gestor nas organizações, compreendendo como sua atuação pode
+    impactar nos resultados da empresa
+
+    -Compreender o papel das organizações, descrevendo o impacto sócio ambiental dos
+    processos
+
+    -Trabalhar em equipe, avaliando o processo de colaboração no desenvolvimento do
+    projeto.'
+  practical_credits: '2'
+  total_workload: 120 h
+  type: Semestral
+created_at: '20230922024236'
+digest: 56MTT4KVFK7WHES6JWSOZUTS3DH2RG3Q
+updated_at: '20230922024236'
+url: https://web.archive.org/web/20230922024236id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0912&codcur=12012&codhab=1
