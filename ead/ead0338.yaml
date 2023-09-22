@@ -1,39 +1,122 @@
 courses:
-  activation: 01/01/2014
-  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
-    será submetido a uma reavaliação final, a título de recuperação.
-  bibliography: "\x95WELSCH, Glenn A., Orçamento Empresarial, 4ª edição, São Paulo,\
-    \ Atlas, 1998.\n\x95FREZATTI, Fábio, Orçamento Empresarial \x96 Planejamento e\
-    \ Controle Gerencial, 2ª edição, São Paulo, Atlas, 2000.\n\x95ANTHONY, R.N. &\
-    \ GOVINDARAJAN, V., Sistemas de Controle Gerencial, Atlas, 2002."
-  course: '1. Características do planejamento e controle financeiro
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'ANTHONY, R.N.; GOVINDARAJAN, V. Sistemas de controle gerencial. São
+    Paulo: Atlas, 2002.
 
-    2. Integração entre o plano estratégico e o planejamento e controle financeiro
+    ATKINSON, Anthony A; BANKER, Rajiv D; KAPLAN, Robert S; YOUNG, S Mark. Contabilidade
+    gerencial. São Paulo: Atlas, 2000.
 
-    3. Plano de marketing / vendas
+    CORREIA NETO, Jocildo Figueiredo. Planejamento e controle orçamentário: manual
+    de orçamento empresarial. Rio de Janeiro: Elsevier, 2011.
 
-    4. Plano de produção e custos industriais
+    FREZATTI, Fábio. Orçamento empresarial: planejamento e controle gerencial. 5ª
+    ed. São Paulo: Atlas, 2009.
 
-    5. Plano de recursos humanos e despesas gerais
+    FREZATTI, Fábio; ROCHA, Welington; NASCIMENTO, Artur Roberto; JUNQUEIRA, Emanuel.
+    Controle gerencial: uma abordagem da contabilidade gerencial no contexto econômico,
+    comportamental e sociológico. São Paulo: Atlas, 2009.
 
-    6. Plano financeiro e de resultados
+    HORNGREN, Charles T.; DATAR, Srikant M; FOSTER, George. Contabilidade de Custos,
+    v.1: uma abordagem gerencial, 11ª ed. São Paulo: Prentice Hall, 2004.
 
-    7. Conclusão e utilização do plano global de resultados
+    LUNKES, Rogério João. Manual de orçamento. 2ª. Ed. São Paulo: Atlas, 2011.
 
-    8. Relatórios de desempenho e sistema de apoio às decisões
+    PADOVEZE, Clóvis Luís. Planejamento Orçamentário: texto e exercícios. São Paulo:  Pioneira
+    Thomson Learning. 2005.
 
-    9. Controle interno e compliance'
-  course_name: 'EAD0338 - Planejamento e Controle Financeiro I
+    PADOVEZE, Clóvis Luís; TARANTO, Fernando Cesar. Orçamento empresarial: novos conceitos
+    e técnicas. São Paulo: Pearson Education do Brasil, 2009.
+
+    PASSARELLI, João; BOMFIM, Eunir de Amorim. Orçamento empresarial: como elaborar
+    e analisar. São Paulo: IOB – Thomson, 2004.
+
+    SÁ, Carlos Alexandre. Orçamento empresarial: novas técnicas de elaboração e de
+    acompanhamento. São Paulo: Atlas, 2014.
+
+    SANVICENTE, Antônio Zoratto; SANTOS, Celso da Costa. Orçamento na administração
+    de empresas: planejamento e controle. 2ª. ed. São Paulo: Atlas, 2008.
+
+    SOBANSKI, Jaert. J. Prática de orçamento empresarial: um exercício programado.
+    3ª. ed. São Paulo: Atlas, 2000.
+
+    TUNG, Nguyen H. Controladoria financeira das empresas: uma abordagem prática.
+    10ª. ed. São Paulo: Edições Universidade-Empresa, 2016.
+
+    TUNG, Nguyen H. Orçamento empresarial e custo padrão. 4ªed. São Paulo: Ed. Universidade
+    Empresa, 1974
+
+    WELSCH, Glenn A. Orçamento empresarial. 4ª. ed.  São Paulo: Atlas, 2007.
+
+    WELSCH, Glenn A. Livro de casos. 4ª. ed. São Paulo: Atlas, 1997.'
+  course: 'Características do planejamento e controle financeiro
+
+    Integração entre o plano estratégico e o planejamento e controle financeiro
+
+    Elaboração do Orçamento
+
+    Plano de vendas e Orçamento de contas a receber
+
+    Plano de produção e de estoques - Plano de compras
+
+    Plano de produção e custos industriais
+
+    Plano de recursos humanos e despesas operacionais
+
+    Orçamento de capital – Investimentos de longo prazo
+
+    Orçamento das necessidades de capital de giro
+
+    Orçamento de Caixa
+
+    Preparação do plano global de resultados: Balanço, Demonstração de Resultados
+
+    Controle Financeiro – Análise das variações orçamentárias
+
+    Relatórios de desempenho e sistema de apoio às decisões
+
+    Métricas de Desempenho'
+  course_name: 'EAD0338 - Planejamento e Controle Financeiro
 
     Financial Planning and Control'
   deactivation: ''
+  instructors: 5355200 - Rosana Tavares
   lecture_credits: '2'
-  objectives: O curso visa fornecer, aos alunos, base teórica e prática do uso do
-    planejamento e controle financeiro como instrumento de administração de empresas.
+  objectives: 'Aplicar técnicas de planejamento, orçamento e controle financeiro para
+    o suporte na tomada de decisão em administração.
+
+    Desenvolver uma estrutura completa de planejamento e orçamento financeiro para
+    uma organização
+
+    Identificar variáveis internas e externas às organizações que podem interferir
+    na formação de resultados, e estruturar os planos orçamentários que permitam apurar
+    os resultados esperados.
+
+    Conhecer as ferramentas de controle orçamentário, que permitam identificar as
+    causas dos desvios e realimentar o processo decisório
+
+    Analisar o impacto das variáveis orçadas sobre a formação de resultados;
+
+    Comparar e analisar os resultados obtidos, explicando as variáveis envolvidas.
+
+    Desenvolverá a capacidade de trabalho em equipe através de atividades práticas,
+    da mesma forma que as decisões financeiras são tomadas nos ambientes corporativos.
+
+    Desenvolver habilidade de expor de forma oral o diagnóstico de planejamento e
+    controle, de maneira organizada e focalizando os pontos de destaque.
+
+    Desenvolver habilidade de expor de forma escrita o diagnóstico de planejamento
+    e controle, de maneira organizada e focalizando os pontos de destaque.
+
+    Desenvolver a capacidade de pesquisa em bancos de dados e sites especializados.
+
+    Desenvolver a capacidade de utilização de ferramentas digitais como suporte à
+    tomada de decisão financeira.'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220804011335'
-digest: ZABCMFTEBZAEMLJWQETS3PA7YRF3R4AC
-updated_at: '20220804011335'
-url: https://web.archive.org/web/20220804011335id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0338&codcur=12012&codhab=1
+created_at: '20230922004547'
+digest: JDR2XKF6NRSTRTETXI4WZYIQJDLJNOI4
+updated_at: '20230922004547'
+url: https://web.archive.org/web/20230922004547id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0338&codcur=12012&codhab=1
