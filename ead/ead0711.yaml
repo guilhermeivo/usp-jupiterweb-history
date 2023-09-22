@@ -1,24 +1,52 @@
 courses:
-  activation: 01/01/2002
-  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
-    será submetido a uma reavaliação final, a título de recuperação
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
   bibliography: Os mais recentes artigos publicados em periódicos pertinentes à área.
-    Dissertação e teses recém defendidos na área de Administração Geral
-  course: '· Os desenvolvimentos mais recentemente atingidos
+    Dissertação e teses recém defendidos na área de Administração Estratégica e Inovação
+    de acordo com o tamanho da empresa
+  course: '· Perspectiva histórica da evolução do conhecimento na área de Administração
+    Estratégica e Inovação de acordo com o tamanho da empresa
 
-    · Tópicos emergentes na atualidade, para discussão e análise'
+    · Os desenvolvimentos mais recentemente atingidos
+
+    · Tópicos emergentes na atualidade, para discussão e análise
+
+    · Historical perspective of the evolution of knowledge in the area of Strategic
+    Management and Innovation according to the size of the company
+
+    · The most recently discussions
+
+    · Current emerging topics for discussion and analysis'
   course_name: 'EAD0711 - Tópicos de Administração Geral II
 
-    Topics of General Business II'
+    Topics of General Management II'
   deactivation: ''
+  instructors: '9162898 - Claudia Sofia Frias Pinto
+
+    2109999 - Fabio Lotti Oliva
+
+    5353963 - Felipe Mendes Borini
+
+    2085444 - Martinho Isnard Ribeiro de Almeida
+
+    1305012 - Moacir de Miranda Oliveira Júnior'
   lecture_credits: '2'
-  objectives: Apresentar os principais avanços conquistados nesta área da Administração,
-    bem como os temas de vanguarda a ela relacionados e que não foram explorados em
-    Tópicos de Administração Geral I
+  objectives: 'Compreender o avanço da Administração Estratégica e Inovação, relacionando-os
+    com o tamanho da empresa.
+
+    Avaliar as novas perspectivas e temáticas de Administração Estratégica e Inovação,
+    justificando-as de acordo com o tamanho da empresa.
+
+    Avaliar os avanços da Administração Estratégica e Inovação, explicando-os de acordo
+    com o tamanho da empresa e a Responsabilidade Socioambiental.
+
+    Avaliar os avanços da Administração Estratégica e Inovação, comparando-os de acordo
+    com o tamanho da empresa e a Diversidade'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220705175704'
-digest: VIXTLSVCKIR3LKWGPNQ54FNL5KULAHBI
-updated_at: '20220804011414'
-url: https://web.archive.org/web/20220804011414id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0711&codcur=12012&codhab=1
+created_at: '20230922014221'
+digest: 3N3GNYYJ5B2PSVMYELAHYBYWGLK2ZJ7L
+updated_at: '20230922014221'
+url: https://web.archive.org/web/20230922014221id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0711&codcur=12012&codhab=1
