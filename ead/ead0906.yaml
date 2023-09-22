@@ -1,8 +1,7 @@
 courses:
-  activation: 01/01/2021
-  assessment: 'das oficinas (40%)
-
-    Participação em sala de aula, envolvimento com a disciplina. (20%)'
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
   bibliography: 'Austin, J.; Reficco, E.; et al. Creating social and economic value.
     2006. In: SEKN – Social Enterprise Knowledge Network. Effective management of
     social enterprises: lessons from business and civil society organizations in IberoAmerica.
@@ -21,84 +20,45 @@ courses:
 
     Yunus, M. 2007. Creating a World without poverty: Social Business and the future
     of capitalism. New York: Public Affairs.'
-  course: '3 Aulas teóricas sobre tópicos em empreendedorismo e inovação social: Design
-    Thinking, modelo de negócios, prototipação, ecossistema da inovação
+  course: 'Oficina 1: Competências de tutoria
 
-    11 oficinas técnicas para alunos de ensino médio:
-
-    Oficina 1: O que é empreendedorismo?
-
-    Oficina 2: Primeira roda de conversa com empreendedores sociais sobre o início
-    da jornada empreendedora
+    Oficina 2: O que é empreendedorismo social?
 
     Oficina 3: Como pensar de forma inovadora?
 
-    Oficina 4: Como construir soluções inovadoras?
+    Oficina 4: Como criar soluções inovadoras no campo socioambiental?
 
-    Oficina 5: O que é empreendedorismo social?
+    Oficina 5: Modelo de Negócios Sociais
 
-    Oficina 6: Modelo de Negócios
+    Oficina 6: Como criar e desenvolver seu produto?
 
-    Oficina 7: Como criar e desenvolver seu produto?
+    Oficina 7: Captação de recursos e ecossistema empreendedor
 
-    Oficina 8: Captação de recursos e ecossistema empreendedor
+    Oficina 8: Pitch e técnicas de oratória
 
-    Oficina 9: Roda de conversa com empreendedores sociais sobre desafios de gestão
-
-    Oficina 10: Pitch e técnicas de oratória
-
-    Oficina 11: Preparação dos grupos para evento de encerramento
+    Oficina 9: Preparação dos grupos para evento de encerramento
 
     Evento de Encerramento: apresentação das soluções na FEA para avaliação de uma
     banca
 
-    3 Aulas teóricas sobre tópicos em empreendedorismo e inovação social: Design Thinking,
-    modelo de negócios, prototipação, ecossistema da inovação
-
-    11 oficinas técnicas para alunos de ensino médio:
-
-    Oficina 1: O que é empreendedorismo?
-
-    Oficina 2: Primeira roda de conversa com empreendedores sociais sobre o início
-    da jornada empreendedora
-
-    Oficina 3: Como pensar de forma inovadora?
-
-    Oficina 4: Como construir soluções inovadoras?
-
-    Oficina 5: O que é empreendedorismo social?
-
-    Oficina 6: Modelo de Negócios
-
-    Oficina 7: Como criar e desenvolver seu produto?
-
-    Oficina 8: Captação de recursos e ecossistema empreendedor
-
-    Oficina 9: Roda de conversa com empreendedores sociais sobre desafios de gestão
-
-    Oficina 10: Pitch e técnicas de oratória
-
-    Oficina 11: Preparação dos grupos para evento de encerramento
-
-    Evento de Encerramento: apresentação das soluções na FEA para avaliação de uma
-    banca'
+    Aula de encerramento: Balanço da disciplina'
   course_name: 'EAD0906 - Inovação Social e Empreendedorismo Social na Prática
 
     Social Innovation and Social Entrepreneurship Practices'
   deactivation: ''
   instructors: 1013604 - Graziella Maria Comini
   lecture_credits: '1'
-  objectives: 'Introduzir o referencial teórico-conceitual que dá suporte aos temas:  Inovação
-    Social e Empreendedorismo Social;
+  objectives: 'Compreender o referencial teórico-conceitual que dá suporte aos temas:  Inovação
+    Social e Empreendedorismo Social
+
+    Estruturar iniciativas e soluções para problemas socioambientais
 
     Desenvolver competências empreendedoras em alunos de graduação e alunos de ensino
-    médio;
-
-    Estruturar iniciativas e soluções para problemas socioambientais.'
+    médio;'
   practical_credits: '1'
   total_workload: 45 h
   type: Semestral
-created_at: '20220705180504'
-digest: RIJEXZM4HIPJGSA6CWHUHDK442IEC6PI
-updated_at: '20220804011358'
-url: https://web.archive.org/web/20220804011358id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0906&codcur=12012&codhab=1
+created_at: '20230922024555'
+digest: WLPVQHS6RHTNYR5BUED2TSYGGW5SWPUB
+updated_at: '20230922024555'
+url: https://web.archive.org/web/20230922024555id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0906&codcur=12012&codhab=1
