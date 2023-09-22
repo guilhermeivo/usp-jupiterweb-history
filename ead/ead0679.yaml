@@ -1,0 +1,134 @@
+courses:
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'Pindyck, R. S., & Rubinfeld, D. L. (2018). Microeconomics. Pearson
+    Education. Ed 9.
+
+    Porter, M. E. (2008). The five competitive forces that shape strategy. Harvard
+    business review, 86(1), 25-40.
+
+    Besanko, D., Dranove, D., Shanley, M., & Schaefer, S. (2018). A Economia da Estratégia-5.
+    Bookman Editora.
+
+    McGUIGAN, J. R.; MOYER, R.C.; HARRIS, F.H. Managerial economics: applications,
+    strategy and tatics. Cincinatti, South Western, 2018.
+
+    MANSFIELD, Edwin. Managerial economics: theory, applications and cases. Nova Iorque,
+    Prentice-Hall, 2015.
+
+    VARIAN, Hal R. Microeconomia: princípios básicos. (tradução da quarta edição americana).
+    Rio de Janeiro, Campus, 2018.
+
+    KRUGMAN P & WELLS R.  (2007)  Introdução  à Economia . Elsevier
+
+    SLOMAN J. &  JONES E  ( 2017 ) . Essential Economics for Business . Pearson'
+  course: '1.Mercados parciais, precificação e posicionamento
+
+    Concorrência perfeita
+
+    Monopólio
+
+    Concorrência monopolística
+
+    Oligopólio
+
+    Discriminação de preço
+
+    2.Aspectos Macroeconômicos e seus impactos sobre as empresas
+
+    a. As variáveis macroeconômicas
+
+    b. As diversas politicas governamentais e seus efeitos sobre a economia das nações
+
+    c. Decisões e estratégias empresarias  face as mudanças macroeconomicas
+
+    3.Estrutura do mercado e estratégia
+
+    a.ECD
+
+    b.A Economia das Cinco Forças de Porter
+
+    c.Macroambiente e estratégia
+
+    4.Teoria dos jogos e estratégia
+
+    Equilíbrio e Nash e estratégias
+
+    Dinâmica competitiva: modelos de Cournot, Bertrand e Stackelberg
+
+    Jogos na forma extensiva e recorrentes
+
+    5.Intervenções, políticas públicas e bem-estar
+
+    a.Excedentes do produtor, consumidor e peso morto
+
+    b.Tabelamento de preços
+
+    c.Tributação
+
+    d.Regulamentação
+
+    6.Falhas de mercado
+
+    a.Assimetrias de informação
+
+    b  Externalidades
+
+    7.  Introdução ao Comercio Internacional
+
+    a. Caracteristicas do comércio entre Nações
+
+    b . Diferenças entre vantagem comparativa e vantagem competitiva
+
+    c.Globalização X Crescimento do protecionismo e seus efeitos sobre as empresas'
+  course_name: 'EAD0679 - Mercados e Macroambiente
+
+    Markets and macro environments'
+  deactivation: ''
+  instructors: '2253712 - Daniel Reed Bergmann
+
+    1452257 - Nuno Manoel Martins Dias Fouto
+
+    5393993 - Paula Sarita Bigio Schnaider Nissimoff
+
+    77542 - Paulo Roberto Feldmann
+
+    2068031 - Renata Giovinazzo Spers'
+  lecture_credits: '4'
+  objectives: '- Aplicar fundamentos de macro e microeconomia, implementando estratégias
+    de posicionamento, preço e produção;
+
+    - Compreender a lógica subjacente à forma de competição nos mercados; relacionado
+    os princípios da macro e  da microeconomia à realidade dos mercados.
+
+    - Criar estratégias de precificação e produção, traçando as melhores práticas
+    para cada mercado.
+
+    -  Entender com as decisões governamentais sobre a macroeconomia impactam as empresas,
+    relacionando-as às estratégias
+
+    - Analisar as características dos mercados, categorizando-os para fornecer subsídios
+    às decisões estratégicas
+
+    - Compreender as relações e rivalidade entre firmas em um dado mercado, relacionando-as
+    com as estratégias das firmas.
+
+    - Compreender o comportamento do comercio internacional, explicando os impactos
+    sobre as empresas
+
+    - Criar estratégias, de acordo com as circunstâncias concorrenciais; traçando
+    ações que levem a vantagem competitiva.
+
+    - Identificar os conceitos, reconhecendo situações práticas, a partir da discussão
+    casos e exercícios aplicados em grupo.
+
+    - Usar ferramentas de TI, implementando exercícios e estudos de caso (processador
+    de texto, gráficos e planilhas).'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20230922014605'
+digest: 4JMJ3U3W5GPPS65KIQAJNSEGXADCADZG
+updated_at: '20230922014605'
+url: https://web.archive.org/web/20230922014605id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0679&codcur=12012&codhab=1
