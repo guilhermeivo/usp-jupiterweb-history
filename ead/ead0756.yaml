@@ -1,0 +1,59 @@
+courses:
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'Complementar
+
+    •Cotton, R. Learning R: A Step-by-Step Function Guide to Data Analysis 1st Edition,
+    O''Reilly Media, 2013.
+
+    VanderPlas, J. Python Data Science Handbook: Essential Tools for Working with
+    Data 1st Edition, O''Reilly Media, 2017.
+
+    •Wickham, H. Advanced R, Second Edition, Chapman and Hall/CRC, 2019.'
+  course: 'Testes de significância
+
+    Testes paramétricos para uma amostra, duas amostras, k amostras
+
+    Testes não paramétricos para uma amostra, duas amostras, k amostras
+
+    Correlação
+
+    Coeficiente de Pearson
+
+    Coeficiente de Spearman
+
+    Testes de significância para correlações
+
+    Regressão linear
+
+    Regressão simples
+
+    Regressão múltipla
+
+    Análise de clusters'
+  course_name: 'EAD0756 - Modelos Matemáticos e Estatísticos para Decisão
+
+    Mathematical and Statistical Decision Models'
+  deactivation: ''
+  instructors: '105091 - Adriana Backx Noronha Viana
+
+    516012 - Alessandra de Ávila Montini
+
+    3532378 - Daielly Melina Nassif Mantovani'
+  lecture_credits: '4'
+  objectives: '- Reconhecer situações adequadas para aplicação dos modelos de regressão,
+    cluster e regressão logística
+
+    - Aplicar as ferramentas estatísticas a situações reais
+
+    - Avaliar ajustes dos modelos estatísticos e efetuar correções necessárias
+
+    - Criar um plano de análise de dados para situações organizacionais reais'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20230922012726'
+digest: Y43DXLVT42Q4TWN3QULXPKKH3W76GSPE
+updated_at: '20230922012726'
+url: https://web.archive.org/web/20230922012726id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0756&codcur=12012&codhab=1
