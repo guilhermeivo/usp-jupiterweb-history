@@ -1,59 +1,137 @@
 courses:
-  activation: 01/01/2008
-  assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
-    será submetido a uma reavaliação final, a título de recuperação
-  bibliography: "1)\tALBUQUERQUE, Lindolfo, FRANÇA, Ana Cristina Limongi (1998), Estratégias\
-    \ de recursos humanos e gestão da qualidade de vida no trabalho: o stress e a\
-    \ expansão do conceito de qualidade total RAUSP, vol. 33, nº 2 - abr/jun\n2)\t\
-    CHIAVENATTO, Idalberto. Gestão de Pessoas - o novo papel de Recursos Humanos.\
-    \ São Paulo, Ed. Campos, 1999.\n3)\tFISCHER, André Luiz (1998), A constituição\
-    \ do Modelo Competitivo de Gestão de Pessoas no Brasil - Um estudo sobre as empresas\
-    \ consideradas exemplares - Tese defendida junto à FEA/USP\n4)\tFLEURY, Maria\
-    \ Tereza Leme e FISCHER, Rosa Maria (1992),  Relações de trabalho e políticas\
-    \ de gestão: uma história das questões atuais,  RAUSP, vol. 27, nº 4 - out/dez\n\
-    5)\tLAWLER III, EDUARD E. (1994), From job-based to competency-based organizations,\
-    \ Journal of Organizational Behavior, Vol 15, p.3-13São Paulo MAKRON Book.\n6)\t\
-    WOOD, Stephen (1992),  Administração Estratégica e Administração de Recursos Humanos;\
-    \ RAUSP, vol. 27, nº 4 - out/dez\n7)\tFLEURY, Afonso e FLEURY, Maria Tereza Leme\
-    \ - Estratégias Empresariais e Formação de Competências. São Paulo, Atlas, 2000.\n\
-    8)            ROBBINS, Stephen - Comportamento Organizacional - cap. 14,15 e 16"
-  course: '· A Gestão de RH, Objetivos, Políticas e Estratégias
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'ALBUQUERQUE, Lindolfo , Gestão Estratégica de pessoas In: FLEURY,
+    M.T. (org) As pessoas na organização, São Paulo: Editora Gente, 2002.
 
-    · Apanhado Histórico de Gestão de Pessoal e das Relações de Trabalho
+    ANTONELLO, C. O auto-desenvolvimento e a perspectiva da aprendizagem organizacional
+    in: BITTENCOURT, C (org) Gestão Contemporânea de pessoas: novas práticas, conceitos
+    tradicionais, Porto Alegre: Bookman, 2004.
 
-    · A Gestão Estratégica de RH
+    DUTRA, Joel, DUTRA, Tatiana, DUTRA, Gabriela. Gestão de Pessoas: Realidade Atual
+    e Desafios Futuros, São Paulo: Atlas, 2017. (livro- texto da disciplina)
 
-    · A Gestão de pessoas por competências
+    DUTRA, Joel,Gestão de Pessoas: Modelo, Processos, Tendências e Perspectivas, São
+    Paulo: São Paulo, 2002.
 
-    · A Atração de Competências para as Organizações
+    DUTRA, Joel. Administração de Carreiras: uma proposta para repensar a gestão de
+    pessoas, São Paulo: Atlas, 1996.
 
-    · Recrutando e Selecionando Pessoas
+    DUTRA, Joel e COMINI, Graziella. Competência como base para Gestão Estratégica
+    in: EBOLI, M, FISCHER, A, MORAES, F. e AMORIM, W. Educação Corporativa: fundamentos,
+    evolução e implantação de projetos, São Paulo:Atlas, 2010.
 
-    · Formação Profissional e Desenvolvimento de Pessoas
+    EBOLI, M. Educação Corporativa no Brasil: mitos e verdades, São Paulo: Editora
+    Gente, 2004
 
-    · Sistema de Desenvolvimento de Pessoas
+    FISCHER, André. Um Resgate conceitual e histórico dos modelos de gestão de pessoas
+    in: FLEURY, M.T. (org) As pessoas na organização, São Paulo: Editora Gente, 2002.
 
-    · Avaliação de Performance
+    FERNANDES, Bruno e HIPOLITO, José. Dimensões de Avaliação de Pessoas e conceito
+    de competências in: DUTRA, J, RUAS, R e FLEURY, M.T. (org) Competências: Conceitos,
+    Métodos e Experiências, São Paulo: Editora Atlas, 2010.
 
-    · Outras Dimensões da Gestão de Pessoas:- Qualidade de Vida'
+    FLEURY, M. T. L. A gestão de Competência e a estratégia organizacional. IN: As
+    pessoas na organização FLEURY, M. T. L. et al (org.). Editora Gente. P. 51-61,
+    2002.FREITAS, Maria Ester de. Contexto social e imaginário organizacional moderno.
+    Revista de Administração de Empresas RAE, v.40, n.2, p.6-15, Abr./Jun. 2000.
+
+    HIPOLITO, J, Sistemas de recompensas: uma abordagem atual in: FLEURY, M.T. (org)
+    As pessoas na organização, São Paulo: Editora Gente, 2002.
+
+    HORNEAUX, Flávio. Avaliação de Resultados in: EBOLI, M, FISCHER, A, MORAES, F.
+    e AMORIM, W. Educação Corporativa: fundamentos, evolução e implantação de projetos,
+    São Paulo: Atlas, 2010.
+
+    LIMONGI-FRANÇA, A.C  Práticas de Recursos Humanos: Conceitos, Ferramentas e Procedimentos,
+    São Paulo: Editora Atlas, 2007.
+
+    LIMONGI-FRANÇA, A.C e KANIKADAN, A., Qualidade de Vida no Trabalho: Fatores Críticos
+    de gestão e competência in: DUTRA, J, RUAS, R e FLEURY, M.T. (org) Competências:
+    Conceitos, Métodos e Experiências, São Paulo: Editora Atlas, 2010.
+
+    MANCIA, L. Os desafios do Modelo de Consultoria Interna em Recursos Humanos. In:
+    Gestão Contemporânea de Pessoas novas práticas, conceitos tradicionais. BITENCOURT,
+    C. e Colaboradores. Bokman, p.146-158, 2004.
+
+    PLOTHOW, Célia e HIPÓLITO, J. Remuneração por competências: alternativas e implicações
+    in: DUTRA, J, RUAS, R e FLEURY, M.T. (org) Competências: Conceitos, Métodos e
+    Experiências, São Paulo: Editora Atlas, 2010.
+
+    ROSENBERG, Deanne. Contratando a Melhor Pessoa, São Paulo: Negócio Editora, 2001.
+
+    SCHEIN, E. Ajuda: a relação essencial. São Paulo: ARX – Saraiva, 2009.
+
+    ULRICH, DAVE. Os Campeões de Recursos Humanos, São Paulo: Futura, 1998.'
+  course: 'I - Gestão Estratégica de Pessoas
+
+    Gestão de Pessoas no Contexto Contemporâneo
+
+    Resgate Histórico
+
+    Papel de RH
+
+    II – Movimentação de Pessoas
+
+    Dinâmica do Mercado de Trabalho e Planejamento de Quadro
+
+    Captação e Seleção: estratégias e instrumentos
+
+    III - Aprendizagem e Desenvolvimento
+
+    Gestão de Carreiras
+
+    Desenvolvimento de Pessoas e Organizacional
+
+    IV – Valorização
+
+    Padrões de Equidade
+
+    Remuneração Fixa e Variável
+
+    Gestão da Massa Salarial
+
+    V – Gestão do Desenvolvimento
+
+    Processo de Avaliação
+
+    Diálogo de Desenvolvimento
+
+    Desenvolvimento de liderança
+
+    Processo Sucessório
+
+    VI – Tendências
+
+    Desafios atuais e futuros em gestão de pessoas'
   course_name: 'EAD0622 - Gestão de Pessoas
 
     Personal Management'
   deactivation: ''
+  instructors: '1013604 - Graziella Maria Comini
+
+    2783915 - Joel Souza Dutra
+
+    1963351 - Wilson Aparecido Costa de Amorim'
   lecture_credits: '4'
-  objectives: '· Assimilar os principais pressupostos teóricos que fundamentam a definição
-    de políticas e práticas de Gestão de Pessoas nas Empresas
+  objectives: '-Conhecer o quadro conceitual da Gestão de Pessoas nas suas políticas
+    e práticas, reconhecendo teorias e abordagens ao longo do tempo.
 
-    · Conhecer as principais atividades e procedimentos dos vários subsistemas da
-    Administração de Pessoas e os impactos de sua operacionalização em diferentes
-    instâncias organizacionais
+    -Compreender as especificidades das políticas e práticas de Gestão de Pessoas,
+    diferenciando-as em suas finalidades.
 
-    · Familiarizar-se com processo de formulação de Políticas de Gestão de Pessoas,
-    identificando seus elementos componentes para implementação e avaliação'
+    -Avaliar modelos de gestão de pessoas, apontando aspectos positivos e fragilidades.
+
+    -Aplicar o quadro conceitual em casos práticos identificando os elementos e premissas
+    das políticas e práticas de gestão de pessoas.
+
+    -Analisar criticamente os casos de políticas e práticas de gestão de pessoas,
+    utilizando os conceitos e ferramentas proporcionados pelo curso.'
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220804011331'
-digest: 6FOKZWBBLEABYSFTWMYSGPUD27ZEFL5Y
-updated_at: '20220804011331'
-url: https://web.archive.org/web/20220804011331id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0622&codcur=12012&codhab=1
+created_at: '20230922013347'
+digest: ICBSTCJGNXJEFINN7VXKRR3L6TKIL6BC
+updated_at: '20230922013347'
+url: https://web.archive.org/web/20230922013347id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0622&codcur=12012&codhab=1
