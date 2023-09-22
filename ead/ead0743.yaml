@@ -1,51 +1,161 @@
 courses:
-  activation: 01/01/2014
+  activation: 01/01/2023
   assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
     média final.
-  bibliography: 'BIBLIOGRAFIA BÁSICA
+  bibliography: 'Zeithaml, V. A., Bitner, M. J., & Gremler, D. D. (2006). Services
+    marketing: integrating customer focus across the firm.
 
-    HOFFMAN, K. D.; BATESON, J. E. G.; IKEDA. A. A.; CAMPOMAR, M. C. Princípios de
-    marketing de serviços. São Paulo: Cengage, 2009.
+    Wirtz, J., & Lovelock, C. (2021). Services marketing: People, technology, strategy.
+    World Scientific.
 
-    KOTLER, P.; KELLER, K. Administração de Marketing. São Paulo: Pearson, 2012.
+    Hoffman, K. D., & Bateson, J. E. (2016). Services marketing: concepts, strategies,
+    & cases. Cengage learning.
 
-    BIBLIOGRAFIA COMPLEMENTAR
+    Hoffman, K. D., & Turley, L. W. (2002). Atmospherics, service encounters and consumer
+    decision making: An integrattve perspective. Journal of Marketing theory and practice,
+    10(3), 33-47.
 
-    BATESON, John E. G. Managing services marketing: text and readings. Fort Worth:
-    Dryden, 1995.
+    Vargo, S. L., Lusch, R. F., Akaka, M. A., & He, Y. (2017). Service-dominant logic:
+    A review and assessment. Review of marketing research, 125-167.
 
-    BEISEL, John L. Contemporary retailing. Nova York: Macmillan, 1993.
+    Vargo, S. L., & Lusch, R. F. (2017). Service-dominant logic 2025. International
+    Journal of Research in Marketing, 34(1), 46-67.
 
-    KELLER, K. MACHADO, M. Gestão Estratégica de Marcas. São Paulo: Pearson, 2006.
+    Ballantyne, D., & Varey, R. J. (2008). The service-dominant logic and the future
+    of marketing. Journal of the academy of marketing science, 36(1), 11-14.
 
-    LOVELOCK, Christopher H. Services marketing. Upper Saddee River: Prentice Hall,
-    1996.
+    Grönroos, C. (1984). A service quality model and its marketing implications. European
+    Journal of marketing.
 
-    MORGENSTEIN, Melvin & STRONGIN, Harriet. Modern retailing: management, principles
-    and practices. Englewood Cliffs: Prentice Hall, 1992.
+    Parasuraman, A., Berry, L., & Zeithaml, V. (2002). Refinement and reassessment
+    of the SERVQUAL scale. Journal of retailing, 67(4), 114.
 
-    ZEITHAN, Valerie A. & BITNER, Mary Jo. - Services marketing: integrating customer
-    focus across the firm. Irvin - McGraw-Hill.
+    BLOOM, P. N.; KOTLER, P.; HAYES, T. Marketing de Serviços Profissionais. São Paulo:
+    Manole, 2002
 
-    Serão apresentados durante o curso, artigos, "papers" e sites de internet recentes.'
-  course: "Proporcionar ao aluno visão integrativa das atividades de marketing de\
-    \ serviços e varejo no contexto brasileiro.\n\x95\tSetor de serviços e varejo\
-    \ no Brasil\n\x95\tCaracterísticas distintivas dos serviços\n\x95\tCaracterísticas\
-    \ distintivas do varejo\n\x95\t4 Ps nos serviços e no varejo\n\x95\tEvidências\
-    \ físicas, processos e pessoas em serviços e no varejo\n\x95\tExpectativas, qualidade,\
-    \ satisfação e relacionamento no serviços e no varejo"
-  course_name: 'EAD0743 - Marketing de Serviços e de Varejo
+    FITZSIMMONS, J.; FITZSIMMONS, M.J. Administração de serviços: operações, estratégia
+    e tecnologia de informação. Porto Alegre: Bookman, 2000.
 
-    Services Marketing and Retail Marketing'
+    GIANESI, I. G.N.; CORREA, H. L. Administração estratégica de serviços: operações
+    para a satisfação do cliente. São Paulo: Atlas, 1996.
+
+    GRONROOS, CHRISTIAN. Marketing - Gerenciamento e Serviços. São Paulo, Campus.
+    2004
+
+    ZEITHAML, V. A. Marketing de Serviços – A Empresa com foco no cliente. Porto Alegre:
+    Bookman, 2000'
+  course: 'Fundamentos de Marketing de Serviços
+
+    Tendências e Oportunidades em serviços
+
+    Uso de tecnologia em serviços
+
+    Características centrais dos serviços (inseparabilidade, variabilidade, heterogeneidade,
+    perecibilidade)
+
+    Serviços como processamento (pessoas, posses, estímulos mentais, informações)
+
+    Serviços de Qualidade
+
+    Expectativas e percepções do consumidor
+
+    Modelo dos Gaps de Serviços
+
+    Modelo Flor de Serviços
+
+    Comportamento do Consumidor de Serviços
+
+    Etapas do comportamento do consumidor de Serviços (pré-compra; encontro de serviços
+    e pós-compra)
+
+    Recuperação de serviços
+
+    Mensuração de qualidade em serviços (Servqual, ACSI)
+
+    Técnicas de pesquisa em serviços
+
+    Composto de Marketing para Serviços
+
+    Desenhando serviços de qualidade (processos, blueprint)
+
+    Promoção de serviços
+
+    Precificação
+
+    Distribuição
+
+    Evidência Física
+
+    Pessoas (clientes e funcionários)
+
+    Processos
+
+    Fundamentals of Services Marketing
+
+    Trends and Opportunities in Services
+
+    Use of technology in services
+
+    Central characteristics of services (inseparability, variability, heterogeneity,
+    perishability)
+
+    Services as processes (people, possessions, mental stimuli, information)
+
+    Quality Services
+
+    Expectations and the consumer
+
+    Service Gaps Model
+
+    Service Flower Model
+
+    Service Consumer Behavior
+
+    Stages of service consumer behavior (pre-purchase; service encounter and post-purchase)
+
+    service recovery
+
+    Measurement of quality in services (Servqual, ACSI)
+
+    Service research techniques
+
+    Marketing Mix for Services
+
+    Designing quality services (processes, blueprint,)
+
+    Service promotion
+
+    Pricing
+
+    Distribution
+
+    Physical Evidence
+
+    People (customers and employees)
+
+    Processes'
+  course_name: 'EAD0743 - Marketing de Serviços
+
+    Services Marketing'
   deactivation: ''
+  instructors: '403396 - Andres Rodriguez Veloso
+
+    2975141 - Guilherme de Farias Shiraishi'
   lecture_credits: '2'
-  objectives: A disciplina tem por objetivo fazer com que os alunos compreendam as
-    atividades de marketing de serviço e varejo e discutam a sua importância no cenário
-    brasileiro.
+  objectives: 'Analisar as estratégias de marketing de serviços de uma organização
+    e identificar os principais problemas gerenciais.
+
+    Criar modelos de negócios inovadores para empresas de serviços.
+
+    Desenvolver em equipe um plano de marketing para empresas de serviços.
+
+    Apresentar um plano de marketing para empresas de serviços.
+
+    Compreender os termos e especificidades do marketing no segmento de serviços.'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220705182222'
-digest: MIWWRQIUJ4CWCATGLK57J5H3XTCLWUUA
-updated_at: '20220804011347'
-url: https://web.archive.org/web/20220804011347id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0743&codcur=12012&codhab=1
+created_at: '20230922013017'
+digest: JGJSQ66ILOYPUIAOPZMIICHR2ZAEICY3
+updated_at: '20230922013017'
+url: https://web.archive.org/web/20230922013017id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0743&codcur=12012&codhab=1
