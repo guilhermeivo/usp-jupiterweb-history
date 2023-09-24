@@ -127,7 +127,7 @@ courses:
   total_workload: 90 h
   type: Semestral
 created_at: '20230529151027'
-digest: UCT2S6TS25RMRLWITBKAPILVWZEIALZT
+digest: DZNNBM6BGCKCCGKGF6MSIBUEGWG2X2IY
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 6'
   requirements:
@@ -139,5 +139,5 @@ requirements:
   - code: LEA0200
     name: Zoologia de Invertebrados II
     type: Requisito
-updated_at: '20230529151027'
-url: https://web.archive.org/web/20230529151027id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LEA0592
+updated_at: '20230924042418'
+url: https://web.archive.org/web/20230924042418id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0592&codcur=11070&codhab=4
