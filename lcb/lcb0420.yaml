@@ -1,10 +1,12 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2023
   assessment: Esta disciplina não possui prova repositiva ou substituta e, nem tão
-    pouco de recuperação.
-  bibliography: 'Bicudo, C.E.M.; Menezes, M. 2005. Gêneros de Algas de Águas Continentais
-    do Brasil – Chave para Identificação e Descrições. Ed. Rima. 508 pg. (só chave
-    de identificação)
+    pouco de recuperação. Esta disciplina não oferece a possibilidade de avaliação
+    continuada.
+  bibliography: 'Literatura Básica:
+
+    Bicudo, C.E.M.; Menezes, M. 2005. Gêneros de Algas de Águas Continentais do Brasil
+    – Chave para Identificação e Descrições. Ed. Rima. 508 pg. (só chave de identificação)
 
     Hirakawa, Y. Secondary Endosymbioses, Volume 84. 1st Edition. Advances in Botanical
     Research. 2017. Eds Jacquot, JP, Gadal, P. 452p.
@@ -26,7 +28,7 @@ courses:
     Ruppert, E.E., R.S. Fox; R.D. Barnes, A.C. Marques, A.C. 2005. Zoologia dos invertebrados:
     uma abordagem funcional-evolutiva 7. ed Roca Ltda, São Paulo. 1145 p
 
-    (Outras)
+    Literatura Complementar:
 
     Bold, H.C.; Wynne, M.J. 1985. Introduction to the algae: structure and  reproduction       (2
     ed. ). Prentice-Hall, Inc., Englewood Cliffs. 720p..
@@ -85,7 +87,7 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20220710031134'
-digest: KQ464AIWPRBCKNETUDDV4QXC37FEAKOM
-updated_at: '20220803115456'
-url: https://web.archive.org/web/20220803115456id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0420&codcur=11070&codhab=4
+created_at: '20230925063057'
+digest: 4I7AXT3P55LOALVLTSSGEP55IF4RIJQU
+updated_at: '20230925063057'
+url: https://web.archive.org/web/20230925063057id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0420&codcur=11070&codhab=104
