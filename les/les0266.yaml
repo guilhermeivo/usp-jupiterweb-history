@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2020
+  activation: 01/01/2023
   assessment: Uma prova com a matéria toda.
   bibliography: 'ARCAS, P.H. Saresp e progressão continuada: implicações na avaliação
     escolar .Est. Aval. Educ., São Paulo, v. 21,n. 47, p. 473-488, set./dez. 2010
@@ -89,29 +89,28 @@ courses:
     Liberlivros Ed. 2007.
 
     WEREBE, M.J.G. Grandezas e Misérias do Ensino no Brasil, SP, Ed. Ática, 1997.'
-  course: "1.\tAspectos Históricos referentes à Evolução da Instituição Escolar no\
-    \ Brasil. 1.1. Período Colonial. 1.2. Período Imperial. 1.3. República. 1.4. Estado\
-    \ Novo. 1.5. Restabelecimento da República, 1.6. Ditadura Militar, 1.7. Nova República.\
-    \ 1.8. Os anos 1990 até os anos atuais. 2. O Sistema Escolar Brasileiro. 2.1.\
-    \ Modelo, Estrutura e Funcionamentos do Sistema Escolar Brasileiro. Evolução sócio\
-    \ histórica do sistema escolar no Brasil e seus reflexos no contexto escolar e\
-    \ prática docente. 3. Administração do Sistema Escolar Brasileiro. 3.1. Administração\
-    \ de nível Federal. 3.2. Administração de nível Estadual. 3.3. Administração de\
-    \ nível Municipal. 4. Estrutura Didática da Educação Básica. 4.1. Conceito de\
-    \ Estrutura Didática e a proposta da LDB. 4.2. Ensino Fundamental. 4.3. Ensino\
-    \ Médio. 5. Educação Profissional (Ensino técnico agrícola). 5.1. Outras formas\
-    \ de Educação. 6. Legislação Escolar. 6.1. Constituição Brasileira. 6.2. Lei no\
-    \ 9394/96 (Lei de Diretrizes e Bases da Educação Nacional) e alterações posteriores.\
-    \ 6.3. Legislação sobre educação profissional. 6.4. Deliberação CEE-SP, n. 111/2012,\
-    \ 2/2015, 154/2017. 6.5. Recursos Financeiros e a Educação (Fundeb). 6.6. Estrutura\
-    \ de Recursos Financeiros e o Ensino Fundamental e Médio. 6.7. Recursos internos\
-    \ públicos e privados. 6.8. Recursos externos;7. Princípios da Gestão Escolar\
-    \ e Relações da Escola com a Comunidade. 7.1. Direção da Escola e atividades administrativas\
-    \ e pedagógicas. 7.2. Instâncias deliberativas da Escola, (Conselhos, APM etc).\
-    \ 7.3. A Escola e a Comunidade. 8. Políticas curriculares (Diretrizes curriculares\
-    \ nacionais e estaduais). 9. Sistema de Avaliação da Educação e Indicadores da\
-    \ Educação Básica. 10. Projeto político pedagógico. Atividades de Prática como\
-    \ Componente Curricular-PCC (60h). Estágio Supervisionado (30h)."
+  course: 1. Aspectos Históricos referentes à Evolução da Instituição Escolar no Brasil.
+    1.1. Período Colonial. 1.2. Período Imperial. 1.3. República. 1.4. Estado Novo.
+    1.5. Restabelecimento da República, 1.6. Ditadura Militar, 1.7. Nova República.
+    1.8. Os anos 1990 até os anos atuais. 2. O Sistema Escolar Brasileiro. 2.1. Modelo,
+    Estrutura e Funcionamentos do Sistema Escolar Brasileiro. Evolução sócio histórica
+    do sistema escolar no Brasil e seus reflexos no contexto escolar e prática docente.
+    3. Administração do Sistema Escolar Brasileiro. 3.1. Administração de nível Federal.
+    3.2. Administração de nível Estadual. 3.3. Administração de nível Municipal. 4.
+    Estrutura Didática da Educação Básica. 4.1. Conceito de Estrutura Didática e a
+    proposta da LDB. 4.2. Ensino Fundamental. 4.3. Ensino Médio. 5. Educação Profissional
+    (Ensino técnico agrícola). 5.1. Outras formas de Educação. 6. Legislação Escolar.
+    6.1. Constituição Brasileira. 6.2. Lei no 9394/96 (Lei de Diretrizes e Bases da
+    Educação Nacional) e alterações posteriores. 6.3. Legislação sobre educação profissional.
+    6.4. Deliberação CEE-SP, n. 111/2012, 2/2015, 154/2017. 6.5. Recursos Financeiros
+    e a Educação (Fundeb). 6.6. Estrutura de Recursos Financeiros e o Ensino Fundamental
+    e Médio. 6.7. Recursos internos públicos e privados. 6.8. Recursos externos;7.
+    Princípios da Gestão Escolar e Relações da Escola com a Comunidade. 7.1. Direção
+    da Escola e atividades administrativas e pedagógicas. 7.2. Instâncias deliberativas
+    da Escola, (Conselhos, APM etc). 7.3. A Escola e a Comunidade. 8. Políticas curriculares
+    (Diretrizes curriculares nacionais e estaduais). 9. Sistema de Avaliação da Educação
+    e Indicadores da Educação Básica. 10. Projeto político pedagógico. Atividades
+    de Prática como Componente Curricular-PCC (20h). Estágio Supervisionado (30h).
   course_name: 'LES0266 - Política e Organização da Educação Brasileira
 
     Politics and Organization of Brazilian Education'
@@ -126,19 +125,23 @@ courses:
     Procedimentos de Ensino – aula expositiva e dinâmica de grupo. 3. Recursos de
     Ensino – lousa, giz, projeção em multimídia, filmes e leituras dos textos recomendados.
     4. Avaliação do processo de ensino e aprendizagem. Nas atividades de Prática como
-    Componente Curricular (30h) e Estágio Supervisionado (30h) os alunos vão conhecer
+    Componente Curricular (20h) e Estágio Supervisionado (30h) os alunos vão conhecer
     a estrutura e funcionamento da escola, analisar os projetos político pedagógico
     na escola.
-  practical_credits: '1'
-  total_workload: '90 h
+  practical_credits: '2'
+  total_workload: '120 h
 
     (
 
-    Práticas como Componentes Curriculares =  30 h
+    Estágio: 30 h
+
+    ,
+
+    Práticas como Componentes Curriculares =  20 h
 
     )'
   type: Semestral
-created_at: '20210612195130'
-digest: EMPKVHRHGUF5G46BZKNU6AC7WMBLMX6R
-updated_at: '20220708232744'
-url: https://web.archive.org/web/20220708232744id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0266&codcur=11070&codhab=104
+created_at: '20230925074013'
+digest: NNJK6DOANHL4BSFPERFYC4DRU4LNTBR3
+updated_at: '20230925074013'
+url: https://web.archive.org/web/20230925074013id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0266&codcur=11070&codhab=104
