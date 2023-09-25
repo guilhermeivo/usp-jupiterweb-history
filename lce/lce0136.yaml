@@ -1,98 +1,130 @@
 courses:
-  activation: 01/01/2020
+  activation: 01/01/2023
   assessment: Não haverá recuperação.
-  bibliography: 'ALONSO R. Inteligencia Artificial y Estadística. Estadística Española.
-    Disponível em: <
+  bibliography: 'Literatura Básica:
 
-    http://www.ine.es/ss/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadervalue1=attachment%3B+filename%3D711%2F524%2F131_3.pdf&blobkey=urldata&blobtable=MungoBlobs&blobwhere=711%2F524%2F131_3.pdf&ssbinary=true>.
-    Acesso em: 20/2/2019.
+    ALCOFORADO, L. F. Utilizando a linguagem R: conceitos, manipulação, visualização,
+    modelagem e elaboração de relatórios. Editora Alta Books, São Paulo. 2021. 384p.
 
     AZEVEDO FILHO, A. J. B.V. . Princípios de Inferência Dedutiva e Indutiva: Noções
     de Lógica e Métodos de Prova. 1/1. ed. Scotts Valley, EUA: CreateSpace Publishers,
-    2010. v. 1. 140p
+    2010. v. 1. 140p.
 
-    BARBOSA L. P.;  MORAES W. F. A. Estratégias em Ambientes Hipercompetitivos: O
-    Caso da Indústria Brasileira de Embalagens para Cervejas e Refrigerantes. 2016.
-    Disponível em:< http://www.anpad.org.br/admin/pdf/enanpad2001-eso-276.pdf>. Disponível
-    em:
+    MICROSOFT. Office Online. Janeiro 2010.
 
-    . Acesso em: 20/02/2019.
+    MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e Lógica de
+    Programação Para Iniciantes, 3a ed, 2019.
 
-    COELHO A. C. As 7 tendências para o uso de inteligência artificial no Direito
-    em 2018. Thomson Reuters The Answer Company. 2018. Disponível em: <  https://www.thomsonreuters.com.br/content/dam/openweb/documents/pdf/Brazil/white-paper/As_7_Tend%C3%AAncias_para_o_uso_da_Inteligencia_Artificial_EM_2018.pdf
-    > Acesso em: 21/2/2019.
+    MONDEN, Y. Toyota Management System: Linking the Seven Key Functional Areas. Kindle,
+    USA. 2018. 435p.
 
-    GOVERNO FEDERAL. Agenda brasileira para a Indústria 4.0 – O Brasil Preparado para
-    os Desafios do Futuro. Ministério da Industria Comercio e Serviços. Disponível
-    em: < http://www.industria40.gov.br/>. Acesso em: 20/02/2019.
+    SARRIÉS, G.A. Site da Disciplina LCE 136, 1998. Disponível em:
 
-    ISENBERG P. Visual Analytics Introduction. Teaching VA 2014.  2014. Disponível
-    em: https://aviz.fr/wiki/uploads/TeachingVA2014/lecture1-introduction.pdf.  Acesso
-    em: 20/02/2019.
+    . Acesso em: 15/2/2022.
 
-    KRAUSE J. Using Visual Analytics to Explain Black-Box Machine Learning. New_York_University.
-    2018. Disponível em: https://www.researchgate.net/publication/325010090_Using_Visual_Analytics_to_Explain_Black-Box_Machine_Learning>
-    .  Acesso em: 20/2/2019.
+    SARRIÉS, G.A. Blog da Disciplina LCE 136, 2002. Disponível em < https://biologia-informada-inteligente.blogspot.com/
+    >. Acesso em: 15/2/2022.
 
-    OLIVEIRA L. Empregabilidade: Uma Análise Histórica e Crítica. Fundação Getúlio
-    Vargas. 2018. Disponível em:
+    SARRIÉS, G.A. Projeto Inteligência Artificial, Ciência de Dados e Robótica Aplicada.
+    2021. Disponível em < https://sites.google.com/usp.br/ia-cd-ra-gestao-gabriel
+    >. Acesso em: 15/2/2022.
 
-    . Acesso em: 20/02/2019.
+    SARRIÉS, G.A. Gabriel Informação e Inteligência Organizacional (BI). Gabriel-Informa-intel-
 
-    OVANESSOFF  A.; PLASTINO E. Como a Inteligência Artificial pode Acelerar o Crescimento
-    de América do Sul. 2018. Disponível em:
+    organiza.blogspot.com.br. 2015.
 
-    .    Acesso em: 20/02/2019.
+    TURBAN, E. & RAINER, R. K. & PORTTER, R. E. Introdução a Sistemas de Informação
+    uma Abordagem Gerencial. São Paulo: Editora Campus. 2007, 457p.
 
-    SANTOS R. Introdução à Mineração de Dados com Aplicações em Ciências Ambientais
-    e Espaciais. LAC-INPE.2012. Disponível em:
+    Literatura Complementar:
 
-    . Acesso em: 20/02/2019.
+    LIKER, K. & MEIER D. O Modelo Toyota, Manual de Aplicação. Porto Alegre: Bookman,
+    2007. 432p.
 
-    TAKAI O.K.; ITALIANO I.C.; FERREIRA J.E. Introdução a Banco de Dados.. DCC-IME-USP,
-    2005. Disponível em: < https://www.ime.usp.br/~jef/apostila.pdf>. Acesso em: 20/02/2019.
+    SARRIÉS, G.A. Treinamentos em Inteligência Artificial, Ciência de Dados e Robótica
+    Aplicada. 2021. Disponível em < https://sites.google.com/view/ia-cd-treinamentos-usp-gabriel>.
+    Acesso em: 15/2/2022.
 
-    TEIXEIRA T.M.C. Uma Reflexão Teórica Sobre a Subjetividade da Informação.  Perspectivas
-    em: Ciência da Informação, v.22, n.4, p.82-97, out./dez. 2017. Disponível em:
+    SARRIÉS, G.A. Workshops em Inteligência Artificial, Ciência de Dados e Robótica
+    Aplicada. 2021. Disponível em < https://sites.google.com/usp.br/melhorar-empregab-competit
+    >. Acesso em: 15/2/2022.
 
-    . Acesso em: 20/02/2019.
+    SARRIÉS, G.A. Site da Disciplina de Pós-graduação. LCE 5736. 2002. Disponível
+    em < https://sites.google.com/view/lce5736-usp-sarries >. Acesso em: 15/2/2022.
 
-    VON ZUBEN F. Introdução à Inteligência Artificial. DCA/FEEC/Unicamp. 2017. Disponível
-    em:
+    SARRIÉS, G.A.; VICINO, S.R.; LAY REYES, A.E. Qualidade Total e Certificação Internacional
+    da Qualidade em Internet. Introdução ao Controle Estatístico da Qualidade: Controle
+    de Qualidade Usando o Excel. In: ESALQ (on line). Piracicaba: ESALQ, CIAGRI, Janeiro
+    2015. Available from World Wide Web: http://www.esalq.usp.br/qualidade.
 
-    . Acesso em: 20/02/2019'
-  course: 'Bancos de dados: relacionais e não relacionais. Data: Crunching, Analysis,
-    Mining. Uso de Macros. Linguagem computacional em nuvem para data mining, SAS
-    on demand.  Ciência de Dados:  alia big-small data, inteligência artificial (machine
-    learning, redes neurais, etc.), estatística, economia, matemática, computação,
-    administração, contabilidade gerencial, controladoria, atuarial, engenharia, bancos
-    de dados, análise de agrupamentos, algoritmos e aplicações em gestão, engenharia,
-    biologia, economia, e pesquisa, transformação de dados brutos em insights de negócios
-    e descobertas científicas. A CD como a principal habilidade de mercado inespecífica
-    (independentemente da profissão) do mundo, seu impacto na empregabilidade inespecífica,
-    dados de 2018.  A CD   na Gestão Empresarial e Biologia  em ambientes de  Hipercompetitividade
-    e Hiperinovação. Impactos das tecnologias abordadas no índice de sucesso do empreendedorismo
-    e articulação com métodos modernos de gestão como Lean Startup _Amazon  e TQM_Toyota-Porsche
-    –GE, Lean Canvas, 6 Sigma, ISO, GlobalGAP,  PNQ, EQA, BSC, Etc. Estrutura dos
-    principais sistemas mundiais de gestão e de certificação internacional da qualidade.'
-  course_name: 'LCE0136 - Ciência de Dados e Gestão para Empregabilidade, Empreendedorismo
-    e Inovação
+    SARRIÉS, G.A. Benchmarking na Agricultura. In: ESALQ (on line). Piracicaba: ESALQ.
+    CIAGRI, Janeiro 2015. Available from world wide web: http://www.esalq.usp.br/bentevi
+
+    TIPS TRAINING AND CONSULTING. Excel tip.com, Janeiro 2010. Available from World
+    Wide Web:'
+  course: 'A) Conceituação, tipos e aplicações da Inteligência Artificial (IA), RA
+    (Robótica Aplicada) e CDR (Ciência de Dados Robusta): indutiva, supervisionada
+    para classificação, para predição e não supervisionada. Aplicações em conservação
+    de biodiversidade, sequestro de carbono, biomimética, utilização de biomonitores
+    de contaminação etc. B) Algoritmos para inteligência artificial indutiva e dedutiva,
+    implementações em Python (IDEs: Jupyter, VS Code, Pycharm e Spyder Python IDE),
+    SAS, R, Weka, RapidMiner e JMP, comparação e exemplos práticos, ênfase em SAS,
+    R e Weka. Redes Neurais (Multilayer Perceptron) com diferente número de camadas
+    de neurônios, hiper parâmetros e funções de inicialização, Random Forest, Suport
+    Vector Machine, Naives Bayes, CART, Deep Learning, Função Logística, Analise Discriminante
+    Linear, Quadrático, Bayesiano e Robusto, Funções Canônicas 1D, 2D e 3D (redução
+    de dimensão), PCA e Biplot, Cluster Analysis, Factor Analysis Exploratório, Confirmatório
+    e Equação de Modelos Estruturais. Visual Analytics. C) Parâmetros da IA, hiper
+    parâmetros e funções de inicialização, learning rate, momentum etc. Parâmetros
+    provenientes da Matriz de Confusão: Taxa de Acerto-Acuracy, Erro Tipo I e II,
+    Taxa de Falsos Positivos e Negativos, Especificidade, Sensibilidade (recall),
+    Taxa de Omissão, Precisão, F1Score, FDR, Predição Negativa, tamanho ótimo de amostra
+    para IA Indutiva, Índice de Generalização, Overfiting etc. Publicações dos professores
+    da disciplina utilizando os conceitos na ESALQ e CENA.  D) CDR univarida, multivariada,
+    uniformidade e capacidade de processos, U de Mann Witney, Wilcoxon, NPANOVA, NPMANOVA,
+    Correlaçoes Canônicas,  Robust Multivariate Regression, interação dupla e tríplice,
+    regressão polonomial. Gráfico de Uniformidade-Controle para a Mediana, Cusum,
+    MMEP, Gráficos de Capacidade de Processos Robustos, uni e multivariados, Proficiência
+    de Organizações, Metrologia, métodos robustos. E) Robótica Aplicada, analise,
+    projeto, prototipação, codificação, testes e documentação de robôs e aplicativos
+    para pc, tablet e celular linguagens Python e C, comparação em custo, desempenho
+    e segurança, Digrama de Nassi Schneiderman, Diagrama Hierárquico de Blocos, DFD,
+    Diagrama Entidade Relacionamento, simulação computacional, Bootstrapping e Jackknife,
+    Monte Carlo, do desempenho de aplicativos e robôs, . F) IA – RA e CDR para Segurança
+    da Informação, Família ISO 27.000 (ISO 27001 a 27018), 5 Pilares da Segurança
+    da Informação: Integridade, Confidencialidade, Disponibilidade, Autenticidade
+    e Irretratabilidade, Sistema Integrado de Certificação ISO 9001, 27001 e 14001.
+    IA-RA e CDR para Prevenir Sequestro de Informação, Ransomware  .G) Bancos de Dados
+    SQL, relacionais e não relacionais (Oracle, My SQL, Access, Livre Office etc.),
+    Não SQL: Redis, Cassandra, Amazon Dynamodb e Mondodb. Fermentas para implementação,
+    pesquisa e análise de Bancos de Dados. H) Big Data, Machine Learning, Text Mining
+    (Iramutec) e RA para armazenamento e processamento de dados distribuídos, rede
+    de supercomputadores da Google. I) ) Bioinformática, Trade off IA-CDR e RA, funcionamento
+    para Small e Big Data, . J) Elaboração de Site, blog e GitHub. K) IA-CDR e RA
+    para gerenciamento de projetos: Sistemas PMBOK, Toyota, CCPM, e Scrum. L) IA-CDR
+    e RA para gerenciamento de organizações biológicas, Sistemas ISO 14001 e 17025,
+    Testes de Proficiência Laboratoriais (Metrologia), ISO 35, FSC, BSC, PNQ, PPQ,
+    Toyota etc. Aplicações para implantar, gerenciar e fiscalizar normas como: Novo
+    Código Florestal Brasileiro e Leis Ambientais, Artigo 225 da CB-1988.  Projetos
+    dos professores da disciplina com mais de 28 anos de funcionamento ininterrupto,
+    Biblioteca Central da ESALQ, LRi/CENA e outras organizações, projetos com mais
+    de 28 anos de funcionamento ininterrupto.'
+  course_name: 'LCE0136 - Sistemas de Informação, Banco de Dados e Inteligência para
+    Biologia
 
     Data Science and Management for Employability, Entrepreneurship and Innovation'
   deactivation: ''
   instructors: '5542817 - Cristian Marcelo Villegas Lobos
 
-    2688982 - Gabriel Adrian Sarries
-
-    5551088 - Renata Alcarde Sermarini'
+    2688982 - Gabriel Adrian Sarries'
   lecture_credits: '2'
-  objectives: Desenvolver no aluno senso crítico em ciência de dados e gestão para
-    empregabilidade, empreendedorismo  e inovação, buscando  aumentar significativamente
-    sua empregabilidade e competitividade no mercado de trabalho.
+  objectives: Ensinar como utilizar praticamente Inteligência Artificial (IA), Ciência
+    de Dados Robusta (CDR) e Robótica Aplicada (RA) para resolver problemas da Biologia
+    e desenvolver projetos modernos.
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20210928043450'
-digest: 2TZLAQS4YELGVPZT7DHKXAJTV7TF3OVS
-updated_at: '20220708081017'
-url: https://web.archive.org/web/20220708081017id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0136&codcur=11070&codhab=104
+created_at: '20230925073429'
+digest: 4TPEDI7ZQ4VOCM5TNHQ3CLM3VK6RWTUB
+updated_at: '20230925073429'
+url: https://web.archive.org/web/20230925073429id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0136&codcur=11070&codhab=104
