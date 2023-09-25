@@ -1,42 +1,23 @@
 courses:
-  activation: 01/01/2019
-  assessment: Uma prova sobre todo material estudado no semestre.
+  activation: 01/01/2023
+  assessment: O estudante com nota de 4 a 4.9 poderá realizar prova teórica de todo
+    o conteúdo do semestre.
   bibliography: 'Literatura Básica:
 
+    BEE, H. A criança em desenvolvimento. 3ª ed. São Paulo: ed. Harbra, 1989.
+
     BOCK, A. M. B. FEURTADO, O. TEIXEIRA, M. L. T. Psicologias: uma introdução ao
-    estudo da Psicologia. 13ª ed. São Paulo: ed. Saraiva, 2.000.
+    estudo da Psicologia. 13ªed. São Paulo: ed. Saraiva, 2.000.
 
     COLL, C. PALÁCIOS, J. e MARCHESI, A. Desenvolvimento Psicológico e Educação. Psicologia
     Evolutiva. Vol. 1. Porto Alegre, Artes Médicas, 1995.
 
+    FERREIRO, E. Atualidade de Jean Piaget. Porto Alegre: Artmed, 2001.
+
     FONTANA, R. Psicologia e Trabalho Pedagógico. São Paulo: Atual, 1997.
 
-    LA TAILLE, Y et al. Piaget, Vigotsky, Wallon: Teorias psicogenéticas em discussão.
-    São Paulo, Summus, 1992.
-
-    Literatura Complementar:
-
-    BEE, H. A criança em desenvolvimento. 3ª ed. São Paulo: ed. Harbra, 1989.
-
-    COSTA, E.E.M. O Surgimento da Formação de Jovens Rurais: história de uma pedagogia
-    associada ao meio agrícola - as casas familiares rurais. In Peres, F.C. (ed) PROJOVEM:
-    a Experiência de Formação de Jovens Empresários Rurais - Piracicaba; USP/ESALQ/
-    EXAGRI, 1998.
-
-    DUBET, F. LE LYCÉENS, Paris, Sevil, 1991.
-
-    ERIKSON, E. Identidade, juventude e crise. Rio de Janeiro. Ed. Guanabara. 1987.
-
-    FREITAG, B. O indivíduo em formação: diálogos interdisciplinares. São Paulo, Ed.
-    Cortez, 1994.
-
-    HARGREAVES, A.; EARL, L. e RYAN, J. Educação para Mudança. Recriando a escola
-    para adolescentes. Porto Alegre, Ed. Art Médicas, 2001.
-
-    HEBERT,M.  Convivendo com Adolescentes. R. de Janeiro, Ed. Bertrand 1991.
-
-    MANTOVANI DE ASSIS, O. Z. Adolescência. Campinas : Laboratório de Psicologia Genética/
-    Faculdade de Educação/ Unicamp, 2009.
+    GÓES, M. C. R.; SMOLKA, A. L. B. (orgs.). A significação nos espaços educacionais:
+    Interação social e subjetivação. Campinas: Papirus, 1997.
 
     OLIVEIRA, M.K.; SOUZA, D.T. e REGO, T.C. (orgs) Psicologia, Educação e as Temáticas
     da Vida Contemporânea. SP. Ed. Moderna, 2002.
@@ -44,49 +25,50 @@ courses:
     OLIVEIRA, V.B. & BOSSA, N.A. (org.) Avaliação Psicológica do Adolescente. Petrópolis,
     Ed. Vozes, 1999.
 
-    PAPALIA, D.E. & OLDS, S.W. Desenvolvimento Humano (7a ed.). Porto Alegre, Ed.
-    Art Méd, 2000.
+    PAPALIA, D.E. &OLDS, S.W. Desenvolvimento Humano (7a ed.). Porto Alegre, Ed. Art
+    Méd, 2000.
 
-    PONTES, M. Juventude: Crise, Identidade e Escola. In: Dayrell, J. (org.) Múltiplos
-    olhares sobre Educação e Cultura, Belo Horizonte, UFMG, 1994
+    PIAGET, J. PIAGET, J. O Juízo Moral na Criança.São Paulo: Summus Editora, 1994.
 
-    VYGOTSKY, L. Pensamento e Linguagem. São Paulo: Martins Fontes, 1987.
+    SERIO, Tereza Maria de Azevedo Pires. O behaviorismo radical e a psicologia como
+    ciência. Rev. bras. ter. comport. cogn.,  São Paulo ,  v. 7, n. 2, p. 247-262,
+    dez.  2005 .   Disponível em
 
-    VYGOTSKY, L. Linguagem, desenvolvimento e apredizagem. São Paulo: Ícone/EDUSP,
-    1988.
+    . acessos em  07  mar.  2022.
 
-    VYGOTSKY, L. Formação social da mente. São Paulo: Martins Fontes, 1999.'
+    SKINNER, B.F. Questões Recentes na Análise Comportamental. Campinas, SP: Papirus.
+    (Originalmente publicado em 1989 pela Merrill Publishing Company), 1991.
+
+    ___________. Ciência e Comportamento Humano. São Paulo: Martins Fontes. , 1998.'
   course: 'Introdução a Psicologia. A Psicologia enquanto ciência: sua história e
     as principais correntes teóricas. A psicologia educacional como campo do estudo.
-    O Behaviorismo: histórico e pressupostos teóricos básicos. A psicologia sócio
-    histórica de Lev Vygothsky. Desenvolvimento humano; a visão contextualista - interacionista
-    do processo evolutivo. As principais escolas da psicologia, elementos históricos
-    e pressupostos teóricos. A motivação para a aprendizagem escolar. Atividades de
-    Prática como Componente Curricular-PCC (60h).'
+    Desenvolvimento humano. As principais escolas da psicologia, elementos históricos
+    e pressupostos teóricos. A relação entre desenvolvimento e a aprendizagem escolar.
+    A disciplina contém 60 horas de Práticas como Componentes Curriculares (PCCs),
+    sendo consideradas atividades voltadas à análise de situações do cotidiano escolar,
+    estudo de casos, discussão de relatos/entrevistas de professores e alunos, elaboração
+    e análise de recursos didáticos.'
   course_name: 'LES1302 - Psicologia da Educação I
 
     Educational Psychology I'
   deactivation: ''
-  instructors: '827221 - Luciana Buainain Jacob
-
-    5553650 - Vânia Galindo Massabni'
+  instructors: 7723980 - Karina Soledad Maldonado Molina
   lecture_credits: '2'
-  objectives: 1. Apresentar o histórico e os fundamentos da psicologia enquanto ciência.
-    Apresentar os pressupostos teóricos das principais escolas da psicologia. 3. Utilizar
-    as contribuições da Psicologia da Educação na compreensão dos alunos em suas semelhanças
-    e diferenças no que diz respeito aos diversos aspectos do seu processo evolutivo.
-    Entrevistas realizadas pelos licenciandos para estudar a motivação, nas 60 h de
-    Prática como Componente Curricular (PCC).
-  practical_credits: '2'
-  total_workload: '90 h
+  objectives: Disponibilizar aos estudantes espaço para consolidação de conhecimento
+    a respeito da Psicologia como ciência. Apresentar os pressupostos teóricos das
+    diferentes escolas da Psicologia. Compreender do ponto de vista psicológico a
+    relação desenvolvimento e aprendizagem, partindo das diferenças presentes nas
+    pessoas.
+  practical_credits: '0'
+  total_workload: '30 h
 
     (
 
-    Práticas como Componentes Curriculares =  60 h
+    Práticas como Componentes Curriculares =  20 h
 
     )'
   type: Semestral
-created_at: '20210612210942'
-digest: GVGBSVZPFOIBY7UGJEPSDBSULNGH7XV4
-updated_at: '20220708235001'
-url: https://web.archive.org/web/20220708235001id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES1302&codcur=11070&codhab=104
+created_at: '20230925071857'
+digest: QRATHBSF5KWA6LTTO33ZV2XMBBV2F76U
+updated_at: '20230925071857'
+url: https://web.archive.org/web/20230925071857id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES1302&codcur=11070&codhab=104
