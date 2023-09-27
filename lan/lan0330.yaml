@@ -1,62 +1,60 @@
 courses:
-  activation: 01/01/2021
+  activation: 01/01/2023
   assessment: Para a prova de recuperação, toda a matéria lecionada no semestre será
     questionada, exigindo do aluno uma revisão completa dos assuntos tratados.
-  bibliography: 'Básica
+  bibliography: 'BRASIL. Ministério da Saúde. Doenças Transmitidas por Alimentos.
+    Disponível em:
+
+    FOOD AND DRUG ADMINISTRATION. Bad Bug Book, Foodborne Pathogenic Microorganisms
+    and Natural
+
+    Toxins. 2nd ed. 2012. Disponível em:
 
     FORSYTHE, S. J. Microbiologia da segurança dos alimentos. 2ª ed. Porto Alegre:
-    Artmed, 2013. 602p.
-
-    FRANCO, B.D.G.M., LANDGRAF, M. Microbiologia dos alimentos. São Paulo: Editora
-    Atheneu, 2008. 182p.
+    Artmed, 2013. 607p. FRANCO, B.D.G.M., LANDGRAF, M. Microbiologia dos alimentos.
+    São Paulo: Editora Atheneu, 2008. 182p.
 
     GERMANO, P.M.L., GERMANO, M.I.S. Higiene e vigilância sanitária de alimentos.
-    5ª ed. Barueri, SP: Manole, 2015. 1077p.
+    6ª ed. Barueri, SP:
 
-    INTERNATIONAL COMMISSION ON MICROBIOLOGICAL SPECIFICATIONS FOR FOODS. (ICMSF)
-    2005. Microorganisms in Foods. 6. Microbial Ecology of Food Commodities. New York:
-    Kluwer Academic/Plenum Publishers. 763p.
+    Manole, 2019. 896p.
 
-    JAY, J.M. Microbiologia de alimentos. 6ª ed. Porto Alegre: Artmed, 2005. 711p.
+    INTERNATIONAL COMMISSION ON MICROBIOLOGICAL SPECIFICATIONS FOR FOODS.
+
+    Microrganismos em alimentos 8: utilização de dados para avaliação do controle
+    de processo e aceitação de
+
+    produto. São Paulo: Blucher, 2015. 2005. 536p.
 
     SALFINGER, Y. & TORTORELLO, M.L. (eds.). Compendium of methods for the microbiological
+
     examination of foods, 5th ed. Washington: American Public Health Association (APHA),
     2015.
 
     SILVA, N., JUNQUEIRA, V.C.A., SILVEIRA, N.F.A., TANIWAKI, M.H., GOMES, R.A.R.,
-    OKAZAKI, M.M. Manual de métodos de análise microbiológica de alimentos e água.
-    5ª ed. São Paulo: Blucher, 2017. 560p.
+    OKAZAKI, M.M., IAMANAKA, B.T. Manual de métodos de análise microbiológica de alimentos
+    e água. 6ª ed. São Paulo: Blucher, 2021. 602p'
+  course: '1. Introdução à microbiologia dos alimentos. 2. Fatores intrínsecos, extrínsecos
+    e implícitos que afetam o
 
-    Complementar
+    desenvolvimento microbiano. 3. Microrganismos indicadores. 4. Microrganismos patogênicos:
+    principais
 
-    CODEX ALIMENTARIUS. Principles for the establishment and application of microbiological
-    criteria for foods (CAC/ GL-21). Rome: FAO, 1997. FAO/WHO Food Standards Program.
+    bactérias e suas características de multiplicação nos alimentos, fontes de contaminação
+    e capacidade de
 
-    CORTES, J.A. Epidemiologia: conceitos e princípios fundamentais. São Paulo: Livraria
-    Varela, 1993. 227p.
-
-    DOYLE, M.P., BEUCHAT, L.R. Food microbiology: fundamentals and frontiers. 3rd
-    ed. Washington. DC: ASM Press, 2007. 1038p.
-
-    MONTVILLE, T.J., MATTHEWS, K.R. Food microbiology: an introduction, 2nd ed. Washington.
-    DC: ASM Press, 2008. 427p.'
-  course: '1. Introdução à microbiologia dos alimentos. 2. Fatores intrínsecos e extrínsecos
-    que afetam o desenvolvimento microbiano. 3. Micro-organismos indicadores. 4. Princípios
-    de anatomia e fisiologia do sistema digestório. 5. Zoonoses e parasitologia. 6.
-    Micro-organismos patogênicos: principais bactérias e suas características de multiplicação
-    nos alimentos, fontes de contaminação e capacidade de sobrevivência aos processos
-    de industrialização/conservação de alimentos. 7. Microbiologia de hortaliças.
-    8. Microbiologia do pescado. 9. Microbiologia de carnes e produtos cárneos. 10.
-    Microbiologia do leite e derivados. 11. Microbiologia de sucos e outros alimentos.
-    12. Microbiologia da água. 13. Termobacteriologia aplicada a alimentos. 14. Critérios
-    microbiológicos e planos de amostragem. 15. Epidemiologia: definições, conceitos,
-    princípios e propósitos. 16. Metodologia epidemiológica: fase descritiva, coleta
-    de dados, fase analítica, medidas de morbidade e mortalidade. 17. Biologia molecular
-    aplicada à microbiologia dos alimentos. 18. Métodos rápidos em microbiologia dos
-    alimentos (possibilidade de viagem didática para visitar empresa da área). 19.
-    Aulas práticas para pesquisa e enumeração de micro-organismos patogênicos e indicadores
-    de contaminação nos alimentos: preparo de amostras, técnicas de diluição decimal,
-    métodos de detecção e enumeração de micro-organismos em placas e tubos.'
+    sobrevivência aos processos de industrialização/conservação de alimentos. 5. Zoonoses
+    e parasitologia. 6. Microbiologia de hortaliças. 7. Microbiologia do pescado.
+    8. Microbiologia de carnes e produtos cárneos. 9. Microbiologia do leite e derivados.
+    10. Microbiologia de sucos e outros alimentos. 11. Microbiologia da água. 12.
+    Termobacteriologia aplicada a alimentos. 13. Critérios microbiológicos e planos
+    de amostragem. 14. Epidemiologia: definições, conceitos, princípios e propósitos.
+    15. Metodologia epidemiológica: fase descritiva, coleta de dados, fase analítica,
+    medidas de morbidade e mortalidade. 16. Biologia molecular aplicada à microbiologia
+    dos alimentos. 17. Métodos rápidos em microbiologia dos alimentos. 18. Aulas práticas
+    para pesquisa e enumeração de microrganismos patogênicos e indicadores de contaminação
+    nos alimentos: preparo de amostras, técnicas de diluição decimal, métodos de detecção
+    e enumeração em placas e tubos.'
   course_name: 'LAN0330 - Microbiologia dos Alimentos e Epidemiologia das Doenças
     Veiculadas por Alimentos
 
@@ -81,7 +79,7 @@ courses:
   practical_credits: '1'
   total_workload: 150 h
   type: Semestral
-created_at: '20220803083705'
-digest: IO6EAW7BA6RQQIA47XKVUAXQG6UW4CTR
-updated_at: '20220803095837'
-url: https://web.archive.org/web/20220803095837id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN0330&codcur=11070&codhab=4
+created_at: '20230927130038'
+digest: PWAQZYDHFEPY5GFT5PFUTPUTAY5QSFSO
+updated_at: '20230927130038'
+url: https://web.archive.org/web/20230927130038id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN0330&codcur=11070&codhab=4
