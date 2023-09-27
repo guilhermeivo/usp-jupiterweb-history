@@ -1,45 +1,49 @@
 courses:
-  activation: 01/01/2014
-  assessment: "1(uma) prova a ser realizada dentro do período estabelecido pela universidade\
-    \ e/ou unidade.\nCálculo da Média Final (aluno que ficou em recuperação):\nMF\
-    \ = (NF + NR) / 2\nOnde: \tMF = Média Final (após a recupeção));\nNR = Nota da\
-    \ prova de recuperação;\nNF = Nota Final."
-  bibliography: '. ABNT, NBR 13133 - Norma de Levantamento Topográfico. ABNT, Rio
-    de Janeiro, 1994
+  activation: 01/01/2023
+  assessment: '1(uma) prova a ser realizada dentro do período estabelecido pela universidade
+    e/ou unidade.
 
-    . ABNT, NBR 14166 - Rede de Referência Cadastral Municipal, Rio de Janeiro, 1999
+    Cálculo da Média Final (aluno que ficou em recuperação):
 
-    . BLITZKOW, D. Apostila Posicionamento por Satélites - NAVSTAR-GPS - EPUSP/PTR,
-    1995
+    MF = (NF + NR) / 2
 
-    . BREED, Charles B. Topografia. Urmo, Bilbao, 1974
+    Onde:
 
-    . CINTRA, J.P. Apostila Sistema UTM - EPUSP/PTR, 1993
+    MF = Média Final (após a recuperação);
 
-    . CINTRA, Jorge Pimentel. Notas de Aula: Topografia, 2012, EPUSP - PTR
+    NR = Nota da prova de recuperação;
 
-    . DAVIS, Foote & KELLY. Surveying, theory and practice. McGraw-Hill, New York,
-    1966
+    NF = Nota Final.'
+  bibliography: '- CINTRA, J. P.; PTR 2201 - Informações Espaciais I: Notas de Aula:
+    2012, EPUSP – PTR;
 
-    . GARCIA-TEJERO, Francisco Domingues. Topografia General y Aplicada. Editora Dossat,
-    Madrid, 1978
+    - EP - PTR - LTG, Informações Espaciais II, 2007;
 
-    . GONÇALVES, J. A., MADEIRA, S., SOUSA, J. J. Topografia - Conceitos e Aplicações;
-    2ª Edição, Lidel Edições Técnicas Ltda, Lisboa, 2008.
+    - ABNT, Norma de Levantamento Topográfico (NBR 13133), 1994, ABNT - Rio de Janeiro;
 
-    . KISSAN, Philip. Topografia para ingenieros. McGraw-Hill, 1967
+    - ABNT, Rede de Referência Cadastral Municipal (NBR 14166), 1998, ABNT - Rio de
+    Janeiro;
 
-    . LEICK, A. GPS Satellite Surveying. Editora John Wiley, New York, 2004
+    - CASACA, J.; MATOS, J.; BAIO, M. - Topografia Geral, 4ª edição, Editora LTC,
+    2005;
 
-    . PACILÉO NETTO, Nicola - Aplicações da Teoria dos Erros na Topografia, 1995 EPUSP
-    - PTR
+    - CINTRA, J.P. Apostila Sistema UTM - EPUSP/PTR, 1993
 
-    . PEARSON, Frederick II. MAP Projection: Theory and Aplications. Editora: CRC
-    Pressa, INC, 1990.
+    - CINTRA, Jorge Pimentel. Notas de Aula: Topografia, 2012, EPUSP - PTR
 
-    . SEEBER, Gunter. Satellite Geodesy. Editora: Walter de Gruyter, 2003
+    - PACILÉO NETTO, N.; Aplicações da Teoria dos Erros na Topografia, 1992, EPUSP
+    - PTR;
 
-    . TAVARES, P.E.M., FAGUNDES, P.M. Fotogrametria (1991)'
+    - GONÇALVES, J. A.; MADEIRA, S.; SOUSA, J. J.; - TOPOGRAFIA, Conceitos e Aplicações;
+    Ed.LIDEL, 2008;
+
+    - GHILANI, C. D; WOLF, P. R; Elementary Surveying: An Introduction to Geomatics
+    (12ª ed.), Prentice Hall, 2008;
+
+    - KAVANAGH, B. F., Surveying: Principles and Applications (8a ed.), Prentice Hall,
+    2008;
+
+    - SEEBER, Gunter. Satellite Geodesy. Editora: Walter de Gruyter, 2003'
   course: 'Apresentação do curso. Aplicações da disciplina na engenharia.
 
     . Escalas, bases cartográficas (analógicas e digitais) e seu uso. NBR 13.133 e
@@ -78,28 +82,24 @@ courses:
   course_name: 'PTR3111 - Geomática I
 
     Geomatics I'
-  deactivation: 31/12/2022
-  instructors: '103165 - Ana Paula Camargo Larocca
+  deactivation: ''
+  instructors: '74431 - Edvaldo Simões da Fonseca Junior
 
-    45845 - Denizar Blitzkow
-
-    74431 - Edvaldo Simões da Fonseca Junior
-
-    47315 - Jorge Pimentel Cintra'
+    1014053 - Flavio Guilherme Vaz de Almeida Filho'
   lecture_credits: '4'
   objectives: 'Oferecer formação básica referente a especificações e metodologias
     para coleta de dados, implantação e locação de projetos e obras de engenharia,
-    conceitos de geodésia, posicionamento por satélites, projeções cartográficas e
-    suas aplicações em projetos e obras da Engenharia.
+    conceitos de: geodésia, posicionamento por satélites, projeções cartográficas
+    e suas aplicações em projetos e obras da Engenharia.
 
     To provide basic knowledge concerning the specifications and methodologies for
-    data collection, implementation and location of engineering works, concepts of
+    data collection, implementation and location of engineering works, concepts of:
     geodesy, satellite positioning, cartographic projections and its applications
     in engineering projects and works.'
   practical_credits: '2'
   total_workload: 120 h
   type: Semestral
-created_at: '20221003044144'
-digest: 3TFCG7KGYKEAPKNPW6H56GZYLVDUAAKU
-updated_at: '20221004042824'
-url: https://web.archive.org/web/20221004042824id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3111&codcur=3056&codhab=3000
+created_at: '20230927104110'
+digest: 5KTHJ5VXGZTG7M5VWN5YTFFUCF5P6P5G
+updated_at: '20230927104110'
+url: https://web.archive.org/web/20230927104110id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3111&codcur=16011&codhab=100
