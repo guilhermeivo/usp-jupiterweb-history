@@ -1,43 +1,46 @@
 courses:
-  activation: 01/01/2010
-  assessment: Prova dissertativa incluindo toda a matéria lecionada no semestre.
-  bibliography: "Frandson, R. D., Wilke, W. L. & Fails, A. D., ed. 2006. Anatomy and\
-    \ Physiology of Farm Animals \x96\nBlackwell Publishing. 2006\nTortora, G. J.\
-    \ & Derrickson, B., ed. 2006. Principles of Anatomy and Physiology \x96 John Wiley\
-    \ & Sons,\nInc. 2006\nSwenson, M. J. & Reece, W.O., ed. 1996.  Dukes Fisiologia\
-    \ dos Animais Domésticos - Guanabara -Koogan. 1996.\nYousef, M. K .  1985.  Stress\
-    \ Physiology in Livestock. Vols. I, II e III.CRC Press, Inc.\nSilva, R.G.  2000.\
-    \  Introdução à Bioclimatologia Animal. Editora Nobel.\nMuller, P.B.  1989.  Bioclimatologia\
-    \ Aplicada aos Animais Domésticos. 3ed. Editora Sulina.\nHafez, E.S.E., ed.  1968.\
-    \  Adaptation of Domestic Animals. Lea & Febiger."
-  course: 'Princípios da adaptação animal. Bioclimatologia. Adaptações morfológicas,
-    fisiológicas e comportamentais. Efeitos do ambiente sobre a produtividade.  Termorregulação
-    e fisiologia ambiente.  Temperatura corporal. Balanço térmico. Respostas fisiológicas
-    ao calor e ao frio. Aspectos fisiológicos da água na vida animal. Água corporal.
-    Balanço hídrico. Desidratação e adaptação à falta de água.  Aspectos fisiológicos
-    dos processos digestivos e utilização dos nutrientes. Aspectos gerais de endocrinologia.
-    Atividade do eixo hipotálamo hipófise. Mecanismos específicos do controle hormonal
-    da produção. Atividade da oxitocina. Proteção do organismo. Proteção específica
-    e inespecífica. Mecanismos da imunidade. Características das imunoglobulinas e
-    seu modo de ação. Nutrição e imunidade. Métodos de isolamento e quantificação
-    das imunoglobulinas.  Colostro: características gerais conservação e avaliação
-    imunológica. Mecanismos de síntese das secreções lácteas. Indução hormonal artificial
-    da produção do colostro e leite.Manejo do recém-nascido e aquisição de imunidade
-    passiva em mamíferos. Estudo comparativo do processo de formação e transferência
-    de imunidade passiva nas diversas espécies.'
+  activation: 01/01/2022
+  assessment: Reapresentação do trabalho de grupo
+  bibliography: 'Literatura Básica:
+
+    SWENSON, M.J & REECE, W.O., eds. 1996. DUKES Fisiologia dos Animais Domésticos.
+    Ed.
+
+    Guanabara Koogan, RJ, 856 p.
+
+    FRANDSON, R. D.; WILKE, W. L. e FAILS, A. D. 2005. Anatomia e Fisiologia dos Animais
+    de
+
+    Fazenda. 6 Ed. Guanabara Koogan S.A., RJ, 454 p.
+
+    Literatura Complementar:
+
+    Artigos científicos, teses e dissertações sobre fisiologia do exercício, fisiologia
+    do estresse e
+
+    fisiologia digestiva e de defesa em animais domésticos.'
+  course: 'Homeostase; Sistemas de integração: sistema nervoso – organização, sensações
+    e função motora, sistema nervoso somático, sistema nervoso autônomo, eixo hipotálamo-hipófise
+    e integração com eixos endócrinos; Sangue; Fisiologia dos sistemas durante estresse
+    (com ênfase em estresse térmico); Fisiologia dos sistemas durante o exercício
+    – histofisiologia muscular; Fisiologia do crescimento; Fisiologia dos sistemas
+    durante digestão, absorção e metabolismo - histofisiologia do trato intestinal;
+    Proteção.'
   course_name: 'LZT0493 - Fisiologia Animal Aplicada
 
     Applied Animal Physiology'
   deactivation: ''
-  instructors: 43141 - Raul Machado Neto
-  lecture_credits: '4'
-  objectives: Através do estudo das funções animais relacionadas  com os processos
-    produtivos, procura-se  mostrar como  se pode alcançar  maior eficiência  na exploração  dos
-    animais domésticos, especialmente aqueles de interesse zootécnico.
-  practical_credits: '0'
-  total_workload: 60 h
+  instructors: 3389521 - Eduardo Francisquine Delgado
+  lecture_credits: '1'
+  objectives: Através do estudo integrado dos sistemas fisiológicos, analisando suas
+    variáveis descritas ou obtidas em condições típicas encontradas em sistemas de
+    produção ou em simulações, procurar-se-á mostrar como reconhecer, avaliar e alterar
+    respostas fisiológicas integradas na busca pela sustentabilidade na criação dos
+    animais vertebrados, especialmente aqueles domesticados e de interesse zootécnico.
+  practical_credits: '2'
+  total_workload: 75 h
   type: Semestral
-created_at: '20200927175502'
-digest: YY64CR3ELQ4WVNW4DMOIVNC4NUB2HWAD
-updated_at: '20200927175502'
-url: https://web.archive.org/web/20200927175502id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0493&codcur=11010&codhab=0
+created_at: '20230927115747'
+digest: 22PHH36HELQNUURUYHC64R6XGII6DPCX
+updated_at: '20230927115747'
+url: https://web.archive.org/web/20230927115747id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0493&codcur=11070&codhab=4
