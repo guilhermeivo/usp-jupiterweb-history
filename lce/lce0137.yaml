@@ -1,85 +1,166 @@
 courses:
-  activation: 01/01/2020
+  activation: 01/01/2023
   assessment: Será feita sob a forma de uma prova com duas horas de duração, aplicada
     após o término das aulas, em época determinada pela USP. A média final será a
     média aritmética entre a nota desta prova e a média obtida no semestre.
-  bibliography: 'ALONSO R. Inteligencia Artificial y Estadística. Estadística Española.
-    Disponível em:
+  bibliography: 'Literatura Básica:
 
-    . Acesso em: 20/2/2019
+    ALCOFORADO, L. F. Utilizando a linguagem R: conceitos, manipulação, visualização,
+    modelagem e elaboração de relatórios. Editora Alta Books, São Paulo. 2021. 384p.
 
     AZEVEDO FILHO, A. J. B.V. . Princípios de Inferência Dedutiva e Indutiva: Noções
     de Lógica e Métodos de Prova. 1/1. ed. Scotts Valley, EUA: CreateSpace Publishers,
-    2010. v. 1. 140p .
+    2010. v. 1. 140p.
 
-    BARBOSA L. P.;  MORAES W. F. A. Estratégias em Ambientes Hipercompetitivos: O
-    Caso da Indústria Brasileira de Embalagens para Cervejas e Refrigerantes. 2016.
-    Disponível em:< http://www.anpad.org.br/admin/pdf/enanpad2001-eso-276.pdf>. Acesso
-    em: 20/02/2019.
+    MICROSOFT. Office Online. Janeiro 2010. <http://office.microsoft.com/en-us/training/CR061829401033.aspx>
 
-    COELHO A. C. As 7 tendências para o uso de inteligência artificial no Direito
-    em 2018. Thomson Reuters The Answer Company. 2018. Disponível em: <  https://www.thomsonreuters.com.br/content/dam/openweb/documents/pdf/Brazil/white-paper/As_7_Tend%C3%AAncias_para_o_uso_da_Inteligencia_Artificial_EM_2018.pdf
-    > Acesso em: 21/2/2019.
+    MENEZES, N. N. C. Introdução à Programação com Python: Algoritmos e Lógica de
+    Programação Para Iniciantes, 3a ed, 2019.
 
-    CURY R. G.; SERAFIM J. S. A Formação em Ciência de Dados: Uma Analise Preliminar
-    do Panorama Estadunidense.  DOI: 10.5433/1981-8920.2016v21n2p307. 2016. Disponível
-    em:< http://www.uel.br/revistas/uel/index.php/informacao/article/download/27945/20195>.
-    Acesso em: 20/02/2019.
+    MONDEN, Y. Toyota Management System: Linking the Seven Key Functional Areas. Kindle,
+    USA. 2018. 435p.
 
-    GOVERNO FEDERAL. Agenda brasileira para a Indústria 4.0 – O Brasil Preparado para
-    os Desafios do Futuro. Ministério da Industria Comercio e Serviços. Disponível
-    em: < http://www.industria40.gov.br/>. Acesso em: 20/02/2019.
+    SARRIÉS, G.A. Site da Disciplina LCE 137, 1998. Disponível em:
 
-    OVANESSOFF  A.; PLASTINO E. Como a Inteligência Artificial pode Acelerar o Crescimento
-    de América do Sul. 2018. Disponível em: https://www.accenture.com/t20170927T065936Z__w__/us-en/_acnmedia/PDF-50/Accenture-Como-a-inteligencia-artificial-acelero-crescimento-da-america-do-sul.pdf.  Acesso
-    em: 20/02/2019.
+    . Acesso em: 15/2/2022.
 
-    SANTOS R. Introdução à Mineração de Dados com Aplicações em Ciências Ambientais
-    e Espaciais. LAC-INPE.2012. Disponível em:
+    SARRIÉS, G.A. Blog da Disciplina LCE 137, 2002. Disponível em < https://mercado-gestao-empeend.blogspot.com/  >.
+    Acesso em: 15/2/2022.
 
-    . Acesso em: 20/02/2019.
+    SARRIÉS, G.A. Projeto Inteligência Artificial, Ciência de Dados e Robótica Aplicada.
+    2021. Disponível em < https://sites.google.com/usp.br/ia-cd-ra-gestao-gabriel
+    >. Acesso em: 15/2/2022.
 
-    TEIXEIRA T.M.C. Uma Reflexão Teórica Sobre a Subjetividade da Informação.  Perspectivas
-    em: Ciência da Informação, v.22, n.4, p.82-97, out./dez. 2017. Disponível em:
+    SARRIÉS, G.A. Gabriel Informação e Inteligência Organizacional (BI). Gabriel-Informa-intel-
 
-    . Acesso em: 20/02/2019.
+    organiza.blogspot.com.br. 2015.
 
-    VON ZUBEN F. Introdução à Inteligência Artificial. DCA/FEEC/Unicamp. 2017. Disponível
-    em:
+    TURBAN, E. & RAINER, R. K. & PORTTER, R. E. Introdução a Sistemas de Informação
+    uma Abordagem Gerencial. São Paulo: Editora Campus. 2007, 457p.
 
-    . Acesso em: 20/02/2019.'
-  course: 'Inteligência Artificial (IA): conceito, algoritmos: Rain Forest, Support
-    Vector Machine, Naive Bayes, E Clasification e Regression Tree . Aplicações em
-    gestão, engenharia, biologia, ambiência, economia, e pesquisa. Aprendizado de
-    máquina e redes neurais, comparação de resultados com métodos estatísticos convencionais,
-    linguagens R, Python, SAS e outras. Noções introdutórias: Regressão Logística,
-    NPMANOVA, DiscriminanteNP.  Métodos estatísticos para Data Minig: univariados,
-    multivariados, paramétricos e robustos. Métodos de gestão como Lean Startup-Amazon,
-    TQM-Toyota- Porsche-GM, ISO-9000-14000-22000-27000, GlobalGAP, FSC, BSC, PNQ,
-    EQA,  6 Sigma, Malcolm Baldrige,  etc. O Núcleo de Inovação Tecnológica Qualidade
-    e Metrologia na Agropecuária USP/EMBRAPA/CNPq/Indústria, coordenado pelo CENA
-    e ESALQ USP.  Aplicação de IA,   Data Mining e Gestão em ambientes de Hipercometitividade
-    e hiperinovação.'
-  course_name: 'LCE0137 - Inteligência Artificial, Data Mining e Gestão para  Inovação
-    e Hipercompetitividade
+    Literatura Complementar:
+
+    ISHIKAWA, K. Guide to quality control. Tokyo: Kraus Asian Productivity Organization,
+    1982. 221p.
+
+    JURAN, J.M.; GRYNA, F.M. Juran controle da qualidade: métodos especiais de apoio
+    à qualidade. São Paulo: Makron Books, 1993. 193p.
+
+    LIKER, K. & MEIER D. O Modelo Toyota, Manual de Aplicação. Porto Alegre: Bookman,
+    2007. 432p.
+
+    SARRIÉS, G.A. Treinamentos em Inteligência Artificial, Ciência de Dados e Robótica
+    Aplicada. 2021. Disponível em < https://sites.google.com/view/ia-cd-treinamentos-usp-gabriel>.
+    Acesso em: 15/2/2022.
+
+    SARRIÉS, G.A. Workshops em Inteligência Artificial, Ciência de Dados e Robótica
+    Aplicada. 2021. Disponível em < https://sites.google.com/usp.br/melhorar-empregab-competit
+    >. Acesso em: 15/2/2022.
+
+    SARRIÉS, G.A. Site da Disciplina de Pós-graduação. LCE 5736. 2002. Disponível
+    em < https://sites.google.com/view/lce5736-usp-sarries >. Acesso em: 15/2/2022.
+
+    SARRIÉS, G.A.; VICINO, S.R.; LAY REYES, A.E. Qualidade Total e Certificação Internacional
+    da Qualidade em Internet. Introdução ao Controle Estatístico da Qualidade: Controle
+    de Qualidade Usando o Excel. In: ESALQ (on line). Piracicaba: ESALQ, CIAGRI, Janeiro
+    2015. Available from World Wide Web: http://www.esalq.usp.br/qualidade.
+
+    SARRIÉS, G.A. Benchmarking na Agricultura. In: ESALQ (on line). Piracicaba: ESALQ.
+    CIAGRI, Janeiro 2015. Available from world wide web: http://www.esalq.usp.br/bentevi
+
+    TIPS TRAINING AND CONSULTING. Excel tip.com, janeiro 2010. Available from World
+    Wide Web: <http://www.exceltip.com>
+
+    SARRIÉS, G.A.; SILVA, M.; NEGRILLO, B.G.; BRANDI Jr., V. A computer system for
+    non parametric statistics. Biometric Bulletin, v.7, n.4, p.13, 1990b.
+
+    SARRIÉS, G.A. 1991. Apostila Tutorial do Sistema SANEST. Piracicaba. CIAGRI/USP.
+    64p.
+
+    SARRIÉS, G.A. Benchmarking na Agricultura. In: ESALQ (on line). Piracicaba: ESALQ.
+    CIAGRI, março/2005. Available from world wide web: http://www.esalq.usp.br/bentevi
+
+    SAS INSTITUTE INC. SAS/QC Guide for Personal Computers. Cary, NC. SAS Institute
+    Inc. 540 p.
+
+    VICINO, S.R.; SARRIÉS, G.A.; FERNANDES, E.A.N.; MACHADO, P.F.; PEREIRA, A.R. Qualidade
+    metrologia para laboratórios de análise de leite: uma proposta. In: Congresso
+    Sul-Americano de Metrologia, 2. Foz do Iguaçu, 9 a 11/08/99. Anais. Foz do Iguaçu:
+    Paraná Metrologia, 1999. p. 154-157.
+
+    WESTGARD, J.O. & BARRY, P. 1986. Cost-Effective Quality Control: Managing the
+    Quality and Productivity of
+
+    Analytical Processes. Washington DC. AACC Press-American Association for Clinical
+    Chemistry Inc. 228p.
+
+    VIEIRA, S. Estatística para qualidade. Rio de Janeiro: Campus, 1997. 472p
+
+    TURBAN, E. & RAINER, R. K. & PORTTER, R. E. Introdução a Sistemas de Informação
+    uma Abordagem Gerencial. São Paulo: Editora Campus. 2007, 457p.'
+  course: 'A) Inteligência Artificial (IA): conceito, algoritmos e aplicações em gestão,
+    engenharia, biologia, economia, ambiência e pesquisa. Aprendizado de máquina e
+    redes neurais, comparação de resultados com métodos estatísticos convencionais.
+    Conceituação, tipos e aplicações da Inteligência Artificial (IA), RA (Robótica
+    Aplicada) e CDR (Ciência de Dados Robusta): indutiva, supervisionada para classificação,
+    para predição e não supervisionada B) Algoritmos para inteligência artificial
+    indutiva e dedutiva, implementações em Python (IDEs: Jupyter, VS Code, Pycharm
+    e Spyder Python IDE), SAS, R, Weka, RapidMiner e JMP, os alunos aprenderão a utilizar
+    Weka, programa exclusivamente de IA, visual, amigo do usuário, SAS o mais importante
+    para empregabilidade, linguagem de quarta geração e Excel Avançado. Serão apresentadas
+    linguagens de computação de alto e baixo nível, de primeira até quinta geração.
+    Os algoritmos de IA Indutiva, Machine Learning que serão ensinadas são: Redes
+    Neurais (Multilayer Perceptron) com diferente número de camadas de neurônios,
+    hiper parâmetros e funções de inicialização, Random Forest, Suport Vector Machine,
+    Naives Bayes, CART, Deep Learning, Função Logística, Analise Discriminante Linear,
+    Quadrático, Bayesiano e Robusto, Funções Canônicas 1D, 2D e 3D (redução de dimensão),
+    PCA e Biplot, Cluster Analysis, Factor Analysis Exploratório, Confirmatório e
+    Equação de Modelos Estruturais. Visual Analytics. C) Parâmetros da IA, hiper parâmetros
+    e funções de inicialização, learning rate, momentum etc. Parâmetros provenientes
+    da Matriz de Confusão: Taxa de Acerto-Acuracy, Erro Tipo I e II, Taxa de Falsos
+    Positivos e Negativos, Especificidade, Sensibilidade (recall), Taxa de Omissão,
+    Precisão, F1Score, FDR, Predição Negativa, tamanho ótimo de amostra para IA Indutiva,
+    Índice de Generalização, Overfiting etc. Publicações dos professores da disciplina
+    utilizando os conceitos na ESALQ e CENA.  D) CDR univarida, multivariada, conjoint
+    analysis (fatoriais fracionários), interação dupla e tríplice, regressão robusta
+    e polinomial, uniformidade e capacidade de processos uniformidade e capacidade
+    de processos, U de Mann Witney, Wilcoxon, NPANOVA, NPMANOVA, Correlações Canônicas,  Robust
+    Multivariate Regression, Gráfico de Uniformidade-Controle para a Mediana, Cusum,
+    MMEP, Gráficos de Capacidade de Processos Robustos, uni e multivariados, Proficiência
+    de Organizações, Metrologia, métodos robustos. E) Robótica Aplicada, analise,
+    projeto, prototipação, codificação, testes e documentação de robôs e aplicativos
+    para pc, tablet e celular linguagens Python e C, comparação em custo, desempenho
+    e segurança, Digrama de Nassi Schneiderman, Diagrama Hierárquico de Blocos, DFD,
+    Diagrama Entidade Relacionamento, simulação computacional, Bootstrapping e Jackknife,
+    Monte Carlo, do desempenho de aplicativos e robôs. F) Métodos estatísticos para
+    Data Mining. G) Métodos de gestão e certificação internacional da qualidade. O
+    NIT Qualidade e Metrologia na Agropecuária USP/EMBRAPA/CNPq/Indústria. Aplicação
+    de IA e Data Mining na Gestão da Inovação em ambientes de Hipercometitividade.
+    H) Organizações e Projetos Data Driven, conceito, sistemas e ferramentas de gestão,
+    IA-CDR e RA.'
+  course_name: 'LCE0137 - Inteligência Artificial, Ciência de Dados e Robótica Aplicada
+    para Gestão de Organizações e Projetos Data Driven
 
     Artificial Intelligence, Data Mining and Management for Innovation and Hypercompetitiveness'
   deactivation: ''
   instructors: '5542817 - Cristian Marcelo Villegas Lobos
 
-    2688982 - Gabriel Adrian Sarries
+    2553644 - Edwin Moises Marcos Ortega
 
-    5551088 - Renata Alcarde Sermarini'
+    2688982 - Gabriel Adrian Sarries'
   lecture_credits: '2'
-  objectives: Desenvolver no aluno senso crítico em Inteligência Artificial, Data
-    Mining  e  Gestão – Sistemas Mundiais de Gestão-  para Inovação e hipercompetitividade.
-    O conhecimento será útil em sua vida acadêmica e principalmente no mercado de
-    trabalho, aumentando significativamente a  empregabilidade e competitividade do
-    egresso.
+  objectives: Inteligência Artificial (IA), Ciência de Dados Robusta (CDR) e Robótica
+    Aplicada (RA) para Gestão de Organizações e Projetos Data Driven. Desenvolver
+    no aluno senso crítico e habilidades em Inteligência Artificial, Ciência de Dados
+    e Robótica Aplicada para Gestão de Organizações e Projetos Data Driven. Com aplicações
+    em Data Mining, Big Data e Gestão – Sistemas Mundiais de Gestão- para Inovação
+    e hipercompetitividade. O conhecimento será útil em sua vida acadêmica e principalmente
+    no mercado de trabalho, aumentando significativamente a empregabilidade e competitividade
+    do egresso.
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20210928045036'
-digest: 7SL7RLLDSG6GE7XAHXN5AZSLMXTL3CHY
-updated_at: '20220803213519'
-url: https://web.archive.org/web/20220803213519id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0137&codcur=11070&codhab=4
+created_at: '20230927130028'
+digest: BKGSFTMHE2VHD2ZT2ALTRLMYMDRTFFYI
+updated_at: '20230927130028'
+url: https://web.archive.org/web/20230927130028id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0137&codcur=11070&codhab=4
