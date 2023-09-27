@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2018
+  activation: 01/01/2023
   assessment: '1(uma) prova a ser realizada dentro do período estabelecido pela universidade
     e/ou unidade.
 
@@ -43,19 +43,40 @@ courses:
 
     WELLS, D. E. (Ed.) Guide to GPS positioning. Fredericton: Canadian GPS Association,
     1987.  ISBN 0 920 114 73 3.'
-  course: '1. Conceitos básicos de geodesia por satélites (GNSS)   2. Sistemas de
-    Posicionamento   3. Características do Sistema GNSS   4. Métodos e modelos matemáticos
-    (código, fase, combinações)  5. Métodos de posicionamento: estático, cinemático,
-    RTK, DGPS, PPP e outros   6. GNSS e altimetria  7. Processamento de dados GNSS
-    8. Aplicações na engenharia: Redes, Apoio topográfico, Controle de veículos e
-    frotas, Sistemas de Navegação e Controle de rotas, Controle de estruturas.
+  course: '1. Conceitos básicos de geodésia por satélites (GNSS)
 
-    1. Basic concepts of sattelite geodesy (GNSS)  2. Positioning Systems  3. Characteristics
-    of GNSS System  4. Methods and mathematical models (code, phase, combinations)  5.
-    Methods of positioning : static, kinematic, RTK, DGPS, PPP and other  6. GNSS
-    and altimetry  7. GNSS Data processing  8. Engineering applications: networks,
-    topographic support, vehicle and  fleets control, Navigation Systems and routes
-    control, Structural control and monitoring.'
+    2. Sistemas de Posicionamento
+
+    3. Características do Sistema GNSS
+
+    4. Métodos e modelos matemáticos (código, fase, combinações)
+
+    5. Métodos de posicionamento: estático, cinemático, RTK, DGPS, PPP e outros
+
+    6. GNSS e altimetria
+
+    7. Processamento de dados GNSS
+
+    8. Aplicações na engenharia: Redes, Apoio topográfico, Controle de veículos e
+    frotas, Sistemas de Navegação e Controle de rotas, Controle e monitoramento de
+    estruturas.
+
+    1. Basic concepts of satellite geodesy (GNSS)
+
+    2. Positioning Systems
+
+    3. Characteristics of GNSS System
+
+    4. Methods and mathematical models (code, phase, combinations)
+
+    5. Methods of positioning : static, kinematic, RTK, DGPS, PPP and other
+
+    6. GNSS and altimetry
+
+    7. GNSS Data processing
+
+    8. Engineering applications: networks, topographic support, vehicle and fleets
+    control, Navigation Systems and routes control, Structural control and monitoring.'
   course_name: 'PTR3511 - Navegaçao por GNSS
 
     GNSS navigation'
@@ -64,14 +85,17 @@ courses:
   lecture_credits: '2'
   objectives: 'Fornecer conceitos fundamentais sobre os sistemas de posicionamento
     por satélite (GNSS) e suas aplicações na engenharia. Mostrar aplicações nas diversas
-    áreas e realizar trabalhos de campo.
+    áreas da engenharia e realizar trabalho de campo para mostrar as diferentes precisões
+    que se pode alcançar com o uso de diferentes categorias de receptores.
 
-    To provide fundamental concepts of GNSS (Global Navigation Satellite System) and
-    their applications in Engineering. Some field aplications will be presented.'
+    Provide fundamental concepts about satellite positioning systems (GNSS) and their
+    applications in engineering. Show applications in different areas of engineering
+    and carry out field work to show the different accuracies that can be achieved
+    using different categories of receivers.'
   practical_credits: '1'
   total_workload: 60 h
   type: Semestral
-created_at: '20210927123708'
-digest: JMBI72CLOFBAI6OT7M5LCPWSQBPKZBAC
-updated_at: '20210927123708'
-url: https://web.archive.org/web/20210927123708id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3511&codcur=16011&codhab=100
+created_at: '20230927111548'
+digest: OGFPROBR2WM6HGHMCF47P56EAWJID4FM
+updated_at: '20230927111548'
+url: https://web.archive.org/web/20230927111548id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3511&codcur=16011&codhab=100
