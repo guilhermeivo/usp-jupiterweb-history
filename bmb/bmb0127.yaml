@@ -1,0 +1,52 @@
+courses:
+  activation: 01/01/2020
+  assessment: 'OBSERVAÇÃO: Será oferecida prova de recuperação (Res. COG 3583/89)
+    nos meses de julho para as disciplinas do 1o semestre e em fevereiro para as disciplinas
+    do 2o semestre, exigindo-se média igual ou superior a 5,0 (cinco) para aprovação.'
+  bibliography: '1. Fisiologia Básica. Rui Curi & Joaquim Procópio. Editora Guanabara-Koogan,
+    Primeira edição, 2009.
+
+    2. Fisiologia. Margarida de Mello Aires. Editora Guanabara-Koogan, Quarta edição,
+    2012.
+
+    3. Cunningham''s Textbook of Veterinary Physiology. Bradley G. Klein, Elsevier,
+    2013.
+
+    4. Medical Physiology. Walter F. Boron and Emile L. Boulpaep, Saunders, 2012.
+
+    5. Dukes'' Fisiologia dos Animais Domésticos. William O. Reece, Wiley-Blackwell,
+    13a edição, 2015.
+
+    6. Vander, Sherman & Luciano fisiologia humanaos mecanismos das funções corporais.
+    Eric P. Widmaier, Hershel Raff, Kevin T. Strang, Guanabara Koogan, 2006.'
+  course: 'FISIOLOGIA GERAL 1. Introdução à Fisiologia. 2. Transporte através de membranas
+    biológicas. 3. Potencial de membrana. 4. Condução do impulso nervoso. 5. Transmissão
+    sináptica. 5. Sinalização celular. FISIOLOGIA DO SISTEMA NERVOSO 1. Sistemas sensoriais
+    e motores. 1. Motricidade esquelética. 2. Motricidade e secreção viscerais. 3.
+    Sensibilidade álgica. 4. Sensibilidade visual. 5. Sensibilidade gustativa e olfativa.
+    6. Ajustes internos. Comportamento. 7. Sensibilidade interna e motivação. 8. Sensibilidade
+    às acelerações. 9. Ritmos biológicos. Ciclo vigília-sono. 10. Aprendizagem e memória.
+    11. Recuperação de função. 12. Comunicação não verbal. Linguagem. Atividade mental.
+    FISIOLOGIA ENDÓCRINA 1. Princípios da Endocrinologia. 2. Mecanismos de ação hormonal.
+    3. Síntese e processamento hormonal. 4. Secreção transporte e degradação hormonal
+    5. Funções dos hormônios: crescimento, desenvolvimento, termorregulação, metabolismo,
+    balanço hídrico, osmótico e de cálcio.'
+  course_name: 'BMB0127 - Fisiologia I
+
+    Physiology I'
+  deactivation: ''
+  instructors: 2220890 - Fernando Rodrigues de Moraes Abdulkader
+  lecture_credits: '7'
+  objectives: Oferecer aos alunos do curso de Medicina Veterinária e Zootecnia os
+    conhecimentos sobre o funcionamento dos órgãos e sistemas que compõem o organismo
+    dos animais mamíferos domésticos, capacitando-o a compreender os mecanismos das
+    doenças e seus meios de diagnóstico e tratamento (patologia, clínica, cirurgia,
+    farmacologia, etc.), bem como o arsenal biotecnológico relacionado com o incremento
+    da produção animal.
+  practical_credits: '0'
+  total_workload: 105 h
+  type: Semestral
+created_at: '20230928202142'
+digest: MLCENLHLZNLOAH4J2G7XVELBTSQV6LC2
+updated_at: '20230928202142'
+url: https://web.archive.org/web/20230928202142id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=BMB0127&codcur=10012&codhab=0
