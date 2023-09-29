@@ -1,0 +1,46 @@
+courses:
+  activation: 01/01/2010
+  assessment: Trabalho de pesquisa
+  bibliography: "a.\tARENA, V.  Ionizing radiation and life.  Saint Louis: C.V. Morby\
+    \ Company, 1971.  543p.\nb.\tBACQ, Z.M.; ALEXANDER, P.  Fundamentals of radiobiology.\
+    \  Oxford: Pergamon Press, 1961.  562p.\nc.\tCASARETT, A.P.  Radiation biology.\
+    \  Englewood Cliffs: Prentice-Hall, 1968.  368p.\nd.\tL´ANNUNZIATA, M. F. Nuclear\
+    \ radiation, its interaction with matter and radioisotope decay. In: L´ANNUNZIATA,\
+    \ M. F. (Ed.). Handbook of radioactivity analysis. 2. ed. San Diego: Academic\
+    \ Press, 2003. p. 1-121.\n8.  JUSTIFICATIVA:\nOferecimento de disciplina em substituição\
+    \ à CEN0326 \x96 \x93Efeito das Radiações nos Mamíferos\x94, cancelada em 2008\
+    \ em virtude de aposentadoria do professor responsável."
+  course: '- As radiações ionizantes: radiações alfa, beta, gama, RX e nêutrons;
+
+    - Interações da radiação com a matéria: efeito fotoelétrico, Compton, formação
+    de pares
+
+    - Radiólise da água e sua importância nos seres vivos;
+
+    - Ação das radiações nas macromoléculas de importância biológica: proteínas, ácidos
+    nucléicos;
+
+    - Irradiação da célula. Efeitos nos organelas e no núcleo;
+
+    - Exposição aguda à radiação. Efeitos nos sistemas digestivo, nervoso, circulatório;
+
+    - Radiação e terapia. Radioprotetores e radiosensibilizadores químicos;
+
+    - Radiação e carcinogênes.'
+  course_name: 'CEN0350 - Radioisótopos e Efeitos Biológicos da Radiação nos Animais
+
+    Radioisotopes and Biological Effects of Radiation on Animals'
+  deactivation: ''
+  instructors: '51964 - Adibe Luiz Abdalla
+
+    834866 - Helder Louvandini'
+  lecture_credits: '1'
+  objectives: A disciplina tem como objetivo oferecer ao aluno os principais conceitos
+    sobre as radiações e os efeitos sobre o sistema biológico dos mamíferos.
+  practical_credits: '1'
+  total_workload: 45 h
+  type: Semestral
+created_at: '20230929234833'
+digest: 6H5HG6PTNKVJZNYYYLID7Z6ZT3BCR4T7
+updated_at: '20230929234833'
+url: https://web.archive.org/web/20230929234833id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0350&codcur=11070&codhab=4
