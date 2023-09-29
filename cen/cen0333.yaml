@@ -41,7 +41,7 @@ courses:
   course_name: 'CEN0333 - Análise Diagnóstica de Organismos Geneticamente Modificados(ogms)
 
     Diagnostic Analysis of Genetically Modified Organisms (GMOs)'
-  deactivation: ''
+  deactivation: 31/12/2023
   instructors: '2798025 - Adriana Pinheiro Martinelli
 
     50153 - Tsai Siu Mui'
@@ -62,7 +62,7 @@ courses:
   practical_credits: '2'
   total_workload: 120 h
   type: Semestral
-created_at: '20220420041818'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20220803141648'
-url: https://web.archive.org/web/20220803141648id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0333&codcur=11070&codhab=4
+created_at: '20230929232342'
+digest: HGXDOUOHEOLTM74CYLNFZ7HSZV2VSP4U
+updated_at: '20230929232342'
+url: https://web.archive.org/web/20230929232342id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0333&codcur=11070&codhab=4
