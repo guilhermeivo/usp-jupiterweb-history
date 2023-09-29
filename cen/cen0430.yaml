@@ -59,7 +59,7 @@ courses:
   course_name: 'CEN0430 - Insetos Comestíveis
 
     Edible Insects'
-  deactivation: ''
+  deactivation: 31/12/2023
   instructors: 3705273 - Thiago de Araújo Mastrangelo
   lecture_credits: '4'
   objectives: Oferecer aos alunos de Ciências Biológicas, Ciências dos Alimentos,
@@ -68,7 +68,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220523031721'
-digest: SVSCMKYYZGCYN5JQJSJVSJCFU6LNT2L3
-updated_at: '20220523031721'
-url: https://web.archive.org/web/20220523031721id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0430&verdis=1
+created_at: '20230929223857'
+digest: CBGTWNNUP2KK6YGGT7C6TUFP6T3XFMAP
+updated_at: '20230929223857'
+url: https://web.archive.org/web/20230929223857id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0430&codcur=11070&codhab=4
