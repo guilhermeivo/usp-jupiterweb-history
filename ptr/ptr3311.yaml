@@ -1,60 +1,81 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2023
   assessment: "1(uma) prova a ser realizada dentro do período estabelecido pela universidade\
     \ e/ou unidade.\nCálculo da Média Final (aluno que ficou em recuperação):\nMF\
     \ = (NF + NR) / 2\nOnde: \tMF = Média Final (após a recuperação)\nNR = Nota da\
     \ prova de recuperação\nNF = Nota Final"
-  bibliography: "BURROUGH, P.A., Me DONNELL, R.A. 1998. Principles of Geographical\
-    \ Information Systems. Oxford Univ. Press, New York.\nCÂMARA, G; DAVIS, C.; MONTEIRO,\
-    \ A.M. (ed). Introdução à Ciência da Geoinformação. São José dos Campos, INPE,\
-    \ 2004. (Disponível online: http://www.dpi.inpe.br/livros.html)\nCASANOVA, Marco\
-    \ (Org.) ; CÂMARA, G. (Org.) ; DAVIS, Clodoveu (Org.) ; VINHAS, Lúbia (Org.) ;\
-    \ QUEIROZ, Gilberto Ribeiro (Org.) . Bancos de Dados Geograficos. 1. ed. Curitiba:\
-    \ Editora Mundo Geo, 2005. v. 1. 504 p. (Disponível online: http://www.dpi.inpe.br/gilberto/livro/bdados/index.html)\n\
-    CINTRA, J.P. Apostila Modelagem Digital de Terreno. EPUSP/PTR, 1998\nCRÓSTA, Álvaro\
-    \ Penteado. Processamento digital de imagens de sensoriamento remoto. UNICAMP/Instituto\
-    \ de Geociencias, 1999.\nJENSEN, John R. Sensoriamento Remoto do Ambiente \x96\
-    \ Uma Perspectiva em Recursos Terrestres. 2ª Edição. São José dos Campos: Parêntese,\
-    \ 2009.\nLILLESAND, T. M.; KIEFER, R. W.; CHIPMAN, J. W.; Remote sensing and image\
-    \ interpretation. 6th ed. Hoboken, NJ: John Wiley & Sons, 2008. xii, 756p.\nLONGLEY,\
-    \ PAUL A.; GOODCHILD, MICHAEL, F.; MAGUIRE, DAVID, J.; RHIND, DAVID, W. Sistemas\
-    \ e Ciência da Informação Geográfica. 3ª edição ed. Bookman, Porto Alegre, 2013\
-    \ 539p.\nMATHER, P. M. Computer processing of remotely sensed images: an introduction.\
-    \ Chichester, West Sussex, England : John Wiley & Sons, 2009. 324p.\nMORAES NOVO,\
-    \ Evlyn L.M. Sensoriamento Remoto: Princípios e Aplicações. 3ª Edição. São Paulo:\
-    \ Blucher, 2008.\nQUINTANILHA, J.A Processamento de imagens digitais. In: GEOPROCESSAMENTO,\
-    \ 1, São Paulo, 1990. Anais. São Paulo: EPUSP, 1990. p 37-52\nRICHARDS, J. A;\
-    \ JIA, X. Remote sensing digital image analysis: an introduction. 3th ed. Berlin;\
-    \ New York: Springer-Verlag, 2005. xxiv, 4-25p.\nRODRIGUES, M. Introdução ao Geoprocessamento.\
-    \ In: GEOPROCESSAMENTO, 1, São Paulo, 1990. Anais. São Paulo: EPUSP, 1990. p 1-26\n\
-    TAVARES, P.E.M., FAGUNDES, P.M. Fotogrametria (1991)"
-  course: '1. Conceitos fundamentais de Sensoriamento Remoto 2. Modelagem Digital
-    do Terreno 3. Comportamento Espectral de Alvos 4. Pré-processamento e Processamento
-    de Imagens de Satélite 5. Aerofotogrametria 6. Conceitos Básicos de Sistemas de
-    Informações Geográficas 7. Bancos de Dados Espaciais 8. Modelagem de Dados Espaciais
-    9. Operações e Análises Espaciais 10. Infraestrutura de Dados Espaciais.
+  bibliography: '- BURROUGH, P.A., Me DONNELL, R.A. 1998. Principles of Geographical
+    Information Systems. Oxford Univ. Press, New York.
 
-    1. Basic concepts of Remote Sensing 2. Digital Terrain Modeling 3. Spectral Reflectance
-    of Earth Surface Targets 4. Pre-processing and Satellite Image Processing 5. Photogrammetry
-    6. Basics concepts of Geographic Information Systems 7. Spatial Databases 8. Spatial
-    Data Modeling 9. Spatial Operations and Spatial Analysis 10. Spatial Data Infrastructure.'
+    - C MARA, G; DAVIS, C.; MONTEIRO, A.M. (ed). Introdução à Ciência da Geoinformação.
+    São José dos Campos, INPE, 2004. (Disponível online: http://www.dpi.inpe.br/livros.html)
+
+    - CASANOVA, Marco (Org.); C MARA, G. (Org.); DAVIS, Clodoveu (Org.); VINHAS, Lúbia
+    (Org.); QUEIROZ, Gilberto Ribeiro (Org.). Bancos de Dados Geográficos. 1. ed.
+    Curitiba: Editora Mundo Geo. 2005. v. 1. 504 p. (Disponível online: href="http://www.dpi.inpe.br/gilberto/livro/bdados/index.html)
+
+    - CINTRA, J.P. Apostila Modelagem Digital de Terreno. EPUSP/PTR, 1998
+
+    - CRÓSTA, Álvaro Penteado. Processamento digital de imagens de sensoriamento remoto.
+    UNICAMP/Instituto de Geociências, 1999.
+
+    - JENSEN, John R. Sensoriamento Remoto do Ambiente – Uma Perspectiva em Recursos
+    Terrestres. 2ª Edição. São José dos Campos: Parêntese, 2009.
+
+    - LILLESAND, T. M.; KIEFER, R. W.; CHIPMAN, J. W.; Remote sensing and image interpretation.
+    6th ed. Hoboken, NJ: John Wiley & Sons, 2008. xii, 756p.
+
+    - LONGLEY, PAUL A.; GOODCHILD, MICHAEL, F.; MAGUIRE, DAVID, J.; RHIND, DAVID,
+    W. Sistemas e Ciência da Informação Geográfica. 3ª edição ed. Bookman, Porto Alegre,
+    2013. 539 p.
+
+    - MATHER, P. M. Computer processing of remotely sensed images: an introduction.
+    Chichester, West Sussex, England: John Wiley & Sons, 2009. 324p.
+
+    - MORAES NOVO, Evlyn L.M. Sensoriamento Remoto: Princípios e Aplicações. 3ª Edição.
+    São Paulo: Blucher, 2008.
+
+    - RICHARDS, J. A; JIA, X. Remote sensing digital image analysis: an introduction.
+    3th ed. Berlin; New York: Springer-Verlag, 2005. xxiv, 4-25p.
+
+    - RODRIGUES, M. Introdução ao Geoprocessamento. In: GEOPROCESSAMENTO, 1, São Paulo,
+    1990. Anais. São Paulo: EPUSP, 1990. p 1-26
+
+    - TAVARES, P.E.M., FAGUNDES, P.M. Fotogrametria (1991)'
+  course: '1. Conceitos fundamentais de Sensoriamento Remoto; 2. Modelagem Digital
+    do Terreno; 3. Pré-processamento e processamento de imagens de Sensoriamento Remoto;
+    4. Métodos de avaliação da qualidade de classificação de imagens de Sensoriamento
+    Remoto; 5. Conceitos básicos de Sistemas de Informações Geográficas (SIG); 6.
+    Conceitos básicos sobre Sistemas de Referência; 7. Topologia e incertezas associadas
+    a dados espaciais; 8. Operações espaciais e álgebra de mapas; 9. Compartilhamento
+    de dados espaciais na internet.
+
+    1. Fundamental concepts of Remote Sensing; 2. Digital Terrain Modeling; 3. Pre-processing
+    and processing of Remote Sensing images; 4. Methods for evaluating the quality
+    of classification of Remote Sensing images; 5. Basic concepts of Geographic Information
+    Systems (GIS); 6. Basic concepts about Reference Systems; 7. Topology and uncertainties
+    associated with spatial data; 8. Spatial operations and map algebra; 9. Spatial
+    data sharing on the internet.'
   course_name: 'PTR3311 - Geomática II
 
     Geomatics II'
-  deactivation: 31/12/2022
-  instructors: 1351435 - Mariana Abrantes Giannotti
-  lecture_credits: '2'
-  objectives: 'Fornecer conceitos fundamentais de Geoprocessamento, incluindo o Sensoriamento
-    Remoto, a Modelagem Digital do Terreno, os Sistemas de Informações Geográficas
-    e suas aplicações em Engenharia Civil e Engenharia de Minas.
+  deactivation: ''
+  instructors: '7500438 - Cleyton de Carvalho Carneiro
 
-    To provide fundamental concepts of Geoprocessing, including Remote Sensing, Digital
-    Terrain Modeling, Geographic Information Systems and their applications in Civil
-    and Mining Engineering.'
+    1351435 - Mariana Abrantes Giannotti'
+  lecture_credits: '2'
+  objectives: 'Fornecer conceitos fundamentais de Geoprocessamento e Ciência de Dados
+    Espaciais, incluindo o Sensoriamento Remoto, a Modelagem Digital do Terreno, os
+    Sistemas de Informações Geográficas e suas aplicações em Engenharia Civil e Engenharia
+    de Minas.
+
+    To provide fundamental concepts of Geoprocessing and Spatial Data Science, including
+    Remote Sensing, Digital Terrain Modeling, Geographic Information Systems and their
+    applications in Civil and Mining Engineering.'
   practical_credits: '1'
   total_workload: 60 h
   type: Semestral
-created_at: '20221004044829'
-digest: ES4SZ4UIMENKGOZDWUL34OYA2Z74F73A
-updated_at: '20221004044829'
-url: https://web.archive.org/web/20221004044829id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3311&nomdis=
+created_at: '20230929235449'
+digest: JSHFFKL6NMHSKEOIVLPVC44HGXQMG25B
+updated_at: '20230929235449'
+url: https://web.archive.org/web/20230929235449id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3311&codcur=16011&codhab=100
