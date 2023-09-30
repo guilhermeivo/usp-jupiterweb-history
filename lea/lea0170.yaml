@@ -72,7 +72,7 @@ courses:
   course_name: 'LEA0170 - Zoologia de Invertebrados I
 
     Invertebrate Zoology I'
-  deactivation: ''
+  deactivation: 31/12/2023
   instructors: 1033541 - Italo Delalibera Junior
   lecture_credits: '4'
   objectives: Transmitir e construir com os alunos informações básicas e comparativas
@@ -82,7 +82,7 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20220803114131'
-digest: MPQE7QOPVW2LXUF5VMX3LVCUT346RRT5
-updated_at: '20230925071356'
-url: https://web.archive.org/web/20230925071356id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0170&codcur=11070&codhab=104
+created_at: '20230930105400'
+digest: ZKSPAIJQCGM5OTJWECEWJB4UHYULRP42
+updated_at: '20230930105400'
+url: https://web.archive.org/web/20230930105400id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0170&codcur=11070&codhab=4
