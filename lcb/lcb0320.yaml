@@ -51,7 +51,7 @@ courses:
   course_name: 'LCB0320 - Morfologia e Sistemática Vegetal
 
     Plant Systematics and Morphology'
-  deactivation: ''
+  deactivation: 31/12/2023
   instructors: 2086507 - Vinicius Castro Souza
   lecture_credits: '10'
   objectives: 1. Fornecer subsídios para identificação de espécies vegetais nativas
@@ -61,8 +61,8 @@ courses:
   practical_credits: '2'
   total_workload: 210 h
   type: Semestral
-created_at: '20230604125229'
-digest: YYZWGQEAXNB3EW53PFI6FVMGMHC6FJF5
+created_at: '20231003102457'
+digest: UN2HZGYIKM56BOV2237PKV26MKLASZWK
 requirements:
 - course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 2'
   requirements:
@@ -75,5 +75,5 @@ requirements:
   - code: LCB0140
     name: Anatomia Vegetal
     type: Requisito
-updated_at: '20230604125229'
-url: https://web.archive.org/web/20230604125229id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCB0320
+updated_at: '20231003102457'
+url: https://web.archive.org/web/20231003102457id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0320
