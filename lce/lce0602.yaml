@@ -65,7 +65,33 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220707194701'
-digest: B5YH6W3AFZUBQ6SHMV3LPVFX7DSQUEJ6
-updated_at: '20231003093802'
-url: https://web.archive.org/web/20231003093802id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0602
+created_at: '20231003112938'
+digest: HWYU6BBS5MZEJIFQSYEK3KH4TLPBE4K4
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 4'
+  requirements:
+  - code: LCE0211
+    name: Estatística Geral
+    type: Requisito
+- course: 'Curso: 11020  Engenharia Florestal (integral) - Período ideal: 6'
+  requirements:
+  - code: LCE0216
+    name: Introdução à Bioestatística Florestal
+    type: Requisito
+- course: 'Curso: 11061  Ciências dos Alimentos (noturno) - Período ideal: 8'
+  requirements:
+  - code: LCE0212
+    name: Estatística Aplicada às  Ciências dos Alimentos
+    type: Requisito
+- course: 'Curso: 11062  Ciências dos Alimentos (noturno) - Período ideal: 8'
+  requirements:
+  - code: LCE0212
+    name: Estatística Aplicada às  Ciências dos Alimentos
+    type: Requisito
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 8'
+  requirements:
+  - code: LCE0204
+    name: Bioestatística
+    type: Requisito
+updated_at: '20231003112938'
+url: https://web.archive.org/web/20231003112938id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCE0602
