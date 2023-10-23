@@ -79,7 +79,7 @@ courses:
     )'
   type: Semestral
 created_at: '20210723195847'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+digest: TCKSYOKGJOUN6BWYUXMLEFTBPA6MY72H
 requirements:
 - course: "Curso: 41012  Ciências Biológicas - Habilitação: Licenciatura em Ciências\
     \ Biológicas \r\n                          (integral) - Período ideal: 6"
@@ -93,5 +93,5 @@ requirements:
   - code: EDM0433
     name: Metodologia do Ensino de Ciências Biológicas I
     type: Requisito
-updated_at: '20231023032924'
-url: https://web.archive.org/web/20231023032924id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EDM0434&codcur=41012&codhab=300
+updated_at: '20231023032932'
+url: https://web.archive.org/web/20231023032932id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EDM0434&codc
