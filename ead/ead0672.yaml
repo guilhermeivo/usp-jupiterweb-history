@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2018
+  activation: 01/01/2002
   assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
     será submetido a uma reavaliação final, a título de recuperação.
   bibliography: '1. Site para cadastro do aluno: Portal SIMULAB (http://www.simulab.com.br)
@@ -70,71 +70,30 @@ courses:
 
      Tori, R. (2009). Cursos híbridos ou Blended learning. In: LITTO, F. M.; FORMIGA,
     M. (orgs.), Educação a distância: o estado da arte. São Paulo, Pearson, 121-128..'
-  course: 'Um Simulador Geral, que reúne todas as áreas funcionais, será adotado para
-    permitir a aplicação dos conceitos apreendidos ao longo do curso.
+  course: '· Estratégias competitivas
 
-    As atividades serão desenvolvidas por meio de um modelo híbrido, com atividades
-    presenciais (70%) e online (30%), conforme indicado no programa.
+    · Direção, poder e liderança
 
-    Nas atividades online serão utilizados métodos de Ensino a Distância – EAD.
-
-    Um Jogo de Empresas (Business Game) é usado para dinamizar a aprendizagem vivencial
-    e:
-
-    a) Promover a construção de um significado dinâmico para os conhecimentos estáticos
-    já adquiridos;
-
-    b) Desenvolver habilidades gerenciais repetindo o ciclo: planejar, organizar,
-    decidir e controlar;
-
-    c) Espelhar as atitudes de ousadia e conservadorismo, face ao risco na tomada
-    de decisão;
-
-    O modelo híbrido de aprendizagem promove benefícios adicionais para os estudantes
-    e para o curso de administração, a saber:
-
-     Permite o desenvolvimento de habilidades gerenciais para a atuação em equipes
-    virtuais, cada vez mais necessárias no ambiente profissional atual.
-
-    2
-
-     Promove a utilização de tecnologias modernas e dinâmicas no desenvolvimento
-    do processo ensino-aprendizagem.
-
-     Alavanca o desenvolvimento de soft-skills , por meio das atividades online,
-    adicionais aos soft-skills desenvolvidos pelas atividades presenciais, com a inclusão
-    de novos conteúdos e abordagens.
-
-     Permite novas oportunidades de reflexão teórica, tendo em vista o recente desenvolvimento
-    de bibliografias sobre aprendizagem híbrida e métodos ativos, abrindo novos campos
-    de pesquisa no Laboratório de Gestão.
-
-     Consolida a possibilidade de oferta de disciplinas na modalidade semi-presencial,
-    conforme estabelece a Portaria nº 4.059/2004 do Ministério da Educação, em seu
-    Art. 1º: “As instituições de ensino superior poderão introduzir, na organização
-    pedagógica e curricular de seus cursos superiores reconhecidos, a oferta de disciplinas
-    integrantes do currículo que utilizem modalidade semi-presencial [...].”'
+    · Processo decisório'
   course_name: 'EAD0672 - Laboratório de Gestão Empresarial I
 
     Laboratory of Entrepreneurial Management I'
-  deactivation: ''
+  deactivation: 31/12/2017
   instructors: 2068031 - Renata Giovinazzo Spers
   lecture_credits: '2'
-  objectives: 'específicos
+  objectives: '· Recuperar o caráter SISTÊMICO da organização, integrando os conhecimentos
+    adquiridos no curso;
 
-    a) Recuperar a visão SISTÊMICA da organização, integrando conhecimentos adquiridos;
+    · Incluir o AMBIENTE EXTERNO nas preocupações gerenciais;
 
-    b) Incluir o AMBIENTE EXTERNO nas preocupações gerenciais;
+    · Desenvolver ESPÍRITO CRÍTICO, vital na tomada de decisão;
 
-    c) Propiciar a PRÁTICA CONCEITUAL SUSTENTÁVEL por meio da VIVÊNCIA LABORATORIAL
-
-    d) Desenvolver ESPÍRITO CRÍTICO E EMPREENDEDOR, vital na tomada de decisão;
-
-    e) Estimular a TRANSPOSIÇÃO DA APRENDIZAGEM para novos EMPREENDIMENTOS.'
+    · Estimular a TRANSPOSIÇÃO DA APRENDIZAGEM para diferentes tipos de problemas
+    profissionais.'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220705175120'
-digest: I2WRZRYG3Z7OFOXV75PEJIZODDPF4HMR
-updated_at: '20220707030928'
-url: https://web.archive.org/web/20220707030928id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0672&codcur=12012&codhab=4
+created_at: '20231115063045'
+digest: HYN4QV3YYN4EWLZ73VYZ2RG6V7XE2RUB
+updated_at: '20231115063045'
+url: https://web.archive.org/web/20231115063045id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0672&verdis=1
