@@ -62,7 +62,41 @@ courses:
   practical_credits: '3'
   total_workload: 120 h
   type: Semestral
-created_at: '20220708085358'
-digest: 5Q4A3HOD7YM7L3KAJMOXYERMXI3MEN4K
-updated_at: '20230927125217'
-url: https://web.archive.org/web/20230927125217id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0307&codcur=11070&codhab=4
+created_at: '20231201203630'
+digest: XCY5RG5A56OB3ABXPSYGNXKPQLHY2G6T
+requirements:
+- course: 'Curso: 11061  Ciências dos Alimentos (noturno) - Período ideal: 6'
+  requirements:
+  - code: LCB0218
+    name: Bioquímica
+    type: Requisito
+- course: 'Curso: 11062  Ciências dos Alimentos (noturno) - Período ideal: 6'
+  requirements:
+  - code: LCB0218
+    name: Bioquímica
+    type: Requisito
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 6'
+  requirements:
+  - code: LCB0144
+    name: Zoologia dos Cordados
+    type: Indicação de Conjunto
+  - code: CEN0414
+    name: Biologia Tecidual e Proteção Animal
+    type: Requisito
+  - code: LCB0213
+    name: Bioquímica I
+    type: Requisito
+- course: "Curso: 11070  Ciências Biológicas - Habilitação: Licenciatura em Ciências\
+    \ Biológicas \r\n                          (noturno) - Período ideal: 6"
+  requirements:
+  - code: LCB0144
+    name: Zoologia dos Cordados
+    type: Indicação de Conjunto
+  - code: CEN0414
+    name: Biologia Tecidual e Proteção Animal
+    type: Requisito
+  - code: LCB0213
+    name: Bioquímica I
+    type: Requisito
+updated_at: '20231201203630'
+url: https://web.archive.org/web/20231201203630id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LZT0307
