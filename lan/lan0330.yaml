@@ -79,7 +79,28 @@ courses:
   practical_credits: '1'
   total_workload: 150 h
   type: Semestral
-created_at: '20230927130038'
-digest: PWAQZYDHFEPY5GFT5PFUTPUTAY5QSFSO
-updated_at: '20230927130038'
-url: https://web.archive.org/web/20230927130038id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN0330&codcur=11070&codhab=4
+created_at: '20231201195423'
+digest: F35BFPCZWNYFXBEHY4UQ4MGODFEMQEP4
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 7'
+  requirements:
+  - code: LAN0440
+    name: Qualidade e Processamento de Alimentos
+    type: Requisito
+- course: 'Curso: 11061  Ciências dos Alimentos (noturno) - Período ideal: 3'
+  requirements:
+  - code: LFN0325
+    name: Princípios de Microbiologia
+    type: Requisito
+- course: 'Curso: 11062  Ciências dos Alimentos (noturno) - Período ideal: 3'
+  requirements:
+  - code: LFN0325
+    name: Princípios de Microbiologia
+    type: Requisito
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 7'
+  requirements:
+  - code: LFN0225
+    name: Microbiologia Geral
+    type: Requisito
+updated_at: '20231201195423'
+url: https://web.archive.org/web/20231201195423id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LAN0330
