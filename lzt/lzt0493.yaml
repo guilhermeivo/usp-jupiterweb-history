@@ -40,7 +40,18 @@ courses:
   practical_credits: '2'
   total_workload: 75 h
   type: Semestral
-created_at: '20230927115747'
-digest: 22PHH36HELQNUURUYHC64R6XGII6DPCX
-updated_at: '20230927115747'
-url: https://web.archive.org/web/20230927115747id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0493&codcur=11070&codhab=4
+created_at: '20231201204846'
+digest: ZOAF3Y77CC66NS6QFZYQPM5E7BAJ7QSP
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 5'
+  requirements:
+  - code: LZT0313
+    name: Anatomia e Fisiologia Animal
+    type: Requisito
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 7'
+  requirements:
+  - code: LZT0307
+    name: Anatomia e Fisiologia de Vertebrados I
+    type: Requisito
+updated_at: '20231201204846'
+url: https://web.archive.org/web/20231201204846id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LZT0493
