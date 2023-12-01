@@ -48,7 +48,19 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220708110246'
-digest: N4TFOJ4PKTHS2MGWKTYFVUX2RJ5O223U
-updated_at: '20231003001130'
-url: https://web.archive.org/web/20231003001130id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0313&codcur=11070&codhab=104
+created_at: '20231201195047'
+digest: 4DSKOYW4W7VETTGSHTDFMMLC5VRHKHWS
+requirements:
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 4'
+  requirements:
+  - code: LCB0213
+    name: Bioquímica I
+    type: Requisito
+- course: "Curso: 11070  Ciências Biológicas - Habilitação: Licenciatura em Ciências\
+    \ Biológicas \r\n                          (noturno) - Período ideal: 4"
+  requirements:
+  - code: LCB0213
+    name: Bioquímica I
+    type: Requisito
+updated_at: '20231201195047'
+url: https://web.archive.org/web/20231201195047id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCB0313
