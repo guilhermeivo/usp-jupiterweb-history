@@ -35,7 +35,16 @@ courses:
   practical_credits: '1'
   total_workload: 75 h
   type: Semestral
-created_at: '20220419194927'
-digest: X4PJYKQR4BV5ZHI6KF3VBQRUXUYEU2AV
-updated_at: '20230927104356'
-url: https://web.archive.org/web/20230927104356id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0482&codcur=11070&codhab=4
+created_at: '20231201184720'
+digest: VSZ46OZESNQEUXLBR2MI4MIX5VCE6HCM
+requirements:
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 7'
+  requirements:
+  - code: LGN0327
+    name: Genética Molecular
+    type: Requisito
+  - code: LGN0335
+    name: Evolução
+    type: Requisito
+updated_at: '20231201184720'
+url: https://web.archive.org/web/20231201184720id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LEA0482
