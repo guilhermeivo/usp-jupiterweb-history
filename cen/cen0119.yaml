@@ -83,7 +83,34 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220419221735'
-digest: XQDVGOEHD4ZR3B65S3ACLRC3LAJXAVIF
-updated_at: '20230927104617'
-url: https://web.archive.org/web/20230927104617id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0119&codcur=11070&codhab=4
+created_at: '20231201190510'
+digest: AHW727EJQXVQFFBAAENUYBS7454XNYKG
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 5'
+  requirements:
+  - code: LCE0111
+    name: Química Analítica Inorgânica - Teórica
+    type: Requisito
+  - code: LCE0116
+    name: Química Analítica Inorgânica - Prática
+    type: Requisito
+- course: 'Curso: 11020  Engenharia Florestal (integral) - Período ideal: 5'
+  requirements:
+  - code: LCE0111
+    name: Química Analítica Inorgânica - Teórica
+    type: Requisito
+  - code: LCE0116
+    name: Química Analítica Inorgânica - Prática
+    type: Requisito
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 7'
+  requirements:
+  - code: LCE0118
+    name: Química
+    type: Requisito
+- course: 'Curso: 11080  Gestão Ambiental (noturno) - Período ideal: 7'
+  requirements:
+  - code: LCE0180
+    name: Química Ambiental
+    type: Requisito
+updated_at: '20231201190510'
+url: https://web.archive.org/web/20231201190510id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=CEN0119
