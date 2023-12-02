@@ -52,7 +52,34 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20220523015748'
-digest: 6WUIEDUSXYKA5KGMTYRLYFOVZ5GLBR65
-updated_at: '20230927113954'
-url: https://web.archive.org/web/20230927113954id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0485&codcur=11070&codhab=4
+created_at: '20231202154145'
+digest: Y5PIPE7XEBLJCI2JW3VCVXDGOOAVVNIO
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 7'
+  requirements:
+  - code: LGN0232
+    name: Genética Molecular
+    type: Requisito
+- course: 'Curso: 11020  Engenharia Florestal (integral) - Período ideal: 7'
+  requirements:
+  - code: LGN0232
+    name: Genética Molecular
+    type: Requisito
+- course: 'Curso: 11062  Ciências dos Alimentos (noturno) - Período ideal: 7'
+  requirements:
+  - code: LCB0218
+    name: Bioquímica
+    type: Requisito
+  - code: LGN0217
+    name: Genética Geral
+    type: Requisito
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 7'
+  requirements:
+  - code: LCB0313
+    name: Bioquímica II
+    type: Requisito
+  - code: LGN0327
+    name: Genética Molecular
+    type: Requisito
+updated_at: '20231202154145'
+url: https://web.archive.org/web/20231202154145id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=CEN0485
