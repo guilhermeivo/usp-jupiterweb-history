@@ -45,7 +45,29 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20220419194911'
-digest: 5SPP3HGAJV544GCNFCZMTOKLEAFS75K6
-updated_at: '20230927123415'
-url: https://web.archive.org/web/20230927123415id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0400&codcur=11070&codhab=4
+created_at: '20231202140444'
+digest: 33WY32PFE3PU2S2DCKQKLQUUQEO3XSYM
+requirements:
+- course: 'Curso: 11061  Ciências dos Alimentos (noturno) - Período ideal: 7'
+  requirements:
+  - code: LCB0218
+    name: Bioquímica
+    type: Requisito
+  - code: LGN0217
+    name: Genética Geral
+    type: Requisito
+- course: 'Curso: 11062  Ciências dos Alimentos (noturno) - Período ideal: 7'
+  requirements:
+  - code: LCB0218
+    name: Bioquímica
+    type: Requisito
+  - code: LGN0217
+    name: Genética Geral
+    type: Requisito
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 9'
+  requirements:
+  - code: LCB0246
+    name: Biologia Molecular e Biotecnologia
+    type: Requisito
+updated_at: '20231202140444'
+url: https://web.archive.org/web/20231202140444id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=CEN0400
