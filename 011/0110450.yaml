@@ -80,7 +80,29 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20230927124348'
-digest: 4NAJ7KTETLZ3LWCVRDMEYV77LNYUEU2G
-updated_at: '20230927124348'
-url: https://web.archive.org/web/20230927124348id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=0110450&codcur=11070&codhab=4
+created_at: '20231202161054'
+digest: 2U23QHOS6M44Z3AJ4LEQ23G3EL4PQIX7
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 7'
+  requirements:
+  - code: LAN0440
+    name: Qualidade e Processamento de Alimentos
+    type: Requisito
+- course: 'Curso: 11061  Ciências dos Alimentos (noturno) - Período ideal: 7'
+  requirements:
+  - code: LAN0330
+    name: Microbiologia dos Alimentos
+    type: Requisito
+  - code: LAN2661
+    name: Operações Unitárias no Processamento de Alimentos I
+    type: Requisito
+- course: 'Curso: 11062  Ciências dos Alimentos (noturno) - Período ideal: 7'
+  requirements:
+  - code: LAN0300
+    name: Açúcar, Fermentações e Bebidas
+    type: Requisito
+  - code: LAN2661
+    name: Operações Unitárias no Processamento de Alimentos I
+    type: Requisito
+updated_at: '20231202161054'
+url: https://web.archive.org/web/20231202161054id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=0110450
