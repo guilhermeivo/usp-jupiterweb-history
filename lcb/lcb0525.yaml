@@ -63,13 +63,13 @@ courses:
   practical_credits: '5'
   total_workload: 165 h
   type: Semestral
-created_at: '20230604141540'
-digest: OTRH4MCM7OSRBDDQWFSEKXYC6EWMY76M
+created_at: '20231208160737'
+digest: NR452J56U4LYOUGSXECTFZMJW44FSC4S
 requirements:
 - course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 10'
   requirements:
   - code: LCB0425
-    name: Monografia I
+    name: Trabalho de Conclusão de Curso I - Elaboração do Projeto
     type: Requisito
-updated_at: '20230604141540'
-url: https://web.archive.org/web/20230604141540id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCB0525
+updated_at: '20231208160737'
+url: https://web.archive.org/web/20231208160737id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCB0525
