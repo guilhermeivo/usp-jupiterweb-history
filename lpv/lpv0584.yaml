@@ -1,0 +1,76 @@
+courses:
+  activation: 01/01/2016
+  assessment: Através da realização de uma única prova abrangente, abordando a matéria
+    integral da disciplina. A nota final será a média aritmética entre a nota obtida
+    na disciplina e a nota obtida na prova de recuperação.
+  bibliography: "Cana-de-açúcar\nCAMARA, G.M.S.; OLIVEIRA E.A.M. Produção de cana-de-açúcar.\
+    \ Piracicaba: ESALQ/USP, Departamento de Agricultura, FEALQ, 1993.\nCASAGRANDE,\
+    \ A. A. Tópicos de morfologia e fisiologia da cana-de-açúcar. Jaboticabal: FUNEP,\
+    \ 1991. 157 p.\nCESNIK, R.; MIOCQUE, J.  Melhoramento da cana-de-açúcar. Brasília-DF:\
+    \ Embrapa Informação Tecnológica. 307 p. 2004.\nFERNANDES, A. C.  Cálculos na\
+    \ agroindústria da cana-de-açúcar. Piracicaba: STAB. 2ª edição. 240 p. 2003.\n\
+    LANDELL, M. G. A. et al.  Variedades de cana-de-açúcar para o Centro-Sul do Brasil.:\
+    \ 14ª liberação  do programa cana IAC (1959 \x96 2004). Marcos Guimarães de Andrade\
+    \ Landell et al. \x96 Campinas: Instituto Agronômico. 33 p. 2004.\nMENDONÇA, A.\
+    \ F.  Cigarrinhas da cana-de-açúcar: controle biológico. Maceió: Insecta. 317\
+    \ p. 2005.\nMORAES, M. A. F. D.; SHIKIDA, P. F. A.  Agroindústria canavieira no\
+    \ Brasil: evolução, desenvolvimento e desafios.  Márcia Azanha Ferraz Dias de\
+    \ Moraes, Pery Francisco Assis Shikida (Organizadores). São Paulo: Atlas. 367\
+    \ p. 2002.\nPARANHOS S.B. (coord.) Cana-de-açúcar: cultivo e utilização. Campinas:\
+    \ Fundação Cargill, 1987. 856 p (volumes I e II).\nPAYNE, J. H.  Operações unitárias\
+    \ na produção de açúcar de cana. São Paulo: Nobel: STAB. 245 p. 1989.\nPROCÓPIO,\
+    \ S. O.; SILVA, A. A.; VARGAS, L.; FERREIRA, F. A.  Manejo de plantas daninhas\
+    \ na cultura da cana-de-açúcar. Viçosa: UFV. 150 p. 2003.\nMandioca\nCÂMARA, G.M.S.;\
+    \ GODOY, O.P.; MARCOS FILHO, J.; LIMA, U.A. Mandioca: produção, pré-processamento\
+    \ e transformação agroindustrial. São Paulo, Secretaria da Indústria, Comércio,\
+    \ Ciência e Tecnologia, s/d. 192 p. (Série Extensão Agroindustrial, 4)\nCEREDA,\
+    \ M. P.  Resíduos da industrialização da mandioca no Brasil.  São Paulo: Paulicéia.\
+    \ 174 p. 1994.\nCONCEIÇÃO, A.J. A mandioca. São Paulo, Nobel, 1987. 382 p.\nLORENZI,\
+    \ J. O. Mandioca. 1 a ed. Campinas: CATI. 116 p. 2003. (Boletim Técnico, 245)\n\
+    Soja\nARANTES, N. E.; SOUZA, P. I. M.  Cultura da soja nos cerrados. Piracicaba,\
+    \ Associação Brasileira para Pesquisa da Potassa e do Fosfato. 1993. 535 p.\n\
+    CÂMARA, G.M.S. Ecofisiologia da cultura da soja. In: CÂMARA, G.M.S.; MARCOS FILHO,\
+    \ J.; OLIVEIRA, E.A.M. SIMPÓSIO SOBRE A CULTURA E PRODUTIVIDADE DA SOJA, 1. Anais.\
+    \ Piracicaba, 15-18 de julho de 1991. ESALQ/USP, Departamento de Agricultura.\
+    \ FEALQ, Piracicaba, 1992. p. 129-42.\nCÂMARA, G.M.S. Soja: produção, pré-processamento\
+    \ e transformação agroindustrial. São Paulo, Secretaria da Indústria, Comércio,\
+    \ Ciência e Tecnologia, s/d. 82 p. (Série Extensão Agroindustrial, 7).\nCÂMARA,\
+    \ G.M.S.  Soja: tecnologia da produção.  Gil Miguel de Sousa Câmara (editor).\
+    \ Piracicaba: G. M. S. Câmara, 1998. 293 p.\nCÂMARA, G. M. S.  Fenologia da soja.\
+    \ Informações Agronômicas, n. 82, jun./98. Piracicaba, Associação Brasileira para\
+    \ Pesquisa da Potassa e do Fosfato. p. 1-6. 1998.\nCÂMARA, G.M.S.  Soja: tecnologia\
+    \ da produção II.  Gil Miguel de Sousa Câmara (editor). Piracicaba: G. M. S. Câmara,\
+    \ 2000. 450 p."
+  course: 'Cana-de-açúcar e Soja
+
+    Apresentação da disciplina e do sistema de avaliação. Visita a canteiros didáticos
+    para primeiros contatos com cana-de-açúcar e soja. Cana-de-açúcar: a) importância
+    econômica; b) estudo da planta (classificação botânica, descrição agrobotânica,
+    fenologia, melhoramento genético e cultivares); c) ecofisiologia (solo, clima
+    e produtividade); d) planejamento e instalação da cultura; e) tratos culturais
+    de cana-planta e cana-soca; f) nutrição mineral, calagem e adubação; g) colheita
+    e sistemas de produção. Soja: a) importância econômica; b) estudo da planta (classificação
+    botânica, descrição agrobotânica, fenologia, melhoramento genético e cultivares);
+    c) ecofisiologia (solo, clima e produtividade); d) planejamento e instalação da
+    cultura; e) tratos culturais de cana-planta e cana-soca; f) nutrição mineral,
+    calagem e adubação; g) colheita e sistemas de produção.'
+  course_name: 'LPV0584 - Produção de Cana e Soja
+
+    Sugarcane And Soybean Production'
+  deactivation: 31/12/2023
+  instructors: 2086021 - Marcos Silveira Bernardes
+  lecture_credits: '4'
+  objectives: Proporcionar aos alunos conhecimentos de natureza básica e aplicada
+    sobre as técnicas de produção vegetal das culturas de cana-de-açúcar, mandioca
+    e soja, de maneira a capacitá-los no reconhecimento e diagnóstico de problemas
+    relacionados à produção visando a adoção de medidas que resultem em maior eficiência
+    técnico-econômica do sistema de produção vegetal. Visa também, educar os alunos
+    na adoção e interpretação da nomenclatura técnica inerente aos agronegócios dessas
+    culturas.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209045634'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20231209045634'
+url: https://web.archive.org/web/20231209045634id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0584&codcur=11010&codhab=0
