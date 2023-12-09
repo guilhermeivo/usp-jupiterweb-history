@@ -1,0 +1,84 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'O aluno deverá fazer:
+
+    - uma prova escrita  e ou
+
+    - uma revisão bibliográfica sobre um assunto pertinente, a critério do professor
+    responsável.'
+  bibliography: 'BORÉM, A.; NICK, C. Batata: do plantio à colheita. Viçosa: UFV, 2017.
+    221 p.
+
+    CASTRO, C.E.F. Manual de floricultura. Simpósio, Maringá, PR, 1992.
+
+    FILGUEIRA, F.A.R.  Novo manual de Olericultura: agrotecnologia moderna na produção
+    e comercialização de hortaliças. Viçosa: UFV, 2000. 402 p.
+
+    JUNGHANS, T.G; SOUZA, A.S. Aspectos práticos da micropropagação de plantas, 2ª
+    Edição, EMBRAPA, 2009.
+
+    KAMPF, A.N. Produção Comercial de Plantas Ornamentais, 2a edição, UFV, 2005.
+
+    LARSON, R.A. (ed.)  Introduction to floriculture.  Orlando.  Academic Press. 1998.
+    607p.
+
+    LORENZI, H., SOUZA, H.M. Plantas Para Jardim no Brasil: herbáceas, arbustivas
+    e trepadeiras. Nova Odessa: Plantarum, 2015. 1120p.
+
+    M. AMELIA V. ALEXANDRE, LIGIA M. L. DUARTE, ANA E. C. CAMPOS. Plantas ornamentais:
+    Doenças e Pragas, 2ª Edição, Ed. DEVIR, 2017.
+
+    MELLO, S.C. Olericultura: Cultivo Hidropônico. Curitiba: Senar, 2016, 82p.
+
+    MINAMI, K.; MELLO, S.C. Fisiologia e nutrição do tomateiro. Curitiba: Senar, 2017,
+    1200p.
+
+    MINAMI, K.; MELLO, S.C. Fisiologia e nutrição do tomateiro. Curitiba: Senar, 2017,
+    1200p.
+
+    PAIVA, P.D.O. Paisagismo; conceitos e aplicações. Lavras: UFLA, 2008. 608p.
+
+    PANZINI, F. Projetar a Natureza: Arquitetura da Paisagem - Os Jardins desde as
+    Origens até a Época Contemporânea. São Paulo: SENAC, 2013, 712p.
+
+    TOMBOLATO, A.F. Cultivo Comercial de Plantas Ornamentais, 1a Edição, IAC, 2004,
+    211p.
+
+    TSUBOI, N; TSURUSHIMA, H. Introdução a História da Indústria de Flores e Plantas
+    Ornamentais no Brasil. 1a edição, ED. Ponte Preta, 2009, 276p.'
+  course: 'Olericultura: Culturas de tomate, batata, batata-doce, repolho, cenoura,
+    cebola, alface, pepino. Tópicos a serem abordados: Importância da cultura. Origem,
+    relação filogenética e classificação. Fatores que afetam a produção. Produção
+    e tratos culturais. Colheita, beneficiamento e comercialização. Floricultura:
+    Situação da produção e comercialização de flores e plantas ornamentais no Brasil
+    e no mundo. Culturas mais importantes. Fatores que afetam a produção. Colheita,
+    beneficiamento e comercialização. Paisagismo: Introdução ao paisagismo. Conceitos
+    básicos. Histórico dos Jardins. Estilos de Jardins. Grupos de Plantas Ornamentais.
+    Planejamento básico de um projeto paisagístico: levantamento, anteprojeto, projeto
+    executivo.'
+  course_name: 'LPV0480 - Olericultura, Floricultura e Paisagismo
+
+    Vegetable crops, Floriculture and Landscaping'
+  deactivation: ''
+  instructors: '6611980 - Claudia Fabrino Machado Mattiuz
+
+    3490181 - Fernando Angelo Piotto
+
+    34784 - Keigo Minami
+
+    1564961 - Paulo Cesar Tavares de Melo
+
+    1412186 - Paulo Hercílio Viegas Rodrigues
+
+    1695745 - Simone da Costa Mello'
+  lecture_credits: '4'
+  objectives: Dar noção básica dos sistemas de produção, bem como dos mercados das
+    principais hortaliças e plantas ornamentais, bem como introduzir os futuro agrônomo,
+    em suas atribuições profissionais sobre paisagismo, parques e jardins
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209045616'
+digest: 6T6MWU7JU7PUQV3NREBQZQL3GZID4EBY
+updated_at: '20231209045616'
+url: https://web.archive.org/web/20231209045616id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0480&codcur=11010&codhab=0
