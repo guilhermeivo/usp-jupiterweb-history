@@ -1,0 +1,104 @@
+courses:
+  activation: 01/01/2018
+  assessment: Aplicação de prova teórica sobre todo o programa lecionado.
+  bibliography: 'Literatura Básica:
+
+    GALLO, D.; NAKANO, O.; SILVEIRA NETO, S.; CARVALHO, R.P.L.; BATISTA, G.C.de; BERTI  FILHO,
+    E.; PARRA, J.R.P.; ZUCCHI, R.A.; ALVES, S.B.; VENDRAMIM, J.D.; MARCHINI, L.C.;
+    LOPES, J.R.S.; OMOTO, C. Entomologia Agrícola. Biblioteca de Ciências Agrárias
+    Luiz de Queiroz, Piracicaba, SP: FEALQ, 2002, 920p.
+
+    Literatura Complementar:
+
+    PARRA, J. R. P. ; BOTELHO, P. S. M. ; CORRÊA FERREIRA, B. S. ; BENTO, J. M. S.
+    Controle Biológico no Brasil: parasitóides e predadores.. São Paulo: Manole, 2002.
+    635p .
+
+    PINTO, A.S.; BOTELHO, P.S.M; OLIVEIRA, H.N. Guia ilustrado de pragas e insetos
+    benéficos da cana-de-açúcar. Piracicaba, CP2, 2009. 160p.
+
+    PINTO, A. S.; PARRA, J. R. P.; OLIVEIRA, H.N. Guia ilustrado de pragas e insetos
+    benéficos do milho e sorgo. 1. ed., 2004. 108p.
+
+    SALVADORI, J.R.; ÁVILA, C.J.; SILVA, M.T.B.. (Org.). Pragas de solo no Brasil.
+    1ed. Passo Fundo, RS: Embrapa Trigo, 2006. 541p.
+
+    SOSA-GOMEZ, D. R.; CORREA-FERREIRA, B. S.; CAMPO, C. B.; HOFFMANN; CORSO, I.;
+    OLIVEIRA, L.; MOSCARDI, F; PANIZZI, A. R.; BUENO, A. F.; HIROSE, E. 2010. Manual
+    de Identificação de Insetos e outros Invertebrados da Cultura da Soja. 2ed. Londrina,
+    Embrapa Soja, 90p.
+
+    YAMAMOTO, P. T.  (Org.). Manejo Integrado de Pragas dos Citros. Piracicaba: CP2,
+    2008. 336p.
+
+    VILELA, E. F; ZUCCHI, R. A. (Org.). Pragas introduzidas no Brasil: insetos e ácaros.
+    Piracicaba: FEALQ, 2015. 908p.
+
+    ZUCCHI, R.A.; SILVEIRA NETO, S.; NAKANO, O.  Guia de identificação de pragas agrícolas.
+    FEALQ,  Piracicaba, 1993. 139p.'
+  course: 'Introdução: 1 Conceito de pragas, inimigos naturais e manejo integrado.
+    Noções sobre métodos de controle e inseticidas.
+
+    2 Pragas do algodoeiro: Descrição, biologia, prejuízos. Reconhecimento em campo.
+
+    3 Pragas do algodoeiro: Manejo integrado. Reconhecimento das principais pragas
+    e inimigos naturais em laboratório.
+
+    4 Pragas da soja: Descrição, biologia, prejuízos e manejo integrado das pragas.
+    Amostragem em campo.
+
+    5 Pragas do feijão e amendoim: Descrição, biologia, prejuízos, controle e reconhecimento
+    em campo.
+
+    6 Pragas do milho: Descrição, biologia, prejuízos e controle no campo e no armazém.
+    Pragas de grãos armazenados.
+
+    7 Pragas do arroz e trigo: Descrição, biologia, danos, controle e reconhecimento
+    das pragas em campo.
+
+    8 Pragas da cana-de-açúcar: Descrição, biologia, danos e controle. Levantamento
+    de infestação no campo. Técnicas de controle biológico. Reconhecimento de pragas
+    e inimigos naturais.
+
+    9 Pragas das pastagens: Descrição, biologia, danos e controle das pragas. Cupins
+    - Técnicas de controle em campo.
+
+    10 Saúvas: Reconhecimento de espécies, biologia, danos e controle em campo. Sauveiro
+    artificial.
+
+    11 Pragas do café: Descrição, biologia, danos e controle das principais pragas.
+    Técnicas de levantamento no campo.
+
+    12 Pragas dos citros: Descrição, biologia, danos, controle e reconhecimento das
+    principais pragas e inimigos naturais.
+
+    13 Pragas da bananeira:  Descrição, biologia, danos e controle das pragas. Técnicas
+    de monitoramento em campo.
+
+    14 Pragas das frutíferas: Descrição, biologia, danos e controle das principais
+    pragas.
+
+    15 Pragas das hortaliças, com ênfase em Solanáceas - descrição, biologia, danos
+    e controle.'
+  course_name: 'LEA0430 - Pragas das Plantas Cultivadas
+
+    Pest of Crop Plants'
+  deactivation: ''
+  instructors: '57056 - Joao Roberto Spotti Lopes
+
+    2549718 - Jose Mauricio Simoes Bento
+
+    3199683 - Pedro Takao Yamamoto'
+  lecture_credits: '4'
+  objectives: Dar aos alunos conhecimentos gerais sobre as principais pragas das plantas
+    cultivadas, incluindo, reconhecimento, biologia, levantamento de infestação (métodos
+    de amostragem) e alternativas de controle, para possibilitar ao aluno condições
+    de solucionar, na vida prática, os principais problemas de pragas das culturas.
+    Dar condições ao aluno de fazer o Receituário Agronômico e Manejo das Pragas.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209045442'
+digest: KTCTB24RBTGS3X3ETQOB7Q3DBP467RR2
+updated_at: '20231209045442'
+url: https://web.archive.org/web/20231209045442id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0430&codcur=11010&codhab=0
