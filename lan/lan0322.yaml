@@ -1,0 +1,57 @@
+courses:
+  activation: 01/01/2022
+  assessment: Conforme calendário da Universidade de São Paulo.
+  bibliography: 'Básica:
+
+    R. K. Owusu-Apenten. Introduction to food chemistry. Boca Raton CRC Press, 2005
+
+    Fennema,Owen R.,Parkin,Kirk L.,Damodaran,Srinivasan . Química de Alimentos. 4ª
+    Ed. 2010.
+
+    Florinda O. Bobbio e Paulo A. Bobbio. Introdução à Química de Alimentos. Varela,
+    1992.
+
+    Complementar:
+
+    H.-D. Belitz (Hans-Dieter) W Grosch (Werner); Peter Schieberle. Food Chemistry,
+    Berlin Springer, 2009.
+
+    Artigos científicos na área de Química de Alimentos'
+  course: '1. Composição química de alimentos. Água e Gelo: atividade de água, isotermas
+    de sorção de água em
+
+    alimentos, mobilidade molecular e transições de fase em alimentos. Sistemas dispersos.
+    2. Reologia. 3.
+
+    Lipídios: composição e propriedades químicas de lipídeos; 4. Proteínas: tipos
+    e propriedades e alterações
+
+    químicas. 5. Carboidratos: composição e propriedades químicas; oxidação e redução
+    de carboidratos; 6.
+
+    Reação de Maillard e Caramelização; Sacarose e doçura relativa de carboidratos;
+    6. Amido, gelatinização e
+
+    sinérise; Amidos modificados: química e propriedades funcionais; 7. Aplicações
+    de celulose e hemicelulose
+
+    em alimentos; Pectinas. 8. Química do sabor e do aroma em alimentos. 9. Cor de
+    alimentos: fundamentos
+
+    e aplicações.'
+  course_name: 'LAN0322 - Química de Alimentos
+
+    Food Chemistry'
+  deactivation: ''
+  instructors: 5023119 - Severino Matias de Alencar
+  lecture_credits: '4'
+  objectives: Estudo da estrutura e propriedades dos componentes químicos majoritários
+    em alimentos, visando o conhecimento de suas aplicações na área de ciência de
+    alimentos.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209045404'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20231209045404'
+url: https://web.archive.org/web/20231209045404id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN0322&codcur=11010&codhab=0
