@@ -1,0 +1,76 @@
+courses:
+  activation: 01/01/2016
+  assessment: A disciplina não oferece atividade ou prova de recuperação.
+  bibliography: "Associação Brasileira de Criadores de Suínos [ABCS]. 2014. Produção\
+    \ de Suínos: Teoria e prática. ABCS, Brasília, DF.\nBaldisserotto, B. e L.C. Gomes.\
+    \ 2010. Espécies Nativas para Piscicultura no Brasil. 2ed. Editora da UFSM, Santa\
+    \ Maria, RS.\nBaldisserotto, B., J.E.P. Cyrino, e E.C. Urbinati, editores. 2014.\
+    \ Biologia e Fisiologia de Peixes Neotropicais de Água Doce. Fundação de Apoio\
+    \ à Pesquisa, Ensino e Extensão [FUNEP], Jaboticabal, SP.\nBerchieri Jr., A.,\
+    \ E.N. Silva, J. Fábio, L. Sesti, e M.A.F. Zuanaze, editores. 2009. Doenças das\
+    \ Aves. 2ed. Fundação APINCO de Ciência e Tecnologia [FACTA], Campinas, SP.\n\
+    Brown, T. A. 1999. Genética: Um enfoque molecular. 3ed. Editora Guanabara-Koogan.\
+    \ Rio de Janeiro, RJ.\nCyrino, J.E.P., E.C. Urbinati, D.M. Fracalossi e N. Castagnolli,\
+    \ editores. 2004. Tópicos Especiais em Piscicultura de Água Doce Tropical Intensiva.\
+    \ Associação Brasileira de Aquicultura e Biologia Aquática [AQUABIO], Jaboticabal,\
+    \ SP.\nFarah, S.B. 2007. DNA: Segredos e Mistérios. Editora Sarvier, São Paulo,\
+    \ SP.\nFracalossi, D.M. e J.E.P. Cyrino, editores. 2012. NUTRIAQUA \x96 Nutrição\
+    \ e Alimentação de espécies de interesse para a aquicultura brasileira. Ministério\
+    \ da Pesca e Aquicultura, Florianópolis, SC.\nKinghorn, B., J. van der Werf e\
+    \ M. Ryan. 2006. Melhoramento Animal: Uso de novas tecnologias. Fundação de Estudos\
+    \ Agrários Luiz de Queiroz [FEALQ], Piracicaba. SP.\nLodish, H., A. Berk, P. Matsudaira,\
+    \ C.A. Kaiser, M. Krieger, M.P. Scott, L. Zipursky e J. Darnell. 2005. Biologia\
+    \ Celular e Molecular. 5ed. Artmed, Porto Alegre, RS.\nMacari, M. e A.A. Mendes,\
+    \ editores. 2005. Manejo de Matrizes de Corte. Fundação APINCO de Ciência e Tecnologia\
+    \ [FACTA], Campinas, SP.\nMalacinski, G.M. 2005. Fundamentos de Biologia Molecular.\
+    \ 4ed. Editora Guanabara-Koogan. Rio de Janeiro, RJ.\nMacari, M., A.A. Mendes,\
+    \ J.F.M. Menten e I.A. Nääs, editores. 2014. Produção de Frangos de Corte. 2ed.\
+    \ Fundação APINCO de Ciência e Tecnologia [FACTA], Campinas, SP.\nPierce, B.A.\
+    \ 2004. Genética: Um enfoque conceitual. 3ed. Editora Guanabara-Koogan, Rio de\
+    \ Janeiro, RJ.\nRegitano, L.C. de A. e L.L. Coutinho. 2001. Biologia Molecular\
+    \ Aplicada à Produção Animal. EMBRAPA Informação Tecnológica, Brasília, DF.\n\
+    Sakomura, N.K. J.H.V. Silva, F.G.P. Costa, J.B.K. Fernandes e L. Hauschild. 2014.\
+    \ Nutrição de Não Ruminantes. Fundação de Apoio à Pesquisa, Ensino e Extensão\
+    \ [FUNEP], Jaboticabal, SP.\nSeganfredo, M.A., editor. 2007. Gestão Ambiental\
+    \ na Suinocultura. Editora da EMBAPA, Brasília, DF."
+  course: "Avicultura: evolução das aves industriais; situação atual e perspectivas\
+    \ da avicultura brasileira; estrutura da cadeia produtiva da avicultura no Brasil;\
+    \ produtos e subprodutos avícolas; integração avícola; cruzamentos industriais;\
+    \ planejamento avícola; fatores a serem considerados nas instalações de granjas\
+    \ avícolas; sistemas de criação, manejo e alimentação de frangos de corte, galinhas\
+    \ poedeiras e reprodutores. Piscicultura: caracterização biológica e sistemática\
+    \ das espécies exóticas e nacionais utilizadas em piscicultura; sistemas de produção\
+    \ e regimes de manejo; o conceito de capacidade de sustentação e fundamentos de\
+    \ manejo da qualidade da água para piscicultura; alimentação, nutrição e manejo\
+    \ alimentar de peixes em confinamento; manejo da reprodução \x96 propagação artificial,\
+    \ número efetivo de reprodutores e endocruzamento em populações confinadas. Suinocultura:\
+    \ situação atual e importância econômica da suinocultura brasileira; principais\
+    \ raças de suínos; exterior dos suínos e sistemas de cruzamento industrial em\
+    \ suinocultura; características reprodutivas e sua importância na produção industrial\
+    \ de suínos; manejo da reprodução em suinocultura industrial; manejo do rebanho\
+    \ suíno - marcação; castração; vacinação; desmama, etc. Biotecnologia animal:\
+    \ princípios básicos de engenharia genética; aplicações da biologia molecular\
+    \ e biotecnologia na produção animal; noções de composição corporal; curvas de\
+    \ crescimento, princípios de biologia do crescimento; modo de ação e as aplicações\
+    \ dos reguladores e promotores de crescimento na produção animal. Melhoramento\
+    \ animal: a genética dos caracteres métricos: genes que afetam os caracteres quantitativos;\
+    \ estimação de parâmetros genéticos e do valor genético; os programas de seleção\
+    \ na pesquisa e na prática da produção animal."
+  course_name: 'LZT0419 - Produção Animal I
+
+    Animal production I'
+  deactivation: ''
+  instructors: 2231328 - Urbano dos Santos Ruiz
+  lecture_credits: '2'
+  objectives: Ministrar aos estudantes conhecimentos essenciais sobre os sistemas
+    de produção, alimentos, alimentação e nutrição, reprodução, melhoramento, sanidade,
+    ambiência e conforto e qualidade dos produtos de origem animal, na forma de uma
+    visão global da produção de animais não ruminantes no Estado de São Paulo e no
+    Brasil.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20231209050245'
+digest: ECAWKNL6PKSQ7F6YJQYXHYX76OUTF2VH
+updated_at: '20231209050245'
+url: https://web.archive.org/web/20231209050245id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0419&codcur=11010&codhab=0
