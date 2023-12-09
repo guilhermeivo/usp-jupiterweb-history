@@ -1,0 +1,85 @@
+courses:
+  activation: 01/01/2021
+  assessment: Prova escrita (questões dissertativas) englobando toda a matéria lecionada,
+    dentro do prazo estabelecido pela Comissão de Graduação da ESALQ. A nota final
+    será a média da nota obtida pelo aluno no semestre e a nota da prova de recuperação
+  bibliography: 'Básica:
+
+    REGITANO-D''ARCE, M. A. B., SARTORI, A.G.O.Química e física básica dos lipídeos.
+    In: Alcarde, A.R., Regitano-d’Arce, M.A.B., Spoto, M.H.F. (Org.). Fundamentos
+    de Ciência e Tecnologia de Alimentos. 2ª ed. Barueri: Manole, 2020, v. 1, p. 79-112
+
+    REGITANO-D''ARCE, M. A. B, SARTORI, A.G.O. Deterioração de lipídeos. In: Alcarde,
+    A.R., Regitano-d’Arce, M.A.B., Spoto, M.H.F.. (Org.). Fundamentos de Ciência e
+    Tecnologia de Alimentos. 2ª ed. Barueri: Manole, 2020, v. 1, p. 113-150.
+
+    REGITANO-D''ARCE, M. A. B., SANGALETTI-GERHARD, N. Extração e refino de óleos
+    vegetais. In: Alcarde, A.R., Regitano-d’Arce, M.A.B., Spoto, M. H. F.. (Org.).
+    Fundamentos de Ciência e Tecnologia de Alimentos. 2ª ed. Barueri: Manole, 2020,
+    v. 1, p. 151-196.
+
+    REGITANO-D''ARCE, M. A. B., SARTORI, A.G.O., BORGES, L.B.B., SANGALETTI-GERHARD,
+    N. Emulsões, gorduras e aplicações. In: Alcarde, A.R., Regitano-d’Arce, M.A.B.,
+    Spoto, M. H. F.. (Org.). Fundamentos de Ciência e Tecnologia de Alimentos. 2ª
+    ed. Barueri: Manole, 2020, v. 1, p. 197-248.
+
+    REGITANO-D''ARCE, M. A. B., BORGES, L.B.B. Produtos protéicos de soja. In: Alcarde,
+    A.R.,, Regitano-d’Arce, M. A. B., Spoto, M. H. F.. (Org.). Fundamentos de Ciência
+    e Tecnologia de Alimentos. 2ª ed. Barueri: Manole, 2020, v. 1, p. 249-285.
+
+    REGITANO-D''ARCE, M. A. B. ; VIEIRA, T. M. F. S. FUENTES DE ACEITES Y GRASAS.
+    In: Block, J. M; Barrera-Arellano, D. (Org.). Temas Selectos en Aceites y Grasas
+    - Volumen 1/ Procesamiento. 1a ed. São Paulo: Editora Blucher, 2009, v. 1, p.
+    1-29.
+
+    Complementar:
+
+    AKOH, C. ; MIN, D. Food lipids : chemistry, nutrition, and biotechnology. 3rd
+    ed Boca Raton: CRC Press/Taylor & Francis Group, 2008. 914 p.
+
+    ANG, C.Y.W.; LIU, K., HUANG, Y.W. Asian Foods: Science and Technology. Lancaster:Technomic
+    Publ. Co., 1999. 546p.
+
+    MCCLEMENTS, D.J., DECKER, E.A. Lipídeos. Em: Damodaran, S.; Parkin, K.L. (ed.)
+    Química de alimentos de Fennema. 5ª Ed. Porto Alegre: Artmed, 2019. p. 175-238.
+
+    BOSKOU, D.; ELMADFA, I. Frying of food: oxidation, nutrient and non-nutrient antioxidants,
+    biologically active compounds, and high temperatures. Lancaster, Pa.: Technomic
+    Pub. Co. 1999. 276 p
+
+    AOCS. Official Methods and Recommended Practices of the American Oil Chemists’
+    Society. Champaign: AOCS Press, 2003.'
+  course: '1. Química básica de lipídeos: estrutura e propriedades físico-químicas
+    de triacilgliceróis; componentes menores e sua importância tecnológica: tocoferóis,
+    esteróis, fosfolipídeos, ceras e outras substâncias acompanhantes; 2. Propriedades
+    físicas das matérias graxas: ponto de fusão e cristalização, curva de sólidos;
+    3. Deterioração hidrolítica, oxidativa e métodos de conservação; 4. Parâmetros
+    analíticos de qualidade e de identidade de óleos e gorduras: índice de acidez,
+    índice de peróxido, estabilidade oxidativa em Rancimat, absortividade na faixa
+    do UV, matéria insaponificável, índice de iodo, índice de saponificação, composição
+    em ácidos graxos. Aulas práticas para determinações analíticas em óleos vegetais.
+    5. Processos de extração de óleos e gorduras em pequena e grande escala; 6. Refino
+    e hidrogenação de óleos vegetais; 7. Embalagens para óleos vegetais; 8. Gestão
+    de resíduos na indústria de óleo de soja; 9. Farelos, concentrados e isolados
+    proteicos vegetais e produtos tradicionais de soja; 10. Cacau e chocolate; 11.
+    Emulsões alimentícias, maionese e margarina; 12. Interesterificação química e
+    enzimática e fracionamento de óleos e gorduras. Processamento dos cereais (trigo,
+    milho, arroz e outros). Princípios químicos e físicos envolvidos no processamento
+    dos cereais.'
+  course_name: 'LAN0155 - Produtos de Origem Vegetal II
+
+    Oils, Fats, Oilseeds and By-products'
+  deactivation: ''
+  instructors: 5023119 - Severino Matias de Alencar
+  lecture_credits: '4'
+  objectives: 'Capacitar os alunos a: 1. Atuar com pensamento crítico e embasamento
+    científico na tecnologia de alimentos lipídicos de origem vegetal e animal e proteicos
+    de origem vegetal. 2. Desenvolver ou melhorar alimentos de bases lipídica e proteica
+    de origem vegetal. 3.Atuar no processamento de cereais, com embasamento científico.'
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20231209045719'
+digest: 3CFJ7BKMEJIVY46SO2WRSGUP6XOWUIXR
+updated_at: '20231209045719'
+url: https://web.archive.org/web/20231209045719id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN0155&codcur=11010&codhab=0
