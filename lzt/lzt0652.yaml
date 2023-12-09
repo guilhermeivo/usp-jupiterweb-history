@@ -1,0 +1,31 @@
+courses:
+  activation: 01/01/2021
+  assessment: Prova escrita englobada toda a matéri lecionada no semestre
+  bibliography: "BÁSICA:\n- PEIXOTO, A.M., MOURA, J.C. & FARIA, V.P., 1986. Bovinocultura\
+    \ Leiteira. Fundamentos da Exploração Animal. Fundação de Estudos Agrários Luiz\
+    \ de Queiroz, Piracicaba, SP, 326 p.\n- NRC- National Research Council. Nutrient\
+    \ requirements of dairy cattle. 7th ed. Washington, D.C.: National Academy of\
+    \ Science, 2001\n- VAN HORN, H. H., WILCOX, C.J., 1992. Large Dairy Herd Management\n\
+    COMPLEMENTAR:\n- BOLETIM DO LEITE \x96 CEPEA \x96ESALQ/USP\n- REVISTAS DE DIFUSÃO:\
+    \ DBO LEITE; LEITE INTEGRAL; BALDE BRANCO"
+  course: A disciplina compreende aspectos teóricos e práticos da bovinocultura de
+    leite com ênfase na manipulação de fatores produtivos. Oferece subsídios para
+    a criação de bovinos leiteiros e para  entendimento do mercado. Enfatiza a necessidade
+    da aplicação de tecnologia para obtenção de resultados econômicos positivos. Fornece
+    elementos para o planejamento e instalação de fazendas produtivas.
+  course_name: 'LZT0652 - Manejo de Bovinos Leiteiros
+
+    Dairy Cattle Management'
+  deactivation: 31/12/2023
+  instructors: 502809 - Carla Maris Machado Bittar
+  lecture_credits: '4'
+  objectives: Analisar o setor leiteiro do  país e caracterizar fatores limitantes  à
+    economia do processo. Capacitar o estudante para o planejamento  e condução  de
+    uma empresa produtora de leite.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209045753'
+digest: D3JMO2LR7R67CILD76P7CEOE64MRESBB
+updated_at: '20231209045753'
+url: https://web.archive.org/web/20231209045753id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0652&codcur=11010&codhab=0
