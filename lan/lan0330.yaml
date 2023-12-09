@@ -59,7 +59,7 @@ courses:
     Veiculadas por Alimentos
 
     Food Microbiology and Epidemiology of Foodborne Illnesses'
-  deactivation: ''
+  deactivation: 31/12/2023
   instructors: 7643900 - Daniele Fernanda Maffei
   lecture_credits: '8'
   objectives: Propiciar o aprendizado de conceitos de microbiologia dos alimentos.
@@ -79,8 +79,8 @@ courses:
   practical_credits: '1'
   total_workload: 150 h
   type: Semestral
-created_at: '20231201195423'
-digest: F35BFPCZWNYFXBEHY4UQ4MGODFEMQEP4
+created_at: '20231209045814'
+digest: 5BRHI7T3QMYCRVNNOLKK34EFJLRJVOOH
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 7'
   requirements:
@@ -102,5 +102,5 @@ requirements:
   - code: LFN0225
     name: Microbiologia Geral
     type: Requisito
-updated_at: '20231201195423'
-url: https://web.archive.org/web/20231201195423id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LAN0330
+updated_at: '20231209045814'
+url: https://web.archive.org/web/20231209045814id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN0330&codcur=11010&codhab=0
