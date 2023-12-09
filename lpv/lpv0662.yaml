@@ -1,0 +1,62 @@
+courses:
+  activation: 01/01/2007
+  assessment: Não há recuperação
+  bibliography: 'AYERS, R.S. A qualidade da água na agricultura. R.S. AYERS, D. W.
+    WESTCOT; Tradução de H.R. CHEYI, J.F. de MEDEIROS, F.A.V. Damasceno, 29 Revisado
+    1.
+
+    BERNARDO, S.  Manual de Irrigação, 2a. ed. Viçosa, UFV, Imrp. Univ. 1982. 463
+    p.
+
+    CRUCIANI, D.E. A drenagem na agricultura. São Paulo, Nobel, 1986. 337 p.
+
+    DOURADO NETO, D. & van LIER, Q. de J. Curva de retenção de água no solo: logaritmo
+    em QuickBasic para estimativa dos parâmetros empíricos do modelo de GENUCHTEN.
+    Piracicaba, ESALQ/ USP, 1991.
+
+    DOURADO NETO, D. & van LIER, Q. de J. Programa para elaboração do balanço hídrico.
+    Piracicaba, ESALQ/USP, 1991.
+
+    KOPPEN, W.  Climatologia con un estudio de los climas de la tierra. México, Fondo
+    de Cultura Econômica, 1948. (Versión directa de PÉREZ, P.R.H.).
+
+    OMETTO, J.C.  Bioclimatologia Vegetal. São Paulo, Ed. Agronômica Ceres, 1981.
+    440 p.
+
+    REICHARDT, K.  Processos de Transferência no Sistema Solo-Planta-Atmosfera. 4a.
+    ed. rev. e ampliada. Campinas, Fundação Cargill, 1985. 466 p.'
+  course: '3. PROGRAMA ANALÍTICO: Histórico da área irrigada no Brasil e no mundo.
+    Clima das regiões produtoras do Brasil. Fontes de suprimento de água. Propriedade
+    físico-hídricas dos principais solos brasileiros. Principais métodos de irrigação
+    e suas adequações em função das culturas. Feijão irrigado. Milho Irrigado. Umidade
+    de manejo. Modelos estatísticos e deterministicos para previsão de safra em condições
+    de agricultura irrigada. Manejo da irrigação: Métodos de controle de irrigação.
+    Irrigação por sulcos.  Ciclo vegetativo da planta e a necessidade de água. Método
+    conjugado. Análise quantitativa de crescimento. Distribuição do sistema radicular
+    das plantas. Sistema condutor de água na planta. Principais fatores que afetam
+    a absorção. Abertura e fechamento dos estômatos. Transpiração. Evapotranspiração.
+    Evapotranspiração máxima e real da cultura. Coeficiente de eficácia de produtividade.
+    Desenvolvimento relativo, temperatura basal e índice térmico da cultura de interesse.
+    Estimativa do armazenamento diário de água no solo, da lâmina mínima e máxima
+    de irrigação. Aplicabilidade do método. Exemplo prático para às culturas de milho
+    e feijão.  Quimigação: Fertirrigação: histórico, vantagens e limitações. Aplicação
+    de fertilizantes via pivô central. Manejo da fertirrigação. Fungigação. Herbigação,
+    Insetigação. Sistema notliada.'
+  course_name: 'LPV0662 - Agricultura Irrigada
+
+    Irrigated Agriculture'
+  deactivation: ''
+  instructors: 60874 - Durval Dourado Neto
+  lecture_credits: '4'
+  objectives: '2. OBJETIVOS:
+
+    a) Compreensão dos princípios de manejo da água e de insumos no sistema solo-planta-clima;
+    b) Aprendizagem da tecnologia de produção vegetal sob regime de irrigação; c)
+    Análise de pesquisa em Agricultura Irrigada.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209045632'
+digest: JQ4F7HR5VM66AZUIINKNILKY7HYJ2N7I
+updated_at: '20231209045632'
+url: https://web.archive.org/web/20231209045632id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0662&codcur=11010&codhab=0
