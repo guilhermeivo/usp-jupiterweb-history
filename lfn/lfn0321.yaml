@@ -1,0 +1,53 @@
+courses:
+  activation: 01/01/2010
+  assessment: Não há prova de recuperação.
+  bibliography: 'Pelczar, M.J.; Chan, E.C.S., Krieg, N.R. Microbiologia: conceitos
+    e aplicações. Volumes I e II. Makkron Books, 1996.
+
+    Lacaz-Ruiz, R. Manual Prático de Microbiologia Básica. EDUSP, 2000.
+
+    Madigan, M.T.; Martinko, J.M.; Parker, J. Brock Biology of Microorganisms. 9th
+    ed. Prentice Hall, 2000.'
+  course: 'Teórico:
+
+    Os cinco períodos da história da Microbiologia. Análise comparativa dos sistemas
+    de classificação de Whittaker e Woese. Seqüências gênicas como cronômetros evolutivos.
+    Achaea e Eubacteria:. Bactérias como ancestrais de organelas celulares: a teoria
+    da Simbiogênese. Fungos: características morfológicas, evolutivas, celulares e
+    importância econômica. Classificação de fungos de acordo com critérios básicos
+    em Zygomycetes, Oomycetes, Basidiomycetes, Ascomycetes, fungos mitospóricos e
+    Myxomycetes. Vírus, viróides e príons. Cultivo de microorganismos: meios de cultura.
+    Controle químico e físico de microorganismos. Técnicas de assepsia e esterilização.
+    Associações microbianas de interesse agronômico e florestal: parasitas e simbiontes.
+    Microorganismos e alimentos: fermentações. Microbiologia da água. Utilização de
+    genes de microorganismos em biotecnologia. Organismos geneticamente modificados
+
+    Prático:
+
+    Técnicas de microscopia óptica para exame de fungos e bactérias; bactérias: motilidade,
+    morfologia e métodos de coloração; fungos: características morfológicas de representantes
+    dos principais grupos; esterilização; meios de cultura: tipos e preparação; cultivo
+    de bactérias e fungos; fatores que influenciam o desenvolvimento de fungos: fontes
+    de nitrogênio, temperatura e luz; efeito de agentes físicos (pressão osmótica
+    e temperatura) e químicos sobre os microrganismos; nutrição: papel das exoenzimas;
+    relações entre microrganismos: antagonismos microbianos e associações simbióticas
+    com plantas; microbiologia da água: tratamento da água e análise sanitária.'
+  course_name: 'LFN0321 - Microbiologia
+
+    Microbiology'
+  deactivation: ''
+  instructors: 1505492 - Nelson Sidnei Massola Júnior
+  lecture_credits: '4'
+  objectives: '- Fornecer informações taxonômicas básicas sobre os principais grupos
+    de microorganismos (fungos, bactérias, protozoários, vírus, viróides e príons)
+    e destacar sua importância para as Ciências Agronômicas e Florestais com exemplos
+    pertinentes a estas áreas.
+
+    -Capacitar o aluno em técnicas elementares de microbiologia'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209050425'
+digest: P62HNQ63HY53QH3ZVFUJQGNIMMYIX4VS
+updated_at: '20231209050425'
+url: https://web.archive.org/web/20231209050425id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LFN0321&codcur=11010&codhab=0
