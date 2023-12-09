@@ -1,0 +1,59 @@
+courses:
+  activation: 01/01/2016
+  assessment: A disciplina não oferece atividade ou prova de recuperação.
+  bibliography: "1.\tANDRIGUETTO, J.M. et al. Nutrição Animal. Vol. 1. As Bases e\
+    \ Fundamentos da Nutrição Animal. 1982.\n2.\tANDRIGUETTO, J.M. et al. Nutrição\
+    \ Animal. Vol. 2. Nutrição Animal Aplicada. 1982.\n3.\tBERCHIELLI, T.T ; PIRES,\
+    \ A.V. ; OLIVEIRA, S.G. (ed.). Nutrição de Ruminantes. 1. ed. Jaboticabal: FUNEP,\
+    \ 2006. v. 1. 583 p.\n4.\tBOLETIM DO LEITE \x96 CEPEA \x96ESALQ/USP\n5.\tFALCONI,\
+    \ V.C. Gerenciamento da rotina do trabalho do dia-a-dia. Belo horizonte: Ed. Desenvolvimento\
+    \ Gerencial, 1998. 276p.\n6.\tLUCCI, C.S. Nutrição e Manejo de Bovinos Leiteiros.\
+    \ Editora Manole Ltda. 1997.\n7.\tMACHADO, P.F.; CASSOLI, L.D. Gestão de explorações\
+    \ leiteiras. Piracicaba; ESALQ, Clínica do Leite, 2006. 175p.\n8.\tMAYNARD L.A.,\
+    \ LOOSLI, J.K., HINTZ, H.F. E WARNER, R.G. Nutrição Animal. 1989.\n9.\tMORAND-FEHR,\
+    \ P. (Ed). 1991. Goat Nutrition. Wageningen, Netherlands, 308 p.\n10.\tNRC- National\
+    \ Research Council. Nutrient requirements of dairy cattle. 7th ed. Washington,\
+    \ D.C.: National Academy of Science, 2001\n11.\tNRC. National Research Council.\
+    \ 2007. Nutrient Requirements of Small Ruminants: Sheep, Goats, Cervids, and New\
+    \ World Camelids. National Academy Press. Washington, D.C. 384p.\n12.\tNRC. Nutrient\
+    \ Requirements of Dairy Cattle. National Academy Press. Washington, D.C., 2001.\n\
+    13.\tPEIXOTO, A.M. , MOURA, J.C. & FARIA, V.P. Bovinocultura de Corte, 2ed. 1993.\
+    \ Fundação de Estudos Agrários Luiz de Queiroz - FEALQ.\n14.\tREVISTAS DE DIFUSÃO:\
+    \ DBO; DBO LEITE; LEITE INTEGRAL; BALDE BRANCO\n15.\tRIBEIRO, S.D.A. 1998. Caprinocultura.\
+    \ Criação Racional de Caprinos. Editora Nobel S.A. 318p.\n16.\tSILVA SOBRINHO,\
+    \ A. G. (Ed). 1996. Nutrição de ovinos. FUNEP, Jaboticabal, SP.\n17.\tVAN HORN,\
+    \ H. H., WILCOX, C.J., 1992. Large Dairy"
+  course: 'Bovinocultura leiteira: situação atual e perspectivas da produção de leite
+    no Brasil; Sistemas de produção de leite: raças, cruzamento e melhoramento de
+    animais leiteiros; sistemas de criação, manejo e alimentação de animais em crescimento
+    e animais adultos; manejo sanitário do rebanho e de instalações; avaliação da
+    qualidade do leite; gestão da produção de leite.
+
+    Bovinocultura de corte: situação atual e perspectivas da produção de carne no
+    Brasil; Sistemas de produção de gado de corte: raças e cruzamento, sistemas de
+    criação, manejo e alimentação de animais em crescimento e animais em terminação;
+    manejo sanitário do rebanho e de instalações; qualidade da carne; gestão da produção
+    de bovinos de corte.
+
+    Caprinocultura e ovinocultura: situação atual e perspectivas da produção de caprinos
+    e ovinos no Brasil; Sistemas de produção de pequenos ruminantes: raças e cruzamento,
+    sistemas de criação, manejo e alimentação de animais em crescimento e animais
+    em terminação; manejo sanitário do rebanho e de instalações; qualidade da carne
+    e do leite.'
+  course_name: 'LZT0420 - Produção Animal II
+
+    Animal production II'
+  deactivation: ''
+  instructors: 3628090 - Gerson Barreto Mourão
+  lecture_credits: '2'
+  objectives: Ministrar aos estudantes conhecimentos essenciais sobre os sistemas
+    de produção, alimentos, alimentação e nutrição, reprodução, melhoramento, sanidade,
+    ambiência e conforto e qualidade dos produtos de origem animal, na forma de uma
+    visão global da produção de animais ruminantes no Estado de São Paulo e no Brasil.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20231209045900'
+digest: 6CFWJN2MVMFEL6545XXNWSKGM5PXC22Q
+updated_at: '20231209045900'
+url: https://web.archive.org/web/20231209045900id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0420&codcur=11010&codhab=0
