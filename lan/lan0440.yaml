@@ -1,0 +1,71 @@
+courses:
+  activation: 01/01/2019
+  assessment: Prova escrita englobando toda a matéria lecionada, dentro do prazo estabelecido
+    pela Comissão de Graduação da ESALQ. A nota final será a média da nota obtida
+    pelo aluno no semestre e a nota da prova de recuperação.
+  bibliography: "AMIOT, J. Ciência y Tecnologia de La Leche. Ed. Acribia, Zaragosa,\
+    \ 547 p. 1991.\nBARUFFALDI, R.; OLIVEIRA, M.N. Fundamentos de tecnologia de alimentos.\
+    \ São Paulo: Atheneu. v.3., 317 p., 1998.\nBEHMER, M.L.A. Tecnologia do leite.\
+    \ Ed. Nobel. São Paulo, 3 ed., 321 p. 1984.\nFERRAZ de ARRUDA, L.; OETTERER, M.\
+    \ Silagem ácida- uma alternativa para aproveitamento do resíduo do processamento\
+    \ do pescado. Revista Aqüicultura & Pesca. v 2., n.14., p.30-33, 2005.\nFRAZIER,\
+    \ W.C.; WESTHOFF, D.C. Microbiología de los alimentos. 4 ed. Zaragoza: Acribia,\
+    \ 1993. 681 p.\nGALVÃO, J.A.; OETTERER, M. Qualidade e processamento de pescado.\
+    \ Rio de Janeiro: Elsevier, 2014, 237 p.\nHEDRICK, H.B.  et all  Principles of\
+    \ meat science.  Dubuque, Iowa: Kendall/Hunt, c 1994.  3rd ed; v, 354 p,\nJAY,\
+    \ J.M. Microbiología moderna de los alimentos. 3 ed. Zaragoza: Acribia, 1992.\
+    \ 804 p.\nODONEZ, J.A. Tecnologia de Alimentos. Volume I, Porto Alegre, Atmed,\
+    \ 2005. 294p.\nOETTERER, M.; Industrialização do pescado cultivado. Guaíba: Editora\
+    \ Agropecuária, 2002,200 p.\nOETTERER, M. Proteínas do pescado- Processamentos\
+    \ com intervenção na fração protéica. In: OETTERER, M; D´ARCE, M.A.B.R.; SPOTO,\
+    \ M.H.F. Fundamentos de Ciência e Tecnologia de Alimentos. Barueri, SP: Manole.\
+    \ 2005 p. 99-134.\nPEARSON, A.M.    Processed meats.  3 ed.,  New York: Chapman\
+    \ & Hall, c 1996; 448 p.\nSILVA, J.A. Tópicos da Tecnologia de Alimentos, São\
+    \ Paulo, Varela, 2000. 227p.\n1.\tBOERMA, H. R.; Specht, J. E. Soybeans improvement,\
+    \ production, and uses.  3rd ed.  Madison, Wis, American Society of Agronomy,\
+    \ Crop Science Society of America, Soil Science Society of America, 2004. xxv,\
+    \ 1144 p.\n2.\tCÂMARA, G.M. et al.  Mandioca - pré-processamento e transformação\
+    \ agroindustrial. São Paulo. Secretaria da Indústria, Comércio, Ciência e Tecnologia.\
+    \ 1982.\n3.\tCÂMARA, G.M. et al.  Soja - produção, pré-processamento e transformação\
+    \ agroindustrial.  São Paulo. Secretaria da Indústria, Comércio, Ciência e Tecnologia.\
+    \ 1982.\n4.\tCASTRO, A. M. G.; Lima, S. M. V.; Silva, J. F. V. Complexo agroindustrial\
+    \ de biodiesel no Brasil competitividade das cadeias produtivas de matérias-primas.\
+    \  Brasília, Embrapa Agroenergia, 2010. 712 p\n5.\tCHITARRA, M.I.F.; CHITARRA,\
+    \ A.B. Pós-colheita de frutas e hortaliças: fisiologia e manejo.  2ed.  Lavras,\
+    \ UFLA, 2005.  185p.\n6.\tFANCELLI, A.L. & LIMA, U. A. Milho-produção, pré-processamento\
+    \ e transformação agroindustrial.  São Paulo. Secretaria da Indústria, Comércio,\
+    \ Ciência e Tecnologia. 1982\n7.\tGOMES, J.C.  Legislação de Alimentos e Bebidas.\
+    \ Editora UFV: Viçosa. 2007. 635p\n8.\tJAY, J.M.  Microbiologia de alimentos.\
+    \  6. ed. Porto Alegre: Artmed, 2005, 711 p.\n9.\tKNOTHE, G.; Ramos, L. P. (trad).\
+    \ Manual de biodiesel.  São Paulo, Edgard Blücher, 2009. x, 340 p. Tradução de:\
+    \ The biodiesel handbook.\n10.\tOETTERER, M.; REGITANO-d´ARCE, M.A.B. & SPOTO,\
+    \ M.H.F.  Fundamentos de Ciência e Tecnologia de Alimentos. Ed. Manole, Barueri,\
+    \ SP, 2006.\n11.\tPUZZI, D. Abastecimento e armazenamento de grãos. Instituto\
+    \ Campineiro Ensino Agrícola, 2000. 666p."
+  course: 'Agroindústria: avanços e tendências. Conceitos de qualidade. Alterações
+    microbianas. Princípios e métodos de conservação de alimentos: Pasteurização e
+    Esterilização; Refrigeração e Congelamento Alterações dos alimentos. Procedimentos
+    de manuseio para comercialização e armazenamento. Pós colheita e armazenamento
+    de frutas, hortaliças, raízes e tubérculos. Armazenamento de grãos e fatores que
+    influenciam a pós-colheita de grãos. Micotoxinas e micotoxicoses. Abate e pós-abate
+    de bovinos e suínos. Qualidade e tecnologia de carnes. Pós- captura, conservação
+    e tecnologia do pescado. Processamento de leite e derivados. Normas e regulamentos
+    técnicos na indústria de alimentos.'
+  course_name: 'LAN0440 - Qualidade e Processamento de Alimentos
+
+    Food Quality and Processing'
+  deactivation: ''
+  instructors: 2540671 - Carmen Josefina Contreras Castillo
+  lecture_credits: '2'
+  objectives: 'Ao final da disciplina o aluno deverá ser capaz de: a) compreender
+    os princípios que podem alterar a vida útil das matérias primas alimentares processadas,
+    visando a melhor qualidade e evitando perdas na cadeia produtiva. b) Identificar
+    os principais agentes de alteração de alimentos e produtos alimentícios. c) Identificar
+    e interpretar a legislação da área.'
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209050231'
+digest: ISFMMJMU4BJ56VNADR6BLY65E7XPSZB7
+updated_at: '20231209050231'
+url: https://web.archive.org/web/20231209050231id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN0440&codcur=11010&codhab=0
