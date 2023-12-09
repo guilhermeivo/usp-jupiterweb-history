@@ -1,21 +1,22 @@
 courses:
-  activation: 01/01/2016
+  activation: 01/01/2023
   assessment: Será feita sob a forma de uma prova com duas horas de duração, aplicada
     após o término das aulas, em época determinada pela USP. A média final será a
     média aritmética entre a nota desta prova e a média obtida no semestre.
-  bibliography: 'BÁSICA:
+  bibliography: 'Literatura Básica:
 
     ANDRADE, D.F.; OGLIARI, P. J. Estatística para as ciências agrárias e biológicas
-    com noções de experimentação, 3ª edição. Florianópolis: Editora da UFSC, 2013,
-    478 p.
+    com noções de
 
-    BUSSAB, W.O. ; MORETIN, P.A.  Estatística Básica, 8ª edição. São Paulo: Editora
+    experimentação, 3ª edição. Florianópolis: Editora da UFSC, 2013, 478 p.
+
+    BUSSAB, W.O.; MORETIN, P.A. Estatística Básica, 8ª edição. São Paulo: Editora
     Saraiva. 2013, 548 p.
 
     MAGALHÃES, M.N.; LIMA, A.C. P de. Noções de Probabilidade e Estatística. 7ª ed.
     São Paulo: Editora EDUSP, 2013. 428p.
 
-    COMPLEMENTAR
+    Literatura Complementar:
 
     MOORE, D. S. A estatística básica e sua prática. (Tradução e revisão técnica de
     Ana Maria Lima de Farias e Vera Regina Lima de Farias e Flores). 6ª ed. Rio de
@@ -24,10 +25,7 @@ courses:
     HOFFMANN, R.. Estatística para Economistas. 4ª ed. São Paulo: Pioneira T. L. 2006.
     v. 1. 432 p.
 
-    MILONE, G. Estatística Geral e Aplicada. São Paulo: Thomson Learning 2006, 483p.
-
-    ZOCCHI, S.S.; LEANDRO, R.A., 1999.  Notas para acompanhar a disciplina LCE-211-Estatística
-    Geral. ESALQ-USP, Piracicaba, S. P.'
+    MILONE, G. Estatística Geral e Aplicada. São Paulo: Thomson Learning 2006, 483p.'
   course: '1. Estatística Descritiva. Representação tabular e gráfica de populações
     ou amostras de variáveis discretas e contínuas; histogramas, polígono de freqüências
     e ogiva de Galton. 2. Medidas de posição e dispersão: cálculo a partir dos dados
@@ -48,7 +46,25 @@ courses:
 
     General Statistics'
   deactivation: ''
-  instructors: 93551 - Sonia Maria de Stefano Piedade
+  instructors: '2769022 - Clarice Garcia Borges Demetrio
+
+    5542817 - Cristian Marcelo Villegas Lobos
+
+    2553644 - Edwin Moises Marcos Ortega
+
+    2688982 - Gabriel Adrian Sarries
+
+    2146622 - Idemauro Antonio Rodrigues de Lara
+
+    7107996 - Marcelo Andrade da Silva
+
+    5551088 - Renata Alcarde Sermarini
+
+    58832 - Silvio Sandoval Zocchi
+
+    93551 - Sônia Maria De Stefano Piedade
+
+    7023989 - Taciana Villela Savian'
   lecture_credits: '4'
   objectives: Contribuir para a formação científica dos alunos de Engenharia Agronômica
     por meio de fundamentos básicos que possam habilitá-los na Análise Qualitativa
@@ -57,13 +73,13 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20211024220602'
-digest: DDPYRYMJCWL5GAPEKWH734GPQHR4RFST
+created_at: '20231209045449'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 3'
   requirements:
   - code: LCE0220
     name: Cálculo II
     type: Requisito
-updated_at: '20211024220602'
-url: https://web.archive.org/web/20211024220602id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCE0211
+updated_at: '20231209045449'
+url: https://web.archive.org/web/20231209045449id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0211&codcur=11010&codhab=0
