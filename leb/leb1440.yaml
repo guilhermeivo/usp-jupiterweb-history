@@ -1,0 +1,87 @@
+courses:
+  activation: 01/01/2020
+  assessment: Não há recuperação.
+  bibliography: 'Literatura Básica:
+
+    CRUCIANI, D.E.  A Drenagem na Agricultura.  São Paulo, Ed. Nobel, 1986.  337p.
+
+    DUARTE, S.N.; SILVA, E.F.F.; MIRANDA, J.H.; MEDEIROS, J.F.; COSTA, R.H.T.; GHEYI,
+    H.R.  Fundamentos de drenagem agrícola, INCT Sal, Fortaleza, 2015. 338 p.
+
+    PINTO, N.L.S.; HOLTZ, A.C.T.; MARTINS, J.A.; GOMIDE, F.L.S.   Hidrologia Básica.  São
+    Paulo, E.  Blücher, 1976.
+
+    TUCCI, C. E. M. (Org.)  Hidrologia.  Editora UFRG/ EDUSP/ ABRH.  Porto Alegre.
+    1993.
+
+    SILVA, E.F. de F., GHEYI, H.R., MIRANDA, J.H. de, MEDEIROS, J.F. de, DUARTE, S.N.
+    Controle de Águas Naturais. Departamento de Engenharia de Biossistemas, ESALQ/USP.
+    (Série Didática, 019), Piracicaba, 2015, 353 p.
+
+    SOUSA, A. B. O. de, et al. Hidrologia. Departamento de Engenharia de Biossistemas,
+    ESALQ/USP. (Série Didática, 018 – 2ª Edição), Piracicaba, 2014, 457 p.
+
+    Literatura Complementar:
+
+    CRUCIANI, D.E.  Hidrologia.  Apostila.  Centro Acadêmico "Luiz de Queiroz"/USP.  Piracicaba,
+    1987.
+
+    DEPARTAMENTO DE ÁGUAS E ENERGIA ELÉTRICA DO ESTADO DE SÃO PAULO - DAEE. Estudo
+    de Águas Subterrâneas.  São Paulo.  1972-1982.
+
+    LINSLEY, R.K.; KOHLER, M.A.; PAULHUS, J.L.  Hidrology for engineers. MacGraw-Hill,  N.
+    York,  1979.
+
+    LINSLEY, R.K. & FRANZINI, J.  Engenharia de Recursos Hídricos. MacGraw-Hill/USP.  São
+    Paulo. 1978.
+
+    RITZEMA, H.P.  Drainage principles and applications.  ILRI Publication 16, 2nd
+    Ed.  Wageningen, The Netherlands.  1994.
+
+    SCHILFGAARDE, J.V.  Drainage for agriculture. American Society of Agronomy, monograph
+    17, Madison, USA. 1974.  800p.
+
+    SCHWAB, G.O. et alii. Soil and water conservation engineering. John  Wiley. N.
+    York, 1993.
+
+    TODD, D.K.  Hidrologia de Águas Subterrâneas.  USAID.  Rio de  Janeiro.  1967.'
+  course: I – HIDROLOGIA – Introdução. Importância e aplicações da Hidrologia nas
+    diferentes atividades da Engenharia, no manejo e utilização de recursos hídricos
+    e no controle das águas naturais. Ciclo hidrológico. Chuvas, características e
+    distribuição, chuvas intensas. Bacias hidrográficas. Cursos d’água, enchentes
+    e estiagens. Demanda de água e disponibilidade dos recursos hídricos. Planejamento
+    e manejo. Estudos hidrológicos para dimensionamento de reservatórios. Água subterrânea,
+    aquíferos, tipos e propriedades. Hidráulica de poços. Qualidade das águas. Legislação
+    para a gestão dos Recursos Hídricos. Previsão de eventos hidrológicos extremos,
+    máximos e mínimos. Frequência, probabilidade e tempo de retorno. Métodos de análise.
+    Escoamento superficial (Runoff). Condições de ocorrência, caracterização e previsão
+    para projetos. Picos de descarga. Método Racional. Método de I-Pai-Wu. Dimensionamentos.
+    II.  DRENAGEM – A diversidade dos problemas de drenagem e sua interação com a
+    Hidrologia. Caracterização e controle do excesso de água em regiões úmidas. Caracterização
+    e controle da salinidade em regiões áridas. Estudos básicos para a elaboração
+    de projetos de drenagem. Caracterização dos fatores intervenientes da Hidrologia,
+    do Solo, da Fisiologia Vegetal, da Hidráulica e do Geoprocessamento. Drenagem
+    superficial, conservação do solo. Sistemas típicos e dimensionamentos. Projeto
+    de drenagem superficial. Drenagem subterrânea. Aspectos teóricos do fluxo saturado
+    no solo e equações para o cálculo do espaçamento de drenos. Sistemas característicos
+    e condições de operação. Tipos de drenos, materiais e equipamentos. Procedimentos
+    para a elaboração de um projeto de drenagem integrado, superficial e subterrâneo.
+  course_name: 'LEB1440 - Hidrologia e Drenagem
+
+    Hydrology and Drainage'
+  deactivation: ''
+  instructors: '711726 - Fernando Campos Mendonça
+
+    52753 - Sergio Nascimento Duarte'
+  lecture_credits: '4'
+  objectives: Capacitar o aluno para o diagnóstico e a solução de problemas relacionados
+    ao manejo de recursos hídricos, bem como para a elaboração de pequenos projetos
+    que visem a utilização e o controle das águas naturais, nas várias atividades
+    profissionais da Engenharia Agronômica.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209050455'
+digest: EU6QJUZ75B52E673Z2QABLKV33JAWA5N
+updated_at: '20231209050455'
+url: https://web.archive.org/web/20231209050455id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB1440&codcur=11010&codhab=0
