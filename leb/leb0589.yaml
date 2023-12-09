@@ -1,0 +1,60 @@
+courses:
+  activation: 01/01/2017
+  assessment: Argüição escrita individual referente à matéria dada em sala de aula
+    ou trabalho individual a ser desenvolvido durante o período de recuperação.
+  bibliography: 'CAMPOS, V.C. TQC: gerenciamento da rotina do trabalho do dia a dia.
+    Belo Horizonte, Fundação Cristiano Ottoni.  Escola de Engenharia da UFMG, Rio
+    de Janeiro: Bloch, 1994.
+
+    CHENG, L.C. et al.  QFD: Planejamento da qualidade. Belo Horizonte: UFMG, Escola
+    de Engenharia, Fundação Cristiano Otoni, 1995. 265 pg.
+
+    KUME, H.  Métodos estatísticos para a melhoria da qualidade. Editora Gente. São
+    Paulo, 1993.
+
+    VIANA, H.R.C.  Planejamento e controle da manutenção. Rio de Janeiro: Quaiitymark,
+    2002. 192p.
+
+    WITNEY, B.  Choosing and using farm. machines.  Longman Scientific & Technical
+    Essex, England.  1988.  412p.
+
+    LIKER, J. K. O modelo Toyota: 14 princípios de gestão do maios fabricante do mundo.
+    Porto Alegre: Bookman, 2005.
+
+    MILAN,M., ROSA,J.H.M.  Corte, transbordo e transporte (CTT):  Aspectos relevantes
+    e uso da modelagem para o CTT. In: BELARDO, G.C.,  CASSIA, M.T., SILVA, R.P.,(
+    EDs). Processos agrícolas e mecanização da cana de açúcar. Jaboticabal:  SBEA,2015.
+    p.415-428. ISBN 978-85-64681-06-4.
+
+    TOLEDO,J.C et al. Qualidade: gestão e métodos. LTC, 2012, 340 p; ISBN 978-85-216-2117-1
+    .'
+  course: 'Principais teorias da administração: escola clássica; enfoques comportamental,
+    sistêmico e da qualidade. O modelo Toyota. Planejamento estratégico aplicado a
+    sistemas agroflorestais: conceito de missão, visão e valores; Análise SWOT; desdobramento
+    de políticas; Ciclo PDCA. Gestão de processos agroflorestais: mapeamento e padronização
+    de processos; análise de fluxo de valor; ferramentas da qualidade e sua aplicação
+    nos processos agrícolas; controle de qualidade aplicado a operações agrícolas;
+    FMEA, QFD. Sistemas de informações voltados à mecanização agroflorestal. Planejamento
+    e controle, operacional e econômico, de sistemas mecanizados: modelos aplicados
+    no planejamento; uso de planilhas para modelagem; estudo de tempos e movimentos;
+    cálculo dos custos diretos e indiretos. Planejamento e controle da manutenção
+    de sistemas mecanizados: organização da manutenção; planos de manutenção; planejamento
+    e programação da manutenção; índices de manutenção; 5S''s (house keeping) aplicado
+    à manutenção.'
+  course_name: 'LEB0589 - Gerenciamento de Sistemas Mecanizados
+
+    Management of Agricultural Machinery Systems'
+  deactivation: ''
+  instructors: '2231586 - Leandro Maria Gimenez
+
+    2230585 - Thiago Liborio Romanelli'
+  lecture_credits: '2'
+  objectives: Desenvolver os conceitos de gestão aplicados às áreas agropecuária e
+    florestal, com especial ênfase aos sistemas mecanizados.
+  practical_credits: '2'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20231209051242'
+digest: K2WAZINH6N2VWWLELOBZVZ5NVVBJ3J5O
+updated_at: '20231209051242'
+url: https://web.archive.org/web/20231209051242id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0589&codcur=11010&codhab=0
