@@ -1,0 +1,118 @@
+courses:
+  activation: 01/01/2017
+  assessment: Não há recuperação.
+  bibliography: 'BARGER, E.L.  et ali.  Tratores e seus Motores.  St. Joseph. Ed.
+    Edgard Blucher Ltda.  SP. 398p.
+
+    GADANHA JR., C.D. et ali.  Máquinas e implementos agrícolas do Brasil.  São Paulo,
+    NSI-MA/CIENTEC, 1991.  468p.
+
+    GOERING, C. E.; HANSEN, A. C. Engine and tractor power. 4 ed. St. Joseph: American
+    Society of Agricultural and Biological Engineers, 2004, 483 p.
+
+    MIALHE, L.G.  Máquinas motoras na Agricultura. Vol. I e II. EDUSP, 1980, 289 e
+    367p., respectivamente.
+
+    MIALHE, L.G. Máquinas agrícolas: ensaios & certificação. Piracicaba, SP: Fundação
+    de Estudos Agrários Luiz de Queiroz. 1996. 772p.
+
+    MOLIN, J. P.; AMARAL, L. R.; COLACO, A. F. Agricultura de precisão. 1. ed. São
+    Paulo: Oficina de Textos. 2015. 238p.
+
+    MONTEIRO, L. A.; ALBIERO, D. Segurança na operação com máquinas agrícolas. 1 ed.
+    Fortaleza: Ed. dos autores, 2013. 124 p.
+
+    RIPOLI, T.C.C.; MILAN, M.; MOLIN, J.P.; GADANHA JÚNIOR, C.D.; MOLINA JÚNIOR, W.F.  Mecânica
+    e Máquinas Motoras 05.1 ESALQ-USP, PIRACICABA, 2005. (1CD).
+
+    RIPOLI, T.C.C.; MOLINA JÚNIOR, W.F.; RIPOLI, M.L.C.  Manual Prático do Agricultor
+    – Máquinas Agrícolas  v.1. Ed. Dos autores. Piracicaba, 2005. 192p.
+
+    RIPOLI, T.C.C.; RIPOLI, M.L.C.  Mecânica e Máquinas Agrícolas 1.  Ed. 2006. Piracicaba.
+    ESALQ-USP (1 DVD).
+
+    SRIVASTAVA, A. K.; GOERING, C. E.; ROHRBACH, R. P.; BUCKMASTER, D. R. Engineering
+    principles of agricultural machines. 2 ed. St. Joseph: American Society of Agricultural
+    and Biological Engineers, 2006, 588 p.
+
+    VIANA, H.R.C. Planejamento e controle da manutenção. Rio de Janeiro: Qualitymark,
+    2002. 192p.'
+  course: 'Introdução ao estudo da mecânica e máquinas motoras: importância da mecanização
+    nos sistemas de produção agropecuária atuais, aspectos econômicos e sociais, exemplos
+    aplicados do uso de máquinas na produção de diversos produtos, discussão.
+
+    Conceitos fundamentais de mecânica aplicada a máquinas agrícolas: sistemas de
+    unidades, força, velocidade, trabalho, potência.
+
+    Elementos de máquinas e mecanismos: eixos, engrenagens, polias, relação de engrenagens,
+    roscas transportadoras, rotores.
+
+    Tratores agrícolas: Introdução ao estudo de tratores. Histórico da indústria nacional;
+    produção; modelos; classificação geral quanto à aplicação; chassi; rodados; constituição
+    e aplicações básicas; sistema de direção e freios.
+
+    Motores de combustão interna I. Órgãos fundamentais; princípio de funcionamento.
+
+    Motores de combustão interna II. Combustão e Combustíveis: fenômeno da combustão,
+    combustíveis derivados do petróleo; gasogênio; gás metano; álcool. Sistema de
+    válvulas; sistema de alimentação de motores com carburador; sistema de ignição
+    por centelha.
+
+    Motores de combustão III. Sistema de alimentação de motores diesel; sistema de
+    arrefecimento; sistema de lubrificação.
+
+    Sistema de transmissão de tratores agrícolas I. Introdução a transmissão de potência
+    de tratores agrícolas; embreagem.
+
+    Sistema de transmissão de tratores agrícolas II. Caixa de mudanças de marchas;
+    transmissão final; tomada de potência, condições de equilíbrio estático; transferência
+    de peso.
+
+    Sistemas hidráulicos. Constituição básica; estudo orgânico e funcionamento de
+    sistemas hidráulicos de três pontos e de controle remoto.
+
+    Desempenho de tratores: desempenho da tomada de potência; torque, potência; consumo
+    específico. Desempenho na barra de tração; escalonamento de marchas; interpretação
+    dos resultados de ensaios.
+
+    Automação em tratores: sensores, sistemas de direcionamento, planejamento e controle
+    remoto de operações
+
+    Ergonomia e segurança:  estruturas e equipamentos de proteção; posicionamento
+    de comandos; campo visual; regras de segurança básica.
+
+    Manutenção de máquinas agrícolas: planejamento e controle da manutenção, manutenção
+    corretiva, preventiva e preditiva; organização da manutenção; planos e índices
+    de manutenção; lubrificantes.
+
+    Preparo do trator: reconhecimento do equipamento; comandos e instrumentos; dispositivos
+    de segurança.
+
+    Manejo de tratores: manobras (3)'
+  course_name: 'LEB0332 - Mecânica e Máquinas Motoras
+
+    Mechanics and Power Units in Agriculture'
+  deactivation: ''
+  instructors: '86410 - Casimiro Dias Gadanha Junior
+
+    59531 - Jose Paulo Molin
+
+    2231586 - Leandro Maria Gimenez
+
+    75290 - Marcos Milan
+
+    2230585 - Thiago Liborio Romanelli
+
+    1764359 - Walter Francisco Molina Junior'
+  lecture_credits: '2'
+  objectives: Capacitar os alunos a entender o princípio de funcionamento dos mecanismos
+    e máquinas motoras mais importantes utilizadas no processo de produção agropecuária.
+    Contextualizar o uso de máquinas motoras quanto às novas tecnologias, ao seu preparo
+    para o trabalho, manutenção e operação.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20231209045700'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20231209045700'
+url: https://web.archive.org/web/20231209045700id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0332&codcur=11010&codhab=0
