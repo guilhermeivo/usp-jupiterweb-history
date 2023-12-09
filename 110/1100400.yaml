@@ -11,7 +11,7 @@ courses:
 
     Supervised Internship II'
   deactivation: ''
-  instructors: 1907305 - Thais Maria Ferreira de Souza Vieira
+  instructors: 2230585 - Thiago Liborio Romanelli
   lecture_credits: '0'
   objectives: 'Oferecer ao aluno possibilidades de ampliar e aprofundar os conhecimentos
     adquiridos durante as aulas teóricas e práticas das disciplinas de seu curso,
@@ -32,8 +32,8 @@ courses:
 
     )'
   type: Semestral
-created_at: '20230604140747'
-digest: Y2XWUSWNNSAESJXKFZG2224UNFYM7NS7
+created_at: '20231209045544'
+digest: SB5AFQUQOUW3XH4PKRV4TMZYR4QKNSMH
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 6'
   requirements:
@@ -65,5 +65,5 @@ requirements:
   - code: '1100300'
     name: Estágio Supervisionado I
     type: Requisito
-updated_at: '20230926091252'
-url: https://web.archive.org/web/20230926091252id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=1100400
+updated_at: '20231209045544'
+url: https://web.archive.org/web/20231209045544id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=1100400&codcur=11010&codhab=0
