@@ -1,0 +1,93 @@
+courses:
+  activation: 01/01/2020
+  assessment: Será  realizada 1 (uma) prova de recuperação dentro do prazo estabelecido
+    pela Comissão de Graduação da ESALQ, respeitada a Resolução COG-3583. A nota final
+    será a média da nota (N) obtida pelo aluno no semestre e a nota da prova de recuperação.
+  bibliography: 'Básica:
+
+    REIN, P. CANE SUGAR ENGINEERING. BARTENS, 2009. 789 P.
+
+    DELGADO, A.A.; DELGADO, A.P. PRODUÇÃO DO AÇÚCAR MASCAVO, RAPADURA E MELADO. PUBLIQUE.
+    PIRACICABA. SÃO PAULO. 1999.
+
+    DELGADO, A.A.; CESAR, M.A.A. ELEMENTOS DE TECNOLOGIA E ENGENHARIA DO AÇÚCAR DE
+    CANA. PUBLIQUE. PIRACICABA. SÃO PAULO. 1990.
+
+    PAYNE, J.H. OPERAÇÕES UNITÁRIAS NA PRODUÇÃO DE AÇÚCAR DE CANA. SÃO PAULO: NOVEL,
+    245 P., 1989.
+
+    HONIG, P. PRINCÍPIOS DE TECNOLOGIA AZUCAREIRA. MÉXICO. CONTINENTAL, 3 V. 1969.
+
+    HUGOT, E. HANDBOOK OF CANE SUGAR ENGINEERING. 2 ND. ED. AMSTERDAM, ELSEVIER, 1972.
+
+    PUBLICAÇÃO IPT, SÃO PAULO. 1990.
+
+    JENKINS, G.H. INTRODUCTION TO CANE SUGAR TECHNOLOGY. AMSTERDAM, ELSEVIER, 1966.
+
+    MEADE, G.P.; CHEN, J.C.P. CANE SUGAR. HANDBOOK, JOHN WILEY, SONS. NEW YORK, 1977.
+
+    MARQUES, M.O.; MARQUES, T.A.; TASSO JÚNIOR, L.C. TECNOLOGIA DO ACÚCAR: PRODUÇÃO
+    E INDUSTRIALIZAÇÃO DA CANA-DE-ACÚCAR JABOTICABAL : FUNEP: UNESP, 2001.
+
+    Complementar:
+
+    PERRY, R. PERRY’S CEHMICAL ENGINEER’S HANDBOOK. 8 ED., NEW YORK, MCGRAW-HILL,
+    2007. 2400 P.
+
+    CAMARGO, C.A. CONSERVAÇÃO DE ENERGIA NA INDÚSTRIA DO AÇÚCAR E DO ÁLCOOL. IPT:
+    SÃO PAULO, 1990.
+
+    BAYMA, C. TECNOLOGIA DO AÇÚCAR: DA MATÉRIA-PRIMA À EVAPORAÇÃO. COLEÇÃO CANAVIEIRA,
+    13, 1974.
+
+    Sites relacionados à área:
+
+    INTERNATIONAL SOCIETY OF SUGAR CANE TECHNOLOGISTS: http://issct.intnet.mu/index.html
+
+    UNICA: http://www.unica.com.br/
+
+    UDOP: http://www.udop.com.br
+
+    COPERSUCAR: http://www.copersucar.com.br
+
+    SUGAR JOURNAL: http://www.sugarjournal.com
+
+    JORNAL CANA: http://www.jornalcana.com.br
+
+    SUGAR PROCESSING RESEARCH INSTITUTE, INC.: http://www.spriinc.org/'
+  course: 'IIntrodução à tecnologia do açúcar. Novas matérias-primas sacaríneas. Controle
+    de qualidade da matéria-prima: maturação e influência de impurezas – minerais
+    e vegetais. Operações produtivas preliminares: corte, transporte, carregamento,
+    descarregamento e armazenamento. Influência na qualidade do armazenamento de matérias-primas.
+    Recepção, condução e lavagem de matérias-primas sacaríneas. Preparo da matéria-prima
+    sacarínea para extração. Extração do caldo pelas moendas e por difusão – introdução,
+    regulagens e cálculos. Purificação e clarificação do caldo: peneiragem, sulfitação,
+    caleagem, aquecimento, decantação e filtração – introdução, regulagens e cálculos.
+    Concentração: evaporação do caldo em múltiplos-efeitos, tratamento do xarope –
+    introdução, regulagens e cálculos. Concentração: cozimento (cristalização) – introdução,
+    regulagens e cálculos. Cristalização complementar. Centrifugação das massas cozidas.
+    Operações finais: secagem, classificação, acondicionamento e armazenamento. Cálculos
+    de rendimentos. Produção de vapor e de energia elétrica - termodinâmica. Controle
+    de qualidade. Novas tecnologias. Visita técnica orientada a usinas de açúcar.'
+  course_name: 'LAN0653 - Tecnologia do Açúcar
+
+    Sugar Technology'
+  deactivation: ''
+  instructors: 2171774 - Claudio Lima de Aguiar
+  lecture_credits: '4'
+  objectives: a) Compreensão de todas as operações unitárias e aspectos de engenharia
+    envolvidas na produção de diferentes tipos de açúcar cristal, bem como, envolver
+    o aluno numa discussão sobre os mecanismos, fenômenos e causas que se processam
+    durante a fabricação do açúcar e que podem acarretar e/ou influenciar na manutenção
+    ou perda de qualidade dos diferentes tipos de açúcares produzidos industrialmente;
+    b) Compreensão dos processos de condução e balanços de massa e energéticos da
+    usina em bases técnicas com vistas a um aproveitamento racional da matéria-prima
+    e uma melhor eficiência energética, mantendo os princípios da sustentabilidade
+    ambiental nas diversas fases do processamento açucareiro.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20231209045544'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20231209045544'
+url: https://web.archive.org/web/20231209045544id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN0653&codcur=11010&codhab=0
