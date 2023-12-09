@@ -1,0 +1,81 @@
+courses:
+  activation: 01/01/2007
+  assessment: 'Não haverá recuperação, pois ao longo do semestre é dada a possibilidade
+    do aluno realizar quatro avaliações do conteúdo ministrado e um trabalho prático.
+
+    OBS. A revisão de provas pelos alunos será feita apenas em data agendada junto
+    à Secretaria do Departamento.'
+  bibliography: 'Livros:
+
+    ANDRADE, V.M.M. & DAMIÃO FILHO, C.F. 1989. Morfologia Vegetal. Jaboticabal/SP,
+    FUNEP, 259p.
+
+    APPEZZATO-DA-GLÓRIA, B. 2003. Morfologia de Sistemas Subterrâneos: Histórico e
+    Evolução do Conhecimento no Brasil.  Ed. A. S. Pinto.  80 p.
+
+    APPEZZATO-DA-GLÓRIA, B. & CARMELLO-GUERREIRO, S.M. 2006. Anatomia Vegetal. 2ª
+    edição, Viçosa-MG, Ed. da Universidade Federal de Viçosa.  438 p.
+
+    CUTTER, E.G. 1986. Anatomia Vegetal. Parte I. Células e Tecidos. Trad. Gabriela
+    V.M.C. Catena. 2a. edição, SP., Editora Roca, 304p.
+
+    CUTTER, E.G. 1987. Anatomia Vegetal. Parte II. Órgãos, Experimentos e Interpretação.
+    Trad. Gabriela V.M.C. Catena. 1a. edição. São Paulo, Editora Roca, 336p.
+
+    ESAU, K. 1974. Anatomia das plantas com sementes. Trad. Berta L. Morretes. Ed.
+    Edgard Blucher, SP, 293p.
+
+    FERRI, M.G.; MENEZES, N.L.; SCANAVACCA, W.R.M. 1978. Glossário Ilustrado de Botânica.
+    EDUSP, SP.
+
+    FONTQUER, P. 1970. Dicionário de Botânica. Ed. Labor S/A. Rio de Janeiro, 1244p.
+
+    RAVEN, P.H.; EVERT, R.F. & EICHHORN, S.E. 1996. Biologia Vegetal. 5a. edição,
+    Rio de Janeiro, Ed. Guanabara, Koogan S.A. 728p.
+
+    SOUZA, L.A. de. 2006. anatomia do fruto e da semente. Editora UEPG, Ponta Grossa.
+    196p.
+
+    SOUZA, L.A. de. 2003. Morfologia e Anatomia Vegetal: célula, tecidos, órgãos e
+    plântula. Editora UEPG, Ponta Grossa. 258p.
+
+    VIDAL, W.N.; VIDAL, M.R.R. 1986. Botânica - Organografia. 3a. Edição. Imprensa
+    universitária da Universidade Federal de Viçosa (MG).
+
+    Apostila: Morfologia Vegetal Prática'
+  course: ':  I) ORGANOGRAFIA: 1) Introdução:- Organização geral das plantas superiores.
+    2) Organografia das plantas superiores: 2.1) Raiz:- definição, estudo das partes
+    constituintes, sistemas radiculares e classificação das raízes.  2.2) Caule:-
+    definição, estudo das partes constituintes e classificação dos caules. 2.3) Folha:-
+    definição, estudo das partes constituintes e classificação das folhas. 2.4) Flor:-
+    definição, estudo das partes constituintes, classificação floral, diagrama e fórmula
+    floral. 2.5) Inflorescência:- definição, estudo das partes constituintes e classificação.
+    2.6) Fruto:- definição, estudo das partes constituintes e classificação dos frutos
+    enfatizando a origem, consistência e deiscência. 2.7) Semente:- definição, estudo
+    das partes constituintes e classificação. II) ANATOMIA: 1) Introdução: Considerações
+    gerais e importância; Organização interna do corpo da planta; Sistemas de Tecidos;
+    Crescimento primário e secundário; Estudo dos tecidos. 2) Embriologia: origem
+    dos embriões, estrutura anatômica comparativa dos embriões de monocotiledôneas
+    e não monocotiledôneas. 3) Raiz: Organização do meristema apical da raiz, estrutura
+    primária enfatizando os processos de absorção radicular e os conceitos de apoplasto
+    e simplasto, origem das raízes laterais e das adventícias, estrutura secundária
+    da raiz; 4) Caule: Organização do meristema apical caulinar (teoria Túnica-Corpo),
+    estrutura primária e secundária do caule. 5) Folha: Origem, desenvolvimento foliar,
+    estrutura foliar enfatizando a adaptação.'
+  course_name: 'LCB0103 - Morfologia Vegetal
+
+    Plant Morphology'
+  deactivation: ''
+  instructors: '3276953 - Aline Oriani Maganhato
+
+    87939 - Beatriz Appezzato da Gloria'
+  lecture_credits: '4'
+  objectives: Propiciar aos alunos o estudo teórico-prático dos caracteres anatômicos
+    e organográficos dos órgãos vegetativos e reprodutivos das plantas superiores.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209050450'
+digest: JEU3YOVDLN3MWQZTTVRHIGL7T5DZ7S66
+updated_at: '20231209050450'
+url: https://web.archive.org/web/20231209050450id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0103&codcur=11010&codhab=0
