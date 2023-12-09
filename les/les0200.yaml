@@ -1,21 +1,28 @@
 courses:
-  activation: 01/01/2007
+  activation: 01/01/2023
   assessment: Uma prova com toda a matéria lecionada
-  bibliography: "7.1. BIBLIOGRAFIA BÁSICA:  FEIJÓ, C. A.; YOUNG, C. E. F.; LIMA, F.\
-    \ C. G. de C.; GALVÃO, O. J. de  A.; RAMOS, R. L. O.   Contabilidade Social. Ed.\
-    \ Campus. 2003; PAULANI, L. M. & M. BOBIK BRAGA. A Nova Contabilidade Social.\
-    \ São Paulo: Saraiva, 2007. 7.2. BIBLIOGRAFIA COMPLEMENTAR:  FIGUEIREDO, F. DE\
-    \ O. Introdução à Contabilidade Nacional. Forense, São Paulo, 1971; FILELLINI,\
-    \ A.. Economia do Setor Público. São Paulo: Editora Atlas, 1994. 202p.; FERREIRA\
-    \ FILHO, J.B.S. Introdução aos modelos aplicados de equilíbrio geral: conceitos,\
-    \ teoria e aplicações. LES/ESALQ. Série Didática n. 120, 1998.   FORTUNA, E. Mercado\
-    \ Financeiro: Produtos e Serviços. Rio de Janeiro: Editora Qualitymark. 1999.\
-    \ 519p. GIAMBIAGI, F.; ALÉM, A.C. Finanças Públicas \x96 Teora e Prática no Brasil.\
-    \ Editora Campus, 2001. GUILHOTO, J.M.J.  Leontief e Insumo \x96Produto: antecedentes,\
-    \ princípios e evolução.; GUILHOTO, J.M.J.; LOPES, R.L.; MOTTA, R.S.  Impactos\
-    \ ambientais e regionais de cenários de crescimento da economia brasileira \x96\
-    \ 2002/2012. Rio de Janeiro: IPEA. Texto para Discussão, n. 892; ROSSETTI, J.\
-    \ P. Contabilidade Social. Atlas, São Paulo, 1995."
+  bibliography: 'Literatura Básica:
+
+    FEIJÓ, C. A.; RAMOS, R. L. O.; LIMA, F. C. G. de C.; FILHO, N. H. B.; PALIS, R.
+    Contabilidade Social: A nova referência das Contas Nacionais do Brasil. 5ª Ed.
+    Rio de Janeiro: Campus, 2017.
+
+    Literatura Complementar:
+
+    FIGUEIREDO, F. DE O. Introdução à Contabilidade Nacional. Forense, São Paulo,
+    1971; FILELLINI, A.. Economia do Setor Público. São Paulo: Editora Atlas, 1994.
+    202p.; FERREIRA FILHO, J.B.S. Introdução aos modelos aplicados de equilíbrio geral:
+    conceitos, teoria e aplicações. LES/ESALQ. Série Didática n. 120, 1998.   FORTUNA,
+    E. Mercado Financeiro: Produtos e Serviços. Rio de Janeiro: Editora Qualitymark.
+    1999. 519p. GIAMBIAGI, F.; ALÉM, A.C. Finanças Públicas – Teora e Prática no Brasil.
+    Editora Campus, 2001. GUILHOTO, J.M.J.  Leontief e Insumo –Produto: antecedentes,
+    princípios e evolução.; GUILHOTO, J.M.J.; LOPES, R.L.; MOTTA, R.S.  Impactos ambientais
+    e regionais de cenários de crescimento da economia brasileira – 2002/2012. Rio
+    de Janeiro: IPEA. Texto para Discussão, n. 892; PAULANI, L. M. & BRAGA, M. B.
+    A Nova Contabilidade Social: uma introdução à macroeconomia. 3ª Ed. São Paulo,
+    2008.
+
+    ROSSETTI, J. P. Contabilidade Social. Atlas, São Paulo, 1995.'
   course: '1. Medidas da Atividade Econômica (produto, renda, consumo, poupança, investimento,
     gastos do governo, exportações e importações)e as relações básicas que definem
     a estrutura de contas nacionais; 1.1. Conceitos de medidas especiais e resumidas
@@ -56,7 +63,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20200922084417'
-digest: VBPXIIISCXEBIB5AE2XFSS57XQWSIUMY
-updated_at: '20220812153538'
-url: https://web.archive.org/web/20220812153538id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0200&codcur=11050&codhab=1
+created_at: '20231209045633'
+digest: TLSVP4BHENRJAWGWQTR37KYHWI2SMBRI
+updated_at: '20231209045633'
+url: https://web.archive.org/web/20231209045633id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0200&codcur=11010&codhab=0
