@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2023
   assessment: )   O aluno realizará uma única prova sobre toda a matéria.
   bibliography: 'BRADLEY, G.A. (Ed.) Urban Forest Landscapes: integrating multidisciplinary
     perspectives. Seattle and London, University of Washington Press, Seattle, 1995.
@@ -84,7 +84,7 @@ courses:
     Urban Forestry'
   deactivation: ''
   instructors: 4864078 - Demóstenes Ferreira da Silva Filho
-  lecture_credits: '4'
+  lecture_credits: '3'
   objectives: Estudar os princípios e práticas de planejamento, implantação, manejo
     e conservação, de ecossistemas florestais urbanos, considerando as interações
     entre vegetação - atividades e necessidades humanas - planejamento e desenho urbano.
@@ -92,9 +92,9 @@ courses:
     os modelos de produção de mudas e distribuição de espécies adequadas para diferentes
     condições, manejo silvicultural, políticas públicas e organização comunitária.
   practical_credits: '1'
-  total_workload: 90 h
+  total_workload: 75 h
   type: Semestral
-created_at: '20220419194209'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20220804080345'
-url: https://web.archive.org/web/20220804080345id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0636&codcur=11080&codhab=4
+created_at: '20231209045435'
+digest: IMEGUWWJVJ2KJIZ354ZNTILLRHMKZQT5
+updated_at: '20231209045435'
+url: https://web.archive.org/web/20231209045435id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0636&codcur=11010&codhab=0
