@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2023
   assessment: Prova Teórico-Prática realizada antes do início do semestre seguinte
     (dentro do calendário estipulado pela ESALQ/USP).
   bibliography: 'Literatura Básica:
@@ -61,7 +61,9 @@ courses:
   deactivation: ''
   instructors: '7921125 - Paulo Sergio Pavinato
 
-    3542866 - Rafael Otto'
+    3542866 - Rafael Otto
+
+    5211881 - Tiago Tezotto'
   lecture_credits: '4'
   objectives: Dar visão aos estudantes de graduação em Engenharia Agronômica e Engenharia
     Florestal dos fundamentos da nutrição mineral de plantas, funções dos nutrientes
@@ -72,7 +74,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220707064932'
-digest: 2RJ375YWSHZU6UZLCEF6OS43NG63HKE3
-updated_at: '20220707064932'
-url: https://web.archive.org/web/20220707064932id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LSO0420&codcur=11020&codhab=0
+created_at: '20231209045513'
+digest: PYNE4V4JU465D262RPJCQPVKYICYBB4M
+updated_at: '20231209045513'
+url: https://web.archive.org/web/20231209045513id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LSO0420&codcur=11010&codhab=0
