@@ -1,0 +1,80 @@
+courses:
+  activation: 01/01/2020
+  assessment: 'A recuperação envolve a revisão de toda a matéria pelo aluno interessado,
+    sob orientação do professor responsável.
+
+    A avaliação será feita na forma de prova global teórico-prática, dentro do prazo
+    regulamentar.'
+  bibliography: 'BRANCALION, P.H.S., GANDOLFI, S., RODRIGUES, R.R., 2015. Restauração
+    florestal. Oficina de Textos, São Paulo.
+
+    BRITO, J.O. 1990. Princípios de Produção e Utilização de       Carvão Vegetal
+    de Madeira. Documentos Florestais,Piracicaba. ESALQ. (9):1-19, mai.
+
+    COUTO, H.T.Z.do. 1989, BATISTA, J.L.F. 1989 & RODRIGUEZ,       L.C.E. 1989. Mensuração
+    e Gerenciamento de Pequenas            Florestas.  Documentos Florestais, Piracicaba.
+    ESALQ. (5):1-37, nov.
+
+    FERREIRA, M. 1990. Escolha de Espécies Arbóreas para Formação  deMaciços Florestais.Documentos
+    FlorestaisPiracicaba. ESALQ. (7):1-15, jan.
+
+    GONÇALVES, J.L.; BENEDETTI, V. 2000. Nutrição e fertilização florestal. IPEF,
+    Piracicaba. 427 p.
+
+    GONÇALVES, J.L.; STAPE, J.L. 2002. Conservação e cultivo de solo em plantações
+    florestais. IPEF, Piracicaba. 498 p.
+
+    JANKOWSKY, I.P. 1990.  Fundamentos de Secagem de Madeiras -  Documentos Florestais,
+    Piracicaba. ESALQ. (10):1-13, jun.
+
+    JANKOWSKY, I.P. 1990. Fundamentos  de Preservação  de Madeiras Documentos Florestais,
+    Piracicaba. ESALQ. (11):1-12, jun.
+
+    KAGEYAMA, P.Y.; OLIVEIRA, R.E.; MORAES, L.F.; ENGEL, V.L.; GANDARA, F.B. (Orgs).
+    Restauração ecológica de Ecossistemas Naturais Botucatu, Ed Fepaf, 2003, 340 p.
+
+    MARTINS, S. V.. Ecologia de florestas tropicais do Brasil. 2a. Edição - Revista
+    e Ampliada. 2. ed. Viçosa, MG: Editora UFV, 2012. v. 1. 371p.
+
+    SIMÕES, J.W. 1989. Reflorestamento e Manejo de Florestas       Implantadas - Documentos
+    Florestais, Piracicaba. ESALQ.(4):1-29, set.
+
+    STAPE, J.L. 1997. Manejo de brotação de Eucalyptus. Série Técnica IPEF, Piracicaba,
+    11(30):25-35, 1997.
+
+    ZAKIA, M.J., PINTO, L.F.G., 2013. Guia para aplicação da nova lei em propriedades
+    rurais. Imaflora, Piracicaba.'
+  course: 'a)O Ecossistema Florestal: conceitos, funcionamento, caracterização; florestas
+    naturais e florestas plantadas; unidades de conservação; manejo de fragmentos
+    florestais. b)Reflorestamento de Proteção Ambiental : planejamento ambiental de
+    propriedades agrícolas; matas ciliares; recuperação de áreas degradadas; c)Formação
+    e Manejo de Povoamentos Florestais em Propriedades Agrícolas: viveiros florestais;
+    escolha das espécies; implantação de pequenos povoamentos florestais mensuração
+    de pequenos povoamentos florestais; manejo por talhadia e por alto-fuste; maturação
+    econômica da floresta; d)Utilização Racional da Madeira : cubagem da madeira;
+    preservação e tratamento de moirões; produção de carvão vegetal.'
+  course_name: 'LCF1581 - Recursos Florestais em Propriedades Agrícolas
+
+    Forest Resources in Agricultural Properties'
+  deactivation: 31/12/2023
+  instructors: '7024292 - Luciana Duque Silva
+
+    3490066 - Pedro Henrique Santin Brancalion
+
+    2801928 - Weber Antonio Neves do Amaral'
+  lecture_credits: '4'
+  objectives: Este programa visa proporcionar ao futuro Engenheiro Agrônomo os conhecimentos
+    básicos para o cultivo e o aproveitamento de árvores e a conservação de ecossistemas
+    florestais em propriedades voltadas para a produção agrícola. O plantio de árvores
+    pode contribuir significativamente para uma melhor conservação dos solos, recursos
+    hídricos e biodiversidade e, ainda, para aumentar a produtividade dos atuais sistemas
+    de produção. Para tratar do aproveitamento apropriado dos recursos florestais,
+    esta disciplina aborda, também, aspectos relacionados à utilização da madeira
+    na propriedade agrícola.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20231209050147'
+digest: VHKM3K5IMEBNKEVSYZZRJFO55LRSB2GQ
+updated_at: '20231209050147'
+url: https://web.archive.org/web/20231209050147id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF1581&codcur=11010&codhab=0
