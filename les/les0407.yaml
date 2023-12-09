@@ -19,9 +19,7 @@ courses:
 
     Applied Statistics II'
   deactivation: ''
-  instructors: '51881 - Adriano Júlio de Barros Vicente de Azevedo Filho
-
-    1777242 - Vitor Augusto Ozaki'
+  instructors: 1777242 - Vitor Augusto Ozaki
   lecture_credits: '4'
   objectives: Introduzir o aluno ao entendimento da evidência estatística fornecida
     por conjuntos de dados observados em levantamentos e em situações controladas
@@ -35,7 +33,7 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20210612193205'
-digest: S3A3GSLGGRO37JFK2FHPVWSBYFTDEMI4
-updated_at: '20220706095129'
-url: https://web.archive.org/web/20220706095129id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0407&codcur=11050&codhab=1
+created_at: '20231209050532'
+digest: PQZUMTMSEOTFR4OM4KZBQNKX65Y56O2D
+updated_at: '20231209050532'
+url: https://web.archive.org/web/20231209050532id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0407&codcur=11010&codhab=0
