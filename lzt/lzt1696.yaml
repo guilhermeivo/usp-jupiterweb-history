@@ -1,45 +1,85 @@
 courses:
-  activation: 01/01/2014
-  assessment: A disciplina não oferece atividade ou prova de recuperação.
-  bibliography: "Livro-texto\nCyrino, J.E.P.; E.C. Urbinati, D.M. Fracalossi e N.\
-    \ Castagnolli, editores.  2004.  Tópicos Especiais em Piscicultura de Água Doce\
-    \ Tropical Intensiva. Associação Brasileira de Aquicultura e Biologia Aquática,\
-    \ CAUNESP, Jaboticabal, SP.\nReferências\nBaldisserotto, B.  2002.  Fisiologia\
-    \ de Peixes Aplicada à Piscicultura. 2ed. UFSM, Santa Maria, RS.\nBaldisserotto,\
-    \ B. e L.C. Gomes.  2010.  Espécies Nativas para Piscicultura no Brasil. 2ed.\
-    \ Editora da UFSM, Santa Maria, RS.\nBritski, H.A., Silimon, K.Z.S., e B.S. Lopes.\
-    \ Peixes do Pantanal. Manual de Identificação. Embrapa-SPI, Brasília, DF.\nEsteves,\
-    \ F.A. 2011. Fundamentos de Limnologia. 3ed. Editora Interciência, Rio de Janeiro,\
-    \ RJ.\nFracalossi, D.M. e J.E.P. Cyrino. 2012. NUTRIAQUA \x96 Nutrição e Alimentação\
-    \ de espécies de interesse para a aquicultura brasileira. Ministério da Pesca\
-    \ e Aquicultura, Florianópolis, SC.\nHickman, C.P., L.S. Roberts, and A. Larson.\
-    \  2003.  Princípios Integrados de Zoologia. Ed. Guanabara Coogan, Rio de Janeiro,\
-    \ RJ.\nNash, C.E. and A.J. Novotny.  1995.  Production of Aquatic Animals - Fishes.\
-    \ World Animal Science C8 - Production-system approach. Elsevier, Amsterdam."
-  course: 'Caracterização biológica e sistemática das espécies exóticas e nacionais
-    utilizadas em piscicultura: ciprinídeos, cichlídeos, salmonídeos, centrarchídeos
-    e silurídeos exóticos; espécies dos gêneros Colossoma sp e Piaractus sp. e Salminus
-    sp.; osteoglossiformes, cichlídeos e siluriformes nacionais. Sistemas e regimes
-    de manejo, capacidade de sustentação e fundamentos de manejo da qualidade da água
-    para piscicultura. Nutrição e manejo alimentar de peixes em confinamento: hábitos
-    alimentares; fisiologia da alimentação e digestão; exigências alimentares e nutricionais
-    dos peixes em confinamento; práticas alimentares em tanques e viveiros; formulação
-    e processamento de dietas para peixes. Manejo da reprodução de populações confinadas:
-    comportamento e adaptações reprodutivas; índices gonadais e fator de condição;
-    índices de fecundidade; o número efetivo de reprodutores e o endocruzamento em
-    populações.'
+  activation: 01/01/2022
+  assessment: Prova envolvendo todo o programa cumprido durante o semestre. A média
+    final será calculada através da média aritmética entre a nota desta prova de recuperação
+    e a média obtida no semestre.
+  bibliography: 'Literatura Básica:
+
+    Cyrino, J.E.P.; E.C. Urbinati, D.M. Fracalossi e N. Castagnolli, editores. 2004.
+    Tópicos Especiais em Piscicultura de Água Doce Tropical Intensiva. Associação
+    Brasileira de Aquicultura e Biologia Aquática, CAUNESP, Jaboticabal, SP.
+
+    Literatura Complementar:
+
+    Baldisserotto, B. 2002. Fisiologia de Peixes Aplicada à Piscicultura. 2ed. UFSM,
+    Santa Maria, RS.
+
+    Baldisserotto, B. e L.C. Gomes. 2010. Espécies Nativas para Piscicultura no Brasil.
+    2ed. Editora da UFSM, Santa Maria, RS.
+
+    Baldisserotto, B.; J.E.P. Cyrino, e E.C. Urbinati, editores. 2014. Biologia e
+    Fisiologia de Peixes Neotropicais de Água Doce. Fundação de Apoio à Pesquisa,
+    Ensino e Extensão [FUNEP], Jaboticabal, SP.
+
+    Barone, R.S.C.; E.K. Lorenz, D.Y. Sonoda, and J.E.P. Cyrino. 2017. Fish and fishery
+    products trade in Brazil, 2005 to 2015: A review of available data and trends.
+    Scientia Agricola 74(5): 417-424.
+
+    Boyd, C. E. 2019. Water quality: an introduction. Springer.
+
+    Britski, H.A., Silimon, K.Z.S., e B.S. Lopes. 2007 Peixes do Pantanal. Manual
+    de Identificação. 2ed. Embrapa-SPI, Brasília, DF.
+
+    Esteves, F.A. 2011. Fundamentos de Limnologia. 3ed. Editora Interciência, Rio
+    de Janeiro, RJ.
+
+    Fracalossi, D.M. e J.E.P. Cyrino. 2012. NUTRIAQUA – Nutrição e Alimentação de
+    espécies de interesse para a aquicultura brasileira. Ministério da Pesca e Aquicultura,
+    Florianópolis, SC.
+
+    Garutti, V. 2003. Piscicultura Ecológica. Editora UNESP, São Paulo, SP.
+
+    Goddek, S., Joyce, A., Kotzen, B., & Burnell, G. M. 2019. Aquaponics Food Production
+    Systems: Combined Aquaculture and Hydroponic Production Technologies for the Future
+    (p. 619). Springer Nature.
+
+    Hickman, C.P., L.S. Roberts, and A. Larson. 2003. Princípios Integrados de Zoologia.
+    Ed. Guanabara Coogan, Rio de Janeiro, RJ.
+
+    Lucas, J. S., Southgate, P. C., e Tucker, C. S. (Eds.). 2019. Aquaculture: Farming
+    aquatic animals and plants. Wiley-Blackwell. 4th edition.
+
+    Rodrigues, A.P.O.; A.F. Lima, A.L. Alves, D.K. Rosa, L.S. Torati, e V.R.V. Santos,
+    editores. 2004. Piscicultura de Água Doce: Multiplicando conhecimentos Empresa
+    Brasileira de Pesquisa Agropecuária [EMBRAPA], EMBRAPA Pesca e Aquicultura [CNPASA],
+    Ministério da Agricultura, Pecuária e Abastecimento [MAPA], Brasília, DF.
+
+    Sonoda, D.Y.; R. Shirota, J.E. Scorvo Filho, e J.E.P. Cyrino. 2015. Desequilíbrio
+    entre a oferta e a demanda brasileira por pescados em 2002/2003 e 2008/2009. Revista
+    iPecege 1(1): 1-13.'
+  course: 'O agronegócio do pescado. Caracterização biológica e sistemática das espécies
+    exóticas e nativas de peixes mais importantes para a piscicultura nacional. Sistemas
+    de produção de peixes em confinamento, integração agricultura-piscicultura e aquaponia.
+    Fundamentos de qualidade da água para piscicultura. Nutrição e manejo alimentar
+    de peixes em confinamento: hábitos alimentares, fisiologia da alimentação e digestão,
+    exigências alimentares e nutricionais, práticas alimentares, formulação e processamento
+    de dietas para peixes. O ciclo de vida dos peixes confinados: fisiologia e manejo
+    da reprodução, larvicultura, alevinagem, recria e engorda. Princípios gerais de
+    doenças infecciosas na piscicultura: interação entre hospedeiro, patógeno e ambiente,
+    e técnicas generalizadas de gerenciamento de doenças. Técnicas de abate e processamento
+    do pescado.'
   course_name: 'LZT1696 - Piscicultura
 
     Fish Culture'
   deactivation: ''
-  instructors: 87011 - Jose Eurico Possebon Cyrino
+  instructors: 5152941 - Brunno da Silva Cerozi
   lecture_credits: '4'
   objectives: Ministrar aos estudantes os fundamentos da produção de peixes em confinamento,
     em abordagem integrada dos sistemas de produção de juvenis e peixes para consumo.
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20200927172126'
-digest: VVV56XEVYXZAN4JPAR5EOEWWBF6RQUTP
-updated_at: '20200927172126'
-url: https://web.archive.org/web/20200927172126id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT1696&codcur=11010&codhab=0
+created_at: '20231209045619'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20231209045619'
+url: https://web.archive.org/web/20231209045619id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT1696&codcur=11010&codhab=0
