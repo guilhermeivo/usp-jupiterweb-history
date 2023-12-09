@@ -1,0 +1,111 @@
+courses:
+  activation: 01/01/2019
+  assessment: Uma prova escrita.
+  bibliography: 'Literatura Básica:
+
+    BERGAMASCHI, H.; BERGONCI, J.I., As plantas e o clima – princípios e aplicações.
+    Editora Agrolivros. 351 p., 2017.
+
+    DOORENBOS, J.; KASSAM, A.H. Efeito da água no rendimento das culturas. UFPB, 1994.
+    306p.
+
+    MONTEIRO, J.E.B.A. (Ed.) Agrometeorologia dos Cultivos – o fator meteorológico
+    na produção agrícola. Brasília: INMET. 2009. 530p.
+
+    OMETTO, J.C.; 1981. Bioclimatologia Vegetal. Editora Agronômica Ceres.
+
+    PEREIRA, A.R.; ANGELOCCI, L.R.; SENTELHAS, P.C.; Agrometeorologia: Fundamentos
+    e Aplicações Práticas. Ed. Agropecuária, 478 p.  2002.
+
+    PEREIRA, A.R.; VILLA NOVA, N.A.; SEDYAMA, G.C. Evapo(transpi)ração. FEALQ, 183
+    p., 1997.
+
+    TUBELIS, A. & NASCIMENTO, F.J.L., 1990. Meteorologia Descritiva: fundamentos e
+    aplicações brasileiras. Livraria Nobel S.A., São Paulo.
+
+    VAREJÃO SILVA, M.A.  Meteorologia e Climatologia. INMET, 552p. 2001.
+
+    VIANELLO, R.L. e ALVES. A.R. Meteorologia Básica e Aplicações. Imprensa Universitária,
+    Universidade Federal de Viçosa. 1991.
+
+    Literatura complementar
+
+    ARYA, S.P.  Introduction to Micrometeorology. Second Edition. Academic Press.
+    USA. 2001. 420p.
+
+    BERGAMASCHI, H.; BERLATTO, M.A.; MATZENAUER, R.; FONTANA, D.C.; CUNHA, G.R.; SANTOS,
+    M.L.V.; FARIAS, J.R.B. e BARNI, A.N. 1992. Agrometeorologia Aplicada à Irrigação.
+    Ed. da Universidade do Rio Grande do Sul. Departamento de Física e Meteorologia.
+    1997.
+
+    Câmara dos Deputados. Plenarium: os desafios do clima. Brasília: Câmara dos Deputados
+    – Coordenação de publicações. 2004. 343p.
+
+    CUNHA, G.R. Lidando com os riscos climáticos – Clima, sociedade e agricultura.
+    Passo Fundo: Embrapa Trigo. 2004. 399p.
+
+    GHINI, R. Mudanças climáticas globais e doenças de plantas. Jaguariúna: Embrapa
+    Meio Ambiente. 2005. 104p.
+
+    HATFIELD, J.L.; BAKER, J.M.   Micrometeorology in Agricultural Systems. Agronomy
+    Monograph nº 47. USA. 2005. 584p.
+
+    KLAR, A.E. A água no sistema solo-planta-atmosfera. Livraria Novel.
+
+    MARIN, F.R.; ASSAD, E.D.; PILAU, F.G.  Clima e Ambiente: introdução à climatologia
+    para ciências ambientais. Campinas, SP: Embrapa Informática Agropecuária, 2008.
+    126p.
+
+    MENDONÇA, F.; DANNI-OLIVEIRA, I.M.  Climatologia: noções básicas e climas do Brasil.
+    São Paulo: Oficina de Textos, 2007. 206p.
+
+    NASCIMENTO, C.A.M. et al. As estiagens e as perdas na agricultura: fenômeno natural
+    ou imprevidências? Porto Alegre: Federacite. 2005. 143p.
+
+    REICHARDT, K. A água em sistemas agrícolas. Editora Manole. 1987.'
+  course: 'a) A importância da Meteorologia Agrícola na agricultura moderna; b) Fatores
+    geográficos determinantes do tempo e do clima: (latitude, altitude, relevo, oceanidade/continentalidade,
+    correntes marítimas); circulação atmosférica: vento; massas de ar; fatores topo
+    e microclimáticos; c) Observações meteorológicas: radiação solar, temperatura
+    do ar e do solo; umidade do ar; precipitação; ventos. d) Balanço de energia radiante
+    e sistemas agrícolas; aspectos quali-quantitativos da interação da radiação solar
+    com os vegetais; aspectos ecológicos do fotoperiodismo; disponibilidade energética,
+    temperatura e crescimento vegetal; estimativa de produtividade potencial de culturas;
+    temperatura e desenvolvimento de plantas e insetos; graus-dia; exigências em frio
+    de frutíferas de clima temperado; temperatura como fenômeno adverso na agricultura;
+    geadas; temperatura, condições de estabilidade atmosférica e sua utilização na
+    aplicação de defensivos agrícolas e dispersão de poluentes; e) Água na biosfera
+    e agricultura: umidade atmosférica e doenças de plantas; umidade do ar e armazenamento
+    de produtos e materiais agrícolas; precipitação e irrigação; f) Evapotranspiração:
+    conceitos, métodos de medida e de estimativa; g) Balanço hídrico climatológico
+    segundo Thornthwaite e Mather; balanços hídricos normais e seriados; estimativa
+    da freqüência e da lâmina de irrigação com base em clima e solo; deficiência hídrica
+    e produtividade das culturas; i) Importância agro-ecológica dos ventos; j) Aptidão
+    climática das regiões para os cultivos; zoneamento agroclimático; k) Sistemas
+    de informações agrometeorológicas.'
+  course_name: 'LEB0306 - Meteorologia Agrícola
+
+    Agricultural Meteorology'
+  deactivation: ''
+  instructors: '925245 - Fábio Ricardo Marin
+
+    3609007 - Felipe Gustavo Pilau'
+  lecture_credits: '4'
+  objectives: A produtividade vegetal ou animal, é condicionada pelo ambiente. Nesta
+    disciplina procura-se descrever as interações entre as condições atmosféricas
+    e os sistemas agropecuários, de maneira que os alunos fiquem capacitados a entendê-los
+    e a interferir favoravelmente no sistema agrícola, minimizando os aspectos negativos
+    da agricultura exploratória. a)  Estudar os fatores que condicionam o tempo e
+    o clima; b) Ensinar como são  observados  e medidos os elementos meteorológicos
+    para fins  agroclimáticos; c) Discutir como as informações meteorológicas e climatológicas
+    podem ser usadas para planejamento global de uso da terra e das operações agrícolas,
+    bem como para minimização dos efeitos adversos do tempo e do clima na agricultura;
+    d) Discutir como as condições de tempo e de clima relacionam-se com a produtividade
+    agropecuária.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209045450'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20231209045450'
+url: https://web.archive.org/web/20231209045450id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0306&codcur=11010&codhab=0
