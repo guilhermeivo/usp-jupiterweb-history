@@ -1,0 +1,58 @@
+courses:
+  activation: 01/01/2020
+  assessment: Não é prevista recuperação.
+  bibliography: 'Literatura Básica:
+
+    Massruhá, S. M. F. S.; Leite, M. A. de A.; Luchiari Junior, A.; Romani, L. A.
+    S. (Ed.). Tecnologias da informação e comunicação e suas relações com a agricultura.
+    Brasília, DF: Embrapa, 2014.
+
+    Literatura Complementar:
+
+    El Bilali, H.; Allahyari, M. S. Transition towards sustainability in agriculture
+    and food systems: Role of information and communication technologies Information
+    Processing in Agriculture, v. 5, n 4, p. 456-464, 2018
+
+    Kamilaris, A.; Kartakoullis, A.; Prenafeta-Boldú, F. X. A review on the practice
+    of big data analysis in agricultura. Computers and Electronics in Agriculture,
+    v. 143, p. 23-37, 2017
+
+    Shrivastava, S.; Marshall-Colon A. Big Data in Agriculture and Their Analyses.
+    Encyclopedia of Food Security and Sustainability, v. 1, p. 233-237, 2019.'
+  course: '1. História da coleta e uso de dados na agricultura
+
+    2. Aspectos fundamentais de ciência dos dados
+
+    3. Aspectos fundamentais da coleta e processamento de sinais
+
+    4. Conectividade e Internet das Coisas
+
+    5. Fontes e consolidação de dados I (“Big Data”)
+
+    6. Análise de dados (“Inteligência Artificial”)
+
+    7. Precisão em sistemas de produção agropecuários
+
+    8. Gestão de componentes de sistemas de produção
+
+    9. Automação e Robótica
+
+    10. Aplicações no âmbito da Engenharia de Biossistemas'
+  course_name: 'LEB2150 - Agricultura Digital: Princípios e aplicações
+
+    Digital Agriculture: Principles and applications'
+  deactivation: ''
+  instructors: 75290 - Marcos Milan
+  lecture_credits: '2'
+  objectives: Capacitar os alunos para compreender e analisar criticamente as tecnologias
+    mais recentes embasadas na coleta e emprego maciço de dados para o planejamento
+    e gestão dos sistemas de produção agrícolas.  Promover o senso crítico e preparar
+    os alunos para que possam contribuir com os profissionais de outras áreas do conhecimento
+    no desenvolvimento de soluções adequadas aos sistemas agrícolas.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209045558'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20231209045558'
+url: https://web.archive.org/web/20231209045558id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB2150&codcur=11010&codhab=0
