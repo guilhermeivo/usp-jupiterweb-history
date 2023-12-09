@@ -52,8 +52,7 @@ courses:
   course_name: 'LES0470 - Mercado de Capitais
 
     Capital Markets'
-  deactivation: ''
-  instructors: 8498852 - Alex da Silva Alves
+  deactivation: 31/12/2023
   lecture_credits: '2'
   objectives: Este curso visa aprofundar e focar na implementação dos conceitos estudados
     nas disciplinas de administração financeira e aplicar tópicos avançados de avaliação
@@ -64,7 +63,7 @@ courses:
   practical_credits: '1'
   total_workload: 60 h
   type: Semestral
-created_at: '20200919154400'
-digest: DVPG3W4F7YJ6HQXFXNQH74NMKGQZYDIR
-updated_at: '20220707120208'
-url: https://web.archive.org/web/20220707120208id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0470&codcur=11050&codhab=1
+created_at: '20231209050043'
+digest: ZE53V65CRNI57IASK3YC4TBVKTDJZD57
+updated_at: '20231209050043'
+url: https://web.archive.org/web/20231209050043id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0470&codcur=11010&codhab=0
