@@ -74,12 +74,12 @@ courses:
   total_workload: 60 h
   type: Semestral
 created_at: '20231209045449'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+digest: AYU2VVF6D5F2AUYHM7L2TO2PYOWPCCAP
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 3'
   requirements:
   - code: LCE0220
     name: Cálculo II
     type: Requisito
-updated_at: '20231209045449'
-url: https://web.archive.org/web/20231209045449id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0211&codcur=11010&codhab=0
+updated_at: '20231209045829'
+url: https://web.archive.org/web/20231209045829id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0211&codcur=11010&codhab=0
