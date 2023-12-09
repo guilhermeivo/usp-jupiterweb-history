@@ -1,0 +1,59 @@
+courses:
+  activation: 01/01/2013
+  assessment: Uma prova geral que envolve toda a matéria lecionada (teórico-prática).
+  bibliography: "Literatura Básica:\nAGRIOS, G.N. Plant pathology. 4. ed. San Diego:\
+    \ Academic Press, 1997. 635 p.\nANDREI, E. Compendio de Defensivos Agrícolas.\
+    \ 7. ed. São Paulo: Org. Andrai Ed. Ltda, 1141p., 2009.\nAZEVEDO, L.A.S. Manual\
+    \ de Quantificação de Doenças de Plantas. São Paulo. 114 p., 1998.\nCOMPÊNDIOS\
+    \ DE DOENÇAS DE CULTURAS \x93APS\x94 \x96 American Phytopthological Society.\n\
+    JORGE, J.A, LOURENÇÃO, A.L. & ARANHA, C. Instruções Agrícolas para o Estado de\
+    \ São Paulo. Campinas. B. Insti. Agron, 233p., 1994.\nKIMATI, H.; AMORIM, L.;\
+    \ REZENDE, J.A.M.; BERGAMIN FILHO, A.; CAMARGO, L.E.A. (Ed). Manual de Fitopatologia.\
+    \ Vol.2: Doenças da Plantas Cultivadas, 4. ed. São Paulo: Agronômica Ceres, 2005.\
+    \ 663p.\nVALE, F.X.R.; ZAMBOLIM. Controle de Doenças de plantas: grandes culturas.\
+    \ Brasília: Min. Agric. e Abast., vol. 1 e 2, 1997. 1132p."
+  course: "Diagnose de doenças infecciosas e não infecciosas. Princípios gerais de\
+    \ manejo (exclusão, erradicação, proteção, imunização, terapia, regulação e evasão).\
+    \ Métodos de controle / manejo (cultural, genético, químico, biológico, físico,\
+    \ integrado / sustentado).\nDoenças do algodoeiro: Mancha Angular, Murcha de Fusarium,\
+    \ Murcha de Verticilium, Ramulose, Rizoctoniose, Mosaico Comum, Mosaico das Nervuras,\
+    \ Vermelhão e outras; doenças do amendoim: Murcha de Sclerotium, Rizoctoniose,\
+    \ Cercosporiose, Verrugose, Mancha Barrenta e outras; doenças do arroz: Brusone,\
+    \ Mancha Parda, Cercosporiose, Falso Carvão, Podridão do Colmo e outras; doenças\
+    \ da batata: Murchadeira, Podridão Mole, Canela Preta e Talo Oco, Sarnas (comum,\
+    \ prateada e pulverulenta), Requeima, Pinta Preta, Rizoctoniose, Mosaicos, Enrolamento\
+    \ e outras; doenças do cacau: Vassoura-de-bruxa, podridão parda, murcha de ceratocystis,\
+    \ cacro de phytopthora e podridão de moniliopthpthora; doenças do cafeeiro: Ferrugem,\
+    \ Olho Pardo, Rizoctoniose, Mal de 4 anos e outras; doenças da cana-de-açúcar:\
+    \ Mosaico, Raquitismo, Escaldadura, Estria Vermelha, Carvão, Ferrugens (amarela\
+    \ e alaranjada), Mancha Ocular, Podridão Vermelha, Podridão de Fusarium, Podridão\
+    \ Abacaxi, Podridão de Raízes e outras; doenças do eucalipto: ferrugem, oidio,\
+    \ cancros, tombamento de mudas, e outras. doenças do feijoeiro: Crestamentos Bacterianos,\
+    \ Antracnose, Ferrugem, Murcha de Fusarium, Mancha Angular, Mofo Branco, Podridão\
+    \ Cinzenta do Caule, Mosaico Dourado e outras; doenças da mandioca: Bacteriose,\
+    \ Cercosporiose, Oídio, Murcha de Sclerotium, Antracnose, Podridão de Phytophthora\
+    \ das Raízes, Superalongamento, Superbrotamento e outras; doenças do milho: Podridões\
+    \ do Colmo, Podridão de Raízes, Helminthosporioses, Podridões de Espiga, Ferrugens,\
+    \ Cercosporiose, Mancha branca, enfezamento vermelho e pálido e outras; doenças\
+    \ da soja: Ferrugem, Cercosporiose, Septoriose, Antracnose, Mofo Branco, Cancro\
+    \ da Haste, Nematóide do Cisto, Queima das hastes e das vagens, Crestamentos Bacterianos,\
+    \ Morte em Reboleiras e outras; doenças da seringueira: mal das folhas, cancro,\
+    \ re\tqueima, antracnose, mancha areolada, oidio, mofo cinzento e outras; doenças\
+    \ do sorgo: Antracnose, Míldio, Ferrugem, Podridão da Macrophomina e outras; doenças\
+    \ do trigo: Ferrugem do colmo, da haste e foliar, Septorioses, Helminthosporiose,\
+    \ Carvão, Cárie e outras."
+  course_name: 'LFN1624 - Doenças das Grandes Culturas
+
+    Major Crops Diseases'
+  deactivation: ''
+  instructors: 3420352 - José Belasque Júnior
+  lecture_credits: '4'
+  objectives: A disciplina visa capacitar o aluno a reconhecer e resolver os problemas
+    fitopatológicos que afetam as principais grandes culturas.
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20231209050537'
+digest: ZT4UNTFTR5NHPVWI2CPLLGZHJNOKFCHP
+updated_at: '20231209050537'
+url: https://web.archive.org/web/20231209050537id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LFN1624&codcur=11010&codhab=0
