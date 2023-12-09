@@ -1,25 +1,44 @@
 courses:
-  activation: 01/01/2006
-  assessment: Uma única prova, com toda a matéria lecionada
-  bibliography: 'PINDYCK, R.S. & RUBINFELD, D.L. Microeconomia. São Paulo: Makron
-    Books, 1994. (Cap. 10-18).  VARIAN, H.R. Microeconomia - princípios básicos. Campus:
-    :Rio de Janeiro, 1994. (Caps. 23-32).EATON, B.C.; EATON, D.E. Microeconomia, São
-    Paulo: Saraiva, 1999. HENDERSON, J.M; QUANDT, R.E.  Teoria Microeconômica: uma
-    abordagem matemática. 3ª ed., São Paulo: Pioneira, 1992.'
-  course: '1) Monopólio: Preço e Produção no Monopólio, Discriminação de Preços, Mercados
-    Competitivos X Mercados Monopolizados, Poder de Mercado, 2) Concorrência Monopolística,
-    Diferenciação de Produtos, Curto-Prazo e Longo-Prazo, 3) Oligopólio, O Processo
-    Oligopolista de Decisões, Cournot Stackelberg Bertrand, Cartéis, 4) Comportamento
-    Estratégico, Teoria dos Jogos, Informação Assimétrica, Estratégias de Negócios;
-    5) Equilíbrio e Eficiência, A Caixa de Edgeworth, Trocas, Alocações eficientes
-    de Pareto, Equilíbrio e Eficiência, 6) A Teoria do Bem-Estar, Agregação de Preferências,
-    Funções de Bem-Estar Social, Maximização de Bem-Estar, 7) Externalidades, Teorema
-    de Coase, Produção de Externalidades, O Problema do Uso Comum, 8) Economia dos
-    Custos da Transação, 9) Teoria dos Jogos, 10) Tópicos de Organização Industrial.'
+  activation: 01/01/2023
+  assessment: Os alunos com média >3 e <5, estarão aptos a fazer a prova de recuperação,
+    conforme calendário oficial da USP e devem obter nota final maior ou igual a 5,
+    sendo esta a média simples entre a nota da prova de recuperação e a média final
+    alcançada antes desta.
+  bibliography: 'Literatura Básica:
+
+    NICHOLSON, W; SNYDER, C. Microeconomic Theory: Basic Principles and Extensions.
+    11th Edition (International Edition), 2012.
+
+    VARIAN, H. Intermediate Microeconomics: A Modern Approach. 8th Edition, 2010.
+
+    Literatura Complementar:
+
+    PINDYCK, R.S. e D.L. RUBINFELD.  Microeconomia.  São Paulo; Pearson Education
+    do Brasil, 8ª edição, 2013.
+
+    FIANI, R. Teoria dos Jogos. 6ª Edição, 2009.
+
+    BESANKO, D; BRAEUTIGAM, R. Microeconomics. 4th Edition, 2011.
+
+    CHIANG, A. C; WAINWRIGHT, K. Matemática para Economistas.'
+  course: '1) Modelo competitivo de Equilíbrio Parcial de mercados – curto prazo,
+    longo prazo, bem-estar;
+
+    2) Modelo competitivo de Equilíbrio Geral de mercados – produção, trocas puras,
+    função de bem-estar social;
+
+    3) Monopólio, Monopsônio, Discriminação de preços, Mercado de Concorrência Monopolística,
+    Mercado de fatores de produção;
+
+    4) Teoria dos Jogos e Estratégia Competitiva: Oligopólio, Oligopsônio, Coalisão.
+
+    5) Risco, Incerteza e Assimetria de Informação;
+
+    6) Externalidades e bens públicos.'
   course_name: 'LES0458 - Teoria Microeconômica II
 
     Microeconomic Theory II'
-  deactivation: 31/12/2022
+  deactivation: ''
   instructors: 1906631 - Silvia Helena Galvao de Miranda
   lecture_credits: '4'
   objectives: 1) Desenvolver a análise de determinação de preços e quantidades em
@@ -29,7 +48,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20221004033050'
-digest: 2WLXO5R47L6EUOR4EVQ2DYL22NBI575H
-updated_at: '20221004033050'
-url: https://web.archive.org/web/20221004033050id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0458&codcur=11090&codhab=1
+created_at: '20231209045615'
+digest: PLDTWSGZUQCX6ZWW56YOCTBWORY7RP67
+updated_at: '20231209045615'
+url: https://web.archive.org/web/20231209045615id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0458&codcur=11010&codhab=0
