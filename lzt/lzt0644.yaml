@@ -1,0 +1,79 @@
+courses:
+  activation: 01/01/2021
+  assessment: Uma prova escrita de cerca de 02 horas de duração, envolvendo todo o  programa
+    cumprido durante o semestre.
+  bibliography: '7.  BIBLIOGRAFIA  BÁSICA:
+
+    CAVALCANTI, S.S. Produção  de Suínos. Campinas: Instituto Campineiro de Ensino
+    Agrícola, 1984. 453p.
+
+    GOMES M.F.M.; GIROTTO, A.F.; TALAMINI, D.J.D. et al. Análise Prospectiva do Complexo
+    Agroindustrial de Suínos no Brasil. Concórdia: EMBRAPA (Doc. n.º 26), 1992, 108
+    p.
+
+    KRIDER, J.L.; CONRAD, J.H.; CARROLL, W.E. Swine Production. 5.ª ed. New York:
+    McGraw-Hill  Book Company,  1982. 679p.
+
+    MACHADO, L.C.P. Os Suínos. Porto Alegre: Editora A Granja, 1967. 622p.
+
+    MILLER, E.R.; ULLREY, D.E.; LEWIS, A.J. Swine Nutrition. Stoneham: Butterworth-Heinemann,
+    1991. 673p.
+
+    MIYADA, V.S.; LAVORENTI, A.  Atualização em Suinocultura. Piracicaba: FEALQ, 1985.
+    132p.
+
+    POND, W.G.; MANER, J.H. Swine Production in Temperate and Tropical Environments.
+    San Francisco: W.H. Freeman and Company, 1974. 646 p.
+
+    SOBESTIANSKY, J.; WENTZ, I.; SILVEIRA, P.R.S. et al. Manejo em Suinocultura: Aspectos
+    Sanitários, Reprodutivos e de Meio Ambiente. Concórdia: EMBRAPA (Circ. Téc. n.º
+    07), 1985. 184p.'
+  course: "Parte Teórica: A produção no Brasil e no mundo: histórico, importância\
+    \ econômica, estatísticas de produção atual e perspectivas. O suíno: classificação\
+    \ zoológica; origem e domesticação; características biológicas; características\
+    \ econômicas; tipos de suínos. Raças, genética e melhoramento de suínos: aplicação\
+    \ dos conceitos de genética; objetivos do melhoramento; seleção; estudo do exterior;\
+    \ índices de seleção; sistemas de cruzamento. Bases para o planejamento de uma\
+    \ criação de suínos: análise do mercado; recursos disponíveis; dimensionamento\
+    \ de instalações; equipamentos; ração; água; custo de produção e tipos de produção.\
+    \ Reprodução: anatomia do sistema reprodutor masculino e feminino; puberdade;\
+    \ cio e ciclo estral; acasalamento; gestação, parição; inseminação artificial;\
+    \ fatores que afetam a eficiência reprodutiva. Nutrição dos suínos: aparelho digestivo;\
+    \ nutrientes essenciais; exigências nutricionais; interações entre nutrientes;\
+    \ deficiências nutricionais. Alimentação dos suínos: descrição e caracterização\
+    \ dos diferentes alimentos; formulação de rações; aditivos. Manejo do rebanho\
+    \ suíno: manejo de leitões ao nascer; manejo de leitões da desmama ao abate; manejo\
+    \ de matrizes em pré-gestação, gestação e lactação; manejo de cachaços; manejo\
+    \ da alimentação das diversas categorias de suínos. Manejo sanitário do rebanho\
+    \ suíno, envolvendo isolamento, limpeza e desinfecção das instalações dos animais.\
+    \ Manejo dos dejetos dos suínos. Instalações para suínos: conforto ambiental,\
+    \ fatores que afetam a produtividade; edificações para os animais; construções\
+    \ complementares. Técnica de pesquisa com suínos; experimentos de nutrição e alimentação\
+    \ de suínos. O suíno como produtor de carne: fatores que afetam a qualidade da\
+    \ carcaça; avaliação de carcaças; mercado de carne suína e derivados e qualidade\
+    \ da carne.\nParte Prática:\nApreciação, avaliação e escolha dos leitões destinados\
+    \ à reprodução e de reprodutores nas raças criadas no Departamento de Zootecnia\
+    \ Escola Superior de Agricultura \x93Luiz de Queiroz\x94. Proporções mais usuais\
+    \ de alimentos em rações de suínos. Formulação de ração e arraçoamento. Manejo\
+    \ e práticas criatórias: marcação, desmama, vacinação, castração, aplicação de\
+    \ ferro, aplicação de vermífugos, administração de medicamentos, pesagens e outras\
+    \ práticas rotineiras de manejo. Manejo sanitário do rebanho. Escrituração zootécnica\
+    \ e registro genealógico. Profilaxia e higiene das instalações. Serviços de rotina\
+    \ de uma granja de suínos. Pararasitas mais comuns dos suínos \x96 profilaxia\
+    \ e combate."
+  course_name: 'LZT0644 - Suinocultura
+
+    Swine Production'
+  deactivation: ''
+  instructors: 2231328 - Urbano dos Santos Ruiz
+  lecture_credits: '4'
+  objectives: Dar ao estudante uma visão global da suinocultura a nível do Estado
+    de São Paulo e do Brasil, e apresentar as técnicas para criação racional de suínos,
+    ressaltando os principais problemas e os aspectos econômicos e sociais.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209045622'
+digest: BO3WZPDPJPXEKS4UQLBOYJWBCLRXL4IT
+updated_at: '20231209045622'
+url: https://web.archive.org/web/20231209045622id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0644&codcur=11010&codhab=0
