@@ -1,0 +1,62 @@
+courses:
+  activation: 01/01/2010
+  assessment: Uma prova envolvendo toda a matéria dada teórico-prática.
+  bibliography: 'LORDELLO, L.G.E.  Nematóides das plantas cultivadas. São Paulo, Nobel.
+    1981. 320 p.
+
+    LUC, M.; SIKOKA, R.A. & BRIDGE, J. (Ed.). Plant Parasitic Nematodes in Subtropical
+    and Tropical Agriculture. Wallinglord, CAB International, 1990.
+
+    MONTEIRO, A.R., FERRAZ, L.C.C.B. &  INOMOTO,  M.M.  Nemata:  Curso  de       nematóides  parasitos
+    de plantas. 1994. 250 p.
+
+    PASCHOAL, A.D.; MONTEIRO, A.R.; FERRAZ, L.C.C.B.; MARICONI, F.A.M.; INOMOTO, M.M.
+    1996. Fundamentos de Zoologia Agrícola e Parasitologia. Animais do meio rural
+    e sua importância. Piracicaba, ESALQ-USP, 224 p.
+
+    TIHOHOD, D.  Nematologia Agrícola. Volume 1. Jaboticabal, FCAV-UNESP, 1989. 80
+    p.
+
+    TIHOHOD, D.  Nematologia Agrícola. Volume 2. Jaboticabal, FCAV-UNESP, 1989.  7
+    + 75 p.'
+  course: 1. Características gerais dos nematóides. 2. Biologia e ecologia dos nematóides.
+    2.1. Ciclo vital.  2.2. Modos de parasitismo dos nematóides fitoparasitos. 2.3.
+    Ação dos nematóides sobre as plantas. 2.4. Influência do ambiente sobre os nematóides
+    e as plantas hospedeiras. 3. Coleta de amostras para análise nematológica. 4.
+    Estudo dos nematóides de importância agrícola.  4.1.  Família  Longidoridae.  Nematóides
+    adaga (Xiphinema spp.); transmissão de viroses. 4.2. Família Trichodoridae.Nematóide
+    das raízes em coto (Paratrichodorus minor);  transmissão  de  viroses. 4.3. Família  Anguinidae.  Nematóide  da  galha  do  trigo
+    (Anguina tritici) e nematóide dos caules  e  bulbos  (Ditylenchus dipsaci). 4.4.
+    Família Dolichodoridae. 4.5.   Família Belonolaimidae.  4.6.  Família   Pratylenchidae.
+    Nematóides das lesões radiculares (Pratylenchus spp.) e nematóide cavernícola
+    (Radopholus similis). 4.7. Família  Hoplolaimidae.  Nematóide  do  inhame  (Scutellonema
+    bradys). Nematóide  reniforme  (Rotylenchulus  reniformes) e outros  nematóides
+    espiralados (Helicotylenchus dihystera,   H.  multicinctus)     4.8.  Família  Heteroderidae.
+    Nematóides  das  galhas  radiculares   (Meloidogyne  spp.)  e  nematóide  de   cisto   da   soja  (Heterodera  glycines).  4.9.  Família   Criconematidae.  Nematóides   anelados.
+    4.10. Família  Tylenchulidae.  Nematóide  das  plantas  cítricas  (Tylenchulus
+    semipenetrans). 4.11.Família Aphelenchoididae. Nematóides parasitos  de  folhas
+    (Aphelenchoides besseyi,  A.  fragariae  e  A.  ritzemabosi), nematóide da murcha
+    do pinheiro (Bursaphelenchus xylophilus)  e nematóide do  anel  vermelho  das  palmáceas  (Bursaphelenchulus
+    cocophilus). 5. Métodos de controle de nematóides de importância agrícola. 5.1.
+    Controle dos nematóides da soja. 5.2. Controle dos nematóides do algodoeiro. 5.3.
+    Controle dos nematóides do cafeeiro. 5.4. Controle dos nematóides da cana-de-açúcar.
+    5.5 Controle dos nematóides das ornamentais. 5.6. Controle dos nematóides das
+    frutíferas. 6. Importância agrícola dos nematóides entomopatogênicos.
+  course_name: 'LFN0512 - Nematologia
+
+    Nematology'
+  deactivation: ''
+  instructors: 57380 - Mario Massayuki Inomoto
+  lecture_credits: '4'
+  objectives: 'Ministrar conhecimentos essenciais sobre nematóides do solo, com destaque   especial
+    dos  grupos  nocivos à
+
+    agricultura  encontrados  no Brasil, incluindo métodos de controle e revisão da
+    literatura mais recente.'
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20231209045435'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20231209045435'
+url: https://web.archive.org/web/20231209045435id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LFN0512&codcur=11010&codhab=0
