@@ -1,0 +1,40 @@
+courses:
+  activation: 01/01/2018
+  assessment: Prova escrita (questões dissertativas) englobando toda a matéria lecionada,
+    dentro do prazo estabelecido pela Comissão de Graduação da ESALQ. A nota final
+    será a média da nota obtida pelo aluno no semestre e a nota da prova de recuperação
+  bibliography: 'Básica:
+
+    MONTGOMERY, D. C. Introdução ao controle estatístico da qualidade. LCT: Rio de
+    Janeiro, 2004. 513p.
+
+    Estudos de caso fornecidos pelo docente.
+
+    Complementar:
+
+    DEVORE, J.L. Probabilidade e estatística para engenharia e ciências. Pioneira
+    Thomson Learning: São Paulo, 2006. 692p.'
+  course: '1. Melhoria da qualidade e sua importância estratégica na área de alimentos.
+    3. Métodos estatísticos úteis para melhoria da qualidade. 4. Fundamentos do controle
+    estatístico de processos (CEP): gráficos de controle por variáveis, gráficos de
+    controle por atributos. Estudos de caso. 5. Métodos para análise da capacidade
+    do processo: Cp e Cpk. Desempenho da qualidade seis-sigma. 6. Inspeção da qualidade.
+    Planos de amostragem. 8. Visitas técnicas.'
+  course_name: 'LAN2740 - Controle Estatístico da Qualidade na Agroindústria de Alimentos
+
+    Statistical Quality Control in the Food Industry'
+  deactivation: ''
+  instructors: 1907305 - Thais Maria Ferreira de Souza Vieira
+  lecture_credits: '2'
+  objectives: Capacitar os alunos a:1. Aplicar ferramentas de controle da qualidade
+    na agroindústria de alimentos e no setor de serviços em alimentação utilizando
+    métodos estatísticos. 2. Oferecer ao aluno uma compreensão sólida dos princípios
+    básicos para aplicar ferramentas de controle da qualidade na área de alimentos,
+    desde a produção de matérias-primas até o desenvolvimento de produtos e processos.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209045339'
+digest: CAFWMMXLEUKBDW63BADODFFDALWW55HQ
+updated_at: '20231209045339'
+url: https://web.archive.org/web/20231209045339id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN2740&codcur=11010&codhab=0
