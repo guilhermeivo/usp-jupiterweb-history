@@ -1,90 +1,74 @@
 courses:
-  activation: 01/01/2019
+  activation: 01/01/2022
   assessment: 'Para os alunos reprovados por nota, mas beneficiados pelo sistema de
     recuperação, esta será realizada através da aplicação de uma prova teórica e outra
     prática.
 
-    Nota de recuperação = 2 Teórica + Prática
+    Nota de recuperação = (2 Teórica + Prática) / 3'
+  bibliography: 'Literatura Básica:
 
-    3'
-  bibliography: 'ANGULO FILHO, R.; VETTORAZZI, C.A.; DEMÉTRIO, V.A.  Exercícios de
-    Topografia (Apostila).Departamento Editorial do CALQ - DECALQ.  Piracicaba.  1996.
-    25p.
+    SAMPAIO, T.V. M.; BRANDALIZE, M. C. B.. Cartografia geral, digital e temática.
+    Curitiba: Universidade Federal do Paraná, Programa de Pós-Graduação em Ciências
+    Geodésicas, 2018. 210 p.: il. - (Série Geotecnologias: teoria e prática; v. 1)
+
+    BORGES, A.C.  Topografia.  São Paulo, Edgard Bluscher, 1977.  187p. Vol. 1.
+
+    GODOY, R.  Topografia Básica.  Piracicaba, FEALQ, 1988. 349p.
+
+    ASSAD, E.D.; E.E. SANO   Sistemas de Informações Geográficas: Aplicações na Agricultura.  2ª
+    ed.   EMBRAPA-CPAC, Brasília - DF, 434p., 1998.
+
+    MOFITT, F.H. MIKHAIL, E.M.  Photogrammetry. 8a. ed.  New York, Harpen  and Row,
+    Publishers. 1987.  876p.
+
+    SEGANTINE, P.C.L.  GPS: Sistema de Posicionamento Global. EESC/USP. São Carlos,
+    SP. 364p. 2005.
+
+    AVERY, T.E.; BERLIN, G.L. Interpretation of aerial photographs.  Minneapolis,
+    Burgess Publishing Company, 4ª ed, 1985.
+
+    Literatura Complementar:
+
+    MONICO, J.F.G.  Posicionamento pelo GNSS: descrição, fundamentos e aplicações.
+    São Paulo, Editora UNESP.  2ª edição. 2007.
 
     ATCHESON, D.  Estimating Earthwork Quantities.  3a. ed. Lubbock, Norseman Publishing
     Company, 1986.
 
-    BORGES, A.C.  Exercícios de  Topografia.  3a.  ed. São  Paulo,  Edgard    Blucher,
-    1975. 192p.
-
-    BORGES, A.C.  Topografia.  São Paulo, Edgard Bluscher, 1977.  187p. Vol. 1.
-
-    BORGES, A.C.  Topografia.  São Paulo, Edgard Bluscher, 1992.  232p. Vol. 2.
-
-    COMASTRI, J.A.; TULLER, J.C.  Topografia: Altimetria.  Viçosa, Imprensa Universitária,
-    1980. 160p.
-
-    COMASTRI, J.A & CARVALHO, C.A.B. de.  Estradas (traçado geométrico).  Viçosa,
-    Imprensa Universitária, 1981. 71p. (Boletim no. 112).
-
-    COMASTRI, J.A. & TULLER, J.C.  Topografia: Planitimetria.  Viçosa,  Imprensa Universitária,
-    1977. 335p.
-
     DAVIS, R.E.;  FOOTE, F.S.;  ANDERSON, J.M. & MIKHAIL, E.M. Surveying: Theory and
-    Practice. 6a. ed.  New York.  Mac Graw-Hill Publisching Company, 1981.  992p.
-
-    DOMINGUES, F.A.A.  Topografia e Astronomia de Posição para  Engenheiros e Arquitetos.  São
-    Paulo, Mc Graw hill, 1979.
-
-    ERBA, D.A. (Org.)  Topografia para Estudantes de Arquitetura, Engenharia e Geologia.
-    São Leopoldo, Ed. Unisinos, 2003.
-
-    ESPARTEL, L.  Curso de Topografia. 7a. ed.  Porto Alegre, Globo,  1980. 655p.
-
-    FONSECA,  R.S.   Elementos  de  Desenho  Topográfico.  São Paulo,  Mc Graw Hill,
-    1979. 192p.
-
-    GODOY, R.  Topografia Básica.  Piracicaba, FEALQ, 1988. 349p.
-
-    JORDAN, W.  Tratado General de Topografia.  Barcelona,  Gustavo Gili,  1961. 2v..
-
-    LIBAULT, A.  Geocartografia.  São Paulo, Ed. Da USP, 1975.'
-  course: 'Planimetria: Geotecnologia aplicada às ciências agrárias. Topografia: definição,
-    objetivos e divisão. Conceitos Fundamentais: ponto e plano topográfico, topografia,
-    geodésia e cartografia. Teodolitos: tipos, constituição e manejo de aparelhos.
-    Goniometria: bússolas, tipo e emprego; inclinação e declinação  magnética; azimutes
-    e rumos verdadeiros e magnéticos; aviventação de rumos; outros ângulos horizontais.
-    Medição direta de distância: erros, precisão, transposição de obstáculos. Taqueometria:
-    determinação de distância horizontal e distância vertical. Medição eletrônica
-    de distâncias. Métodos de levantamento topográfico: intersecção, irradiação e
-    caminhamento. Determinação de áreas: métodos gráficos, analíticos. Locação de
-    obras rurais. Normas técnicas referentes à topografia. Altimetria: Conceitos fundamentais:
-    superfície de nível; nível verdadeiro e aparente; erro devido à curvatura da Terra
-    e refração atmosférica; altitude e cota; declividade. Constituição, retificação
-    e manejo dos níveis de precisão. Métodos de nivelamento: barométrico, taqueométrico;
-    trigonométrico e geométrico (simples e composto). Curvas de nível e em desnível.
-    Perfis longitudinais e transversais: rampas; corte e aterro. Levantamento planialtimétrico.
-    Uso de "Softwares" topográficos. Desenho Topográfico: generalidades, classificação,
-    instrumentação e material de traçado. Convenções e normatização para desenho topográfico.
-    Processos de representação: projeções cotadas; estudo do ponto, da reta e do plano.
-    Desenho de perfis e plantas planialtimétricas. Sistematização de terras: Elementos
-    de terraplanagem, sistematização de terras e barramentos.'
-  course_name: 'LEB0340 - Topografia
+    Practice. 6a. ed.  New York.  Mac Graw-Hill Publisching Company, 1981.  992p.'
+  course: 'Cartografia: Leitura, análise e interpretação de documentos cartográficos.
+    Concepção de mapa, carta e planta. Escalas, sistemas de coordenadas, projeções
+    cartográficas, cartografia temática e digital. Topografia: definição, objetivos
+    e divisão. Conceitos de planimetria e altimetria. Métodos de levantamento topográficos:
+    intersecção, irradiação e caminhamento. Sistema Global de Navegação por Satélite
+    (GNSS): Conceitos e definição. Características do GPS, medições de distância,
+    aplicações. Georreferenciamento de imóveis rurais: Normativas e aplicações. Princípios
+    de fotogrametria: plano de vôo aerofotogramétrico; geometria da fotografia aérea
+    vertical; estereoscopia; e princípios de restituição aerofotogramétrica. Veículos
+    aéreos não tripulados: Princípios e aplicações. Modelos Numéricos do Terreno (MNT):
+    Conceitos, amostragem, estrutura de dados, aplicações. Introdução ao Sistema de
+    Informação Geográfica (SIG): Uso de técnicas de geoprocessamento para análise
+    da superfície do terreno. LIDAR ( Light Detection And Ranging): Modelagem de superfície
+    do terreno. Análise de modelos digitais do terreno: declividade, drenagem e manejo
+    de bacias hidrográficas.'
+  course_name: 'LEB0340 - Geotecnologias Aplicadas ao Levantamento de Projetos Agrícolas
 
     Land Surveying and Geoprocessing I'
   deactivation: ''
-  instructors: 2151441 - Peterson Ricardo Fiorio
-  lecture_credits: '6'
-  objectives: Informar sobre o conjunto de normas, regras e princípios aplicados aos
-    métodos topográficos gerais, para representar gráfica ou analiticamente, os pontos
-    de uma porção limitada da superfície terrestre, calculados com exatidão, em relação
-    a um plano de referência, com todos os detalhes, acidentes, área, posição altimétrica
-    e orientação segundo as coordenadas geográficas e ou planas, permitindo a execução
-    de estudos e projetos a serem implantados.
+  instructors: '11967931 - Ana Claudia dos Santos Luciano
+
+    2151441 - Peterson Ricardo Fiorio'
+  lecture_credits: '4'
+  objectives: Conceitualizar e capacitar os alunos para aplicação do uso de geotecnologias
+    no levantamento da superfície do terreno, a partir de tecnologias de levantamentos
+    planialtimétricos, sistemas globais de navegação, fotogrametria e modelagem numérica
+    do terreno utilizando ferramentas de processamento de dados geográficos para aplicações
+    em desenvolvimento de projetos agrícolas.
   practical_credits: '0'
-  total_workload: 90 h
+  total_workload: 60 h
   type: Semestral
-created_at: '20200922151443'
-digest: GFSS5SWQHLZDT5QEAD4SVT43NITWSEOW
-updated_at: '20200922151443'
-url: https://web.archive.org/web/20200922151443id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0340&codcur=11010&codhab=0
+created_at: '20231209045539'
+digest: MMZBSOIFPTNN2Z57GSU3NE5WWTLI5W5J
+updated_at: '20231209045539'
+url: https://web.archive.org/web/20231209045539id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB0340&codcur=11010&codhab=0
