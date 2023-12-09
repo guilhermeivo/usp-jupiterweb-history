@@ -1,0 +1,83 @@
+courses:
+  activation: 01/01/2013
+  assessment: Uma prova geral que envolve toda a matéria lecionada (teórico-prática).
+  bibliography: 'Literatura Básica:
+
+    ANDREI, E. Compendio de Defensivos Agrícolas. 7. ed. São Paulo: Org. Andrai Ed.
+    Ltda, 1141p., 2009.
+
+    AZEVEDO, L.A.S. Manual de Quantificação de Doenças de Plantas. São Paulo. 114
+    p., 1998.
+
+    BERGAMIN FILHO, A., KIMATI, H. & AMORIM, L. (Eds.). 1995. Manual de Fitopatologia.
+    Vol.1. Ed. Agronômica Ceres, São Paulo, 919 p.
+
+    KIMATI, H., AMORIM, L., BERGAMIN FILHO, A.; CAMARGO, L.E.A. & REZENDE, J.A.M.
+    Manual de Fitopatologia, Vol.II - Doenças das Plantas Cultivadas. 4a. Edição.
+    Editora Agronômica Ceres Ltda, São Paulo. 663 p., 2005.
+
+    ZAMBOLIM, L.; VALE, F.X.R. & COSTA, H. Controle de Doenças de Plantas: Hortaliças.
+    Viçosa, 2 V. 879 p. 2000.
+
+    CATI. Manual Técnico das Culturas. 2ª. Ed. Tomo II, Campinas. Olericolas, Medicinais
+    e Ornamentais. 234 p., 1.997.
+
+    CATI. Manual Técnico das Culturas. 2ª. Ed. Tomo III, Campinas. Fruticultura. 347
+    p., 1.997.
+
+    JORGE, J.A, LOURENÇÃO, A.L. & ARANHA, C. Instruções Agrícolas para o Estado de
+    São Paulo. Campinas. B. Insti. Agron, 233p., 1994.
+
+    LOPES, C.A. E J.R.M SANTOS. Doenças do tomateiro. EMBRAPA-CNOH. Brasilia-DF.,
+    1994.
+
+    LOPES, C.A. E M. QUEZADO-SOARES. Doenças Bacterianas das Hortaliças: diagnose
+    e controle. EMBRAPA-CNPH. Brasilia-DF, 1997.
+
+    PITTA, G.P.B., CARDOSO, R.M.G & CARDOSO, E.J.B.N. Doenças das Plantas Ornamentais.
+    IBLC, São Paulo, 186 p., 1989.
+
+    ZAMBOLIM, L et al.  Controle de Doenças de Plantas  - Frutíferas. Vol. 1 e 2.
+    Viçosa, 2002.
+
+    ZAMBOLIM, L et al.  Controle Integrado das doenças de hortaliças. Viçosa, 1997.'
+  course: "Diagnose de doenças infecciosas e não infecciosas. Princípios gerais de\
+    \ controle (exclusão, erradicação, proteção, imunização, terapia, regulação e\
+    \ evasão). Métodos de controle / manejo (cultural, genético, químico, biológico,\
+    \ físico, integrado / sustentado).\nDoenças das plantas frutíferas: diagnose e\
+    \ manejo\nAbacateiro: Podridão de raízes, Cancro de Phytophthora, Cancro de Dothiorella,\
+    \ Murcha de Verticillium, Oídio, Verrugose, Antracnose, Cercosporiose e outras;\
+    \ Abacaxi: Gomose, Podridão Negra e outras; Bananeira: Sigatoka amarela, Sigatoka\
+    \ negra, Mal do Panamá, Moko, Podridão do Engaço e outras; Citros: CVC, \x93Greening\x94\
+    \ (HLB), Cancro, Leprose, Pinta preta, Queda prematura dos frutos, Tristeza, Exocorte,\
+    \ Sorose, Xiloporose, Verrugose, Melanose, Rubelose, Gomose, Síndrome da Morte\
+    \ Súbita, Declínio e outras; Figueira: Ferrugem e outras; Goiabeira: Ferrugem\
+    \ e outras; Mamoeiro: Mosaico, Varíola, Antracnose, Podridão do Pé e outros; Mangueira:\
+    \ Oídio, Antracnose, Seca, Mal formação floral e outras; Rosáceas: Sarna, Cancro\
+    \ dos Ramos, Entomosporiose, Podridão Parda, Crespeira do pessegueiro, Bacterioses\
+    \ e outras; Videira: Antracnose, Míldio, oídio, Viroses e outras.\nDoenças das\
+    \ hortaliças: diagnose e manejo\nAlface: Mosaico. Mancha Bacteriana, Septoriose,\
+    \ Queima da saia e outras; Alho e cebola: Mancha púrpura, Ferrugem, Antracnose,\
+    \ Podridão Basal, Míldio em Faixas, podridão Branca e outras; Cenoura: Queima\
+    \ de Alternaria, Podridão Mole, amarelo ou Vermelho da cenoura e outras; Crucíferas:\
+    \ Podridão Negra, Podridão Mole, Hérnia, Míldio, Ferrugem branca, Murcha do Fusarium,\
+    \ Mosaicos e outras; Cucurbitáceas: Antracnose, Oídio, Míldio, Mancha Angular,\
+    \ Mosaicos, Crestamento Gomoso do Caule, Murcha de Fusarium e outras; Solanáceas:\
+    \ Cancro, Murcha Bacteriana, Manchas Bacterianas, Mosaicos amarelos, Requeima,\
+    \ Pinta preta, Murcha do Verticillium e de Fusanium e outras."
+  course_name: 'LFN1625 - Doenças das Plantas Frutíferas e Hortícolas
+
+    Fruit and Horticultural Crops Diseases'
+  deactivation: 31/12/2023
+  instructors: 3420352 - José Belasque Júnior
+  lecture_credits: '4'
+  objectives: A disciplina visa capacitar o aluno a reconhecer e resolver os problemas
+    fitopatológicos que afetam as principais plantas frutíferas e hortícolas (hortaliças,
+    ornamentais, medicinais, etc.).
+  practical_credits: '1'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20231209045424'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20231209045424'
+url: https://web.archive.org/web/20231209045424id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LFN1625&codcur=11010&codhab=0
