@@ -52,7 +52,7 @@ courses:
   total_workload: 60 h
   type: Semestral
 created_at: '20230529145932'
-digest: YQOJP7MWXXJ27HYFU7WPG2U7G2XOEONX
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 7'
   requirements:
@@ -74,5 +74,5 @@ requirements:
   - code: LCE0130
     name: Cálculo Diferencial e Integral
     type: Requisito
-updated_at: '20230930094634'
-url: https://web.archive.org/web/20230930094634id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=1100222&codcur=11070&codhab=4
+updated_at: '20231209050123'
+url: https://web.archive.org/web/20231209050123id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=1100222&codcur=11010&codhab=0
