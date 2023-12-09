@@ -41,7 +41,7 @@ courses:
   total_workload: 75 h
   type: Semestral
 created_at: '20231201204846'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+digest: 22PHH36HELQNUURUYHC64R6XGII6DPCX
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 5'
   requirements:
@@ -53,5 +53,5 @@ requirements:
   - code: LZT0307
     name: Anatomia e Fisiologia de Vertebrados I
     type: Requisito
-updated_at: '20231209045419'
-url: https://web.archive.org/web/20231209045419id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0493&codcur=11010&codhab=0
+updated_at: '20231209045436'
+url: https://web.archive.org/web/20231209045436id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0493&codcur=11010&codhab=0
