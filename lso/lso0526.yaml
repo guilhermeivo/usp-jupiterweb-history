@@ -1,0 +1,105 @@
+courses:
+  activation: 01/01/2015
+  assessment: 1 prova teórica-prática
+  bibliography: "Literatura Básica:\nALCARDE, J.C.; GUIDOLIM, J.A. & LOPES, A.S. Os\
+    \ adubos e a eficiência das adubações. ANDA. São Paulo. 1991. 35 p. Boletim Técnico.\
+    \ 3.\nMALAVOLTA, E. ABC da adubação. 5ª ed. Editora Agronômica Ceres. São Paulo.\
+    \ 1989. 292p.\nNOVAIS, R.F.; ALVAREZ V., V.H.; BARROS, N.F.; FONTES, R.L.F.; CANTARUTTI,\
+    \ R.B.; NEVES, J.C.L. Fertilidade do Solo. Viçosa, MG: Sociedade Brasileira de\
+    \ Ciência do Solo, 2007. 1017 p.\nRAIJ, B. van; CANTARELLA, H. QUAGGIO, J. A.;\
+    \ FURLANI, A. M. C. Recomendação de adubação e calagem para o Estado de São Paulo.\
+    \ 2ª ed. Instituto Agrônomico de Campinas -IAC.Campinas. 1997. 285p. (Boletim\
+    \ Técnico, 100).\nRIBEIRO, A. C.; GUIMARÃES, P. T. G.; ALVAREZ V., V. H. (Ed.).\
+    \ Recomendação para o uso de corretivos e fertilizantes em Minas Gerais: 5. Aproximação.\
+    \ Viçosa: Comissão de Fertilidade do Solo do Estado de Minas Gerais, 1999. 359p.\n\
+    SOCIEDADE BRASILEIRA DE CIÊNCIA DO SOLO. COMISSÃO DE QUÍMICA E FERTILIDADE DO\
+    \ SOLO. Manual de adubação e de calagem para os Estados do Rio Grande do Sul e\
+    \ de Santa Catarina. 10. ed. Porto Alegre, 2004. 400p.\nSOUZA, D.M.G.; LOBATO,\
+    \ E. Cerrado: Correção do solo e adubação. EMBRAPA Informações Tecnológicas. 2.\
+    \ ed. il. Brasília, 2004. 416p.\nLiteratura Complementar:\nALCARDE, J.C. Manual\
+    \ de analise de fertilizante \x96 Piracicaba: FEALQ, 2009. 259p.\nBOARETTO, A.E.\
+    \ & ROSOLEM, C.A. (Coord.). Adubação Foliar. Vol. I e II. Fundação Cargill. Campinas/SP.\
+    \ 1989. 669p.\nGONÇALVES, J.L.M. Nutrição e fertilização florestal. Piracicaba:\
+    \ IPEF, 2005.\nKIEHL, E.J. Fertilizantes Orgânicos. Editora Agronômica Ceres Ltda.\
+    \ São Paulo/SP. 1985. 492p.\nMALAVOLTA, E.; Manual de nutrição mineral de plantas.\
+    \ Ed. Agronômica Ceres. São Paulo, 2006. 638p.\nMARTHA JÚNIOR, G.B.; VILELA, L.;\
+    \ SOUSA. D.M.G. (Ed.). Cerrado: uso eficiente de corretivos e fertilizantes em\
+    \ pastagens. Planaltina, DF: Embrapa Cerrados, 2007. 224p.\nMORTVEDT, J.J.; GIORDANO,\
+    \ P.M.; LINDSAY, W.L. Micronutrients in Agriculture Soil Science Society of America.\
+    \ Inc. Madison. Wisconsin USA. 1972. Vol. 1 e 2.\nPROCHNOW, L.I.; CASARIN. V.;\
+    \ STIPP, S.R. Boas práticas para o uso eficiente de fertilizantes. vol. I, II\
+    \ e III. IPNI: Intenational Plant Nutrition Institute. Piracicaba, 2011.\nRAIJ,\
+    \ B. van. Fertilidade do solo e manejo de nutrientes. Piracicaba: IPNI: International\
+    \ Plant Nutrition Institute, 2011. 420p.\nVITTI, G.C. & BOARETTO, A.E. Fertilizantes\
+    \ fluídos. Piracicaba-SP. Potafós, 1994. 343p.\nVITTI, G.C. & CERQUEIRA LUIZ,\
+    \ P.H. Utilização agronômica de corretivos agrícolas. Piracicaba: FEALQ, 2004.\
+    \ 120p.\nVITTI, G.C.; CERQUEIRA LUZ, P.H. de; MALAVOLTA, E.; DIAS, A.S.; SERRANO,\
+    \ C.G.E. de. Uso do gesso em sistemas de produção agrícola. Piracicaba, GAPE,\
+    \ 2008. 104 p.\nYAMADA, T.; ABDALLA, S.R. Potássio na agricultura brasileira.\
+    \ Piracicaba, IPNI, Brasil, 2006. 720p."
+  course: 'TEÓRICO-PRÁTICO:
+
+    - Fatores de produtividade agrícola, conceito e importância da adubação. Fatores
+    de perdas dos fertilizantes. Importância do Brasil na produção de alimentos, fibras
+    e energia.
+
+    - Corretivos, fertilizantes e condicionadores do solo, conceitos básicos, classificação,
+    amostragem para fins de caracterização e análise de acordo com a legislação vigente.
+
+    - Propriedades químicas, físico-químicas e físicas dos corretivos e fertilizantes.
+
+    - Cálculo de formulações comerciais com e sem carga.
+
+    - Corretivos agrícolas: uso eficiente do calcário.
+
+    - Condicionadores de solo: uso eficiente do gesso agrícola
+
+    - Fertilizantes nitrogenados: obtenção, características e ação fertilizante.
+
+    - Fertilizantes fosfatados: obtenção, características e ação fertilizante.
+
+    - Fertilizantes potássicos, cálcicos e magnesianos: obtenção, características
+    e ação fertilizante.
+
+    - Fertilizantes com enxofre e micronutrientes: obtenção, características e ação
+    fertilizante.
+
+    - Fertilizantes orgânicos e organomineral: fontes, caracterização, utilização,
+    ação fertilizante e emprego isolado ou na forma de compostagem.
+
+    - Adubos verdes: conceito, benefícios, principais adubos verdes, utilização e
+    manejo.
+
+    - Recomendação de práticas corretivas e de adubação em culturas anuais (milho,
+    soja, feijão e algodão)
+
+    - Recomendação de práticas corretivas e adubação em culturas perenes e cana-de-açúcar'
+  course_name: 'LSO0526 - Adubos e Adubação
+
+    Fertilizers and Fertilization'
+  deactivation: 31/12/2023
+  instructors: '7921125 - Paulo Sergio Pavinato
+
+    3542866 - Rafael Otto'
+  lecture_credits: '2'
+  objectives: '- Desenvolver o senso crítico dos alunos em relação ao papel dos fertilizantes
+    na produção de alimentos
+
+    - Apresentar as características e propriedades dos principais tipos de fertilizantes
+    sólidos e líquidos
+
+    - Preparar o aluno para ter conhecimentos básicos quanto à tecnologia de obtenção,
+    ação e utilização de corretivos, gesso agrícola e fertilizantes minerais.
+
+    - Fornecer ao aluno subsídios para o uso, manejo e obtenção de adubos verdes e
+    orgânicos.
+
+    - Apresentar aos alunos as melhores técnicas de manejo para uso eficiente dos
+    fertilizantes e corretivos na agricultura brasileira.'
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20231209045448'
+digest: G7SVF4QSV3FGT7IP5BGU3B7W2NGKNGS2
+updated_at: '20231209045448'
+url: https://web.archive.org/web/20231209045448id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LSO0526&codcur=11010&codhab=0
