@@ -1,15 +1,20 @@
 courses:
-  activation: 01/01/2016
+  activation: 01/01/2023
   assessment: Uma única prova constando toda a matéria lecionada
-  bibliography: 'BACHA, C.J.C. Economia e Política Agrícola. São Paulo, Atlas, 2004.
-    ESALQ. Deptº de Economia, Administração e Sociologia l "Economia e Administração
-    Agroindustrial".  Piracicaba, 1995. 273p. (Série Didática, 96) 1. VIAN, C.E.F.;
-    PELLEGRINO, A.C.G.T.; PAIVA, C.C. Fundamentos e prática aplicada à realidade brasileira.
-    Campinas Alínea, 2005. CARVALHO, MA; SILVA,C.R.L. Economia Internacional. São
-    Paulo Saraiva, 2002. STIGLITZ, J.E; WALSH, C.E. Introdução à Microeconomia. Rio
-    de Janeiro: Campus, 2003. MANKIW, NG. Introdução à Economia. Rio de Janeiro. Campus,
-    2005. CARVALHO, M.A.; SILVA, C.R.L.  Economia Internacional. São Paulo: Saraiva,
-    2002. LIMA, RAS. Economia Aplicada à Agropecuária. Apostila 2013.'
+  bibliography: 'MANKIW, N.G.  Introdução à economia. Rio de Janeiro: Campus, 2014.
+
+    PINDICK, R.; RUBINFELD, D. Microeconomia. 8ed. São Paulo: Pearson, 2013.
+
+    VASCONCELLOS, M.A.S. Economia: Micro e Macro. 6ed. São Paulo: Editora Atlas, 2015.
+
+    BACHA, C.J.C. Economia e Política Agrícola. São Paulo, Atlas, 2004. ESALQ. Deptº
+    de Economia, Administração e Sociologia l "Economia e Administração Agroindustrial".  Piracicaba,
+    1995. 273p. (Série Didática, 96) 1. VIAN, C.E.F.; PELLEGRINO, A.C.G.T.; PAIVA,
+    C.C. Fundamentos e prática aplicada à realidade brasileira. Campinas Alínea, 2005.
+    CARVALHO, MA; SILVA,C.R.L. Economia Internacional. São Paulo Saraiva, 2002. STIGLITZ,
+    J.E; WALSH, C.E. Introdução à Microeconomia. Rio de Janeiro: Campus, 2003. CARVALHO,
+    M.A.; SILVA, C.R.L.  Economia Internacional. São Paulo: Saraiva, 2002. LIMA, RAS.
+    Economia Aplicada à Agropecuária. Apostila 2013.'
   course: '1. Importância da Agricultura para o Desenvolvimento Econômico.- Desenvolvimento
     Econômico e o Papel da Agricultura.2. Tópicos de Microeconomia- Princípios de
     microeconomia.- A Demanda do Consumidor.- A Curva de Oferta.- Equilíbrio de Mercado.-
@@ -23,22 +28,28 @@ courses:
 
     Principles of Economics, Politics and Development'
   deactivation: ''
-  instructors: 3043376 - Alexandre Nunes de Almeida
+  instructors: '3043376 - Alexandre Nunes de Almeida
+
+    1968008 - Roberto Arruda de Souza Lima
+
+    1906631 - Silvia Helena Galvao de Miranda'
   lecture_credits: '2'
   objectives: Esta disciplina objetiva fornecer ao estudante os conhecimentos básicos
     de teoria econômica aplicada a problemas enfrentados pela agricultura e pela agroindústria.
-    Composta por três módulos de conteúdos distintos busca iniciar o estudante nos
-    assuntos econômicos e motivá-lo à buscar aprofundamento nas disciplinas optativas
+    Composta por três módulos de conteúdos distintos, busca iniciar o estudante nos
+    assuntos econômicos e motivá-los a buscar aprofundamento nas disciplinas optativas
     da área. Além de introduzir conceitos econômicos, o foco está na economia aplicada.
     No módulo de Macroeconomia, procura mostrar que o conhecimento e análise da conjuntura
     econômica são essenciais para condução das atividades profissionais. O módulo
     de Microeconomia apresenta conteúdos que auxiliarão o aluno na gestão enquanto
-    o último módulo é apresentado noções básicas de modelos de Desenvolvimento Econômico
-    e são discutidas Politicas Econômicas.
+    o último módulo são tratados assuntos diversos no âmbito da Economia Aplicada,
+    tais como Desenvolvimento Econômico, Política agrícola, Política Ambiental, Comercialização,
+    Inovação, Economia Internacional, de modo a prover aos alunos uma melhor compreensão
+    sobre a abrangência dos estudos econômicos.
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20200922084138'
-digest: NIW35DVQWFLXY7JQGID42QH6G6JNIA7P
-updated_at: '20210612204517'
-url: https://web.archive.org/web/20210612204517id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0213&verdis=9
+created_at: '20231209045427'
+digest: GYL2YJHMJRAWWVNZCY4H752UM5B52MZK
+updated_at: '20231209045427'
+url: https://web.archive.org/web/20231209045427id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0213&codcur=11010&codhab=0
