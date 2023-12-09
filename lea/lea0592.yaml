@@ -115,7 +115,7 @@ courses:
   course_name: 'LEA0592 - Manejo Integrado de Pragas
 
     Integrated Pest Management'
-  deactivation: ''
+  deactivation: 31/12/2023
   instructors: '2549718 - Jose Mauricio Simoes Bento
 
     3199683 - Pedro Takao Yamamoto'
@@ -126,8 +126,8 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20230529151027'
-digest: DZNNBM6BGCKCCGKGF6MSIBUEGWG2X2IY
+created_at: '20231209045643'
+digest: AIJWGJBNUYPQCI5GTKMVME64RG5TXT2J
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 6'
   requirements:
@@ -139,5 +139,5 @@ requirements:
   - code: LEA0200
     name: Zoologia de Invertebrados II
     type: Requisito
-updated_at: '20230924042418'
-url: https://web.archive.org/web/20230924042418id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0592&codcur=11070&codhab=4
+updated_at: '20231209045643'
+url: https://web.archive.org/web/20231209045643id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0592&codcur=11010&codhab=0
