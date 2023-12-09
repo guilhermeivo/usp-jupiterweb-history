@@ -33,7 +33,7 @@ courses:
     )'
   type: Semestral
 created_at: '20231209045544'
-digest: SB5AFQUQOUW3XH4PKRV4TMZYR4QKNSMH
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 6'
   requirements:
@@ -65,5 +65,5 @@ requirements:
   - code: '1100300'
     name: Estágio Supervisionado I
     type: Requisito
-updated_at: '20231209045544'
-url: https://web.archive.org/web/20231209045544id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=1100400&codcur=11010&codhab=0
+updated_at: '20231209050151'
+url: https://web.archive.org/web/20231209050151id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=1100400&codcur=11010&codhab=0
