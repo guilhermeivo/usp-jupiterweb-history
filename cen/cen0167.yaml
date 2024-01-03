@@ -17,7 +17,7 @@ courses:
   course_name: 'CEN0167 - Biodiversidade e Conservação: Um Enfoque Molecular
 
     Biodiversity and Conservation: A Molecular Approach'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: 50153 - Tsai Siu Mui
   lecture_credits: '4'
   objectives: ':   O objetivo principal desta disciplina é oferecer ao aluno conhecimentos
@@ -52,7 +52,7 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20231209045444'
+created_at: '20240103062551'
 digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20231209050338'
-url: https://web.archive.org/web/20231209050338id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0167&codcur=11010&codhab=0
+updated_at: '20240103062551'
+url: https://web.archive.org/web/20240103062551id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0167&codcur=11020&codhab=0
