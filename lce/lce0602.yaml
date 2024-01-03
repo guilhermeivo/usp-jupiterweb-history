@@ -66,7 +66,7 @@ courses:
   total_workload: 60 h
   type: Semestral
 created_at: '20231003112938'
-digest: B5YH6W3AFZUBQ6SHMV3LPVFX7DSQUEJ6
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 4'
   requirements:
@@ -93,5 +93,5 @@ requirements:
   - code: LCE0204
     name: Bioestatística
     type: Requisito
-updated_at: '20231209045543'
-url: https://web.archive.org/web/20231209045543id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0602&codcur=11010&codhab=0
+updated_at: '20240103063957'
+url: https://web.archive.org/web/20240103063957id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0602&codcur=11020&codhab=0
