@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2023
+  activation: 01/01/2019
   assessment: Uma prova com toda a matéria lecionada. Estará apto a efetuar a prova
     de recuperação o aluno que tiver como média final na disciplina uma nota igual
     ou superior a três (3,0) e inferior a cinco (5,0), e tiver, no mínimo, 70% (setenta
@@ -23,28 +23,9 @@ courses:
     cursos de administração e engenharia. São Paulo: Atlas, 2010. RAGSDALE, C. T.
     Modelagem e análise de decisão. São Paulo: Cengage Learning, 2009. TAHA, H. A.
     Pesquisa operacional. São Paulo: Pearson, 2008.'
-  course: '; Histórico da Programação Matemática
+  course: 'ção Linear Inteira
 
-    ; Resolução de Sistemas de Equações Lineares
-
-    ; Resolução por Programação Linear pelo Método Gráfico
-
-    ; Software para Programação Linear
-
-    ; Método Simplex
-
-    ; Casos Especiais de Programação Linear
-
-    ; Dualidade e Análise de Sensibilidade
-
-    ; Problemas de Transporte e Designação
-
-    ; Programação Linear Inteira
-
-    ; Software para Programação Linear Inteira
-
-    ; Tópicos Especiais em Otimização: Teoria das Redes, Teoria dos Jogos, Teoria
-    das Filas e Simulação'
+    Software para Programação Linear Inteira'
   course_name: 'LES0352 - Pesquisa Operacional I
 
     Operational Research I'
@@ -63,7 +44,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209045649'
+created_at: '20240103062455'
 digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20231209045831'
-url: https://web.archive.org/web/20231209045831id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0352&codcur=11010&codhab=0
+updated_at: '20240103062455'
+url: https://web.archive.org/web/20240103062455id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0352&codcur=11020&codhab=0
