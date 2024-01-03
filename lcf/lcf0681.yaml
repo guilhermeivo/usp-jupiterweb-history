@@ -36,7 +36,7 @@ courses:
   total_workload: 75 h
   type: Semestral
 created_at: '20230604132710'
-digest: BCAKXJXUFBR2VRFYRV332NHBTFCNA7CQ
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
 requirements:
 - course: 'Curso: 11020  Engenharia Florestal (integral) - Período ideal: 4'
   requirements:
@@ -51,5 +51,5 @@ requirements:
   - code: LCB0323
     name: Fisiologia Vegetal
     type: Requisito
-updated_at: '20230604132710'
-url: https://web.archive.org/web/20230604132710id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCF0681
+updated_at: '20240103063823'
+url: https://web.archive.org/web/20240103063823id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0681&codcur=11020&codhab=0
