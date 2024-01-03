@@ -1,0 +1,105 @@
+courses:
+  activation: 01/01/2023
+  assessment: 'A recuperação envolve a revisão de toda a matéria pelo aluno interessado,
+    sob orientação do professor responsável.
+
+    A avaliação será feita na forma de prova global teórico-prática, dentro do prazo
+    regulamentar.'
+  bibliography: 'Literatura básica:
+
+    Allan, J.D.; Castilho M.M. 2007. Stream Ecology: Structure and Function of Running
+    Waters. Springer, Dordrecht, 2nd ed. 436 p.
+
+    BEGON, M.; HARPER, J. L.; TOWNSEND, C. R. 2007. Ecologia: de indivíduos a ecossistemas.
+    Porto Alegre, Artmed
+
+    BONELL, M. Forests, Water and People in the Humid Tropics: Past, present and future
+    hydrological research for integrated land and water management. Cambridge University
+    Press, Cambridge, p. 314-406, 2005.
+
+    BRADY, N.C.; Weil, R.R. Elementos da Natureza e Propriedades dos Solos. Bookman,
+    2013. 716p.
+
+    CHAPIN III,F.S.; MATSON, P.A.; MOONEY,H.A. Principles of Terrestrial Ecosystem
+    Ecology.1.ed. New York: Springer, 2002. 436p.
+
+    COSTANZA, R. et al. The value of the world’s ecosystem services and natural capital.
+    Nature, v. 387, n. 6630, p. 253–260, 1997.
+
+    ENGEL, S.; WUNDER, S. Designing payments for environmental services in theory
+    and practice: An overview of the issues. Ecological Economics, v.65, 663–674,
+    2008.
+
+    FARLEY, J.; CONSTANZA, R. Payments for ecosystem services: From local to global.
+    Ecological Economics, v. 69, p. 2060–2068, 2010.
+
+    HASSAN, R.; SCHOLES, R.; ASH, N. Ecosystems and human well-being: current state
+    and trends (Millennium Ecosystem Assessment). Island Press, vol I, 2005.
+
+    IMAFLORA - Instituto de Manejo e Certifica  o Agr cola e Floresta; BIOF LICA.
+    Guia para Elabora  o de Projetos de Carbono e de Servi os Ambientais. 2009.
+
+    PROKOFIEVA, I. Payments for Ecosystem Services: the Case of Forests. Forest Policy,
+    Economics and Social Research. v2, 130–142, 2016.
+
+    RICKLEFS, R. E. 2005. A economia da natureza: um livro-texto em ecologia básica.
+    3a edição. Rio de Janeiro, Guanabara Koogan.
+
+    SALZMAN, J. et al. The global status to practice in paying for nature’s services.
+    Nature Sustainability, v. 1, n. 3, p. 136-144, 2018.
+
+    TURNER, M. G., R. H. GARDNER AND R. V. O’NEILL. Landscape ecology in theory and
+    practice. Springer-Verlag, New York.  2001.
+
+    VOROSMARTY C. J., et. al. Global water resources: Vulnerability from climate change
+    and population growth. Science, v. 289, p. 284–288, 2000.
+
+    WUNDER, S. et al. From principles to practice in paying for nature’s services.
+    Nature Sustainability, v. 1, n. 3, p. 145-150, 2018.'
+  course: 'Introdução aos ecossistemas florestais tropicais: definição de trópicos,
+    floresta tropical, ecossistema, bioma, ecorregião, eco-unidades, ecótono; componentes
+    do ecossistema; ecossistemas antrópicos. Fluxo de energia nos ecossistemas: Temperatura,
+    precipitação, umidade do ar e evaporação, transpiração, radiação solar. Solos
+    e ciclagem de nutrientes nos ecossistemas: Solos tropicais, Ciclagem de nutrientes
+    na floresta tropical, Armazenamento de água, Erosão e carreamento de sedimentos
+    e nutrientes. Comunidades biológicas em ecossistemas florestais: Conceitos de
+    espécie, população e comunidades, Papel da fauna nos ecossistemas florestais,
+    Meta-populações. Diversidade e complexidade dos ecossistemas: Biodiversidade tropical,
+    Valor da biodiversidade, Complexidade das florestas tropicais, Heterogeneidade
+    física local, Gradientes naturais, Biogeografia de espécies tropicais, Distúrbios
+    naturais como fonte de diversidade. Bacias hidrográficas e a ciclagem da água:
+    Conceito de bacia hidrográfica, O ciclo da água nos ecossistemas florestais, Balanço
+    hídrico, O papel da floresta no ciclo da água. Ecologia da paisagem: Conceitos,
+    Composição e estrutura da paisagem, Quantificação da estrutura, Manejo da paisagem.
+    Perturbação e equilíbrio dos ecossistemas: Conceitos de resistência, resiliência,
+    Regime de distúrbios, Efeito dos distúrbios no padrão, Conceito de equilíbrio.
+    Mudanças climáticas nos Ecossistemas florestais: Adaptação dos ecossistemas ao
+    clima, Modelos de alterações climáticas, Cenários IPCC, Consequências das mudanças
+    climática no padrão. Dinâmica de paisagens florestais tropicais: Desmatamento:
+    Histórico e perspectiva atual, Padrão de desmatamento, Quantificação e monitoramento
+    do desmatamento, Regeneração natural. Degradação de ecossistemas florestais. Restauração
+    de ecossistemas tropicais: Definições: restauração, reabilitação e recuperação,
+    Objetivos da restauração, Metas globais de restauração florestal, Restauração
+    da Estrutura função. Serviços Ecossistêmicos: Conceituação, Tipos de serviços,
+    Pagamento por serviços ecossistêmicos, Exemplos práticos. Mercado de carbono,
+    protocolos e metas globais de emissões, MDL, Offset de carbono, neutralização
+    de emissões, mercado de carbono, REDD+.'
+  course_name: 'LCF0778 - Serviços Ecossistêmicos e Adaptação às Mudanças Globais
+
+    Ecosystem Services  and Adaptation to Global Changes'
+  deactivation: ''
+  instructors: 2058395 - Sílvio Frosini de Barros Ferraz
+  lecture_credits: '2'
+  objectives: a) Informar o aluno a respeito dos princípios fundamentais dos serviços
+    ecossistêmicos gerados pelas florestas. b)Fornecer ao aluno elementos que lhe
+    permitam entender os ecossistemas florestais para promover a conservação da biodiversidade
+    e dos serviços ecossistêmicos. c) Desenvolver a visão holística dos ecossistemas
+    florestais, suas propriedades e vulnerabilidades e oportunidades frente as mudanças
+    globais.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20240103072012'
+digest: 4L7NAN2IKHINHXBHUSUUEM4I5XKD5KBR
+updated_at: '20240103072012'
+url: https://web.archive.org/web/20240103072012id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0778&codcur=11020&codhab=0
