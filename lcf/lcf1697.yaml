@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2023
+  activation: 01/01/2019
   assessment: 1 prova dissertativa com toda a matéria do semestre.
   bibliography: 'Decisão de Diretoria Nº 153/2014/I, de 28 de maio de 2014
 
@@ -24,19 +24,18 @@ courses:
 
     SANCHEZ, L.E. 2006. Avaliação de impacto ambiental: Conceitos e Métodos. Oficina
     de textos, São Paulo.'
-  course: "Processo de avaliação de impactos ambientais: Histórico e evolução do processo\
-    \ de avaliação ambiental no Brasil. Legislação do licenciamento ambiental. Competência\
-    \ dos órgãos federais, estaduais e municipais no licenciamento ambiental. O processo\
-    \ e etapas do licenciamento ambiental. Licenciamento ambiental com avaliação de\
-    \ impactos ambientais. Estudos ambientais: Conceituação de impactos ambientais.\
-    \ Ações humanas, aspectos e impactos ambientais. Estrutura do EIA/RIMA e RAP.\
-    \ Caracterização do empreendimento. Diagnóstico ambiental dos meios físico, biótico\
-    \ e sócio-econômico. Classificação dos impactos ambientais. Análise de impactos\
-    \ ambientais. Medidas mitigadoras e compensatórias. Programa de monitoramento,\
-    \ acompanhamento e gestão de impactos ambientais. Elaboração e análise dos EIA/RIMA\
-    \ através de estudos de casos (estudos dirigidos).\nObs:\nEIA\t-  Estudo de Impacto\
-    \ Ambiental\nRIMA\t-  Relatório de Impacto Ambiental\nRAP\t-  Relatório Ambiental\
-    \ Preliminar"
+  course: "Conceituação de impactos ambientais. Ações humanas, aspectos e impactos\
+    \ ambientais. Histórico e evolução do processo de avaliação ambiental no Brasil.\
+    \ Legislação do licenciamento ambiental. Competência dos órgãos federais, estaduais\
+    \ e municipais no licenciamento ambiental. Avaliação Ambiental Estratégica. O\
+    \ processo e etapas do licenciamento ambiental. Licenciamento ambiental com avaliação\
+    \ de impactos ambientais. Estrutura dos EIA/RIMA e RAP. Caracterização do empreendimento.\
+    \ Diagnóstico ambiental dos meios físico, biótico e sócio-econômico. Classificação\
+    \ dos impactos ambientais. Análise de impactos ambientais. Medidas mitigadoras\
+    \ e compensatórias. Programa de monitoramento, acompanhamento e gestão de impactos\
+    \ ambientais. Elaboração e análise dos EIA/RIMA através de estudos de casos (estudos\
+    \ dirigidos).\nOBSERVAÇÕES:\nEIA\t-  Estudo de Impacto Ambiental\nRIMA -  Relatório\
+    \ de Impacto no Meio Ambiente\nRAP\t-  Relatório Ambiental Preliminar"
   course_name: 'LCF1697 - Gestão de Impactos Ambientais
 
     Environmental Impact Assessment'
@@ -52,7 +51,7 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20220804150036'
-digest: 2CB3BEBDJ2DKJLMUPRPJR2VOFPEK2W75
-updated_at: '20231209050134'
-url: https://web.archive.org/web/20231209050134id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF1697&codcur=11010&codhab=0
+created_at: '20240103070518'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20240103070518'
+url: https://web.archive.org/web/20240103070518id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF1697&codcur=11020&codhab=0
