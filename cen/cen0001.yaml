@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2024
   assessment: Prova teórica envolvendo todo o conteúdo da disciplina.
   bibliography: 'George, E. F.; Hall, M. A.; Klerk, G. J. 2008. Plant Propagation
     By Tissue Culture. 3rd ed. Springer, Dordrecht. v. 1.
@@ -15,17 +15,30 @@ courses:
 
     Trigiano, R.N. & Gray, D.J. 2000. Plant Tissue Concepts and Laboratory Exercises.
     2nd edition. CRC Press, p. 454.'
-  course: 'Histórico do cultivo in vitro;
+  course: '• Histórico do cultivo in vitro; • Infraestrutra do laboratório de cultura
+    de tecidos vegetais; • Função dos
 
-    Infraestrutra do laboratório de cultura de tecidos vegetais;
+    nutrientes no desenvolvimento vegetal com ênfase na cultura de tecidos; • Meios
+    de cultura; • Tipos de
 
-    Função dos nutrientes no desenvolvimento vegetal com ênfase na cultura de tecidos;
-
-    Meios de cultura;'
+    explantes; • Morfogênese vegetal e reprodução; • Métodos de assepsia; • Contaminação
+    in vitro; • Cultivo in vitro de espécies de importância econômica, incluindo espécies
+    ornamentais, fruteiras e florestais; • Métodos de cultivo in vitro aplicados à
+    propagação vegetal; • Enxertia in vitro e limpeza viral; • Variação somaclonal;
+    • Uso do cultivo in vitro para estudos de desenvolvimento e fisiologia vegetal;
+    • Produção comercial de plantas utilizando o cultivo in vitro e biofábricas; •
+    Métodos de cultivo in vitro aplicados ao melhoramento de espécies vegetais, incluindo
+    técnicas como cultura de protoplastos, cultura de anteras, produção de híbridos
+    somáticos, produção de haplóides e transformação genética de plantas; • Substratos
+    e aclimatização de plantas; • Regulamentação em biotecnologia de plantas; • Legislação
+    federal para a produção e comercialização de sementes e mudas; • Visita técnica
+    a empresa que empregue técnicas de biotecnologia vegetal em suas atividades; •
+    Visita técnica a empresa que utilize técnicas de cultivo in vitro para a propagação
+    de plantas.'
   course_name: 'CEN0001 - Cultura de Tecidos Vegetais
 
     Plant Tissue Culture'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: '2798025 - Adriana Pinheiro Martinelli
 
     724780 - José Lavres Junior
@@ -41,10 +54,8 @@ courses:
     estudantes poderão manipular o material cultivado in vitro.'
   practical_credits: '0'
   total_workload: 60 h
-  type: 's de explantes;
-
-    Morfogênese vegetal e reprodução;'
-created_at: '20231209045628'
-digest: WFWEKUANGOBPZEWDB755DSXKTHZSLTJH
-updated_at: '20231211024146'
-url: https://web.archive.org/web/20231211024146id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0001&codcur=11070&codhab=4
+  type: Semestral
+created_at: '20240103064427'
+digest: 67KRLXKHM2VYQW6DAB56V6HZMU7X36IC
+updated_at: '20240103064427'
+url: https://web.archive.org/web/20240103064427id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0001&codcur=11020&codhab=0
