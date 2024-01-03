@@ -59,7 +59,7 @@ courses:
   course_name: 'LES0685 - Politica e Planejamento Econômico
 
     Economic Planning and Policy'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: '643773 - Eliana Tadeu Terci
 
     1906631 - Silvia Helena Galvao de Miranda'
@@ -77,8 +77,8 @@ courses:
   practical_credits: '1'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209045927'
-digest: IQLIYOC64J4KX45XWIZYUBJOTAH77GO6
+created_at: '20240103074434'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 9'
   requirements:
@@ -126,5 +126,5 @@ requirements:
   - code: LES0561
     name: Economia Brasileira Contemporânea
     type: Requisito
-updated_at: '20231209045927'
-url: https://web.archive.org/web/20231209045927id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0685&codcur=11010&codhab=0
+updated_at: '20240103074434'
+url: https://web.archive.org/web/20240103074434id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0685&codcur=11020&codhab=0
