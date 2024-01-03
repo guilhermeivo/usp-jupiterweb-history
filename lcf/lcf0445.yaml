@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2012
+  activation: 01/01/2023
   assessment: Uma prova de recuperação versando sobre toda a matéria.
   bibliography: "BRITO, J.O. & BARRICHELO, L.E.G., 1985. Química da Madeira.\nPiracicaba.\
     \ Centro Acadêmico Luiz de Queiroz, 125 p.       (mimeogr.).\nBARRICHELO, L.E.G.\
@@ -27,8 +27,7 @@ courses:
     sociais da indústria de celulose no mundo e no Brasil. Hidrólise da madeira. Etanol
     da madeira. Alternativas de pré-tratamento químico da madeira. Conceitos sobre
     biorefinaria.'
-  course_name: 'LCF0445 - Fundamentos e Aplicações da Química de Produtos Florestais
-    II
+  course_name: 'LCF0445 - Celulose, Papel e Biorrefinarias
 
     Principles and Applications of Forest Products Chemistry II'
   deactivation: ''
@@ -41,7 +40,7 @@ courses:
   practical_credits: '1'
   total_workload: 75 h
   type: Semestral
-created_at: '20220707011131'
-digest: 6VRCL77ODCUUOSRFSXNOVD3NR27PJ2LM
-updated_at: '20220707011131'
-url: https://web.archive.org/web/20220707011131id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0445&codcur=11020&codhab=0
+created_at: '20240103065040'
+digest: O23QG46MSXXRDGNIPQRJCNSSZW7VWNYI
+updated_at: '20240103065040'
+url: https://web.archive.org/web/20240103065040id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0445&codcur=11020&codhab=0
