@@ -57,8 +57,8 @@ courses:
   course_name: 'LES0668 - Administração Financeira
 
     Financial Administration'
-  deactivation: 31/12/2023
-  instructors: '7093074 - Daniel Ferreira Caixe
+  deactivation: ''
+  instructors: '8498852 - Alex da Silva Alves
 
     3425009 - Lucilio Rogerio Aparecido Alves
 
@@ -69,7 +69,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209050841'
-digest: OUDAHU35ISWJHOOTON6YZ7RSDNFH7XYG
-updated_at: '20231209050841'
-url: https://web.archive.org/web/20231209050841id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0668&codcur=11010&codhab=0
+created_at: '20240103073614'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20240103073614'
+url: https://web.archive.org/web/20240103073614id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0668&codcur=11020&codhab=0
