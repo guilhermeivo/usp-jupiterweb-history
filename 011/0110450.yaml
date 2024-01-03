@@ -81,7 +81,7 @@ courses:
   total_workload: 90 h
   type: Semestral
 created_at: '20231202161054'
-digest: 4NAJ7KTETLZ3LWCVRDMEYV77LNYUEU2G
+digest: 6ZRTM74IJQAXA3H2KDO6BKW3VJ2JOSYB
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 7'
   requirements:
@@ -104,5 +104,5 @@ requirements:
   - code: LAN2661
     name: Operações Unitárias no Processamento de Alimentos I
     type: Requisito
-updated_at: '20231209045433'
-url: https://web.archive.org/web/20231209045433id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=0110450&codcur=11010&codhab=0
+updated_at: '20240103070807'
+url: https://web.archive.org/web/20240103070807id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=0110450&codcur=11020&codhab=0
