@@ -109,7 +109,9 @@ courses:
 
     Weed Biology and Management'
   deactivation: ''
-  instructors: 3749501 - Rafael Munhoz Pedroso
+  instructors: '3749501 - Rafael Munhoz Pedroso
+
+    69192 - Ricardo Victoria Filho'
   lecture_credits: '4'
   objectives: Fornecer informações sobre a biologia e ecologia das plantas daninhas,
     relacionando as com a dinâmica populacional e interferência que estas espécies
@@ -120,7 +122,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209045703'
+created_at: '20240103061115'
 digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20231209051126'
-url: https://web.archive.org/web/20231209051126id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0672&codcur=11010&codhab=0
+updated_at: '20240103061115'
+url: https://web.archive.org/web/20240103061115id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0672&codcur=11020&codhab=0
