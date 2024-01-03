@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2011
+  activation: 01/01/2024
   assessment: Prova escrita versando sobre toda a matéria ministrada (teoria e prática).
   bibliography: "-BARNES, B. V. et al. Forest Ecology. N. York, John Wiley & Sons,\
     \ 1998. 687p.\n-DURIGAN, G. et. al. Plantas do Cerrado Paulista  São Paulo. Páginas\
@@ -62,12 +62,12 @@ courses:
     Relação entre fotossíntese e respiração. Dinâmica florestal de regeneração de
     clareiras.
 
-    7. Conceitos de fitossociologia. Densidade, freqüência, dominância e valor de
+    7. Conceitos de fitossociologia. Densidade, frequência, dominância e valor de
     importância das diferentes espécies arbóreas na comunidade florestal. Índices
     de similaridade e de diversidade. Aplicabilidade dos conceitos fitossociológicos
     ao manejo das florestas nativas.
 
-    8. A intervenção do homem sobre as florestas nativas e suas conseqüências. O desmatamento
+    8. A intervenção do homem sobre as florestas nativas e suas consequências. O desmatamento
     e seus reflexos no equilíbrio ecológico. Características dos fragmentos florestais
     e efeito de borda. Queimadas e expansão da fronteira agrícola: aspectos ambientais.
     A destruição das matas ciliares e dos recursos hídricos. Importâncias das áreas
@@ -81,14 +81,14 @@ courses:
     das árvores da floresta: forma específica e forma florestal. Representação da
     estrutura horizontal e vertical da floresta. Análise microclimática do habitat:
     radiação solar, temperatura, umidade do ar e do solo. Estudo do ecossistema do
-    cerrado (Viagem para o cerrado de Cachoeira das Emas-SP). Fenologia de espécies
-    florestais. Medição dos índices relativos de radiação solar e de cobertura do
-    dossel em florestas. Ciclagem de nutrientes: em florestas e plantações florestais.
-    Estimativa do estoque de nutrientes na serapilheira. Avaliação da regeneração
-    natural em florestas. Observação da mesofauna do solo. Exercícios de fitossociologia.
-    Estudo dos ecossistemas da Mata Atlântica: restinga, mangue, mata de planície
-    e mata de encosta (Viagem para a Mata Atlântica no Parque Estadual da Serra do
-    Mar-SP).'
+    cerrado (Viagem para o cerrado de Cachoeira das Emas-SP - viagem estruturante).
+    Fenologia de espécies florestais. Medição dos índices relativos de radiação solar
+    e de cobertura do dossel em florestas. Ciclagem de nutrientes: em florestas e
+    plantações florestais. Estimativa do estoque de nutrientes na serapilheira. Avaliação
+    da regeneração natural em florestas. Observação da mesofauna do solo. Exercícios
+    de fitossociologia. Estudo dos ecossistemas da Mata Atlântica: restinga, mangue,
+    mata de planície e mata de encosta (Viagem para a Mata Atlântica no Parque Estadual
+    da Serra do Mar-SP – viagem estruturante).'
   course_name: 'LCF0491 - Ecologia Florestal
 
     Forest Ecology'
@@ -104,7 +104,7 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20220707041619'
-digest: 4HWYAUKIKS5SYFENWQJU3VHD2PFYCP5E
-updated_at: '20220707041619'
-url: https://web.archive.org/web/20220707041619id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0491&codcur=11020&codhab=0
+created_at: '20240103070549'
+digest: JUDZ6M7GWIG5KPHMWFGTSEVOEMS6DEBJ
+updated_at: '20240103070549'
+url: https://web.archive.org/web/20240103070549id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0491&codcur=11020&codhab=0
