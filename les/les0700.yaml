@@ -50,7 +50,7 @@ courses:
   course_name: 'LES0700 - Tecnologia e Sistemas de Informação
 
     Information Systems and Technology'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: 5863920 - Catarina Barbosa Careta
   lecture_credits: '4'
   objectives: Desenvolver conceitos e aplicações associadas à implementação e administração
@@ -63,7 +63,7 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20231209045452'
-digest: FVKBLXNSITFB7BS33T3OX3AAENJT2SVZ
-updated_at: '20231209045452'
-url: https://web.archive.org/web/20231209045452id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0700&codcur=11010&codhab=0
+created_at: '20240103061545'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20240103061545'
+url: https://web.archive.org/web/20240103061545id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0700&codcur=11020&codhab=0
