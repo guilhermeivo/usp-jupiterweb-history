@@ -53,7 +53,7 @@ courses:
   course_name: 'LES0760 - Administração de Logística e da Cadeia de Suprimentos
 
     Logistics and Supply Chain Management'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: '5863920 - Catarina Barbosa Careta
 
     59145 - Jose Vicente Caixeta Filho'
@@ -66,7 +66,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209045329'
-digest: 27VNUQMSNH6XRFCMVLOH5ZZMFP7II5OC
-updated_at: '20231209045637'
-url: https://web.archive.org/web/20231209045637id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0760&codcur=11010&codhab=0
+created_at: '20240103072737'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20240103072737'
+url: https://web.archive.org/web/20240103072737id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0760&codcur=11020&codhab=0
