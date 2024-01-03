@@ -96,7 +96,7 @@ courses:
   course_name: 'LCF0693 - Sistemas Agroflorestais
 
     Agroforestry Systems'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: '374151 - Ciro Abbud Righi
 
     2086021 - Marcos Silveira Bernardes'
@@ -117,7 +117,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209045416'
+created_at: '20240103070934'
 digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20231209045646'
-url: https://web.archive.org/web/20231209045646id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0693&codcur=11010&codhab=0
+updated_at: '20240103070934'
+url: https://web.archive.org/web/20240103070934id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0693&codcur=11020&codhab=0
