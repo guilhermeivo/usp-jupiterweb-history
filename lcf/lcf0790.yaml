@@ -1,0 +1,67 @@
+courses:
+  activation: 01/01/2023
+  assessment: 'A recuperação envolve a revisão de toda a matéria pelo aluno interessado,
+    sob orientação do professor responsável.
+
+    A avaliação será feita na forma de prova global teórico-prática, dentro do prazo
+    regulamentar.'
+  bibliography: 'Literatura básica:
+
+    Allan, J.D.; Castilho M.M. 2007. Stream Ecology: Structure and Function of Running
+    Waters. Springer, Dordrecht, 2nd ed. 436 p.
+
+    BEGON, M.; HARPER, J. L.; TOWNSEND, C. R. 2007. Ecologia: de indivíduos a ecossistemas.
+    Porto Alegre, Artmed
+
+    BRADY, N.C.; Weil, R.R. Elementos da Natureza e Propriedades dos Solos. Bookman,
+    2013. 716p.
+
+    CHAPIN III,F.S.; MATSON, P.A.; MOONEY,H.A. Principles of Terrestrial Ecosystem
+    Ecology.1.ed. New York: Springer, 2002. 436p.
+
+    NAIMAN, R.J.; R.E. BILBY. River Ecology and Management: Lessons from the Pacific
+    Coastal Ecoregion. Springer-Verlag, New York. 1998. 560p.
+
+    Esteves, F. de A. 1988. Fundamentos de Limnologia. Ed. Interciência – FINEP, Rio
+    de Janeiro. 575 p.
+
+    TURNER, M. G., R. H. GARDNER AND R. V. O’NEILL. Landscape ecology in theory and
+    practice. Springer-Verlag, New York.  2001.'
+  course: 'Bacias hidrográficas e a ciclagem da água: Conceito de bacia hidrográfica,
+    O ciclo da água nos ecossistemas florestais, Balanço hídrico, O papel da floresta
+    no ciclo da água. Zona ripária: definição, características físicas, ecológicas
+    e hidrológicas do ambiente ripário. Conceito de Riverscape. Fluxo da água na zona
+    ripária: movimento de água superficial e subsuperficial da vertente. Afluência
+    e defluência, regime pluvial de cheias e vazantes. Oscilações do nível de riachos.
+    Solo ripário: características físicas e hidrológicas. Áreas variáveis de afluência
+    (AVAs) e Áreas Hidrologicamente Sensíveis. Conectividade hidrológica horizontal.  Funções
+    da zona ripária: estrutura e função do solo e da vegetação; funções ecológicas
+    da floresta ripária. Ecologia de riachos de cabeceira: interação da vegetação
+    ripária, gradiente fluvial, caracterização do ambiente aquático: aspectos físicos
+    e ecológicos. Ecologia da paisagem ripária: Conceitos, Composição e estrutura
+    da paisagem, Quantificação da estrutura, Manejo da paisagem. Conectividade hidrológica
+    longitudinal. Perturbação e equilíbrio dos ecossistemas: Conceitos de resistência,
+    resiliência, Regime de distúrbios no ecossistema ripário. Legislação e políticas
+    relacionadas a zona ripária. Restauração de ecossistemas tropicais ripários: Definições:
+    restauração, reabilitação e recuperação, Objetivos da restauração. Serviços Ecossistêmicos
+    de florestas ripárias: Conceituação, Tipos de serviços, Pagamento por serviços
+    ecossistêmico, Exemplos práticos.'
+  course_name: 'LCF0790 - Ecohidrologia e Manejo de Florestas Ripárias
+
+    Riparian Forest ecohydrology and management'
+  deactivation: ''
+  instructors: 2058395 - Sílvio Frosini de Barros Ferraz
+  lecture_credits: '2'
+  objectives: a) Apresentar uma abordagem sistêmica para estudar as relações ecológicas
+    e hidrológicas que ocorrem em ecossistemas ripários. b) obter conhecimento sobre
+    as múltiplas conexões entre solo, água e vegetação terrestre que ocorrem nos sistemas
+    ribeirinhos. c) entender os efeitos do uso da terra na função ecológica e hidrológica
+    das florestas ripárias, d) conhecer métodos de restauração e manejo de ecossistemas
+    terrestres visando a conservação dos ecossistemas aquáticos.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20240103071034'
+digest: POC56CIPM2VZC7QPJVVHTXXVI3OZKFME
+updated_at: '20240103071034'
+url: https://web.archive.org/web/20240103071034id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0790&codcur=11020&codhab=0
