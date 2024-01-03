@@ -100,12 +100,12 @@ courses:
   total_workload: 90 h
   type: Semestral
 created_at: '20230604142233'
-digest: SMYRIXQYNY2SMGTYCWO7L55YZIPHNOWZ
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 8'
   requirements:
   - code: LES0129
     name: Sociologia e Extensão
     type: Requisito
-updated_at: '20231209050124'
-url: https://web.archive.org/web/20231209050124id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0622&codcur=11010&codhab=0
+updated_at: '20240103073007'
+url: https://web.archive.org/web/20240103073007id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0622&codcur=11020&codhab=0
