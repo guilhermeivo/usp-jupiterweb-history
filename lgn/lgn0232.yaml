@@ -44,7 +44,7 @@ courses:
   course_name: 'LGN0232 - Genética Molecular
 
     Molecular Genetics'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: 3294216 - Maria Carolina Quecine Verdi
   lecture_credits: '2'
   objectives: A disciplina de GENÉTICA MOLECULAR (LGN0232) é um dos cursos de formação
@@ -75,7 +75,7 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20231209045623'
+created_at: '20240103070459'
 digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20231209050018'
-url: https://web.archive.org/web/20231209050018id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0232&codcur=11010&codhab=0
+updated_at: '20240103070459'
+url: https://web.archive.org/web/20240103070459id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0232&codcur=11020&codhab=0
