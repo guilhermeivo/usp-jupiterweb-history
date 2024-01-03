@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2023
+  activation: 01/01/2017
   assessment: Uma única prova, com toda a matéria lecionada.
   bibliography: 'Literatura Básica:
 
@@ -18,13 +18,11 @@ courses:
     Nicholson, W.  Microeconomics Theory: basic principles and extensions.  South-Western
     & Thomson Learning, 2008. 10th Edition. (NI)
 
-    NICHOLSON, W.; SNYDER, C.. Teoria Microeconômica. São Paulo: Cengage, 2018.
-
     Pindyck, R. S. e D. L. Rubinfeld.  Microeconomia.  São Paulo, SP: Editora Prentice
     Hall, 2013. 8ª. Edição. (PR) www.prenhall.com/pindyck_br ou http://wps.prenhall.com/bp_pindyck_6/
 
-    VARIAN, H. R. Microeconomia: Princípios Básicos – Uma Abordagem Moderna. 9ª. Ed.
-    (Editora Campus), 2015'
+    Varian, H.R.  Microeconomia: princípios básicos.  São Paulo: Elsevier Editora
+    Ltda, 2006. 7a. Edição.'
   course: '1. Introdução ; 1.1. Visão Geral da Microeconomia. 2. Teoria do Comportamento
     do Consumidor.  2.1. Comportamento do Consumidor. 2.2. Maximização de Utilidade.
     2.3. Funções de Demanda por Bens Finais. 2.4. Elasticidades Preço e Renda. 2.5.
@@ -55,11 +53,7 @@ courses:
 
     Microeconomic Theory I'
   deactivation: ''
-  instructors: '2210982 - Humberto Francisco Silva Spolador
-
-    1906631 - Silvia Helena Galvao de Miranda
-
-    1777242 - Vitor Augusto Ozaki'
+  instructors: 1906631 - Silvia Helena Galvao de Miranda
   lecture_credits: '4'
   objectives: 'Proporcionar o entendimento do processo de formação de preços, através
     da interação entre oferta e demanda, dentro de uma economia de mercado.O instrumental
@@ -72,7 +66,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209045720'
-digest: J5Z4MRYMWBCX45MQBQP3JERJYPAIK34A
-updated_at: '20231209045720'
-url: https://web.archive.org/web/20231209045720id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0456&codcur=11010&codhab=0
+created_at: '20240103073811'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+updated_at: '20240103073811'
+url: https://web.archive.org/web/20240103073811id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0456&codcur=11020&codhab=0
