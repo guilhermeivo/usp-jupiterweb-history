@@ -1,24 +1,36 @@
 courses:
-  activation: 01/01/2011
+  activation: 01/01/2023
   assessment: 'Realização: Até a primeira semana de aulas do semestre posterior -Critério
     de Aprovação: NP+(Mrec/2,5), se Mrec > ou =7,5; ou Max {NP,Mrec}, se Mrec < ou
     = 5,0; ou 5,0, se 5,0 < ou = Mrec < 7,5.( NP=1ª avaliação, Mrec=prova)'
-  bibliography: "· Livro Texto:- HAREL, D. Algorithmics \x96 The Spirit of Computing.\
-    \ Addison-Wesley, 2. ed., 1992.- SIPSER, M. Introduction to the Theory of Computation.\
-    \ PWS, 2a ed, 1997.- HOPCROFT, M. & ULLMAN Introduction to Automata Theory, Languages,\
-    \ and Computation. Addison-Wesley, 2001.· Bibliografia Complementar:- GAREY &\
-    \ JOHNSON Computers and Intractability \x96 a guide to the Theory of NP-Completeness,\
-    \ W.H. Freeman and Company, New York, 1979.- CORMEN, T.H.; LEISERSON, C.E.; RIVEST,\
-    \ R.L. Introduction to Algorithms. The Mit Press. 1. ed., 1990.- DIVÉRIO & MENEZES\
-    \ Teoria da Computação \x96 Máquinas Universais e Computabilidade. Série Livros\
-    \ Didáticos 5, IF UFRGS, 2. ed., 2000, Sagra Luzzatto.- MENEZES, P.B. Linguagens\
-    \ Formais e Autômatos, Série Livros Didáticos 3, IF UFRGS, 4. ed., 2001, Sagra\
-    \ Luzzatto.- TOSCANI & VELOSO Complexidade de Algoritmos, Série Livros Didáticos\
-    \ 13, IF UFRGS, 1. ed., 2001, Sagra Luzzatto."
+  bibliography: 'Complementar:
+
+    - HAREL, D. Algorithmics – The Spirit of Computing. Addison-Wesley, 2. ed., 1992.
+
+    - SIPSER, M. Introduction to the Theory of Computation.
+
+    - GAREY & JOHNSON Computers and Intractability – a guide to the Theory of NP-Completeness,
+    W.H. Freeman and
+
+    Company, New York, 1979.
+
+    - CORMEN, T.H.; LEISERSON, C.E.; RIVEST, R.L. Introduction to Algorithms. The
+    Mit Press. 1. ed., 1990.
+
+    - DIVÉRIO & MENEZES Teoria da Computação – Máquinas Universais e Computabilidade.
+    Série Livros Didáticos 5, IF
+
+    UFRGS, 2. ed., 2000, Sagra Luzzatto
+
+    - MENEZES, P.B. Linguagens Formais e Autômatos, Série Livros Didáticos 3, IF UFRGS,
+    4. ed., 2001, Sagra Luzzatto
+
+    - TOSCANI & VELOSO Complexidade de Algoritmos, Série Livros Didáticos 13, IF UFRGS,
+    1. ed., 2001, Sagra Luzzatto.'
   course: 'Linguagens Regulares: Autômatos finitos determinísticos e não-determinísticos;
     expressões regulares; técnicas para identificar e descrever linguagens regulares;
     técnicas para mostrar que uma linguagem não é regular; propriedades de tais linguagens.
-    2. Linguagens Livres de Contexto: Gramáticas Livres de Contexto; derivações; árvores
+    Linguagens Livres de Contexto: Gramáticas Livres de Contexto; derivações; árvores
     de derivação; ambigüidade; autômatos de pilha; propriedades de tais linguagens;
     técnicas para mostrar que uma linguagem não é livre de contexto. Linguagens Sensíveis
     ao Contexto e Linguagens Recursivamente Enumeráveis: Máquinas de Turing; definições
@@ -40,7 +52,12 @@ courses:
   course_name: 'SCC0205 - Teoria da Computação e Linguagens Formais
 
     Theory of Computation and Formal Languages'
-  deactivation: ''
+  deactivation: 31/12/2023
+  instructors: '5396589 - Diego Raphael Amancio
+
+    5236493 - João Luis Garcia Rosa
+
+    3761610 - Thiago Alexandre Salgueiro Pardo'
   lecture_credits: '4'
   objectives: 'Dar ao aluno noção formal de algoritmo, computabilidade e do problema
     de decisão, de modo a deixá-lo consciente das limitações da ciência da computação.
@@ -57,7 +74,7 @@ courses:
   practical_credits: '2'
   total_workload: 120 h
   type: Semestral
-created_at: '20171125004919'
-digest: 2ZC3HOFACRXOM3VHQSSHF77DWL3UWUSX
-updated_at: '20210615195241'
-url: https://web.archive.org/web/20210615195241id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SCC0205&codcur=55041&codhab=0
+created_at: '20240205214247'
+digest: GQN3AIBFY7XR247JFU42YNI6P5CAOFEK
+updated_at: '20240205214247'
+url: https://web.archive.org/web/20240205214247id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SCC0205&verdis=3
