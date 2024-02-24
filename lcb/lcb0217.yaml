@@ -79,7 +79,7 @@ courses:
   total_workload: 90 h
   type: Semestral
 created_at: '20230604135928'
-digest: I3LPBJMNUIGXTGFZPRSVQZCCXR44HPXA
+digest: RXY5OLHA2NJJOBOBJPU74ZPX5GG6YKUS
 requirements:
 - course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 3'
   requirements:
@@ -92,5 +92,5 @@ requirements:
   - code: CEN0110
     name: Ecologia de Ecossistemas
     type: Requisito
-updated_at: '20230926093127'
-url: https://web.archive.org/web/20230926093127id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0217&codcur=11070&codhab=4
+updated_at: '20240224091610'
+url: https://web.archive.org/web/20240224091610id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCB0217
