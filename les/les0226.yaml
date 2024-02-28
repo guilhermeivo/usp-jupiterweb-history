@@ -73,13 +73,19 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20221207004900'
-digest: E3U2VGJBF3LOAQUL3JCA2MMZNF4Q4K6U
+created_at: '20240228232313'
+digest: D4XCJUCKPMSEJYXJALHHMPWBGJD7OLJE
 requirements:
+- course: 'Curso: 11090  Bacharelado em Administração (integral) - Período ideal:
+    2'
+  requirements:
+  - code: LES0126
+    name: Matemática Aplicada I
+    type: Requisito
 - course: 'Curso: 11090  Bacharelado em Administração (diurno) - Período ideal: 2'
   requirements:
   - code: LES0126
     name: Matemática Aplicada I
     type: Requisito
-updated_at: '20221207004900'
-url: https://web.archive.org/web/20221207004900id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LES0226
+updated_at: '20240228232313'
+url: https://web.archive.org/web/20240228232313id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LES0226
