@@ -99,13 +99,16 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20230604142233'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+created_at: '20240229091133'
+digest: SWQ7EA4GH3BTCULSRLBHJG3XXDGSXBE6
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 8'
   requirements:
-  - code: LES0129
-    name: Sociologia e Extensão
+  - code: LES0139
+    name: Extensão Rural
     type: Requisito
-updated_at: '20240103073007'
-url: https://web.archive.org/web/20240103073007id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0622&codcur=11020&codhab=0
+  - code: LES0159
+    name: Introdução às Ciências Sociais e aos Estudos Rurais
+    type: Requisito
+updated_at: '20240229091133'
+url: https://web.archive.org/web/20240229091133id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCF0622
