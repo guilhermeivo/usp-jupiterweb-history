@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2018
+  activation: 01/01/2024
   assessment: Não há recuperação
   bibliography: 'Bronowsky J Ciência e valores humanos. EDUSP, São Paulo, 1979
 
@@ -43,7 +43,7 @@ courses:
     o evidente; dividir cada dificuldade em quantas partes seja preciso para melhor
     atacá-la; começar a análise pelo exame dos objetos mais simples e mais fáceis
     de serem compreendidos para remontar gradualmente ao conhecimento dos mais complexos".'
-  course_name: 'LCB0525 - Monografia II
+  course_name: 'LCB0525 - Trabalho de Conclusão de Curso II
 
     Monograph II'
   deactivation: ''
@@ -63,13 +63,13 @@ courses:
   practical_credits: '5'
   total_workload: 165 h
   type: Semestral
-created_at: '20231208160737'
-digest: NR452J56U4LYOUGSXECTFZMJW44FSC4S
+created_at: '20240304172822'
+digest: CAVGCIRXKY2EKG3NTRTKDU526SBZYXWE
 requirements:
 - course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 10'
   requirements:
   - code: LCB0425
     name: Trabalho de Conclusão de Curso I - Elaboração do Projeto
     type: Requisito
-updated_at: '20231208160737'
-url: https://web.archive.org/web/20231208160737id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCB0525
+updated_at: '20240304172822'
+url: https://web.archive.org/web/20240304172822id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0525&codcur=11070&codhab=4
