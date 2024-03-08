@@ -1,13 +1,7 @@
 courses:
-  activation: 01/01/2015
-  assessment: 'A avaliação da disciplina BRI0001 é feita mediante análise de dois
-    ensaios
-
-    apresentados pelos alunos, contendo a síntese dos seminários realizados e uma
-
-    apreciação crítica do conteúdo da palestra. Por este motivo, não cabe a
-
-    realização de prova de recuperação nesta disciplina.'
+  activation: 15/07/2023
+  assessment: Alunos com nota entre 3,0 e 4,9 e frequência mínima de 70% (setenta
+    por cento) poderão participar da recuperação.
   bibliography: Será indicada em função dos temas das conferências.
   course: 'A disciplina oferece ao aluno no segundo semestre letivo um tema estruturante
     e relevante para as relações internacionais na perspectiva brasileira. Cada tema
@@ -40,7 +34,7 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20210928125206'
-digest: S6SU3EOB5BOBBIKQR7ZMZUPHUQODWFSI
-updated_at: '20210928125206'
-url: https://web.archive.org/web/20210928125206id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=BRI0001&codcur=87002&codhab=1
+created_at: '20240308155241'
+digest: 4S53GAXA67MSOL3VH5Z3LKOQU2MI3MEO
+updated_at: '20240308155241'
+url: https://web.archive.org/web/20240308155241id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?codcur=1050&codhab=104&sgldis=BRI0001
