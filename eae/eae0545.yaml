@@ -1,0 +1,70 @@
+courses:
+  activation: 01/01/2007
+  assessment: De acordo com o Regimento Geral da Universidade, o aluno que obtiver
+    frequência mínima de 70% e média final entre 3,0 e 4,9 tem direito a recuperação.
+  bibliography: "Carbaugh, R. Economia Internacional. São Paulo: Pioneira Thomson\
+    \ Learning, 2002.\nKrugman, Paul & Obstfeld, Maurice. Economia Internacional:\
+    \ Teoria e Política. São Paulo: Makron Books.\nPindyck, Robert & Rubinfeld, Daniel.\
+    \ Microeconomia. 5ª ed. São Paulo: Prentice Hall, 2002.\nRicardo, David. Princípios\
+    \ de Economia Política e Tributação. Coleção \x93Os Economistas\x94. São Paulo:\
+    \ Abril Cultural, 1985.\nSachs, Jeffrey & Larrain. Macroeconomia. São Paulo: Makron\
+    \ Books.\nSimonsen, Mário H. & Cysne, R.P. Macroeconomia. São Paulo: Atlas, 1995.\n\
+    Smith, Adam. A Riqueza das Nações. Coleção \x93Os Economistas\x94. São Paulo:\
+    \ Abril Cultural, 1985.\nVarian, Hal. Microeconomia. São Paulo: Ed. Campus.\n\
+    Williamson, John. A economia aberta e a economia mundial. São Paulo: Campus."
+  course: 'PARTE I: MICROECONOMIA E COMÉRCIO INTERNACIONAL
+
+    1) O Comércio Internacional nas origens do pensamento econômico (1 aula)
+
+    i. Mercantilistas
+
+    ii. Economia Clássica: Adam Smith e David Ricardo
+
+    2) Teoria Neoclássica do Comércio Internacional
+
+    a) Fundamentos da Microeconomia Neoclássica:
+
+    i. Teoria da Firma: Teoria da Produção, Teoria dos Custos, Maximização de lucros
+    e oferta competitiva (3 aulas).
+
+    ii. Teoria do Consumidor: maximização de utilidade (1 aula)
+
+    b) Modelos Neoclássicos do Comércio Internacional (2 aulas)
+
+    i. Modelo Heckscher-Ohlin
+
+    ii. Teorema de Equalização do Preço dos Fatores de Paul Samuelson
+
+    iii. Teorema de Stolper-Samuelson
+
+    iv. Teorema de Rybczynsky
+
+    PARTE II: MACROECONOMIA INTERNACIONAL
+
+    1) Contas Nacionais e Balanço de Pagamentos (1 aula)
+
+    2) Modelos de determinação da Renda
+
+    i. Modelo Clássico e Modelo Keynesiano Simples (1 aula)
+
+    ii. Modelo IS-LM e modelo Mundell-Fleming (3 aulas)
+
+    3) Política Macroeconômica numa economia aberta e regimes cambiais (1 aula)
+
+    4) Oferta Agregada e Curva de Phillips (1 aula)'
+  course_name: 'EAE0545 - Fundamentos de Economia para o Comércio Internacional
+
+    Economic Fundamentals for the International Trade'
+  deactivation: 31/12/2009
+  instructors: 2211145 - Rodrigo Alves Teixeira
+  lecture_credits: '4'
+  objectives: A disciplina visa apresentar aos alunos do curso de Relações Internacionais
+    alguns conceitos e modelos básicos da Teoria Econômica e suas aplicações no estudo
+    das relações econômicas internacionais.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20240308155239'
+digest: RHC2HIRRLUHBELRV65XAT22LXAFNFOD7
+updated_at: '20240308155239'
+url: https://web.archive.org/web/20240308155239id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?codcur=1050&codhab=104&sgldis=EAE0545
