@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2023
+  activation: 01/01/2024
   assessment: O estudante com nota de 4 a 4.9 poderá realizar prova teórica de todo
     o conteúdo do semestre.
   bibliography: 'Literatura Básica:
@@ -59,16 +59,16 @@ courses:
     diferentes escolas da Psicologia. Compreender do ponto de vista psicológico a
     relação desenvolvimento e aprendizagem, partindo das diferenças presentes nas
     pessoas.
-  practical_credits: '0'
-  total_workload: '30 h
+  practical_credits: '1'
+  total_workload: '60 h
 
     (
 
-    Práticas como Componentes Curriculares =  20 h
+    Práticas como Componentes Curriculares =  30 h
 
     )'
   type: Semestral
-created_at: '20230925071857'
-digest: QRATHBSF5KWA6LTTO33ZV2XMBBV2F76U
-updated_at: '20230925071857'
-url: https://web.archive.org/web/20230925071857id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES1302&codcur=11070&codhab=104
+created_at: '20240412120903'
+digest: A57W4OZREWUVGFHQVX2PO2BM2CR27QDN
+updated_at: '20240412120903'
+url: https://web.archive.org/web/20240412120903id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES1302&codcur=11070&codhab=104
