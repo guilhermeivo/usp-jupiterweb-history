@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2017
+  activation: 01/01/2023
   assessment: Prova escrita sobre todo programa da disciplina.
   bibliography: 'Literatura Básica:
 
@@ -70,18 +70,20 @@ courses:
 
     Nanotechnology in Agriculture, Environment and Food Science'
   deactivation: ''
-  instructors: 6390741 - Hudson Wallace Pereira de Carvalho
-  lecture_credits: '4'
+  instructors: '9433952 - Flavia Vischi Winck
+
+    6390741 - Hudson Wallace Pereira de Carvalho'
+  lecture_credits: '3'
   objectives: Através de uma abordagem teórico-prática o curso se propõe a discutir
     as relações entre estrutura e propriedades da matéria. Objetiva-se introduzir
     os principais métodos de síntese e caracterização de nanomateriaism, assim como
     construir dispositivos e realizar experimentos que permitam explorar as atuais
     e potencias aplicações da nanotecnologia na agricultura e ambiente.
   practical_credits: '0'
-  total_workload: 60 h
+  total_workload: 45 h
   type: Semestral
-created_at: '20240103061816'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+created_at: '20240412111152'
+digest: NBQMLMC56XDBVDIN534QS4PFQNXAFZCO
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 6'
   requirements:
@@ -140,5 +142,5 @@ requirements:
   - code: LCE0180
     name: Química Ambiental
     type: Requisito
-updated_at: '20240103061816'
-url: https://web.archive.org/web/20240103061816id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0370&codcur=11020&codhab=0
+updated_at: '20240412111152'
+url: https://web.archive.org/web/20240412111152id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0370&codcur=11070&codhab=4
