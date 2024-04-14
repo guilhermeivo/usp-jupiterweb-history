@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2017
+  activation: 01/01/2024
   assessment: Não haverá recuperação nessa disciplina.
   bibliography: 'Literatura Básica:
 
@@ -20,12 +20,12 @@ courses:
     Biology and Wildlife Management. Second Edition. Blackwell Publishing.'
   course: Apresentação e discussão de problemas ambientais típicos e atuais do exercício
     profissional do biólogo. Método científico e resolução de problemas. Leitura e
-    discussão de textos específicos. Elaboração de relatórios e redação científica.
-    Apresentação de seminários dos temas propostos.
+    discussão de textos específicos. Excursões (viagens de campo). Elaboração de relatórios
+    e redação científica. Apresentação de seminários dos temas propostos.
   course_name: 'LCF0104 - Ecologia Aplicada
 
     APPLIED ECOLOGY'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: '494774 - Alexandre Reis Percequillo
 
     792922 - Flávio Bertin Gandara Mendes
@@ -47,7 +47,7 @@ courses:
   practical_credits: '2'
   total_workload: 75 h
   type: Semestral
-created_at: '20231211163804'
-digest: LOGLOTCS2ARGBAFLEQRKXARUGEW7GBGR
-updated_at: '20231211163804'
-url: https://web.archive.org/web/20231211163804id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0104&nomdis=
+created_at: '20240414151243'
+digest: AXHU7WASDJCSFFJE3BEVSHDNJTZ3IXI5
+updated_at: '20240414151243'
+url: https://web.archive.org/web/20240414151243id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0104&codcur=11070&codhab=104
