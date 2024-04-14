@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2014
+  activation: 01/01/2024
   assessment: Esta disciplina não prevê recuperação.
   bibliography: 'ACIESP (1997) Glossário de Ecologia. Publicação ACIESP nº 103, 2ª
     Ed., 352p.
@@ -51,9 +51,9 @@ courses:
     GLIESSMAN, S.R. (1998). Agroecology: Ecological Processes in Sustainable Agriculture.
     Am. Arbor. Press. 357p.'
   course: 'Ecossistemas, Agroecossistemas e Desenvolvimento: Definições. Fronteira
-    agrícola, a origem dos agroecosssitemas e desenvolvimento. Devastação ambiental,
+    agrícola, a origem dos agroecossistemas e desenvolvimento. Devastação ambiental,
     aproveitamento racional e preservação. Conceitos básicos de ecologia e evolução:
-    Habitat, nicho ecológico e ecossitema. Seleção natural, adaptação e especiação.
+    Habitat, nicho ecológico e ecossistema. Seleção natural, adaptação e especiação.
     Coevolução. Criação da biodiversidade. A Descrição da Vegetação Natural: Fisionomia.
     Florística. Fitossociologia. Aspectos da Fitogeografia do Brasil: Principais formações
     vegetais brasileiras.  A Organização de Comunidades Vegetais. Serapilheira, decomposição
@@ -65,11 +65,13 @@ courses:
     Restauração Ecológica. Métodos de Restauração. Seleção de Métodos. Implantação
     e Vantagens comparativas. Aspectos da Legislação Ambiental. Filosofia e Conceitos
     Gerais. Lei de Crimes Ambientais. Código Florestal. Ecologia Experimental. Instalação
-    e análise de experimentos envolvendo processos ecológicos.'
+    e análise de experimentos envolvendo processos ecológicos, viagem de campo para
+    identificação de vegetações e análise de processos de restauração ecológica em
+    paisagens agrícolas.'
   course_name: 'LCB1402 - Ecologia Vegetal
 
     Plant Ecology'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: 792922 - Flávio Bertin Gandara Mendes
   lecture_credits: '4'
   objectives: Dar aos alunos  condições de reconhecer os componentes dos ecossistemas
@@ -80,7 +82,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209045347'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20231209045508'
-url: https://web.archive.org/web/20231209045508id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB1402&codcur=11010&codhab=0
+created_at: '20240414001705'
+digest: R33YP3EHMWXOLYPONZ5BZ3I42W24S4WQ
+updated_at: '20240414001705'
+url: https://web.archive.org/web/20240414001705id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB1402
