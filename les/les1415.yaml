@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2024
   assessment: Não há.
   bibliography: 'AQUINO, J.G. Indisciplina na escola, alternativas. Teorias e Práticas.
     SP. Summus Ed. 1996.BRASIL.
@@ -14,15 +14,16 @@ courses:
     BRASIL. Parâmetros Curriculares Nacionais: Ciências Naturais. 2. ed. Rio de Janeiro:
     DP&A, 2000. (disponível em: www.mec.gov.br)
 
-    BRASIL. Parâmetros Curriculares Nacionais: Ensino Médio. Parte III (Ciências da
-    Natureza, Matemática e suas Tecnologias). Disponível em: http://portal.mec.gov.br/seb/arquivos/pdf/ciencian.pdf
+    BRASIL. Ministério da Educação. Base Nacional Comum Curricular (BNCC). Brasília,
+    2018. Disponível em: < http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf>
+    Acesso em: Dez. 2020.
+
+    CACHAPUZ, A. et. al. A necessária renovação do ensino de Ciências. São Paulo:
+    Cortez, 2005.
 
     CARVALHO, A. M. P. e GIL PÉREZ, D. Formação de professores de Ciências: tendências
     e inovações. 4a ed. São Paulo: Cortez, 2000. (Coleção Questões da Nossa Época,
     26).
-
-    CARVALHO, A.M.P. Prática de ensino - os estágios da formação do professor. São
-    Paulo, Pioneira, 1985.
 
     DIAS DA SILVA, M.H.G.F. Passagem sem rito: as quintas séries e seus professores.
     Campinas: Papirus, 1997.
@@ -43,6 +44,9 @@ courses:
     KRASILCHICK, M.; MARANDINO, M. Ensino de Ciências e cidadania. São Paulo: Moderna,
     2004.
 
+    LIMA, G. F. C. Educação ambiental crítica: do socioambientalismo às sociedades
+    sustentáveis. Educação e Pesquisa, v. 35, n. 1, 2009, p. 145- 163.
+
     MARIN, A .J. (Coord) Didática e trabalho docente.  SP. J.M. Editora, 1996.
 
     MASSABNI, V. G.; RAVAGNANI, M. C. A. N. Progressão Continuada: qual construtivismo
@@ -61,9 +65,6 @@ courses:
     PIMENTA, S.G. O estágio na formação de Professores: unidade Teoria e Prática?
     SP. Cortez. 1995.
 
-    São Paulo (Estado) Secretaria da Educação. Proposta Curricular do Estado de São
-    Paulo: Biologia. Coord. Maria Inês Fini, São Paulo. 2008
-
     SÃO PAULO, Secretaria de Estado de Educação (2011). Currículo do Estado de São
     Paulo: Ciências da Natureza e suas tecnologias. Disponível:
 
@@ -73,9 +74,6 @@ courses:
     de ensino do Estado de São Paulo, o regime de progressão continuada no ensino
     fundamental.
 
-    SAVIANI, N. Saber escolar, currículo e didática = problemas da unidade conteúdo/método
-    no processo pedagógico. Campinas, SP. Ed. Autores Associados, 1998.
-
     VEIGA, I. P. A. (Org.) Técnicas de ensino: por que não? 13. ed. Campinas: Papirus,
     2002.
 
@@ -84,7 +82,7 @@ courses:
   course: '3.1.Conteúdo teórico-prático: orientações para a documentação do estágio
     e boa realização do mesmo e discussões e embasamento teórico da prática a ser
     vivenciada. Aspectos a discutir: a) cultura educativa, os alunos, projeto político-pedagógico.
-    b) a escola e seu contexto, infra-estrutura e espaços a serem utilizados em aulas
+    b) a escola e seu contexto, infraestrutura e espaços a serem utilizados em aulas
     das áreas das Ciências Agrárias e Biológicas e projetos nas Ciências; c) planejamento
     do ensino com vistas aos processos participativos e democráticos na escola e de
     valorização do aluno; d) autoridade e autoritarismo docente; e) ensinar e critérios
@@ -95,8 +93,9 @@ courses:
     e valores) e a docência nas áreas de Ciências e correlatas; i) análise da gestão
     da matéria e gestão da classe (tempos e espaços da aula) em Ciências;  j) orientação
     para escolha dos conteúdos e metodologias de ensino para o estágio, considerando
-    os currículos, necessidades dos alunos e premissas de ação, com ênfase nas hortas
-    escolares e espaços verdes da escola.
+    os currículos, necessidades dos alunos e premissas de ação, com ênfase na educação
+    ambiental, nas hortas escolares e espaços verdes da escola (viagem didática a
+    complementar este item j).
 
     3.2. Estágio supervisionado:
 
@@ -121,7 +120,7 @@ courses:
     agrária, incluindo regências em disciplinas correlatas que possuam o conteúdo
     específico de agrárias, como solos, plantio, geoprocessamento, agricultura, formas
     sustentáveis de cultivo, arborização e educação ambiental, questões do uso da
-    terra, o trabalho rural, e produtividade, entre outras.'
+    terra, o trabalho rural, e produtividade, entre outras..'
   course_name: 'LES1415 - Metodologia do Ensino em Ciências
 
     Teaching Methods in Sciences'
@@ -149,7 +148,7 @@ courses:
 
     )'
   type: Semestral
-created_at: '20220701162136'
-digest: LAM6SR3JKBNKZSXL2HI44AXYTFB62NKX
-updated_at: '20220701162136'
-url: https://web.archive.org/web/20220701162136id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES1415&codcur=11070&codhab=104
+created_at: '20240414133207'
+digest: YN4MIQPY6RTBECIB5EP5HZKSVJ3D6G2X
+updated_at: '20240414133207'
+url: https://web.archive.org/web/20240414133207id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES1415&codcur=11070&codhab=104
