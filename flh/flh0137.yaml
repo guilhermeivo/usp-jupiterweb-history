@@ -1,38 +1,82 @@
 courses:
-  activation: 01/01/2020
-  assessment: Apresentação de um trabalho para nota final do curso.
-  bibliography: A disciplina não possui bibliografia inicial, por conta da especificidade
-    do tema proposto, que almeja explicitar recursos metodológicos mínimos de leitura
-    e escrita necessários para acompanhar dos cursos oferecidos.
-  course: '1. Especificidade dos textos acadêmicos.
+  activation: 15/07/2023
+  assessment: A serem estabelecidas pelas/os docentes ministrantes em programas específicos
+    e apresentados às/aos estudantes na primeira aula.
+  bibliography: 'BALTAR, Marcos Antonio Rocha e outros. Leitura e produção textual
+    acadêmica I. Florianópolis: LLE/CCE/UFSC, 2011.
 
-    2. Procedimentos para leitura e fixação conceitual: resumo e fichamento.
+    BLOCH, Marc. A apologia da História ou o ofício do historiador. Rio de Janeiro:
+    Zahar, 2001.
 
-    3. Modelo de dissertação com base em problemas conceituais específicos dos textos.
+    FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DE SÃO PAULO. Código de Boas Práticas
+    Científicas. São Paulo: Fapesp, 2014.
 
-    4. Resenha como exposição de uma compreensão global e de uma tomada de posição
-    sobre os textos.
+    ECO, Umberto. Como se faz uma tese. 21ª edição, São Paulo: Perspectiva, 2008.
 
-    5. Reconstrução e avaliação da argumentação dos textos.'
-  course_name: 'FLH0137 - Leitura e escrita acadêmica na formação de professores II
+    FLÔRES, Lúcia Locatelli e outros. Redação:  o texto técnico-cientíﬁco e o texto
+    literário. Florianópolis: EdUFSC, 1994
+
+    FREIRE, Paulo. A importância do ato de ler. Cortez, 1986.
+
+    KING, Stephen. Sobre a escrita. A arte em memórias. Rio de Janeiro: Suma de Letras,
+    2015.
+
+    KLEIMAN, Angela. Texto e leitor: aspectos cognitivos da leitura. Campinas, SP:
+    Pontes, 2000.
+
+    KROKOSCZ , Marcelo.  Outras palavras sobre autoria e plágio. São Paulo: Atlas,
+    2015.
+
+    LEITE, Ligia Chiappini M. (coord.) Aprender e ensinar com textos. São Paulo: Cortez,
+    1997. v. 1-10.
+
+    MATTOS, Ilmar Rohllof de. "Mas não somente assim!" Leitores, autores, aulas como
+    texto e o ensino-aprendizagem de História. Revista Tempo, 2006 11(21). Disponível
+    em: https://doi.org/10.1590/S1413-77042006000200002
+
+    OLIVEIRA, Jorge Leite de. Texto acadêmico.  Petrópolis, RJ: Vozes,2005
+
+    PIETRI, Emerson. Práticas de leitura e elementos para a atuação docente. Rio de
+    Janeiro: Lucerna, 2007.
+
+    RODRIGUES, André Figueiredo. Como elaborar e apresentar monografias. São Paulo:
+    Humanitas, 2008.
+
+    SACRINI, Marcus. Leitura e escrita de textos argumentativos. São Paulo: EDUSP,
+    2022.'
+  course: '1-Estratégias de leitura: identificação de conceitos-chave, categorias
+    de análise, argumentos, hipóteses e teses (recapitulação do módulo I).
+
+    2-Práticas de escrita: fichamento e relatório de leitura
+
+    3-Práticas de escrita: resenha crítica
+
+    4-Práticas de escrita: ensaio bibliográfico
+
+    5-Práticas de escrita: projeto de pesquisa
+
+    6-Outros gêneros de textos científicos: artigo, dissertação e tese'
+  course_name: 'FLH0137 - Prática de Leitura e Escrita Historiográfica II [7- Ensino
+    de História e Pesquisa]
 
     Academic reading and writing in teacher education II'
   deactivation: ''
-  instructors: '371954 - Adone Agnolin
+  instructors: '307878 - Eduardo Natalino dos Santos
 
-    129383 - Daniel Strum
+    1648922 - Marcos Francisco Napolitano de Eugênio
 
-    954874 - Francisco Assis de Queiroz
-
-    6580513 - Jose Antonio Vasconcelos
-
-    7310217 - Maria Cristina Correia Leandro Pereira'
+    1963793 - Rodrigo Monteferrante Ricupero'
   lecture_credits: '4'
-  objectives: O curso almeja oferecer situações de leitura e escrita voltadas para
-    a formação do pesquisador e do futuro professor de História. Em particular, as
-    dificuldades básicas de compreensão e fixação conceitual de textos teóricos serão
-    tematizadas por docentes, que apresentarão métodos para o exame de textos históricos
-    com diferentes temas, enfoques e tipos textuais.
+  objectives: '- Prosseguir com as práticas de leitura iniciadas no módulo I desta
+    disciplina;
+
+    - Desenvolver habilidades de escrita acadêmica com base na precisão redacional,
+    na articulação de referências bibliográficas e no desenvolvimento de hipóteses
+    e construção de estratégias argumentativas coesas e coerentes.
+
+    - Propiciar práticas dirigidas de leitura e escrita que explicitem as diferenças
+    entre os vários tipos de textos acadêmicos: fichamentos, resenhas, ensaios bibliográficos,
+    artigos, textos de divulgação, textos didáticos e projetos de pesquisa.'
   practical_credits: '2'
   total_workload: '120 h
 
@@ -40,13 +84,9 @@ courses:
 
     Práticas como Componentes Curriculares =  20 h
 
-    ,
-
-    Atividades Acadêmicos-Científico-Culturais =  20 h
-
     )'
   type: Semestral
-created_at: '20210617225739'
-digest: ETFKOXQH3X3DZKHQL7FPOQVE4Y325A3Q
-updated_at: '20230321041413'
-url: https://web.archive.org/web/20230321041413id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FLH0137&codcur=8030&codhab=103
+created_at: '20240414103532'
+digest: X6JR3AUJAFMKXGMCVO6JXMLJTUC5GZIL
+updated_at: '20240414103532'
+url: https://web.archive.org/web/20240414103532id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FLH0137&amp
