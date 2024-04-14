@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2023
+  activation: 01/01/2024
   assessment: 'Realização: Até a primeira semana de aulas do semestre posterior -Critério
     de Aprovação: NP+(Mrec/2,5), se Mrec > ou =7,5; ou Max {NP,Mrec}, se Mrec < ou
     = 5,0; ou 5,0, se 5,0 < ou = Mrec < 7,5.( NP=1ª avaliação, Mrec=prova)'
@@ -39,6 +39,13 @@ courses:
     Limitações sobre a nossa habilidade de computar; problemas indecidíveis. Teoria
     de Complexidade: Complexidade de Tempo, Complexidade de Espaço, Intratabilidade.
 
+    Atividades de Extensão: Produção de vídeos disponibilizados publicamente sobre
+    a história da ciência e, considerando a grande relevância da Informática no mundo,
+    sobre questões que possam ser de interesse da sociedade. Também podem ser promovidos
+    seminários abertos sobre esses assuntos.
+
+    Carga Horária: 10 horas.
+
     Regular Languages: deterministic and non-deterministic finite automata, regular
     expressions, techniques to identify and describe regular languages, techniques
     to show that a language is not regular, properties of such languages. Context-Free
@@ -52,7 +59,7 @@ courses:
   course_name: 'SCC0205 - Teoria da Computação e Linguagens Formais
 
     Theory of Computation and Formal Languages'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: '5396589 - Diego Raphael Amancio
 
     5236493 - João Luis Garcia Rosa
@@ -74,7 +81,7 @@ courses:
   practical_credits: '2'
   total_workload: 120 h
   type: Semestral
-created_at: '20240205214247'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20240414125553'
-url: https://web.archive.org/web/20240414125553id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SCC0205&verdis=3
+created_at: '20240414143410'
+digest: H56VRAERJM7WKPBBWLUGIWHVYRPLLBCR
+updated_at: '20240414143410'
+url: https://web.archive.org/web/20240414143410id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SCC0205&amp
