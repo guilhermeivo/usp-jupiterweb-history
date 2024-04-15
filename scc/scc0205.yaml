@@ -1,0 +1,62 @@
+courses:
+  activation: 01/01/2011
+  assessment: 'Realização: Até a primeira semana de aulas do semestre posterior -Critério
+    de Aprovação: NP+(Mrec/2,5), se Mrec > ou =7,5; ou Max {NP,Mrec}, se Mrec < ou
+    = 5,0; ou 5,0, se 5,0 < ou = Mrec < 7,5.( NP=1ª avaliação, Mrec=prova)'
+  bibliography: "· Livro Texto:- HAREL, D. Algorithmics \x96 The Spirit of Computing.\
+    \ Addison-Wesley, 2. ed., 1992.- SIPSER, M. Introduction to the Theory of Computation.\
+    \ PWS, 2a ed, 1997.- HOPCROFT, M. & ULLMAN Introduction to Automata Theory, Languages,\
+    \ and Computation. Addison-Wesley, 2001.· Bibliografia Complementar:- GAREY &\
+    \ JOHNSON Computers and Intractability \x96 a guide to the Theory of NP-Completeness,\
+    \ W.H. Freeman and Company, New York, 1979.- CORMEN, T.H.; LEISERSON, C.E.; RIVEST,\
+    \ R.L. Introduction to Algorithms. The Mit Press. 1. ed., 1990.- DIVÉRIO & MENEZES\
+    \ Teoria da Computação \x96 Máquinas Universais e Computabilidade. Série Livros\
+    \ Didáticos 5, IF UFRGS, 2. ed., 2000, Sagra Luzzatto.- MENEZES, P.B. Linguagens\
+    \ Formais e Autômatos, Série Livros Didáticos 3, IF UFRGS, 4. ed., 2001, Sagra\
+    \ Luzzatto.- TOSCANI & VELOSO Complexidade de Algoritmos, Série Livros Didáticos\
+    \ 13, IF UFRGS, 1. ed., 2001, Sagra Luzzatto."
+  course: 'Linguagens Regulares: Autômatos finitos determinísticos e não-determinísticos;
+    expressões regulares; técnicas para identificar e descrever linguagens regulares;
+    técnicas para mostrar que uma linguagem não é regular; propriedades de tais linguagens.
+    2. Linguagens Livres de Contexto: Gramáticas Livres de Contexto; derivações; árvores
+    de derivação; ambigüidade; autômatos de pilha; propriedades de tais linguagens;
+    técnicas para mostrar que uma linguagem não é livre de contexto. Linguagens Sensíveis
+    ao Contexto e Linguagens Recursivamente Enumeráveis: Máquinas de Turing; definições
+    básicas e sua relação com a noção de um algoritmo/programa. Poder das Máquinas
+    de Turing e Tese de Church-Turing. Indecibilidade: Máquinas de Turing Universais;
+    Limitações sobre a nossa habilidade de computar; problemas indecidíveis. Teoria
+    de Complexidade: Complexidade de Tempo, Complexidade de Espaço, Intratabilidade.
+
+    Regular Languages: deterministic and non-deterministic finite automata, regular
+    expressions, techniques to identify and describe regular languages, techniques
+    to show that a language is not regular, properties of such languages. Context-Free
+    Languages: Context Free Grammars, derivations, derivation trees, ambiguity, push-down
+    automata, properties of such languages, techniques to show that a language is
+    not context-free. Context Sensitive languages and recursively enumerable languages:
+    Turing machines, basic definitions and its relation to the notion of an algorithm/program.
+    Power of Turing Machines and the Church-Turing Thesis. Indecibilidade: Universal
+    Turing Machines; limitations on our ability to compute; undecidable problems.
+    Complexity Theory: Time Complexity, Space Complexity, intractability.'
+  course_name: 'SCC0205 - Teoria da Computação e Linguagens Formais
+
+    Theory of Computation and Formal Languages'
+  lecture_credits: '4'
+  objectives: 'Dar ao aluno noção formal de algoritmo, computabilidade e do problema
+    de decisão, de modo a deixá-lo consciente das limitações da ciência da computação.
+    Aparelhá-lo com as ferramentas de modo a habilitá-lo a melhor enfrentar a solução
+    de problemas com o auxílio do computador. Dar subsídios para o aluno poder definir
+    linguagens de programação, isto é, sua sintaxe e semântica, através do estudo
+    das gramáticas formais.
+
+    Give the students the formal notion of algorithm, computability, and decision
+    problem, in order to make them aware of the limitations of computer science. Provide
+    the tools to enable them to better address the solution of problems with the help
+    of computer. Assist students in defining programming languages, ie, its syntax
+    and semantics, through the study of formal grammars.'
+  practical_credits: '2'
+  total_workload: 120 h
+  type: Semestral
+created_at: '20150924205555'
+digest: NDH3BT6UDPLDTJD4H5QGIJ4T53KDKGXY
+updated_at: '20150924205555'
+url: https://web.archive.org/web/20150924205555id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SCC0205&codcur=55041&codhab=0
