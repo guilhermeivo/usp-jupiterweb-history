@@ -1,0 +1,112 @@
+courses:
+  activation: 01/01/2021
+  assessment: 'Uma prova teórica e uma prova teórico-prática de recuperação serão
+    realizadas em data previamente agendada, sendo a nota final de recuperação igual
+    à média aritmética das duas provas (teórica e
+
+    prática). E a média final da disciplina será calculada pela média aritmética da
+    média obtida no semestre letivo e a média das provas de recuperação.'
+  bibliography: 'BONAGURA, J.D; TWEDT, D. Kirk’s Current Veterinary Therapy XIV. Missouri,
+    Saunders Elsevier, 2009.
+
+    DiBARTOLA, S.P. Fluid, Electrolyte, and Acid-base Disorders in Small Animal Practice.
+    3 ed. Saunders Elsevier, 2006.
+
+    ETTINGER, S.J. & FELDMAN, E.D. Textbook of Veterinary Internal Medicine: diseases
+    of the dogs and cats. 6th Ed. Philadelphia, W. B. Saunders, 2005.
+
+    FEITOSA, F.L.F. Semiologia Veterinária a Arte do Diagnóstico. 2 ed. Roca, 2008,
+    p. 642 – 76.
+
+    FELDMAN, E.C.; NELSON, R.W. Canine and Feline Endocrinology and Reproduction.
+    3a. ed. St Louis, Saunders, 2004.
+
+    GREENE, C.E. Clinical, Microbiological and Infectious, Diseases of the dog and
+    cat. 3ª ed. Philadelphia, W. B. Saunders, 2005.
+
+    GUAQUIERE & PRELAUD. A Practical Guide to Feline Dermatology. Merial, 2000.
+
+    HOLX WORTH, J. Diseases of the cat. Philadelphia, W.B. Saunders, 1987.
+
+    JERICÓ, M.M.; ANDRADE NETO, J.P.; KOGIKA, M.M. Tratado de Medicina Interna de
+    Cães e Gatos. 1ª edição, 2 volumes, Rio de Janeiro, Grupo Gen – Roca, 2015.
+
+    KELLY, W.R. Diagnóstico Clínico Veterinário. 3ª ed. Interamericana, 1986.
+
+    KIRK, R.W. & BONAGURA, J.D. Current Veterinary Therapy XI. Philadelphia, W. B.
+    Saunders, 1992.
+
+    LARSSON, C.E.; LUCAS, R. Tratado de Medicina Externa - Dermatologia Veterinária.
+    1a  edição,  Interbook Editorial, 2015.
+
+    LEE GROSS et al. Skin Diseases of the Dog and Cat. 2 ed. Oxford Blackwell Science,
+    2015.
+
+    LORENZ, M.D. & CORNELIUS, L.M. Diagnóstico Clínico e Tratamento em Pequenos Animais.
+    Ed. Interlivros Edições Ltda, 1989.
+
+    MILLER, M.S. & TILLEY, S.J. Manual of Canine and Feline Cardiology. 2ª ed. Philadelphia,
+    W.B. Saunders, 1995.
+
+    MINOVICH & PALUDI. Medicina Felina Practica. 3 ed. Barcelona Multimédica, 2011,
+    p. 427-81.
+
+    MILLER, GRIFFIN & CAMPBELL. Muller & Kirk´s Small Animal Dermatology. 7 ed. St
+    Louis. Elsevier, 2013.
+
+    LARSSON, C.E. & LUCAS, R. Tratado de Medicina Externa Dermatológica Veterinária
+    2a Ed. 2019 Interbook. ISBN 9788589450119.
+
+    NELSON, R.W.; COUTO, C.G. Small Animal Internal Medicine. 4th ed. Missouri, Mosby
+    Elsevier, 2009.
+
+    PADRID, P. Respiratory Medicine and Surgery. The Veterinary Clinics of North America.
+    Small Animal Practice. V.30, n.6, 2000.
+
+    RAND, J. Problem-Based Feline Medicine. ISBN 978-0-7020-2488-7 Saunders Ltd.2006
+
+    https://doi.org/10.1016/B978-0-7020-2488-7.X5001-7
+
+    TILLEY, L.P.& SMITH Jr, F.W.K. The 5-Minute Veterinary Consult. Canine and Feline.
+    2nd ed. Baltimore, Lippincott Williams & Wilkins, 2000.'
+  course: 'Abordagem ao Raciocínio Clínico
+
+    Princípios de Fluidoterapia
+
+    Cuidados com neonatos e filhotes de cães e gatos
+
+    Particularidades no tratamento de felinos
+
+    Principais doenças infecciosas
+
+    Principais doenças dermatológicas
+
+    Principais doenças endócrinas
+
+    Principais doenças do sistema urinário
+
+    Principais doenças cardíacas
+
+    Principais doenças respiratórias'
+  course_name: 'VCM4201 - Clínica Médica de Pequenos Animais
+
+    Small Animal Internal Medicine'
+  deactivation: ''
+  instructors: '407831 - Archivaldo Reche Junior
+
+    233956 - Denise Saretta Schwartz'
+  lecture_credits: '6'
+  objectives: A disciplina compreende a verificação do histórico e dos sintomas associadas
+    às alterações funcionais e/ou metabólicas que acometem os pequenos animais, principalmente
+    cães e gatos. O intuito será de desenvolver metodologia para o raciocínio que
+    irá relacionar os achados clínico-laboratoriais com as principais doenças que
+    possam estar envolvidas. O curso teórico e prático permitirá, com base nas informações
+    referidas, a determinação quanto a etiologia, diagnóstico provável, prognóstico,tratamento
+    e profilaxia.
+  practical_credits: '0'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20240419013839'
+digest: F57ILYCNUV4CPDOEGE2Y44WJUBCB4PGC
+updated_at: '20240419013839'
+url: https://web.archive.org/web/20240419013839id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCM4201&verdis=3
