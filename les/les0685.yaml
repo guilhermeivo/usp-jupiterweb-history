@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2019
+  activation: 01/01/2024
   assessment: Uma prova com toda a matéria lecionada.
   bibliography: "LIVRO-TEXTO: ROSSETTI, J.P. Política e Programação Econômica (7ª.\
     \ Ed.) São Paulo: Atlas, 1995. 349p.; KON, A. Subsídios teóricos e metodológicos\
@@ -77,8 +77,8 @@ courses:
   practical_credits: '1'
   total_workload: 60 h
   type: Semestral
-created_at: '20240103074434'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+created_at: '20240420004928'
+digest: XRXCEXVNY2NFL5ZKXHV3ZZBNQPBJ3UAN
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 9'
   requirements:
@@ -126,5 +126,5 @@ requirements:
   - code: LES0561
     name: Economia Brasileira Contemporânea
     type: Requisito
-updated_at: '20240103074434'
-url: https://web.archive.org/web/20240103074434id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0685&codcur=11020&codhab=0
+updated_at: '20240420004928'
+url: https://web.archive.org/web/20240420004928id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LES0685&codcur=11080&codhab=4
