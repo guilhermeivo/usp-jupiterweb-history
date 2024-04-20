@@ -1,0 +1,76 @@
+courses:
+  activation: 01/01/2007
+  assessment: Será efetuada uma prova final abordando todo o conteúdo.
+  bibliography: "Burrough, P.A. & McDonnell, R. A.  1998. Principles of Geographic\
+    \ Information Systems. Oxford \tU. Press.\nForman, R. T. T. and M. Godron.  1981.\
+    \  Patches and structural components for a landscape ecology.  \tBioScience 31:\
+    \ 733-740.\nForman, Richard T. T. Landscape ecology. New York : Wiley, c1986.\
+    \ 619 p. : ill.\nForman, R. T. T.  1997.  Land Mosaics. The ecology if landsacapes\
+    \ and regions. Columbia \tUniversity Press. 632 pp.\nGoodchild, M.F.et al. 1994.\
+    \ GIS and environmental modeling: progress and research issues. GIS \tWorld, Inc.\
+    \ Colorado, USA.\nHaines-Young, R; Green, D.R. & Cousins, S. Landscape ecology\
+    \ and GIS. Taylor & Francis, 1993. \tNew York : 288 p. : ill., maps.\nJensen,\
+    \ J.R. 1996. Introductory digital image processing . A remote sensing perspective.\
+    \ 2nd. Ed. \tPretice Hall series in geographic information science. New Jersey,\
+    \ USA. 316p.\nNaveh, Z. Landscape ecology :theory and application. 2nd ed. New\
+    \ York : Springer-Verlag, c1994. \t360 p. : ill., maps.\nPickett, S. T. A., and\
+    \ M. L. Cadenasso.  1995. Landscape ecology: Spatial heterogeneity in \tecological\
+    \ systems.  Science 269: 331-334.\nSwanson, F. J., T. K. Kratz, N. Caine, and\
+    \ R. G. Woodmansee.  1988.  Landform effects on \tecosystem patterns and processes.\
+    \  BioScience 38: 92-98.\nTenhunen, J.D. and Kabat, P. Eds 1999. Integrating hydrology,\
+    \ ecosystem dinamics, and biogeochemistry in complex landscapes. Wiley and Sons,\
+    \ New York.\nTuner II, B.L.; Clark, W.C.; Kates, R. W.; Richards, J.F.; Mathews,\
+    \ J.T. & Meyer, W.B. Eds. 1995. \tThe earth as transformed by human action. Global\
+    \ and regional changes in the biosphere over the past 300 years. Cambrige University\
+    \ Press. New York, EUA. pp 233-252.\nTurner, M. G., and R. H. Gardner, eds. 1990.\
+    \ Quantitative methods in landscape ecology. Springer-\tVerlag. 536pp.\nTurner,\
+    \ M; Gardner, R.H. & O'Neill, R.V.2001. Landscape Ecology in Theory and Practice:Pattern\
+    \ \tand Process. Springer-Verlag."
+  course: 'Uso de sistemas de informações geográficas para análise ambiental e manejo
+    de recursos naturais; Revisão dos conceitos: representação gráfica do espaço ao
+    longo da civilização humana; Definição, epistemiologia e características dos sistemas
+    de informações; Sistemas de Informações Gegráficas: definições, origem, histórico
+    e características; Componentes e Arquiteturas dos SIGs; Principais aplicações
+    na área ambiental dos SIGs; Efeitos das escalas espaciais e temporais nos fatores
+    estruturais e agentes modificadores dos ecossistemas; Revisão dos conceitos: mapas,
+    simbologias, escalas e projeções; Estruturas presentadas no computador: sistemas
+    matricial e vetorial; Dados de sensores remotos: características; Resoluções radiométrica,
+    espacial e temporal; Técnicas de escalonamento; Análise e interpretação dos padrões
+    espaciais dos fatores estruturais e agentes modificadores dos ecossistemas; Introdução
+    à Análise Espacial; Métodos convencionais e computadorizados, vantagens e desvantagens  no
+    uso de SIGs; Manejo de Dados Espaciais, Lógica Boleana, Reclassificação e auxílio
+    à tomada de desições; Operadores de distância e contexto; Métodos quantitativos
+    de análise dos fatores estruturais (topografia, drenagem, solos e clima) e do
+    uso e cobertura do solo; Efeitos espacias e temporais das mudandaças do uso e
+    cobertura do solo na estrutura e funcinamento de ecossitemas; Análise integrada
+    de ecossistemas por técnicas de geoprocessamento; Desenho e implementação de bancos
+    de dados georeferenciados para o planejamento ambiental; Desenho e implamentação
+    de um projeto; Definição e adquisição do Sistema de Informações Geográficas: diretrizes
+    gerais; Estrutura e elaboração do banco de dados: localização, adquisição e conversão
+    de dados; elaboração  e manutenção do banco de dados digital georefenciado; Manipulação
+    dos dados  e análise dos resultados; Exemplos de estudos sobre o uso de SIGs no
+    planejamento urbano e ambiental; aplicação de conhecimentos;  Desenvolvimento
+    de projetos: construção e análise de bancos de dados digitais georefenciados;
+    Apresentação dos resultados dos estudos de caso'
+  course_name: 'CEN0190 - Uso de Técnicas de Geoprocessamento em Estudos Ambientais
+
+    GIS Principles and Application in Environmental Studies'
+  deactivation: ''
+  instructors: 2300606 - Maria Victoria Ramos Ballester
+  lecture_credits: '3'
+  objectives: O objetivo deste curso é o de explorar e integrar os princípios e conceitos
+    de análise espacial, ecologia de sistemas e geoprocessamento no diagnóstico e
+    manejo de sistemas ecológicos. Estes conhecimentos serão utilizados como um arcaboço
+    para pesquisa, análise e manejo sistemas através do estudo de casos. As atividades
+    serão desenvolvidas através de 1- aulas teóricas; 2- leitura e discussão de literatura
+    representativa do estado da arte na pesquisa na área; 3- resolução de exercícios
+    desenhados para fornecer experiência com algumas ferramentas quantitativas e 4-
+    desenvolvimento de projetos de pesquisa. Este será um curso avaçado sobre estrutura,
+    funcionamento e aplicações de geoprocessamento em estudos ambientais.
+  practical_credits: '1'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20240420012126'
+digest: UVRU5OZYCSMHZKKJJJGB5JCSD25JIRQS
+updated_at: '20240420012126'
+url: https://web.archive.org/web/20240420012126id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0190&codcur=11080&codhab=4
