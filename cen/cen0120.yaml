@@ -1,66 +1,80 @@
 courses:
-  activation: 01/01/2002
+  activation: 01/01/2023
   assessment: 1 prova teórica escrita.
-  bibliography: 'Nelson, D.L.; Cox, M.M. 2000. Lehninger Principles of Biochemistry.
-    3a ed. Worth Publishers, 1152 pg.
+  bibliography: 'Literatura Básica:
 
-    ou edição mais antiga em português (Princípios de Bioquímica. 1995. Trad. Arnaldo
-    Simões. 2ª Ed. S.Paulo, Ed. Sarvier, 840 pg.)
+    Princípios de Bioquímica de Lehninger. 2018. Nelson, D.L.; Cox, M.M.; 7ª ed. Porto
+    Alegre, Ed. Artmed,
 
-    Stryer, L. Bioquimica. 1992. [Trad] Luiz Franscisco Macedo ; [Rev] Joao Paulo
-    de Campos. 3a. ed. Rio de Janeiro: Guanabara Koogan. 881 p.
+    1312 pg.
 
-    Textos selecionados'
-  course: '1. A célula e macromoléculas. Água e solutos.
+    Bioquímica fundamental. 2011. John L. Tymoczko; Jeremy M. Berg; Lubert Stryer;
+    1a. ed. Rio de Janeiro:
 
-    2. Proteínas: aminoácidos, peptídeos, estrutura tridimensional de proteínas. Funções
+    Guanabara Koogan, 780 pg.
+
+    Fundamentos de bioquímica: a vida em nível molecular. 2014. Voet, D.; Voet, J.G.;
+    Pratt, C.W. Porto Alegre,
+
+    Ed. Artmed, 4ª ed, 1167 pg.
+
+    Bioquímica Básica. 2015. Anita Marzzoco; Bayardo B. Torres; 4a. ed. Guanabara
+    Koogan, 404 pg.
+
+    Bioquímica. 2021. Jeremy M. Berg, John L Tymoczko; Gregory J Gatto Jr.; Lubert
+    Stryer; 9a. ed. Guanabara
+
+    Koogan, 1248 pg.
+
+    Literatura Complementar:
+
+    Textos selecionados cobrindo tópicos específicos'
+  course: '1. Introdução à bioquímica, conceitos gerais e sua inserção na gestão e
+    ciências ambientais
+
+    2. Interações não covalentes e interações intra- e intermoleculares. Propriedades
+    da água.
+
+    3. Quiralidade e sua importância para biomoléculas.
+
+    4. Proteínas: aminoácidos, peptídeos, estrutura tridimensional de proteínas. Funções
     de proteínas.
 
-    3. Enzimas: classificação, cinética e mecanismos de ação. Regulação de atividade.
+    5. Enzimas: classificação, cinética e mecanismos de ação. Regulação de atividade.
 
-    4. Classificação, estrutura e função das principais biomoléculas: carboidratos,
-    lipídeos, nucleotídeos e ácidos nucleicos.
+    6. Carboidratos: classificação, estrutura, propriedades e funções
 
-    5. Membranas biológicas: estrutura e transporte.
+    7. Lipídeos: classificação, estrutura, propriedades e funções
 
-    6. Bioenergética e metabolismo oxidativo. Glicólise, via das pentoses fosfato,
-    ciclo de Krebs
+    8. Membranas biológicas: estrutura e transporte de solutos
 
-    7. Teoria quimiosmótica e transporte de elétrons.
+    9. Transporte de elétrons e quimiosmose em cloroplastos e mitocôndrios
 
-    8. Fotossíntese. Reações fotoquímicas.
+    10. Espécies reativas de oxigênio e metabolismo antioxidante
 
-    9. Vias C-3 e C-4 e adaptação ambiental.
+    11. Introdução e visão geral do metabolismo
 
-    10. Metabolismo de carboidratos
+    12. Metabolismo oxidativo: glicólise, ciclo de Krebs e via das pentoses-fosfato
 
-    11. Metabolismo de lipídeos
+    13. Ciclo de Calvin. Vias C3 e C4 e adaptação ambiental.
 
-    12. Metabolismo de compostos nitrogenados.
+    14. Noções e conceitos básicos de toxicologia.
 
-    13. Tópico especial: Ferramentas moleculares de interesse ambiental.
-
-    14. Tópico especial: Bioquímica de poluentes, Transporte e acúmulo de metais e
-    poluentes
-
-    15. Tópico especial: Principios e conceitos básicos de toxicologia.'
+    15. Tópicos em bioquímica ambiental'
   course_name: 'CEN0120 - Princípios de Bioquímica
 
     Principles of Biochemistry'
   deactivation: ''
   instructors: 60172 - Victor Alexandre Vitorello
   lecture_credits: '2'
-  objectives: 'Aprendizado dos fundamentos e princípios que regem as reações bioquímicas
-    em organismos vivos.
-
-    Descrever os principais processos bioquímicos necessários à manutenção da vida.
-
-    Através de exemplos, tentar relacionar alguns aspectos de bioquímica com questões
-    ambientais.'
+  objectives: Aprendizado da estrutura, propriedades e interações entre biomoléculas
+    visando a compreensão dos processos biológicos ao nível molecular. Entender os
+    principais processos bioquímicos de importância biológica. Discutir a relação
+    dos tópicos examinados com questões ambientais, principalmente por meio de exemplos.
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220419194159'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20220807080459'
-url: https://web.archive.org/web/20220807080459id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0120&codcur=11080&codhab=4
+created_at: '20240420013651'
+digest: 4LELVFU5F7GPRFGYDFXFUWBOEO2DVYHT
+updated_at: '20240420013651'
+url: https://web.archive.org/web/20240420013651id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0120&codcur=11080&codhab=4
