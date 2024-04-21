@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2023
+  activation: 01/01/2024
   assessment: Uma prova geral que envolve toda a matéria lecionada (teórico-prática)
     no início do semestre subsequente.
   bibliography: 'Literatura Básica:
@@ -50,7 +50,7 @@ courses:
 
     CALOW, P., OLIVE, P.J.W. &  BARNES, R. Os Invertebrados: uma síntese. 2008. 1a
     ed., Atheneu, 504 p.'
-  course: 1.Breve histórico da Zoologia. Considerações sobre o Reino Animal. Nomenclatura
+  course: 1. Breve histórico da Zoologia. Considerações sobre o Reino Animal. Nomenclatura
     zoológica e classificação dos seres. Elementos básicos de sistemática filogenética.
     Origem e evolução dos metazoários. Conceitos básicos em embriologia e ontogenia.
     2. Noções gerais sobre a organização estrutural, morfologia, fisiologia, biologia
@@ -67,12 +67,13 @@ courses:
     Annelida. 8. Classificação e relações filogenéticas, morfologia, fisiologia e
     biologia dos Echinodermata. 9. Noções gerais sobre a organização e biologia de
     outros grupos menores de invertebrados.  10.  Viagem didática a campo para o Centro
-    de Biologia Marinha da USP (CEBIMar) para estudo sobre invertebrados marinhos
-    e diversidade de animais marinhos em plâncton, fital e costão rochoso.
+    de Biologia Marinha da USP (CEBIMar) como atividade estruturante para realização
+    de estudos sobre invertebrados marinhos e diversidade de animais marinhos em plâncton,
+    fital e costão rochoso (carga horária aula:16)
   course_name: 'LEA0170 - Zoologia de Invertebrados I
 
     Invertebrate Zoology I'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: 1033541 - Italo Delalibera Junior
   lecture_credits: '4'
   objectives: Transmitir e construir com os alunos informações básicas e comparativas
@@ -82,7 +83,7 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20230930105400'
-digest: ZKSPAIJQCGM5OTJWECEWJB4UHYULRP42
-updated_at: '20230930105400'
-url: https://web.archive.org/web/20230930105400id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0170&codcur=11070&codhab=4
+created_at: '20240421151851'
+digest: ESFSZ76MDJQLV6T5HVRNM4ZLS4ZMNJTV
+updated_at: '20240421151851'
+url: https://web.archive.org/web/20240421151851id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0170&codcur=11070&codhab=104
