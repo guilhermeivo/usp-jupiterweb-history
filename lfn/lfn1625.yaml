@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2013
+  activation: 01/01/2024
   assessment: Uma prova geral que envolve toda a matéria lecionada (teórico-prática).
   bibliography: 'Literatura Básica:
 
@@ -68,7 +68,7 @@ courses:
   course_name: 'LFN1625 - Doenças das Plantas Frutíferas e Hortícolas
 
     Fruit and Horticultural Crops Diseases'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: 3420352 - José Belasque Júnior
   lecture_credits: '4'
   objectives: A disciplina visa capacitar o aluno a reconhecer e resolver os problemas
@@ -77,7 +77,7 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20231209045424'
-digest: QZJAGENL45P3NRDJN5KVU7T4QO3YSQ4D
-updated_at: '20231209050342'
-url: https://web.archive.org/web/20231209050342id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LFN1625&codcur=11010&codhab=0
+created_at: '20240422001307'
+digest: ZLENFH7ZA3KSGQEDK3SXZHVFS5ANMXE5
+updated_at: '20240422001307'
+url: https://web.archive.org/web/20240422001307id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LFN1625&verdis=3
