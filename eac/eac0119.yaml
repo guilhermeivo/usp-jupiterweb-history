@@ -1,0 +1,136 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    CATELLI, Armando. Controladoria. São Paulo: Atlas, 2001 – 2ª edição.
+
+    GUERREIRO, Reinaldo; PEREIRA, Carlos Alberto; FREZATTI, Fábio. Aplicação do Modelo
+    Burns e Scapens para Avaliação do Processo de Institucionalização da Contabilidade
+    Gerencial. O&S. Organizações & Sociedade, v. 15, p. 45-62, 2008.
+
+    PEREIRA, Carlos Alberto. Gestão Econômica. In: PARISI, Cláudio; MEGLIORINI, Evandir
+    (org.). Contabilidade Gerencial. São Paulo: Atlas, 2011. Capítulo 9.
+
+    PEREIRA, Carlos Alberto; CORNACHIONE Jr., Edgard Bruno.; GUERREIRO, Reinaldo.
+    A mensuração de eventos: uma contribuição do modelo de gestão econômica. Revista
+    FIPECAFI, v. 1, n. 1, p. 45-77, jan. - abr., 2020.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    ESPEJO, Márcia M. S. B.; LIMA, Emanoel M.; PEREIRA, Carlos A.; FREZATTI, Fabio.
+    Responses from GECON to criticism in Relevance Lost. Annual Conference of the
+    ASAC – Administrative Sciences Association of Canada. Banff, jun/2006.
+
+    GUERREIRO, Reinaldo. Modelo conceitual de sistema de informação de gestão econômica:
+    uma contribuição à teoria da comunicação da contabilidade. São Paulo, Tese de
+    Doutoramento, FEA-USP. 1989.
+
+    GUERREIRO, Reinaldo. A teoria das restrições e o sistema de gestão econômica:
+    uma proposta de integração conceitual. São Paulo, Tese de Livre Docência, FEA-USP.
+    1995.
+
+    GUERREIRO, Reinaldo. A meta da empresa: seu alcance sem mistérios. São Paulo:
+    Atlas, 1996.
+
+    GUERREIRO, Reinaldo. SOUZA, Rodrigo P. Um estudo sobre percepções de importância
+    de atividades do Processo de gestão e barreiras à implantação do planejamento
+    Estratégico. Revista Universo Contábil, ISSN 1809-3337, FURB, Blumenau, v. 11,
+    n. 1, p. 88-104, jan./mar., 2015
+
+    PARISI, Cláudio; MEGLIORINI, Evandir (org.). Contabilidade Gerencial. São Paulo:
+    Atlas, 2011.
+
+    PELEIAS, Ivam Ricardo. Avaliação de desempenho: um enfoque de gestão econômica.
+    São Paulo, Dissertação de Mestrado, FEA-USP, 1992.
+
+    PEREIRA, Carlos Alberto. Estudo de um modelo conceitual de avaliação de desempenhos
+    para gestão econômica. São Paulo, Dissertação de Mestrado, FEA-USP, 1993.
+
+    PEREIRA, Carlos Alberto; LEITE FILHO, Geraldo Alemandro. Decisões de Compras sob
+    a Ótica da Gestão Econômica: uma Abordagem Teórico-Empírica. Revista de Contabilidade
+    do CRCSP, São Paulo, v. Ano 7, n. 27, p. 22-36, 2004.
+
+    PEREIRA, C. A. ; REGINATO, L. ; GUERREIRO, R. Una Investigacion sobre Las Caracteristicas
+    Del Modelo de Gestion: Un Estudio de Caso. Iberoamerican Journal of Industrial
+    Engineering, v. 1, p. 24-45, 2009.
+
+    REGINATO, Luciane. Um estudo setorial sobre as relações entre variáveis ambientais
+    externas, modelos de gestão, controles gerenciais e desempenhos das empresas.
+    Tese de Doutorado, FEA-USP, 2010.
+
+    REIS, Luciano Gomes dos. A influência do discurso no processo de mudança da contabilidade
+    gerencial: um estudo de caso sob o enfoque da teoria institucional. Tese de Doutorado,
+    FEA-USP, 2010.
+
+    VASCONCELOS. Marco Tullio de Castro. O processo de gestão de finanças sob a ótica
+    da gestão econômica. São Paulo, Dissertação de Mestrado, FEA-USP, 1994.'
+  course: "1.\tVISÃO SISTÊMICA DA EMPRESA E DOS SUBSISTEMAS EMPRESARIAIS\n1.1.\tA\
+    \ empresa como um sistema aberto e dinâmico\n1.2.\tEficiência, eficácia e continuidade\n\
+    1.3.\tSubsistemas empresariais: institucional, social, organizacional, físico-operacional,\
+    \ de gestão e informações\n2.\tCONCEITUAÇÃO DO RESULTADO ECONÔMICO\n2.1. Eficácia\
+    \ e resultado econômico\n2.2. Mensuração econômica de ativos, passivos e patrimônio\
+    \ líquido\n3.\tMISSÃO E FUNÇÕES DA CONTROLADORIA SOB A ÓTICA DA GESTÃO ECONÔMICA\n\
+    3.1.\tMissão da controladoria\n3.2.\tFunções, atividades e responsabilidades\n\
+    3.3.\tFilosofia de atuação\n4.\tPROCESSO DE GESTÃO EMPRESARIAL\n4.1.\tPlanejamento\
+    \ estratégico\n4.2.\tPré-planejamento operacional\n4.3.\tPlanejamento operacional\
+    \ de longo, médio e curto prazos\n4.4.\tExecução\n4.5.\tControle\n5.\tESTRUTURA\
+    \ CONCEITUAL DO SISTEMA DE INFORMAÇÕES DE GESTÃO ECONÔMICA\n5.1.\tSistema de informações\
+    \ sobre variáveis ambientais; sistema de simulação; sistema orçamentário; sistema\
+    \ de mensuração do realizado; sistema de avaliação de desempenhos\n5.2.\tModelos\
+    \ de decisão; mensuração; identificação e acumulação; informação\n6.\tMENSURAÇÃO\
+    \ ECONÔMICA DO RESULTADO DE EVENTOS\n6.1.\tEventos pontuais e tempo-conjunturais\n\
+    6.2.\tMargem operacional e margem financeira\n6.3.\tEventos de compras, estocagem,\
+    \ produção, vendas etc.\n7.\tMENSURAÇÃO ECONÔMICA DE INVESTIMENTOS\n7.1.\tMargem\
+    \ do investimento\n7.2.\tMargem da aquisição\n7.3.\tMargem do financiamento\n\
+    8.\tAVALIAÇÃO DE DESEMPENHO ECONÔMICO\n8.1.\tModelo orçamentário: orçamento original,\
+    \ orçamento corrigido, orçamento ajustado, realizado padrão e real\n8.2.\tAnálise\
+    \ de variações: inflação, ajustes de planos, volume, eficiência e total"
+  course_name: 'EAC0119 - Gestão Econômica de Empresas
+
+    Economic Management of Companies'
+  deactivation: ''
+  instructors: '214113 - Carlos Alberto Pereira
+
+    5859376 - Luciane Reginato Cornacchione
+
+    64919 - Reinaldo Guerreiro'
+  lecture_credits: '4'
+  objectives: "APRESENTAÇÃO DA DISCIPLINA:\nA disciplina apresenta e discute conceitos\
+    \ teóricos e questões práticas da gestão econômica e do processo de tomada de\
+    \ decisões no âmbito empresarial, abordando os principais aspectos relacionados\
+    \ à identificação, mensuração e geração de informações econômicas de eventos,\
+    \ atividades, unidades de negócios e empresa. Além de apresentar e discutir conceitos\
+    \ teóricos, procura-se demonstrar a sua aplicação prática ao processo decisório\
+    \ das empresas por meio de exercícios e estudos de casos.\nOBJETIVOS DE APRENDIZAGEM:\n\
+    A disciplina busca capacitar os alunos no que diz respeito à compreensão dos aspectos\
+    \ conceituais da gestão econômica e sua aplicação ao processo de tomada de decisões\
+    \ no âmbito empresarial. Para tanto, oferece uma visão abrangente sobre os principais\
+    \ temas da gestão econômica, proporcionando qualificação conceitual e prática\
+    \ no sentido do entendimento e desenvolvimento de sistemas de informações para\
+    \ identificação, mensuração e geração de informações econômicas de eventos, atividades,\
+    \ unidades de negócios e da empresa como um todo. Espera-se que, ao final do curso,\
+    \ os alunos estejam aptos a:\n1.\tEntender e caracterizar a empresa e os subsistemas\
+    \ empresariais sob a ótica sistêmica;\n2.\tEntender o conceito de resultado econômico\
+    \ e os principais aspectos relacionados à sua mensuração;\n3.\tEntender o papel,\
+    \ as funções e as principais atividades e responsabilidades da controladoria sob\
+    \ o enfoque da gestão econômica;\n4.\tDescrever e caracterizar o processo de gestão\
+    \ empresarial e cada uma das etapas que o compõem;\n5.\tEntender a estrutura conceitual\
+    \ do sistema de informações de gestão econômica;\n6.\tAplicar os conceitos econômicos\
+    \ na mensuração dos resultados de eventos, atividades, áreas de negócios e empresa;\n\
+    7.\tAplicar os conceitos econômicos na mensuração dos resultados de investimentos;\n\
+    8.\tAnalisar as variações orçamentárias no contexto da avaliação de desempenho\
+    \ econômico."
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20240427074639'
+digest: Z4KV3B2UYDTVCFPUTCJ5MWJFYUDHXJTT
+updated_at: '20240427074639'
+url: https://web.archive.org/web/20240427074639id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0119&codcur=12033&codhab=1
