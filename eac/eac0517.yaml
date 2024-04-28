@@ -43,8 +43,7 @@ courses:
   course_name: 'EAC0517 - Contabilidade Rural
 
     Agricultural Accounting'
-  deactivation: ''
-  instructors: 84411 - José Roberto Kassai
+  deactivation: 30/01/2023
   lecture_credits: '2'
   objectives: Abordar conceitos e técnicas de contabilidade gerencial aplicáveis às
     atividades rurais (agrícolas, pecuárias e agroindustriais), proporcionando ao
@@ -53,7 +52,7 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220630080923'
-digest: BZAP7CEDCSRH2PWQMZR52KZKFOZGR3FB
-updated_at: '20220630080923'
-url: https://web.archive.org/web/20220630080923id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0517&codcur=12042&codhab=4
+created_at: '20240428032114'
+digest: XNDIVWMB3IEMUJ6S5XRSFP2XEKE2GB27
+updated_at: '20240428032114'
+url: https://web.archive.org/web/20240428032114id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0517&codcur=12033&codhab=4
