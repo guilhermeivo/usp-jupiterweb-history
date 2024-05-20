@@ -37,7 +37,7 @@ courses:
   course_name: 'AUP2328 - Introdução ao Projeto Visual
 
     Introduction to Visual Design'
-  deactivation: ''
+  deactivation: 14/07/2024
   instructors: '2095550 - Daniela Kutschat Hanns
 
     2861485 - Sara Miriam Goldchmit
@@ -64,8 +64,8 @@ courses:
     Manifestações para contextos dados, espaço e cidade.
 
     Desenvolvimento de Projeto'
-created_at: '20210723201911'
-digest: YKGD6KZYEHVLLNXNMM53UHCX5FL3BDR2
+created_at: '20240520162702'
+digest: MAR6LYTISCGCOYO5YRXQPAYIYUUUZ5KD
 requirements:
 - course: 'Curso: 16100  Design (noturno) - Período ideal: 3'
   requirements:
@@ -75,5 +75,5 @@ requirements:
   - code: AUP2326
     name: Laboratório da Imagem
     type: Requisito fraco
-updated_at: '20210723201911'
-url: https://web.archive.org/web/20210723201911id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=AUP2328
+updated_at: '20240520162702'
+url: https://web.archive.org/web/20240520162702id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=AUP2328&codcur=16100&codhab=4
