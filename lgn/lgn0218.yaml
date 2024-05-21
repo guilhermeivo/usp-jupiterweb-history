@@ -73,7 +73,9 @@ courses:
 
     General Genetics'
   deactivation: ''
-  instructors: 88923 - Maria Lucia Carneiro Vieira
+  instructors: '3294216 - Maria Carolina Quecine Verdi
+
+    88923 - Maria Lucia Carneiro Vieira'
   lecture_credits: '4'
   objectives: 'Ministrar conhecimentos de Genética essenciais para o entendimento
     da Biologia. A abordagem se dará em dois níveis: fundamental e avançado. Primeiramente,
@@ -91,13 +93,13 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20230604150558'
-digest: NO56ZLSAL3ZB4HSNGBERPIPRKY6ZGGYK
+created_at: '20240521190722'
+digest: RNQIHK2ITOAKWU5JDFKNJ7WZHAJ7OH46
 requirements:
 - course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 2'
   requirements:
   - code: LGN0117
     name: Biologia Celular
     type: Requisito
-updated_at: '20240229100401'
-url: https://web.archive.org/web/20240229100401id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LGN0218
+updated_at: '20240521190722'
+url: https://web.archive.org/web/20240521190722id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0218&codcur=11070&codhab=4
