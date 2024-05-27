@@ -1,0 +1,60 @@
+courses:
+  activation: 01/01/2024
+  assessment: 'A Nota final será calculada conforme a seguinte fórmula: Nf = (Ma +
+    Nr)/2;
+
+    Ma = média final da disciplina; Nr = nota da prova de recuperação.'
+  bibliography: '- Bibliografia Básica
+
+    Deer, Howie, Zussmann. 1992/ 2013. An introduction to the rock-forming minerals,
+    2a/3a. ed. Mineralogical Society of England and Ireland. 494 p.
+
+    Klein, Dutrow. 2012. Manual de Ciências dos Minerais. 23a. ed. Bookman, 706 p.
+
+    Klein, Hurlbut, 1993. Manual of Mineralogy. 21st ed. John Wiley & Sons Inc. 681
+    p.
+
+    Nesse. 2004/ 2012. Introduction to optical Mineralogy. 3a/ 4a Ed. Oxford University
+    Press 348 P.
+
+    Nesse, 2000. Introductíon to Mineralogy. Oxford University Press. 442 p.
+
+    - Bibliografia Complementar:
+
+    Consultas em laboratório
+
+    Bambauer, H. U.; Taborszky, F.; Trochim, H. - 1979 - W. E. Tröger: Optical Determination
+    of Rock Forming Minerals. Part I: Determinative Tables. Schweizerbart''sche Verlagsbuchhandlung.188p.
+
+    Consultas online
+
+    webmineral.org
+
+    mindat.org
+
+    http://www.crystallography.net/cod/'
+  course: 's
+
+    VESTA
+
+    Momma, lzumi, "VESTA 3 for three-dimensional visualization of crystal, volumetric
+    and morphology data," J. Appl. Crystallogr., 44, 1272-1276(2011).
+
+    Match! Crystal Impact'
+  course_name: 'GMG0220 - Mineralogia
+
+    Mineralogy'
+  deactivation: ''
+  instructors: 751777 - Fabio Ramos Dias de Andrade
+  lecture_credits: '8'
+  objectives: Introduzir o aluno aos princípios do estudo dos minerais, habilitando-o
+    a reconhecer e caracterizar adequadamente os minerais formadores de rocha e principais
+    acessórios, em estudos macro e microscópicos, a partir de suas propriedades físicas
+    e químicas.
+  practical_credits: '0'
+  total_workload: 120 h
+  type: Anual
+created_at: '20240527212326'
+digest: 44H234A6GBOO2UGO7KTYZ6TMFEDZCF75
+updated_at: '20240527212326'
+url: https://web.archive.org/web/20240527212326id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=GMG0220&codcur=44011&cod
