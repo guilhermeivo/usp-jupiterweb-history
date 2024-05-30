@@ -163,7 +163,46 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20200919163625'
-digest: JSWJFHXDLOMPK6BBJEDMPO3BRHSHUSOO
-updated_at: '20240421140546'
-url: https://web.archive.org/web/20240421140546id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCF0662&codcur=11070&codhab=104
+created_at: '20240530011426'
+digest: 3G6MSQR4WGGGD66KQTXMJAMUL6MEXWNS
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 9'
+  requirements:
+  - code: LCF0622
+    name: Tópicos de Educação Voltados à Questão Ambiental
+    type: Requisito
+- course: "Curso: 11010  Engenharia Agronômica - Habilitação: Licenciatura em Ciências\
+    \ Agrárias \r\n                          (noturno) - Período ideal: 7"
+  requirements:
+  - code: LCF0622
+    name: Tópicos de Educação Voltados à Questão Ambiental
+    type: Requisito
+- course: 'Curso: 11020  Engenharia Florestal (integral) - Período ideal: 7'
+  requirements:
+  - code: LCF0622
+    name: Tópicos de Educação Voltados à Questão Ambiental
+    type: Requisito
+- course: "Curso: 11020  Engenharia Florestal - Habilitação: Licenciatura em Ciências\
+    \ Agrárias \r\n                          (noturno) - Período ideal: 7"
+  requirements:
+  - code: LCF0622
+    name: Tópicos de Educação Voltados à Questão Ambiental
+    type: Requisito
+- course: 'Curso: 11040  Licenciatura em Ciências Agrárias (noturno) - Período ideal:
+    7'
+  requirements:
+  - code: LCF0622
+    name: Tópicos de Educação Voltados à Questão Ambiental
+    type: Requisito
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 9'
+  requirements:
+  - code: LCF0622
+    name: Tópicos de Educação Voltados à Questão Ambiental
+    type: Requisito
+- course: 'Curso: 11080  Gestão Ambiental (noturno) - Período ideal: 7'
+  requirements:
+  - code: LCF0270
+    name: Educação Ambiental
+    type: Requisito
+updated_at: '20240530011426'
+url: https://web.archive.org/web/20240530011426id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCF0662
