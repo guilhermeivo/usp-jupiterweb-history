@@ -56,7 +56,16 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20231209045435'
-digest: EGLIRKVSZEB2EBXFFJSIK3MCCVHM7OPW
-updated_at: '20240421233548'
-url: https://web.archive.org/web/20240421233548id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LFN0512&verdis=1
+created_at: '20240530013104'
+digest: OI4EOCSQZW2QI6WUJRZ2RPXO3UUERNWH
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 6'
+  requirements:
+  - code: LFN0212
+    name: Zoologia Aplicada às Engenharias Agronômica e Florestal
+    type: Requisito
+  - code: '0110212'
+    name: Zoologia Aplicada às Engenharias Agronômica e Florestal
+    type: Requisito
+updated_at: '20240530013104'
+url: https://web.archive.org/web/20240530013104id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LFN0512
