@@ -103,7 +103,19 @@ courses:
     Classificação das Principais Famílias das Ordens.
 
     Arachnida'
-created_at: '20220419194943'
-digest: C3JRWRNXMRB4UVVHP6B7FCIHBMG55RZB
-updated_at: '20240414134231'
-url: https://web.archive.org/web/20240414134231id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0200&codcur=11070&codhab=104
+created_at: '20240530004129'
+digest: HYCPB5MYBRFGN7BGZPOIW5ROUIKPM6EU
+requirements:
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 4'
+  requirements:
+  - code: LEA0170
+    name: Zoologia de Invertebrados I
+    type: Requisito
+- course: "Curso: 11070  Ciências Biológicas - Habilitação: Licenciatura em Ciências\
+    \ Biológicas \r\n                          (noturno) - Período ideal: 4"
+  requirements:
+  - code: LEA0170
+    name: Zoologia de Invertebrados I
+    type: Requisito
+updated_at: '20240530004129'
+url: https://web.archive.org/web/20240530004129id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LEA0200
