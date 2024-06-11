@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2017
+  activation: 01/01/2016
   assessment: O aluno que ficar em recuperação deverá realizar prova escrita no primeiro  bimestre
     subseqüente.
   bibliography: "Livros\nBALDESSAR Maria José. A mudança anunciada: o cotidiano dos\
@@ -58,7 +58,7 @@ courses:
   course_name: 'CJE0432 - Economia da Mídia
 
     Economy Media'
-  deactivation: ''
+  deactivation: 31/12/2016
   instructors: '443832 - Dennis de Oliveira
 
     70166 - Jose Luiz Proenca'
@@ -67,10 +67,10 @@ courses:
     a atuar como profissionais em qualquer nível funcional das empresas jornalísticas,
     instrumentalizando-os para a compreensão e, por vezes, o desempenho de funções/atividades
     onde o gerenciamento é parte inerente do fazer jornalístico.
-  practical_credits: '1'
-  total_workload: 60 h
+  practical_credits: '2'
+  total_workload: 90 h
   type: Semestral
-created_at: '20191019041114'
-digest: 7V63AGBPQW4WWI2D76DKI3FDFNXVL5QL
-updated_at: '20220705194959'
-url: https://web.archive.org/web/20220705194959id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CJE0432&nomdis=&print=true&keepThis=true&TB_iframe=true&height=500&width=800&coddis=CJE0432
+created_at: '20240611130800'
+digest: NL3ZK3PB6QM6U7IIDMHZ63SC7FJAW2UW
+updated_at: '20240611130800'
+url: https://web.archive.org/web/20240611130800id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CJE0432&verdis=6&print=true&keepThis=true&
