@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2022
+  activation: 15/07/2023
   assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
     na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
     que 5,0 (cinco) e frequência igual ou superior a 70%.
@@ -9,10 +9,10 @@ courses:
     a 5,0 (cinco).'
   bibliography: 'BIBLIOGRAFIA PRINCIPAL:
 
-    ASSAF NETO, A. Mercado Financeiro. São Paulo: 14a ed., Atlas, 2018
+    ASSAF NETO, A. Mercado Financeiro. São Paulo: 15a ed., Atlas, 2021.
 
     FIGUEIREDO, A. C. Introdução aos Derivativos, São Paulo, 3a. ed., Cengage Learning,
-    2015
+    2015.
 
     BIBLIOGRAFIA COMPLEMENTAR:
 
@@ -97,11 +97,11 @@ courses:
   deactivation: ''
   instructors: '145440 - Alexsandro Broédel Lopes
 
-    3596283 - Joanilia Neide de Sales Cia
-
     3079831 - Lucas Ayres Barreira de Campos Barros
 
-    3696531 - Tatiana Albanez
+    1064696 - Luiz Jurandir Simões de Araujo
+
+    3132692 - Renê Coppe Pimentel
 
     1967693 - Wanderlei Lima de Paulo'
   lecture_credits: '4'
@@ -132,7 +132,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220120235244'
-digest: OGH56D6LAEDA7IGI3FMN2XQWJENYZY32
-updated_at: '20220630082258'
-url: https://web.archive.org/web/20220630082258id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0420&codcur=12042&codhab=4
+created_at: '20240612223633'
+digest: 3ZXNBOLNXMZF7ZYEAO4WI7U6DQAIZYV3
+updated_at: '20240612223633'
+url: https://web.archive.org/web/20240612223633id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0420&codcur=12033&codhab=4
