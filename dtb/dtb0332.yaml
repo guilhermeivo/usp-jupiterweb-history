@@ -1,0 +1,115 @@
+courses:
+  activation: 01/01/2013
+  assessment: Para alunos que obtiveram média final compreendida entre 3,0  e 4,9
+    e freqüência mínima de 70% , será exigida prova escrita cuja média para aprovação
+    deverá ser igual ou superior a 5,0.
+  bibliography: 'CORREIA, Marcus Orione Gonçalves; CORREIA, Érica Paula Barcha. Curso
+    de direito da seguridade social. São Paulo: Saraiva, 2002.
+
+    GIGLIO, Wagner Drdla. Direito processual do trabalho. São Paulo: LTr, 2000
+
+    .
+
+    MAGANO, Octavio Bueno. Manual de direito do trabalho. São Paulo: LTr, 1992. v.
+    2.
+
+    MARTINS, Sergio Pinto. Direito do trabalho. São Paulo: Atlas, 2002.
+
+    NASCIMENTO, Amauri Mascaro. Iniciação ao direito do trabalho. São Paulo: LTr,
+    2002.
+
+    SANTOS, Ronaldo Lima. ***
+
+    SILVA, Homero Batista Mateus da Silva. Curso de direito do trabalho aplicado.
+    Volume 1. Parte Geral. Rio de Janeiro: Campus, 2008.
+
+    ______.  Curso de direito do trabalho aplicado. Volume 2. Jornadas e pausas. Rio
+    de Janeiro: Campus, 2008.
+
+    ______. Curso de direito do trabalho aplicado. Volume 5. Livro da Remuneração.
+    Rio de Janeiro: Campus, 2008.
+
+    ______. Curso de direito do trabalho aplicado. Volume 6. Contrato de trabalho.
+    Rio de Janeiro: Campus, 2008.'
+  course: 'I- Teoria Geral do Direito do Trabalho
+
+    Fundamentos históricos e filosóficos do direito do trabalho.
+
+    Conceito.
+
+    Natureza jurídica: direito público ou privado.
+
+    Autonomia.
+
+    Princípios jurídicos: universais e específicos.
+
+    II- Caracterização da relação de emprego
+
+    Natureza jurídica: contrato ou relação de emprego (contrato-realidade).
+
+    Elementos da caracterização: subordinação, não eventualidade, onerosidade, pessoalidade.
+
+    III- Contrato individual do trabalho
+
+    Requisitos de validade (art. 82, CC): capacidade, objeto e forma. Nulidades do
+    contrato de trabalho.
+
+    Sujeitos do contrato: empregado e empregador (grupo de empresas, Estado, sucessão).
+    Cooperativas de trabalho. Consórcio de empregadores. Terceirização. Empregado
+    doméstico. Estagiário. Trabalhador rural. Contrato de aprendizagem.
+
+    Modalidades de contrato: indeterminado, determinado e especiais. Contrato temporário,
+    contrato provisório, contrato a tempo parcial.
+
+    Suspensão e interrupção do contrato de trabalho.
+
+    Alteração do contrato de trabalho. Transferência. Faltas ao serviço.
+
+    IV- Conteúdo normativo
+
+    Salário: salário mínimo, remuneração, salário in natura, regras de proteção ao
+    salário, equiparação salarial.
+
+    13o salário.
+
+    Participação nos lucros ou resultados.
+
+    Jornada de trabalho: adicional noturno, horas extras, banco de horas, compensação
+    de jornada, turnos ininterruptos de revezamento.
+
+    Descanso: DSR, intervalos intrajornada e interjornada, férias.
+
+    V- Cessação do contrato de trabalho
+
+    Estabilidades: definitiva e provisórias (gestante,dirigente sindical, acidente
+    do trabalho, doença profissional, dirigente de CIPA, membro de comissão de conciliação
+    prévia), Conv. 158, OIT.
+
+    FGTS
+
+    Verbas rescisórias: aviso prévio, férias proporcionais 13o salário proporcional,indenização
+    de 40% sobre o FGTS, indenização adicional, seguro-desemprego, multa do parág.
+    8o, do art. 477, da CLT, artigo 467, da CLT.
+
+    VI- Direito da Seguridade Social
+
+    Seguridade social, previdência social e assistência social. Histórico. Noções
+    principais: princípios, segurados, prestações e benefícios. Custeio.'
+  course_name: 'DTB0332 - Legislação Social
+
+    Labor Rights'
+  deactivation: ''
+  instructors: '747601 - Homero Batista Mateus da Silva
+
+    1894772 - Ronaldo Lima dos Santos'
+  lecture_credits: '2'
+  objectives: Conhecer as principais questões do direito do trabalho contemporâneo,
+    as leis aplicáveis, os princípios que norteiam a matéria e a dinâmica das relações
+    de trabalho.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20240612225619'
+digest: B5X2SWMVBZY3SB65V6GU2JMPP5YWF6YF
+updated_at: '20240612225619'
+url: https://web.archive.org/web/20240612225619id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=DTB0332&codcur=12033&codhab=4
