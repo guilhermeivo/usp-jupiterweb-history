@@ -1,0 +1,110 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    Beck, R., Avital, M., Rossi, M., & Tatcher, J. B. (2017). Blockchain technology
+    in business and information system research (Editorial). Business Information
+    System Engineering, 59(6), 381-384.
+
+    Borges, L. E. (2010). Python para desenvolvedores (2 ed.). Rio de Janeiro: Edição
+    do autor.
+
+    Date, C. J. (2004). An introduction to database systems, 8th ed. Upper Saddle
+    River, NJ: Pearson.
+
+    Dechow, N. & Mouritsen, J. (2005). Enterprise resource planning systems, management
+    control and the quest for integration. Accounting, Organizations and Society,
+    30(7-8), 691-733.
+
+    Ford, P. (2015). What is code? Bloomberg (June 11, 2015). Retrived from http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code
+
+    Harrison, G. (2015). Next generation databases: NoSQL, NewSQL and Big Data. New
+    York, NY: Apress.
+
+    Marshall, T. E. & Lambert, S. L. (2018). Cloud-based intelligent accounting applications:
+    Accounting task automation using IBM Watson cognitive computing. Journal of Emerging
+    Technologies in Accounting, 15(1), 199-215.
+
+    Moffitt, K. C., Rozario, A. M., & Vasarhelyi, M. A. (2018). Editorial: Robotic
+    process automation for auditing. Journal of Emerging Technologies in Accounting,
+    15(1), 1-10.
+
+    Richins, G., Stapleton, A., Stratopoulos, T. C., & Wong, C. (2017). Big data analytics:
+    Opportunity or threat for the accounting profession? Journal of Information Systems,
+    31(3), 63-79.
+
+    Tabrizi, B., Lam, E., Girard, K., & Irvin, V. (2019). Digital transformation is
+    not about technology. Harvard Business Review.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    Corrales, M., Fenwick, M., & Haapio, H. (Eds.) (2019) Legal tech, smart contracts
+    and blockchain. New York, NY: Springer.
+
+    Igual, L. & Segui, S. (2017). An introduction to data science: A python approach
+    to concepts, techniques and applications. Springer.
+
+    Lake, P. & Crowther, P. (2013). Concise guide to databases: A pratical introduction.
+    London: Springer.
+
+    Li, H. (2017). Three essays on cybersecurity-related issues. (Non-published Dissertation).
+    Rutgers, The State University of New Jersey.
+
+    Matt, C., Hess, T., Benlian, A. (2015). Digital transformation strategies. Business
+    Information System Engineering, 57(5), 339-343.
+
+    Meyer, C. (2015). Should accounting students learn to code? Retrieved from https://www.aicpa.org/interestareas/accountingeducation/newsandpublications/pages/should-accounting-students-code.aspx.
+
+    Rao, U. H. & Nayak, U. (2016). The InfoSec Handbook: An introduction to information
+    security.
+
+    Sadalage, P. J. & Fowler, M. (2013). NoSQL Distilled: a brief guide to the emerging
+    world of polyglot. Upper Saddle River, NJ: Pearson.
+
+    Swaroop, C. H. (2016). A byte of Python. Retrieved from http://swaroopch.com/notes/python.'
+  course: "1.\tTECNOLOGIA NOS NEGÓCIOS: AVANÇOS, DESAFIOS E OPORTUNIDADES\n1.1.\t\
+    Histórico, Avanços e Expectativas\n1.2.\tDesafios e Oportunidades\n2.\tARMAZENAMENTO\
+    \ E RECUPERAÇÃO DE DADOS E INFORMAÇÕES\n2.1.\tBancos de Dados\n2.2.\tSQL\n2.3.\t\
+    NoSQL\n3.\tCOGNITIVE COMPUTING, DATA SCIENCE\n3.1.\tArtificial Intelligence\n\
+    3.2.\tMachine Learning\n3.3.\tAnalytics\n3.4.\tVisualization\n4.\tSEGURANÇA DE\
+    \ DADOS E CRIPTOGRAFIA\n4.1.\tBlockchain\n4.2.\tSmart Contracts\n5.\tROBOTIC PROCESS\
+    \ AUTOMATION (RPA)\n5.1.\tConceito\n5.2.\tAplicações em Python\n6.\tPROGRAMAÇÃO\
+    \ DE COMPUTADORES\n6.1.\tAlgoritmo\n6.2.\tPython"
+  course_name: 'EAC0582 - Tópicos de Tecnologia nos Negócios
+
+    Technology Topics in Business'
+  deactivation: ''
+  instructors: '73235 - Edgard Bruno Cornacchione Junior
+
+    990725 - Joshua Onome Imoniana'
+  lecture_credits: '4'
+  objectives: "APRESENTAÇÃO DA DISCIPLINA:\nProfissionais da área financeira são cada\
+    \ vez mais demandados pelas organizações para assumirem papéis e tomarem decisões\
+    \ que envolvem ambiente tecnológico e soluções digitais que se desenvolvem de\
+    \ forma rápida em ambiente extremamente dinâmico. Nesta disciplina um olhar mais\
+    \ dedicado é dado sobre tópicos específicos e muito relevantes para o profissional\
+    \ da área de negócios, como bancos de dados, segurança de dados, programação de\
+    \ computadores, processos robotizados e cognitive computing. A estratégia instrucional\
+    \ adotada esta pautada em visão mais ampla sobre os temas e suas relações com\
+    \ as organizações e o profissional da área financeira, porém prevendo aplicações\
+    \ destes conceitos.\nOBJETIVOS DE APRENDIZAGEM:\nOs participantes que concluírem\
+    \ exitosamente esta disciplina estarão aptos a:\n1.\tDiscutir elementos de processos\
+    \ de negócios à luz da transformação digital\n2.\tDiscutir elementos de segurança\
+    \ de dados e criptografia\n3.\tDescrever processos de automação robótica (RPA)\n\
+    4.\tDemonstrar o processo armazenamento e recuperação de dados apoiado em bancos\
+    \ de dados\n5.\tComparar soluções tecnológicas de Cognitive Computing\n6.\tDemonstrar\
+    \ o processo programação de computadores"
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20240612212445'
+digest: VZAVKQGLW572OHYBWF4ZI3FK5MK4RL7I
+updated_at: '20240612212445'
+url: https://web.archive.org/web/20240612212445id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0582&codcur=12033&codhab=4
