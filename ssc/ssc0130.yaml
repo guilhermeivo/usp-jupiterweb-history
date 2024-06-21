@@ -49,7 +49,7 @@ courses:
   course_name: 'SSC0130 - Engenharia de Software
 
     Software Engineering'
-  deactivation: ''
+  deactivation: 14/07/2024
   lecture_credits: '4'
   objectives: 'Oferecer uma visão geral do processo de desenvolvimento de software
     e dos métodos e técnicas que podem ser utilizadas em cada fase do ciclo de vida
@@ -60,8 +60,8 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20240427180308'
-digest: GOQGOK774SPY5TEV337I24KVZ7OFGUVZ
+created_at: '20240621002926'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
 requirements:
 - course: 'Curso: 55041  Bacharelado em Ciências de Computação (integral) - Período
     ideal: 5'
@@ -75,5 +75,5 @@ requirements:
   - code: SSC0124
     name: Análise e Projeto Orientados a Objetos
     type: Requisito fraco
-updated_at: '20240427180308'
-url: https://web.archive.org/web/20240427180308id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=ssc0130
+updated_at: '20240621002926'
+url: https://web.archive.org/web/20240621002926id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0130&c
