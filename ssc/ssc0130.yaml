@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2024
+  activation: 15/07/2017
   assessment: 'de Aprovação: NP+(Mrec/2,5), se Mrec >= 7,5; ou Max {NP,Mrec}, se Mrec
     <= 5,0;
 
@@ -34,11 +34,6 @@ courses:
     Métodos e Técnicas para Verificação e Validação de Software: inspeção e teste.
     Manutenção de Software.
 
-    Atividades de extensão: Aplicação de técnicas de engenharia de software vistas
-    em sala de aula a problemas relatados na indústria, oferecendo soluções que ficam
-    documentadas e disponíveis para uso pelas empresas ou por outros alunos como forma
-    de aprendizagem baseada em problemas. A carga horária corresponde a 15 horas.
-
     Introduction and goals of Software Engineering. Software Development Process.
     Process Models: from linear to interactive and agile. Methods and Techniques to
     Analysis and Specification of Requirements: characteristics, problems and basic
@@ -49,7 +44,7 @@ courses:
   course_name: 'SSC0130 - Engenharia de Software
 
     Software Engineering'
-  deactivation: 14/07/2024
+  deactivation: 31/12/2023
   lecture_credits: '4'
   objectives: 'Oferecer uma visão geral do processo de desenvolvimento de software
     e dos métodos e técnicas que podem ser utilizadas em cada fase do ciclo de vida
@@ -60,7 +55,7 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20240621002926'
+created_at: '20240621013010'
 digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
 requirements:
 - course: 'Curso: 55041  Bacharelado em Ciências de Computação (integral) - Período
@@ -75,5 +70,5 @@ requirements:
   - code: SSC0124
     name: Análise e Projeto Orientados a Objetos
     type: Requisito fraco
-updated_at: '20240621002926'
-url: https://web.archive.org/web/20240621002926id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0130&c
+updated_at: '20240621013010'
+url: https://web.archive.org/web/20240621013010id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0130&codcur=55041&codhab=0
