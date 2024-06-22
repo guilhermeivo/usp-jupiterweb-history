@@ -1,65 +1,208 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2007
   assessment: A recuperação é feita pelos alunos que ficaram por nota (média final
     abaixo de 5,0) e com frequência às aulas de no mínimo 70% das aulas dadas. Através
     de uma prova, com questões teóricas e práticas, abrangendo todo o programa lecionado.
-  bibliography: 'CASTRO, P.R.C.; KLUGE, R.A.; PERES. L.E.P. Manual de Fisiologia Vegetal.
-    São Paulo – SP: Editora Agronômica Ceres Ltda., 2005. 650 p.
+    Esta disciplina não oferece a oportunidade de avaliação continuada.
+  bibliography: 'Literatura Básica:
 
-    FERRI, M.G. (Coord.) 1980. Fisiologia Vegetal. EPU/EDUSP. São Paulo, vols. 1 e
-    2.
+    CASTRO, P.R.C.; KLUGE, R.A.; PERES. L.E.P. Manual de Fisiologia Vegetal. São Paulo
+    – SP: Editora Agronômica Ceres Ltda., 2005. 650 p.
 
-    KERBAUY, G.B. 2004. Fisiologia Vegetal. Guanabara Koogan, Rio de Janeiro, 452p.
+    KERBAUY, G.B. 2019. Fisiologia Vegetal. 3 ed. Rio de Jeneiro: Guanabara Koogan,
+    430p. 2019. 420 p.
 
-    SALISBURY,  F. B.;  ROSS,  C.  1994.   Fisiologia Vegetal. Grupo Editorial Iberoamérica,
-    México, 759p.
+    SALISBURY,  F. B.;  ROSS,  C.   Fisiologia Vegetal. 4. Ed. ( Trad. Santorasa,
+    P.L.) São Paulo: Cengage Learninng), 2012. 759p.
 
-    TAIZ, L.; ZEIGER, E. Fisiologia Vegetal. 5 ed. (Trad. Divan Junior, A.M. et al.;
-    Rev. Téc. Oliveira, P.L.) Porto Alegre: Artmed, 2013. 918p.
+    TAIZ, L.; ZEIGER, E.; MOLLER, I.M.; MURPHY, A.  Fisiologia e Desenvolvimento Vegetal.
+    6 ed. (Trad. Mastropberti, A.A.; Rev. Téc. Oliveira, P.L.) Porto Alegre: Artmed,
+    2017. 858 p.'
+  course: 'a) ÁGUA PLANTA
 
-    TING, I.P. 1982. Plant Physiology. Addison-Wesley, Reading, 642p.
+    - Difusão;
 
-    WILKINS, M. B.  1985.  Advanced  Plant Physiology. Pitman Publishing, London,
-    514p.'
-  course: 'a) ÁGUA NA PLANTA: Difusão;  Membranas;  Célula vegetal;  Relações  osmóticas
-    celulares;  Plasmólise e deplasmólise;  Potencial osmótico;  Método plasmolítico;
-    Potencial hídrico - método de Chardakov; Volumétrico e câmara de Scholander;  Potencial
-    matricial; Dinâmica de embebição; Embebição de sementes. b) PERDAS DE ÁGUA PELA
-    PLANTA:  Processo transpiratório; Amplitude e determinações; Transpiração e ambiente
-    - método do potômetro; Gravimétrico e pesagens rápidas;  Mecanismo estomático;
-    Capacidade difusiva dos estômatos; Fatores de variação diária da transpiração;
-    Antitranspirantes; Gutação e significância. c) ABSORÇÃO E TRANSPORTE DE ÁGUA:
-    Água no solo; Absorção passiva e ativa; Fatores e vias de translocação; Teoria
-    de Dixon e Joly - método do atmômetro; Pressão radicular; Competição interna pela
-    água; Efeitos do déficit hídrico dos processos fisiológicos e produtividade; Resistência
-    ao estresse hídrico. d) TRANSPORTE DE NUTRIENTES MINERAIS: Conceito de ELA e ELD;
-    Translocação radial e vertical;  Fatores da absorção iônica;  Redistribuição dos
-    nutrientes minerais. e) TRANSPORTE DE SOLUTOS ORGÂNICOS: Translocação no floema;  Substâncias
-    transportadas; Velocidades de transporte; Mecanismos de transporte; Relações fonte-destino;
-    Translocação de reservas dos cotilédones; Prática de anelamento. f) FOTOSSÍNTESE:  Luz
-    e planta;  Natureza da luz; Comprimento de onda e processos fisológicos; Estrutura
-    dos cloroplastos; Separação dos pigmentos;  Fotossíntese e respiração;  Clímax
-    e ponto de compensação; Fosforilação fotossintética; Produção de energia e agente
-    redutor; Absorção de dióxido de carbono; Fatores da fotossíntese - microbureta
-    de Audus; Produção de carboidratos; Plantas C3, C4 e CAM; Fotorrespiração. g)
-    FOTOPERIODISMO: Fitocromo;  Percepção do estímulo fotoperiódico;  Ciclos fotoindutores;
-    Mecanismo da florescência. h) TEMPERATURA E PLANTA:  Termoperiodicidade diária
-    e estacional; Danos por temperaturas desfavoráveis; Estudo das geadas. i) CRESCIMENTO
-    E DESENVOLVIMENTO: Cinética do crescimento; Regiões de crescimento; Curvas de
-    crescimento; Análise de crescimento; Crescimento e produção agrícola; Dinâmica
-    do desenvolvimento; Movimentos rápidos; Diferenciação; Cultura de tecidos vegetais.
-    j) REGULADORES VEGETAIS: Natureza e ação das auxinas; Giberelinas, citocininas,
-    retardadores, inibidores e etileno; Alongação celular; Fototropismo e geotropismo:
-    Dominância apical: Formação de raízes; Partenocarpia;  Quebra de dormência; Maturação;
-    Abscisão; Aplicações agrícolas dos reguladores vegetais. h) Fisilogia do estresse:
-    estrese hídrico e salino; estresse por temperatura; adaptações das plantas aos
-    diferentes tipos de estresses; i) Fisiologia Pós-colheita: transformações fisiológicas
-    e bioquímicas em pós-colheita; compostos bioativos em frutas e hortaliças; efeitos
-    e aplicações do etileno em pós-colheita.'
+    - Membranas;
+
+    - Célula vegetal;
+
+    - Relações osmóticas celulares;
+
+    - Plasmólise e deplasmólise;
+
+    - Potencial osmótico;
+
+    - Método plasmolítico;
+
+    - Potencial hídrico - método de Chardakov;
+
+    - Volumétrico e câmara de Scholander;
+
+    - Potencial matricial;
+
+    - Dinâmica de embebição;
+
+    - Embebição de sementes.
+
+    b) PERDAS DE ÁGUA PELA PLANTA
+
+    - Processo transpiratório;
+
+    - Amplitude e determinações;
+
+    - Transpiração e ambiente - método do potômetro;
+
+    - Gravimétrico e pesagens rápidas;
+
+    - Mecanismo estomático;
+
+    - Capacidade difusiva dos estômatos;
+
+    - Fatores de variação diária da transpiração;
+
+    - Antitranspirantes;
+
+    - Gutação e significância.
+
+    c) ABSORÇÃO E TRANSPORTE DE ÁGUA
+
+    - Água no solo;
+
+    - Absorção passiva e ativa;
+
+    - Fatores e vias de translocação;
+
+    - Teoria de Dixon e Joly - método do atmômetro;
+
+    - Pressão radicular;
+
+    - Competição interna pela água;
+
+    - Efeitos do déficit hídrico dos processos fisiológicos e produtividade;
+
+    - Resistência ao estresse hídrico.
+
+    d) TRANSPORTE DE NUTRIENTES MINERAIS
+
+    - Conceito de ELA e ELD;
+
+    - Translocação radial e vertical;
+
+    - Fatores da absorção iônica;
+
+    - Redistribuição dos nutrientes minerais.
+
+    e) TRANSPORTE DE SOLUTOS ORGÂNICOS
+
+    - Translocação no floema;
+
+    - Substâncias transportadas;
+
+    - Velocidade de transporte;
+
+    - Mecanismos de transporte;
+
+    - Relações fonte-destino;
+
+    - Translocação de reservas dos cotilédones;
+
+    - Prática de anelamento.
+
+    f) FOTOSSÍNTESE
+
+    - Luz e planta;
+
+    - Natureza da luz;
+
+    - Comprimento de onda e processos fisológicos;
+
+    - Estrutura dos cloroplastos;
+
+    - Separação dos pigmentos;
+
+    - Fotossíntese e respiração;
+
+    - Clímax e ponto de compensação;
+
+    - Fosforilação fotossintética;
+
+    - Produção de energia e agente redutor;
+
+    - Absorção de dióxido de carbono;
+
+    - Fatores da fotossíntese - microbureta de Audus;
+
+    - Produção de carboidratos;
+
+    - Plantas C3, C4 e CAM;
+
+    - Fotorrespiração.
+
+    g) FOTOPERIODISMO
+
+    - Fitocromo;
+
+    - Percepção do estímulo fotoperiódico;
+
+    - Ciclos fotoindutores;
+
+    - Mecanismo da florescência.
+
+    h) TEMPERATURA E PLANTA
+
+    - Termoperiodicidade diária e estacional;
+
+    - Danos por temperaturas desfavoráveis;
+
+    - Estudo das geadas.
+
+    i) CRESCIMENTO E DESENVOLVIMENTO
+
+    - Cinética do crescimento;
+
+    - Regiões de crescimento;
+
+    - Curvas de crescimento;
+
+    - Análise de crescimento;
+
+    - Crescimento e produção agrícola;
+
+    - Dinâmica do desenvolvimento;
+
+    - Movimentos rápidos;
+
+    - Diferenciação;
+
+    - Cultura de tecidos vegetais.
+
+    j) REGULADORES VEGETAIS
+
+    - Natureza e ação das auxinas;
+
+    - Giberelinas, citocininas, retardadores, inibidores e etileno;
+
+    - Alongação celular;
+
+    - Fototropismo e geotropismo:
+
+    - Dominância apical:
+
+    - Formação de raízes;
+
+    - Partenocarpia;
+
+    - Quebra de dormência;
+
+    - Maturação;
+
+    - Abscisão;
+
+    - Aplicações agrícolas dos reguladores vegetais.'
   course_name: 'LCB0311 - Fisiologia Vegetal
 
     Plant Physiology'
-  deactivation: 31/12/2023
+  deactivation: 31/12/2021
   instructors: 1781306 - Ricardo Alfredo Kluge
   lecture_credits: '4'
   objectives: Descrever os processos biofísicos e bioquímicos envolvidos nos mecanismos
@@ -70,7 +213,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209045641'
-digest: EZGJKCJZLLA4ZU4XMPOYVZFZVPTZ7TXF
-updated_at: '20231209045641'
-url: https://web.archive.org/web/20231209045641id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0311&codcur=11010&codhab=0
+created_at: '20240622190219'
+digest: 6YUDJU6WBWVSR4L7XL5ECM75QKPXMMVL
+updated_at: '20240622190219'
+url: https://web.archive.org/web/20240622190219id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0311&verdis=4
