@@ -25,7 +25,8 @@ courses:
   course_name: 'MAT2453 - Cálculo Diferencial e Integral I
 
     Differential and Integral Calculus I'
-  deactivation: ''
+  deactivation: 14/07/2024
+  instructors: 453656 - Alexandre Lymberopoulos
   lecture_credits: '6'
   objectives: 'Familiarizar o aluno com as noções de limite, derivada e integral de
     funções de uma variável, destacando aspectos geométricos e interpretações físicas.
@@ -35,7 +36,7 @@ courses:
   practical_credits: '0'
   total_workload: 90 h
   type: Semestral
-created_at: '20160830004606'
-digest: HUHHSKQIAF3BXRLOPA3SXEHY77S3NVMH
-updated_at: '20230929234147'
-url: https://web.archive.org/web/20230929234147id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT2453&codcur=16011&codhab=100
+created_at: '20240626113537'
+digest: 6LOK2KAI6IC4N3XNMTHXJHV7VEDEAFOL
+updated_at: '20240626113537'
+url: https://web.archive.org/web/20240626113537id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT2453&codcur=16011&codhab=100
