@@ -1,0 +1,37 @@
+courses:
+  activation: 01/01/2010
+  assessment: A recuperação será feita por meio de uma prova adicional que comporá
+    a nota final de avaliação. O aluno será considerado aprovado se a média aritmética
+    entre a nota obtida na avaliação normal e a nota obtida nesta prova adicional
+    for maior ou igual a 5,0 (cinco)
+  bibliography: 'Complementar
+
+    Ross, S.M. (2003) An elementary introduction to mathematical finance. Cambridge
+
+    Shreve, S. (2004) Stochastic calculus for Finance (vol I and II). Springer.'
+  course: "1 - Teoria Microeconômica da Escolha com Risco\n2 - Cálculo estocásticos\
+    \ para finanças\n3 - Teoria Estocástica da taxa de juros\n4 - Modelos computacionais\
+    \ com aplicações de Distribuições de perdas\n5 - Teoria da Ruína\n6 - Teoria da\
+    \ Credibilidade\n7 \x96 Principais modelos de risco de mercado e seus vínculos\
+    \ com a modelagem atuarial\n8 \x96 Principais modelos de risco de crédito e seus\
+    \ vínculos com a modelagem atuarial\n9 \x96 Principais modelos de risco de operacional\
+    \ e seus vínculos com a modelagem atuarial\n10 \x96 Técnicas de simulação computacional\
+    \ de modelos de risco"
+  course_name: 'EAC0554 - Modelagem de Risco em Finanças e Atuária
+
+    Risk Modelling in Finance and Actuarial Science'
+  deactivation: ''
+  instructors: 1064696 - Luiz Jurandir Simões de Araujo
+  lecture_credits: '4'
+  objectives: 'Apresentar como os modelos de ricos, em vários contextos, compartilham
+    bases conceituais. Os principais contextos apresentados serão : risco de mercado,
+    risco de crédito, risco operacional e os típicos riscos atuariais apresentados
+    durante os anos de graduação. Será explorado a capacidade de generalização dos
+    modelos de risco para diferentes contextos corporativos e estratégicos.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20240712013658'
+digest: QM54XRQLMANJWRIMPAJZZXV4PCAC52XX
+updated_at: '20240712013658'
+url: https://web.archive.org/web/20240712013658id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0554&codcur=12042&codhab=4
