@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2020
+  activation: 01/01/2013
   assessment: "de aprovação: a nota final (MF) do aluno que realizou provas de recuperação\
     \ dependerá da média do semestre (MS) e da média das provas de recuperação (MR),\
     \ como segue:\n\x95 MF = 5 se 5 <= MR <= (10 - MS)\n\x95 MF = (MS + MR) / 2 se\
@@ -13,28 +13,25 @@ courses:
 
     - Demetrio, C. G. B. (2002). Modelos Lineares Generalizados em Experimentação
     Agronômica. ESALQ/USP.'
-  course: 'Aprendizado Supervisionado versus Aprendizado Não-Supervisionado. Modelos
-    Lineares Generalizados: Definição. Função desvio. Métodos de Estimação. Teste
-    de hipóteses. Técnicas de diagnóstico. Aplicações: Modelos Lineares Generalizados
-    versus Classificação. Regressão Logística: Métodos clássicos. Regressão Logística
-    linear. Modelos de dose-resposta. Técnicas de diagnóstico. Seleção de modelos.
-    Aplicações. Regressão de Poisson: Métodos clássicos. Modelos log-lineares. Classificação
-    de modelos. Regressão Logística Múltipla. Aplicações. Modelos de Quase-Verrossimilhança:
-    Definição. Estimação e Testes. Aplicações. Avaliação da capacidade preditiva dos
-    modelos. Compromisso entre viés e variância.
+  course: 'Modelos Lineares Generalizados: Definição. Função desvio. Métodos de Estimação.Teste
+    de hipóteses. Técnicas de diagnóstico. Aplicações. Regressão Logística: Métodos
+    clássicos. Regressão Logística linear. Modelos de dose-resposta. Técnicas de diagnóstico.
+    Seleção de modelos. Regressão logística condicional. Aplicações. Regressão de
+    Poisson: Métodos clássicos. Modelos log-lineares. Classificação de modelos. Relação
+    com modelos multinomiais. Aplicações. Modelos de Quase-Verrossimilhança: Definição.
+    Estimação e Testes. Aplicações
 
-    Supervised versus Unsupervised Learning. Generalized linear models: Definition.
-    Deviance function. Methods of estimation. Hypothesis testing. Diagnostic techniques.
-    Applications: Generalized linear models versus Classification. Logistic Regression:
+    Generalized linear models: Definition. Deviance function. Methods of estimation.
+    Hypothesis testing. Diagnostic techniques. Applications. Logistic Regression:
     Classical methods. Linear Logistic regression. Dose-response models. Diagnostic
-    techniques. Selection model. Applications. Poisson regression: Classical methods.
-    Log-linear Models. Classification of Models. Multiple Logistic Regression. Applications.
-    Quasi-likelihood methods: Definition. Estimation and tests. Applications. Evaluation
-    of the predictive capacity of the models. Bias-variance trade-off.'
-  course_name: 'SME0823 - Modelos de Regressão e Aprendizado  Supervisionado II
+    techniques. Model selection. Conditional Logistic Regression. Applications. Poisson
+    regression: Classical methods. Log-linear Models. Model classification. Relation
+    with multinomial models. Applications. Quasi-likelihood methods: Definition. Estimation
+    and tests. Applications.'
+  course_name: 'SME0823 - Modelos Lineares Generalizados
 
-    Regression Models and Supervised Learning II'
-  deactivation: ''
+    Generalized Linear Models'
+  deactivation: 31/12/2018
   instructors: 3455521 - Cibele Maria Russo Novelli
   lecture_credits: '4'
   objectives: 'Apresentar conceitos introdutórios de modelos lineares generalizados
@@ -42,10 +39,10 @@ courses:
 
     Present introductory concepts of generalized linear models in a computational
     approach.'
-  practical_credits: '1'
-  total_workload: 90 h
+  practical_credits: '0'
+  total_workload: 60 h
   type: Semestral
-created_at: '20200919160115'
-digest: NARUGOYRSFDHFG2YR4R5MNHJ63PHUAOV
-updated_at: '20240612222457'
-url: https://web.archive.org/web/20240612222457id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SME0823&codcur=55030&codhab=200
+created_at: '20240715044002'
+digest: THNEWZYJJJCO4STYH3FP7EL5H54PYVYD
+updated_at: '20240715044002'
+url: https://web.archive.org/web/20240715044002id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SME0823&verdis=1
