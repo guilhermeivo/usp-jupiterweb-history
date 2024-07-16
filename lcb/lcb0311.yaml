@@ -213,7 +213,24 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20240622190219'
-digest: 6YUDJU6WBWVSR4L7XL5ECM75QKPXMMVL
-updated_at: '20240622190219'
-url: https://web.archive.org/web/20240622190219id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCB0311&verdis=4
+created_at: '20240716192613'
+digest: UEJBPEDHJZ66DBBXJU7JRWWBXFVBFFEH
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 3'
+  requirements:
+  - code: LCB1204
+    name: Botânica Sistemática
+    type: Requisito
+  - code: LCB0208
+    name: Bioquímica
+    type: Requisito
+- course: 'Curso: 11020  Engenharia Florestal (integral) - Período ideal: 3'
+  requirements:
+  - code: LCB0206
+    name: Botânica Sistemática Florestal
+    type: Requisito
+  - code: LCB0208
+    name: Bioquímica
+    type: Requisito
+updated_at: '20240716192613'
+url: https://web.archive.org/web/20240716192613id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCB0311
