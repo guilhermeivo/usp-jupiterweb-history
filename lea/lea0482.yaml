@@ -36,7 +36,7 @@ courses:
   total_workload: 75 h
   type: Semestral
 created_at: '20231201184720'
-digest: VSZ46OZESNQEUXLBR2MI4MIX5VCE6HCM
+digest: 52UOECN2SMNRYXHU4NYERYDYNXHAISZ7
 requirements:
 - course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 7'
   requirements:
@@ -46,5 +46,5 @@ requirements:
   - code: LGN0335
     name: Evolução
     type: Requisito
-updated_at: '20231201184720'
-url: https://web.archive.org/web/20231201184720id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LEA0482
+updated_at: '20240718162800'
+url: https://web.archive.org/web/20240718162800id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0482&codcur=11070&codhab=4
