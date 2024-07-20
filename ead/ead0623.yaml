@@ -152,7 +152,7 @@ courses:
   total_workload: 30 h
   type: Semestral
 created_at: '20240720055932'
-digest: KQ6LL6FLVFDPDVOTKE4HL76YZ2FVGDO2
+digest: FIOSNM5SZIQXAJHWEGWN4DWDFRJWRHST
 requirements:
 - course: 'Curso: 12012  Bacharelado em Administração (integral) - Período ideal:
     7'
@@ -165,5 +165,5 @@ requirements:
   - code: EAD0622
     name: Gestão de Pessoas
     type: Requisito fraco
-updated_at: '20240720055932'
-url: https://web.archive.org/web/20240720055932id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAD0623
+updated_at: '20240720062145'
+url: https://web.archive.org/web/20240720062145id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0623&codcur=12012&codhab=1
