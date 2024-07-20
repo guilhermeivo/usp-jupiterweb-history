@@ -1,7 +1,6 @@
 courses:
-  activation: 01/07/1994
-  assessment: A possibilidade de recuperação depende de análise, caso a caso, feita
-    pela Comissão de Graduação do CCM.
+  activation: 15/07/2024
+  assessment: Frequência maior que 70% e nota final entre 3,0 e 4,9
   bibliography: 'E.F. Buck, ADVANCED CALCULUS, 2nd. Ed. McGraw-Hill. New York, 1965
 
     R. Courant, CÁLCULO DIFERENCIAL E INTEGRAL, vol II, Globo, Rio de Janeiro, 1951-66
@@ -11,15 +10,45 @@ courses:
     B. Noble, APPLIED LINEAR ALGEBRA, Prentice-Hall, 1969
 
     M. Barone Jr., ÁLGEBRA LINEAR, 3 ed., IME-USP, São Paulo, 1988'
-  course: "1. Espaços lineares.\n2. Transformações lineares e matrizes.\n3. Determinantes.\n\
-    4. Autovalores e autovetores.\n5. Autovalores de operadores em espaços Euclideanos.\n\
-    6. Equações diferenciais lineares.\n7. Sistemas de equações diferenciais.\n8.\
-    \ Cálculo diferencial de campos escalares e vetoriais.\n9. Aplicações de cálculo\
-    \ diferencial.\nCCM 0213 - Mathematics III\nProgram:\n1 - Linear spaces\n2 - Linear\
-    \ transformations and matrices\n3 - Determinants\n4 \x96 Eigenvalues and eigenvector\n\
-    5 - Eigenvalues of operators in Euclidian spaces\n6 - Linear differential equations\n\
-    7 - Systems of differential equations\n8 - Differential calculus of scalar and\
-    \ vector fields\n9 - Applications of differential calculus"
+  course: '1. Espaços lineares.
+
+    2. Transformações lineares e matrizes.
+
+    3. Determinantes.
+
+    4. Autovalores e autovetores.
+
+    5. Autovalores de operadores em espaços Euclideanos.
+
+    6. Equações diferenciais lineares.
+
+    7. Sistemas de equações diferenciais.
+
+    8. Cálculo diferencial de campos escalares e vetoriais.
+
+    9. Aplicações de cálculo diferencial.
+
+    CCM 0213 - Mathematics III
+
+    Program:
+
+    1 - Linear spaces
+
+    2 - Linear transformations and matrices
+
+    3 - Determinants
+
+    4 – Eigenvalues and eigenvector
+
+    5 - Eigenvalues of operators in Euclidian spaces
+
+    6 - Linear differential equations
+
+    7 - Systems of differential equations
+
+    8 - Differential calculus of scalar and vector fields
+
+    9 - Applications of differential calculus'
   course_name: 'CCM0213 - Matematica III
 
     Mathematics III'
@@ -31,13 +60,13 @@ courses:
     3192202 - Marcone Corrêa Pereira
 
     82037 - Sonia Regina Leite Garcia'
-  lecture_credits: '6'
+  lecture_credits: '5'
   objectives: Estudo dos espaços vetoriais, das aplicações lineares, e do cálculo
     diferencial para funções de várias variáveis reais.
   practical_credits: '0'
-  total_workload: 90 h
+  total_workload: 75 h
   type: Semestral
-created_at: '20240228214807'
-digest: AIPJYFFIJHDLQ2DUQ5USDRBIZDUSBOTR
-updated_at: '20240228214807'
-url: https://web.archive.org/web/20240228214807id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0213
+created_at: '20240720060324'
+digest: DPWZXT2TVOFHGHN6AOLFWJ7HQPE3N5ME
+updated_at: '20240720060324'
+url: https://web.archive.org/web/20240720060324id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0213
