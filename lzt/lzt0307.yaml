@@ -63,7 +63,7 @@ courses:
   total_workload: 120 h
   type: Semestral
 created_at: '20231201203630'
-digest: EPJ4ZCENXEPGFREUIF5KD5HFAETTD6CZ
+digest: JFTHT7Z6XQMJDXXHZKJH5XDFGRENSVO3
 requirements:
 - course: 'Curso: 11061  Ciências dos Alimentos (noturno) - Período ideal: 6'
   requirements:
@@ -98,5 +98,5 @@ requirements:
   - code: LCB0213
     name: Bioquímica I
     type: Requisito
-updated_at: '20240421151111'
-url: https://web.archive.org/web/20240421151111id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0307&codcur=11070&codhab=104
+updated_at: '20240721081253'
+url: https://web.archive.org/web/20240721081253id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LZT0307
