@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2019
+  activation: 15/07/2024
   assessment: De acordo com o programado e previsto pelas normas vigentes.
   bibliography: 'Bienais de Design Gráfico da ADG - Associação dos Designers Gráficos.
     São Paulo: ADG, 1992 a 2010. [catálogos]
@@ -37,7 +37,7 @@ courses:
   course_name: 'AUP2328 - Introdução ao Projeto Visual
 
     Introduction to Visual Design'
-  deactivation: 14/07/2024
+  deactivation: ''
   instructors: '2095550 - Daniela Kutschat Hanns
 
     2861485 - Sara Miriam Goldchmit
@@ -64,8 +64,8 @@ courses:
     Manifestações para contextos dados, espaço e cidade.
 
     Desenvolvimento de Projeto'
-created_at: '20240520162702'
-digest: MAR6LYTISCGCOYO5YRXQPAYIYUUUZ5KD
+created_at: '20240724231250'
+digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
 requirements:
 - course: 'Curso: 16100  Design (noturno) - Período ideal: 3'
   requirements:
@@ -75,5 +75,5 @@ requirements:
   - code: AUP2326
     name: Laboratório da Imagem
     type: Requisito fraco
-updated_at: '20240520162702'
-url: https://web.archive.org/web/20240520162702id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=AUP2328&codcur=16100&codhab=4
+updated_at: '20240724231250'
+url: https://web.archive.org/web/20240724231250id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=AUP2328&codcur=16100&codhab=4
