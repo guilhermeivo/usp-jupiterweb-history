@@ -65,7 +65,7 @@ courses:
 
     Desenvolvimento de Projeto'
 created_at: '20240724231250'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+digest: JNAW44OS6PGYMQ33NHIARCIRTC5H7H7P
 requirements:
 - course: 'Curso: 16100  Design (noturno) - Período ideal: 3'
   requirements:
@@ -75,5 +75,5 @@ requirements:
   - code: AUP2326
     name: Laboratório da Imagem
     type: Requisito fraco
-updated_at: '20240725004820'
-url: https://web.archive.org/web/20240725004820id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=AUP2328&codcur=16100&amp
+updated_at: '20240725041504'
+url: https://web.archive.org/web/20240725041504id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=AUP2328&codcur=16100&amp
