@@ -1,8 +1,9 @@
 courses:
-  activation: 01/01/2016
-  assessment: Será feita sob a forma de uma prova com duas horas de duração, aplicada
-    após o término das aulas, em época determinada pela USP. A média final será a
-    média aritmética entre a nota desta prova e a média obtida no semestre.
+  activation: 01/01/2023
+  assessment: A prova de recuperação é feita com toda a matéria dada, tendo duas horas
+    de duração, aplicada após o final do semestre, em época determinada pela USP.
+    A média final será a média aritmética entre a nota desta prova e a média obtida
+    no semestre.
   bibliography: 'BÁSICA:
 
     FLEMMING, D.M.; GONÇALVES, M.B.  Cálculo A: funções, limites, derivação, integração.
@@ -61,7 +62,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20240103061638'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20240103061638'
-url: https://web.archive.org/web/20240103061638id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0220&codcur=11020&codhab=0
+created_at: '20240731110655'
+digest: XHBSVOMFAYFYKPBFF6AZDVQUAB7KR33B
+updated_at: '20240731110655'
+url: https://web.archive.org/web/20240731110655id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0220&codcur=11010
