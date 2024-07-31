@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2014
+  activation: 15/07/2024
   assessment: 1 (uma) prova de recuperação.
   bibliography: '1.  J. STEWART, Cálculo, Vol. I, 6ª edição, Cengage Learning Edições
     Ltda, 2010.
@@ -15,17 +15,35 @@ courses:
     integração. Aplicações: cálculos de volumes de revolução, comprimento de curvas.
     Fórmula de Taylor.
 
+    Observação:
+
+    1. Quando lecionada no Instituto de Física, o tópico “aplicações das derivadas”
+    deve tratar de equações diferenciais lineares de 1 e 2 ordens a coeficientes constantes
+    homogêneas e não homogêneas.
+
+    2. Quando lecionada no Instituto de Química, abordar Equações Diferenciais do
+    tipo y’=f(x) e equações de variáveis separáveis.
+
     Trigometric functions. Exponential functions. Composite and inverse functions.
     Limits: intuitive concept, algebraic properties. Squeeze Theorem. Continuity.
     Derivatives: definition, geometric and physical interpretations. Derivation rules,
     Chain Rule, derivative of  the inverse and implicit functions. Applications. Mean
     Value Theorem and consequences. Graphics.  Maximum-Minimum problems. The Riemann
     Integral. Integration techniques. Applications:computation of volumes of solids
-    of revolution, length of curves. Taylor´s Formula.'
+    of revolution, length of curves. Taylor´s Formula.
+
+    Observation:
+
+    1. When taught at the Institute of Physics, the topic “applications of derivatives”
+    must deal with homogeneous and non-homogeneous and constant coefficients linear
+    differential equations of orders 1 and 2.
+
+    2. When taught at the Chemistry Institute, address Differential Equations of the
+    type y’=f(x) and equations with separable variables.'
   course_name: 'MAT2453 - Cálculo Diferencial e Integral I
 
     Differential and Integral Calculus I'
-  deactivation: 14/07/2024
+  deactivation: ''
   instructors: 453656 - Alexandre Lymberopoulos
   lecture_credits: '6'
   objectives: 'Familiarizar o aluno com as noções de limite, derivada e integral de
@@ -36,7 +54,7 @@ courses:
   practical_credits: '0'
   total_workload: 90 h
   type: Semestral
-created_at: '20240626113537'
+created_at: '20240731120817'
 digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20240627022605'
-url: https://web.archive.org/web/20240627022605id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT2453&codcur=16011&codhab=100
+updated_at: '20240731120817'
+url: https://web.archive.org/web/20240731120817id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT2453&codcur=3092
