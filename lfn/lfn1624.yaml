@@ -54,12 +54,12 @@ courses:
   total_workload: 90 h
   type: Semestral
 created_at: '20240529235929'
-digest: NRQTSE3QS4F43LUTWZKW3WKZUJ674GX7
+digest: BNQMCSK6RTYC356UHBYUII5EC6HXRLGO
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 7'
   requirements:
   - code: LFN0424
     name: Fitopatologia
     type: Requisito
-updated_at: '20240529235929'
-url: https://web.archive.org/web/20240529235929id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LFN1624
+updated_at: '20240803131707'
+url: https://web.archive.org/web/20240803131707id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LFN1624&verdis=2
