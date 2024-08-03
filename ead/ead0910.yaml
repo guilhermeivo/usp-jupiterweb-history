@@ -1,76 +1,103 @@
 courses:
-  activation: 01/01/2019
-  assessment: O aluno que tiver média final entre 3,0 (três) e 4,9 (quatro e nove)
-    deverá fazer a prova/trabalho de reavaliação.
-  bibliography: "COOPER, Lee G. Strategic marketing planning for radically new products.\
-    \ Journal of marketing, v. 64, n. 1, p. 1-16, 2000.\nDe Meyer, A., Loch, C. H.,\
-    \ & Pich, M. T. (2002). Managing project uncertainty: from variation to chaos.\
-    \ IEEE Engineering Management Review, 30(3), 91–91.\nEggers, J. P. (2012). Falling\
-    \ Flat: Failed Technologies and Investment Under Uncertainty. Administrative Science\
-    \ Quartely, 57, 47–80.\nFloricel, S., Michela, J. L., & Piperca, S. (2016). Complexity,\
-    \ uncertainty-reduction strategies, and project performance. International Journal\
-    \ of Project Management, 34(7), 1360–1383.\nGomes, L. A. de V., Salerno, M. S.,\
-    \ Phaal, R., & Probert, D. R. (2018). How entrepreneurs manage collective uncertainties\
-    \ in innovation ecosystems. Technological Forecasting and Social Change, 128,\
-    \ (March 2018), 164–185.\nHuchzermeier, A., & Loch, C. H. (2001). Project Management\
-    \ Under Risk: Using the Real Options Approach to Evaluate Flexibility in R & D.\
-    \ Management Science, 47(1), 85–101.\nHURLEY, Robert F.; HULT, G. Tomas M. Innovation,\
-    \ market orientation, and organizational learning: an integration and empirical\
-    \ examination. The Journal of marketing, p. 42-54, 1998.\nKnight, F. H. (1921).\
-    \ Risk, Uncertainty and Profit. On the History and Method of Economics. New York,\
-    \ NY: Hart, Schaffner and Marx.\nLoch, C. H., Solt, M. E., & Bailey, E. M. (2008).\
-    \ Diagnosing Unforeseeable Uncertainty in a New Venture. Journal of Product Innovation\
-    \ Management, (25), 28–46.\nO’Connor, G. C., Rice, M. P., Peters, L., & Veryzer,\
-    \ R. W. (2003). Managing Interdisciplinary, Longitudinal Research Teams: Extending\
-    \ Grounded Theory-Building Methodologies. Organization Science, 14(4), 353–373.\n\
-    O’Connor, G.C., Leifer, R., Paulson, A.S., & Peters, L.S. (2008). Grabbing Lightning:\
-    \ Building a Capability for Breakthrough Innovation. San Francisco: John Wiley\
-    \ & Sons.\nO'Connor, G.C., & Rice, M.P. (2013). A comprehensive model of uncertainty\
-    \ associated with radical innovation. Journal of Product Innovation Management,\
-    \ 30 (1), 2-18.\nPich, M. T., Loch, C. H., & Meyer, A. De. (2002). On uncertainty,\
-    \ ambiguity, and complexity in project management. Management Science, 48(8),\
-    \ 1008–1023.\nRice, M. P., Connor, G. C. O., & Pierantozzi, R. (2008). Implementing\
-    \ a Learning Plan to Counter Project Uncertainty. MIT Sloan Management Review,\
-    \ 49(2), 54–62.\nRies, E. The lean startup: How today’s entrepreneurs use continuous\
-    \ innovation to create radically successful businesses. New York, NY: Crown Books:\
-    \ 2011.\nSalerno, M. S. & Gomes, L. A. V. Gestão da inovação mais radical. Elsevier:\
-    \ 2018.\nSarasvathy, S. D. (2001) “Causation and effectuation: towards a theoretical\
-    \ shift \tfrom economic inevitability to entrepreneurial contingency,” Academy\
-    \ of Management Review, 26/2: 243-263.\nSommer, S. C., & Loch, C. H. (2004). Selectionism\
-    \ and Learning in Projects with Complexity and Unforeseeable Uncertainty. Management\
-    \ Science, 50(10), 1334–1347.\nSommer, S. C., Loch, C. H., & Dong, J. (2009).\
-    \ Managing Complexity and Unforeseeable Uncertainty in Startup Companies: An Empirical\
-    \ Study. Organization Science, 20(1), 118–133."
-  course: "Tópicos\nIntrodução ao empreendedorismo\nOportunidades: reconhecimento\
-    \ e criação de oportunidades\nUso da imaginação da imaginação na criação de novos\
-    \ negócios\nFundação da empresa: quem incluir no time, como contratar e motivar\
-    \ funcionários e como envolver investidores externos\nDesign thinking & projeto\
-    \ da inovação (produto, serviço, processo)\nModelo de negócios: conceitos, cases,\
-    \ abordagens de projeto de modelos de negócios\nOperações empreendedoras\nMarketing\n\
-    Finanças empreendedoras: quanto investimento deve ser levantado, tipos de investidores,\
-    \ quando buscar investidores, valoração, decisões de saída\nTotal de créditos:\
-    \ Quatro créditos aula, dois créditos trabalho.\nOs dois créditos trabalho envolverão:\n\
-    1.\tPlanejamento e pesquisa sobre necessidades de clientes e mercados\n2.\tPlanejamento\
-    \ e pesquisa sobre tecnologias e opções tecnológicas\n3.\tPlanejamento e pesquisa\
-    \ sobre modelos de negócio, tipologias e arquiteturas\n4.\tVisitas a startups\n\
-    5.\tVisitas a incubadoras de empresas\n6.\tVisitas a aceleradoras\n7.\tTrabalho\
-    \ especial de estruturação de um projeto de um startup\n8.\tTrabalho especial\
-    \ de desenvolvimento de um protótipo de uma inovação\n9.\tConjunto de leituras\
-    \ fundamentais sobre teorias, conceitos e ferramentas do empreendedorismo."
+  activation: 01/01/2023
+  assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
+    média final.
+  bibliography: 'Ries, Eric The Lean Startup
+
+    Aulet, Bill Disciplined Entrepreneurship
+
+    Blank, Steve The Four Steps to the Epiphany
+
+    Salerno e Gomes Gestão da Inovação mais Radical'
+  course: 'Fundamentos de Empreendedorismo
+
+    Identificação de oportunidades
+
+    Fundamentos de Ecossistemas
+
+    Marketing aplicado a empreendedorismo
+
+    MOdelo de Negócios
+
+    FInanças para Empreendedorismo
+
+    Valuation
+
+    1. Entrepreneurship Fundamentals
+
+    2. Opportunities Identification
+
+    3. Ecosystems Fundamentals
+
+    4. Marketing applied to entrepreneurship
+
+    5. Business model
+
+    6. Entrepreneurial Finance
+
+    7. Valuation'
   course_name: 'EAD0910 - Empreendedorismo e Inovação
 
     Entrepreneurship and innovation'
   deactivation: ''
-  instructors: 403396 - Andres Rodriguez Veloso
+  instructors: '403396 - Andres Rodriguez Veloso
+
+    2975141 - Guilherme de Farias Shiraishi
+
+    6497191 - Leonardo Augusto de Vasconcelos Gomes
+
+    870996 - Liliam Sanchez Carrete'
   lecture_credits: '4'
-  objectives: O objetivo da disciplina é capacitar o aluno no desenvolvimento de novos
-    negócios. Espera-se que ao final do curso o aluno desenvolva sua capacidade empreendedora.
-    O aluno estará apto para desenvolver atividades empreendedoras por meio do trabalho
-    em equipe, capacidade de comunicação e inovação.
-  practical_credits: '2'
-  total_workload: 120 h
+  objectives: 'Definir empreendedorismo usando diferentes perspectivas;
+
+    Explicar o valor do empreendedorismo para a sociedade;
+
+    Explicar as diferentes perspectivas teóricas ligadas à oportunidade;
+
+    Compreender o uso da imaginação no processo empreendedor;
+
+    Estar equipado de uma série de conceitos e ferramentas para suportar as decisões
+    ligadas à fundação da start-up;
+
+    Compreender e aplicar as técnicas de design thinking ao desenvolvimento de inovações;
+
+    Entender as principais abordagens para o desenvolvimento de produtos;
+
+    Definir, modelar e projetar modelos de negócios para inovações;
+
+    Compreender os principais modelos de operações para startups;
+
+    Aplicar técnicas para modelagem financeira de novos empreendimentos;
+
+    Aplicar conceitos de marketing para novos negócios.
+
+    Identificar a tecnologia a ser utilizada na solução; desenvolver a solução, definir
+    como a solução será introduzida no mercado
+
+    Os alunos identificam um problema real e propor uma solucão
+
+    Os alunos desenvolvem projeto para solucionar um problema existente, ou seja,
+    uma inovação
+
+    Entrepreneurship Thinking, Business Thinking e Design THinking
+
+    Os alunos devem identificar a associação dos seus projetos com os objetivos da
+    ODS
+
+    Os alunos são organizados em equipes
+
+    Os alunos formam equipess multidisciplinares incorporando diversidade de gênero,
+    raça, cor
+
+    Apresentações para professores e banca de investidores
+
+    Desenvolvimento do Projeto de Empreendedorismo
+
+    Desenvolvimento do protótipo do produto tecnológico'
+  practical_credits: '4'
+  total_workload: 180 h
   type: Semestral
-created_at: '20220705175653'
-digest: LBQ6C3WXTIVXQ7PIOYLAHSGQH4BF3S6I
-updated_at: '20220706120214'
-url: https://web.archive.org/web/20220706120214id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0910&codcur=12012&codhab=4
+created_at: '20240803102208'
+digest: OK2KVHOAWVEE7ECHUE3ULQH3EWEVGPKA
+updated_at: '20240803102208'
+url: https://web.archive.org/web/20240803102208id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0910&codcur=12012&codhab=1
