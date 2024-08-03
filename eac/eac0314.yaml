@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2013
   assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
     na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
     que 5,0 (cinco) e frequência igual ou superior a 70%.
@@ -43,39 +43,29 @@ courses:
     OYADOMARI, J. C. T.; MENDONÇA NETO, O. R. de; DULTRA-DE-LIMA, R. G.; NISIYAMA,
     E. K.; AGUIAR, A. B. de. Contabilidade Gerencial: ferramentas para melhoria de
     desempenho empresarial. GEN/Atlas, 2018.'
-  course: '1. MÉTODOS DE CUSTEIO
+  course: 'Sistema de Informações de Custos no contexto do SIG.
 
-    1.1. Comportamento de custos
+    Relações Custo-Volume-Lucro.
 
-    1.2. Métodos de custeio: variável x absorção x pleno
+    Lucro e Margem de Contribuição.
 
-    1.3. Métodos de custeio: direto
+    Margem de Contribuição por fator limitante.
 
-    1.4. Custeio e Gestão Baseados em Atividades (ABC/ABM)
+    Classificação de Custos quanto à sua relação com os produtos.
 
-    2. USO DAS INFORMAÇÕES DE CUSTOS PARA DECISÃO DE VOLUMES, LUCROS E PREÇOS
+    Custeios Variável e por Absorção.
 
-    2.1. Relações entre o custo, o volume e o lucro
+    Custeio Direto
 
-    2.2. Margem de Contribuição por fator limitante
+    Custeio e Gestão Baseados em Atividades (ABC/ABM).
 
-    2.3. Preço de Venda
+    Custo-padrão
 
-    3. CUSTOS RELEVANTES PARA DECISÃO
-
-    3.1. Conceitos de custo de oportunidade, custo afundado e custos relevantes
-
-    3.2. Decisões baseadas em custos
-
-    4. CUSTOS PARA PLANEJAMENTO E CONTROLE
-
-    4.1. Custo padrão
-
-    4.2. Análise das variações de materiais, mão de obra e custos indiretos'
+    Preço de Venda.'
   course_name: 'EAC0314 - Análise de Custos
 
     Cost Analysis'
-  deactivation: ''
+  deactivation: 31/12/2021
   instructors: '3767752 - Andson Braga de Aguiar
 
     214113 - Carlos Alberto Pereira
@@ -88,50 +78,13 @@ courses:
 
     64919 - Reinaldo Guerreiro'
   lecture_credits: '4'
-  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
-
-    A disciplina busca apresentar e discutir os conceitos teóricos e questões práticas
-    que envolvem conceitos, ferramentas e técnicas de custos destinados à geração
-    e utilização de informações de custos como instrumento de apoio gerencial ao processo
-    de tomada de decisão, planejamento e controle nas organizações.
-
-    OBJETIVOS DE APRENDIZAGEM:
-
-    A disciplina oferece uma visão abrangente e prática dos principais temas relacionados
-    à análise de custos. Os temas estudados serão tratados de maneira conceitual e
-    prática. Assim, espera-se que, ao final do curso, os alunos estejam aptos a:
-
-    1. Descrever, distinguir e comparar os principais métodos de custeio (custeio
-    por absorção, custeio pleno e custeio variável);
-
-    2. Aplicar os conceitos relacionados à cada método de custeio em casos e exercícios
-    práticos;
-
-    3. Compreender e aplicar o custeio direto no processo de tomada de decisões;
-
-    4. Conhecer os conceitos e abordagens do Custeio Baseado em Atividades (ABC);
-
-    5. Entender os conceitos de custeio variável e margem de contribuição e aplicá-los
-    nas relações de custo-volume-lucro, particularmente o cálculo do ponto de equilíbrio,
-    da margem de segurança e do grau de alavancagem operacional;
-
-    6. Compreender o reflexo da teoria das restrições em decisões de custos a partir
-    da aplicação do conceito de margem de contribuição por fator limitante;
-
-    7. Distinguir as diferentes abordagens de definição de preços de venda e aplicar
-    os conceitos markup em decisões de precificação de produtos/serviços;
-
-    8. Compreender os conceitos de custo de oportunidade, custos afundados e custos
-    relevantes, e aplicá-los em decisões de terceirização de atividades, aceitação
-    de pedido especial e de (des)continuidade de operações;
-
-    9. Descrever o conceito de custo-padrão e aplicar técnicas de análise de variação
-    de custos (materiais, mão de obra de custos indiretos de fabricação) para o processo
-    de planejamento e controle.'
+  objectives: Propiciar aos participantes o aprendizado básico, introdutório, relativo
+    à utilização de informações de custos como instrumento de apoio gerencial ao processo
+    decisório das organizações.
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220128230105'
-digest: PBWC7EDEGF5BBFQ6IP4QIGTOTENELMAY
-updated_at: '20230922014827'
-url: https://web.archive.org/web/20230922014827id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0314&codcur=12033&codhab=4
+created_at: '20240803115353'
+digest: HF7MTPVRVHGDKJCD4M2OVXKLL6SKAFTC
+updated_at: '20240803115353'
+url: https://web.archive.org/web/20240803115353id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0314&verdis=3
