@@ -1,29 +1,41 @@
 courses:
-  activation: 01/01/2014
+  activation: 01/01/2023
   assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
     média final.
-  bibliography: 'Damodaran, Aswath. Avaliação de Empresas. São Paulo: Pearson Prentice
-    Hall, 2.ed., 2008.'
-  course: "\x95\tConceitos fundamentais\n\x95\tMercado de Capitais: Valor e Fundamentos\
-    \ das Empresas\n\x95\tMétodos de Avaliação\no\tValor Patrimonial\no\tValor Patrimonial\
-    \ a Mercado\no\tFluxo de Caixa Empresarial Descontado\n\tComponentes do Modelo\n\
-    \tDirecionadores de Valor\n\tMétodos para Projeção de Fluxo de Caixa\no\tEstimativa\
-    \ do custo de capital\n\tMétodos de Estimativa do β\no\tFluxo de Caixa do Acionista\
-    \ Descontado\no\tModelo de Desconto de Dividendos\no\tModelos dos Múltiplos\n\
-    o\tAvaliação por Opções\n\x95\tRisco: medidas de risco\n\x95\tLiquidez e Valor:\
-    \ Private Equity e Venture Capital"
-  course_name: 'EAD0735 - Avaliação de Empresas (Valuation)
+  bibliography: 'Básica
 
-    Business Valuation'
+    Damodaran Avaliação de Empresas Pearson Prentice Hall, 2ª edição.
+
+    Damodaran Finanças Corporativas Teoria e Prática Bookman
+
+    Copeland T. ; Koller T.  e Murrin J.  Avaliação de Empresas Valuation Calculando
+    e Gerenciando o Valor das Empresas Pearson Makron Books'
+  course: 'O conteúdo do curso consiste nos seguintes tópicos:
+
+    Conceitos fundamentais
+
+    Mercado de Capitais: Valor e Fundamentos das Empresas'
+  course_name: 'EAD0735 - Avaliação de Empresas
+
+    Valuation'
   deactivation: ''
+  instructors: '120407 - Eduardo Kazuo Kayo
+
+    11705705 - Leandro dos Santos Maciel
+
+    870996 - Liliam Sanchez Carrete'
   lecture_credits: '2'
-  objectives: Fornecer conhecimentos e ferramentas para que os alunos possam atuar
-    na prática como analista de investimentos em Bancos de Investimentos, corretoras,
-    asset management, decisões de fusões e aquisições, IPOs, entre outros.
+  objectives: 'Apresentar as metodologias de determinação de valor de empresas
+
+    Decisão de aquisição de empresas
+
+    Precificação de Ativos
+
+    Desenvolvimento de soluções de cálculo financeiro'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220705175406'
-digest: J7QVXK3T65CGVL5742PMC6IDQVBVPV5S
-updated_at: '20220804011356'
-url: https://web.archive.org/web/20220804011356id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0735&codcur=12012&codhab=1
+created_at: '20240803093214'
+digest: OW4A27BXO6MJP4AOWIN7Q4LS4IXP3OZY
+updated_at: '20240803093214'
+url: https://web.archive.org/web/20240803093214id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0735
