@@ -39,12 +39,12 @@ courses:
   total_workload: 60 h
   type: Semestral
 created_at: '20240521164104'
-digest: 6CODW2RWX7Y7T5H5EJCSJ7J6SKXZXLEB
+digest: 6LSMRZIRP27HKJR644OLAHAVRHG67RFS
 requirements:
 - course: 'Curso: 11020  Engenharia Florestal (integral) - Período ideal: 4'
   requirements:
   - code: LFN0321
     name: Microbiologia
     type: Requisito
-updated_at: '20240521164104'
-url: https://web.archive.org/web/20240521164104id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LFN0425
+updated_at: '20240803125227'
+url: https://web.archive.org/web/20240803125227id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LFN0425&verdis=2
