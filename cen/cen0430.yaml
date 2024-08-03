@@ -1,9 +1,11 @@
 courses:
-  activation: 01/01/2019
+  activation: 01/01/2024
   assessment: Prova escrita.
-  bibliography: 'AOAC. In: Horwitz, W. & Latimer Jr, G.W. (Ed.), Official Methods
-    of Analysis of the Association of Official Analytical Chemists, 18th ed. AOAC,
-    Gaithersburg, MD, USA, 2011.
+  bibliography: 'Literatura Básica:
+
+    AOAC. In: Horwitz, W. & Latimer Jr, G.W. (Ed.), Official Methods of Analysis of
+    the Association of Official Analytical Chemists, 18th ed. AOAC, Gaithersburg,
+    MD, USA, 2011.
 
     BUKKENS, S.G.F. The nutritional value of edible insects. Ecol. Food. Nutr. 36,
     p.287–319, 1997.
@@ -23,10 +25,13 @@ courses:
     GALLO, D.; NAKANO, O.; SILVEIRA NETO, S.; CARVALHO, R.P.L.; BATISTA, G.C.de; BERTI
     FILHO, E.; PARRA, J.R.P.; ZUCCHI, R.A.; ALVES, S.B.; VENDRAMIM, J.D.; MARCHINI,
     L.C.; LOPES, J.R.S.; OMOTO, C. Entomologia Agrícola. Biblioteca de Ciências Agrárias
-    Luiz de Queiroz, Piracicaba, SP: FEALQ, 920 pp, 2002.
+    Luiz de Queiroz, Piracicaba, SP: FEALQ, 920 p., 2002.
 
-    [IAEA]  International  Atomic  Energy  Agency.  Model  business  plan  for  a  sterile
-    insect  production  facility.  Vienna, 2008, 396  pp.  (Project  INT/5/145  Insect  Pest  Control
+    HALLORAN, A.; FLORE, R.; VANTOMME, P.; ROOS, N. Edible Insects in Sustainable
+    Food Systems. Springer, Switzerland, 2018, 479 p.
+
+    [IAEA] International Atomic Energy Agency. Model business plan for a sterile insect
+    production facility.  Vienna, 2008, 396 pp. (Project INT/5/145 Insect Pest Control
     Using the Sterile Insect Technique).
 
     RAMOS-ELORDUY, J. Los insectos como fuente de proteínas en el futuro. Editora
@@ -42,10 +47,13 @@ courses:
 
     Van HUIS, A.; VAN ITTERBEECK, J.; KLUNDER, H.; MERTENS, E.; HALLORAN, A.; MUIR,
     G.; VANTOMME, P.  Edible Insects:  Future Prospects for Food and Feed Security.
-    FAO Forestry Paper 171, ISBN 978-92-5-107595-1.  Rome:  [FAO] Food and Agriculture
+    FAO Forestry Paper 171, ISBN 978-92-5-107595-1.  Rome: [FAO] Food and Agriculture
     Organization of the United Nations, 2013.
 
-    XIAOMING, C.;YING, F.; HONG, Z. Review of the nutritive value of edible insects.
+    Van HUIS, A.; TOMBERLIN, J.K. Insect as Food and Feed: From Production To Consumption.
+    Wageningen Academic Publishers, The Netherlands, 2017, 447 p.
+
+    XIAOMING, C.; YING, F.; HONG, Z. Review of the nutritive value of edible insects.
     Edible insects and other invertebrates in Australia: future prospects. Proceedings
     of a Workshop on Asia-Pacific Resources and their Potential for Development, 19–21
     February 2008, Bangkok, p. 85-92, 2010.'
@@ -59,7 +67,7 @@ courses:
   course_name: 'CEN0430 - Insetos Comestíveis
 
     Edible Insects'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: 3705273 - Thiago de Araújo Mastrangelo
   lecture_credits: '4'
   objectives: Oferecer aos alunos de Ciências Biológicas, Ciências dos Alimentos,
@@ -68,7 +76,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20230929223857'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20231209050459'
-url: https://web.archive.org/web/20231209050459id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0430&codcur=11010&codhab=0
+created_at: '20240803123618'
+digest: ZB5B2F6HAPU4ZAVN53LPV6DC3DOX4PGB
+updated_at: '20240803123618'
+url: https://web.archive.org/web/20240803123618id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0430&codcur=11070&codhab=4
