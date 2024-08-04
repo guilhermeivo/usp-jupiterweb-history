@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2013
   assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
     na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
     que 5,0 (cinco) e frequência igual ou superior a 70%.
@@ -57,103 +57,38 @@ courses:
 
     SECURATO, J. R. Decisões Financeiras em Condições de Risco. São Paulo; Atlas,
     1996.'
-  course: '1. FUNDAMENTOS DE ADMINISTRAÇÃO FINANCEIRA
-
-    1.1 As principais decisões financeiras e a função objetivo da empresa
-
-    1.2 Gestão Baseada no Valor
-
-    1.3 Separação entre propriedade e controle e princípios de governança corporativa
-
-    2. RISCO, RETORNO E CUSTO DE OPORTUNIDADE
-
-    2.1 Mercados eficientes: conceitos fundamentais, tipos de eficiência e suas implicações
-
-    2.2 Risco, retorno e o mercado de capitais
-
-    2.3 Teoria do portfólio (Markowitz)
-
-    2.4 Modelo de Precificação de Ativos Financeiros (CAPM) e custo de oportunidade
-
-    3. DECISÕES FINANCEIRAS DE LONGO PRAZO
-
-    3.1 Decisões de investimento e dimensionamento dos fluxos de caixa
-
-    3.2 Métodos de avaliação econômica de projetos
-
-    3.3 Decisões de Investimento em Condições de Risco
-
-    3.4 Custo de capital e criação de valor
-
-    3.5 Fontes de financiamento a longo prazo no Brasil e decisões de estrutura de
-    capital
-
-    3.6 Teorias de estrutura de capital e políticas de dividendos
-
-    4. DECISÕES FINANCEIRAS DE CURTO PRAZO
-
-    4.1 Ferramentas para gestão do capital de giro
-
-    4.2 Investimento em capital de giro
-
-    4.3 Financiamento do capital de giro'
+  course: "1. As principais decisões financeiras e a função objetivo da empresa.\n\
+    2. Separação entre propriedade e controle\n3. A decisão de investimento: critérios\
+    \ tradicionais para a avaliação de projetos\n4. Avaliação de títulos de dívida\
+    \ e ações\n5. Valor presente líquido e sua relação com o orçamento de capital\
+    \ e a estratégia financeira\n6. Introdução ao risco: retornos e o mercado de capitais\n\
+    7. Teoria das carteiras e o CAPM \x96 Capital Asset Price Model\n8. Risco, retorno\
+    \ e orçamento de capital\n9. Mercados eficientes: conceitos fundamentais, tipos\
+    \ de eficiência e suas implicações\n10. Teorias da estrutura de capital"
   course_name: 'EAC0511 - Administração Financeira
 
     Financial Management'
-  deactivation: ''
+  deactivation: 31/12/2021
   instructors: '3079831 - Lucas Ayres Barreira de Campos Barros
 
     3132692 - Renê Coppe Pimentel
 
     3696531 - Tatiana Albanez'
   lecture_credits: '4'
-  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
-
-    A disciplina busca apresentar e discutir os conceitos teóricos e questões práticas
-    que envolvem as decisões financeiras tomadas pelas empresas no processo de gestão
-    de recursos, abordando os principais aspectos relacionados às decisões de financiamento,
-    investimento e gestão do capital de giro. Para tanto, além de apresentados os
-    conceitos teóricos, procura-se demonstrar a sua aplicação prática no processo
-    decisório das empresas por meio de exercícios e estudos de caso.
-
-    OBJETIVOS DE APRENDIZAGEM:
-
-    A disciplina oferece uma visão quantitativa abrangente e moderna dos principais
-    temas relacionados às finanças corporativas. Os temas estudados serão tratados
-    de maneira conceitual e prática. Assim, espera-se que, ao final do curso, os alunos
-    estejam aptos a:
-
-    1. Distinguir e descrever as principais decisões financeiras;
-
-    2. Distinguir as formas de eficiência de mercado e avaliar suas implicações para
-    a precificação de ativos financeiros;
-
-    3. Descrever e aplicar a teoria financeira clássica de risco e retorno;
-
-    4. Computar medidas de risco e retorno esperados de ativos individuais, bem como
-    de carteiras de investimento;
-
-    5. Conhecer e aplicar ferramentas para gestão do capital de giro da empresa;
-
-    6. Descrever, comparar e aplicar os principais métodos de avaliação econômica
-    de projetos de investimento;
-
-    7. Computar medidas de custo de capital próprio e custo de capital de terceiros;
-
-    8. Aplicar os conceitos de retorno exigido e risco à avaliação de projetos de
-    investimento e à avaliação de fluxos de caixa;
-
-    9. Comparar as diferentes fontes de financiamento disponíveis para as firmas e
-    tomar decisões de estrutura de capital;
-
-    10. Entender a relação entre custo de oportunidade e geração de valor; e
-
-    11. Identificar e descrever os argumentos básicos das teorias de estrutura de
-    capital e de políticas de dividendos.'
+  objectives: "Espera-se que, ao final do curso, os alunos estejam aptos a:\n1.\t\
+    Distinguir e descrever as principais decisões financeiras\n2.\tDescrever, comparar\
+    \ e aplicar os principais métodos de avaliação de projetos de investimento\n3.\t\
+    Descrever e aplicar a teoria financeira básica de risco e retorno\n4.\tComputar\
+    \ medidas de risco e retorno esperados de ativos individuais, bem como de carteiras\
+    \ de ativos\n5.\tAplicar os conceitos de retorno exigido e risco sistemático à\
+    \ avaliação de projetos de investimento e à avaliação de fluxos de caixa\n6.\t\
+    Distinguir as formas de eficiência de mercado e avaliar suas implicações para\
+    \ a precificação de ativos financeiros\n7.\tIdentificar e descrever os argumentos\
+    \ básicos das teorias de estrutura de capital e de políticas de dividendos"
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220120232100'
-digest: Y5VFQXN6AZTKACQAYI2NROCUEME7NJZK
-updated_at: '20240803132643'
-url: https://web.archive.org/web/20240803132643id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0511&codcur=12033&codhab=4
+created_at: '20240804021033'
+digest: W2GKDUU5BFXWG5LFOGGGFEI5A7CG3XQO
+updated_at: '20240804021033'
+url: https://web.archive.org/web/20240804021033id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0511&verdis=2
