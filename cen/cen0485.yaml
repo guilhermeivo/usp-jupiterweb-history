@@ -53,7 +53,7 @@ courses:
   total_workload: 90 h
   type: Semestral
 created_at: '20231202154145'
-digest: PTIYH5CSEJXTD4A2DJCNHFW6CLW5YQ4J
+digest: DO3LXBP67JV4ED2A7VPRIP64ALAS4AB4
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 7'
   requirements:
@@ -81,5 +81,5 @@ requirements:
   - code: LGN0327
     name: Genética Molecular
     type: Requisito
-updated_at: '20240222142046'
-url: https://web.archive.org/web/20240222142046id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0485
+updated_at: '20240804015534'
+url: https://web.archive.org/web/20240804015534id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0485&codcur=11070&codhab=4
