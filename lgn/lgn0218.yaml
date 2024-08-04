@@ -94,12 +94,12 @@ courses:
   total_workload: 60 h
   type: Semestral
 created_at: '20240521190722'
-digest: RNQIHK2ITOAKWU5JDFKNJ7WZHAJ7OH46
+digest: CIRHD7LI7GXZT4KYLCJ6XGL57JFKIEYD
 requirements:
 - course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 2'
   requirements:
   - code: LGN0117
     name: Biologia Celular
     type: Requisito
-updated_at: '20240521190722'
-url: https://web.archive.org/web/20240521190722id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0218&codcur=11070&codhab=4
+updated_at: '20240804031346'
+url: https://web.archive.org/web/20240804031346id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LGN0218
