@@ -1,102 +1,69 @@
 courses:
-  activation: 01/01/2021
+  activation: 01/01/2024
   assessment: NÃO HAVERÁ SISTEMA DE RECUPERAÇÃO.
-  bibliography: '9.1. Soja
-
-    ARANTES, N. E.; SOUZA, P. I. M.  Cultura da soja nos cerrados. Piracicaba, Associação
-    Brasileira para Pesquisa da Potassa e do Fosfato. 1993. 535 p.
-
-    LPV0506-6/7
-
-    CÂMARA, G.M.S. Ecofisiologia da cultura da soja. In: CÂMARA, G.M.S.; MARCOS FILHO,
-    J.; OLIVEIRA, E.A.M. SIMPÓSIO SOBRE A CULTURA E PRODUTIVIDADE DA SOJA, 1. Anais.
-    Piracicaba, 15-18 de julho de 1991. ESALQ/USP, Departamento de Agricultura. FEALQ,
-    Piracicaba, 1992. p. 129-42.
-
-    CÂMARA, G.M.S. Soja: produção, pré-processamento e transformação agroindustrial.
-    São Paulo, Secretaria da Indústria, Comércio, Ciência e Tecnologia, s/d. 82 p.
-    (Série Extensão Agroindustrial, 7).
-
-    CÂMARA, G.M.S.  Soja: tecnologia da produção.  Gil Miguel de Sousa Câmara (editor).
-    Piracicaba: G. M. S. Câmara, 1998. 293 p.
-
-    CÂMARA, G. M. S.  Fenologia da soja. Informações Agronômicas, n. 82, jun./98.
-    Piracicaba, Associação Brasileira para Pesquisa da Potassa e do Fosfato. p. 1-6.
-    1998.
-
-    CÂMARA, G.M.S.  Soja: tecnologia da produção II.  Gil Miguel de Sousa Câmara (editor).
-    Piracicaba: G. M. S. Câmara, 2000. 450 p.
-
-    9.2. Girassol
-
-    CÂMARA, G.M.S.; CHIAVEGATO, E.J. O agronegócio das plantas oleaginosas: Algodão,
-    amendoim, girassol e mamona. Gil Miguel de Sousa Câmara; Ederaldo José Chiavegato
-    (Coordenador). Piracicaba: ESALQ/LPV, 2001. 204p.
-
-    CÂMARA, G.M.S.; MONTEIRO, C. A.  Potencial da cultura do girassol para rotação
-    com cana-de-açúcar. In: REUNIÃO NACIONAL DE PESQUISA DE GIRASSOL, XX. Resumos.
-    Campinas, set./1997. IAC e ITAL. p. 1-4. 1997.
-
-    CÂMARA, G.M.S.; ANDRADE, F.M.E.  Silagem de girassol. In: REUNIÃO NACIONAL DE
-    PESQUISA DE GIRASSOL, XX. Resumos. Campinas, set./1997. IAC e ITAL. p. 5-7. 1997.
-
-    LPV0506-6/7
-
-    CASTRO, C. de; CASTIGLIONI, V.B.R.; BALLA, A.; LEITE, R.M.V.B. de C.; KARAM, D.;
-    MELLO, H.C.; GUEDES, L.C.A.; FARIAS, J.R.B.  A cultura do girassol. Londrina,
-    EMBRAPA-CNPSo. 1997. 36 p. (EMBRAPA-CNPSo. Circular Técnica, 13).
-
-    LEITE, R.M.V.B. de C.  Doenças do girassol. Londrina, EMBRAPA-CNPSo. 1997. 68
-    p. (EMBRAPA-CNPSo. Circular Técnica, 19).
-
-    VRÂNCEANU, A. V.  El girasol. Madrid, Mundi-Prensa. 1977. 379 p.
-
-    9.3. Amendoim
-
-    CÂMARA, G.M.S.; CHIAVEGATO, E.J. O agronegócio das plantas oleaginosas: Algodão,
-    amendoim, girassol e mamona. Gil Miguel de Sousa Câmara; Ederaldo José Chiavegato
-    (Coordenador). Piracicaba: ESALQ/LPV, 2001. 204p.
-
-    LPV0506-7/7
-
-    CÂMARA, G.M.S. Amendoim: produção, pré-processamento e transformação agroindustrial.
-    São Paulo, Secretaria da Indústria, Comércio, Ciência e Tecnologia, s/d. 72 p.
-    (Série Extensão Agroindustrial, 3).
-
-    TASSO JUNIOR, L. C.; MARQUES, M. O.; NOGUEIRA, G. A.  A cultura do amendoim. Jaboticabal:
-    Luiz Carlos Tasso Junior, Marcos Omir Marques, Gustavo de Almeida Nogueira. 218
-    p. 2004.
-
-    9.4. Mamona
-
-    AZEVEDO, D. M. P de.; LIMA, E. F.  O Agronegócio da Mamona no Brasil. Embrapa
-    Algodão (Campina Grande-PB). Brasília: Embrapa Informação Tecnológica, 2001. 350
-    p.
-
-    CÂMARA, G.M.S.; CHIAVEGATO, E.J. O agronegócio das plantas oleaginosas: Algodão,
-    amendoim, girassol e mamona. Gil Miguel de Sousa Câmara; Ederaldo José Chiavegato
-    (Coordenador). Piracicaba: ESALQ/LPV, 2001. 204p.
-
-    EMPRESA DE PESQUISA AGROPECUÁRIA DE MINAS GERAIS. Oleaginosas. Belo Horizonte,
-    EPAMIG, Informe Agropecuário, 1981. 7(82). 100p.
-
-    SAVY FILHO, A.  Mamona teconologia agrícola. Campinas: EMOPI, 105 p. 2005.
-
-    9.5. Gergelim
-
-    BELTRÃO, N.E. de M.; FREIRE, E.C.  Cultura do gergelim (Sesamum indicum L.) no
-    Nordeste do Brasil. Campina Grande, EMBRAPA-CNPA. 1986. 18 p. (EMBRAPA-CNPA. Circular
-    Técnica, 12).
-
-    BELTRÃO, N. E. de N.; VIEIRA, D. J.  O Agronegócio do Gergelim no Brasil. Embrapa
-    Algodão (Campina Grande-PB). Brasília: Embrapa Informação Tecnológica, 2001. 348
-    p.
-
-    9.6. Canola
-
-    DIAS, J.C.A.  Canola = colza: alternativa de inverno com perspectiva de produção
-    de óleo comestível e combustível. Capão do Leão, EMBRAPA-CPATB. 1992. 46p. (EMBRAPA-CPATB.
-    Boletim de Pesquisa, 3).'
+  bibliography: "Literatura Básica:\nSoja\nARANTES, N. E.; SOUZA, P. I. M. Cultura\
+    \ da soja nos cerrados. Piracicaba, Associação Brasileira para\nPesquisa da Potassa\
+    \ e do Fosfato. 1993. 535 p.\nCÂMARA, G.M.S. Ecofisiologia da cultura da soja.\
+    \ In: CÂMARA, G.M.S.; MARCOS FILHO, J.;\nOLIVEIRA, E.A.M. SIMPÓSIO SOBRE A CULTURA\
+    \ E PRODUTIVIDADE DA SOJA, 1. Anais.\nPiracicaba, 15-18 de julho de 1991. ESALQ/USP,\
+    \ Departamento de Agricultura. FEALQ, Piracicaba,\n1992. p. 129-42.\nCÂMARA, G.M.S.\
+    \ Soja: produção, pré-processamento e transformação agroindustrial. São Paulo,\n\
+    Secretaria da Indústria, Comércio, Ciência e Tecnologia, s/d. 82 p. (Série Extensão\
+    \ Agroindustrial, 7).\nCÂMARA, G.M.S. Soja: tecnologia da produção. Gil Miguel\
+    \ de Sousa Câmara (editor). Piracicaba: G. M.\nS. Câmara, 1998. 293 p.\nCÂMARA,\
+    \ G. M. S. Fenologia da soja. Informações Agronômicas, n. 82, jun./98. Piracicaba,\
+    \ Associação\nBrasileira para Pesquisa da Potassa e do Fosfato. p. 1-6. 1998.\n\
+    CÂMARA, G.M.S. Soja: tecnologia da produção II. Gil Miguel de Sousa Câmara (editor).\
+    \ Piracicaba: G.\nM. S. Câmara, 2000. 450 p.\nEMBRAPA. (2020). Tecnologias de\
+    \ produção de soja. Embrapa Soja-Sistema de Produção (INFOTECA-E).\nDisponível\
+    \ em: https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1123928/1/SP-17-2020-\n\
+    online.pdf\nEMBRAPA. HOFFMANN-CAMPO, C.B.; CORRÊA-FERREIRA, B.S.; MOSCARDI, F.\
+    \ (Eds.). Soja:\nmanejo integrado de insetos e outros artrópodes-praga. Brasília:\
+    \ Embrapa, 2012. Disponível em:\nhttp://www.cnpso.embrapa.br/artropodes/\nFEHR,\
+    \ W. R.; CAVINESS, C. E. Stages of soybean development. Ames: Iowa State University\
+    \ of Science\nand Technology, 1977. 11 p.\nREIS, E.M.; CASA, R.T. Doenças da soja:\
+    \ etiologia, sintomatologia, diagnose e manejo integrado. Passo\nFundo: Berthier,\
+    \ 2012. 436 p.\nSILVA, F.; BORÉM, A.; SEDIYAMA, T.; CÂMARA, G. Soja: do plantio\
+    \ à colheita. Viçosa, MG: Ed. UFV,\n2020. 312 p.\nGirassol\nCÂMARA, G.M.S.; CHIAVEGATO,\
+    \ E.J. O agronegócio das plantas oleaginosas: Algodão, amendoim,\ngirassol e mamona.\
+    \ Gil Miguel de Sousa Câmara; Ederaldo José Chiavegato (Coordenador). Piracicaba:\n\
+    CÂMARA, G.M.S.; MONTEIRO, C. A. Potencial da cultura do girassol para rotação\
+    \ com cana-de-açúcar.\nIn: REUNIÃO NACIONAL DE PESQUISA DE GIRASSOL, XX. Resumos.\
+    \ Campinas, set./1997. IAC e\nITAL. p. 1-4. 1997.\nCÂMARA, G.M.S.; ANDRADE, F.M.E.\
+    \ Silagem de girassol. In: REUNIÃO NACIONAL DE PESQUISA\nDE GIRASSOL, XX. Resumos.\
+    \ Campinas, set./1997. IAC e ITAL. p. 5-7. 1997.\nCASTRO, C. de; CASTIGLIONI,\
+    \ V.B.R.; BALLA, A.; LEITE, R.M.V.B. de C.; KARAM, D.; MELLO,\nH.C.; GUEDES, L.C.A.;\
+    \ FARIAS, J.R.B. A cultura do girassol. Londrina, EMBRAPA-CNPSo. 1997.\n36 p.\
+    \ (EMBRAPA-CNPSo. Circular Técnica, 13).\nLEITE, R.M.V.B. de C. Doenças do girassol.\
+    \ Londrina, EMBRAPA-CNPSo. 1997. 68 p. (EMBRAPA\x02CNPSo. Circular Técnica, 19).\n\
+    VRÂNCEANU, A. V. El girasol. Madrid, Mundi-Prensa. 1977. 379 p.\nAmendoim\nCÂMARA,\
+    \ G.M.S.; CHIAVEGATO, E.J. O agronegócio das plantas oleaginosas: Algodão, amendoim,\n\
+    girassol e mamona. Gil Miguel de Sousa Câmara; Ederaldo José Chiavegato (Coordenador).\
+    \ Piracicaba:\nESALQ/LPV, 2001. 204p.\nCÂMARA, G.M.S. Amendoim: produção, pré-processamento\
+    \ e transformação agroindustrial. São\nPaulo, Secretaria da Indústria, Comércio,\
+    \ Ciência e Tecnologia, s/d. 72 p. (Série Extensão Agroindustrial,\n3).\nTASSO\
+    \ JUNIOR, L. C.; MARQUES, M. O.; NOGUEIRA, G. A. A cultura do amendoim. Jaboticabal:\n\
+    Luiz Carlos Tasso Junior, Marcos Omir Marques, Gustavo de Almeida Nogueira. 218\
+    \ p. 2004.\nMamona\nAZEVEDO, D. M. P de.; LIMA, E. F. O Agronegócio da Mamona\
+    \ no Brasil. Embrapa Algodão (Campina\nGrande-PB). Brasília: Embrapa Informação\
+    \ Tecnológica, 2001. 350 p.\nCÂMARA, G.M.S.; CHIAVEGATO, E.J. O agronegócio das\
+    \ plantas oleaginosas: Algodão, amendoim,\ngirassol e mamona. Gil Miguel de Sousa\
+    \ Câmara; Ederaldo José Chiavegato (Coordenador). Piracicaba:\nESALQ/LPV, 2001.\
+    \ 204p.\nEMPRESA DE PESQUISA AGROPECUÁRIA DE MINAS GERAIS. Oleaginosas. Belo Horizonte,\n\
+    EPAMIG, Informe Agropecuário, 1981. 7(82). 100p.\nSAVY FILHO, A. Mamona teconologia\
+    \ agrícola. Campinas: EMOPI, 105 p. 2005.\nGergelim\nBELTRÃO, N.E. de M.; FREIRE,\
+    \ E.C. Cultura do gergelim (Sesamum indicum L.) no Nordeste do\nBrasil. Campina\
+    \ Grande, EMBRAPA-CNPA. 1986. 18 p. (EMBRAPA-CNPA. Circular Técnica, 12).\nSERVIÇO\
+    \ DE GRADUAÇÃO\nAv. Pádua Dias, 11 | Caixa Postal 9 | Piracicaba, SP | 13418-900\n\
+    Tels: (19) 3429-4158 / 4328 / 4294 | sagradua@usp.br | www.esalq.usp.br/graduacao\n\
+    BELTRÃO, N. E. de N.; VIEIRA, D. J. O Agronegócio do Gergelim no Brasil. Embrapa\
+    \ Algodão\n(Campina Grande-PB). Brasília: Embrapa Informação Tecnológica, 2001.\
+    \ 348 p.\nBEDIGIAN, D. (Ed.). (2010). Sesame: the genus Sesamum. CRC press. 2010.\
+    \ 505p.\nCanola\nDIAS, J.C.A. Canola = colza: alternativa de inverno com perspectiva\
+    \ de produção de óleo comestível e\ncombustível. Capão do Leão, EMBRAPA-CPATB.\
+    \ 1992. 46p. (EMBRAPA-CPATB. Boletim de\nPesquisa, 3).\nTHIYAM-HOLLÄNDER, U.,\
+    \ ESKIN, N. M., & MATTHÄUS, B. (Eds.). (2012). Canola and rapeseed:\nproduction,\
+    \ processing, food quality, and nutrition. CRC Press. 2012. 362p."
   course: '1. Apresentação do programa da disciplina, do sistema de avaliação, do
     calendário de provas e da bibliografia básica. Visita ao campo para primeiros
     contatos com as plantas oleaginosas de ciclo anual. 2. Soja: importância econômica
@@ -117,21 +84,29 @@ courses:
   course_name: 'LPV0506 - Plantas Oleaginosas
 
     Oil Plants'
-  deactivation: 31/12/2023
-  instructors: 5042761 - Francisco Guilhien Gomes Junior
+  deactivation: ''
+  instructors: '5042761 - Francisco Guilhien Gomes Junior
+
+    9197917 - Renan Caldas Umburanas'
   lecture_credits: '4'
-  objectives: Proporcionar aos alunos conhecimentos de natureza básica e aplicada
-    sobre as técnicas de produção das principais plantas oleaginosas de ciclo anual,
-    de maneira a desenvolver o raciocínio crítico quanto às tecnologias atualmente
-    disponíveis aos produtores e capacitá-los no reconhecimento de problemas relacionados
-    à produção, visando a adoção de medidas que resultem em maior eficiência técnico-econômica
-    do sistema de produção vegetal, com maior ênfase para as culturas de soja, amendoim
-    e girassol. Visa também, educar os alunos na adoção e interpretação da nomenclatura
-    técnica inerente aos agronegócios das plantas oleaginosas.
+  objectives: 'Proporcionar aos alunos conhecimentos de natureza básica e aplicada
+    sobre as técnicas de produção das
+
+    principais plantas oleaginosas de ciclo anual, desenvolver o raciocínio crítico
+    quanto às tecnologias
+
+    atualmente disponíveis e capacitá-los no reconhecimento de problemas relacionados
+    à produção, ao manejo
+
+    do sistema de produção vegetal, com ênfase para as culturas de soja, amendoim
+    e girassol. Visa também
+
+    difundir a adoção e interpretação da nomenclatura técnica inerente aos agronegócios
+    das plantas oleaginosas.'
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209045755'
-digest: Y3MV5Q42JDOUBFHMRWI3KUTKOQ6OU3X5
-updated_at: '20231209045755'
-url: https://web.archive.org/web/20231209045755id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0506&codcur=11010&codhab=0
+created_at: '20240812041308'
+digest: ZMSVBREZLEPLSZICAUJ6XYLRGGGICDRJ
+updated_at: '20240812041308'
+url: https://web.archive.org/web/20240812041308id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0506&verdis=8
