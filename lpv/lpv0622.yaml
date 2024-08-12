@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2021
+  activation: 01/01/2024
   assessment: Não há recuperação
   bibliography: "\x95\tCASSERES, E.  Producción de Hortalizas.  San José, Inst.  Interamericano\
     \ de Coordenación para la Agricultura, 1984. 287p.\n\x95\tEPAMIG.  Mandioquinha\
@@ -26,10 +26,8 @@ courses:
     e Bulbos )
 
     Vegetable crops II (Root, Tubers, Rhizomes and Bulbs)'
-  deactivation: 31/12/2023
-  instructors: '3490181 - Fernando Angelo Piotto
-
-    1564961 - Paulo Cesar Tavares de Melo'
+  deactivation: ''
+  instructors: 3490181 - Fernando Angelo Piotto
   lecture_credits: '4'
   objectives: '· Contribuir para a formação do Engenheiro Agrônomo, dando informações
     teóricas e práticas, da produção de hortaliças de raízes, tubérculos, rizomas
@@ -43,7 +41,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209050246'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20231209051207'
-url: https://web.archive.org/web/20231209051207id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0622&codcur=11010&codhab=0
+created_at: '20240812045557'
+digest: KL6DNBUYATVCWR7KIKD7MFZLQDHXIZLX
+updated_at: '20240812045557'
+url: https://web.archive.org/web/20240812045557id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0622&verdis=6
