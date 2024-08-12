@@ -1,7 +1,55 @@
 courses:
-  activation: 01/01/2021
+  activation: 01/01/2024
   assessment: NÃO HÁ
-  bibliography: 'Periódicos:
+  bibliography: 'Literatura Básica:
+
+    ANTUNES, L. E. C.; HOFFMANN, A. (Org.). 500 perguntas, 500 respostas - Pequenas
+    Frutas. 1. ed.
+
+    Brasília: Embrapa, 2012. v. 1. 194p.
+
+    ASSIS, J.S.; LIMA FILHO, J.M.P. Aspectos fisiológicos da videira irrigada. In:
+    LEÃO, P.C.S., SOARES, J.M.
+
+    A viticultura no semi-árido brasileiro. Petrolina: EMBRAPA, 2000. cap. 7, p. 129-145.
+
+    BRUCKNER, C.; BORÉM, C. (Eds) Pêssego: do plantio à colheita. Viçosa, MG: Ed.
+    UFV, 2020, 207 p.
+
+    BRUCKNER, C.; BORÉM, C. (Eds) Maçã: do plantio à colheita. Viçosa, MG: Ed. UFV,
+    2022, 276p.
+
+    CHALFUN, N. N. J. A cultura da figueira. Lavras, MG: Ed. UFLA, 2012, 342 p.
+
+    MAYER, N.A.; UENO, B.; FISCHER, C.; MIGLIORINI, L.C. Propagação vegetativa de
+    frutíferas de caroço por
+
+    estacas herbáceas em escala comercial. Pelotas: Embrapa Clima Temperado, 2013.
+    55p. (Boletim de
+
+    Pesquisa e Desenvolvimento, 195).
+
+    PEREIRA, F. M.; NACHTIGAL, J. C.; ROBERTO, S. R. Tecnologia para a cultura do
+    pessegueiro em regiões
+
+    tropicais e subtropicais. Jaboticabal: Funep, 2002. 62p.
+
+    PEREIRA, F.M. Cultura do Caquizeiro. Jaboticabal: Funep. 1989. 71p.
+
+    PIO, R. Cultivo de fruteiras de clima temperado em regiões subtropicais e tropicais.
+    2ª Edição Revisada e
+
+    Ampliada. 2. ed. Lavras-MG: Editora UFLA, 2018. v. 1. 681p.
+
+    RUFATO, A. de R.; ANTUNES, L.E.C. Técnicas de produção de framboesa e mirtilo.
+    1. ed. Pelotas:
+
+    Embrapa Clima Temperado, 2016. v. 1. 90p.
+
+    TAIZ, L.; ZEIGER, E. Fisiologia Vegetal. 4.ed. Porto Alegre: Artmed, 2009. 848
+    p.
+
+    Periódicos:
 
     Revista Brasileira de Fruticultura
 
@@ -21,7 +69,7 @@ courses:
   course_name: 'LPV0642 - Fruticultura Temperada
 
     Temperate Fruit Crops'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: '2335244 - Marcel Bellato Sposito
 
     6738397 - Simone Rodrigues da Silva'
@@ -33,7 +81,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209045312'
-digest: UIE66376Q7ZRDO2K2QLOYXH5SQUWOGWS
-updated_at: '20231209050109'
-url: https://web.archive.org/web/20231209050109id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0642&codcur=11010&codhab=0
+created_at: '20240812041425'
+digest: 6LLWAVHCUJFF6XSHSUSBM6FQOFR4EPNB
+updated_at: '20240812041425'
+url: https://web.archive.org/web/20240812041425id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0642&verdis=6
