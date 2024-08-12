@@ -1,36 +1,53 @@
 courses:
-  activation: 01/01/2021
+  activation: 01/01/2024
   assessment: NÃO HÁ
-  bibliography: '• Agrianual 2017.- Anuário da Agricultura Brasileira. AgraFNP 432p.
+  bibliography: 'Literatura Básica:
 
-    • Anais dos Congressos da Sociedade Brasileira de Fruticultura de 1971 a 2006.
+    Agrianual online.- IEG FNP.
 
-    • DAVIES, F.S. & ALBRIGO, L.G.  Crop Production in Horticulture 2. Citrus. CAB
-    International. London. 254p. 1994.
+    DAVIES, F.S. & ALBRIGO, L.G. Crop Production in Horticulture 2. Citrus. CAB International.
+    London.
 
-    • Journal of the American Society for Horticultural Science
+    254p. 1994.
 
-    • HortScience
+    GIRARDI et al. Guia de reconhecimento dos citros em campo: um guia prático para
+    o reconhecimento
 
-    • MATTOS JUNIOR, D.; NEGRI, J.D.; PIO, R.M.; POMPEU JUNIOR, J. Citros 1ª ed. Campinas.
-    Centro Apta Citros “Sylvio Moreira”, 2005, v.1, 929p.
+    em campo de variedades de laranjeira-doce e outras espécies de citros cultivadas
+    no estado de São
 
-    • MARTINS, D.S. Papaya Brasil: mercado e inovações tecnológicas para o mamão.
-    Vitória, ES: Incaper, 2005, 666p.
+    Paulo e Triângulo Mineiro / Araraquara : Fundecitrus, 2021.158 p. : il. color.
 
-    • MARTINS, D.S.; COSTA, A.F.S. A cultura do mamoeiro: tecnologia de produção.
-    Vitória, ES: Incaper, 2003, 497p.
+    Journal of the American Society for Horticultural Science
 
-    • NAKASONE, H.Y. & PAULL, R.E.  Tropical Fruits.  CAB International.  1998. 445
-    p.
+    HortScience
 
-    • NEVES, M.F. O retrato da Citricultura Brasileira. Markstrat.2010.137p.
+    MATTOS JUNIOR, D.; NEGRI, J.D.; PIO, R.M.; POMPEU JUNIOR, J. Citros 1ª ed. Campinas.
+    Centro
 
-    • Revista Brasileira de Fruticultura
+    Apta Citros “Sylvio Moreira”, 2005, v.1, 929p.
 
-    • Pesquisa Agropecuária Brasileira
+    MARTINS, D.S. Papaya Brasil: mercado e inovações tecnológicas para o mamão. Vitória,
+    ES: Incaper,
 
-    • Scientia Horticulturae'
+    2005, 666p.
+
+    MARTINS, D.S.; COSTA, A.F.S. A cultura do mamoeiro: tecnologia de produção. Vitória,
+    ES: Incaper,
+
+    2003, 497p.
+
+    NAKASONE, H.Y. & PAULL, R.E. Tropical Fruits. CAB International. 1998. 445 p.
+
+    NEVES, M.F. O retrato da Citricultura Brasileira. Markstrat. 2010.137p.
+
+    Revista Brasileira de Fruticultura
+
+    Pesquisa Agropecuária Brasileira
+
+    Scientia Horticulturae
+
+    Talon et al. The Genus Citrus. Woodhead Publishing. Elsevier. 538 p. 2020.'
   course: 'TEÓRICO: A disciplina aborda as seguintes culturas frutíferas: abacaxi,
     manga, citros, mamão.  Para cada uma dessas culturas, os seguintes tópicos serão
     estudados: Importância econômica, alimentar e social; Classificação botânica e
@@ -43,7 +60,7 @@ courses:
   course_name: 'LPV0661 - Fruticultura Tropical e Subtropical
 
     Tropical and Subtropical Fruit Crops'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: 63258 - Francisco de Assis Alves Mourao Filho
   lecture_credits: '4'
   objectives: 'Dar ao aluno condições para:
@@ -55,7 +72,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209045640'
-digest: BNVWQJIRYGSLQR6P6WLRK6EKN5G5KVWS
-updated_at: '20231209045829'
-url: https://web.archive.org/web/20231209045829id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0661&codcur=11010&codhab=0
+created_at: '20240812052453'
+digest: QCG5IO4HRQACQRBPS57LGW6P27F44P24
+updated_at: '20240812052453'
+url: https://web.archive.org/web/20240812052453id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0661&verdis=8
