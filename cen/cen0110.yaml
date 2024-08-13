@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2017
+  activation: 01/01/2024
   assessment: Será efetuada uma prova final abordando todo o conteúdo.
   bibliography: 'BÁSICA:
 
@@ -33,38 +33,24 @@ courses:
     1996.
 
     COMPLEMENTAR: artigos científicos'
-  course: 'I. Introdução
+  course: 'I Introdução I.1. Ecossistemas: histórico, conceitos. I.2. Principais tipos
+    de ecossistemas naturais, ecossistemas brasileiros (biomas). II. Estrutura e Dinâmica
+    dos Ecossistemas II1. Termodinâmica. Fluxos de energia. II2. Níveis tróficos,
+    cadeia alimentar, teia alimentar. Pirâmides ecológicas, espécies chaves. II.3.
+    Produção primária e secundária, decomposição. II.4. Ciclos Biogeoquímicos. II.5.
+    Sucessão Ecológica, fases sucessionais, sucessão primária e secundária. II.6 Clímax
+    e equilíbrio, mecanismos homeostáticos. III. Aspectos Aplicados III.1. Interferência
+    antrópica: ecossistemas urbanos e agrícolas, poluição, mudanças climáticas globais.
+    III.2. Manejo e conservação de ecossistemas. Restauração de ecossistemas degradado
 
-    I.1. Ecossistemas: histórico, conceitos.
-
-    I.2. Principais tipos de ecossistemas naturais, ecossistemas brasileiros (biomas).
-
-    II. Estrutura e Dinâmica dos Ecossistemas
-
-    II1. Termodinâmica. Fluxos de energia.
-
-    II2. Níveis tróficos, cadeia alimentar, teia alimentar. Pirâmides ecológicas,
-    espécies chaves.
-
-    II.3. Produção primária e secundária, decomposição.
-
-    II.4. Ciclos Biogeoquímicos.
-
-    II.5. Sucessão Ecológica, fases sucessionais, sucessão primária e secundária.
-
-    II.6 Clímax e equilíbrio, mecanismos homeostáticos.
-
-    III. Aspectos Aplicados
-
-    III.1. Interferência antrópica: ecossistemas urbanos e agrícolas, poluição, mudanças
-    climáticas globais.
-
-    III.2. Manejo e conservação de ecossistemas. Restauração de ecossistemas degradados.'
+    IV Soluções baseado na natureza'
   course_name: 'CEN0110 - Ecologia de Ecossistemas
 
     Ecosystems Ecology'
   deactivation: ''
-  instructors: '2084356 - Luiz Antonio Martinelli
+  instructors: '3296945 - Giuliano Maselli Locosselli
+
+    2084356 - Luiz Antonio Martinelli
 
     54115 - Plinio Barbosa de Camargo'
   lecture_credits: '4'
@@ -87,8 +73,8 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20230604133730'
-digest: AXZ2WKBDBJR4W65FJEXF6NC62R7NES7F
+created_at: '20240813174734'
+digest: OMF2OQJYNVHO3PQIG3PP7AHBHHGSCOHT
 requirements:
 - course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 2'
   requirements:
@@ -101,5 +87,5 @@ requirements:
   - code: LCF0104
     name: Ecologia Aplicada
     type: Requisito
-updated_at: '20230925054234'
-url: https://web.archive.org/web/20230925054234id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0110&codcur=11070&codhab=104
+updated_at: '20240813174734'
+url: https://web.archive.org/web/20240813174734id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0110&codcur=11070&codhab=104
