@@ -69,7 +69,13 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209045715'
-digest: KNLIOQLCRMULQUEVATCBF764OHFQXTZ7
-updated_at: '20240812050836'
-url: https://web.archive.org/web/20240812050836id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LPV0448&verdis=5
+created_at: '20240918084230'
+digest: SFLKPVXS6G77XIVCKRBNLACQUDPSOFDL
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 5'
+  requirements:
+  - code: LCB0311
+    name: Fisiologia Vegetal
+    type: Requisito
+updated_at: '20240918084230'
+url: https://web.archive.org/web/20240918084230id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LPV0448
