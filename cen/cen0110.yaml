@@ -74,7 +74,7 @@ courses:
   total_workload: 90 h
   type: Semestral
 created_at: '20240813174734'
-digest: OMF2OQJYNVHO3PQIG3PP7AHBHHGSCOHT
+digest: 34GELJN43QJPHN2YOAT2OR6SIBAAACXO
 requirements:
 - course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 2'
   requirements:
@@ -87,5 +87,5 @@ requirements:
   - code: LCF0104
     name: Ecologia Aplicada
     type: Requisito
-updated_at: '20240813174734'
-url: https://web.archive.org/web/20240813174734id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0110&codcur=11070&codhab=104
+updated_at: '20241005213348'
+url: https://web.archive.org/web/20241005213348id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=CEN0110
