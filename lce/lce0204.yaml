@@ -35,7 +35,7 @@ courses:
   course_name: 'LCE0204 - Bioestatística
 
     Biostatistics'
-  deactivation: ''
+  deactivation: 31/12/2024
   instructors: '2769022 - Clarice Garcia Borges Demetrio
 
     5542817 - Cristian Marcelo Villegas Lobos
@@ -63,8 +63,8 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20230604125750'
-digest: LOO7KJGWFQMPQD3D3RL4KONPHC4VPIAW
+created_at: '20241014144544'
+digest: NKUTJL6Y6BLIILTCNUAVVF3NTU6OZCKN
 requirements:
 - course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 4'
   requirements:
@@ -77,5 +77,5 @@ requirements:
   - code: LCE0130
     name: Cálculo Diferencial e Integral
     type: Requisito
-updated_at: '20231202141001'
-url: https://web.archive.org/web/20231202141001id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LCE0204
+updated_at: '20241014144544'
+url: https://web.archive.org/web/20241014144544id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LCE0204
