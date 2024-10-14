@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2020
+  activation: 01/01/2024
   assessment: Prova dissertativa incluindo toda a matéria lecionada no semestre.
   bibliography: 'DÂNGELO, J. G. & FATTINI, C. A. 1986. Anatomia Humana Básica. Ed.
     Atheneu, RJ, 200 p.
@@ -57,7 +57,7 @@ courses:
   course_name: 'LZT0407 - Anatomia e Fisiologia de Vertebrados II
 
     Anatomy and Physiology of Vertebrates'
-  deactivation: 31/12/2023
+  deactivation: ''
   instructors: '3389521 - Eduardo Francisquine Delgado
 
     5735072 - Roberto Sartori Filho'
@@ -69,7 +69,7 @@ courses:
   practical_credits: '3'
   total_workload: 120 h
   type: Semestral
-created_at: '20230929231149'
-digest: KPLURTWOXFX3OPH4L7JL3C55XMGU5AD7
-updated_at: '20230929231149'
-url: https://web.archive.org/web/20230929231149id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0407&codcur=11070&codhab=4
+created_at: '20241014141614'
+digest: ZXFZANH2SCANXNFELWREVZFRHF6BPNGC
+updated_at: '20241014141614'
+url: https://web.archive.org/web/20241014141614id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LZT0407&codcur=11070&codhab=4
