@@ -82,7 +82,44 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220120225441'
-digest: UEVMSQCANVYHCQKBHBOYENQEF4F4IICC
-updated_at: '20240428084024'
-url: https://web.archive.org/web/20240428084024id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0480&codcur=12033&codhab=4
+created_at: '20241015055637'
+digest: HDW26SXDNIFIWQTUO2YLS2FO7TOOZ2WG
+requirements:
+- course: 'Curso: 12033  Bacharelado em Ciências Contábeis (diurno) - Período ideal:
+    2'
+  requirements:
+  - code: EAC0106
+    name: Contabilidade Introdutória
+    type: Requisito fraco
+- course: 'Curso: 12033  Bacharelado em Ciências Contábeis (noturno) - Período ideal:
+    2'
+  requirements:
+  - code: EAC0106
+    name: Contabilidade Introdutória
+    type: Requisito fraco
+- course: 'Curso: 12051  Bacharelado em Ciências Econômicas (integral) - Período ideal:
+    2'
+  requirements:
+  - code: EAC0111
+    name: Fundamentos de Contabilidade
+    type: Requisito fraco
+- course: 'Curso: 12051  Bacharelado em Ciências Econômicas (noturno) - Período ideal:
+    2'
+  requirements:
+  - code: EAC0111
+    name: Fundamentos de Contabilidade
+    type: Requisito fraco
+- course: 'Curso: 12052  Bacharelado em Ciências Econômicas (integral) - Período ideal:
+    2'
+  requirements:
+  - code: EAC0111
+    name: Fundamentos de Contabilidade
+    type: Requisito fraco
+- course: 'Curso: 12052  Bacharelado em Ciências Econômicas (noturno) - Período ideal:
+    2'
+  requirements:
+  - code: EAC0111
+    name: Fundamentos de Contabilidade
+    type: Requisito fraco
+updated_at: '20241015055637'
+url: https://web.archive.org/web/20241015055637id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAC0480
