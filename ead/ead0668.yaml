@@ -69,7 +69,19 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20230922010648'
-digest: BMWSGZYEAMVMLKO7OB3T6THDXN36EYJB
-updated_at: '20230922010648'
-url: https://web.archive.org/web/20230922010648id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0668&codcur=12012&codhab=1
+created_at: '20241015071244'
+digest: LRRXHK4N33PUBYIRCV4NIDGB542ALM2M
+requirements:
+- course: 'Curso: 12012  Bacharelado em Administração (integral) - Período ideal:
+    5'
+  requirements:
+  - code: EAD0767
+    name: Gestão de Operações
+    type: Requisito fraco
+- course: 'Curso: 12012  Bacharelado em Administração (noturno) - Período ideal: 6'
+  requirements:
+  - code: EAD0767
+    name: Gestão de Operações
+    type: Requisito fraco
+updated_at: '20241015071244'
+url: https://web.archive.org/web/20241015071244id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAD0668
