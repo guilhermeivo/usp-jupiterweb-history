@@ -68,7 +68,18 @@ courses:
   practical_credits: '1'
   total_workload: 75 h
   type: Semestral
-created_at: '20220419195019'
-digest: YPMVT6KINHRNNUPOBYJYTUWCA7YSGYRQ
-updated_at: '20240913141004'
-url: https://web.archive.org/web/20240913141004id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CEN0628&codcur=11070&codhab=4
+created_at: '20241015061433'
+digest: 7GNQOP4J5G3BWDIYVDN777I4ROJS623L
+requirements:
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 7'
+  requirements:
+  - code: LCB0217
+    name: Ecologia de Comunidades
+    type: Requisito
+- course: 'Curso: 11080  Gestão Ambiental (noturno) - Período ideal: 7'
+  requirements:
+  - code: CEN0148
+    name: Ecologia de Sistemas
+    type: Requisito
+updated_at: '20241015061433'
+url: https://web.archive.org/web/20241015061433id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=CEN0628
