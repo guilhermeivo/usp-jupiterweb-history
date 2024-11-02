@@ -52,14 +52,27 @@ courses:
   deactivation: ''
   instructors: 3493538 - Eduardo Donizeti Girotto
   lecture_credits: '4'
-  objectives: 1. Discutir concepções de educação e escola, bem como suas implicações
-    no processo de formação docente e na Educação Geográfica. 2. Analisar as diferentes
-    dimensões que envolvem a formação e o trabalho do professor de geografia no mundo
-    contemporâneo. 3. Compreender as mudanças e continuidades no processo de formação
-    docente em diferentes períodos históricos, com ênfase na relação entre a Geografia
-    Escolar e a Geografia Acadêmica mediada pelo processo de estágio supervisionado.
-    4. Produzir e refletir sobre o uso de materiais e recursos didáticos na Educação
-    Geográfica.
+  objectives: 'da atividade
+
+    - Produção de materiais didáticos para o ensino de Geografia
+
+    Descrição da atividade
+
+    - Levantamento de demandas sobre conteúdos de geografia na educação
+
+    básica.
+
+    - Elaboração de materiais audiovisuais sobre conteúdos de geografia para a
+
+    educação básica.
+
+    - Divulgação dos materiais em portfólio eletrônico.
+
+    Indicadores de avaliação da atividade
+
+    - Questionário de avaliação online à comunidade externa com o intuito de
+
+    avaliar a pertinência dos materiais produzidos.'
   practical_credits: '4'
   total_workload: '180 h
 
@@ -67,9 +80,13 @@ courses:
 
     Estágio: 100 h
 
-    )'
+    )
+
+    Carga Horária de Extensão:
+
+    120 h'
   type: Semestral
-created_at: '20240811051903'
-digest: INGXCPEEBJ44VH2VHM7JCAXLBHVEFKDJ
-updated_at: '20240811051903'
-url: https://web.archive.org/web/20240811051903id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FLG0702&codcur=8021&codhab=200
+created_at: '20241102235131'
+digest: 62TXCD7DQS53RKZHAQGNJC4IAFO6SQ2C
+updated_at: '20241102235131'
+url: https://web.archive.org/web/20241102235131id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=FLG0702&codcur=8021&codhab=200
