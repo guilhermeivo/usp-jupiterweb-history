@@ -132,7 +132,7 @@ courses:
   total_workload: 60 h
   type: Semestral
 created_at: '20241015051817'
-digest: 4HM7I52RFWBEG7TI7P7SFRDN775QTAMI
+digest: A77RYF2WLX74EHIVCQT3Y2SR26AUDZS5
 requirements:
 - course: 'Curso: 12012  Bacharelado em Administração (integral) - Período ideal:
     4'
@@ -145,5 +145,5 @@ requirements:
   - code: EAD0627
     name: Organizações e Sociedade
     type: Requisito fraco
-updated_at: '20241015051817'
-url: https://web.archive.org/web/20241015051817id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAD0622
+updated_at: '20241105065427'
+url: https://web.archive.org/web/20241105065427id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0622
