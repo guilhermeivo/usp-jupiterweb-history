@@ -139,7 +139,7 @@ courses:
   total_workload: 60 h
   type: Semestral
 created_at: '20240815144256'
-digest: ZPN3L727CTT4L726S32WVMFM2VYTXXKZ
+digest: AB2DWZZ47VQQZWIA7LBAPDGOEJNKYPNR
 requirements:
 - course: 'Curso: 12033  Bacharelado em Ciências Contábeis (diurno) - Período ideal:
     5'
@@ -153,5 +153,5 @@ requirements:
   - code: EAC0481
     name: Contabilidade Intermediária II
     type: Requisito fraco
-updated_at: '20240815144256'
-url: https://web.archive.org/web/20240815144256id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAC0401
+updated_at: '20241110094235'
+url: https://web.archive.org/web/20241110094235id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0401&codcur=12033&codhab=4
