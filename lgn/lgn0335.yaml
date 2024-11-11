@@ -58,7 +58,7 @@ courses:
   course_name: 'LGN0335 - Evolução
 
     Evolution and Population Ecology'
-  deactivation: ''
+  deactivation: 31/12/2024
   instructors: 60641 - Giancarlo Conde Xavier Oliveira
   lecture_credits: '4'
   objectives: A disciplina Evolução concentra-se nos mecanismos básicos de microevolução
@@ -72,8 +72,8 @@ courses:
   practical_credits: '2'
   total_workload: 120 h
   type: Semestral
-created_at: '20230529160105'
-digest: Z6MTAN3OCKL4GXTFHCC4EBOQDV7EUEDB
+created_at: '20241111212829'
+digest: XKX67JJKPNZVS6RNGHP2VRNBPTQAMNSE
 requirements:
 - course: 'Curso: 11061  Ciências dos Alimentos (noturno) - Período ideal: 8'
   requirements:
@@ -98,5 +98,5 @@ requirements:
   - code: LFN0233
     name: Zoologia e Ambiente
     type: Requisito
-updated_at: '20230922090104'
-url: https://web.archive.org/web/20230922090104id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0335&codcur=11070&codhab=4
+updated_at: '20241111212829'
+url: https://web.archive.org/web/20241111212829id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LGN0335
