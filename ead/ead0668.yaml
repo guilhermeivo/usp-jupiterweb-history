@@ -70,7 +70,7 @@ courses:
   total_workload: 60 h
   type: Semestral
 created_at: '20241015071244'
-digest: LRRXHK4N33PUBYIRCV4NIDGB542ALM2M
+digest: YUIETEOK44LWTUFKQLV74SGCIX4LXDVX
 requirements:
 - course: 'Curso: 12012  Bacharelado em Administração (integral) - Período ideal:
     5'
@@ -83,5 +83,5 @@ requirements:
   - code: EAD0767
     name: Gestão de Operações
     type: Requisito fraco
-updated_at: '20241015071244'
-url: https://web.archive.org/web/20241015071244id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAD0668
+updated_at: '20241111203249'
+url: https://web.archive.org/web/20241111203249id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0668
