@@ -44,7 +44,23 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20241014135636'
-digest: HVXZPEHVWI32X5VCAER4S64LPX56NPCE
-updated_at: '20241014135636'
-url: https://web.archive.org/web/20241014135636id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEA0444&codcur=11070&codhab=4
+created_at: '20241111194939'
+digest: TXMOXOEJU7LIVLCTTIKQO26NZUV6T7EB
+requirements:
+- course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 7'
+  requirements:
+  - code: LEA0430
+    name: Pragas das Plantas Cultivadas
+    type: Requisito
+- course: 'Curso: 11020  Engenharia Florestal (integral) - Período ideal: 5'
+  requirements:
+  - code: LEA0221
+    name: Entomologia Florestal
+    type: Requisito
+- course: 'Curso: 11070  Ciências Biológicas (noturno) - Período ideal: 7'
+  requirements:
+  - code: LEA0200
+    name: Zoologia de Invertebrados II
+    type: Requisito
+updated_at: '20241111194939'
+url: https://web.archive.org/web/20241111194939id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=LEA0444
