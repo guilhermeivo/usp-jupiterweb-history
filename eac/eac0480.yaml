@@ -50,7 +50,7 @@ courses:
   course_name: 'EAC0480 - Contabilidade Intermediária I
 
     Intermediate Accounting I'
-  deactivation: ''
+  deactivation: 31/12/2024
   instructors: '2209375 - Bruno Meirelles Salotti
 
     5859588 - Fernando Dal-Ri Murcia
@@ -82,8 +82,8 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20241015055637'
-digest: HDW26SXDNIFIWQTUO2YLS2FO7TOOZ2WG
+created_at: '20241111213409'
+digest: JI4FKFJLR7SS4D75IQVWIARKB4GRMSLG
 requirements:
 - course: 'Curso: 12033  Bacharelado em Ciências Contábeis (diurno) - Período ideal:
     2'
@@ -121,5 +121,5 @@ requirements:
   - code: EAC0111
     name: Fundamentos de Contabilidade
     type: Requisito fraco
-updated_at: '20241015055637'
-url: https://web.archive.org/web/20241015055637id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAC0480
+updated_at: '20241111213409'
+url: https://web.archive.org/web/20241111213409id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0480
