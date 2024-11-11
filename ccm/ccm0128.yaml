@@ -23,7 +23,7 @@ courses:
   course_name: 'CCM0128 - Computação II
 
     Computer Science II'
-  deactivation: ''
+  deactivation: 31/12/2024
   instructors: '3180800 - André Fujita
 
     91288 - Carlos Eduardo Ferreira
@@ -57,7 +57,7 @@ courses:
     ADTs: stacks, queues, priority queues and symbol tables.  Basic data structures:
     linked lists, search trees and hashing.  Examples involving text processing; search
     in graphs; interdisciplinary applications.  Extensive programming practice.'
-created_at: '20230601090903'
-digest: YWF5ZGEUACGYTZY4RYS7WQSOIF2NOC3N
-updated_at: '20231210135819'
-url: https://web.archive.org/web/20231210135819id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0128
+created_at: '20241111105915'
+digest: BDVW6SHUBPRNREM3RGY3MVVCHAH4BIL2
+updated_at: '20241111105915'
+url: https://web.archive.org/web/20241111105915id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0128
