@@ -169,7 +169,19 @@ courses:
     Brazilian culture
 
     Implications for the organization'
-created_at: '20230922005839'
-digest: X7A2PNA7HW6IMIB4TAIV4IMQZITT4JA7
-updated_at: '20230922005839'
-url: https://web.archive.org/web/20230922005839id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0624&codcur=12012&codhab=1
+created_at: '20241112090539'
+digest: BBZSY3QSTUUSL7QNXQNZM6TVY2TL5FWE
+requirements:
+- course: 'Curso: 12012  Bacharelado em Administração (integral) - Período ideal:
+    6'
+  requirements:
+  - code: EAD0622
+    name: Gestão de Pessoas
+    type: Requisito fraco
+- course: 'Curso: 12012  Bacharelado em Administração (noturno) - Período ideal: 6'
+  requirements:
+  - code: EAD0622
+    name: Gestão de Pessoas
+    type: Requisito fraco
+updated_at: '20241112090539'
+url: https://web.archive.org/web/20241112090539id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAD0624
