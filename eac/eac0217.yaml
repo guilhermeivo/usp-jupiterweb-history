@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2022
+  activation: 15/07/2023
   assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
     na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
     que 5,0 (cinco) e frequência igual ou superior a 70%.
@@ -9,8 +9,13 @@ courses:
     a 5,0 (cinco).'
   bibliography: 'BIBLIOGRAFIA PRINCIPAL:
 
-    ASSAF NETO, A. Matemática financeira e suas aplicações. 12. ed. São Paulo: Atlas,
-    2012.
+    ASSAF NETO, A. Matemática financeira e suas aplicações. 15. ed. São Paulo: Atlas,
+    2022.
+
+    SAMANEZ, C. P. Matemática Financeira: aplicações à análise de investimentos. 5.
+    ed. São Paulo: Pearson Education do Brasil, 2010.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
 
     BUENO, R. L. S., RANGEL, A. S., SANTOS, J. C. S. (2011). Matemática Financeira
     Moderna.  São Paulo: Cengage.
@@ -20,11 +25,6 @@ courses:
 
     CASAROTTO FILHO, N.; KOPITTKE, B. H. Análise de Investimentos. 10. ed. São Paulo:
     Atlas, 2010.
-
-    SAMANEZ, C. P. Matemática Financeira: aplicações à análise de investimentos. 5.
-    ed. São Paulo: Pearson Education do Brasil, 2010.
-
-    BIBLIOGRAFIA COMPLEMENTAR:
 
     EHRLICH, P. J. Engenharia Econômica. 6. ed. São Paulo: Atlas, 2005.
 
@@ -112,12 +112,12 @@ courses:
   course_name: 'EAC0217 - Matemática Financeira
 
     Financial Mathematics'
-  deactivation: ''
-  instructors: '8760796 - Ana Carolina Maia
-
-    8476037 - Eduardo da Silva Flores
+  deactivation: 31/12/2024
+  instructors: '8476037 - Eduardo da Silva Flores
 
     65625 - Joao Domiraci Paccez
+
+    5918868 - Samantha Valentim Telles
 
     3696531 - Tatiana Albanez'
   lecture_credits: '4'
@@ -156,12 +156,12 @@ courses:
     taxas que igualem tais fluxos; e
 
     7. Calcular métricas de análise de investimentos em ativos financeiros como: (a)
-    payback; (b) valor presente líquido, dentre outras possibilidades de avaliação
+    payback; (TIR); (b) valor presente líquido, dentre outras possibilidades de avaliação
     de projetos.'
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220128233308'
-digest: SB5H7VSYR6ICFO5BORYMKAYGEI55EHVY
-updated_at: '20220128233308'
-url: https://web.archive.org/web/20220128233308id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0217&codcur=12033&codhab=4
+created_at: '20241114083156'
+digest: Y2L3NVZ7ZTA5Q3WMAKRGQR6KM63C276P
+updated_at: '20241114083156'
+url: https://web.archive.org/web/20241114083156id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0217&codcur=12033&codhab=4
