@@ -1,0 +1,176 @@
+courses:
+  activation: 01/01/2025
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    MOUGAYAR, W. Blockchain para negócios: promessas, práticas e aplicações da nova
+    tecnologia da Internet. Rio de Janeiro: Alta Books, 2017.
+
+    NARAYANAN, A; BONNEAU, J.; FELTEN, E.; MILLER, A.; GOLDFEDER, S. Bitcoin and Cryptocurrency
+    Technologies: A Comprehensive Introduction. Princeton University Press.
+
+    NAKAMOTO, Satoshi. Bitcoin: a peer-to-peer electronic cash system. 2008. Disponível
+    em: < https://bitcoin.org/bitcoin.pdf>. Acesso em Abril 2024.
+
+    DE CARVALHO UHDRE, Dayana. Blockchain, tokens e criptomoedas: análise jurídica.
+    São Paulo: Almedina Brasil, 2021.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    SWAN, Melanie. Blockchain: blueprint for a new economy. Sebastopol: O’Rilley Media
+    Inc., 2015.
+
+    CASINO, Fran; DASAKLIS, Thomas K.; PATSAKIS, Constantinos. A systematic literature
+    review of blockchain-based applications: Current status, classification and open
+    issues. Telematics and informatics, v. 36, p. 55-81, 2019.
+
+    CAMPBELL-VERDUYN, Malcolm. Bitcoin and beyond: Cryptocurrencies, blockchains and
+    global governance. Taylor & Francis, 2017.'
+  course: '1. Fundamentos da tecnologia Blockchain
+
+    1.1 Contexto: crise de 2018 e o movimento cypherpunk
+
+    1.2 Distributed Ledger Technology (DLT)
+
+    1.3 Redes P2P (Peer-to-Peer)
+
+    1.4 Introdução à Criptografia, Hash, Assinatura Digital e Time-Stamp
+
+    1.5 Registro de transações, Protocolos de consenso e regras de validação
+
+    1.6 Funcionamento e características da tecnologia blockchain (imutabilidade, transparência,
+    accountability, segurança, descentralização, confiabilidade)
+
+    2. Governança e Arquitetura de Blockchain
+
+    2.1 Aspectos de governança de blockchain
+
+    2.2 Arquitetura de Blockchain: Public, Private, Permissioned blockchain;
+
+    2.3 Exemplos de aplicações e suas características em termos de governança e arquitetura
+
+    3. Criptomoedas, Criptoativos e Tokens
+
+    3.1 Contexto Histórico:  evolução e características das moedas digitais.
+
+    3.2 O papel do dinheiro e o desafio do double-spending.
+
+    3.3 Fundamentos das Criptomoedas: requisitos, características e os tipos de criptomoedas.
+
+    3.3.1 Caso do Bitcoin: funcionamento, características, mineração, oportunidades,
+    limitações e riscos.
+
+    3.3.2 Cenário das Altcoins no Brasil e no mundo.
+
+    3.3.4 Central Bank Digital Currencies (CDBCs): fundamentos e exemplos de aplicações.
+
+    3.4 Ativos Digitais e suas aplicações
+
+    3.5 Tokens e variedade de tokens
+
+    3.6 Tendências e Aplicações de Criptomoedas, Criptoativos e Tokens.
+
+    4. Smart Contracts
+
+    4.1 Definição, características princípios de funcionamento.
+
+    4.2 Caso da plataforma Ethereum
+
+    4.3 Linguagens de programação para Smart Contracts
+
+    4.4 Análise de implementações de Smart Contracts
+
+    5. Ecossistema de Finanças Decentralizadas (DeFI)
+
+    5.1 Introdução a Web 3.0
+
+    5.2 Princípios de Finanças Decentralizadas;
+
+    5.3 Decentralized aplications (DApps) e Decentralized Autonomous Organization
+    (DAO).
+
+    5.4 Oportunidades, Desafios e Tendências Futuras.
+
+    6. Inovações baseadas em Blockchain para Contabilidade
+
+    6.1 Potenciais aplicações do blockchain nas práticas contábeis.
+
+    6.2 Potencial da tecnologia Blockchain em Auditoria.
+
+    7. Inovações baseadas Blockchain em Finanças
+
+    7.1 Aplicações do Blockchain em finanças: Plataformas de pagamento e transferências
+    internacionais, CriptoExchanges, ICO (Initial Coin Offering), plataformas de empréstimo
+    P2P, Crowdfunding, Seguros e outras tendências e aplicações atuais.
+
+    8. Aplicações de Blockchain em organizações públicas e privadas
+
+    8.1 Tendências, Oportunidades e Desafios da aplicação da aplicação de Blockchain
+    nas empresas.
+
+    8.2 Tendências, Oportunidades e Desafios da aplicação da aplicação de Blockchain
+    em governos e instituições públicas.
+
+    9. Desafios regulatórios e aspectos éticos no uso de Blockchain
+
+    9.1 Natureza jurídica das criptomoedas e criptoativos.
+
+    9.2 Normativas, regulamentações e orientações do BACEN, CVM, IASB, CFC e FASB
+
+    9.3 Recomendações de Organizações Internacionais'
+  course_name: 'EAC0613 - Aplicações de Blockchain em Contabilidade e Finanças
+
+    Blockchain Applications in Accountability and Finance'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    Este curso tem como objetivo proporcionar aos estudantes uma visão sobre as características
+    da tecnologia Blockchain e as diversas aplicações na área de negócios. Para além
+    das características que constituem essa tecnologia, a disciplina explora aspectos
+    relacionados à arquitetura e governança de blockchain, aborda os fundamentos e
+    a variedade das criptomoedas, criptoativos e tokens. O curso também realiza uma
+    introdução ao DeFI (Finanças Decentralizadas), as inovações baseadas em Blockchain
+    e seu papel de transformação nas práticas das áreas de Contabilidade e Finanças
+    e, por fim, discute os desafios regulação dessas inovações.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    A disciplina oferece uma visão ampla das características da tecnologia Blockchain
+    o seu potencial inovador para aplicações em negócios, com destaque para as áreas
+    de Contabilidade e Finanças. Ao final do curso, espera-se que os discentes estejam
+    aptos a:
+
+    1. Reconhecer e descrever os princípios básicos da tecnologia blockchain, bem
+    como sua lógica de funcionamento.
+
+    2. Identificar as diferentes aplicações de blockchain com base em suas características
+    de governança e arquitetura tecnológica.
+
+    3. Comparar e classificar as diferentes iniciativas de criptomoedas, criptoativos
+    e tokens com base em suas características e requisitos de aplicação.
+
+    4. Descrever os fundamentos de Smart Contracts e avaliar os potenciais benefícios
+    e desafios inerentes a sua adoção.
+
+    5. Reconhecer as características do ecossistema de DeFI, bem como identificar
+    os riscos e benefícios associados.
+
+    6. Avaliar e descrever o impacto das inovações baseadas em blockchain nas práticas
+    das áreas de contabilidade e finanças.
+
+    7. Desenvolver uma compreensão crítica dos aspectos éticos e regulatórios na adoção
+    de inovações baseada em blockchain.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241114075512'
+digest: M47FYI4RNWHGUM7AWMW3HWL2KHTA3ON2
+updated_at: '20241114075512'
+url: https://web.archive.org/web/20241114075512id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0613&codcur=12033&codhab=4
