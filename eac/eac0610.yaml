@@ -1,0 +1,170 @@
+courses:
+  activation: 01/01/2025
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    BEHRMAN, K. R. Fundamentos de Python para Ciência de Dados. Porto Alegre: Bookman,
+    2023.
+
+    BORGES, P. Python para Desenvolvedores. 2° ed. Rio de Janeiro: Editora do autor,
+    2010
+
+    CAETANO, M. A. L. Python e Mercado Financeiro: Programação para estudantes, investidores
+    e analistas. São Paulo: Blucher, 2021
+
+    CARVALHO, A.C.P.L.D; MENEZES, A.G.; BONIDIA, R. P. Ciência de Dados: Fundamentos
+    e Aplicações. Rio de Janeiro: LTC, 2024.
+
+    VASILIEV, Y. Python para Ciência de Dados: Uma Introdução Prática. São Paulo:
+    Novatec Editora, 2023
+
+    NIELD, T. Introdução à linguagem SQL: abordagem prática para iniciantes. São Paulo:
+    Novatec Editora,2016
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    MEYER, C. Should accounting students learn to code? 2015. Disponível em: https://us.aicpa.org/interestareas/accountingeducation/newsandpublications/should-accounting-students-code
+
+    SWAROOP, C. H. (2016). A byte of Python. 2016. Disponível em: https://python.swaroopch.com/
+    FORD, P. What is code? Blomberg, 2015. Disponível em: http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code'
+  course: '1 Introdução à programação no contexto de negócios
+
+    1.1 Competência de programação para profissionais de negócio: economia do conhecimento,
+    desafios de decisão, relevância da codificação, ofertas de emprego, futuros do
+    negócio.
+
+    1.2 Resolução de problemas, decisões estruturadas/não estruturadas, dados e análise.
+
+    2 Introdução ao Python e ambientes de desenvolvimento
+
+    2.1 Contexto das linguagens de programação
+
+    2.2 Lógica de programação
+
+    2.3 Compiladores e Interpretadores.
+
+    2.4 Introdução ao Python
+
+    2.5 Ambientes de desenvolvimento em Python (PyCharm,Pythonist, VSCode, PyDev)
+
+    2.6.1 Python no ambiente notebook: Jupiter Notebook e Google Colab
+
+    3 Variáveis, Tipos de Dados e Operadores e Expressões
+
+    3.1 Comandos iniciais
+
+    3.2 Variáveis e tipos de básicos de variáveis
+
+    3.3 Atribuição de valores
+
+    3.4 Operadores Aritméticos e Lógicos
+
+    3.5 Operações em texto (Strings)
+
+    3.6 Entrada e apresentação de dados.
+
+    4 Expressões Condicionais e de repetição
+
+    4.1 Condicionais: If, else, Elif
+
+    4.2 Características da estrutura de repetição (Laço / Loop)
+
+    4.2.1 Comando For
+
+    4.2.2 Comando While
+
+    5. Estrutura de dados
+
+    6.1 Lista
+
+    6.2 Tupla
+
+    6.3 Conjunto
+
+    6.4 Dicionário
+
+    7. Funções
+
+    7.1 Definição
+
+    7.2 Parâmetros, declarações, retornos
+
+    8. Introdução ao uso de bibliotecas para Ciência de Dados
+
+    8.1 Contexto da Ciência de Dados e o papel das bibliotecas
+
+    8.2 Biblioteca Pandas
+
+    8.3 Bibliotecas Seaborn e Matplotlib (Vizualização de dados)
+
+    8.4 Bibliotecas Numpy e Scypy
+
+    8.5 Biblioteca Scikit-Learn
+
+    9. Princípios de Bancos de Dados e Linguagem SQL
+
+    9.1 Conceitos elementares de banco de dados: objetos, atributos, chaves
+
+    9.2 Banco de Dados relacionais e Sistemas de Gerenciamento de Banco de Dados (SGBDs)
+
+    9.3 Linguagem SQL para manipulação, edição e consulta de dados'
+  course_name: 'EAC0610 - Introdução à Programação e Banco de Dados em Negócios
+
+    Introduction to Programming and Database in Business'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    Este curso foi desenvolvido para ajudar alunos com pouco ou nenhum conhecimento
+    prévio em programação de computadores, que estejam interessados em aprender sobre
+    lógica e programação usando a linguagem Python (uma linguagem atual e relevante).
+    Este curso aborda os princípios elementares de programação no Python, bem como
+    o uso de biblioteca para apoiar atividades de análise
+
+    Ciência de Dados. A disciplina também explora os fundamentos de banco de dados
+    e o uso da linguagem SQL para consultas e manipulação de dados.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Neste curso os discentes aprenderão conceitos básicos de programação de computadores
+    com ênfase em negócios. O objetivo é ajudar os alunos a vivenciarem um ambiente
+    de aprendizagem sólido para desenvolver habilidades de programação (em especial,
+    usando a linguagem Python) interagindo com bancos de dados, para melhor desempenho
+    nos negócios.
+
+    Espera-se que, ao final da disciplina, os discentes sejam capazes de:
+
+    1. Desenvolver uma atitude face à decisão, à informação, aos dados, aos sistemas
+    e aos computadores, baseada numa visão crítica do novo ambiente de negócios e
+    da intensificação da economia do conhecimento;
+
+    2. Compreender como a resolução de problemas e a análise de dados evoluíram ao
+    longo do tempo;
+
+    3. Discutir a programação de forma estimulante, além de sua mecânica, visando
+    atrair ainda mais pessoas talentosas para esta pista;
+
+    4.Compreender os princípios da linguagem de programação Python, incluindo variáveis,
+    expressões, instruções condicionais, instruções de loop, funções, bem como utilizar
+    as diversas bibliotecas de ciência de dados para apoiar a análise de dados.
+
+    6. Compreender conceitos de banco de dados e instruções SQL;
+
+    7. Elaborar consultas, estruturação e manipulação de banco de dados por meio da
+    linguagem SQL;
+
+    8. Utilizar a linguagem Python para resolver representações estatísticas e gráficas
+    de conjuntos de dados;'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241114063332'
+digest: S2QMXQND22K7CEPO4U5SL5ZJPHOJJYHR
+updated_at: '20241114063332'
+url: https://web.archive.org/web/20241114063332id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0610&codcur=12033&codhab=4
