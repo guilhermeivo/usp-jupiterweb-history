@@ -1,0 +1,161 @@
+courses:
+  activation: 01/01/2025
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    NAQVI, Al. Artificial intelligence for audit, forensic accounting, and valuation:
+    a strategic perspective. John Wiley & Sons, 2020.
+
+    PACHECO, A. et al. Ética, Governança e Inteligência Artificial. São Paulo: Almedina
+    Brasil, 2023.
+
+    PINTO, R. A. L.; NOGUEIRA, J. Inteligência Artificial e Desafios Jurídicos. São
+    Paulo: Almedina Brasil, 2023.
+
+    FACELLI, K. et al. Inteligência artificial: uma abordagem de aprendizado de máquina,
+    2. ed., Rio de Janeiro: LTC, 2022.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    Institute of Management Accountants – IMA. THE IMPACT OF ARTIFICIAL INTELLIGENCE
+    ON ACCOUNTING AND FINANCE: A GLOBAL PERSPECTIVE. 2024. Disponível em: https://www.imanet.org/research-publications/ima-reports/the-impact-of-artificial-intelligence-on-accounting-and-finance
+
+    LEE, C. S.; TAJUDEEN, F. P. Usage and impact of artificial intelligence on accounting:
+    Evidence from Malaysian organisations. Asian Journal of Business and Accounting,
+    v. 13, n. 1, 2020
+
+    TAULLI, Tom. Introdução à Inteligência Artificial: Uma abordagem não técnica.
+    Novatec Editora, 2020.
+
+    LOPES, I. L.; OLIVEIRA, F. A,S; PINHEIRO, C.A.M. Inteligência artificial, 1. ed.
+    Rio de Janeiro : Elsevier, 2014.
+
+    LANGMANN, C.; TURI, D. Robotic Process Automation (RPA)- Digitization and Automation
+    of Processes: Prerequisites, functionality and implementation using accounting
+    as an example. Springer Nature, 2023'
+  course: '1. Fundamentos de Inteligência Artificial (IA)
+
+    1.1 Evolução e desenvolvimento de técnicas de IA
+
+    1.2 Conceitos elementares
+
+    1.3 Aprendizado de Máquina (Machine Learning), Aprendizado Profundo (Deep Learning),
+    Processamento de Linguagem Natural (NLP) e Robotic Process Auotmation (RPA)
+
+    1.4 Principais técnicas e metodologias
+
+    1.5 Aplicações e implicações para o campo de contabilidade e finanças
+
+    2. Aprendizado de Máquina e suas aplicações em Contabilidade e Finanças
+
+    2.1 Definição e caracterização do aprendizado de máquina
+
+    2.2 Etapas de Treinamento e Teste
+
+    2.3 Técnicas de aprendizado Supervisionado, não supervisionado e por reforço
+
+    2.4 Aplicações de Aprendizado de Máquina usando linguagens de programação
+
+    3. Aplicações de Processamento de Linguagem Natural (NLP)
+
+    3. 1 Desafios da análise de dados não estruturados: texto.
+
+    3.2 Caracterização da NLP
+
+    3.3 Aplicação da análise de sentimento de relatórios financeiros, informações
+    e textos contábeis
+
+    4. Inteligência Artificial Generativa
+
+    4.1 Definição e sua importância
+
+    4.2 Evolução das soluções de IA Generativa
+
+    4.3 Introdução aos Large Language Models (LLM)
+
+    4.4 Avaliação das Aplicações de IA Generativa
+
+    5. Robotic Process Automation (RPA)
+
+    5.1 Conceitos Básicos
+
+    5.2 Potencial transformacional e Implicações da automação das atividades contábeis
+
+    5.3 Implementação da aplicação de RPA usando ferramentas de software e linguagens
+    de programação
+
+    6. Adoção de soluções de IA nas áreas de Contabilidade e Finanças
+
+    6.1 Avaliar a adequação de soluções de IA
+
+    6.2 Aplicações de Redes Neurais no contexto de finanças e contabilidade
+
+    6.2 Automação de procedimentos: Detecção de Fraude, Contabilidade Forense, Risk
+    Assessment e Relatoria.
+
+    6.4 Mapear os potenciais benefícios e riscos da adoção de IA
+
+    6.5 Estudo de casos de aplicações de IA nas práticas financeiras e contábeis
+
+    7. Desafios Éticos, Regulatórios e os Riscos no uso de soluções de Inteligência
+    Artificial
+
+    7.1 O desafio do viés algorítmico na construção de modelos.
+
+    7.2 Desafio da privacidade e segurança de dados
+
+    7.3 Normativas e Orientações para regulamentação de IA
+
+    8. Tendências Futuras e Desafios de Aplicações de IA para Contabilidade e Finanças'
+  course_name: 'EAC0612 - Aplicações de Inteligência Artificial em Contabilidade e
+    Finanças
+
+    Artificial Intelligence Applications in Accountability and Finance'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    Esta disciplina visa capacitar os discentes a compreender as características e
+    o potencial transformador das soluções de Inteligência Artificial (IA) nas organizações
+    (com ênfase nas áreas de contabilidade e finanças), identificando diferentes técnicas
+    de aprendizado de máquina e aplicando-as em problemas de negócios. O curso também
+    aborda o uso de processamento de linguagem natural para análise de dados textuais
+    e explora as oportunidades da IA generativa na área de contabilidade e finanças.
+    Por fim, a disciplina elenca os desafios regulatórios e éticos da IA, enquanto
+    capacita os alunos a avaliarem os benefícios e riscos da adoção de soluções de
+    IA nas organizações.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Espera-se que, ao final da disciplina, os discentes sejam capazes de:
+
+    1. Reconhecer as características das soluções de Inteligência Artificial e seu
+    potencial de transformação nas organizações.
+
+    2. Reconhecer os diferentes tipos de técnicas de aprendizado de máquina e avaliar
+    sua adequação para lidar com problemas de negócio.
+
+    3. Aplicar técnicas de processamento de linguagem natural para análise de dados
+    textuais.
+
+    4. Identificar as oportunidades envolvendo a aplicação da IA generativa no contexto
+    da área de contabilidade e finanças.
+
+    5. Reconhecer os desafios relacionados à regulação e as implicações éticas do
+    uso da Inteligência Artificial.
+
+    6. Avaliar a adoção de soluções de IA no contexto das organizações, mapeando os
+    benefícios e riscos envolvidos em sua adoção.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241114081845'
+digest: ODPHUUPFQAKKPSUGW5JSPTAZMVLNRGOU
+updated_at: '20241114081845'
+url: https://web.archive.org/web/20241114081845id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0612&codcur=12033&codhab=4
