@@ -125,7 +125,7 @@ courses:
   course_name: 'EAC0481 - Contabilidade Intermediária II
 
     Intermediate Accounting II'
-  deactivation: ''
+  deactivation: 31/12/2024
   instructors: '90328 - Ariovaldo dos Santos
 
     2209375 - Bruno Meirelles Salotti
@@ -180,7 +180,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220120223341'
-digest: 5RR6XDYHCAL6HUUTDGY6NI6XX6ETLSWQ
-updated_at: '20220713032605'
-url: https://web.archive.org/web/20220713032605id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=eac0481
+created_at: '20241114070259'
+digest: RDZ4BCODOBGL5O7VREK4JTT4JZRC6CJF
+updated_at: '20241114070259'
+url: https://web.archive.org/web/20241114070259id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0481&codcur=12033&codhab=4
