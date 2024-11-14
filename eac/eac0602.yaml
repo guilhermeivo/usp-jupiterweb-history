@@ -1,0 +1,77 @@
+courses:
+  activation: 01/01/2025
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'Bellantuono, N., Pontrandolfo, P., & Scozzi, B. (2016). Capturing
+    the Stakeholders’ View in Sustainability Reporting: A Novel Approach. Sustainability,
+    8(4), 379.
+
+    Choudhuri, A., & Chakraborty, J. (2009). An Insight into Sustainability Reporting.
+    Social Science Research Network.
+
+    Daub, C.-H. (2007). Assessing the quality of sustainability reporting: an alternative
+    methodological approach. Journal of Cleaner Production, 15, 75-85.
+
+    Lozano, R., & Huisingh, D. (2011). Inter-linking issues and dimensions in sustainability
+    reporting. Journal of Cleaner Production, 19, 99-107.
+
+    Maclaren, V. (1996). Urban Sustainability Reporting. Journal of The American Planning
+    Association, 62, 184-202.'
+  course: '1 - Interligação de Dimensões da Sustentabilidade - relatórios de sustentabilidade
+    eficazes não tratam as dimensões econômica, ambiental e social de maneira isolada,
+    mas sim de forma integrada, mostrando como estas interagem e influenciam umas
+    às outras nas operações da empresa (Lozano & Huisingh, 2011).
+
+    2 - Processo de Relatório - o processo de elaboração de um relatório de sustentabilidade
+    começa com a definição de objetivos de sustentabilidade, seguida pela escolha
+    de um quadro conceitual e indicadores de sustentabilidade, culminando na análise
+    e apresentação dos resultados (Maclaren, 1996).
+
+    3 - Abordagem Metodológica Alternativa - há uma necessidade contínua de desenvolver
+    e aplicar metodologias alternativas para avaliar a qualidade dos relatórios de
+    sustentabilidade, que considerem tanto aspectos quantitativos quanto qualitativos
+    dos esforços de sustentabilidade das empresas (Daub, 2007).
+
+    4 - Significado da Divulgação – a divulgação de desempenho sustentável é crucial,
+    pois além de informar sobre as práticas atuais, também guia as futuras ações das
+    empresas e influencia a percepção e decisões dos investidores e outras partes
+    interessadas (Choudhuri & Chakraborty, 2009).
+
+    5 - Incorporação de Perspectivas dos Stakeholders - engajar stakeholders é essencial
+    para realizar análises de materialidade, ajudando a identificar aspectos de sustentabilidade
+    mais relevantes para a empresa e para suas partes interessadas (Bellantuono, Pontrandolfo,
+    & Scozzi, 2016).
+
+    6 – Análise dos diferentes formatos de relatórios de sustentabilidade existentes.'
+  course_name: 'EAC0602 - Introdução aos Relatórios de Sustentabilidade
+
+    Introduction to Corporate Sustainability'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A introdução aos relatórios de sustentabilidade abrange uma série de princípios
+    e práticas essenciais para que empresas relatem de forma eficaz seus progressos
+    em direção à sustentabilidade no sentido amplo do termo.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    a)Introduzir as razões pelas quais os relatórios de sustentabilidade vêm ganhando
+    espaço nas divulgações corporativas;
+
+    b) Apresentar diretrizes e formatos de reporte como: GRI, TCFD, CDP, dentre outros;
+
+    c) Discutir o panorama regulatório relativo a exigência da publicação de relatórios
+    de sustentabilidade.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241114072020'
+digest: QZSJTH5HWPABZVODHLI6NKTOLFHPBN7V
+updated_at: '20241114072020'
+url: https://web.archive.org/web/20241114072020id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0602&codcur=12033&codhab=4
