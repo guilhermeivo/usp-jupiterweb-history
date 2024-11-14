@@ -1,0 +1,217 @@
+courses:
+  activation: 01/01/2025
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    SHARDA, R.; DELEN, D.; TURBAN, E. Business Intelligence e Análise de Dados para
+    Gestão do Negócio. 4. ed. Porto Alegre: Bookman, 2019
+
+    PROVOST, F.; FAWCETT, T. Data Science para negócios. Rio de Janeiro: Alta Books,
+    2016.
+
+    KNAFLIC, C. N. Storytelling com dados: um guia para visualização de dados para
+    profissionais de negócios. Rio de Janeiro: Alta Books, 2019
+
+    LAGO, K.; ALVES, L. Dominando o Power BI. 3.ed. São Paulo: DATAB Inteligência
+    e Estratégia, 2020
+
+    FRAGA, A. Microsoft Power BI: Gráficos, Banco de Dados e Configuração de Relatórios.
+    Rio de Janeiro: Alta Books, 2019.
+
+    CARVALHO, A.C.P.L.D; MENEZES, A.G.; BONIDIA, R. P. Ciência de Dados: Fundamentos
+    e Aplicações. Rio de Janeiro: LTC, 2024
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    AMARAL, F. Introdução à Ciência de Dados: mineração de dados e Big Data. Rio de
+    Janeiro: Alta Books, 2016.
+
+    DAVENPORT, T. Big Data no Trabalho: Derrubando mitos e descobrindo oportunidades.
+    Rio de Janeiro: Alta Books, 2017.
+
+    DAVENPORT, T.; HARRIS, J. Competição Analítica: Vencendo através da nova ciência.
+    Rio de Janeiro: Alta Books, 2018
+
+    SIEGEL, E. Análise Preditiva: o poder de prever quem vai clicar, comprar, mentir
+    ou morrer. Rio de Janeiro: Alta Books, 2017.
+
+    SILVA, L. A.; PERES, S. M.; BOSCARIOLI, C. Introdução à mineração de dados: com
+    aplicações em R. Rio de Janeiro: Elsevier, 2016.
+
+    STAIR, R. M. et. al. Princípios de Sistemas de Informação. 4.ed. São Paulo: Cengage
+    Learning, 2021.'
+  course: '1. Contexto e Evolução do Data Analytics nas organizações
+
+    1.1 Definição de Data Analytics, desafios e oportunidades no contexto de negócios
+
+    1.2 Análise Descritiva, Análise Diagnóstica, Análise Preditiva e Análise Prescritiva
+
+    1.3 Cultura Data-Driven e o valor das aplicações de data analytics nos negócios
+
+    2. Fundamentos de Business Intelligence (BI)
+
+    2.1 Conceitos Elementares: Dado, Informação e Conhecimento
+
+    2.2 Evolução do apoio computadorizado a decisões organizacionais
+
+    2.3 Definindo Business Intelligence (BI)
+
+    2.4 Componentes da Arquitetura tecnológica do BI
+
+    2.4.1 Fonte de Dados – Sistemas Transacionais
+
+    2.4.2 Processo de ETL (Extract, Transform and Load)
+
+    2.4.3 Datawarehouse (DW) e Data Mart (DM)
+
+    2.4.3 Aplicações (Reports, Visualização, OLAP)
+
+    2.5 Processamento Analítico (OLAP)
+
+    2.5.1 Representação Multidimensional: Tabela Fato e Tabela Dimensão
+
+    2.5.2 Representação do Cubo OLAP e operações: Drill Down, Roll Up, Slicing, Dicing
+    e Pivot
+
+    2.6 Ferramentas de Visualização e Dashboards
+
+    2.7 BI e o apoio ao monitoramento do desempenho de negócio
+
+    2.8 Análise das aplicações do BI nas organizações
+
+    2.9 Self-Service BI: Introdução ao Power BI
+
+    3.Big Data e Big Data Analytics
+
+    3.1 Cenário de crescimento e diversidade nos tipos de dados.
+
+    3.2 Tipologia dos dados: Estruturados, Semiestruturados e Não estruturados.
+
+    3.3 Características do Big Data: Volume, Velocidade, Variedade, Variedade, Valor.
+
+    3.4 Processo de Big Data
+
+    3.4.1 Tecnologias para apoiar a gestão e processamento de Big Data
+
+    3.4.2 Aplicações de Big Data Analytics
+
+    3.5 Implicações nas práticas das áreas de contabilidade e finanças
+
+    3.6 Benefícios e Desafios no uso de Big Data nas corporações.
+
+    4. Ciência de Dados (Data Science) e Mineração de Dados (Data Mining)
+
+    4.1 Conceito e características da Ciência de Dados
+
+    4.2 Perfil Profissional e oportunidades a Ciência de Dados nos negócios.
+
+    4.3 Mineração de Dados (Data Mining)
+
+    4.4 Tarefas de Mineração de Dados
+
+    4.5 Exemplos de aplicação de Mineração de Dados nos negócios
+
+    5 Ferramentas para apoiar o processo de Ciência de Dados
+
+    5.1 Tipologia das ferramentas disponíveis para atender os distintos grupos de
+    usuários.
+
+    5.2 Provedores de soluções analíticas para apoiar o processo de Ciência de Dados
+
+    5.3 Soluções open source para análise de dados.
+
+    6 Processo de Ciência de Dados
+
+    6.1 Etapas de um projeto de Ciência de Dados
+
+    6.1.1 KDD (Knowledge Discovery in Database)
+
+    6.1.2 Processo CRISP-DM (Cross-Industry Standard Process for Data Mining)
+
+    7. Coleta, Armazenamento e Pré-Processamento de Dados
+
+    7.1 Coleta e Extração de Dados
+
+    7.1.1 Conexão com dados internos
+
+    7.1.2 Conexão com dados externos (WebScrapping e conexão via API de dados)
+
+    7.1.3 Uso do Power BI para coleta de dados internos e externos
+
+    7.2 Pré-processamento de Dados (Limpeza de Dados)
+
+    7.2.1 Caracterização e classificação dos dados
+
+    7.2.2 Processo de Pré-processamento: Limpeza, Integração, Redução de Dados, Transformação
+    e Discretização.
+
+    7.3 Apoio de ferramentas de software: Uso do Power BI e Power Query execução do
+    pré-processamento de dados
+
+    8. Modelagem, Indicadores, Visualização de Dados e Dashboards Analíticos
+
+    8.1 Contexto de Modelagem Estatística para Análise dos Dados
+
+    8.2 Princípios de Análise Descritiva e Exploratória
+
+    8.2.1 Uso do Power BI para Modelagem de Dados
+
+    8.2.2 Introdução ao DAX (Data Analysis Expression) para criação de indicadores
+    (medidas, colunas e tabelas calculadas)
+
+    8.3 Fundamentos de Visualização de Dados e Storytelling com Dados
+
+    8.3.1 Construção de relatório e Dashboards usando o Power BI
+
+    9. Projeto Prático de Ciência de Dados
+
+    10. Tendências de Business Intelligence (BI), Big Data, Ciência de Dados e Data
+    Analytics e suas aplicações no contexto de negócios.'
+  course_name: 'EAC0609 - Princípios de Business Intelligence, Big Data e Data Analytics
+    em Negócios
+
+    Introduction to Business Intelligence, Big Data and Data Analytics in Business'
+  deactivation: ''
+  lecture_credits: '4'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    Capacitar os alunos no uso das tecnologias da informação para apoiar as atividades
+    de coleta, armazenamento, limpeza, organização e análise de grandes volumes de
+    dados, visando assegurar o fornecimento de informações de com alto nível de qualidade
+    que embasem as diferentes áreas de negócio.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Espera-se que, ao final da disciplina, os discentes estejam aptos a:
+
+    1. Identificar as características e diversidades dos tipos de dados disponíveis
+    interna e externamente nas organizações (dados estruturados, semiestruturados
+    e não estruturados).
+
+    2. Compreender os fundamentos de Business Intelligence (BI), Big Data e Analytics,
+    Mineração de dados e Ciência de Dados, bem como suas aplicações no contexto de
+    negócios.
+
+    3. Operar aplicações de softwares (em especial, o Power BI) necessárias para realização
+    de atividades relativas ao processo de análise de dados.
+
+    4. Elaborar projetos de Ciência de Dados alinhados alinhado às respectivas demandas
+    de informações das áreas de negócio.
+
+    5. Avaliar as diferentes de aplicações de Data Analytics nas organizações, visando
+    reconhecer o valor obtido a partir dos dados e como essas soluções analíticas
+    podem ser traduzidas em decisões de negócios mais eficientes e baseadas em dados
+    (data-driven).'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241114072208'
+digest: UXYKQBKK5QLWMNOUWB5IWKSLHA4LNTUI
+updated_at: '20241114072208'
+url: https://web.archive.org/web/20241114072208id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0609&codcur=12033&codhab=4
