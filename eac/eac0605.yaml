@@ -1,0 +1,69 @@
+courses:
+  activation: 01/01/2025
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'Azapagic, A. (2003). Systems approach to corporate sustainability:
+    a general management framework. Process Safety and Environmental Protection, 81,
+    303-316.
+
+    Dyllick, T., & Hockerts, K. (2002). Beyond the business case for corporate sustainability.
+    Business Strategy and The Environment, 11, 130-141.
+
+    Grove, H., & Clouse, M. (2017). Corporate Governance Principles and Sustainability.
+    Corporate Governance and Sustainability Review, 1(2), 13-19.
+
+    Linnenluecke, M., & Griffiths, A. (2010). Corporate sustainability and organizational
+    culture. Journal of World Business, 45, 357-366.'
+  course: "1 - \tCultura Organizacional Voltada para Sustentabilidade\na adoção de\
+    \ uma cultura organizacional orientada para a sustentabilidade é fundamental para\
+    \ que uma empresa alcance os princípios de sustentabilidade corporativa. Esta\
+    \ cultura envolve a integração de práticas sustentáveis em todos os níveis da\
+    \ organização e é vista como um caminho para tornar as empresas mais sustentáveis\
+    \ por meio de mudanças culturais (Linnenluecke & Griffiths, 2010).\n2 - \tGestão\
+    \ Sustentável\na implementação de um sistema de gestão de sustentabilidade corporativa\
+    \ (CSMS) é crucial. Este sistema fornece uma estrutura gerencial que ajuda as\
+    \ empresas a traduzir os princípios de desenvolvimento sustentável em práticas\
+    \ corporativas, contribuindo para melhorar os resultados em termos de desenvolvimento\
+    \ econômico sustentável, proteção ambiental e valores empresariais socialmente\
+    \ responsáveis (Azapagic, 2003).\n3 - \tTriple Bottom Line\na sustentabilidade\
+    \ corporativa exige que as empresas atendam simultaneamente a objetivos econômicos,\
+    \ ambientais e sociais, conhecidos como o triple bottom line. Esta abordagem incentiva\
+    \ as empresas a não apenas focarem em lucros, mas também em como suas operações\
+    \ afetam o meio ambiente e contribuem para o bem-estar social (Dyllick & Hockerts,\
+    \ 2002).\n4 - \tGovernança Corporativa\nos princípios de governança corporativa\
+    \ devem estar alinhados com os objetivos de sustentabilidade. Isso inclui o estabelecimento\
+    \ de políticas e práticas que promovam a responsabilidade ambiental e social além\
+    \ da conformidade legal e dos interesses dos acionistas (Grove & Clouse, 2017)."
+  course_name: 'EAC0605 - Princípios de Sustentabilidade Corporativa
+
+    Principles of Corporate Sustainability'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    Os princípios de sustentabilidade corporativa são essenciais para promover um
+    desenvolvimento equilibrado que atenda às necessidades econômicas, sociais e ambientais
+    sem comprometer as gerações futuras. Desenvolver atributos relativos à Sustentabilidade
+    no âmbito das empresas e organizações privadas.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    a) capacitar os alunos a compreenderem as exposições a riscos de sustentabilidade;
+
+    b) situar os estudantes no desenvolvimento das principais discussões relativas
+    à sustentabilidade corporativa; e
+
+    c) apresentar a discussão no contexto de práticas empresariais relacionadas a
+    uma atitude empresarial em prol de sustentabilidade.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241114083933'
+digest: IKI6OSSRR5JWTNT3NB7OZOE4UEIFPQE4
+updated_at: '20241114083933'
+url: https://web.archive.org/web/20241114083933id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0605&codcur=12033&codhab=4
