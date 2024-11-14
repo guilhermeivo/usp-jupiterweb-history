@@ -1,0 +1,153 @@
+courses:
+  activation: 01/01/2025
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    IMONIANA, J. O. Auditoria de Sistemas de Informação. 3.ed. São Paulo: Atlas, 2016
+
+    RICHARDSON, V. J.; CHANG, C. J.; SMITH, R. Accounting Information Systems.3rd
+    ed. New York: McGrawHill, 2021
+
+    BERGHOUT E. et al. Advanced Digital Auditing: Theory and Practice of Auditing
+    Complex Information Systems and Technologies. Springer Nature, 2023. DOI: https://doi.org/10.1007/978-3-031-11089-4
+
+    HURT, R. L. Sistemas de Informações Contábeis: Conceitos Básicos e Temas Atuais.
+    Porto Alegre: AMGH Editora, 2014.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    ATTA, A. et al. The impact of computer assisted auditing techniques in the audit
+    process: an assessment of performance and effort expectancy. International Journal
+    of Data and Network Science, v. 8, n. 2, p. 977-988, 2024.
+
+    SEIDENSTEIN, T. et al. Innovation in Audit and Assurance: A Global Study of Disruptive
+    Technologies. Journal of Emerging Technologies in Accounting, v. 21, n.1 , p.
+    1-18, 2024.
+
+    DELOITTE. Auditing the RPA Environment, March 2018. Disponível em: https://www2.deloitte.com/content/dam/Deloitte/in/Documents/risk/in-ra-auditing-the-rpa-environment-noexp.pdf
+
+    STOEL, D.; HAVELKA, D.; MERHOUT, J. W. An analysis of attributes that impact information
+    technology audit quality: A study of IT and financial audit practitioners. International
+    Journal of Accounting Information Systems, v. 13, n. 1, p. 60-79, 2012.
+
+    STOEL, M. Dale; HAVELKA, Douglas. Information technology audit quality: An investigation
+    of the impact of individual and organizational factors. Journal of Information
+    Systems, v. 35, n. 1, p. 135-154, 2021.
+
+    PWC.Re-inventing Internal Controls in the Digital Age. Disponível em: https://www.accaglobal.com/content/dam/ACCA_Global/professional-insights/controls-digital-age/controls-in-the-digital-age-brochure.pdf
+
+    BOECKL, K.; et al.; Considerations for Managing Internet of Things (IoT) Cybersecurity
+    and Privacy Risks, June 2019, Disponível em: https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8228.pdf'
+  course: '1 Introdução à Tecnologia no contexto da Auditoria e Assurance
+
+    1.1 Conceitos Elementares e caraterísticas da Auditoria e Assurance
+
+    1.2 Contexto de evolução tecnológica e sua aplicação em negócios
+
+    1.3 Controles Internos, Avaliação dos procedimentos de Controle e Análise de Risco.
+
+    1.4 Papel das Tecnologias da Informação no apoio às práticas de Auditoria e Assurance.
+
+    1.5 Benefícios e desafios do emprego das tecnologias
+
+    1.6 Competências Tecnológicas do profissional de auditoria
+
+    2 Introdução às Técnicas de Auditoria Assistidas por Computador (TAAC)
+
+    2.1 Definição das Técnicas de Auditoria Assistidas por computador
+
+    2.2 Ferramentas de Apoio: Softwares Generalistas e Especializados de Auditoria
+    (ex: ACL, IDEA, Galileo)
+
+    2.4 Avaliação dos benefícios e desafios relacionados a aplicação das TAACs
+
+    3. Análise de Dados em Auditoria
+
+    3.1 Fundamentos e características da análise de dados em Auditoria
+
+    3.2 Análise de dados para detecção de anomalias
+
+    3.3 Estudos de caso de aplicação da análise nas práticas de auditoria
+
+    4. Tecnologias Emergentes em Auditoria e Assurance
+
+    4.1 Mapeamento das tecnologias emergentes e sua contribuição para as práticas
+    de auditoria e Assurance
+
+    4.1.1 Blockchain e Smart contracts
+
+    4.1.2 Contribuição de Robotic Process Automation (RPA)
+
+    4.1.3 Data Analytics e Big Data Analytics
+
+    4.1.4 Inteligência Artificial e Machine Learning
+
+    4.1.5 Computação em nuvem (cloud computing)
+
+    4.1.3.5 Internet das Coisas (IoT)
+
+    4.2 Benefício e desafios
+
+    5 Normas e Diretrizes no uso de tecnologia em Auditoria e Assurance
+
+    5.1 ISA (International Standards on Auditing)
+
+    5.2 NBCs (Normas Brasileiras de Contabilidade)
+
+    5.3 ISACA (nformation Systems Audit and Control Association)
+
+    5.4 Aspectos éticos e regulatórios no uso das tecnologias
+
+    6. Tendências na aplicação das tecnologias nas organizações
+
+    6.1 Estudos de caso de empresas que atuam em Auditoria e Assurance'
+  course_name: 'EAC0614 - Tecnologias Aplicadas em Auditoria e Assurance
+
+    Technologies Applied in Audit and Assurance'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    Esta disciplina visa fornecer uma compreensão prática do papel das tecnologias
+    emergentes na auditoria e garantia de informações financeiras. No curso, os discentes
+    explorarão os conceitos fundamentais de auditoria e assurance, o contexto de evolução
+    tecnológica nos negócios e as técnicas de Auditoria Assistidas por Computador
+    (TAAC). A disciplina também discute o papel da tecnologia para apoiar a análise
+    de dados em auditoria, assim como a contribuição das tecnologias emergentes nas
+    práticas da área. Adicionalmente, será abordada os benefícios e desafios da análise
+    de dados e o emprego de tecnologias emergentes na auditoria e assurance, bem como
+    o papel das normas e diretrizes relevantes para o uso ético e regulatório da tecnologia.
+    Por fim, visando elencar aspectos da prática, serão analisados estudos de caso
+    de empresas da área.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Espera-se que, ao final da disciplina, os discentes sejam capazes de:
+
+    1. Avaliar as potenciais contribuições, benefícios e desafios do emprego das Tecnologias
+    da Informação nas práticas de Auditoria e Assurance.
+
+    2. Identificar e descrever as características das Técnicas de Auditoria Assistidas
+    por Computador (TAACS);
+
+    3. Compreender o impacto das tecnologias emergentes, como blockchain, inteligência
+    artificial e computação em nuvem, nas práticas de auditoria e assurance.
+
+    4. Discutir os benefícios e desafios regulatórios e éticos relacionados ao uso
+    da tecnologia na auditoria.
+
+    5. Analisar tendências atuais na aplicação das tecnologias nas organizações, por
+    meio de estudos de caso de empresas que atuam em auditoria e assurance.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241114074100'
+digest: RYCUP7GUTXYH4SYBIKSDKILFWTGOYVTB
+updated_at: '20241114074100'
+url: https://web.archive.org/web/20241114074100id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0614&codcur=12033&codhab=4
