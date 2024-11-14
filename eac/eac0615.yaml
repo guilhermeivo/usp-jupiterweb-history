@@ -1,0 +1,600 @@
+courses:
+  activation: 01/01/2025
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    AFONSO, José Roberto. LUKIC, Melina Rocha, Tributação da Renda das Pessoas Jurídicas
+    no Brasil os Juros sobre o Capital Próprio. Curitiba: Juruá Editora, 2016.
+
+    BEZERRA, Maurício Dantas. "Da inaplicabilidade da limitação à compensação de prejuízos
+    fiscais nos casos de incorporação, fusão e cisão de sociedades". Rev. Dialética
+    de Direito Tributário, São Paulo, set.2003, v.96, p.49-57
+
+    CALIJURI, Mônica Sionara Schpallir. Tributação dos Lucros ou Dividendos: uma Contribuição
+    à Reflexão em um Ambiente Globalizado. In MOSQUERA, Roberto Quiroga; LOPES, Alexsandro
+    Broedel. Controvérsias jurídico-contábeis (aproximações e distanciamentos). São
+    Paulo: Dialética, 2014. v.5. p.274-290
+
+    CARVALHO, Nelson e FLORES, Eduardo. Instrumentos Financeiros Híbridos: Possível
+    Conflito entre Essência x Forma?. In MOSQUERA, Roberto Quiroga; LOPES, Alexsandro
+    Broedel. Controvérsias jurídico-contábeis (aproximações e distanciamentos). São
+    Paulo: Dialética, 2014. v.5. p. 313-324.
+
+    COSTA, Celso. O Conceito de Valor Justo na Contabilidade e seus Reflexos na Apuração
+    do Lucro Real. In: Controvérsias Jurídico Contábeis (Aproximações e Distanciamentos).
+    5º Volume. Coord.: Roberto Quiroga Mosquera; Alexsandro Broedel Lopes. São Paulo:
+    Dialética, 2014.
+
+    FLORES, Eduardo. LOPES, Alexsandro Broedel. CARVALHO, Nelson. Are Hybrid Financial
+    Instruments Debt or Equity? International Evidence
+
+    FLORES, Eduardo. MARTINS, Eliseu. “Hybrid” Financial Instruments With Characteristics
+    of Both Debt and Equity: Evolution and Challenges. In: Resenha da Bolsa http://en.resenhadabolsa.com.br/portfolio-category/hybrid-financial-instruments-with-characteristics-of-both-debt-and-equity1-evolution-and-challenges/
+
+    HADDAD, Gustavo Lian. SANTOS, Luiz Alberto Paixão dos. Reflexos Tributários dos
+    Efeitos Contábeis Decorrentes da Avaliação a Valor Justo. In: Controvérsias Jurídico
+    Contábeis (Aproximações e Distanciamentos). 5º Volume. Coord.: Roberto Quiroga
+    Mosquera; Alexsandro Broedel Lopes. São Paulo: Dialética, 2014.
+
+    HADDAD, Gustavo Lian; PAES, Gustavo Duarte. O Ágio por Expectativa de Rentabilidade
+    Futura na Lei 12.973 e o Goodwill na Combinação de Negócios. Aproximações e Distanciamentos.
+    In MOSQUERA, Roberto Quiroga; LOPES, Alexsandro Broedel. Controvérsias jurídico-contábeis
+    (aproximações e distanciamentos). São Paulo: Dialética, 2015. v.6. p.246-272.
+
+    LAULETTA, Andrea Bazzo. "Os impactos das novas regras contábeis na isenção tributária
+    dos dividendos". In MOSQUERA, Roberto Quiroga; LOPES, Alexsandro Broedel. Controvérsias
+    jurídico-contábeis (aproximações e distanciamentos). São Paulo: Dialética, 2014.
+    5. p.11-29.
+
+    LOPES, Alexsandro Broedel e MOSQUERA, Roberto Quiroga. "Da tributação das operações
+    de hedge realizadas com contratos de swap. In MOSQUERA, Roberto Quiroga. O direito
+    tributário e o mercado financeiro e de capitais. São Paulo: Dialética, 2009. p.11-33.
+
+    LOPES, Tatiana. "Instrumentos financeiros híbridos, compostos e derivativos embutidos:
+    impactos fiscais da não regulamentação do tema pela MP 627/2013". In MOSQUERA,
+    Roberto Quiroga; LOPES, Alexsandro Broedel. Controvérsias jurídico-contábeis (aproximações
+    e
+
+    MARTINS, Eliseu e IUDÍCIBUS, Sérgio de. "Ágio interno é um mito?". In MOSQUERA,
+    Roberto Quiroga; LOPES, Alexsandro Broedel. Controvérsias jurídico-contábeis (aproximações
+    e distanciamentos). São Paulo: Dialética, 2013. v4. p.83-103.
+
+    MARTINS, Eliseu, Um pouco da historia dos juros sobre o capital próprio, Boletim
+    IOB – Temática Contábil e Balanços, Bol. 49/2004
+
+    MARTINS, Eliseu. Juros sobre o Capital Próprio – Aspectos Conceituais, in Boletim
+    IOB, Temática Contábil e Balanços, n. 50/96, 1996, p. 510.
+
+    MARTINS, Natanael. A Lei 12.973/2014 e o Novo Tratamento Tributário Dado às Combinações
+    de Negócios – Pronunciamento Técnico CPC 15. In MOSQUERA, Roberto Quiroga; LOPES,
+    Alexsandro Broedel. Controvérsias jurídico-contábeis (aproximações e distanciamentos).
+    São Paulo: Dialética, 2015. v.6. p.467-490.
+
+    MONTEIRO, Alexandre Luiz Moraes do Rêgo. Caso Felipão e Caso Ratinho: O mito da
+    impossibilidade de pessoas jurídicas prestarem serviços artísticos ou intelectuais
+    e seus reflexos tributários. In: CASTRO. Leonardo Freitas de Moraes (Coord.).
+    Planejamento Tributário: Análise de Casos. São Paulo: MP, 2010.
+
+    MOSQUERA, Roberto Quiroga e PICONEZ, Matheus Bertholo. Tratamento Tributário dos
+    Instrumentos Financeiros Híbridos. In MOSQUERA, Roberto Quiroga; LOPES, Alexsandro
+    Broedel. Controvérsias jurídico-contábeis (aproximações e distanciamentos). São
+    Paulo: Dialética, 2011. v.2. p. 233-247.
+
+    OLIVEIRA, Phelippe Toledo Pires de Oliveira. A Ação n. 4 do Projeto BEPS e a Possível
+    Introdução de mais um critério de Dedutibilidade de Juros na legislação brasileira.
+    In: A Tributação Internacional na Era Pós-BEPS. Soluções Globais e Peculiaridades
+    de Países em Desenvolvimento.. Volume II. Editora Lumen Juris. Rio de Janeiro,
+    2016.
+
+    OLIVEIRA, Ricardo Mariz de. "Juros sobre o capital próprio: momento de dedução
+    da despesa". Direito tributário atual. São Paulo: IBDT, Dialética, 2012. 28. p.316-339.
+
+    POLIZELLI, Victor Borges. "Caso Ale Combustíveis: distinção entre o ágio com fundamento
+    em fundo de comércio ou rentabilidade futura e a utilização de empresa veículo
+    e propósito negocial”. In CASTRO, Leonardo Freitas de Moraes. Planejamento tributário:
+    análise de casos. São Paulo: MP, 2014. 2. p.131-159
+
+    ROCHA, Sergio André. "Caso Vivo: transferência de ágio por meio de utilização
+    de empresa-veículo e ausência de comprovação de seu fundamento". In CASTRO, Leonardo
+    Freitas de Moraes. Planejamento tributário: análise de casos. São Paulo: MP, 2014.
+    2. p.71-87.
+
+    SANTI, Eurico Marcos Diniz de. Limitação à Compensação de Prejuízos Fiscais. Publicado
+    no site da Fiscosoft em 3 de agosto de 2011. Disponível em http://www.fiscosoft.com.br/a/5fp7/estudo-investigacao-e-analiselimitacao-a-compensacao-de-prejuizos-fiscais-e-extincao-da-pessoa-juridica-normas-derivadas-desrespeito-ao-principio-da-divisao-dos-poderes-e-uso-indevido-de-decisa
+
+    SANTOS, Ramon Tomazela. "As regras tributárias de subcapitalização: entre a antielisão
+    e o estímulo à capitalização societária. A influência das teorias econômicas (trade-off
+    e pecking-order) na estrutura de capital das pessoas jurídicas". Rev. Dialética
+    de Direito Tributário, São Paulo, jun. 2014, v.225, p.147-162.
+
+    SCHOUERI, Luís Eduardo e ANDRADE JUNIOR, Luiz Carlos de. "Incorporação de ações:
+    natureza societária e efeitos tributários". Rev. Dialética de Direito Tributário,
+    São Paulo, maio 2012, v.200, p.44-72.
+
+    SCHOUERI, Luis Eduardo. Juros sobre capital próprio: natureza jurídica e forma
+    de apuração diante da ''Nova Contabilidade''. In: Roberto Quiroga Mosquera; Alexsandro
+    Broedel Lopes. (Org.). Controvérsias Jurídico-Contábeis (Aproximações e Distanciamentos).
+    1ed.São Paulo: Dialética, 2012, v. 3, p. 169-193.
+
+    SILVEIRA, Rodrigo Maito da e SANTOS, João Victor Guedes. "Distribuição desproporcional
+    de juros sobre o capital próprio". Rev. Dialética de Direito Tributário, São Paulo,
+    jun. 2013, v.213, p.140-152.
+
+    TAKATA, Marcos Shigueo. "Empresa-veículo e a amortização fiscal do ágio: há um
+    problema real?". In MOSQUERA, Roberto Quiroga; LOPES, Alexsandro Broedel. Controvérsias
+    jurídico contábeis (aproximações e distanciamentos). São Paulo: Dialética, 2014.
+    v5. p.222-242.
+
+    THAIS ROMERO VEIGA SHINGAI. (n.d.). Impactos da evolução contábil e tributária
+    sobre as estruturas de pagamento baseado em ações.
+
+    VETTORI, G. G.; RUBINSTEIN, Flavio. Closing the Brazilian Tax Gap: Public Shaming,
+    Transparency and Mandatory Disclosure as Means of Dealing with Tax Delinquencies,
+    Tax Evasion and Tax Planning. Derivatives and Financial Instruments, v. 18, p.
+    1, 2016.
+
+    VIEIRA, Jorge. Transações de M&A e os impactos societários e tributários das IFRSs
+    no Brasil: Desafios Apresentados aos Operadores do Direito e aos Operadores das
+    IFRSs. 2º Workshop de Contabilidade e Tributação da FEARP/USP, 20.10.2016 e 21.10.2016
+
+    XAVIER, Alberto e ESTRADA, Roberto Duque. "Incorporação de prejuízos à conta de
+    sócio: natureza jurídica e aspectos fiscais". Rev. Dialética de Direito Tributário,
+    São Paulo, jan. 2008, v.148, p.7-16.
+
+    XAVIER, Alberto, Incorporação de ações: natureza jurídica e regime tributário,
+    in CASTRO, Rodrigo R. Monteiro de; ARAGÃO, Leandro Santos de (coord.), Sociedade
+    Anônima 30 Anos da Lei 6.404/76, São Paulo: Quartier Latin, 2007.
+
+    XAVIER, Alberto. "Legitimidade da distribuição acumulada de juros sobre capital
+    próprio". In CASTRO, Rodrigo R. Monteiro de; WARDE JÚNIOR, Walfrido Jorge; GUERREIRO,
+    Carolina Dias Tavares. Direito empresarial e outros estudos de direito em homenagem
+    ao professor José Alexandre Tavares Guerreiro. São Paulo: Quartier Latin, 2013.
+    p.693-712.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    AGUIAR, Luciana Ibiapina Lira. Os pronunciamentos contábeis na tributação sobre
+    o lucro. In. SILVA, Fabio Pereira da, PINTO, Alexandre Evaristo, PITMAN, Arthur.
+    Manual de gestão tributária: teoria e prática. São Paulo: Atlas, 2023.
+
+    ÁVILA, Humberto. "Ágio com fundamento em rentabilidade futura. Empresas do mesmo
+    grupo. Aquisição mediante conferência em ações. Direito à amortização. Licitude
+    formal e material do planejamento - Parecer". Rev. Dialética de Direito Tributário,
+    São Paulo, out. 2012, v.205, p.163-184.
+
+    ÁVILA, Humberto. "Notas sobre o novo regime jurídico do ágio''. In MOSQUERA, Roberto
+    Quiroga; LOPES, Alexsandro Broedel. Controvérsias jurídico-contábeis (aproximações
+    e distanciamentos). São Paulo: Dialética, 2014. v5. p.149-159.
+
+    ÁVILA, Humberto. "Operações de proteção contra variação do dólar e de redução
+    dos custos operacionais. Hedge. Swap. Dedutibilidade da base de cálculo do IRPJ
+    e da contribuição sobre o lucro líquido das despesas incorridas e das perdas sofridas
+    Parecer". Rev. Dialética de Direito Tributário, São Paulo, out. 2011, v.193, p.163-172.
+
+    BIANCO, João Francisco. O Conceito de Valor Justo e seus Reflexos Tributários.
+    In: Controvérsias Jurídico Contábeis (Aproximações e Distanciamentos). 5º Volume.
+    Coord.: Roberto Quiroga Mosquera; Alexsandro Broedel Lopes. São Paulo: Dialética,
+    2014.
+
+    BIFANO, Elidie Palma. "A tributação dos derivativos: conceito dedutibilidade e
+    discussões mais recentes". In MOSQUERA, Roberto Quiroga. O direito tributário
+    e o mercado financeiro e de capitais. São Paulo: Dialética, 2009. p.125-145.
+
+    BITTAR-GODINHO, Denise. Controladoria e gestão tributária empresarial. In. SILVA,
+    Fabio Pereira da, PINTO, Alexandre Evaristo, PITMAN, Arthur. Manual de gestão
+    tributária: teoria e prática. São Paulo: Atlas, 2023.
+
+    BLANK, J. D. (2009). What’s Wrong With Shaming Corporate Tax Abuse. Tax Law Review,
+    62(4), 539–590.
+
+    CARVALHO, Nelson. Instrumentos Financeiros Híbridos. In MOSQUERA, Roberto Quiroga;
+    LOPES, Alexsandro Broedel. Controvérsias jurídico-contábeis (aproximações e distanciamentos).
+    São Paulo: Dialética, 2011. v.2. p. 202-211.
+
+    CARVALHOSA, Modesto. "Reorganização societária. Aumento de capital. Conferência
+    de participação acionária. Avaliação pelo valor econômico. Registro contábil pelo
+    método de equivalência patrimonial. Cisão parcial. Incorporação de controladora.
+    Benefício fiscal. Partes beneficiárias. Simulação e abuso de forma" In: CARVALHOSA,
+    Modesto; EIZIRIK, Nelson. Estudos de direito empresarial. São Paulo: Saraiva,
+    2010. p.135-180. OLIVEIRA, Ricardo Mariz de. Incorporação de ações no direito
+    tributário: conferência de bens, permuta, dação em pagamento e outros negócios
+    jurídicos. São Paulo: Quartier Latin, 2014. 208 p
+
+    FARO, Maurício Pereira; MEIRA, Thais de Barros. A Jurisprudência do CARF sobre
+    o Aproveitamento do Ágio e as Alterações Introduzidas pela Medida Provisória n°
+    627. In MOSQUERA, Roberto Quiroga; LOPES, Alexsandro Broedel. Controvérsias jurídico-contábeis
+    (aproximações e distanciamentos). São Paulo: Dialética, 2014. v.5. p.261-273.
+
+    FREITAS, Rodrigo de. Tributação da Permuta de Imóveis e as Novas Regras Contábeis.
+    In: Controvérsias Jurídico Contábeis (Aproximações e Distanciamentos). 3º Volume.
+    Coord.: Roberto Quiroga Mosquera; Alexsandro Broedel Lopes. São Paulo: Dialética,
+    2012
+
+    GRECO, Marco Aurélio. "Ágio por expectativa de rentabilidade futura: algumas observações".
+    Rev. Fórum de Direito Tributário, Belo Horizonte, set./out. 2009, v.41, p.9-20.
+
+    MALHERBE, Jacques. VETTORI, Gustavo G. Deducting Interest on Equity Capital: Brazilian
+    and Belgian Tax Rules Compared. In: European Tax Studies.
+
+    MARTINS, Eliseu; IUDÍCIBUS, Sérgio. Intangível – Sua Relação Contabilidade Direito
+    – Teoria, Estruturas Conceituais e Normas – Problemas Fiscais de Hoje. In MOSQUERA,
+    Roberto Quiroga; LOPES, Alexsandro Broedel. Controvérsias jurídico-contábeis (aproximações
+    e distanciamentos). São Paulo: Dialética, 2010. v.2. p.69-85
+
+    MENDES, Rodrigo Octávio Broglia. "Apontamentos sobre a tributação das operações
+    de hedge pelo imposto de renda na fonte". Direito tributário atual. São Paulo:
+    IBDT, Dialética, 2001. 16. p.257-272. [coordenação de Alcides Jorge Costa e Luis
+    Eduardo Schoueri]
+
+    MOSQUEIRA, Roberto Quiroga; BARRETO, Ana Paula Schincariol Lui e FREITAS, Rodrigo
+    de. "Aspectos práticos e polêmicos da amortização do ágio e a jurisprudência do
+    Carf". In ROCHA, Valdir de Oliveira. Grandes questões atuais do direito tributário.
+    São Paulo: Dialética, 2012. 16. p.327-347.
+
+    NEDER, Marcos Vinicius e JUNQUEIRA, Lavínia Moraes de Almeida Nogueira. "Análise
+    do tratamento contábil e fiscal do ágio em estrutura de aquisição ou titularidade
+    de sociedade quando há interposição de holding". In MOSQUERA, Roberto Quiroga;
+    LOPES, Alexsandro Broedel. Controvérsias jurídico-contábeis (aproximações e distanciamentos).
+    São Paulo: Dialética, 2013. 4. p.157-182.
+
+    NOVAIS, Raquel e TONANNI, Fernando. "Ágio - Novo regime jurídico e questões atuais".
+    In MOSQUERA, Roberto Quiroga; LOPES, Alexsandro Broedel. Controvérsias jurídico-contábeis
+    (aproximações e distanciamentos). São Paulo: Dialética, 2014. 5. p.325-358.
+
+    NOVAIS, Raquel; MARTINEZ, Bruna Marrara. A Lei 12.973/2014, a Empresa-veículo
+    e Outros Temas. In MOSQUERA, Roberto Quiroga; LOPES, Alexsandro Broedel. Controvérsias
+    jurídico-contábeis (aproximações e distanciamentos). São Paulo: Dialética, 2015.
+    v.6. p.491-518.
+
+    OLIVEIRA, Ricardo Mariz de. Questões Atuais sobre o Ágio – Ágio Interno – Rentabilidade
+    Futura e Intangível – Dedutibilidade das Amortizações – As Inter-relações entre
+    a Contabilidade e o Direito. In MOSQUERA, Roberto Quiroga; LOPES, Alexsandro Broedel.
+    Controvérsias jurídico-contábeis (aproximações e distanciamentos). São Paulo:
+    Dialética, 2010. v.2. p.212-232.
+
+    SOUZA, Rodrigo Paiva. Tributos na formação de preços e custos empresariais. In.
+    SILVA, Fabio Pereira da, PINTO, Alexandre Evaristo, PITMAN, Arthur. Manual de
+    gestão tributária: teoria e prática. São Paulo: Atlas, 2023.
+
+    TAKANO, Caio Augusto, Introdução ao compliance fiscal empresarial. In. SILVA,
+    Fabio Pereira da, PINTO, Alexandre Evaristo, PITMAN, Arthur. Manual de gestão
+    tributária: teoria e prática. São Paulo: Atlas, 2023.
+
+    UTUMI, Ana Cláudia Akie. "Hedge via operações de swap: tributação pelo imposto
+    de renda". Rev. Dialética de Direito Tributário, São Paulo, jan. 2010, v.172,
+    p.18-33.'
+  course: '1. PLANEJAMENTO TRIBUTÁRIO E CONTABILIDADE
+
+    1.1. Planejamento tributário: objetivos e limites legais e éticos; elisão e evasão
+
+    1.2. Paradigmas do planejamento tributário: todas as partes, todos os tributos
+    e todos os custos
+
+    1.3. Aprofundamento de técnicas e ferramentas de planejamento tributário
+
+    1.3.1. Migração do lucro
+
+    1.3.2. Tax sheltering
+
+    1.3.3. Requalificação de rendimentos
+
+    1.3.4. Incentivos fiscais
+
+    1.3.5. Sistemáticas diferenciadas
+
+    1.3.6. Preços de transferência
+
+    1.4. Planejamento tributário interno e internacional
+
+    1.5. Análise de riscos e benefícios
+
+    1.6. Disclosure voluntário e obrigatório de operações de planejamento tributário
+    e outras transações que denotem risco tributário
+
+    1.7. Incertezas tributárias e seu tratamento contábil
+
+    2. PROVISÕES, PASSIVOS CONTINGENTES, ATIVOS CONTINGENTES
+
+    2.1. Provisões de tributos e passivo fiscal diferido
+
+    2.1.1. Provisões de tributos
+
+    2.1.2. Posições de risco de imposto de renda e passivo fiscal diferido
+
+    2.1.3. Critérios para o registro
+
+    2.1.4. Análise de risco: fiscalização e jurisprudência?
+
+    2.2. Tratamento de provisões para fins de IRPJ e CSLL
+
+    2.3. Ações tributárias e registro de ativos (contingentes)
+
+    2.4. Reconhecimento de créditos tributários e compensação tributária
+
+    2.5. Limitações à compensação de tributos e reconhecimento de créditos tributários
+
+    3. AVALIAÇÃO A VALOR JUSTO (“AVJ”) E RECONHECIMENTO DE GANHOS TRIBUTÁVEIS
+
+    3.1. Realização e reconhecimento de ganho
+
+    3.2. Regras de não reconhecimento e a sua função
+
+    3.3. Não reconhecimento do ganho e registro de passivo fiscal diferido
+
+    3.4. Operações de permuta
+
+    3.4.1. AVJ na permuta
+
+    3.4.2. Permuta, lucro real e lucro presumido
+
+    3.4.3. Permuta e pessoa física
+
+    3.5. AVJ em operações societárias
+
+    3.6. Controle em subcontas e consequências da sua ausência
+
+    3.7. Avaliação a valor justo e tributação de controladas no exterior
+
+    4. COMBINAÇÃO DE NEGÓCIOS E TRIBUTAÇÃO DE OPERAÇÕES DE FUSÕES E AQUISIÇÕES
+
+    4.1. Casos de combinação de negócios
+
+    4.2. Registro de mais-valia/menos-valia e goodwill/ganho em compra vantajosa em
+    operações de aquisição de empresas (“M&A”)
+
+    4.3. Tratamento tributário da mais-valia/menos-valia e goodwill/ganho em compra
+    vantajosa
+
+    4.3.1 Ágio, seus fundamentos e tratamento tributário: regimes pré e pós Lei 12.973/14
+
+    4.3.2. Ágio interno: histórico no CARF, art. 36 da Lei nº 10.637/02, e soluções
+    da Lei 12.973/14
+
+    4.3.3. Restrição ao aproveitamento do ágio em operações entre partes ligadas
+
+    4.3.4. Aquisição em estágios e seu tratamento
+
+    4.3.5. Operações com empresa veículo para aproveitamento do ágio: planejamento
+    abusivo?
+
+    4.3.6. Ágio e PL negativo
+
+    4.4. Operações de combinação de negócios que não envolvam aquisição de participação
+    societária: tratamento do AVJ, mais(menos)-valia e goodwill
+
+    4.5. Tributos diferidos e o seu tratamento nas combinações de negócio
+
+    4.6. Tratamento tributário de contraprestações contingentes
+
+    4.7. Operações envolvendo incorporação de ações
+
+    4.7.1. Operações com acionistas pessoas físicas e pessoas jurídicas
+
+    4.7.2. Evolução da jurisprudência do CARF e dos tribunais
+
+    4.7.3. Consequências da aplicação de regras de não reconhecimento e tratamento
+    da mais-valia e goodwill
+
+    5. PREJUÍZOS FISCAIS E SEUS RECONHECIMENTO
+
+    5.1. Prejuízo contábil e prejuízo fiscal
+
+    5.2. Utilização dos prejuízos fiscais e suas limitações no Brasil em comparação
+    a outros países
+
+    5.3. Reconhecimento contábil do prejuízo fiscal: particularidades do sistema brasileiro
+
+    5.4. Prejuízo fiscal e operações societárias
+
+    5.4.1. Aproveitamento do prejuízo fiscal após operação de M&A
+
+    5.4.2. Mudança de controle e mudança de atividade
+
+    5.4.3. Prejuízo fiscal na incorporação (direta e reversa)
+
+    5.4.4. Cisão e fusão
+
+    5.4.5. Continuidade dos negócios e transferência de ativos e atividades econômicas
+
+    5.4.6. Migração do lucro para aproveitamento de prejuízos fiscais
+
+    5.5. Prejuízo fiscal e programas de parcelamento
+
+    5.6. Outras formas de aproveitamento dos prejuízos fiscais
+
+    5.7. Prejuízo a conta de sócio: impactos tributários e societários
+
+    6. ESTRUTURA DE CAPITAL, IMPACTOS TRIBUTÁRIOS E INSTRUMENTOS FINANCEIROS HÍBRIDOS
+
+    6.1. Teorias de estrutura de capital e sua consideração pelo fator tributário
+
+    6.2. Métodos de integração do IRPJ com o IRPF e seus impactos na estrutura de
+    capital
+
+    6.2.1. Método do crédito
+
+    6.2.2. Método da dedução
+
+    6.2.3. Método da isenção
+
+    6.2.4. Método clássico e split rate
+
+    6.2.5. Consideração às alíquotas aplicáveis ao lucro das empresas, aos juros e
+    aos dividendos
+
+    6.3. Isenção de dividendos no Brasil: histórico, situação atual e propostas de
+    reforma
+
+    6.4. Juros sobre o capital próprio
+
+    6.4.1. Inspiração no método da dedução
+
+    6.4.2. Inspiração na Allowance for Corporate Equity (ACE)
+
+    6.4.3. Correção monetária de balanço e JCP
+
+    6.4. Equilíbrio no Brasil: há incentivos para a subcapitalização?
+
+    6.5. Planejamento tributário e estrutura de capital
+
+    6.5.1. Migração do lucro por meio de escolhas de estrutura de capital
+
+    6.5.2. Subcapitalização em operações internas e cross-border
+
+    6.5.3. Regras de subcaptialização
+
+    6.6. Utilização de instrumentos financeiros híbridos
+
+    6.6.1. Determinantes não tributárias
+
+    6.6.2. Determinantes tributárias
+
+    7. ESTRUTRAS ALTERNATIVAS DE REMUNERAÇÃO E IMPACTOS TRIBUTÁRIOS
+
+    7.1. Utilização de pessoas jurídicas como forma de planejamento tributário
+
+    7.1.1. Terceirização e migração de rendimentos da pessoa física para empresas
+    no lucro presumido e no SIMPLES
+
+    7.1.2. Impactos de imposto de renda
+
+    7.1.3. Impactos em contribuições sociais
+
+    7.1.4. Tributação de artistas e esportistas
+
+    7.1.5. Limitações e evolução legislativa e da jurisprudência
+
+    7.1.6. O Art. 129 da Lei 11.196/05 e sua extensão
+
+    7.2. Participação em lucros e resultados (“PLR”)
+
+    7.2.1. Determinantes não tributárias para se estabelecer planos de PLR para empregados
+
+    7.2.2. Tratamento tributário do PLR
+
+    7.2.3. Dedutibilidade dos valores pagos
+
+    7.2.4. Tributação pelo IRPF
+
+    7.2.5. Tributação pelas contribuições sobre a folha
+
+    7.2.6. Limitações de planos de PLR e riscos tributários
+
+    7.2.7. PLR pago a administradores
+
+    7.3. Pagamentos baseados em ações e stock options
+
+    7.3.1. Determinantes não tributárias para remuneração com base em ações
+
+    7.3.2. Tratamento contábil da remuneração com base em ações
+
+    7.3.3. Tipos de plano de remuneração com base em ações e por stock options
+
+    7.3.4. Regras sobre a dedutibilidade da remuneração com base em ações
+
+    7.3.5. Discussões sobre o tratamento tributário do recebimento de remuneração
+    baseada em ações
+
+    7.3.6. Propostas legislativas e estado atual da jurisprudência
+
+    7.3.7. Análise de riscos e benefícios em planos de remuneração baseados em ações
+
+    7.3.8. Remuneração baseada em ações por grupos multinacionais
+
+    8. SUBVENÇÕES, ASSISTÊNCIAS GOVERNAMENTAIS E INCENTIVOS FISCAIS
+
+    8.1. Tratamento contábil de subvenções e assistências governamentais
+
+    8.2. Tratamento das subvenções e assistências governamentais para fins de imposto
+    de renda: possibilidades de política fiscal
+
+    8.3. Problemas federativos envolvidos na tributação de subvenções governamentais
+
+    8.4. Subvenções dadas por meio de incentivos fiscais: identificação e mensuração
+
+    8.5. Tratamento tributário das subvenções governamentais pelo imposto de renda
+
+    8.5.1. Histórico anterior à Lei 12.973/14
+
+    8.5.2. Tratamento da Lei 12.973/14
+
+    8.5.3. Tratamento introduzido pela Lei Complementar 160
+
+    8.5.4. Regime da Lei 14.789/23
+
+    8.6. Evolução da posição da RFB sobre o tema
+
+    8.7. Evolução da jurisprudência
+
+    8.8. Impacto do tratamento das subvenções na alíquota efetiva do IRPJ e da CSLL
+
+    8.9. Impactos para fins de Pillar 2
+
+    9. TRIBUTAÇÃO DE FUNDOS DE INVESTIMENTO E OUTROS INSTRUMENTOS FINANCEIROS E TRATAMENTO
+    TRIBUTÁRIO DE OPERAÇÕES DE HEDGE
+
+    9.1. Fundos de investimento e planejamento tributário
+
+    9.2. Sistemática do come-cotas
+
+    9.3. Tratamento de fundos fechados e fundos com regime específico
+
+    9.4. Qualificação dos fundos como entidades de investimento: consequências contábeis
+    e tributárias
+
+    9.5. Planejamentos tributários com instrumentos financeiros e securitização de
+    recebíveis: análise de casos
+
+    9.6. Hedge, seu tratamento contábil e tratamento tributário'
+  course_name: 'EAC0615 - Tópicos Avançados de Contabilidade e Planejamento Tributário
+
+    Advanced Topics in Tax Accounting and Planning'
+  deactivation: ''
+  lecture_credits: '4'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A disciplina é voltada para alunos que já possuam conhecimentos em contabilidade
+    tributária e busca aprofundar tais conhecimentos explorando tópicos avançados
+    relacionados à tributação e contabilidade. Todos estes tópicos têm em comum, de
+    um lado, as influências recíprocas entre os tratamentos contábil e tributário
+    e, de outro, a necessidade de ajustes, para fins tributários, em relação aos registros
+    feitos na contabilidade. Além disso, todos os tópicos envolvem condutas e estratégias
+    complexas de planejamento tributário. Trazem, assim, problemas complexos cuja
+    solução carece de ferramentas e habilidades avançadas a serem desenvolvidas. Cada
+    um dos temas é estruturado de maneira didática para facilitar a sua compreensão,
+    sendo que a sua aplicação se dará por meio de casos concretos a serem desenvolvidos
+    ao longo do curso.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    A disciplina realizará aprofundamento em temas avançados de tributação, oferecendo
+    uma visão estruturada sobre cada um destes temas e trabalhando a sua aplicação
+    a casos concretos complexos. Ao final do curso, espera-se que os alunos estejam
+    aptos a:
+
+    1. Lidar com questões contábeis complexas que geram relevantes impactos tributários,
+    sendo capazes de realizar os ajustes necessários à realidade contábil, conforme
+    as regras aplicáveis a cada um dos temas analisados.
+
+    2. Identificar, mensurar e evidenciar de forma adequada os impactos patrimoniais
+    de ajustes e posições tributárias relacionadas a cada um dos temas analisados.
+
+    3. Aplicar estratégias e técnicas de planejamento tributário a situações complexas,
+    sendo capaz de analisar alternativas, riscos e benefícios em cada uma das situações
+    analisadas.
+
+    4. Lidar com casos envolvendo questões contábeis e tributárias complexas, sendo
+    capaz de desenvolver soluções e expô-las oralmente e por escrito.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241114071834'
+digest: 2EAWUDLKT43VDI7EGMI4W3RI6LXPL3WS
+updated_at: '20241114071834'
+url: https://web.archive.org/web/20241114071834id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0615&codcur=12033&codhab=4
