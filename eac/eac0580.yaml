@@ -1,0 +1,121 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    Thompson, A. A.; Stappenbeck, G.J; Reidenbach, M.A; Thrasher, I.; Harms, C.C.
+    The Business Strategy Game: Player’s Guide. McGraw, 2019.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    ALDRICH, C. A. Learning by doing: A comprehensive guide to simulations, computer
+    games, and pedagogy in e-Learning and other educational experiences. San Francisco,
+    CA: Pfeiffer, 2005.
+
+    FIANI, R. Teoria dos Jogos. São Paulo: Campus, 2003.
+
+    GRAMIGNA, M. R. M. Jogos de empresas e técnicas vivenciais. São Paulo: Makron
+    Books, 1995.
+
+    KIRBY, A. 150 Jogos de treinamento. São Paulo: T&D Editora, 1995.
+
+    VICENTE, P. Jogos de empresas: A fronteira do conhecimento em administração de
+    negócios. São Paulo: Makron Books, 2001.
+
+    SAUAIA, A.C.A, Gestão Simulada de negócios: uma visão estratégica de desempenho.
+    Anais da SLADE – Sociedade Latino Americana de Estratégia. São Paulo, 1990.
+
+    Laboratórios de informática do DCC e NPD.
+
+    THOMPSON,A.A., Jr.;Strickland,A.J.,III;&Gamble,J.E.(2009).Crafting and executing)strategy.
+    McGraw!Hill. (acesso virtual)'
+  course: '1. IMPORTÂNCIA E OBJETIVOS DO JOGO, NO SENTIDO DE DESENVOLVER AS HABILIDADES
+    PARA TOMAR DECISÕES, ANALISAR E INTERPRETAR OS RELATÓRIOS CONTÁBEIS GERADOS NO
+    SIMULADOR
+
+    1.1 Conceitos
+
+    1.2 Relevância para o mercado
+
+    1.3 Relevância para a academia
+
+    1.4 Reflexões acerca de jogo e experiências inerentes
+
+    2. REGRAS DO JOGO
+
+    2.1 Estratégia do negócio e segmento de atuação
+
+    2.2 Concorrência
+
+    2.3 Indicadores (volume de vendas, Market share, receitas, lucros, custos, qualidade
+    do produto, Lucro por ação, rating de crédito, ROE, preço das ações, Imagem)
+
+    2.4 Objetivos, metas e desempenho
+
+    2.5 Relatórios da empresa
+
+    3. DEFINIÇÃO DAS EQUIPES
+
+    3.1 Atribuições e responsabilidades
+
+    3.2 Desempenho
+
+    4. PRÁTICA ENVOLVENDO SIMULAÇÃO DE UMA EMPRESA
+
+    4.1 Variáveis internas e externas, tais como taxas de juros, índice de crescimento
+    econômico, inflação, sazonalidade, demanda, motivação e produtividade dos empregados,
+    disponibilidade de mão de obra, qualidade dos produtos ou serviços prestados,
+    necessidades de instalações, custos de produção, estocagem e depreciação, empréstimos,
+    financiamentos, aplicação de recursos, investimentos em marketing, contrato com
+    celebridades, investimento em pesquisa e desenvolvimento, preço de venda dos produtos
+    e serviços,  logística internacional, entre outros
+
+    4.2 Análise de cenários econômicos e organizacionais e seus respectivos dados
+    e consequências, incluindo informações dos concorrentes
+
+    4.3 Síntese das ideias e criação de soluções
+
+    4.4 Avaliação do impacto de decisões de negócios e ações coletivas na condução
+    da organização, considerando o ambiente de simulação
+
+    4.5 Valorização da importância do processo de tomada de decisões com foco estratégico,
+    especialmente na dimensão coletiva de reflexões e ações'
+  course_name: 'EAC0580 - Jogos de Empresas
+
+    Business Game'
+  deactivation: ''
+  instructors: '3767752 - Andson Braga de Aguiar
+
+    73235 - Edgard Bruno Cornacchione Junior
+
+    5859376 - Luciane Reginato Cornacchione'
+  lecture_credits: '4'
+  objectives: "APRESENTAÇÃO DA DISCIPLINA:\nA disciplina busca proporcionar a simulação\
+    \ dos conceitos e das práticas contábeis inerentes à gestão empresarial, em uma\
+    \ abordagem sistêmica. Procura-se demonstrar a aplicação prática dos conceitos\
+    \ adquiridos ao longo do curso, possibilitando ao estudante que desenvolva a sua\
+    \ capacidade como gestor.\nOBJETIVOS DE APRENDIZAGEM:\n1.\tPropiciar o reforço\
+    \ de conceitos acerca do caráter sistêmico da organização, integrando os conhecimentos\
+    \ adquiridos no curso;\n2.\tIncluir as variáveis do ambiente externo nas análises\
+    \ e decisões gerenciais;\n3.\tMostrar a importância dos jogos de empresas como\
+    \ estratégia na aprendizagem da gestão organizacional;\n4.\tDesenvolver o espírito\
+    \ crítico, vital na tomada de decisão;\n5.\tAnalisar e interpretar relatórios\
+    \ contábeis para fins de tomada de decisões;\n6.\tPossibilitar a prática de um\
+    \ tomador de decisão, considerando a análise dos ambientes interno e externo,\
+    \ e respeitando as regras institucionais;\n7.\tAplicar as habilidades voltadas\
+    \ ao trabalho em equipe, envolvendo engajamento, ética, integração e comunicação;\n\
+    8.\tEstimular a transposição da aprendizagem para solucionar diferentes tipos\
+    \ de problemas profissionais; e\n9.\tInteragir com um sistema de negócio."
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241114075838'
+digest: DR2VSUG44BAMBPOVOW3MVIWXZASSJ5YA
+updated_at: '20241114075838'
+url: https://web.archive.org/web/20241114075838id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0580&codcur=12033&codhab=4
