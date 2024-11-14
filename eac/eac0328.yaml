@@ -120,7 +120,7 @@ courses:
   course_name: 'EAC0328 - Contabilidade Avançada
 
     Advanced Accounting'
-  deactivation: ''
+  deactivation: 31/12/2024
   instructors: '90328 - Ariovaldo dos Santos
 
     8476037 - Eduardo da Silva Flores
@@ -157,7 +157,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220120230341'
-digest: TAQAGPU5T74G5Q267KH4LOBYHVDSXFUD
-updated_at: '20220713032606'
-url: https://web.archive.org/web/20220713032606id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=eac0328
+created_at: '20241114073114'
+digest: XJW35RXGFU5DGYPLXIYAKHH4V3IEUZ5Q
+updated_at: '20241114073114'
+url: https://web.archive.org/web/20241114073114id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0328&codcur=12033&codhab=4
