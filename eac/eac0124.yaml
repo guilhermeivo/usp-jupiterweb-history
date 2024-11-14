@@ -96,10 +96,8 @@ courses:
   course_name: 'EAC0124 - Sistemas de Informações Empresariais (ERP)
 
     Enterprise Resource Systems'
-  deactivation: ''
+  deactivation: 31/12/2024
   instructors: '73235 - Edgard Bruno Cornacchione Junior
-
-    606298 - Edison Carlos Fernandes
 
     990725 - Joshua Onome Imoniana
 
@@ -132,7 +130,7 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20220120225907'
-digest: FYL6ERGRBC4MHVWN2AMQLB2RYJMAY3XR
-updated_at: '20220120225907'
-url: https://web.archive.org/web/20220120225907id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0124&codcur=12033&codhab=4
+created_at: '20241114072510'
+digest: T4WQCHWE6MPYSMBNA4CDKNOO6G7SPCY3
+updated_at: '20241114072510'
+url: https://web.archive.org/web/20241114072510id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0124&codcur=12033&codhab=4
