@@ -1,0 +1,162 @@
+courses:
+  activation: 01/01/2022
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    CONSELHO FEDERAL DE CONTABILIDADE (CFC). NBC TSP - Estrutura Conceitual para Elaboração
+    e Divulgação de Informação Contábil de Propósito Geral pelas Entidades do Setor
+    Público. Disponível em:  http://www1.cfc.org.br/sisweb/SRE/docs/NBCTSPEC.pdf.
+
+    GIACOMONI, J. (2017). Orçamento público. 17. ed. São Paulo: Atlas.
+
+    KOHAMA, H. (2016). Contabilidade pública: teoria e prática. 15. ed. São Paulo:
+    Atlas.
+
+    SECRETARIA DO TESOURO NACIONAL (STN) (2018). Manual de Contabilidade Aplicada
+    ao Setor Público. 8. ed. Brasília: STN.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    BRASIL. Constituição (1988). Constituição da República Federativa do Brasil. Recuperado
+    de: http://www.senado.gov.br.
+
+    BRASIL. Lei Complementar nº 101 de 4 de Maio de 2000. Recuperado de: http://www.senado.gov.br.
+
+    BRASIL. Lei nº 4.320 de 17 de Março de 1964. Recuperado de: http://www.senado.gov.br.
+
+    BEZERRA FILHO, J. E. (2015). Contabilidade Aplicada ao Setor Público: abordagem
+    simples e objetiva. 2. ed. São Paulo: Atlas.
+
+    FEIJÓ, P. H. et al. (2017). Entendendo as Demonstrações Contábeis Aplicadas ao
+    Setor Público. Brasília: Gestão Pública.
+
+    LIMA, D. V. (2018). Orçamento, contabilidade e gestão no setor público. São Paulo:
+    Atlas.
+
+    LORSON, P. C.; JORGE, S.; HAUSTEINS, E. (2019). European public sector accounting.
+    Coimbra: Imprensa da Universidade de Coimbra.
+
+    REIS, H. da C.; MACHADO JR, J. T. (2019). A Lei 4.320 comentada e a Lei de Responsabilidade
+    Fiscal. 36. ed. Rio de Janeiro: IBAM.
+
+    ROSA, M. B. (2013). Contabilidade do setor público. 2. ed. São Paulo: Atlas.
+
+    SILVA, L. M. (2011). Contabilidade governamental: um enfoque administrativo da
+    nova Contabilidade Pública. 9. ed. São Paulo: Atlas.
+
+    SLOMSKI, V. (2013). Manual de contabilidade pública. 3. ed. São Paulo: Atlas.
+
+    SUZART, J.; ROCHA, D. G. da; ZUCCOLOTTO, R. (2019). O novo padrão de contabilidade
+    aplicado ao setor público: estrutura conceitual. 1. Ed. Curitiba: Appris.'
+  course: '1. CONTEXTO DA CONTABILIDADE APLICADA AO SETOR PÚBLICO
+
+    1.1 Setor Público X Setor Privado
+
+    1.2 Estado e Governo
+
+    1.3 Administração Pública
+
+    1.4 Especificidades da Contabilidade Aplicada ao Setor Público
+
+    2. ESTRUTURA CONCEITUAL PARA ELABORAÇÃO E DIVULGAÇÃO DE INFORMAÇÃO CONTÁBIL DE
+    PROPÓSITO GERAL PELAS ENTIDADES DO SETOR PÚBLICO
+
+    2.1 Objetivos e Usuários
+
+    2.2 Elementos das Demonstrações Contábeis
+
+    2.3 Reconhecimento nas Demonstrações Contábeis
+
+    2.4 Mensuração de Ativos e Passivos
+
+    3. PROCESSO DE PLANEJAMENTO E ORÇAMENTO
+
+    3.1 Plano Plurianual
+
+    3.2 Lei de Diretrizes Orçamentárias
+
+    3.3 Lei Orçamentária Anual
+
+    4. RECEITAS E DESPESAS PÚBLICAS
+
+    4.1 Classificações das Receitas e Despesas Públicas
+
+    4.2 Estágios das Receitas e Despesas Públicas
+
+    4.3 Créditos Adicionais
+
+    4.4 Restos a Pagar
+
+    5. DEMONSTRAÇÕES CONTÁBEIS APLICADAS AO SETOR PÚBLICO
+
+    5.1 Balanço Orçamentário
+
+    5.2 Balanço Financeiro
+
+    5.3 Balanço Patrimonial
+
+    5.4 Demonstração das Variações Patrimoniais
+
+    5.5 Demonstração dos Fluxos de Caixa
+
+    6. SISTEMA DE INFORMAÇÃO CONTÁBIL E O PLANO DE CONTAS APLICADO AO SETOR PÚBLICO
+
+    6.1 Subsistema de Informações Orçamentárias
+
+    6.2 Subsistema de Informações Patrimoniais
+
+    6.3 Subsistema de Informações de Controle
+
+    7. CONTABILIZAÇÃO DE TRANSAÇÕES TÍPICAS DAS ENTIDADES DO SETOR PÚBLICO
+
+    7.1 Transações decorrentes da execução orçamentária
+
+    7.2 Transações independentes da execução orçamentária'
+  course_name: 'EAC0153 - Contabilidade Aplicada ao Setor Público
+
+    Public Sector Accounting'
+  deactivation: 31/12/2024
+  instructors: '3549898 - Patrícia Siqueira Varela
+
+    1818911 - Valmor Slomski'
+  lecture_credits: '4'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A disciplina objetiva propiciar aos participantes o aprendizado relativo aos conceitos,
+    definições, ferramentas e técnicas destinados à geração de informações contábeis
+    para fins de tomada de decisão e accountability no âmbito das entidades do setor
+    público brasileiro.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Espera-se que, ao final da disciplina, os participantes estejam aptos a:
+
+    1. Identificar características das entidades do setor público e das transações
+    e eventos que a elas são típicos e que implicam em desafios quanto à normatização
+    e implementação dos padrões contábeis.
+
+    2. Aplicar princípios, fundamentos, conceitos e definições da Estrutura Conceitual
+    para Elaboração e Divulgação de Informação Contábil de Propósito Geral pelas Entidades
+    do Setor Público.
+
+    3. Aplicar os padrões contábeis adotados no Brasil e as International Public Sector
+    Accounting Standards (IPSAS) estudados nesta disciplina a determinadas transações
+    e outros eventos.
+
+    4. Elaborar demonstrações contábeis de acordo com as normas brasileiras de contabilidade
+    aplicadas ao setor público e com as International Public Sector Accounting Standards
+    (IPSAS): Balanço Orçamentário, Balanço Financeiro, Balanço Patrimonial, Demonstração
+    das Variações Patrimoniais e Demonstração dos Fluxos de Caixa.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241114081804'
+digest: NZA7523CZXUADS2WHHJTS7VTYS5SRQYP
+updated_at: '20241114081804'
+url: https://web.archive.org/web/20241114081804id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0153&codcur=12033&codhab=4
