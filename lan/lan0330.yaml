@@ -1,39 +1,33 @@
 courses:
-  activation: 01/01/2023
+  activation: 01/01/2024
   assessment: Para a prova de recuperação, toda a matéria lecionada no semestre será
     questionada, exigindo do aluno uma revisão completa dos assuntos tratados.
-  bibliography: 'BRASIL. Ministério da Saúde. Doenças Transmitidas por Alimentos.
+  bibliography: 'BRASIL. Ministério da Saúde. Doenças de Transmissão Hídrica e Alimentar.
     Disponível em:
 
     FOOD AND DRUG ADMINISTRATION. Bad Bug Book, Foodborne Pathogenic Microorganisms
-    and Natural
-
-    Toxins. 2nd ed. 2012. Disponível em:
+    and Natural Toxins. 2nd ed. 2012. Disponível em:
 
     FORSYTHE, S. J. Microbiologia da segurança dos alimentos. 2ª ed. Porto Alegre:
-    Artmed, 2013. 607p. FRANCO, B.D.G.M., LANDGRAF, M. Microbiologia dos alimentos.
-    São Paulo: Editora Atheneu, 2008. 182p.
+    Artmed, 2013. 607p.
+
+    FRANCO, B.D.G.M., LANDGRAF, M. Microbiologia dos alimentos. São Paulo: Editora
+    Atheneu, 2008. 182p.
 
     GERMANO, P.M.L., GERMANO, M.I.S. Higiene e vigilância sanitária de alimentos.
-    6ª ed. Barueri, SP:
+    6ª ed. Barueri, SP: Manole, 2019. 896p.
 
-    Manole, 2019. 896p.
-
-    INTERNATIONAL COMMISSION ON MICROBIOLOGICAL SPECIFICATIONS FOR FOODS.
-
-    Microrganismos em alimentos 8: utilização de dados para avaliação do controle
-    de processo e aceitação de
-
-    produto. São Paulo: Blucher, 2015. 2005. 536p.
+    INTERNATIONAL COMMISSION ON MICROBIOLOGICAL SPECIFICATIONS FOR FOODS. Microrganismos
+    em alimentos 8: utilização de dados para avaliação do controle de processo e aceitação
+    de produto. São Paulo: Blucher, 2015.  2005. 536p.
 
     SALFINGER, Y. & TORTORELLO, M.L. (eds.). Compendium of methods for the microbiological
-
     examination of foods, 5th ed. Washington: American Public Health Association (APHA),
     2015.
 
     SILVA, N., JUNQUEIRA, V.C.A., SILVEIRA, N.F.A., TANIWAKI, M.H., GOMES, R.A.R.,
     OKAZAKI, M.M., IAMANAKA, B.T. Manual de métodos de análise microbiológica de alimentos
-    e água. 6ª ed. São Paulo: Blucher, 2021. 602p'
+    e água. 6ª ed. São Paulo: Blucher, 2021. 602p.'
   course: '1. Introdução à microbiologia dos alimentos. 2. Fatores intrínsecos, extrínsecos
     e implícitos que afetam o
 
@@ -55,32 +49,43 @@ courses:
     para pesquisa e enumeração de microrganismos patogênicos e indicadores de contaminação
     nos alimentos: preparo de amostras, técnicas de diluição decimal, métodos de detecção
     e enumeração em placas e tubos.'
-  course_name: 'LAN0330 - Microbiologia dos Alimentos e Epidemiologia das Doenças
-    Veiculadas por Alimentos
+  course_name: 'LAN0330 - Microbiologia dos Alimentos
 
     Food Microbiology and Epidemiology of Foodborne Illnesses'
-  deactivation: 31/12/2023
-  instructors: 7643900 - Daniele Fernanda Maffei
+  deactivation: ''
+  instructors: '4949597 - Aline Silva Mello Cesar
+
+    7643900 - Daniele Fernanda Maffei'
   lecture_credits: '8'
-  objectives: Propiciar o aprendizado de conceitos de microbiologia dos alimentos.
-    Estudar a importância dos micro-organismos benéficos, deteriorantes e patogênicos
-    em alimentos. Estudar o alimento como ecossistema microbiano e o controle do desenvolvimento
-    de micro-organismos. Estudar a disseminação de micro-organismos no ambiente de
-    produção e processamento dos alimentos. Compreender os fundamentos de epidemiologia
-    em doenças veiculadas por alimentos, estudar os mecanismos de virulência dos principais
-    patógenos veiculados por alimentos. Capacitar o futuro profissional a atuar em
-    casos de investigações epidemiológicas de surtos de doenças transmitidas por alimentos.
-    Compreender critérios microbiológicos e planos de amostragem. Executar técnicas
-    de análises microbiológicas de água e alimentos, interpretar resultados e a legislação
-    pertinente. Desenvolver competência para adotar medidas preventivas na manipulação,
-    industrialização e armazenamento dos alimentos. Estudar os princípios de higienização
-    na indústria de alimentos. Despertar para a importância da gestão da segurança
-    dos alimentos.
+  objectives: 'da atividade
+
+    Disseminar conhecimento sobre microbiologia dos alimentos e os cuidados que devem
+    ser adotados para evitar as enfermidades de origem alimentar.
+
+    Descrição da atividade
+
+    Os alunos desenvolvem materiais educativos, como folders, jogos e vídeos sobre
+    a importância dos microrganismos e os cuidados que devem ser adotados para evitar
+    a contaminação dos alimentos. Esses materiais são direcionados a diferentes grupos
+    populacionais, como crianças, gestantes, idosos e manipuladores de alimentos,
+    entre outros.
+
+    Indicadores de avaliação da atividade
+
+    Os materiais produzidos ficam à disposição dos alunos para serem utilizados nos
+    eventos promovidos pelo curso de Ciências dos Alimentos, direcionados à comunidade.
+    Entre os indicadores de avaliação da atividade, destacam-se o número de eventos
+    nos quais os materiais são utilizados, a quantidade de acessos (no caso de recursos
+    digitais), além do feedback dos participantes acerca da utilidade desses materiais.'
   practical_credits: '1'
-  total_workload: 150 h
+  total_workload: '150 h
+
+    Carga Horária de Extensão:
+
+    30 h'
   type: Semestral
-created_at: '20231209045814'
-digest: 5BRHI7T3QMYCRVNNOLKK34EFJLRJVOOH
+created_at: '20241202115208'
+digest: JU7CWOO4CVXF3GUQRIICXJJDJLA5EBAO
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 7'
   requirements:
@@ -102,5 +107,5 @@ requirements:
   - code: LFN0225
     name: Microbiologia Geral
     type: Requisito
-updated_at: '20231209045814'
-url: https://web.archive.org/web/20231209045814id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN0330&codcur=11010&codhab=0
+updated_at: '20241202115208'
+url: https://web.archive.org/web/20241202115208id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN0330&verdis=5
