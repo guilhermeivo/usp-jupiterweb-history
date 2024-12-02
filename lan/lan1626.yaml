@@ -135,7 +135,7 @@ courses:
   total_workload: 90 h
   type: Semestral
 created_at: '20201029114708'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
+digest: CE6TAKDY2B65HJKEYL6F73R2LJGIYVPZ
 requirements:
 - course: 'Curso: 11010  Engenharia Agronômica (integral) - Período ideal: 6'
   requirements:
@@ -147,5 +147,5 @@ requirements:
   - code: LAN1616
     name: Tecnologia de Bebidas
     type: Requisito
-updated_at: '20231209050906'
-url: https://web.archive.org/web/20231209050906id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN1626&codcur=11010&codhab=0
+updated_at: '20241202074940'
+url: https://web.archive.org/web/20241202074940id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LAN1626&verdis=3
