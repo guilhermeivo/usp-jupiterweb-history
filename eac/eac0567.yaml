@@ -1,0 +1,55 @@
+courses:
+  activation: 15/07/2015
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL
+
+    Curso Essencial de Vba; Alexandre Alvaro, Joel João da Silva, Ricardo Argenton
+    Ramos;
+
+    Editora: Digerati Books; 2002.
+
+    BIBLIOGRAFIA COMPLEMENTAR
+
+    VBA e Macros para Microsoft Office Excel 2007; Bill Jelen, Tracy Syrstad; Editora:
+    Pearson - Prentice Hall; 2009.'
+  course: '1. Variáveis: inteiras, longas, ponto flutuante;
+
+    2. Como implementar e percorrer matrizes;
+
+    3. Aspectos lógicos e indutivos de processos iterativos;
+
+    4. Exemplos e aplicações de Do While;
+
+    5. Exemplos e aplicações de Repeat Until;
+
+    6. Exemplos e aplicações de While;
+
+    7. Exemplos e aplicações de For next;
+
+    8. Exemplos e aplicações de IF e testes condicionais;
+
+    9. Sintaxe básica da linguagem VBA e do ambiente de programação para implementar
+    algoritmos números típicos de Atuária e Finanças;
+
+    10. Modelos matemáticos em atuária e finanças que demandam lógica de programação.'
+  course_name: 'EAC0567 - Lógica de Programação Aplicada à Atuária e Finanças
+
+    Computer Programing for Actuary and Finance'
+  deactivation: ''
+  instructors: 1064696 - Luiz Jurandir Simões de Araujo
+  lecture_credits: '2'
+  objectives: Desenvolver habilidades e competências básicas para o desenvolvimento
+    de algoritmos que usem noções de lógica de computação aplicados à Atuária e Finanças.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241203032115'
+digest: 45F5TVUIGDESUWJR4VNG5DQAGKUI4P5Q
+updated_at: '20241203032115'
+url: https://web.archive.org/web/20241203032115id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0567&codcur=12042&codhab=4
