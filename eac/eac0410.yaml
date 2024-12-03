@@ -1,0 +1,107 @@
+courses:
+  activation: 01/01/2023
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    LISBOA, L. P. (Coord.) Ética geral e profissional em contabilidade. 2. ed. São
+    Paulo: Atlas, 2012.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    ASHELY, P. A. (Org.). Ética, responsabilidade social e sustentabilidade nos negócios.
+    São Paulo: Saraiva, 2018.
+
+    MATTAR NETO, J. A. Filosofia e ética na administração. 2. ed. São Paulo: Saraiva,
+    2012.
+
+    NASH, L. L. Ética nas empresas: boas Intenções à parte – Guia prático para soluções
+    de problemas éticos nas empresas. São Paulo: Makron Books, 2001.
+
+    SÁ, A. L. de. Ética profissional. 10. ed. São Paulo: Atlas, 2019.
+
+    SROUR, R. H. Ética empresarial: o ciclo virtuoso dos negócios. 3. ed. Rio de Janeiro:
+    Campus, 2008.
+
+    SROUR, R. H. Casos de ética empresarial. 2. ed. São Paulo: Elsevier/Campus, 2014.
+
+    SROUR, R. H. Poder, cultura e ética nas organizações. 3. ed. São Paulo: Atlas,
+    2012.
+
+    TOFFLER, B. L. Ética no trabalho: tomando decisões difíceis no mundo competitivo
+    dos negócios. São Paulo: Makron Books, 1993.
+
+    VARGAS, R. Os meios justificam os fins. São Paulo: Prentice Hall, 2005.'
+  course: '1. OBJETIVO DA ÉTICA, PASSANDO PELO SEU CONCEITO
+
+    1.1 Objeto e objetivo da ética
+
+    1.2 Conceito de ética
+
+    1.3 Campo da ética
+
+    1.4 Classificações de ética: linear-caráter intrínseco (Deontologista e Teleologista)
+    e por quadrante (Íntegro, Vilão, Herói e Anti-Herói)
+
+    2. CÓDIGOS DE ÉTICA E IMPLICAÇÕES LEGAIS
+
+    2.1 Fontes das regras éticas
+
+    2.2 Comportamento ético
+
+    2.3 Código de ética profissional
+
+    2.4 Ideologia política
+
+    3. VÁRIOS ASPECTOS DA ÉTICA RELACIONADOS COM OS PROFISSIONAIS DA ÁREA CONTÁBIL
+    E SUAS DECISÕES
+
+    3.1 Atuação do profissional
+
+    3.2 O profissional e o exercício da profissão
+
+    3.3 Ética contábil no contexto da globalização da economia
+
+    3.4 Ética e qualidade
+
+    3.5 A ética e a Lei'
+  course_name: 'EAC0410 - Ética Geral e Profissional
+
+    General and Professional Ethics'
+  deactivation: ''
+  instructors: 84596 - Nahor Plácido Lisboa
+  lecture_credits: '2'
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    Tendo em vista que o mundo dos negócios é desenvolvido por seres humanos que estão,
+    a todo momento, tomando decisões, das mais simples às mais complexas, muitas dessas
+    decisões serão impactadas pelo comportamento e visão de mundo dos envolvidos.
+    Assim, é importante que os atores do mundo dos negócios consigam reconhecer nas
+    diversas situações onde há e onde não há presença de comportamentos éticos. O
+    objetivo geral da disciplina é promover a conscientização sobre a importância
+    da compreensão da ética.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Espera-se que, ao final da disciplina, os alunos estejam aptos a:
+
+    1. Utilizar-se do embasamento teórico oferecido pela disciplina para aplicação
+    da ética na carreira profissional, desmistificando o conceito popular sobre ética.
+
+    2. Compreender, por meio de casos reais e hipotéticos, a importância de cada tomada
+    de decisão que implique aspectos éticos.
+
+    3. Entender as possíveis consequências, positivas e negativas, de modo quantitativo
+    e qualitativo, de cada decisão tomada, eticamente ou não.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241203022842'
+digest: XBTNUTZNVHAVCDCLNHJANNS6AM6QJMTS
+updated_at: '20241203022842'
+url: https://web.archive.org/web/20241203022842id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0410&codcur=12042&codhab=4
