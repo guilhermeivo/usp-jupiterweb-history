@@ -1,0 +1,149 @@
+courses:
+  activation: 01/01/2018
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    BRASIL. Circular SUSEP em vigor ( nº 508/2015). Dispõe sobre o plano de contas
+    e eventos
+
+    contábeis das seguradoras, entidades abertas de previdência complementar e companhias
+    de
+
+    capitalização.
+
+    BRASIL-Instrução MPS/SPC 34/2009; Alterada pela INSTRUÇÃO MPS/PREVIC Nº 06, DE
+
+    13/11/2013, Nº 10, DE 22/03/2011, Nº 05, DE 08/09/2011, Nº 01, DE 22/03/2011
+
+    BRASIL-Resolução CNPC nº 8/2011. Dispõe sobre o plano de contas e eventos contábeis
+    das
+
+    entidades fechadas de previdência complementar.
+
+    CHAN, Betty Lilian; SILVA, Fabiana Lopes da; MARTINS, Gilberto de Andrade. Fundamentos
+    da
+
+    previdência complementar: da atuária à contabilidade. São Paulo: Atlas, 2006.
+
+    COSTA, Jorge Andrade. Contabilidade de Seguros: As Experiências no Brasil e no
+    Mercosul em
+
+    Comparação com as Normas Propostas pelo IASB. Rio de Janeiro: Funenseg, 2005.
+
+    MANO,C.C.A e FERREIRA, P.P., Aspectos Atuariais e Contábeis das Provisões Técnicas
+    Rio de
+
+    Janeiro: Funenseg, 2009.
+
+    SILVA, Josemar Costa. Práticas Contábeis das Operações de Seguros: Análise Comparativa
+    entre
+
+    as Normas Brasileiras e o Projeto Proposto pelo IASB. Rio de Janeiro: Funenseg,
+    2005.'
+  course: '1. Introdução.
+
+    2. A contabilidade de seguradoras e de entidades abertas de previdência complementar
+    (EAPC):
+
+    planos de contas, procedimentos e práticas contábeis aceitas.
+
+    • Plano de contas e a dinâmica contábil das entidades seguradoras e de previdência
+    complementar
+
+    aberta.
+
+    • Registro dos principais eventos e transações contábeis das entidades seguradoras
+    e de previdência
+
+    complementar aberta.
+
+    • A apuração do resultado das entidades seguradoras e de previdência complementar
+    aberta.
+
+    • Principais impostos incidentes sobre as operações das empresas seguradoras e
+    de previdência
+
+    complementar aberta: contabilização e registro.
+
+    • Contabilização de cosseguro, resseguro e retrocessão.
+
+    3. As provisões técnicas e as normas prudenciais.
+
+    • O cálculo de capital mínimo e sua relação com o patrimônio líquido ajustado
+    e Solvência II.
+
+    • O cálculo do limite de retenção dos riscos e sua relação com os riscos que podem
+    ser subscritos.
+
+    • Contabilização das principais provisões técnicas.
+
+    • Os ativos garantidores e suas principais regras.
+
+    • Elaboração do teste de adequação de passivos (TAP).
+
+    4. A contabilidade das entidades fechadas de previdência complementar (EFPC):
+    planos de contas,
+
+    procedimentos e práticas contábeis aceitas:.
+
+    • Plano de contas e a dinâmica contábil das entidades fechadas de previdência
+    complementar.
+
+    • As demonstrações obrigatórias.
+
+    • O conceito de patrimônio social.
+
+    • As principais provisões técnicas e sua relação com o equilíbrio técnico das
+    entidades fechadas de
+
+    previdência complementar.
+
+    • O ativo líquido e a gestão das obrigações atuariais e do patrimônio de cobertura.
+
+    6. Principais técnicas para a avaliação econômica e financeira das entidades de
+    seguro e de
+
+    previdência complementar.'
+  course_name: 'EAC0113 - Contabilidade de Instituições Seguradoras e de Previdência
+    Complementar
+
+    Insurance Accounting'
+  deactivation: 31/12/2024
+  instructors: '8476037 - Eduardo da Silva Flores
+
+    3596283 - Joanilia Neide de Sales Cia
+
+    1364179 - Mara Jane Contrera Malacrida'
+  lecture_credits: '4'
+  objectives: 'Fornecer ao aluno instrumental técnico e conceitual necessário para
+    a contabilização e análise das
+
+    demonstrações financeiras das instituições seguradoras e de previdência complementar.
+    Ao final do
+
+    curso, o aluno deverá conhecer as formas de contabilização e os principais indicadores
+    econômicos,
+
+    financeiros e atuariais relativos a essas instituições e que possibilitem uma
+    análise mais adequada da
+
+    situação econômica, financeira e atuarial dessas entidades.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203014736'
+digest: 4W6OGGBANCEM7QN2CAM2OI3G6LPN7E7N
+updated_at: '20241203014736'
+url: https://web.archive.org/web/20241203014736id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0113&codcur=12042&codhab=4
