@@ -1,0 +1,89 @@
+courses:
+  activation: 01/01/2006
+  assessment: Para alunos com freqüência mínima de 70 % e nota final entre 3 e 5 será
+    permitida uma reavaliação. Será aprovado o aluno que obtiver nota igual ou superior
+    a 5.
+  bibliography: 'CAVALCANTE, José Bezerra - "Capitalização - História, Teoria, Mercado
+    e Perspectiva" - Cadernos de Seguros, ano III, nº 14, jan/fev/Rio de Janeiro,
+    1984.
+
+    CODISEG - Comitê de Divulgação Institucional do Seguro - "Balanço Macroeconômico
+    - Social do Setor de Seguros do País" - Rio de Janeiro, 1988
+
+    Legislação Securitária
+
+    SASSE - Cia. Nacional de Seguros e Patrimônio Consultoria - "O Mercado segurador
+    brasileiro", 1993'
+  course: '1.A operação de seguro: estrutura econômica e qualificação jurídica
+
+    2.O Direito dos seguros privados: evolução histórica e situação atual do sistema
+    jurídico brasileiro
+
+    3.O contrato de Seguro
+
+    4.O interesse segurável
+
+    5.A conclusão do contrato: os seguros obrigatórios
+
+    6.Os instrumentos contratuais: apólice, bilhete e certificado
+
+    7.O prêmio
+
+    8.A garantia e a indenização
+
+    9.A prescrição das ações derivadas do contrato de seguro
+
+    10.Seguros de danos e seguros de pessoa
+
+    11.O princípio indenitário nos seguros de dano e seus corolários
+
+    12.Exclusão legais de risco nos seguros de dano
+
+    13.A regra do ratio proporcional nos seguros de dano
+
+    14.A transmissão do contrato nos seguros de dano
+
+    15.A sub-rogação do segurador nos direitos dos segurados, no direito de dano
+
+    16.Os diferentes tipos de seguros de dano
+
+    17.O seguro de vida: diferentes tipos e particularidades
+
+    18.O seguro de acidentes pessoais
+
+    19.O seguro em grupo
+
+    20.O sistema Nacional de seguros
+
+    21.O Conselho Nacional de Seguros Privados
+
+    22.A Superintendência de Seguros Privados
+
+    23.O Instituto de Resseguro do Brasil. O resseguro e a retrocessão
+
+    24.As Sociedades Seguradoras: forma social, organização interna e disciplina de
+    suas atividades
+
+    25.As sociedades Mútuas de Seguros
+
+    26.A liquidação administrativa forçada das entidades seguradoras
+
+    27.Os corretores de seguros.'
+  course_name: 'DCO0462 - Direito de Seguros Privados
+
+    Private Insurance Law'
+  deactivation: ''
+  lecture_credits: '4'
+  objectives: Oferecer os conhecimentos da legislação específica do Sistema Previdenciário
+    Brasileiro Básico (Público) e Complementar (Privado), suas ramificações no campo
+    de Direito. Os estudos, partindo de análises da origem, evolução da Seguridade
+    Social e Previdenciária Brasileira e perspectivas futuras. Abordarão os principais
+    veículos financeiros disponíveis no País, bem como permitirão conhecer as características
+    da Legislação Securitária.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203014209'
+digest: VGD35TQPF6QMCA6JX77VPEAOXZ2VUEEA
+updated_at: '20241203014209'
+url: https://web.archive.org/web/20241203014209id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=DCO0462&codcur=12042&codhab=4
