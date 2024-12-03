@@ -1,0 +1,38 @@
+courses:
+  activation: 01/01/2018
+  assessment: Usuais.
+  bibliography: 'W. O. Bussab, P. A. Morettin, Estatística Básica, 8a ed., São Paulo:
+    Editora Saraiva, 2013.
+
+    M. N. Magalhães, A. C. Pedroso de Lima, Noções de Probabilidade e Estatística,
+    7a ed., São Paulo: Edusp, 2015.'
+  course: "1.\tIntrodução: estatística descritiva e inferência estatística, tipos\
+    \ de variáveis, bancos de dados.\n2.\tDistribuições de frequências.\n3.\tMedidas-resumo:\
+    \ medidas de posição (média, moda, mediana, quantis) e de dispersão (amplitude,\
+    \ intervalo interquartil, variância, desvio padrão, coeficiente de variação).\n\
+    4.\tGráficos para variáveis qualitativas e quantitativas: gráfico de barras, gráfico\
+    \ do tipo \"torta\", gráfico de pontos, histograma e boxplot.\n5.\tAssociação\
+    \ entre variáveis qualitativas: tabelas de contingência.\n6.\tAssociação entre\
+    \ variáveis quantitativas: coeficiente de correlação, gráfico de dispersão.\n\
+    7.\tNoções sobre amostragem e distribuições amostrais.\n8.\tEstimação pontual:\
+    \ máxima verossimilhança, mínimos quadrados e método dos momentos.\n9.\tIntervalos\
+    \ de confiança para a média e proporção.\n10.\tTestes de hipóteses para a média\
+    \ com variância conhecida e desconhecida.\n11.\tTestes de comparação de médias.\n\
+    12.\tTeste de hipóteses para a proporção.\n13.\tTeste qui-quadrado: aderência,\
+    \ homogeneidade e independência."
+  course_name: 'MAE0117 - Tópicos de Estatística Descritiva e de Inferência Estatística
+
+    Topics in Descriptive and Inference Statistics'
+  deactivation: ''
+  instructors: 88691 - Lucia Pereira Barroso
+  lecture_credits: '4'
+  objectives: Fornecer as idéias básicas da análise descritiva e inferencial.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: s de variáveis, distribuição de frequências, medidas-resumo, gráficos, análise
+    bidimensional, amostra, distribuição amostral, estimação pontual e por intervalo,
+    testes de hipóteses.
+created_at: '20241203020627'
+digest: FOYLGFNXVRKYAP5U6C7BM2JYKZGGPS74
+updated_at: '20241203020627'
+url: https://web.archive.org/web/20241203020627id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAE0117&codcur=12042&codhab=4
