@@ -1,0 +1,66 @@
+courses:
+  activation: 01/01/2018
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    Pacheco, Ricardo. Matemática Atuarial de seguros de danos. Atlas, 2014.
+
+    Karian, Z.A. e Dudewicz, E. J. Handbook of Fitting Statistical Distributions with
+    R, CRC Press,
+
+    2011.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    Dickson, D. C.M., Insurance Risk and Ruin (International Series on Actuarial Science),
+    Cambridge,
+
+    2010.
+
+    BOWERS, N. L.; GERBER, H. U; HICKMAN, J. C.; JONES, D. A.; NESBITT, C. J. (1997).
+
+    ACTUARIAL MATHEMATICS. The Society of Actuaries, 2. ed. 753 p.'
+  course: '1. Rápida revisão de todos os tópicos de Matemática Atuarial não Vida I;
+
+    2. Teoria da Ruína e Processos Estocásticos de Risco;
+
+    3. Modelos de Tarifação de resseguros;
+
+    4. Resseguros proporcionais e suas características;
+
+    5. Resseguros não proporcionais e suas características;
+
+    6. Teoria da Credibilidade;
+
+    7. Aplicações.'
+  course_name: 'EAC0469 - Matemática Atuarial Não-Vida II
+
+    Actuarial Mathematics II Non-Life'
+  deactivation: 31/12/2024
+  instructors: '4894284 - João Vinícius de França Carvalho
+
+    1064696 - Luiz Jurandir Simões de Araujo
+
+    2112537 - Ricardo Pacheco'
+  lecture_credits: '4'
+  objectives: Esta disciplina é uma complementação da disciplina Matemática Atuarial
+    Não-Vida I.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203020405'
+digest: FG5FQOOOPWOLMGV746Q2J4CSTHPWEKER
+updated_at: '20241203020405'
+url: https://web.archive.org/web/20241203020405id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0469&codcur=12042&codhab=4
