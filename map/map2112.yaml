@@ -1,0 +1,35 @@
+courses:
+  activation: 01/01/2018
+  assessment: Média ponderada de provas e exercícios.
+  bibliography: 'A. Carvalho; Programação com Excel para Economia e Gestão, FCA, 2008.
+    A. Charpentier; Computational Actuarial Science with R, CRC Press, 2014. N. N.
+    C. Menezes; Introdução à Programação com Python, Novatec, 2014.
+
+    Exemplos obtidos online.'
+  course: 'Apresentação de linguagens existentes atuais (e.g. Excel/Calc, VBA, SAS,
+    R, Python, C/C++).
+
+    Introdução ao conceito de algoritmo.
+
+    Operações com laços e funções.
+
+    Introdução à estruturação de dados em tabelas.
+
+    Técnicas de busca e ordenação de dados.
+
+    Modelagem de problemas aplicados.'
+  course_name: 'MAP2112 - Introdução à Lógica de Programação e Modelagem Computacional
+
+    Introduction to Programing and Computational Modeling'
+  deactivation: 31/12/2024
+  instructors: 3680850 - Pedro da Silva Peixoto
+  lecture_credits: '2'
+  objectives: Introduzir noções de programação e apresentar exercícios de modelagem
+    computacional. Explorar o uso de Excel/Calc, e de Python ou R.
+  practical_credits: '2'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20241203022636'
+digest: VNTLZOHGEUBUWKHGZVPXW5HAKEX72JVE
+updated_at: '20241203022636'
+url: https://web.archive.org/web/20241203022636id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAP2112&codcur=12042&codhab=4
