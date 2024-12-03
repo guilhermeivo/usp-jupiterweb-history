@@ -1,0 +1,66 @@
+courses:
+  activation: 01/01/2018
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    HULL, J. C. Options, Futures & Other Derivatives. Prentice Hall, 2011.
+
+    FABOZZI, F.; MANN, S. V. Introduction to Fixed Income Analytics: Relative Value
+    Analysis,
+
+    Risk Measures and Valuation, Wiley, 2010.
+
+    McDONALD, R. L. Derivatives Markets. Pearson, 2012.
+
+    BROVERMAN, S. A. Mathematics of Investment and Credit. ACTEX Publications, 2010.'
+  course: '1. Introdução aos produtos derivativos e títulos.
+
+    2. Construção de Curvas de Mercado: curva a termo x curva spot; curva de taxa
+    de juros em reais e
+
+    curvas de cupom de moedas; método bootstrapping; métodos interpolação de curvas
+
+    3. Mercado de Renda Fixa: apreçamento de títulos públicos e privados.
+
+    4. Duração, duração modificada e convexidade / análise de preços.
+
+    5. Mercados a Termo, Futuro e Swaps: preço futuro x preço a termo; apreçamento
+    de contratos.
+
+    6. Mercado de Opções Padrão: modelo de Black & Scholes; conceitos de volatilidade
+    implícita.
+
+    7. Letras gregas / análise de preços.
+
+    8. Extensões do modelo Black & Scholes (Merton, Black76, Garman e Kolhagen).
+
+    9. Métodos Numéricos (Binomial e Simulação).'
+  course_name: 'EAC0466 - Apreçamento de Derivativos e Outros Produtos Financeiros
+
+    Derivatives Pricing and Other Financial Products'
+  deactivation: ''
+  instructors: 1967693 - Wanderlei Lima de Paulo
+  lecture_credits: '4'
+  objectives: 'Estudar as principais técnicas utilizadas no apreçamento de produtos
+    negociados nos mercados de
+
+    derivativos e de títulos.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203030449'
+digest: 5OD5ZPRFHWBEW5LKEY5SQP74N3YBMNS3
+updated_at: '20241203030449'
+url: https://web.archive.org/web/20241203030449id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0466&codcur=12042&codhab=4
