@@ -1,0 +1,110 @@
+courses:
+  activation: 01/01/2023
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    Barberis, N. C. (2013). Thirty Years of Prospect Theory in Economics: A Review
+    and Assessment. Journal of Economic Perspectives, 27(1), 173–196. https://doi.org/10.1257/jep.27.1.173
+
+    Brown, J. R., Kapteyn, A., & Mitchell, O. S. (2016). Framing and claiming: how
+    information-framing affects expected social security claiming behavior. Journal
+    of Risk and Insurance, 83(1), 139–162. https://doi.org/10.1111/j.1539-6975.2013.12004.x
+
+    Chetty, R. (2015). Behavioral Economics and Public Policy: A Pragmatic Perspective.
+    American Economic Review, 105(5), 1–33. https://doi.org/10.1257/aer.p20151108
+
+    Congiu, L., & Moscati, I. (2022). A review of nudges: Definitions, justifications,
+    effectiveness. Journal of Economic Surveys, 36(1), 188–213. https://doi.org/10.1111/joes.12453
+
+    Corr, P., & Plagnol, A. (2019). Behavioral economics: the basics. Routledge.
+
+    Goedde-Menke, M., Lehmensiek-Starke, M., & Nolte, S. (2014). An empirical test
+    of competing hypotheses for the annuity puzzle. Journal of Economic Psychology,
+    43, 75–91. https://doi.org/10.1016/j.joep.2014.04.001
+
+    Graminha, P. B., & Afonso, L. E. (2022). Behavioral Economics and Auto Insurance:
+    The role of biases and heuristics. Revista de Administração Contemporânea, 1–11.
+    https://doi.org/10.1590/1982-7849rac2022200421.en
+
+    Gregor, S., & Lee-Archer, B. (2016). The digital nudge in social security administration.
+    International Social Security Review, 69(3–4), 63–83. https://doi.org/10.1111/issr.12111
+
+    Harrison, G. W., & Ng, J. M. (2019). Behavioral insurance and economic theory:
+    A literature review. Risk Management and Insurance Review, 22(2), 133–182. https://doi.org/10.1111/rmir.12119
+
+    Kahneman, D., & Tversky, A. (1979). Prospect Theory: An Analysis of Decision under
+    Risk. Econometrica, 47(2), 263–292. http://www.jstor.org/stable/1914185
+
+    Kunreuther, H. C., Pauly, M. V., & McMorrow, S. (2013). Insurance & Behavioral
+    Economics: improving decisions in the most misunderstood industry. Cambridge University
+    Press.
+
+    Mimra, W., Nemitz, J., & Waibel, C. (2020). Voluntary pooling of genetic risk:
+    A health insurance experiment. Journal of Economic Behavior & Organization, 180,
+    864–882. https://doi.org/10.1016/j.jebo.2019.04.001
+
+    Mullainathan, S., & Thaler, R. H. (2015). Behavioral Economics. In J. D. Wright
+    (Ed.), International Encyclopedia of the Social & Behavioral Sciences. Vol. 2
+    (2nd ed., Vol. 3, pp. 437–442). Elsevier. https://doi.org/10.1016/B978-0-08-097086-8.71007-5
+
+    Münscher, R., Vetter, M., & Scheuerle, T. (2016). A Review and Taxonomy of Choice
+    Architecture Techniques. Journal of Behavioral Decision Making, 29(5), 511–524.
+    https://doi.org/10.1002/bdm.1897
+
+    OECD. (2017). Behavioural Insights and Public Policy: Lesson from around the world.
+    In Behavioural Insights and Public Policy. OECD. https://doi.org/10.1787/9789264270480-en
+
+    Rabin, M. (2002). A perspective on psychology and economics. European Economic
+    Review, 46(4–5), 657–685. https://doi.org/10.1016/S0014-2921(01)00207-0
+
+    Rodrigues, L. F., Oliveira, A., Rodrigues, H., & Costa, C. J. (2019). Assessing
+    consumer literacy on financial complex products. Journal of Behavioral and Experimental
+    Finance, 22, 93–104. https://doi.org/10.1016/j.jbef.2019.02.005
+
+    Samson, A. (2019). Introdução à economia comportamental e experimental. In F.
+    Ávila & A. M. Bianchi (Eds.), Guia de Economia Comportamental e Experimental (pp.
+    26–60). EconomiaComportamental.org. http://www.economiacomportamental.org/guia-economia-comportamental.pdf
+
+    Schmidt, U. (2016). Insurance demand under prospect theory: a graphical analysis.
+    Journal of Risk and Insurance, 83(1), 77–89. https://doi.org/10.1111/jori.12098
+
+    Sunstein, C. R. (2019). Nudging: a very short guide. Business Economics, 54(2),
+    127–129. https://doi.org/10.1057/s11369-018-00104-5
+
+    Thaler, R. H., Sunstein, C. R., & Balz, J. P. (2012). Choice Architecture. In
+    E. Shafir (Ed.), The Behavioral Foundations of Public Policy (pp. 428–439). Princeton
+    University Press. https://doi.org/10.1002/hast.997
+
+    Varian, H. R. (2016). Microeconomia: uma análise moderna (9th ed.). Elsevier.'
+  course: "PARTE 1 – Fundamentação teórica\n1.\tRevisão de teoria do consumidor"
+  course_name: 'EAC0590 - Tópicos de Economia Comportamental Aplicados à Atuária
+
+    Topics of Behavioral Economics Applied to Actuarial Science'
+  deactivation: ''
+  instructors: 904700 - Luis Eduardo Afonso
+  lecture_credits: '2'
+  objectives: O objetivo da disciplina é apresentar as principais aplicações da Economia
+    Comportamental às Ciências Atuariais. Desde a revolução gerada pelo trabalho fundamental
+    de Kahneman & Tversky (1979), é consensual que as decisões dos indivíduos podem
+    ser influenciadas por fatores cognitivos, emocionais e sociais. Isto se aplica
+    particularmente às decisões em condições de risco, campo pertinente às Ciências
+    Atuariais. Desta maneira, esta disciplina complementa a formação dos estudantes
+    de Ciências Atuariais, ao fornecer as ferramentas para o estudo das decisões individuais.
+    Visa-se aprimorar a compreensão dos determinantes da demanda e do processo de
+    tomada de decisão em diversos mercados e contextos, incluindo previdência social
+    e complementar, saúde e os produtos dos mercados segurador e financeiro. A disciplina
+    também apresenta elementos ligados aos nudges, arquitetura de escolhas e aplicações
+    às políticas públicas.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241203013844'
+digest: SFJZBKKWO6O54UATPCBDZB27CDXLIXGD
+updated_at: '20241203013844'
+url: https://web.archive.org/web/20241203013844id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0590&codcur=12042&codhab=4
