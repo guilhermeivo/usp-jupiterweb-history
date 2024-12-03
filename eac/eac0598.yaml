@@ -1,0 +1,78 @@
+courses:
+  activation: 01/01/2025
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    Heiji, C., de Bôer, P., Franses P. H., Kloek, T. and van Dijk, H. K Econometric
+    Methods with applications in Business and Economics, Oxford University Press,
+    2004.
+
+    Wooldridge, Jeffrey M. “Econometric Analysis of cross-section and panel data”,
+    The MIT Press, London, England, 2002.
+
+    Angrist J. D. and Pischke, J-S. “Mostly Harmless Econometrics”, Princeton University
+    Press, 2009.
+
+    Dougherty, C. “Introduction to Econometrics”, Oxford University Press, 2016.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    Gujarati, D. Econometria Básica, 3ª. Ed. Makron Books, 2000.
+
+    Heiji, Cjristiaan., de Bôer, Paul, Franses Philip Hans, Kloek, Teun and van Dijk,
+    Herman K., Econometric Methods with applications in Business and Economics, Oxford
+    University Press, 2004.'
+  course: 'Introdução à Dados em Painel e o Modelo Agrupado: entender o que são dados
+    em painel, como eles são estruturados, e a diferença entre dados em corte transversal
+    e séries temporais. Aprender a implementar e interpretar um modelo agrupado, onde
+    se assume que não há efeitos específicos de unidade ou tempo. Compreender as limitações
+    do modelo agrupado, especialmente a sua incapacidade de capturar heterogeneidade
+    entre as unidades.
+
+    Modelo de Efeitos Fixos: aprender como e por que os efeitos fixos são usados para
+    controlar heterogeneidades inalteráveis entre as unidades. Entender como estimar
+    um modelo de efeitos fixos e interpretar os resultados, especialmente em comparação
+    com o modelo agrupado. Discutir quando o modelo de efeito fixo é apropriado e
+    quais são suas limitações.
+
+    Modelo de Efeitos Aleatórios: compreender a premissa do modelo de efeitos aleatórios
+    e quando ele é aplicável. Aprender as técnicas para estimar um modelo de efeitos
+    aleatórios e como interpretar os coeficientes. Discutir as diferenças entre os
+    modelos de efeito fixos e aleatórios e suas implicações.
+
+    Teste de Hausman: aprender o que é o Teste de Hausman e como ele é realizado.
+    Entender como interpretar os resultados do Teste de Hausman e o que eles implicam
+    para a escolha entre efeitos fixos e aleatórios. Conhecer as limitações do teste
+    e situações em que pode ou não ser apropriado.
+
+    Introdução a Painel Dinâmico: entender como a dinâmica temporal é incorporada
+    em modelos de painel. Aprender a modelar dados com defasagens e como estimar esses
+    modelos. Discutir as implicações dos resultados e suas aplicações em diferentes
+    contextos econômicos e sociais.
+
+    Introdução a Painel Não-balanceado: compreender o que torna um painel de dados
+    não-balanceado e por que isso ocorre. Aprender métodos para analisar painéis não-balanceados,
+    incluindo como lidar com dados ausentes ou incompletos. Discutir os desafios associados
+    a painéis não-balanceados e como eles podem ser superados.'
+  course_name: 'EAC0598 - Análise de Dados em Painel para Atuária
+
+    Panel Data Analysis for Actuarial Science'
+  deactivation: ''
+  lecture_credits: '4'
+  objectives: O objetivo desta disciplina é capacitar os alunos a apresentar os principais
+    modelos econométricos desenvolvidos para a análise de dados longitudinais ou em
+    painel (“modelos de painel”). Ao final do curso, espera-se que tenham adquirido
+    a habilidade de propor e estimar efeitos causais usando dados em painel.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203012600'
+digest: RU72VOVHHHIOJALBNJ7INOJRSSB6D236
+updated_at: '20241203012600'
+url: https://web.archive.org/web/20241203012600id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0598&codcur=12042&codhab=4
