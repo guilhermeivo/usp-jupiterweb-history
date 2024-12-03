@@ -1,0 +1,81 @@
+courses:
+  activation: 01/01/2025
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    Berk e De Marzo. (B.M.) Corporate Finance, 4nd Edition. Pearson Prentice Hall,
+    2014.
+
+    Damodaran, A. (DM) Avaliação de Empresas, 2ª ed., Pearson, 2007.
+
+    Lerner and Willinge. (LW). Note on Valuation in Private Equity Settings. HBS Background
+    note, 2011.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    Serra, R. G. & Wickert, M. Valuation: Guia Fundamental e Modelagem em Excel®.
+    São Paulo: Atlas, 2019.
+
+    Invest Europe. Guide to Private Equity and Venture Capital for Pension Funds,
+    2016.'
+  course: 'Principais ferramentas para valoração de empresas, focando Fluxos de Caixa
+    Descontados (FCD). Fluxos de caixa adequados para os diversos tipos de processos
+    decisórios de investimento.
+
+    Fatores relevantes relacionados à taxa de crescimento das empresas.
+
+    Construção de premissas coerentes para os parâmetros de projeção (receita, custos,
+    despesas, investimentos em capital de giro e ativos fixos) e de custo de capital
+    para avaliação de empresas.
+
+    Construção e conciliação do Fluxo de Caixa Descontado do Acionista a partir das
+    demonstrações financeiras da empresa.'
+  course_name: 'EAC0589 - Avaliação de Empresas, Private Equity e Venture Capital
+    para Ciências Atuariais
+
+    Valuation, Private Equity and Venture Capital for Actuarial Science'
+  deactivation: ''
+  lecture_credits: '4'
+  objectives: 'Capacitar os alunos para entender, aplicar e analisar princípios e
+    técnicas de avaliação de empresas e private equity e venture capital, proporcionando
+    uma visão integrada dessas áreas para a tomada de decisões de investimento. Além
+    disso, objetiva-se:
+
+    Identificar e aplicar as principais ferramentas para valoração de empresas, focando
+    Fluxos de Caixa Descontados (FCD). Calcular os fluxos de caixa adequados para
+    os diversos tipos de processos decisórios de investimento.
+
+    Entender os principais aspectos relevantes relacionados à taxa de crescimento
+    das empresas.
+
+    Construir premissas coerentes para os parâmetros de projeção (receita, custos,
+    despesas, investimentos em capital de giro e ativos fixos) e de custo de capital
+    para avaliação de empresas.
+
+    Construir e conciliar o Fluxo de Caixa Descontado do Acionista a partir das demonstrações
+    financeiras da empresa.
+
+    Avaliar empresa e projetos por método de Fluxo de Caixa Descontado do Acionista
+    (FCFE).
+
+    Avaliar empresa por método de múltiplos.
+
+    Introdução à indústria de investimento em participações de capital fechado, entendendo
+    as principais características desse setor no Brasil.
+
+    Entender os processos de avaliação das em presas nos fundos de PE e VC.
+
+    Entender os processos de saída dos fundos de PE e VC.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203021935'
+digest: Q7BN2GFZGDTVCPGAV4KZINYMVLMIWASP
+updated_at: '20241203021935'
+url: https://web.archive.org/web/20241203021935id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0589&codcur=12042&codhab=4
