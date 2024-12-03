@@ -1,0 +1,60 @@
+courses:
+  activation: 15/07/2023
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota
+
+    média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência igual
+    ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: A bibliografia – composta pelos artigos derivados dos TCCs – muda
+    a cada semestre, em função da natureza da disciplina e disponibilidade dos palestrantes.
+  course: 'A disciplina será desenvolvida na forma de ciclos de palestras de ex-alunos
+    formados no curso de Ciências Atuariais da FEA-USP, que tenham desenvolvido o
+    TCC em uma das seguintes áreas:
+
+    Atuária - Ramo Vida: esta linha de pesquisa envolve temas ligados aos seguros
+    de pessoas e que necessitem de técnicas atuariais e modelagem de riscos biométricos.
+    Estão enquadrados nesta grande
+
+    área os modelos de Saúde, Vida e Previdência, assim como gerenciamento de entidades
+    que operem especificamente nestes segmentos.
+
+    Atuária - Ramo Não Vida: esta linha de pesquisa é conhecida como seguros gerais.
+    Envolve temas ligados à modelagem de ativos (físicos ou financeiros), apreçamento
+    de apólices e gerenciamento de empresas e desenhos de produtos de seguros patrimoniais,
+    empresariais, financeiros, de responsabilidade e de capitalização.
+
+    Finanças: nesta linha de pesquisa estão envolvidos assuntos de Finanças Corporativas,
+    Mercado Financeiro, Valuation, Apreçamento de Ativos Financeiros, Gestão de Riscos,
+    Análise de Investimentos, Governança Corporativa, Finanças Comportamentais, Hipótese
+    de Mercados Eficiente, Gestão Integrada de Ativos e Passivos.'
+  course_name: 'EAC0592 - Seminários de Pesquisa em Graduação para Ciências Atuariais
+
+    Undergraduate Research Seminars for Actuarial Science'
+  deactivation: ''
+  instructors: 4894284 - João Vinícius de França Carvalho
+  lecture_credits: '2'
+  objectives: O objetivo desta disciplina é estimular o contato dos alunos de graduação
+    com os principais temas de pesquisa em Ciências Atuariais, antes da elaboração
+    dos próprios Trabalhos de Conclusão de Curso (TCC). Para isso, serão convidados
+    ex-alunos do curso de graduação em Ciências Atuariaisda FEAUSP que desenvolveram
+    TCCs de destaque para apresentarem os trabalhos desenvolvidos. Ao final do curso,
+    é esperado que o aluno não apenas tenha clareza absoluta do produto final a ser
+    entregue na disciplina de TCC II, como principalmente tenha sido exposto a diferentes
+    temas e métodos que podem ser aplicados em suas pesquisas. Dentre os grandes temas
+    de pesquisa aplicada a serem abordados, estão todos os assuntos caros às Ciências
+    Atuariais (Matemática Atuarial Vida, Matemática Atuarial Não-Vida, Finanças e
+    Gestão de Risco) e áreas correlatas. Sempre com a exploração crítica dos conceitos
+    e objetivos centrais, e de temas emergentes desta área multidisciplinar.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203031643'
+digest: TTMFHCA7DP43L5WVBZ45MPPDF4N3V7EG
+updated_at: '20241203031643'
+url: https://web.archive.org/web/20241203031643id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0592&codcur=12042&codhab=4
