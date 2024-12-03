@@ -1,0 +1,87 @@
+courses:
+  activation: 15/07/2021
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    FREES, Edward W. “Regression Modeling with Actuarial and Financial Applications”,
+    Cambridge
+
+    University Press, 2009.
+
+    JONG, Piet de; HELLER, Gillian Z. “Generalized Linear Models for Insurance Data”,
+    Cambridge
+
+    University Press, 2008.
+
+    GUJARATI, Damodar N., "Econometria básica", Editora Campus, 4ª edição, 2006.
+
+    WOOLDRIDGE, Jeffrey.M., "Introdução à econometria: uma abordagem moderna", Editora
+
+    Thomson Pioneira, 2006.GRIFFITHS, William E.; HILL, Carter; JUDGE, George G.
+
+    "Econometria", Editora Saraiva, 2ª edição, 2003.
+
+    MADDALA, G. S. "Introdução à econometria", Editora LTC, 3ª edição, 2003.
+
+    PINDYCK, Robert. S.; RUBINFELD, Daniel L., "Econometria: modelos e previsões",
+    Editora
+
+    Campus, 2004.
+
+    VASCONCELLOS, Marco Antonio S.; ALVES, Denisard, "Manual de Econometria: nível
+
+    intermediário". Editora Atlas, 2000.'
+  course: '1. Conceitos gerais de modelos de regressão.
+
+    2. Modelo de regressão linear simples.
+
+    3. Modelo de regressão linear múltipla.
+
+    4. Pressupostos dos modelos de regressão linear.
+
+    5. Estimação de parâmetros (método dos mínimos quadrados).
+
+    6. Testes de significância e intervalo de confiança.
+
+    7. Modelos de escolha binária (Logit e Probit): estimação de parâmetros e testes
+    de significância.
+
+    8. Modelos Lineares Generalizados (GLM): especificação, estimação de parâmetros
+    e qualidade de
+
+    ajustamento.'
+  course_name: 'EAC0355 - Modelos de Regressão
+
+    Regression Analysis'
+  deactivation: 31/12/2024
+  instructors: 4894284 - João Vinícius de França Carvalho
+  lecture_credits: '4'
+  objectives: 'O curso trata das questões introdutórias em modelos de regressão. São
+    ensinados os conceitos de
+
+    regressão linear simples e múltipla, suas hipóteses básicas, bem como testes de
+    hipóteses e
+
+    inferência. Posteriormente são apresentados conceitos e estrutura dos modelos
+    lineares
+
+    generalizados.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203014555'
+digest: 4DQOV6OZBJ6XMX6MXKCSKNZ4SYOA2D7T
+updated_at: '20241203014555'
+url: https://web.archive.org/web/20241203014555id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0355&codcur=12042&codhab=4
