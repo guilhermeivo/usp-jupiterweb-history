@@ -1,0 +1,48 @@
+courses:
+  activation: 01/01/2018
+  assessment: 's Estocásticos de Estimación de Las Provisiones Técnicas en El Marco
+    de Solvência II
+
+    (Irene Albarrán Lozano e Pablo Alonso González). Fundación Mapfre'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    Aspectos Atuariais e Contábeis das Provisões Técnicas (Cristina Mano & Paulo Ferreira).
+    Escola
+
+    Nacional de Seguros. FUNENSEG'
+  course: 'Visão geral das provisões técnicas
+
+    Provisões de prêmios para seguros de longo prazo
+
+    Provisões técnicas para previdência privada fechada
+
+    Provisões técnicas de sinistros – IBNP – Triângulos de sinistros pagos
+
+    Provisões técnicas de sinistros – IBNP – Triângulos de sinistros incorridos
+
+    Provisões Técnicas de Sinistros – IBNP – Métodos de Bornhuetter Ferguson e de
+    Cape Cod
+
+    Provisões Técnicas de Sinistros - IBNYR
+
+    Provisões Técnicas de Sinistros – PSL e IBNER
+
+    Modelagem Estocástica da Provisão de Sinistros – Método do Bootstrapping'
+  course_name: 'EAC0464 - Avaliação Atuarial das Provisões Técnicas
+
+    Actuarial Valuation of the Technical Provisions'
+  deactivation: ''
+  instructors: 2112537 - Ricardo Pacheco
+  lecture_credits: '4'
+  objectives: 'Propiciar ao aluno o conhecimento necessário para que se possam estimar
+    as
+
+    principais provisões técnicas de entidades seguradoras, de previdência aberta
+    e fechada.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203013013'
+digest: 537LKEALLPWJBZ2A5IV5KGLBGRLFYJAR
+updated_at: '20241203013013'
+url: https://web.archive.org/web/20241203013013id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0464&codcur=12042&codhab=4
