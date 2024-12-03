@@ -1,0 +1,72 @@
+courses:
+  activation: 01/01/2018
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    JORION, P. Value at Risk: The New Benchmark for Managing Financial Risk. McGraw-Hill,
+    3 ed.,
+
+    2006.
+
+    PANJER, H.H.. Operational Risk: Modeling Analytics. Wiley-Interscience, 2006.
+
+    BOHN, J. R., STEIN, R. M. Active Credit Portfolio Management in Ptactice. Wiley,
+    2009.
+
+    JORION, Philippe. Financial risk manager handbook. New Jersey: Wiley, 2003.
+
+    Fabozzi, F. J. et al. Operational Risk: A Guide to Basel II Capital Requirements,
+    Models and
+
+    Analysis. John Wiley, 2007.
+
+    SAUNDERS, A., ALLEN, L. Credit Risk Measurement: New Approaches to Value at Risk
+    and
+
+    Other Paradigms. John Wiley, 2002.'
+  course: '1. Introdução aos tipos de riscos financeiros (mercado, crédito e operacional).
+
+    2. Mapeamento de posições financeiras.
+
+    3. Modelos de VaR: Paramétrico.Normal, VaR Histórico e VaR Simulado.
+
+    4. Teste de Stress.
+
+    5. Backtesting.
+
+    6. Risco Operacional.
+
+    7. Modelos de Frequência e Severidade.
+
+    8. Distribuição de Perda Agregada (VaR Operacional).
+
+    9. Risco de Crédito: Credit Scoring; CreditMetrics.'
+  course_name: 'EAC0329 - Análise e Mensuração de Riscos Financeiros
+
+    Financial Risk Measurement and Analysis'
+  deactivation: ''
+  instructors: 1967693 - Wanderlei Lima de Paulo
+  lecture_credits: '4'
+  objectives: 'Estudar as principais técnicas e modelos utilizados na avaliação de
+    risco financeiro (mercado,
+
+    crédito e operacional).'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203020701'
+digest: GE5VZBRZXA3HPYRVGKN3IXZDP3N75ISQ
+updated_at: '20241203020701'
+url: https://web.archive.org/web/20241203020701id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0329&codcur=12042&codhab=4
