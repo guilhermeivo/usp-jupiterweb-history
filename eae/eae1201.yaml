@@ -1,0 +1,54 @@
+courses:
+  activation: 01/01/2022
+  assessment: Média aritmética simples entre a nota da Primeira Avaliação e a nota
+    da Recuperação igual ou superior a 5 (cinco).
+  bibliography: 'Nicholson, Walter, and Christopher M. Snyder. Microeconomic theory:
+    Basic principles  and extensions. Nelson Education, 2012.
+
+    Varian, H. R. (2006). Microeconomia. Tradução da sétima edição americana, Editora  Pearson/Prentice
+    Hall.'
+  course: '1. Restrição Orçamentária
+
+    2. Preferências
+
+    3. Utilidade
+
+    4. Escolha
+
+    5. Preferência Revelada
+
+    6. Demanda
+
+    7. Equação de Slutsky
+
+    8. Tecnologia
+
+    9. Custos
+
+    10. Oferta'
+  course_name: 'EAE1201 - Microeconomia I
+
+    Microeconomia I'
+  deactivation: 31/12/2024
+  instructors: '9145172 - Ariaster Baumgratz Chimeli
+
+    8704232 - Rafael de Vasconcelos Xavier Ferreira'
+  lecture_credits: '4'
+  objectives: 'Esta é a primeira parte da sequência de Microeconomia. O foco fundamental
+    do curso é  a modelagem do comportamento dos agentes econômicos. A disciplina
+    discorre sobre a  abordagem pela teoria microeconômica das duas principais classes
+    de agentes  econômicos: consumidores e firmas. A abordagem inclui aspectos positivos
+    (estudo do  comportamento) e normativos (análise de bem-estar). No final, é feita
+    uma pequena
+
+    24
+
+    introdução sobre o mecanismo de equilíbrio, que permite analisar a ação combinada
+    de  agentes dessas duas classes.'
+  practical_credits: '2'
+  total_workload: 120 h
+  type: Semestral
+created_at: '20241203030645'
+digest: 3ZSOPZ6N4RRXRGQAXEZ44PRS2PRSHY3I
+updated_at: '20241203030645'
+url: https://web.archive.org/web/20241203030645id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAE1201&codcur=12042&codhab=4
