@@ -1,0 +1,64 @@
+courses:
+  activation: 01/01/2018
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a 70% (setenta por cento).
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    JORDAN, C. W. (1991). Society of Actuaries’ Textbook on Life Contingencies. The
+    Society of
+
+    Actuaries, 2. ed. 349 p.
+
+    BOWERS, N. L.; GERBER, H. U; HICKMAN, J. C.; JONES, D. A.; NESBITT, C. J. (1997).
+
+    ACTUARIAL MATHEMATICS. The Society of Actuaries, 2. ed. 753 p.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    DICKSON, D.C.M; HARDY, M. R; WATERS, H.R. Actuarial Mathematics for Life Contingent
+
+    Risks. Second Edition. 2013'
+  course: '1. Revisão de Análise de Sobrevivência.
+
+    2. Seguros pagáveis por morte.
+
+    3. Seguros pagáveis por sobrevivência.
+
+    4. Prêmios Puros Nivelados.
+
+    5. Reservas.
+
+    6. Seguros Quitados e Estendidos.'
+  course_name: 'EAC0422 - Matemática Atuarial Vida I
+
+    Actuarial Mathematics I - Life'
+  deactivation: 31/12/2024
+  instructors: '4894284 - João Vinícius de França Carvalho
+
+    1064696 - Luiz Jurandir Simões de Araujo
+
+    2112537 - Ricardo Pacheco'
+  lecture_credits: '4'
+  objectives: 'Apresentar os conceitos e teorias que regem o cálculo de seguros de
+    vida e previdência. Ao final do
+
+    curso os alunos estarão habilitados a tarifar prêmios puros, avaliar provisões
+    técnicas e desenhar
+
+    produtos securitários pagáveis por morte e por sobrevivência.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203025052'
+digest: FA5UCJGS7IIE4ZQNJNEM4AVBELIMKHQX
+updated_at: '20241203025052'
+url: https://web.archive.org/web/20241203025052id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0422&codcur=12042&codhab=4
