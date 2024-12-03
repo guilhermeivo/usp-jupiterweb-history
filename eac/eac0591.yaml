@@ -1,0 +1,65 @@
+courses:
+  activation: 15/07/2023
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota
+
+    média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência igual
+    ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    Against the Gods: The Remarkable History of Risk, Peter L. Bernstein
+
+    O Andar do Bêbado: Como o Acaso determina nossas vidas, Leonard Mlodinow
+
+    Aleatoriedade, Deborah J. Bennett
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    Diversos artigos clássicos sobre probabilidades, estatística, demografia, economia
+    política e atuária na coletânea “The World of Mathematics” de James R. Newman'
+  course: 'Introdução: Paradoxos e Contraintuividades do Pensamento Probabilista
+
+    O pensamento probabilista na Antiguidade Clássica
+
+    As origens do Probabilismo nos séculos XVI, XVII e XVIII: as contribuições clássicas
+    de Girolamo Cardano, Blaise Pascal, Pierre Fermat, Abraham de Moivre, Christiaan
+    Huygens, Jacques Bernoulli e Thomas Bayes
+
+    A Grande Síntese do Probabilismo na Obra de Laplace
+
+    Os Pioneiros da Ciência Atuarial de Vida e Morte: John Graunt, Edmond Halley,
+    Abraham de Moivre, Benjamin Gompertz e Thorvald Thiele
+
+    Breve História dos Primórdios da Indústria de Seguros de Vida e de Seguros Gerais
+    na Grã-Bretanha A Ascensão da Doutrina Estatística e sua Importância para a Evolução
+    da Ciência Atuarial de Seguros Gerais
+
+    Tópico Especial: A Escola Escandinava de Atuária e a Teoria da Ruína
+
+    Tópico Filosófico: O que é a Aleatoriedade, qual a sua essência e qual o impacto
+    dela sobre a Evolução da Vida e sobre os Destinos Humanos?'
+  course_name: 'EAC0591 - História da Ciência Atuarial e dos Primórdios da Indústria
+    de Seguros
+
+    History of the Actuarial Science and the Origins of the Insurance Industry'
+  deactivation: ''
+  instructors: 2112537 - Ricardo Pacheco
+  lecture_credits: '4'
+  objectives: Colocar a ciência atuarial em contexto histórico, desde sua gênese e
+    primórdios na matemática probabilista, ressaltando contribuições de matemáticos
+    notáveis para a formação do corpo da ciência e exemplificando como o pensamento
+    atuarial foi se consubstanciando em entidades e instituições de seguros de vida
+    e de bens.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203012033'
+digest: G4NODSMGKI42F3VRST2JYWYAJ62RSFNY
+updated_at: '20241203012033'
+url: https://web.archive.org/web/20241203012033id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0591&codcur=12042&codhab=4
