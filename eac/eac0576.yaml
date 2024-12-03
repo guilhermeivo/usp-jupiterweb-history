@@ -1,0 +1,83 @@
+courses:
+  activation: 01/01/2018
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    Pacheco, Ricardo. Matemática Atuarial de seguros de danos. Atlas, 2014.
+
+    Karian, Z.A. e Dudewicz, E. J. Handbook of Fitting Statistical Distributions with
+    R, CRC Press,
+
+    2011.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    Dickson, D. C.M., Insurance Risk and Ruin (International Series on Actuarial Science),
+    Cambridge,
+
+    2010.
+
+    BOWERS, N. L.; GERBER, H. U; HICKMAN, J. C.; JONES, D. A.; NESBITT, C. J. (1997).
+
+    ACTUARIAL MATHEMATICS. The Society of Actuaries, 2. ed. 753 p.'
+  course: '1.Rápida revisão de todos os tópicos de Matemática Atuarial não Vida I
+
+    2.Mínimos quadrados no ajuste dos parâmetros de uma distribuição.
+
+    3.Método dos momentos no ajuste dos parâmetros de uma distribuição.
+
+    4.Função de maxiverossimilhança no ajuste dos parâmetros de uma distribuição.
+
+    5.QQPlot – como ler e interpretar os resultados
+
+    6.Qual momento da distribuição priorizar vis-à-vis o fenômeno modelado.
+
+    7.Revisão da Teoria do Risco Coletivo e Risco Individual.
+
+    8.Como usar handbooks de distribuições
+
+    9.Aplicações de fit de distribuição no software R e no Excel (usando atingir meta
+    e Solver para
+
+    otimizar alguma métrica escolhida no Fit)
+
+    10.Construção de modelos empíricos de riscos agregados
+
+    11.Construção de modelos por interpolação e
+
+    12.Métodos paramétricos e seleção de modelos
+
+    13.Teoria da Credibilidade
+
+    14.Estatística Bayesiana em modelagem de risco
+
+    15.Métodos paramétricos e seleção de modelos'
+  course_name: 'EAC0576 - Computação Atuarial no R
+
+    Actuarial Computation in R'
+  deactivation: ''
+  instructors: 1064696 - Luiz Jurandir Simões de Araujo
+  lecture_credits: '2'
+  objectives: 'Esta disciplina visa oferecer aplicações práticas dos conteúdos trabalhados
+    nas disciplinas de
+
+    Matemática Atuarial.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241203022109'
+digest: OAG4THMQFL6UGQMKRBPFEUIRB2ZA6MFO
+updated_at: '20241203022109'
+url: https://web.archive.org/web/20241203022109id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0576&codcur=12042&codhab=4
