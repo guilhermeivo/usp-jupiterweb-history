@@ -1,0 +1,63 @@
+courses:
+  activation: 01/01/2018
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    WILMOTT, P.. Mathematics Financial Derivatives. Cambridge University Press, 1995.
+
+    HIRSA, A., NEFTCI, S. N.. An Introduction to the Mathematics of Financial Derivatives.
+
+    Academic Press, 2013.
+
+    CHOUDHRY, M.; LIZZIO, M. Advanced Fixed Income Analysis. Butterworth-Heinemann,
+    2015.
+
+    GLASSERMAN, P. Monte Carlo in Financial Engineering. Springer, 2003.
+
+    McDONALD, R. L. Derivatives Markets. Pearson, 2012.
+
+    HULL, J. C. Options, Futures & Other Derivatives. Prentice Hall, 2011.'
+  course: '1. Revisão de Processos Estocásticos.
+
+    2. Equações diferenciais parciais.
+
+    3. Equações diferenciais estocásticas.
+
+    4. Processo estocástico de Itô.
+
+    5. Modelos de Vasicek and Cox-Ingersoll-Ross.
+
+    6. Black-Derman-Toy (modelo binomial).
+
+    7. Método de Monte Carlo.
+
+    8. Aplicações'
+  course_name: 'EAC0574 - Métodos Estocásticos Aplicados a Finanças
+
+    Applied Stochastic Methods in Finance'
+  deactivation: ''
+  instructors: 1967693 - Wanderlei Lima de Paulo
+  lecture_credits: '4'
+  objectives: 'Estudar modelos e técnicas que fundamentam o processo de apreçamento
+    de produtos derivativos e
+
+    mensuração de riscos financeiros.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203030528'
+digest: J6DEZSR7KXSHJVPZF4OQT4DACCV2V2D4
+updated_at: '20241203030528'
+url: https://web.archive.org/web/20241203030528id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0574&codcur=12042&codhab=4
