@@ -1,0 +1,73 @@
+courses:
+  activation: 01/01/2015
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: "BIBLIOGRAFIA BÁSICA:\nBLACK, JR. K. AND SKIPPER, H. D., Life and\
+    \ Health Insurance, 13th ed, Upper Saddle River, NJ: Prentice Hall, 2000.\nCULYER,\
+    \ A. J., NEWHOUSE, J. P. (Eds.) Handbook of Health Economics. New York: Elsevier,\
+    \ 2001.\nP. ZWEIFEL, F.BREYER. Health Economics. Oxford: University Press, 1997.\n\
+    THOMAS MCGUIRE, PEDRO BARROS (EDS.). Handbook of Health Economics. 1st ed. North\
+    \ Holland. 2011.\nBIBLIOGRAFIA COMPLEMENTAR:\nARROW, K. Uncertainty and the Welfare\
+    \ Economics of Medical Care. American Economic Review, Dec. 1963 vol 53, n5.\n\
+    FELDSTEIN, Martin, \x93The Welfare Loss of Excess Health Insurance\x94 Journal\
+    \ of Political Economy, 81(2), part I, March-April 1973, 251-280.\nFOLLAND, A.\
+    \ C. GOODMAN AND M. STANO. A Economia da Saúde. 5 ed. Porto Alegre: Bookman, 2008.\n\
+    PAULY, Mark V., BLAVIN, Fredric E. \x93Moral hazard in insurance, value-based\
+    \ cost sharing, and the benefits of blissful ignorance\x94 Journal of Health Economics,\
+    \ 2008, 27(6), 1407-1417."
+  course: '1. Gastos Internacionais em Saúde
+
+    1.1 Crescimento e nível de gastos
+
+    1.2 O papel da tecnologia
+
+    1.3 Evidências empíricas
+
+    2. O Mercado de Bens e Serviços de Saúde
+
+    2.1 Externalidades
+
+    2.2 Barreiras à entrada
+
+    2.3 Bens meritórios
+
+    2.4 Demanda derivada
+
+    2.5 Incerteza: Seguro Saúde
+
+    2.6 Economias de escala
+
+    2.7 Assimetria de informação
+
+    3.Características do Sistema de Saúde Brasileiro
+
+    3.1 Sistema de Saúde Suplementar
+
+    4. Anatomia do Seguro de Saúde
+
+    4.1 Princípios do seguro
+
+    4.2 O problema de Risco Moral e Seleção Adversa
+
+    4.3 A regulação da atuação privada'
+  course_name: 'EAC0527 - Tópicos Contemporâneos em Seguro de Saúde
+
+    Contemporary Topics in Health Insurance'
+  deactivation: 31/12/2024
+  instructors: 8760796 - Ana Carolina Maia
+  lecture_credits: '2'
+  objectives: O objetivo do curso é apresentar as principais particularidades do mercado
+    e do consumo de bens e serviços de saúde e de que forma estas se refletem nos
+    contratos estabelecidos entre os agentes desse mercado.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241203015502'
+digest: R4FPT6MUUWELYQUUHIVYCDAJQ5ERXKLT
+updated_at: '20241203015502'
+url: https://web.archive.org/web/20241203015502id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0527&codcur=12042&codhab=4
