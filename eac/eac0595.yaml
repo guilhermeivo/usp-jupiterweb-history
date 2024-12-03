@@ -1,0 +1,66 @@
+courses:
+  activation: 15/07/2023
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota
+
+    média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência igual
+    ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    FÁVERO, L. P.; BELFIORE, P. Análise de Dados – Técnicas Multivariadas Exploratórias
+    com SPSS® e STATA®. Rio de Janeiro: Elsevier. 1a Edição. Rio de Janeiro: Ed. Campus
+    Elsevier, 2015.
+
+    FÁVERO, L. P.; BELFIORE, P. Manual de Análise de Dados: Estatística e Modelagem
+    Multivariada com Excel, SPSS e Stata. 1a Edição. Rio de Janeiro: Ed. Campus Elsevier,
+    2017.
+
+    HAIR JR., J. F.; ANDERSON, R. E.; TATHAM, R. L.; BLACK, W. C. Análise Multivariada
+    de Dados. 6. ed. Porto Alegre: Bookman, 2007.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    JOHNSON, R. A.; WICHERN, D. W. Applied Multivariate Statistical Analysis. 6. ed.
+    Upper Saddle River: Pearson Education, 2007.
+
+    SHARMA, S. Applied Multivariate Techniques. Hoboken: John Wiley & Sons, 1996.'
+  course: '1. Análise de Agrupamentos: Definição de Medidas de Distância - Medidas
+    de Dissimilaridade e de Similaridade.
+
+    2. Análise de Agrupamentos: Esquemas de Aglomeração Hierárquicos e Não Hierárquicos
+    (k-means).
+
+    3. Análise Fatorial por Componentes Principais: Conceito de Fator, Estatística
+    Kaiser-Meyer-Olkin (KMO) e Teste de Esferacidade de Bartlett.
+
+    4. Análise Fatorial por Componentes Principais: Cargas Fatoriais e Comunalidades.
+
+    5. Análise de Correspondência Simples: Associação entre Duas Variáveis Qualitativas
+    por meio do Teste χ2.
+
+    6. Análise de Correspondência Simples: Mapa Perceptual.
+
+    7. Análise de Correspondência Múltipla.'
+  course_name: 'EAC0595 - Análise Multivariada de Dados
+
+    Multivariate Data Analysis'
+  deactivation: ''
+  instructors: 5664682 - Roberto Bomgiovani Cazzari
+  lecture_credits: '2'
+  objectives: Discutir e abordar técnicas multivariadas de interdependência, com foco
+    em análise de conglomerados, fatorial e de correspondência. Permitir que o aluno
+    desenvolva o arcabouço matemático e estatístico e que consiga aplicar as técnicas
+    por meio de ferramenta computacional.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203021724'
+digest: R3XLEWCQVD7BCATSHY5B5YAWZLUPPI3N
+updated_at: '20241203021724'
+url: https://web.archive.org/web/20241203021724id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0595&codcur=12042&codhab=4
