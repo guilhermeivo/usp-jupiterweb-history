@@ -1,0 +1,113 @@
+courses:
+  activation: 15/07/2023
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'Hofert, M., Kojadinovic, I., Mächler, M., & Yan, J. (2018). Elements
+    of copula modeling with R. Cham: Springer International Publishing.
+
+    Kaas, R., Goovaerts, M., Dhaene, J., & Denuit, M. (2008). Modern Actuarial Risk
+    Theory. Berlin, Heidelberg: Springer Berlin Heidelberg.'
+  course: 'Apresentação / Revisão
+
+    • Apresentação do curso
+
+    • Revisão: covariância/coeficiente de correlação de Pearson
+
+    • Falácias sobre o coeficiente de correlação de Pearson
+
+    Medidas de associação não-lineares
+
+    • Concordância
+
+    • Tau de Kendall
+
+    • Rô de Spearman
+
+    Cópulas
+
+    • Distribuição conjunta de probabilidade
+
+    • Definição de cópulas
+
+    • Teorema de Sklar
+
+    • Fronteiras de Frechét-Hoeffding
+
+    Construção de cópulas
+
+    • Relação de tau de Kendall e rô de Spearman com as cópulas
+
+    • Métodos de construção de cópulas
+
+    Classes de cópulas
+
+    • Cópulas elípticas
+
+    • Cópulas arquimedeanas
+
+    • Função geradora de cópulas arquimedeanas
+
+    Ajuste de Cópulas
+
+    • O método da log-verossimilhança
+
+    • Qualidade do ajuste (goodness-of-fit)
+
+    • O critério de informação de cópula (CIC)
+
+    Cópulas de sobrevivência
+
+    • Definição de cópulas de sobrevivência
+
+    • Aplicação
+
+    Dependência na cauda
+
+    • Parâmetro de dependência nas caudas superior e inferior
+
+    • Cópulas max-estáveis
+
+    Cópulas para valores extremos
+
+    • Definição de cópulas para valores extremos
+
+    • Função geradora de Pickands
+
+    Outros tipos de cópulas
+
+    • Cópulas de cauda
+
+    • Cópulas empíricas
+
+    • Aplicação com microdados simulados'
+  course_name: 'EAC0596 - Modelagem de Cópulas e Estruturas de Dependência
+
+    Copula Modeling and Dependence Structures'
+  deactivation: ''
+  instructors: 4894284 - João Vinícius de França Carvalho
+  lecture_credits: '2'
+  objectives: O objetivo desta disciplina é oferecer a oportunidade aos alunos do
+    fim da graduação em Ciências Atuariais de terem contato com modelos estatísticos
+    multivariados por meio de teoria de cópulas, utilizados na análise de dependência
+    entre variáveis aleatórias. Trata-se de um tópico teóricoavançado e moderno, mas
+    que, para além do grande destaque científico, vem ganhando grande importância
+    em diversas aplicações práticas em Atuária e Finanças. Especialmente com os avanços
+    computacionais.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203015913'
+digest: T4QVH7XTUSMMHYDSMYLATV3TYJJQSZF4
+updated_at: '20241203015913'
+url: https://web.archive.org/web/20241203015913id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0596&codcur=12042&codhab=4
