@@ -1,0 +1,71 @@
+courses:
+  activation: 01/01/2024
+  assessment: Média aritmética simples entre a nota da Primeira Avaliação e a nota
+    da Recuperação igual ou superior a 5 (cinco).
+  bibliography: '1. BLANCHARD, O. ”Macroeconomia”. 7a ed. Sao Paulo: Pearson Education
+    do Brasil, 2017.  ̃
+
+    2. WILLIAMSON, S.D. ”Macroeconomics”, 6th ed., 2018.
+
+    3. CARLIN, W. and D. SOSKICE. ”Macroeconomics: Institutions, Instability and the
+    Financial System”, 2014.
+
+    4. LOPES, L.M. e M.A.S. VASCONCELLOS. ”Manual de Macroeconomia: basico e intermedi  ́
+    ario”, 3a ed., 2008.  ́'
+  course: '1. Oferta e demanda agregadas.
+
+    2. Modelo IS x LM.
+
+    3. Regimes cambiais e o modelo IS x LM x BP.
+
+    4. Curva de Phillips.
+
+    5. Modelo de Três Equações; IS x PC x MR.
+
+    6. Políticas fiscal e monetária;
+
+    6.1 Efeitos das políticas.
+
+    6.2 Regras versus discricionariedade.
+
+    6.3 O papel das expectativas.
+
+    7. Consumo e investimento, q de Tobin.
+
+    1. Aggregate supply and aggregate demand.
+
+    2. The IS x LM model.
+
+    3. Exchange rate regimes and the IS x LM x BP model.
+
+    4. The Phillips Curve.
+
+    5. The 3-equation model IS x PC x MR.
+
+    6. Fiscal and monetary policies.
+
+    6.1 Effects.
+
+    6.2 Rules versus discretion.
+
+    6.3 The role of expectations.
+
+    7. Consumption, investment, and Tobin''s q.'
+  course_name: 'EAE1211 - Macroeconomia I
+
+    Macroeconomics I'
+  deactivation: ''
+  instructors: '6418181 - Danilo Paula de Souza
+
+    3570023 - Gilberto Tadeu Lima'
+  lecture_credits: '4'
+  objectives: 'Apresentar modelos macroeconômicos de curto prazo.
+
+    Introduction to short-run macroeconomic models.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203014419'
+digest: N7JUUGBDPR3HHARZIITCTECGFFIB7WI3
+updated_at: '20241203014419'
+url: https://web.archive.org/web/20241203014419id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAE1211&codcur=12042&codhab=4
