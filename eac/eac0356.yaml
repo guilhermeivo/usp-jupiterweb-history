@@ -1,0 +1,86 @@
+courses:
+  activation: 15/07/2021
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    COWPERTWAIT, Paul S.P., METCALFE, Andrew V. “Introductory Time Series with R”,
+
+    Springer, 2009.
+
+    TSAY, Ruey S. “Analysis of Financial Time Series”, Wiley, 2010.
+
+    FREES, Edward W. “Regression Modeling with Actuarial and Financial Applications”,
+    Cambridge
+
+    University Press, 2009.
+
+    ENDERS, Walter. “Applied Econometric Time Series”, Wiley, 2014.
+
+    HAMILTON, James D. “Time Series Analysis”, Princeton University Press, 1994.
+
+    MORETTIN, Pedro A. “Econometria Financeira: um curso em séries temporais financeiras”,
+
+    Blucher, 2011.
+
+    BUENO, Rodrigo L. S. “Econometria de Séries Temporais”, Cengage, 2011.
+
+    WOOLDRIDGE, Jeffrey.M., "Econometric analysis of cross section and panel data
+    ", MIT Press,
+
+    2002WOOLDRIDGE, Jeffrey.M., "Introdução à econometria: uma abordagem moderna",
+    Editora
+
+    Thomson Pioneira, 2006.'
+  course: '1. Conceitos gerais de modelos de séries temporais.
+
+    2. Processos estacionários/ruído branco
+
+    3. Metodologia de Box-Jenkins
+
+    4. Modelos de médias móveis (AR) e autoregressivos (MA).
+
+    5. Modelo autoregressivo de médias móveis (ARMA).
+
+    6. Modelos autoregressivos integrados de médias móveis (ARIMA).
+
+    7. Estimação de parâmetros e testes de resíduo.
+
+    8. Previsão com modelos de séries temporais.
+
+    9. Regressão de séries temporais.
+
+    10. Modelos autoregressivos com heterocedasticidade (ARCH)
+
+    11. Modelos ARCH generalizados (GARCH).'
+  course_name: 'EAC0356 - Modelos de Séries Temporais
+
+    Time Series Analysis'
+  deactivation: 31/12/2024
+  instructors: 4894284 - João Vinícius de França Carvalho
+  lecture_credits: '4'
+  objectives: 'O curso trata das questões introdutórias em modelos de séries de tempo.
+    São ensinados os conceitos
+
+    de modelos de séries de tempo lineares, suas hipóteses básicas, inferência e previsão.
+    Também são
+
+    considerados o processo de regressão linear com séries temporais.'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203012920'
+digest: VRMVRBM66KW36YSGVOGG7N6OXDPUGSBH
+updated_at: '20241203012920'
+url: https://web.archive.org/web/20241203012920id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0356&codcur=12042&codhab=4
