@@ -1,0 +1,71 @@
+courses:
+  activation: 01/01/2018
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    Bissada, Y., Dermine, J. (2005). Gerenciamento de Ativos e Passivos. Atlas.
+
+    Boulier, J-F, Denis, D. (2003). Gestão Financeira dos Fundos de Pensão. Makron.
+
+    Zenios S.A., Ziemba, W.T. (2006). Handbook of Asset and Liability Management.
+    North-Holland.
+
+    Ziemba, W.T . (2003). The Stochastic Programming Approach to Asset, Liability,
+    and Wealth
+
+    Management. Research Foundation of CFA Institute
+
+    Fabozzi, F., Konishi, A. (1995). The Handbook of Asset/Liability Management. McGraw-Hill.
+
+    Bertsekas, Dimitri P.. (2005) Dynamic Programming & Optimal Control. Athena Scientific
+
+    Chiang, Alpha C. (1992). Elements of dynamic optimization. McGraw-Hill.
+
+    David, Luenberger, G. (1998). Investment science. Oxford University Press.
+
+    Glasserman, P. (2003). Monte Carlo Methods in Financial Engineering. Springer.
+
+    Ross, S. M. (2006). Introduction to Probability Models. Academic Press.'
+  course: '1. Modelos de ALM
+
+    2. Modelos de Otimização Estática
+
+    3. Modelos de Otimização Dinâmica
+
+    4. Modelos de Programação Estocástica
+
+    5. Modelos de Simulação Computacional
+
+    6. Aplicações'
+  course_name: 'EAC0555 - Gestão de Ativos e Passivos
+
+    Asset Liability Management'
+  deactivation: ''
+  instructors: 1064696 - Luiz Jurandir Simões de Araujo
+  lecture_credits: '4'
+  objectives: 'Apresentar técnicas de gestão de ativos e passivos, com foco na alocação
+    de investimentos, gestão
+
+    de riscos e aspectos estruturais de diferentes agentes (fundos de pensão, seguradoras,
+    fundos de
+
+    investimentos e bancos).'
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203031118'
+digest: HLVAMYHUKPTJW3EVPWU6XU5LC7SL2U3D
+updated_at: '20241203031118'
+url: https://web.archive.org/web/20241203031118id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0555&codcur=12042&codhab=4
