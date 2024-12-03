@@ -1,0 +1,82 @@
+courses:
+  activation: 01/01/2024
+  assessment: Média aritmética simples entre a nota da Primeira Avaliação e a nota
+    da Recuperação igual ou superior a 5 (cinco).
+  bibliography: 'BODIE, Z., KANE, A. e MARCUS, A. Investimentos. McGraw-Hill/Irwin:
+    10ª edição.  2015.
+
+    CAMPBELL, John Y., LO, Andrew W. & MACKINLAY, A. Craig. The Econometrics of  Financial
+    Markets. Princeton: Princeton, 1997.
+
+    CUTHBERTSON, Keith & NITZSCHE, Dirk. Quantitative Financial Economics, 2nd.  Chichester:
+    Wiley, 2004.
+
+    DANTHINE, Jean-Pierre & DONALDSON, John B. Intermediate Financial Theory, 3rd.  ed.
+    Oxford: Academic Press, 2015.
+
+    ROSS, S., WESTERFIELD, R., JAFFE, J. e LAMB, R. Administração Financeira.  McGraw-Hill/Irwin:
+    10ª edição 2015.'
+  course: '1.     TEORIA DE CARTEIRAS
+
+    a.     Ativos Arriscados
+
+    b.     Risco e Retorno Médio
+
+    c.     Aversão ao risco e Retorno Esperado
+
+    d.     Diversificação
+
+    2.     EQUILÍBRIO ECONÔMICO NO MERCADO DE CAPITAIS: Capital Asset Pricing Model
+    (CAPM)
+
+    a.     Alocação de Capital entre Ativos Arriscados e Sem Risco
+
+    b.     Carteiras Arriscadas Ótimas
+
+    c.     O Capital Asset Pricing Model (CAPM)
+
+    3.     NÃO-ARBITRAGEM NO MERCADO DE CAPITAIS: Arbitrage Pricing Theory (APT)
+
+    a.     Modelos de 1 Fator e Multifator
+
+    b.     Teoria de Apreçamento por Arbitragem (APT)
+
+    4.     HIPÓTESE DE MERCADOS EFICIENTES
+
+    a.     Eficiência do Mercado Financeiro
+
+    b.     Evidências Empíricas Sobre o Retorno de Ativos
+
+    c.     Gestão Ativa e Gestão Passiva
+
+    5.     AVALIAÇÃO DE PROJETOS ARRISCADOS
+
+    a.     Avaliação de Fluxos de Caixa Arriscados
+
+    b.     O Custo de Capital da Empresa
+
+    6.     AVALIAÇÃO DE DESEMPENHO
+
+    a.     A Teoria de Gerência Ativa de Carteira
+
+    b.     Avaliação de Desempenho de Carteiras'
+  course_name: 'EAE1242 - Economia Financeira
+
+    Financial Economics'
+  deactivation: ''
+  instructors: 2918014 - Rodrigo de Losso da Silveira Bueno
+  lecture_credits: '4'
+  objectives: O objetivo do curso é entender o funcionamento do mercado de renda variável
+    (isto é, do mercado de ações) e como o instrumental de apreçamento de ações pode
+    ser utilizado para apreçar ativos arriscados em geral. Discute-se as evidências
+    sobre a eficiência dos mercados financeiros. As taxas de desconto ajustadas pelo
+    risco também são utilizadas nos cálculos de fluxos de caixa descontados e de custo
+    de capital das empresas. Finalmente, é estudado como avaliar o desempenho de fundos
+    de investimento.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203015650'
+digest: TEIE5YFOFYV3I67TH5TLDGEPFBJYQAII
+updated_at: '20241203015650'
+url: https://web.archive.org/web/20241203015650id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAE1242&codcur=12042&codhab=4
