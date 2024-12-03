@@ -1,0 +1,74 @@
+courses:
+  activation: 15/07/2023
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota
+
+    média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência igual
+    ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    Herzog, T. N. (2010). Introduction to credibility theory. 4th ed. Winsted, CT:
+    ACTEX Publications.
+
+    Kaas, R., Goovaerts, M., Dhaene, J., & Denuit, M. (2008). Modern Actuarial Risk
+    Theory. Berlin, Heidelberg: Springer Berlin Heidelberg.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    Bolfarine, H., & Sandoval, M. C. (2010). Introdução à Inferência Estatística,
+    2a ed., Rio de Janeiro: SBM.
+
+    Casella, G., &Berger, R. L. (2002). Statistical Inference, 2nd ed., Pacific Grove:
+    Duxbury/Thomson Learning.
+
+    Lopes, B. P., & Carvalho, J. V. F. (2022). Paying for crime: frauds in DPVAT insurance
+    and their impacts on society. Brazilian Business Review, 1–19.'
+  course: 'Introdução e história dos paradigmas estatísticos: visão clássica, frequentista
+    e Bayesiana;
+
+    Aspectos da Estatística Matemática: distribuição a priori, função de verossimilhança,
+    distribuição a posteriori, propriedades de conjugação, funções de perda, métodos
+    de estimação de parâmetros.
+
+    Revisão de modelos de convolução sob independência: aspectos de tarifação clássica,
+    prêmios puros e distribuições preditivas.
+
+    Modelos Clássicos de Credibilidade: a abordagem de credibilidade total e parcial
+    para diferentes distribuições.
+
+    A abordagem de Bühlmann: formulação geral, elementos básicos de médias hipotéticas
+    e análise de variância. Abordagem geral para obtenção de fatores de credibilidade
+    e processos de tarifação.
+
+    O Modelo de Bühlmann-Straub; formulação geral, modelo para múltiplos segurados
+    com distribuições de probabilidade conhecidas.
+
+    Credibilidade e Inferência Bayesiana: aplicação de distribuições conjugadas, obtenção
+    de estimadores Bayesianos e procedimentos de tarifação de prêmios de seguros.
+
+    Aplicações'
+  course_name: 'EAC0597 - Teoria da Credibilidade
+
+    Credibility Theory'
+  deactivation: ''
+  instructors: 4894284 - João Vinícius de França Carvalho
+  lecture_credits: '2'
+  objectives: O objetivo desta disciplina é apresentar aos alunos de graduação em
+    Ciências Atuariais uma ampla variedade de modelos de credibilidade. Ao final do
+    curso, o aluno deve ser capaz de compreender não apenas as premissas e conceitos
+    chave subjacentes aos modelos clássicos e Bayesianos, mas principalmente as vantagens
+    e desvantagens das aplicações das diversas abordagens para problemas de tarifação
+    de seguros.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203014009'
+digest: WI7HNUBEOZRYBHDCS6SFRD2AR55P35GM
+updated_at: '20241203014009'
+url: https://web.archive.org/web/20241203014009id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0597&codcur=12042&codhab=4
