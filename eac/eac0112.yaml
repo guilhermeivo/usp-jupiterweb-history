@@ -1,0 +1,74 @@
+courses:
+  activation: 01/01/2018
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).
+
+    c) Somente poderão fazer a prova de 2ª chamada os alunos que perderam a prova
+    regular, com motivo justificado, a critério do professor. O grau de dificuldade
+    da prova de 2ª chamada é maior do que o da prova regular.'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    BÉNÉPLANC, G.; ROCHET, J.-C. Risk management in turbulent times. 1a ed. Oxford:
+    Oxford University Press, 2011.
+
+    BERNSTEIN, P. L. Desafio aos deuses: a fascinante história do risco. 2a ed. Rio
+    de Janeiro: Elsevier, 1997.
+
+    TALEB, N. N. A lógica do cisne negro. 2a ed. Rio de Janeiro: Best Seller, 2008.
+
+    VAUGHAN, E. J.; VAUGHAN, T. M. Fundamentals of Risk and Insurance. 10a ed. New
+    York: Wiley, 2008.'
+  course: '1. Risco – Características fundamentais
+
+    2. O atuário: visão geral, oportunidades e responsabilidades
+
+    3. Auditoria e Consultoria
+
+    4. Modelagem estatística
+
+    5. Carreira digital em seguros
+
+    6. Demografia
+
+    7. Risco de crédito
+
+    8. Resseguro & carreira internacional
+
+    9. Perspectivas internacionais: estudando fora do Brasil'
+  course_name: 'EAC0112 - Introdução à Atuaria
+
+    Introduction to Actuarial Science'
+  deactivation: ''
+  instructors: '8760796 - Ana Carolina Maia
+
+    904700 - Luis Eduardo Afonso
+
+    1064696 - Luiz Jurandir Simões de Araujo
+
+    2112537 - Ricardo Pacheco
+
+    1967693 - Wanderlei Lima de Paulo'
+  lecture_credits: '2'
+  objectives: Esta é uma disciplina de caráter introdutório. Seu objetivo é apresentar
+    aos alunos ingressantes as principais áreas das Ciências Atuariais e o campo de
+    atuação do atuário. Na parte inicial é feita a apresentação de conceitos básicos
+    referentes à questão do risco. Essa é a base para que sejam estudados o gerenciamento
+    de riscos e os seguros. Posteriormente, é feita uma série de palestras de atuários,
+    estatísticos e profissionais das áreas em que atuários atuam. O cronograma das
+    palestras é definido de forma que no início sejam abordados temas mais gerais
+    e, à medida que a disciplina evolui, sejam expostos temas de caráter mais específico.
+    Espera-se que ao final da disciplina, os ingressantes tenham uma compreensão mais
+    precisa sobre as atribuições e as perspectivas profissionais e acadêmicas do atuário
+    no Brasil e em outros países.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241203020441'
+digest: K2JFSS4NMFW4NMCDBBPH62XAZK3ME4ZW
+updated_at: '20241203020441'
+url: https://web.archive.org/web/20241203020441id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0112&codcur=12042&codhab=4
