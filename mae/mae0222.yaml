@@ -1,0 +1,69 @@
+courses:
+  activation: 01/01/2020
+  assessment: A média final será uma média ponderada da nota do semestre com da recuperação.
+  bibliography: 'S. M. Ross, Probabilidade: um Curso Moderno com Aplicações, 8a ed.,
+    São Paulo: Bookman, 2010.
+
+    A. C. O. Morgado, J. B. P. Carvalho, P. C. P. Carvalho, P. J. Fernandez, Análise
+    Combinatória e Probabilidade: com a Solução dos Exercícios, 6a ed., Rio de Janeiro:
+    IMPA/vitae, 2004.
+
+    C. A. B. Dantas, Probabilidade: um Curso Introdutório, São Paulo: Edusp, 1997.
+
+    A. M. Mood, F. A. Graybill, D. C. Boes, Introduction to the Theory of Statistics,
+    3rd ed., New York: McGraw Hill, 1974.
+
+    P. G. Hoel, S. C. Port, C. J. Stone, Introdução à Teoria das Probabilidades, Rio
+    de Janeiro: Interciência, 1978.
+
+    W. Feller, Introduction to Probability Theory and its Applications, vol.I, 3rd
+    ed., New York: Wiley, 1968.
+
+    M. H. DeGroot, M. J. Schervish, Probability and Statistics, 3rd
+
+    ed., Boston: Addison Wesley, 2002.
+
+    G. G. Roussas, A Course in Mathematical Statistics, 2nd ed., San Diego: Academic
+    Press, 1997.'
+  course: '1. Contagem: princípio multiplicativo, permutações, combinações.
+
+    2. Espaço de probabilidade.
+
+    3. Probabilidade condicional e independência.
+
+    4. Variáveis e vetores aleatórios: definição, caracterizações e propriedades.
+
+    5. Esperança matemática, funções geradoras de probabilidade e de momentos e suas
+    propriedades.
+
+    6. Principais distribuições de probabilidade (univariadas e multivariadas): uniforme
+    discreta, Bernoulli, binomial, geométrica, Poisson, binomial negativa, hipergeométrica,
+    multinomial, exponencial, normal, Cauchy e uniforme contínua.
+
+    7. Transformações de variáveis: caso univariado, caso multivariado especificamente
+    para distribuição da soma, produto e quociente de variáveis aleatórias.
+
+    8. Estatísticas de ordem, distribuições t-Student, F-Snedecor, qui-quadrado,gama,beta
+    e suas relações.
+
+    9. Distribuição normal multivariada e propriedades.
+
+    10. Lei dos grandes números.
+
+    11. Teorema limite central.'
+  course_name: 'MAE0222 - Probabilidade
+
+    Probability'
+  deactivation: ''
+  instructors: 536512 - Claudia Monteiro Peixoto
+  lecture_credits: '6'
+  objectives: Apresentar os conceitos fundamentais da teoria das probabilidades. Estudar
+    os principais modelos probabilísticos discretos e contínuos, transformações de
+    variáveis e principais distribuições amostrais.
+  practical_credits: '0'
+  total_workload: 90 h
+  type: Semestral
+created_at: '20241203031040'
+digest: RCNRZMWAS4PAWADKWYTJU2M6I2POVNGV
+updated_at: '20241203031040'
+url: https://web.archive.org/web/20241203031040id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAE0222&codcur=12042&codhab=4
