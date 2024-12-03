@@ -1,0 +1,67 @@
+courses:
+  activation: 01/01/2025
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
+    que 5,0 (cinco) e frequência igual ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
+    a 5,0 (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    LANDSBURG, Steven. Price Theory and Applications. 9th Edition. Cengage Learning,
+    2014.
+
+    VARIAN, Hal R. Microeconomia: uma abordagem moderna. 9 ed. Rio De Janeiro: Editora
+    Elsevier Ltda., 2016.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    PINDYCK, Robert S; Rubinfeld, Daniel L. Microeconomia, 8 ed. São Paulo: Pearson
+    Prentice Hall, 2013'
+  course: '1. O Comportamento das Firmas
+
+    2. Custos e benefícios
+
+    3. Produção e Custos
+
+    4. Curto prazo
+
+    5. Longo prazo
+
+    6. Relações entre curto e longo prazo
+
+    7. Competição
+
+    8. A firma competitiva
+
+    9. A indústria competitiva
+
+    10. Aplicações
+
+    11. Economia do Bem-Estar e Ganhos a Partir de Trocas
+
+    12. Eficiência
+
+    13. Monopólio
+
+    14. Preço e produção sob monopólio
+
+    15. Poder de monopólio
+
+    16. Poder de Mercado, Colusão e Oligopólio'
+  course_name: 'EAC0588 - Tópicos Especiais em Teoria da Firma para Ciências Atuariais
+
+    Special Topics in Theory of the Firm for Actuarial Science'
+  deactivation: ''
+  lecture_credits: '2'
+  objectives: 'A disciplina tem como objetivo abordar o referencial teórico de teoria
+    da firma, enfatizando: oferta, análise de estrutura de mercado, concorrência perfeita
+    e monopolística, oligopólio, monopólio e identificação de estrutura de mercado'
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203023729'
+digest: UZYY5WNWZCGZ3V2ZA4UCEU5VTPPIEP37
+updated_at: '20241203023729'
+url: https://web.archive.org/web/20241203023729id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0588&codcur=12042&codhab=4
