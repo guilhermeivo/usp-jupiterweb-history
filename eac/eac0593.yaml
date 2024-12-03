@@ -1,0 +1,64 @@
+courses:
+  activation: 15/07/2023
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    CLEVES, M.; GUTIERREZ, R. G.; GOULD, W.; MARCHENKO, Y. V. An Introduction to Survival
+    Analysis Using Stata. 3. ed. Lakeway Drive: Stata Press.
+
+    FÁVERO, L. P.; BELFIORE, P. Manual de Análise de Dados: Estatística e Modelagem
+    Multivariada com Excel, SPSS e Stata. 1ª Edição. Rio de Janeiro: Ed. Campus Elsevier,
+    2017.
+
+    KLEINBAUM, D. G.; KLEIN, M. Survival Analysis – A Self-Learning Text. 3. ed. New
+    York: Springer, 2012.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    KLEIN, J. P.; MOESCHBERGER, M. L. Survival Analysis: Techniques for Censored and
+    Truncated Data. 1. ed. New York: Springer, 2010.
+
+    MOORE, D. F. Applied Survival Analysis Using R. 1. ed. New York: Springer, 2016.'
+  course: '1. Definindo a Variável Aleatória Tempo de Vida Futuro: Função Densidade
+    de Probabilidade, Função Acumulada, Função de Sobrevida, Função de Risco e Função
+    de Risco Acumulada.
+
+    2. Estimação Empírica de Curvas de Sobrevida: o Procedimento de Kaplan-Meier e
+    o Teste de LogRank.
+
+    3. O Modelo de Riscos Proporcionais de Cox: Estimação e Aplicação Empírica em
+    Demografia.
+
+    4. O Modelo de Riscos Proporcionais de Cox: Outras Aplicações em Ciências Atuariais
+    (exemplo: Modelos de Abandono de Clientes).
+
+    5. Modelos Paramétricos de Curvas de Sobrevida: Os Casos das Distribuições Exponencial
+    e Weibull.'
+  course_name: 'EAC0593 - Análise de Sobrevivência
+
+    Survival Analysis'
+  deactivation: ''
+  instructors: 5664682 - Roberto Bomgiovani Cazzari
+  lecture_credits: '2'
+  objectives: Discutir e abordar a modelagem de curvas de sobrevida e suas aplicações
+    em Ciências Atuariais. Permitir que o aluno desenvolva o arcabouço matemático
+    e estatístico e que consiga aplicar as técnicas por meio de ferramenta computacional.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203025551'
+digest: OTY2RZWFP6PSENO77U24YYVUQCZ6Y7T3
+updated_at: '20241203025551'
+url: https://web.archive.org/web/20241203025551id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0593&codcur=12042&codhab=4
