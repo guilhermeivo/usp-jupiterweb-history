@@ -1,0 +1,30 @@
+courses:
+  activation: 01/01/2018
+  assessment: Média ponderada de provas e exercícios.
+  bibliography: 'R. L. Burden & J. D. Faires; ANÁLISE NUMÉRICA, Cengage Learning,
+    7th ed., 2008. A. F. P. de C. Humes, I. S. H. de Melo, L. K. Yoshida, W. T. Martins;
+    NOÇÕES DE CÁLCULO NUMÉRICO, McGraw-Hill do Brasil, 1984. M. A. Ruggiero, V. L.
+    da R. Lopes; CÁLCULO NUMÉRICO: Aspectos Teóricos e Computacionais, Livro Técnico,
+    McGraw-Hill do Brasil, 1988.'
+  course: '1. Erros de arredondamento. 2. Zeros de funções: localização, determinação
+    por métodos iterativos, precisão pré-fixada, zeros reais de polinômios. 3. Sistemas
+    de equações algébricas lineares: método de eliminação de Gauss, condensação pivotal,
+    refinamento da solução, inversão de matrizes; método iterativo de Gauss-Seidel,
+    critério das linhas e de Sassenfeld. 4. Aproximação de funções: mínimos quadrados,
+    polinômios ortogonais. 5 Interpolação: diferenças finitas, interpolação polinomial.
+    6. Integração numérica: método dos trapézios e método de Simpson.'
+  course_name: 'MAP2122 - Cálculo Numérico Aplicado à Atuária
+
+    Numerical Calculus with Applications to Actuarial Sciences'
+  deactivation: ''
+  instructors: 82037 - Sonia Regina Leite Garcia
+  lecture_credits: '4'
+  objectives: Dar uma introdução ao Cálculo Numérico, exemplificando a resolução de
+    problemas numéricos em computadores. Apresentar aplicações à Atuária.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203032449'
+digest: N3YKMXX5RYY4U3EBMA4A7FOC6ZOJFOC7
+updated_at: '20241203032449'
+url: https://web.archive.org/web/20241203032449id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAP2122&codcur=12042&codhab=4
