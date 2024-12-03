@@ -1,0 +1,138 @@
+courses:
+  activation: 15/07/2023
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    ASSAF NETO, A. Finanças Corporativas e Valor. 7. ed. São Paulo, Atlas: 2014.
+
+    BERK, J.; DEMARZO, P. Corporate Finance, 2nd ed. Boston: Pearson, 2010.
+
+    BREALEY, R.; MYERS, S.; ALLEN, F. Princípios de Finanças Corporativas. 12a ed.
+    São Paulo: McGraw-Hill, 2018.
+
+    ROSS, S. A.; WESTERFIELD, R.; JAFFE, J. F.; LAMB, R. Administração Financeira.
+    Corporate Finance. 10. ed. São Paulo: McGraw-Hill, 2015.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    ASSAF NETO, A., LIMA, Fabiano G. Curso de Administração Financeira. Ed. Atlas,
+    São Paulo, 2008.
+
+    BREALEY, R., MYERS, S., MARCUS, A. J. Fundamentos da Administração Financeira.
+    Ed. McGraw-Hill Interamericana do Brasil. 3ª ed., São Paulo, 2003.
+
+    CARMONA, C. U. M. (Org.). Finanças Corporativas e Mercados. Ed. Atlas, São Paulo,
+    2008.
+
+    CLEMEN, R. T., REILLY, T. Making Hard Decisions with DecisionTools. Duxbury Press,
+    2000.
+
+    DAMODARAN ONLINE. Disponível em: .
+
+    DAMODARAN, A. Avaliação de Investimentos. Ed. Qualitymark, Rio de Janeiro, 1997.
+
+    LEMES JÚNIOR, A. B., RIGO, C. M., CHEROBIM, A. P. M. S. Administração Financeira:
+    Princípios, Fundamentos e Práticas Brasileiras. Ed. Campus. 3ª ed., Rio de Janeiro,
+    2010.
+
+    ROSS, S. A.; WESTERFIELD, R.; JAFFE, J. F. Administração Financeira. Corporate
+    Finance. Tradução Antônio Zoratto Sanvicente. 2. ed. São Paulo: Atlas, 2002.
+
+    ROSS, S. A.; WESTERFIELD, R.; JAFFE, J. F. Corporate Finance. 10th ed. McGraw-Hill,
+    2013.
+
+    ROSS, S. A.; WESTERFIELD, R. W.; JORDAN, B. D. Administração Financeira. Tradução
+    Kátia Aparecida Roque. 8. ed. São Paulo: McGraw-Hill, 2008.
+
+    ROSS, S. A.; WESTERFIELD, R. W.; JORDAN, B. D. LAMB, R. Fundamentos de Administração
+    Financeira. 9. ed. São Paulo: McGraw-Hill, 2013.
+
+    SECURATO, J. R. Decisões Financeiras em Condições de Risco. São Paulo; Atlas,
+    1996.'
+  course: '1. FUNDAMENTOS DE ADMINISTRAÇÃO FINANCEIRA
+
+    1.1 As principais decisões financeiras e a função objetivo da empresa
+
+    1.2 Gestão Baseada no Valor
+
+    1.3 Separação entre propriedade e controle e princípios de governança corporativa
+
+    2. DECISÕES FINANCEIRAS DE LONGO PRAZO
+
+    2.1 Decisões de investimento e dimensionamento dos fluxos de caixa
+
+    2.2 Métodos de avaliação econômica de projetos
+
+    2.3 Decisões de Investimento em Condições de Risco
+
+    2.4 Orçamento de Capital: identificação, avaliação e selecionação de investimentos
+    de longo prazo
+
+    2.5 Custo de capital e criação de valor
+
+    2.6 Fontes de financiamento a longo prazo no Brasil e decisões de estrutura de
+    capital
+
+    2.7 Teorias de estrutura de capital e políticas de dividendos
+
+    2.8 Análise dos diferentes formatos de tributação
+
+    3. DECISÕES FINANCEIRAS DE CURTO PRAZO
+
+    3.1 Ferramentas para gestão do capital de giro
+
+    3.2 Investimento em capital de giro
+
+    3.3 Financiamento do capital de giro
+
+    4. TRIBUTAÇÃO
+
+    4.1 Tributos incidentes sobre a Receita
+
+    4.2 Tributos incidentes sobre o Patrimônio
+
+    4.3 Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos
+    e Valores Mobiliários
+
+    4.4. Tributos incidentes sobre Lucros
+
+    5. Valuation
+
+    5.1. Análise das demonstrações financeiras
+
+    5.2. Projeção de fluxos de caixa
+
+    5.3. Cálculo do WACC.
+
+    5.4. Modelo de múltiplos.'
+  course_name: 'EAC0458 - Finanças Corporativas para Ciências Atuariais
+
+    Corporate Finance for Actuarial Science'
+  deactivation: ''
+  instructors: '8476037 - Eduardo da Silva Flores
+
+    3132692 - Renê Coppe Pimentel'
+  lecture_credits: '2'
+  objectives: A disciplina busca apresentar e discutir os conceitos teóricos e questões
+    práticas que envolvem as decisões financeiras tomadas pelas empresas no processo
+    de gestão, captação de recursos, bem como a gestão de riscos financeiros de curto
+    e longo prazos. Além disso, aspectos de tributação e valuation também são abordados.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241203013357'
+digest: 7YLY6LMSKFUHAGYOEU4WJERXWC6DBJWW
+updated_at: '20241203013357'
+url: https://web.archive.org/web/20241203013357id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0458&codcur=12042&codhab=4
