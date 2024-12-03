@@ -1,0 +1,87 @@
+courses:
+  activation: 15/07/2023
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha nota
+
+    média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência igual
+    ou superior a 70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR. Guia do Ressarcimento ao SUS – Impugnações
+    e Recursos. Rio de Janeiro: ANS, 2019.
+
+    BOADO-PENAS, M. C.; EISENBERG, J.; ŞAHIN, Ş. Pandemics: Insurance and Social Protection.
+    1 ed. Cham: Springer, 2021.
+
+    CONTADOR, C. A Fraude no Seguro: Aspectos Econômicos. Revista Brasileira de Risco
+    e Seguro. Rio de Janeiro, v. 7, n. 13, p. 87-104, abr./set. 2011.
+
+    GAVER, J. J.; PATERSON, J. S. (2004). Do insurers manipulate loss reserves to
+    mask solvency problems? Journal of Accounting and Economics, v.37, n.3, 393-416,
+    2004.
+
+    RÖDL, M. Contributions to the Economics of Index Based Insurance Schemes. 1 ed.
+    Wiesbaden: Springer, 2018.
+
+    STARITA, M. G.; MALAFRONTE, I. Capital Requirements, Disclosure, and Supervision
+    in the European Insurance Industry – New Challenges towards Solvency II. 1 ed.
+    Basingstoke: Palgrave Macmillan, 2014.
+
+    VANDERLINDEN, S. L. B.; MILLIE, S. M.; ANDERSON, N. CHISHTI, S. The Insurtech
+    Book – The Insurance Technology Handbook for Investors, Entrepreneurs and Fintech
+    Visionaires. 1 ed. Chichester: Wiley, 2018.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    CONSELHO NACIONAL DE SEGUROS PRIVADOS. Resolução CNSP no 381 de 2020. CNSP, 2020.
+
+    CONSELHO NACIONAL DE SEGUROS PRIVADOS. Resolução CNSP no 388 de 2020. CNSP, 2020.
+
+    CONSELHO NACIONAL DE SEGUROS PRIVADOS. Resolução CNSP no 415 de 2021. CNSP, 2020.
+
+    INTERNATIONAL FINANCIAL REPORTING STANDARDS. IFRS 17 – Insurance Contracts. IFRS,
+    2017.'
+  course: '1. Insurtech.
+
+    2. Seguro Índice (Index Insurance) e sua Relação com Riscos Climáticos.
+
+    3. Fraude no Mercado Segurador.
+
+    4. Ressarcimento ao SUS.
+
+    5. Segmentação.
+
+    6. Open Insurance.
+
+    7. O Patrimônio Líquido Ajustado e sua Relação com o Capital Mínimo e Solvência.
+
+    8. Sandbox Regulatório.
+
+    9. Pandemia e seus Impactos no Mercado Securitário.
+
+    10. IFRS 17.
+
+    11. Gerenciamento de Resultados na Atividade Seguradora.'
+  course_name: 'EAC0594 - Tópicos Contemporâneos em Atuária
+
+    Contemporary Topics in Actuary'
+  deactivation: ''
+  instructors: 5664682 - Roberto Bomgiovani Cazzari
+  lecture_credits: '2'
+  objectives: Discutir e abordar tópicos contemporâneos que impactam o mercado securitário,
+    tanto numa perspectiva regulatória quanto teórica. Possibilitar que a disciplina
+    seja um ambiente em que novas questões de pesquisa com relevado impacto social
+    possam ser desenvolvidas para fins de pesquisas futuras.
+  practical_credits: '1'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203023511'
+digest: LKZRP26ABELFWAUXDKXNV5PKGL6GVTRR
+updated_at: '20241203023511'
+url: https://web.archive.org/web/20241203023511id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0594&codcur=12042&codhab=4
