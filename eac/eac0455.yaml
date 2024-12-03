@@ -1,0 +1,63 @@
+courses:
+  activation: 01/01/2018
+  assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
+    na disciplina caso obtenha
+
+    nota média final maior ou igual a 3,0 (três) e menor que 5,0 (cinco) e frequência
+    igual ou superior a
+
+    70%.
+
+    b) A média para aprovação com reavaliação será obtida por meio da média aritmética
+    simples da
+
+    média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
+    (cinco).'
+  bibliography: 'BIBLIOGRAFIA BÁSICA:
+
+    LUENBERGER, D. G. Investment Science. Oxford University Press, 2016.
+
+    BODIE, Z., KANE, A., MARCUS, A.J.. Investments. McGraw-Hill/Irwin, 2011.
+
+    ELTON, E. J., GRUBER, M. J., BROWN, S. J., GOETZMAN, W. N. Modern Portfolio Theory
+    and
+
+    Investment Analysis. Wiley, 2014.
+
+    BROVERMAN, S. A. Mathematics of Investment and Credit. ACTEX Publications, 2010.'
+  course: '1. Medidas de Risco e Retorno Esperado.
+
+    2. O modelo de precificação dos Ativos (CAPM). A definição do risco para o CAPM.
+    A reta
+
+    característica
+
+    3. The Arbitrage Pricing theory (APT). Conceitos, cálculos e aplicações.
+
+    4. A moderna teoria do portfólio. O modelo de Markowitz (média-variância).
+
+    5. Modelo com erro de rastreamento (tracking error).
+
+    6. Indicadores de performance de carteiras: medida de Jensen, razão de Sharpe,
+    razão de Treynor,
+
+    razão de Sortino etc.
+
+    7. Imunização de carteiras: conceito de hedge; imunização usando duração modificada
+    e
+
+    convexidade; estratégia delta neutro; razão de hedge de variância mínima.'
+  course_name: 'EAC0455 - Análise de Investimento
+
+    Investment Analysis'
+  deactivation: ''
+  instructors: 1967693 - Wanderlei Lima de Paulo
+  lecture_credits: '4'
+  objectives: Estudar modelos e técnicas relacionados à análise e alocação de investimentos.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241203022234'
+digest: WA3OE7C74PBGZRHI3NFNTKWM6W3DNOHP
+updated_at: '20241203022234'
+url: https://web.archive.org/web/20241203022234id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0455&codcur=12042&codhab=4
