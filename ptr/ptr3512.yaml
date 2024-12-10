@@ -27,7 +27,7 @@ courses:
   course_name: 'PTR3512 - Ciência de Dados Geoespaciais e Análises Urbanas
 
     Geospatial Data Science and Urban Analytics'
-  deactivation: ''
+  deactivation: 31/12/2024
   instructors: 1351435 - Mariana Abrantes Giannotti
   lecture_credits: '2'
   objectives: 'Prover aos alunos conceitos fundamentais de Ciência de Dados Geospaciais
@@ -42,7 +42,7 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20230929224830'
-digest: 3I42H3S6NNFQ2MSVX7XZKYAYSCX5QBYJ
-updated_at: '20240626152737'
-url: https://web.archive.org/web/20240626152737id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3512&codcur=16011&codhab=100
+created_at: '20241210232703'
+digest: 7K7GU4E6WKLVFI2ADBBFN2T3URSUYOTE
+updated_at: '20241210232703'
+url: https://web.archive.org/web/20241210232703id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PTR3512&codcur=16011&codhab=100
