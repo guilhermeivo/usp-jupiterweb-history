@@ -1,0 +1,96 @@
+courses:
+  activation: 15/07/2023
+  assessment: 'A recuperação constará de duas atividades, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
+  bibliography: 'BARRAQUER-BORDAS, L. Neurologia fundamental. 3ª ed. Barcelona: Toray,
+    1976. 1144 p.
+
+    BRAUND, K. G. Clinical Syndromes in Veterinary Neurology. London: Williams & Wilkins,
+    1986. 257 p.
+
+    CHRISMAN, C. L. Problems in Small Animals Neurology. 2.ed. Philadelphia: Lea &
+    Febiger, 1991. 526 p.
+
+    EBEERSON, S. O. E. Comparative neurology of the telencephalon. New York: Plenum
+    Press, 1980. 528 p.
+
+    FINGER, S. Origins of neuroscience: a history of explorations into brain function.
+    [S.l.]: Oxford Univ. Press, 2001.
+
+    FORD, R. B. Clinical signs and diagnosis in small animal practice. New York: Saunders,
+    1988. 772 p.
+
+    JUNQUEIRA, L. C. U.; CARNEIRO, J. Histologia Básica. 9. ed. Rio de janeiro: Guanabara
+    Koogan, 1999.
+
+    JUNQUEIRA, L. C. U.; CARNEIRO, J. Biologia Celular e Molecular. 7. ed. Rio de
+    Janeiro: Guanabara Koogan, 2000.
+
+    KANDEL, E. R.; SCHWARTZ, J. H. ; JESSELL, T. M. Principles of Neural Science.
+    4th ed. McGraw-Hill Medical, 2000. 1414 p.
+
+    KORNEGAY, J. N. Neurologic Disorders. New York: Churchill Livingstone, 1986.
+
+    LIN, C. H.; LEE, C. C.; GEAN, P. W. Involvement of a calcineurin cascade in amygdala
+    depotentiation and quenching of fear memory. Mol Pharmacol, v. 63, n. 1, p. 44-52,
+    2003.
+
+    LORENZ, M. D.; COATES, J.; KENT, M. Handbook of Veterinary Neurology. 5th ed.
+    Saunders, 2010. 560 p.
+
+    MACHADO, A. B. M. Neuroanatomia funcional. 2. ed. Rio de Janeiro: Atheneu, 2005.
+    363 p.
+
+    PALMER, A. C. Introduction to animal neurology. 2nd ed. Oxford: Blackwell Scientific
+    Publications, 1976.
+
+    PAPEZ, J. W. Comparative Neurology; A Manual and Text for the Study of the Nervous
+    System of Vertebrates. Cushing Co. Bervicch & Nervood, Mass, USA. 1929.
+
+    PRADA, I. L. S. Neuroanatomia Funcional em Medicina Veterinária com correlações
+    clínicas. São Paulo: Terra Molhada, 2014. 661 p.
+
+    ROSE, S. O cérebro consciente. São Paulo: Alfa-Omega, 1984.
+
+    SAKARYA, O.; ARMSTRONG, K. A.; ADAMSKA, M. et al. A post-synaptic scaffold at
+    the origin of the animal kingdom". PLoS ONE, v. 2, n. 6, p. e506, 2007.
+
+    SHARP, N. ; WHEELER, S. J. Small Animal Spinal Disorders: Diagnosis and Surgery.
+    2nd ed. Mosby-Year Book, 2005.
+
+    SUMMERS, B. A.; DE LAHUNTA, A.; CUMMINGS, J. F. Veterinary neuropathology. St.
+    Louis: Mo. Mosby, 1995. 527 p.
+
+    VITE, C. H.; BRAUND, K. G. Braund’s Clinical Neurology in Small Animals: Localization,
+    Diagnosis, and Treatment. Online. http://www.ivis.org/advances/Vite/toc.asp 2006.
+
+    YOUNG, J. Y.; CANNING, K. J.; ZHU. G. et al. Tonically activated GABAA receptors
+    in hippocampal neurons are high-affinity, low-conductance sensors for extracellular
+    GABA. Mol Pharmacol, v. 63, n. 1, p. 2-8, 2003.'
+  course: "\x95Organização morfo-funcional geral do sistema nervoso.\n\x95Constituintes\
+    \ funcionais dos nervos espinais e cranianos.\n\x95Degeneração e regeneração nervosa\
+    \ periférica.\n\x95Organização morfo-funcional da medula espinal, do tronco encefálico,\
+    \ do cérebro (diencéfalo e telencéfalo).\n\x95Síndromes relacionadas a afecções\
+    \ cerebrais e cerebelares.\n\x95Síndromes relacionadas a afecções de medula espinhal\n\
+    \x95Vias exteroceptivas, interoceptivas e proprioceptivas.\n\x95Vias eferentes\
+    \ somáticas. Estudo crítico do neurônio motor superior e do neurônio motor inferior.\n\
+    \x95\tVias eferentes viscerais.\n\x95\tNeuro-oftalmologia.\n\x95\tSistemas neurais\
+    \ e comportamento. Estruturas encefálicas relacionadas com o comportamento emocional."
+  course_name: "VCI0200 - Sistema Nervoso dos Animais Domésticos-correlações Anatomo-clínicas\n\
+    Nervous system of domestic animals \x96 Anatomical-Clinical Correlation"
+  deactivation: ''
+  instructors: 88878 - Maria Angélica Miglino
+  lecture_credits: '2'
+  objectives: Oferecer subsídios aos alunos que já tiveram embasamento em Neuroanatomia
+    Funcional Comparada, para melhor entenderem o conteúdo do Programa de Neurologia
+    Clínica e Cirúrgica.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241211022414'
+digest: Y3CYCHU6LKJTQFXGGW5OM7O3X77QA45V
+updated_at: '20241211022414'
+url: https://web.archive.org/web/20241211022414id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI0200&codcur=10012&codhab=0
