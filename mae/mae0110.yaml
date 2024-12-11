@@ -1,0 +1,60 @@
+courses:
+  activation: 01/01/2020
+  assessment: Média entre prova de recuperação e média do semestre.
+  bibliography: '1. D. A. Botter, G. A. Paula, J. G. Leite, L. K. Cordani, NOÇÕES
+    DE ESTATÍSTICA - COM APOIO COMPUTACIONAL. Versão preliminar - agosto de 1996.
+    São Paulo, IMEUSP.
+
+    2. W.O. Bussab, P.A. Morettin. ESTATÍSTICA BÁSICA. 8ed. São Paulo: Editora Saraiva,  2013.
+
+    3. M. N. Magalhães, A. C. Pedroso de Lima, Noções de Probabilidade e Estatística,
+    7a ed., 3ª reimpressão revista, São Paulo: Edusp, 2015.
+
+    4. G. E. Noether, INTRODUÇÃO À ESTATÍSTICA: UMA ABORDAGEM NÃO-PARAMÉTRICA. 2ed.
+    Rio de Janeiro, Guanabara Dois, 1983.
+
+    5. J. F. Soares, A. L. Siqueira, INTRODUÇÃO À ESTATÍSTICA MÉDICA. 1ed. Departamento
+    de Estatística, UFMG, 1999.
+
+    6. W.Mendenhall, J. E. Reinmuth, STATISTICS FOR MANAGEMENT AND ECONOMICS. 3rd
+    edition, North Scituate, Duxburry Press, 1978.
+
+    7. T. H. Wonnacott, R. J. Wonnaccot, INTRODUÇÃO À ESTATÍSTICA, Rio de Janeiro:
+    Livros Técnicos e Científicos, 1980.'
+  course: '1. Tipos de variáveis aleatórias. Noções de métodos de amostragem (aleatória
+    simples, estratificada, sistemática, por conglomerados).
+
+    2. Medidas de tendência central e de dispersão. Gráficos e tabelas.
+
+    3. Noções de probabilidade.
+
+    4. Distribuição binomial.
+
+    5. Distribuição normal.
+
+    6. Estimação da média populacional (cálculo do tamanho de amostra).
+
+    7. Estimação da proporção populacional (cálculo do tamanho de amostra)
+
+    8. Noções de testes de hipóteses.
+
+    9. Teste de hipóteses para uma média.
+
+    10. Outros testes de hipóteses como testes T e ANOVA para comparação de médias,
+    testes qui-quadrado e noções de testes não paramétricos.'
+  course_name: 'MAE0110 - Noções de Estatística
+
+    Elements of Statistics'
+  deactivation: ''
+  instructors: 88691 - Lucia Pereira Barroso
+  lecture_credits: '3'
+  objectives: Fornecer as ideias básicas da metodologia estatística.
+  practical_credits: '0'
+  total_workload: 45 h
+  type: s de variáveis aleatórias. Noções de métodos de amostragem. Medidas descritivas.
+    Noções de probabilidade. Estimação da média e da proporção. Noções de testes de
+    hipóteses.
+created_at: '20241211004054'
+digest: 2G3SO4WONL5X6ASUMNATJ3Q6E77GWIFM
+updated_at: '20241211004054'
+url: https://web.archive.org/web/20241211004054id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAE0110&codcur=10012&codhab=0
