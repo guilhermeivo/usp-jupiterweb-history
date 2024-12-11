@@ -1,0 +1,95 @@
+courses:
+  activation: 01/01/2022
+  assessment: '1 – A recuperação constará de uma prova, que incluirá todo o conteúdo
+    ministrado nas aulas teóricas, a ser realizada até uma semana antes do término
+    do período de retificação de matrícula (estabelecido anualmente pelo Calendário
+    USP).
+
+    2 – A média da avaliação final da disciplina entrará no computo da recuperação,
+    sendo:
+
+    média = média da avaliação final + nota da recuperação ÷ 2
+
+    3 – Não será facultado aos alunos reprovados, mas que obtiveram frequência mínima
+    e nota não inferior a três, a matrícula em disciplinas que dependam de pré-requisitos.'
+  bibliography: '• Abbas Abul K. Imunologia celular e molecular. 9ed. GEN Guanabara
+    Koogan. 2019.
+
+    • Abbas, Lichtman, Pillai. Cellular and Molecular Immunology. 10th ed. Elsevier.
+    2021.
+
+    • Abbas, Lichtman, Pillai. Imunologia Básica - Funções e Distúrbios do Sistema
+    Imunológico. GEN Guanabara Koogan; 6ª edição.2021.
+
+    • David W. Bruno; Patricia A. Noguera; Trygve T. Poppe. A Colour Atlas of Salmonid
+    Diseases. Second Edition. Springer. 2013.
+
+    • Ian Tizard. Imunologia Veterinária. G ! EN Guanabara Koogan; 10ª edição.2019.
+
+    • Junqueira e José Carneiro. Histologia Básica - Texto e Atlas. Guanabara Koogan;
+    13ª edição. 2017.Akkaya, M., Kwak, K. & Pierce, S.K. B cell memory: building two
+    walls of protection against pathogens. Nat Rev Immunol 20, 229–238 (2020). https://doi.org/10.1038/s41577-019-0244-2.
+
+    • Flajnik, M.F. A cold-blooded view of adaptive immunity. Nat Rev Immunol 18,
+    438–453 (2018). https://doi.org/10.1038/s41577-018-0003-9
+
+    • Franck Genten, Eddy Terwinghe, Andri Danguy. Atlas of fish histology. 1st Ed.
+    Science Publishers. 2009.
+
+    • Gregory A. Lewbart. Invertebrate Medicine. Second Ed. Whiley-Blackwell.2012.
+
+    • Hanover Matz, Danish Munir, James Logue, Helen Dooley. The immunoglobulins of
+    cartilaginous fishes. Developmental and Comparative Immunology 115 (2021). 103873.
+    https://doi.org/10.1016/j.dci.2020.103873
+
+    • Ian Tizard. Veterinary Immunology. Elsevier. 10ed. 2018.
+
+    • Kenneth L. Rock; Eric Reits; Jacques Neefjes. Present Yourself! By MHC Class
+    I and MHC Class II Molecules. Trends in Immunology, 37, 11, 1-14, 2016.
+
+    • Ronald J. Roberts. Fish Pathology. 4th ed. Whiley-Blackwell. 2012.
+
+    • Smith NC, Rise ML and Christian SL (2019) A Comparison of the Innate and Adaptive
+    Immune Systems in Cartilaginous Fish, Ray-Finned Fish, and LobeFinned Fish. Front.
+    Immunol. 10:2292. doi: 10.3389/fimmu.2019.02292
+
+    • Tangye, S., Ma, C., Brink, R. et al. The good, the bad and the ugly — TFH cells
+    in human health and disease. Nat Rev Immunol 13, 412–426 (2013). https://doi.org/10.1038/nri3447.
+
+    • Yamaguchi T, Takizawa F, Furihata M, Soto-Lampe V, Dijkstra JM, Fischer U. Teleost
+    cytotoxic T cells. Fish Shellfish Immunol. 95:422-439, 2019. doi: 10.1016/j.fsi.2019.10.041.
+
+    • Fish Physiology Series – Elsevier – 1969-2021'
+  course: '1 - Morfofisiologia do sistema reprodutor, respiratório/circulatório, excretor,
+    digestório, imunológico de peixes de água doce e marinhos (teleósteos e condrictes)
+
+    2 - Morfofisiologia dos sistemas orgânicos de crustáceos (camarão)
+
+    3 - Morfofisiologia dos sistemas orgânicos de moluscos (mariscos e ostras)
+
+    4 - Manejo em sistemas de aquicultura para moluscos, crustáceos e teleósteos de
+    água doce e marinhos de interesse comercial.
+
+    5 - Bases morfofisiológicas da inspeção e conservação do pescado
+
+    6 - Principais problemas que afetam a sanidade destes animais'
+  course_name: 'VCI0205 - Introdução à atuação do Médico Veterinário em Espécies Aquáticas
+
+    Introduction to the veterinarian roles in aquatic animals sciences'
+  deactivation: ''
+  instructors: 1030785 - José Roberto Kfoury Junior
+  lecture_credits: '1'
+  objectives: O curso visa apresentar aos alunos a morfofisiologia comparada dos principais
+    sistemas orgânicos de peixes e invertebrados de água doce e marinhos, de interesse
+    veterinário e zootécnico, ressaltando a inter-relação entre a forma, a função
+    e a integração dos órgãos na manutenção da homeostase. Serão ressaltados os sistemas
+    orgânicos importantes para a avaliação do produto para o consumo e o impacto da
+    criação zootécnica nestes sistemas, colocando os alunos em contato com fazendas
+    de cultura destes animais.
+  practical_credits: '1'
+  total_workload: 45 h
+  type: Semestral
+created_at: '20241211000810'
+digest: CWKK7H522Q7VWMIFRZPH6PQNXJCNEDDE
+updated_at: '20241211000810'
+url: https://web.archive.org/web/20241211000810id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI0205&codcur=10012&codhab=0
