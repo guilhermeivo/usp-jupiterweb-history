@@ -1,0 +1,45 @@
+courses:
+  activation: 01/01/2021
+  assessment: 'A recuperação constará de duas provas. Final: Média Final + Média da
+    Recuperação ÷ 2'
+  bibliography: 'Para cada aula, o professor responsável deixará no xerox ou enviará
+    por email bibliografia relacionada ao tema da aula, que será complementar ao conteúdo
+    a ser abordado na prova teórica.
+
+    Livros Básicos: -
+
+    MARQUARDT, W. C.; DEMAREE, R. S.; GRIEVE, R. B. Parasitology Vector Biology. 2ª
+    Ed., Academic Press, San Diego, 2000.-
+
+    SOULSBY, E.J.L. Helminths, Arthropods and Protozooa of domesticated animals. London.
+    Lea and Febiger, Philadelphia, 7ed, 1982.
+
+    UENO, H., & GUTIERRES, V.C. Manual para diagnóstico das helmintoses de ruminantes.
+    Japan International Cooperation Agency. Toquio, Japão, 1994.'
+  course: Coccidiose dos ruminantes. Coccidiose de cães e gatos. Giardiase-Tricomonose.
+    Ixodideos de equinos e cães. Ixodideos de bovinos. Tristeza parasitária bovina.
+    Babesiose equina e canina. Erlichioses. Gastrenterites parasitárias de ruminantes.
+    Gastrenterites parasitárias de equinos. Gastrenterites parasitárias de cães e
+    gatos. Verminoses pulmonares. Fasciolose e euritrematose. Moscas sinantrópicas.
+    Miíases. Pulgas, piolhos e sarnas.
+  course_name: 'VPS3202 - Epidemiologia das Doenças Parasitárias dos Animais Domésticos
+
+    Epidemiology of Parasitic Diseases of Domestic Animals'
+  deactivation: 31/12/2024
+  instructors: '2801164 - Marcelo Bahia Labruna
+
+    1953541 - Rodrigo Martins Soares'
+  lecture_credits: '5'
+  objectives: Ser capaz de construir a cadeia epidemiológica das principais doenças
+    parasitárias dos animais domésticos. Ser capaz de adotar as medidas de prevenção
+    adequada a cada elo da cadeia epidemiológica. Valorizar as medidas profiláticas
+    e terapêuticas mais adequadas e seguras que possam contribuir no controle e/ou
+    erradicação da doença na população animal e quando aplicável à espécie humana.
+    Descrever a patogenia das principais doenças parasitárias dos animais.
+  practical_credits: '0'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20241211000306'
+digest: AS3RM7JRWEZTUXU2AOUNJ7CZGHU3ZE4K
+updated_at: '20241211000306'
+url: https://web.archive.org/web/20241211000306id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3202&codcur=10012&codhab=0
