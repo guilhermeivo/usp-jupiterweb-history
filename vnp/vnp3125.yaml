@@ -135,7 +135,7 @@ courses:
   course_name: 'VNP3125 - Métodos Estatísticos aplicados à Nutrição e Produção Animal
 
     Statistical Methods applied to Animal Nutrition and Production'
-  deactivation: ''
+  deactivation: 31/12/2024
   instructors: 3571174 - Júlio César de Carvalho Balieiro
   lecture_credits: '2'
   objectives: Auxiliar na capacitação teórica e prática dos alunos, visando o desenvolvimento
@@ -144,13 +144,13 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20230604144049'
-digest: CTW637TUG6RU3SYUTNHZT74WZL5KZCD7
+created_at: '20241211001110'
+digest: WHI4WBQUN22UBOUHK6ICO6AYLQL7P5UN
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 5'
   requirements:
   - code: VPS1201
     name: Métodos Quantitativos em Medicina Veterinária
     type: Requisito
-updated_at: '20240301181446'
-url: https://web.archive.org/web/20240301181446id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VNP3125
+updated_at: '20241211001110'
+url: https://web.archive.org/web/20241211001110id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3125&codcur=10012&codhab=0
