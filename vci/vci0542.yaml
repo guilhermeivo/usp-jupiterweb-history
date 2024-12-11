@@ -1,0 +1,81 @@
+courses:
+  activation: 15/07/2023
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2]'
+  bibliography: 'ALVES, J. C. et al. Evaluation of four clinical metrology instruments
+    for the assessment of osteoarthritis in dogs. Animals (Basel), v. 12, n. 20, Oct
+    17 2022.
+
+    FANTONI, D. T.; IDA, K. K.; LOPES, T. F.; OTSUKI, D. A. et al. A comparison of
+    the cardiopulmonary effects of pressure controlled ventilation and volume controlled
+    ventilation in healthy anesthetized dogs. J Vet Emerg Crit Care (San Antonio),
+    v. 26, n. 4, p. 524-530, Jul 2016.
+
+    FANTONI, D. T. Tratamento da Dor na Clínica de Pequenos Animais. Rio de Janeiro:
+    Elsevier, 2012.
+
+    FANTONI, D. T.; CORTOPASSI, S. R. G. Anestesia em Cães e Gatos. 2. ed. São Paulo:
+    Roca, 2010.
+
+    JIMÉNEZ, G. et al. Osteoarthritis: Trauma vs Disease. Adv Exp Med Biol, v. 1059,
+    p. 63-83, 2018.
+
+    MASSONE. F. Anestesiologia Veterinária - Farmacologia e Técnica. 7. ed. Rio de
+    Janeiro: Guanabara Koogan, 2020.
+
+    MANICA, J. Anestesiologia. 4. ed. Porto Alegre: Artmed, 2018.
+
+    MATSUBARA, L. et al. Psychometric properties of the Brazilian version of the Canine
+    Brief Pain Inventory (CBPI) for dogs with clinical signs of osteoarthritis and
+    preliminary evidence of its clinical utility Arq Bras Med Vet Zootec, v. 74, n.4,
+    p., 2022 v. 74, p. 592-602, 2022.
+
+    NAGASHIMA, J. K.; GONÇALVES, L. A.; PEREIRA, M. A.; TALIB, M. S. et al. Microcirculation
+    assessment of dexmedetomidine constant rate infusion during anesthesia of dogs
+    with sepsis from pyometra: a randomized clinical study. Vet Anaesth Analg, v.
+    49, n. 6, p. 536-545, 2022.
+
+    RODRIGUES, R. R.; AMBRÓSIO, A. M.; ENGBRUCH, A. M.; GONÇALVES, L. A. et al. Intraoperative
+    Protective Mechanical Ventilation in Dogs: A Randomized Clinical Trial. Front
+    Vet Sci, v. 9, p. 842613, 2022.
+
+    SPINOZA, H. S.; GORNIAK, S. L.; BERNARDI, M. M. Farmacologia Aplicada à Medicina
+    Veterinária. 6. ed. Rio de Janeiro: Guanabara Koogan, 2022.
+
+    YE, C. et al. Advances in the pharmaceutical treatment options for canine osteoarthritis.
+    J Small Anim Pract, v. 63, n. 10, p. 721-738, 2022.'
+  course: '● Princípios do tratamento da dor: fisiopatologia e reconhecimento da dor
+
+    ● Principais agentes analgésicos: opioides, AINEs e adjuvantes
+
+    ● Uso racional dos analgésicos na dor aguda
+
+    ● Tratamento da dor crônica e da osteoartrite em cães e gatos
+
+    ● Anestesia em pacientes de risco: o que monitorar
+
+    ● Anestesia no paciente cardiopata
+
+    ● Anestesia no paciente submetido a cirurgia torácica
+
+    ● Procedimentos especiais em cães braquicefálicos'
+  course_name: 'VCI0542 - Controle da dor e técnicas anestésicas especiais em cães
+    e gatos
+
+    Anesthetic Techniques in Dogs and Cats'
+  deactivation: ''
+  instructors: 71622 - Denise Tabacchi Fantoni
+  lecture_credits: '2'
+  objectives: Ampliar o conhecimento no diagnóstico e tratamento da dor em cães e
+    gatos. Conhecer as modalidades anestésicas e de sedação em procedimentos específicos
+    e utilizar tais recursos de forma customizada e racional.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241211025301'
+digest: XJSHJG72RAPLOAPJ6RF5MNCXTQQ2WEVF
+updated_at: '20241211025301'
+url: https://web.archive.org/web/20241211025301id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI0542&codcur=10012&codhab=0
