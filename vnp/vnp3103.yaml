@@ -69,7 +69,7 @@ courses:
   course_name: 'VNP3103 - Produção de Suinos
 
     Swine Production'
-  deactivation: ''
+  deactivation: 31/12/2024
   instructors: 10649722 - Cesar Augusto Pospissil Garbossa
   lecture_credits: '2'
   objectives: Fornecer aos alunos conceitos gerais sobre produção de suínos, tendo
@@ -81,7 +81,7 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20211208103642'
-digest: E3CVUG24SXEWV7NNR5JC2M5HDVBFTR2Z
-updated_at: '20211208103642'
-url: https://web.archive.org/web/20211208103642id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3103
+created_at: '20241211010953'
+digest: SYQN35HZJ4MQTC7JSDTAAZ7UWTY4XZO2
+updated_at: '20241211010953'
+url: https://web.archive.org/web/20241211010953id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3103&codcur=10012&codhab=0
