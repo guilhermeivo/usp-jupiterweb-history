@@ -1,0 +1,42 @@
+courses:
+  activation: 01/01/2020
+  assessment: Nota da 2ª Avaliação = Nota da 1ª Avaliação + 2 x (Nota da prova de
+    recuperação) dividido por 3.
+  bibliography: 'Biologia Molecular Básica, A. Zaha, H. Bunselmeyer-Ferrreira & L.M.P.
+    Passaglia.
+
+    Princípios de Bioquímica de Lehninger, D. L. Nelson & M. M. Cox
+
+    Genética Molecular Básica, C.F. Menck & M. Van Sluys
+
+    Molecular Biology of the Gene, J.D. Watson, T.A. Baker, S. P. Bell, A. Gann, M.
+    Levine & R. Losick
+
+    Lewin''s Genes, J. E. Krebs, S. T. Kilpatrick, E. S. Goldstein
+
+    Molecular Biology of the Cell. Alberts, Johnson, Lewis, Raff, Roberts e Walter
+
+    Artigos e revisões da literatura ou outra bibliografia indicada no cronograma
+    anual da disciplina.'
+  course: Estrutura do DNA e RNA. Fluxo da informação genética.  Organização e estrutura
+    de genes e do genoma. Cromossomos e cromatina.  Elementos genéticos móveis. Replicação
+    do DNA. Mutação e reparo do DNA. Síntese e processamento de RNA. Biossíntese de
+    proteínas. Regulação da expressão gênica em bactérias. Regulação da expressão
+    gênica em eucariotos. Metodologias e aplicações da tecnologia do DNA recombinante
+    e da genômica. Transgenia e clonagem animal.
+  course_name: 'QBQ0136 - Biologia Molecular
+
+    Molecular Biology'
+  deactivation: ''
+  instructors: 7105312 - Daniela Sanchez Bassères
+  lecture_credits: '4'
+  objectives: Proporcionar aos alunos uma visão global dos princípios gerais da Biologia
+    Molecular, procurando capacitá-lo a compreender os mecanismos moleculares que
+    regem a função celular.
+  practical_credits: '0'
+  total_workload: 60 h
+  type: Semestral
+created_at: '20241211192027'
+digest: 72TEYIYREDXOYOOZZMHGSWM7LXOYGJKB
+updated_at: '20241211192027'
+url: https://web.archive.org/web/20241211192027id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QBQ0136&codcur=10012&codhab=0
