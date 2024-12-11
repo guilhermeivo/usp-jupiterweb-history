@@ -1,7 +1,7 @@
 courses:
-  activation: 01/01/2019
+  activation: 01/01/2024
   assessment: 'A recuperação constará de uma prova. A média final, após a recuperação,
-    constará de: (média da avaliação final + nota da recuperação) ÷ 2'
+    constará de: (média da avaliação final + nota da recuperação) ÷ 2.'
   bibliography: 'CHIAVENATO, I. Introdução à Teoria Geral da Administração. 8ed. Campus,
     2011.
 
@@ -10,40 +10,32 @@ courses:
 
     SOARES, J.A.; TONIOLLO, G.H.; BRESCIANI, K.D.S. Gestão Empreendedora em Medicina
     Veterinária. FUNEP, 2017.'
-  course: 'O mercado de serviços veterinários para o segmento pet;
-
-    O mercado de produtos (alimentos, medicamentos, acessórios) para pets;
-
-    Desenvolvimento de SKAs (Skills, Knowledge, Aptitudes and Attitudes) de Médicos
-    Veterinários;
-
-    Planejamento estratégico e as metas SMART para negócios do segmento pet;
-
-    Instalação e gestão de clínica veterinária;
-
-    Administração de hospitais veterinários; e
-
-    Administração de pet shops.'
+  course: "•\tO mercado de serviços veterinários para o segmento pet;\n•\tO mercado\
+    \ de produtos (alimentos, medicamentos, acessórios) para pets;\n•\tDesenvolvimento\
+    \ de Médicos Veterinários;\n•\tPlanejamento estratégico e negócios do segmento\
+    \ pet;\n•\tInstalação e gestão de clínica veterinária;\n•\tAdministração de empresas\
+    \ e estabelecimentos veterinários.\n•\tVisitas técnicas em empresas."
   course_name: 'VNP3123 - Gestão do Segmento Pet
 
     Pet Market Management'
-  deactivation: ''
-  instructors: 7686777 - Marcio Antonio Brunetto
+  deactivation: 31/12/2024
+  instructors: 3076741 - Francisco Palma Rennó
   lecture_credits: '1'
-  objectives: Fornecer ao aluno do curso de Medicina Veterinária fundamentos e conceitos
-    de Administração focada no mercado de serviços e produtos para animais de companhia,
+  objectives: Fornecer ao aluno do curso de Medicina Veterinária, através de entrevistas
+    de gestores e membros da empresa (convidados externos) fundamentos e conceitos
+    de administração focada no mercado de serviços e produtos para animais de companhia,
     mais especificamente na gestão de clínicas de pequenos animais, hospitais veterinários,
     negócios e serviços do segmento pet.
   practical_credits: '0'
   total_workload: 15 h
   type: Semestral
-created_at: '20220122205230'
-digest: ICZFPV5EH567C4HK5LLWCHKWMZ7UAGHC
+created_at: '20241211034310'
+digest: M6ZULJ6EXCUKIX6BV7AXUGVRHC5P6MJO
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 5'
   requirements:
   - code: VNP3122
     name: Gestão Aplicada para Médicos Veterinários
     type: Indicação de Conjunto
-updated_at: '20220816041842'
-url: https://web.archive.org/web/20220816041842id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VNP3123
+updated_at: '20241211034310'
+url: https://web.archive.org/web/20241211034310id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3123&codcur=10012&codhab=0
