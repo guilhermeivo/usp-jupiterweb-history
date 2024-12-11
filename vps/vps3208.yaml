@@ -1,0 +1,67 @@
+courses:
+  activation: 01/01/2021
+  assessment: Duas provas. Média Final + Média da Recuperação ÷ 2
+  bibliography: "1)\tBroom, D.M. and Fraser, A.F. (2007) Domestic animal behaviour\
+    \ and welfare. CABI International, Oxfordshire, OX10 8DE, UK. 438 páginas\n2)\t\
+    Fraser, D. (2008) Understanding animal welfare: the  science in its cultural context.\
+    \ John Wiley & Sons, Oxford, OX4 2DQ, UK. 324 páginas.\n3)\tHeleski, C.R.; Zanella,\
+    \ A.J. and Pajor, E. (2003) Animal welfare judging teams - a way to interface\
+    \ welfare science with traditional animal science curricula? Applied Animal Behaviour\
+    \ Science 81:279-289.\n4)\t Heleski, C.; Mertig, A.; and Zanella, A.J. (2004)\
+    \ Assessing attitudes toward farm animal welfare: a national survey of animal\
+    \ science faculty members. J. Anim. Sci.  82:2806–2814\n5)\tHeleski, C.;  Mertig,\
+    \ A.; and Zanella A.J. (2005) Results of a national survey of US veterinary college\
+    \ faculty regarding attitudes toward farm animal welfare.  JAVMA Vol. 226 (9),\
+    \ 1538-1546.\n6)\tSiegford JM, Bernardo TM, Malinowski RP, Laughlin K, Zanella\
+    \ AJ. Integrating animal welfare into veterinary education: using an online, interactive\
+    \ course. J Vet Med Educ. 2005 Winter;32(4):497-504.\n7)\t Siegford JM, Zanella\
+    \ AJ, Bernardo T, Wickens C, Laughlin K and Malinowski R. 2007 Leveraging expertise\
+    \ in animal welfare to create educational equity. Animal Welfare, 16:241-243\n\
+    8)\tZanella, A.J. (2008) Meeting the educational challenges to engage veterinarians\
+    \ in animal welfare science. Acta Veterinaria Scandinavica, 50(supp1): 54."
+  course: "1)\tIntrodução ao curso: objetivos, metodologia, entrega de material para\
+    \ os seminários, e definição do tema para o trabalho de conclusão do curso.\n\
+    2)\tÉtica e legislação em bem-estar animal\n3)\tAspectos econômicos relacionados\
+    \ com boas práticas de bem-estar animal e programas de certificação\n4)\tBiomarcadores,\
+    \ incluindo aspectos epidemiológicos e tecnologia de sensores na avaliação de\
+    \ bem-estar animal\n4.1)\tSeminário virtual 1 & 2) Cenários interativos para a\
+    \ avaliação de bem-estar animal. Os seminários vão facilitar o trabalho individual\
+    \ e em grupo, com o estabelecimento de um banco de dados global sobre o desempenho\
+    \ dos estudantes nos cenários (Heleski, Zanella and Pajor, 2003; Zanella, 2008).\
+    \ A avaliação dos cenários irá preceder a abordagem na sala de aula e também o\
+    \ trabalho prático.\n5)\tIndicadores e protocolos para avaliar o bem-estar de\
+    \ aves domésticas e coelhos\n6)\tIndicadores e protocolos para avaliar o bem-estar\
+    \ de bovinos de corte e de leite\n7)\tIndicadores e protocolos para avaliar o\
+    \ bem-estar de caprinos e ovinos;\n8)\tIndicadores e protocolos para avaliar o\
+    \ bem-estar de equídeos e suínos\n9)\tIndicadores e protocolos para avaliar o\
+    \ bem-estar de animais de peixes e animais aquáticos\n10)\t Indicadores e protocolos\
+    \ para avaliar o bem-estar de animais utilizados em pesquisa\n11)\t Indicadores\
+    \ e protocolos para avaliar o bem-estar de animais de companhia e esporte\n12)\t\
+    \ Indicadores e protocolos para avaliar o bem-estar de animais não domesticados,\
+    \ mantidos em cativeiro ou em liberdade.\nAulas Práticas (2 horas/aula/grupo de\
+    \ 20 estudantes): Ministradas em Pirassununga\n1)\tAnálise comportamental, de\
+    \ saúde; coleta de amostras; análise laboratorial de bio-marcadores de bem-estar\
+    \ animal; sensores utilizados para avaliação de bem-estar animal\n2)\tProtocolos\
+    \ para mensurar experiências subjetivas: conforto, contentamento, dor, medo, \
+    \ memoria, ansiedade em animais\n3)\tUtilização prática de protocolos validados\
+    \ de avaliação de bem-estar animal em várias espécies de animais\n4)\tCompetição\
+    \ de avaliação de bem-estar animal (Heleski, Zanella & Pajor, 2003)"
+  course_name: 'VPS3208 - Avaliação Científica de Bem-estar animal
+
+    Scientific Evaluation of Animal Welfare'
+  deactivation: 31/12/2024
+  instructors: 8651895 - Adroaldo José Zanella
+  lecture_credits: '2'
+  objectives: 'Capacitar médicos-veterinários para que utilizem e desenvolvam métodos
+    científicos para avaliação de bem-estar animal.
+
+    Promover boas práticas para melhorar o bem-estar dos animais.
+
+    Melhorar a qualidade, produtividade e sustentabilidade das interações homem-animal.'
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241211030845'
+digest: 5HII3HXFXJXBYRYTY5FAKQKM7PSRB2U7
+updated_at: '20241211030845'
+url: https://web.archive.org/web/20241211030845id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3208&codcur=10012&codhab=0
