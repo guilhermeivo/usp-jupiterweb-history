@@ -1,0 +1,58 @@
+courses:
+  activation: 15/07/2023
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
+  bibliography: 'ALEXANDER, J. W. The pathogenesis of canine hip dysplasia. Vet Clin
+    North Am Small Anim Pract, v. 22, n. 3, p. 503-511, 1992.
+
+    BEALE, B. S.; HULSE, D. A.; SHULZ, K.; WHITNEY, W. O. Small Animal Arthroscopy.
+    Saunders, 2003. 256 p.
+
+    JOHNSON, A. L; HOULTON, J. E. F.; VANINI, R. AO Principles of Fracture Management
+    in the Dog and Cat. Thieme Medical Publishers, 2005. 529 p.
+
+    JOHNSON, K. A. Piermattei’s atlas of surgical approaches to the bones and joints
+    of the dog and cat. 5th ed. Saunders, 2013. 488 p.
+
+    MILLIS, D. L.; LEVINE, D.; TAYLOR, R. A. Canine Rehabilitation and Physical Therapy.
+    Saunders, 2004. 544 p.
+
+    PIERMATTEI, D. L.; FLO, G. L.; DECAMP, C. E. Handbook of Small Animal Orthopedics
+    and Fracture Repair. 4th ed. St. Louis: Saunders Elsevier, 2006. 818 p.
+
+    ROUSH, J. K. Stifle Surgery. Vet Clin North Am Small Anim Pract, v. 23, n. 4,
+    p. 691-920, 1993.'
+  course: '● Abordagem anátomo-cirúrgica da articulação escápulo-umeral
+
+    ● Abordagem anátomo-cirúrgica da articulação úmero-rádio-ulnar
+
+    ● Abordagem anátomo-cirúrgica da articulação coxofemoral
+
+    ● Abordagem anátomo-cirúrgica da articulação fêmuro-tíbio-patelar
+
+    ● Abordagem anátomo-cirúrgica dos ossos longos
+
+    ● Amputação do membro locomotor
+
+    ● Técnicas de osteossíntese e artrodese'
+  course_name: 'VCI0535 - Ortopedia
+
+    Orthopedics'
+  deactivation: ''
+  instructors: '177752 - André Luis do Valle de Zoppa
+
+    40155 - Julia Maria Matera'
+  lecture_credits: '2'
+  objectives: Ensino das afecções dos ossos e articulações dos animais domésticos
+    para preparar e embasar o aluno que optar pela área Ortopedia no Estágio Obrigatório
+    e vida profissional.
+  practical_credits: '0'
+  total_workload: 30 h
+  type: Semestral
+created_at: '20241211031613'
+digest: M7QYETDENVLPIA6THVSBFANH44PHR4AY
+updated_at: '20241211031613'
+url: https://web.archive.org/web/20241211031613id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI0535&codcur=10012&codhab=0
