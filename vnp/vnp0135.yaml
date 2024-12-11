@@ -1,50 +1,73 @@
 courses:
-  activation: 01/01/2021
+  activation: 01/01/2024
   assessment: Relatorio de atividades.
-  bibliography: SMYTHE, R.H. A psique do cavalo, São Paulo, Livraria Varela, 1990DEAG,
-    J.M. O comportamento social dos animais, São Paulo, Editora Pedagógica e Universitária;
-    Editora da Universidade de São Paulo, 1981.CAMARGO, M.X.; CHIEFFI, A , Ezoognósia,
-    São Paulo, Instituto de zootecnia, 1971.EDWARDS, E.H. Cavalos. Rio de Janeiro,
-    Ediouro, 1994.  256p. MEYER, H. Alimentação de cavalos. São Paulo, Livraria Varela,
-    1995. 303p.MACARI, M.; FURLAN, R.L.; GONZALES,E. Fisiologia Aviária Aplicada a
-    Frangos de          Corte,  Jaboticabal,  FUNESP,  1994. 296p.NORTH, M. O Comercial
-    Chicken Production Manual. Westport, Avi Publishing  Company         1984. 629p.SAINSBURY,D.
-    Poultry Health and Management, London, Granada, 1984, 196p.SILVA SOBRINHO, A G.
-    Criação de Ovinos. Jaboticabal, FUNEP. 1997. 230p.LASER, W. et al. Elementos de
-    Epidemiologia Geral. Livraria Atheneu, Rio de Janeiro, 1985Simpósio Internacional
-    sobre caprinos e ovinos de corte 1. João Pessoa, Anais, EMEP. Pb.     Empresa
-    Estadual de Pesquisa Agropecuária da Paraíba. 2000. 266pCAVALCANTI, S.S. Suinocultura
-    Dinâmica.  Contagem-MG- Itapuâ editora e gráfica LTDA, 1998.  494p.POND, W.G.
-    MANNER J.H. Swine Production and Nutrition, The Avi Publishing Company Inc. 1984.
-    731p.LUENING, R.A. Dairy Farm Business Management, The Board of Regents of the
-    University of Wiscosin Sustem, 1996. 234p.LOBATO, J. F. P.; JARDIM BARCELLOS,
-    J. O KESSLER, A M. Produção de Bovinos de Corte, Porto Alegre, EDI-PUCRS, 1999.
-    346p.PEIXOTO, A M.; MOURA, J.C.; DE FARIA, V. P. Planejamento da Exploração Leiteira.
-    Piracicaba, FEALQ, 1998, 268pCHEEKE, P.R.; PATTON, N. M.; LUKEHAR, S.D.; McNITT,
-    J.I. Rabbit Production, Intestate Printers and Publishers, 1987. 472p.
-  course: "Atividades essencialmente práticas acompanhando a rotina dos diferentes\
-    \ sistemas de criação de animais e sua inter-relação com o exercício profissional\
-    \ e a realidade brasileira, no contexto das criações de  :\n·Bovinos de Leite\
-    \                                                                ·\t-Bovinos de\
-    \ Corte·\t                                                                   \
-    \       -Suínos·\t                                                           \
-    \                             -Aves (frangos de corte, galinhas de postura e matrizes\
-    \ reprodutoras)\t-Eqüinos"
+  bibliography: 'CAMARGO, M.X.; CHIEFFI, A , Ezoognósia, São Paulo, Instituto de zootecnia,
+    1971.
+
+    CAVALCANTI, S.S. Suinocultura Dinâmica.  Contagem-MG- Itapuâ editora e gráfica
+    LTDA, 1998.  494p.
+
+    CHEEKE, P.R.; PATTON, N. M.; LUKEHAR, S.D.; McNITT, J.I. Rabbit Production, Intestate
+    Printers and Publishers, 1987. 472p.
+
+    DEAG, J.M. O comportamento social dos animais, São Paulo, Editora Pedagógica e
+    Universitária; Editora da Universidade de São Paulo, 1981.
+
+    EDWARDS, E.H. Cavalos. Rio de Janeiro, Ediouro, 1994.  256p.
+
+    LASER, W. et al. Elementos de Epidemiologia Geral. Livraria Atheneu, Rio de Janeiro,
+    1985.
+
+    LOBATO, J. F. P.; JARDIM BARCELLOS, J. O KESSLER, A M. Produção de Bovinos de
+    Corte, Porto Alegre, EDI-PUCRS, 1999. 346p.
+
+    LUENING, R.A. Dairy Farm Business Management, The Board of Regents of the University
+    of Wiscosin Sustem, 1996. 234p.
+
+    MACARI, M.; FURLAN, R.L.; GONZALES,E. Fisiologia Aviária Aplicada a Frangos de  Corte,  Jaboticabal,  FUNESP,  1994.
+    296p.
+
+    MEYER, H. Alimentação de cavalos. São Paulo, Livraria Varela, 1995. 303p.
+
+    NORTH, M. O Comercial Chicken Production Manual. Westport, Avi Publishing  Company
+    1984. 629p.
+
+    PEIXOTO, A M.; MOURA, J.C.; DE FARIA, V. P. Planejamento da Exploração Leiteira.
+    Piracicaba, FEALQ, 1998, 268p
+
+    POND, W.G. MANNER J.H. Swine Production and Nutrition, The Avi Publishing Company
+    Inc. 1984. 731p.
+
+    SAINSBURY,D. Poultry Health and Management, London, Granada, 1984, 196p.
+
+    SILVA SOBRINHO, A G. Criação de Ovinos. Jaboticabal, FUNEP. 1997. 230p.
+
+    Simpósio Internacional sobre caprinos e ovinos de corte 1. João Pessoa, Anais,
+    EMEP. Pb. Empresa Estadual de Pesquisa Agropecuária da Paraíba. 2000. 266p
+
+    SMYTHE, R.H. A psique do cavalo, São Paulo, Livraria Varela, 1990.'
+  course: "Atividades essencialmente práticas realizadas no Campus da USP Fernando\
+    \ Costa – Pirassununga/SP – Departamento de Nutrição e Produção Animal (VNP) da\
+    \ FMVZ-USP, acompanhando a rotina dos diferentes sistemas de criação de animais\
+    \ e sua inter-relação com o exercício profissional e a realidade brasileira, no\
+    \ contexto das criações de:\n•\tAves / Coelhos\n•\tBovinos de Corte\n•\tBovinos\
+    \ de Leite\n•\tCaprinos / Ovinos\n•\tEquinos\n•\tSuínos\n•\tCães e Gatos\nAulas\
+    \ de Campo – Campus da USP “Fernando Costa” - Pirassununga"
   course_name: 'VNP0135 - Introdução ao Estudo da Medicina Veterinária em Sistemas
     de Criações
 
     Introduction to the Study of Veterinary Medicine in Production Systems'
-  deactivation: ''
-  instructors: 7686777 - Marcio Antonio Brunetto
+  deactivation: 31/12/2024
+  instructors: 9124662 - Ricardo Vieira Ventura
   lecture_credits: '3'
-  objectives: Oferecer ao acadêmico ingressante  conhecimentos iniciais ligados aos
+  objectives: Oferecer ao acadêmico ingressante, conhecimentos iniciais ligados aos
     diferentes sistemas de criação dos animais, através de atividades de rotina específicas
     empregadas na lida com os animais, de maneira a permitir a identificação dos vários
     fatores envolvidos no complexo dos criatórios.
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20211208085236'
-digest: 52MK6C455OL6OIT3MTEGOWVUA33HN36U
-updated_at: '20230402081248'
-url: https://web.archive.org/web/20230402081248id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP0135
+created_at: '20241211000423'
+digest: DXLPSXKYNXWCDSO5JN7ZRNHUPOWEYCAG
+updated_at: '20241211000423'
+url: https://web.archive.org/web/20241211000423id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP0135&codcur=10012&codhab=0
