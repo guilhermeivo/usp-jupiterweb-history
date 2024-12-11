@@ -1,0 +1,126 @@
+courses:
+  activation: 15/07/2023
+  assessment: 'A recuperação constará de duas provas (que poderão conter parte teórica
+    e parte prática), cuja natureza ficará a cargo de cada disciplina, a serem realizadas
+    no período indicado pelo calendário USP. A média final após a recuperação será
+    a média aritmética da nota da avaliação final e da média da recuperação [Média
+    pós-recuperação: (nota da avaliação final + média da recuperação)/2]'
+  bibliography: 'BARR, F.; KIRBERGER, R. BSAVA Manual of Canine and Feline Musculoskeletal
+    Imaging. British Small Animal Veterinary Association, 2006.
+
+    BUTLER, J.; COLLES, C.; DYSON, S.; KOLD, S. Clinical Radiology of the Horse. 4th
+    ed. Wiley-Blachwell, 2016.
+
+    CARVALHO, C. F. Ultrassonografia em pequenos animais. 2. ed. Roca, 2004.
+
+    CARVALHO, C. F. Ultrassonografia doppler em pequenos animais. São Paulo: Roca,
+    2009.
+
+    KEALY J. K.; MCALLISTER H.; GRAHAM J. P. Diagnostic radiology and ultrasonography
+    of the dog and cat. 5th ed. Saunders, 2011.
+
+    LAVIN L. M. Radiography in veterinary technology. 4th ed. Kobo Editions, 2006.
+
+    MATTOON, John S.; NYLAND, Thomas G. Small animal diagnostic ultrasound. 3rd ed.
+    Saunders, 2015.
+
+    O’BRIEN, R. BSAVA Manual of canine and feline abdominal imaging. British Small
+    Animal Veterinary Association, 2009.
+
+    OWENS, J.; BIERY, D. Radiographic Interpretation for the Small Animal Clinician.
+    2nd ed. Wiley-Blachwell, 2012.
+
+    PENNINCK D.; D’ANJOU M. A. Atlas of Small Animal Ultrasonography. 2nd ed. Wiley-Blackwell,
+    2016.
+
+    SCHEBITZ, H.; WILKENS, H. Atlas of radiographic anatomy of the dog and cats. 5th
+    ed. Berlin: Paul Parey, 2000.
+
+    SCHWARZ, T.; JOHNSON, V. BSAVA Manual of Canine and Feline Thoracic Imaging. British
+    Small Animal Veterinary Association, 2008.
+
+    SCHWARTZ, T.; SAUNDERS, J. Veterinary Computed Tomography. Iowa, Wiley-Blachwell,
+    2011.
+
+    SILVERMAN, S.; TELL, L. Radiology of Birds: An Atlas of Normal Anatomy and Positioning.
+    1th ed. Saunders, 2009.
+
+    THRALL, D. E. Textbook of veterinary diagnostic radiology. 7th ed. Canada: Elsevier,
+    2017.
+
+    THRALL, D. E.; ROBERTSON,I. D. Atlas of Normal Radiographic Anatomy and Anatomic
+    Variants in the Dog and Cat. 3th ed. Elsevier, 2022.
+
+    Veterinay Radiology & Ultraosund (periódico) - https://onlinelibrary.wiley.com/journal/17408261
+
+    VICENTE, W. R. R; FELICIANO, M. A.; CANOLA, J. C. Diagnóstico por Imagem em Cães
+    e Gatos. MedVet, 2015.
+
+    WISNER, E.; ZWINGENBERGER, A. Atlas of Small Animal CT and MR. Wiley Blackwell,
+    2015.'
+  course: 'Curso Teórico
+
+    ● Diagnóstico por imagem das afecções ósseas metabólicas.
+
+    ● Diagnóstico por imagem das afecções ósseas traumáticas.
+
+    ● Diagnóstico por imagem das afecções ósseas inflamatórias, infecciosas e neoplásicas.
+
+    ● Diagnóstico por imagem das afecções articulares.
+
+    ● Diagnóstico por imagem das afecções da coluna vertebral
+
+    ● Diagnóstico por imagem das afecções do sistema digestório I
+
+    ● Diagnóstico por imagem das afecções do sistema digestório II
+
+    ● Diagnóstico por imagem das afecções do sistema genital.
+
+    ● Diagnóstico por imagem das afecções do sistema cardiocirculatório.
+
+    ● Diagnóstico por imagem das afecções do sistema respiratório.
+
+    ● Diagnóstico por imagem das afecções da cavidade torácica.
+
+    Curso Prático
+
+    ● Diagnóstico por imagem das afecções ósseas metabólicas.
+
+    ● Diagnóstico por imagem das afecções ósseas traumáticas.
+
+    ● Diagnóstico por imagem das afecções ósseas inflamatórias, infecciosas e neoplásicas.
+
+    ● Diagnóstico por imagem das afecções articulares.
+
+    ● Diagnóstico por imagem das afecções da coluna vertebral
+
+    ● Diagnóstico por imagem das afecções do sistema digestório II
+
+    ● Diagnóstico por Imagem das afecções do sistema digestório II
+
+    ● Diagnóstico por Imagem das afecções do sistema genital.
+
+    ● Diagnóstico por Imagem das afecções do sistema urinário.
+
+    ● Diagnóstico por imagem das afecções do sistema cardiocirculatório.
+
+    ● Diagnóstico por imagem das afecções do sistema respiratório
+
+    ● Diagnóstico por imagem das afecções da cavidade torácica.'
+  course_name: 'VCI4203 - Diagnóstico por Imagem II
+
+    Diagnostic Imaging II'
+  deactivation: 31/12/2024
+  instructors: 514319 - Carla Aparecida Batista Lorigados
+  lecture_credits: '3'
+  objectives: Difundir conceitos e interpretação dos métodos de diagnóstico por imagem
+    em Medicina Veterinária. Desenvolver estudo sobre anatomia, semiologia e patologia
+    radiológica, ultrassonográfica, por tomografia computadorizada e ressonância magnética
+    nos diferentes sistemas orgânicos.
+  practical_credits: '0'
+  total_workload: 45 h
+  type: Semestral
+created_at: '20241211003426'
+digest: LMPOFRUNKPDK4E5ADB5KHL7JEENEAIHM
+updated_at: '20241211003426'
+url: https://web.archive.org/web/20241211003426id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI4203&codcur=10012&codhab=0
