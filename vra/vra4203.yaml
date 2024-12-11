@@ -1,5 +1,5 @@
 courses:
-  activation: 15/07/2021
+  activation: 01/01/2022
   assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
     de cada disciplina, a serem realizadas até uma semana antes do término do período
     de retificação de matrícula (estabelecido anualmente pelo Calendário USP) A média
@@ -49,7 +49,7 @@ courses:
   course_name: 'VRA4203 - Neonatologia Veterinária
 
     Veterinary Neonatology'
-  deactivation: 31/12/2021
+  deactivation: ''
   instructors: 486906 - Camila Infantosi Vannucchi
   lecture_credits: '2'
   objectives: '1) Estudar os mecanismos fisiológicos e patológicos dos recém-nascidos.
@@ -61,7 +61,7 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20241013111218'
-digest: Y5CB46D5TPZDSFLOKKNYVBBBN7OUDBSP
-updated_at: '20241013111218'
-url: https://web.archive.org/web/20241013111218id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA4203&verdis=1
+created_at: '20241211034455'
+digest: 55V7ZYJ3ZNBYVYKFOH36F5FK22LTAYTP
+updated_at: '20241211034455'
+url: https://web.archive.org/web/20241211034455id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA4203&codcur=10012&codhab=0
