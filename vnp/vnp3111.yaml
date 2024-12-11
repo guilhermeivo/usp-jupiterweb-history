@@ -77,7 +77,7 @@ courses:
   course_name: 'VNP3111 - Sociologia e Extensão
 
     Sociology and Extension'
-  deactivation: ''
+  deactivation: 31/12/2024
   instructors: 2150307 - Augusto Hauber Gameiro
   lecture_credits: '2'
   objectives: Fornecer aos alunos fundamentos da Sociologia aplicados à profissão
@@ -86,7 +86,7 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20211208100544'
-digest: WJRVTLFHNEVHP5U5IXZGCEBRWFML2LRB
-updated_at: '20230402091145'
-url: https://web.archive.org/web/20230402091145id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3111
+created_at: '20241211032051'
+digest: W6PYCHBNJWTI7AEPJOOIVQIMZM4VINBX
+updated_at: '20241211032051'
+url: https://web.archive.org/web/20241211032051id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3111&codcur=10012&codhab=0
