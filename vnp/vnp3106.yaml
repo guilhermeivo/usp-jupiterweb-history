@@ -81,7 +81,7 @@ courses:
   course_name: 'VNP3106 - Produção de Búfalos, Caprinos e Ovinos
 
     Buffaloes, Sheep and Goat Production'
-  deactivation: ''
+  deactivation: 31/12/2024
   instructors: 9124662 - Ricardo Vieira Ventura
   lecture_credits: '2'
   objectives: Demonstrar aos alunos os conceitos gerais relacionados à produção de
@@ -91,7 +91,7 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20211208095303'
-digest: 42FRUMHNBF4BES5RG3KMA74EQEQRLBBJ
-updated_at: '20221002162028'
-url: https://web.archive.org/web/20221002162028id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3106
+created_at: '20241211001509'
+digest: MYA7HWEM3GCZBMRDPY3BIVINGRKNLKNP
+updated_at: '20241211001509'
+url: https://web.archive.org/web/20241211001509id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3106&codcur=10012&codhab=0
