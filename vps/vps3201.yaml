@@ -1,0 +1,60 @@
+courses:
+  activation: 01/01/2021
+  assessment: 'A recuperação constará de 2 provas: 1) Prova escrita dissertativa versando
+    sobre todo o conteúdo da disciplina (Peso 1); 2) Prova oral versando o conteúdo
+    prático da disciplina. (Peso 1). A nota final será  a Média Final + Média da Recuperação
+    ÷ 2.'
+  bibliography: 'ACHA, P.N. & SZYFRES, B. Zoonosis y enfermidades transmissibles comunes
+    al hombre y a los animales. Volumem I: bacteriosis y micosis. Organizacion Panamericana
+    de La Salud. 3 ed. Washington, p. 266-283, 2001 (Publicación Científica, 580).
+
+    ACHA, P.N. & SZYFRES, B. Zoonosis y enfermidades transmissibles comunes al hombre
+    y a los animales. Volumem II. Organizacion Panamericana de La Salud. 3 ed. Washington,
+    p. 351-383, 2001 (Publicación Científica, 580).
+
+    ACHA, P.N. & SZYFRES, B. Zoonosis y enfermidades transmissibles comunes al hombre
+    y a losanimales. Volumem III. Organizacion Panamericana de La Salud. 3 ed. Washington,
+    p. 171-180, 2001 (Publicación Científica, 580).
+
+    ORGANIZACION PANAMERICANA DE LA SALUD. El control de las enfermedadestransmissibles
+    en el hombre. 15 ed. OPAS, Washington, 1992 (Publicacion Científica, 538).
+
+    SCHWABE, C.W. Veterinary medicine and human health. 3 ed. William & Wlkins, 1984.
+
+    STEELE, J.H. Handbook series in zoonosis. Section B: viral zoonosis. CRC Press,
+    Boca Raton, 1994.
+
+    STEELE, J.H. Handbook series in zoonosis. Section C: parasitic zoonosis. CRC Press,
+    Boca Raton, 1982.
+
+    STEELE, J.H.; BERAN, G.W. Handbook series in zoonosis. Section A: bacterial, rickettsial,
+    chlamydial and mycotic zoonosis. CRC Press, Boca Raton, 1994.
+
+    PAULIN, L.M.; FERREIRA NETO, J.S. O combate à brucelose bovina. Situação brasileira.
+    Funep, Jaboticabal, p.154, 2003.
+
+    Valvassoura, T.A.; Ferreira Neto, J.S. Tuberculose em primatas. São Paulo: Faculdade
+    de Medicina Veterinária e Zootecnia da USP, 2014, 193p. (disponível em http://www.leb.fmvz.usp.br/publicacoes).'
+  course: Conceitos de Zoonoses. Zoonoses na clínica de pequenos animais. Zoonoses
+    emergentes. Zoonoses transmitidas por carrapatos. Toxoplasmose. Leishmanioses.
+    Toxinfecções alimentares. Tuberculose. Brucelose. Complexos Equinococose-Hidatidose
+    e Teníase-Cisticercose. Raiva. Leptospirose.
+  course_name: 'VPS3201 - Zoonoses (Saúde Pública Veterinária)
+
+    Zoonoses (Veterinary Public Health)'
+  deactivation: ''
+  instructors: '2090109 - José Soares Ferreira Neto
+
+    1426657 - Marcos Bryan Heinemann'
+  lecture_credits: '3'
+  objectives: 'Em relação às zoonoses ministradas, o aluno deverá ser capaz de: construir
+    as cadeias epidemiológicas, discriminar os mecanismos de transmissão nas populações
+    animais e destas para a humana, propor medidas de prevenção e controle e avaliar
+    o andamento das intervenções.'
+  practical_credits: '0'
+  total_workload: 45 h
+  type: Semestral
+created_at: '20241211030734'
+digest: 245PXB6FOVLYBZKWTVER27NQHSD5ZQ25
+updated_at: '20241211030734'
+url: https://web.archive.org/web/20241211030734id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3201&codcur=10012&codhab=0
