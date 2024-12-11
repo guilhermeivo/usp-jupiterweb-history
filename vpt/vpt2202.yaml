@@ -1,10 +1,10 @@
 courses:
-  activation: 01/01/2021
-  assessment: 'A recuperação constará de duas provas a serem realizadas até uma semana
-    antes do término do período de retificação de matrícula (estabelecido anualmente
-    pelo Calendário USP). A média da avaliação final da disciplina entrará no computo
-    da recuperação, sendo: média = média da avaliação final + média da recuperação
-    ÷ 2.'
+  activation: 15/07/2024
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
   bibliography: "1.\tCarlton WW, McGavin MD Patologia veterinária especial de Thomson.\
     \ 2ed. Artmed, Porto Alegre, 1998, 672p.\n2.\tGross, TJ, Ihrke, PJ;, Walder, EJ,\
     \ Affolter, VK Skin diseases of the dog and cat. Clinical amd Histopathologic\
@@ -12,44 +12,20 @@ courses:
     \ RD, & King NW Veterinary Pathology. 6ed. Lippincott Williams & Wilkins, Philadelphia,\
     \ EUA, 1997, 1392p.\n4.\tJones, TC, Hunt RD, & King NW Patologia Veterinária.\
     \ Tradução 6ed. Editora Manole.\n5.\tJUBB, KV; KENNEDY, PC.; PALMER, N. Pathology\
-    \ of domestic animals. 5.ed. Vols. 1,2 e 3.  2007.\n6.\tMcGavin, MD, Zachary,\
-    \ JF Bases da Patologia Veterinária. Tradução da 5ed. Mosby Elsevier, 2013.\n\
-    7.\tSantos, RL, Alessi, AC Patologia Veterinária. Editora Roca, São Paulo, 2011.\
-    \ 892p."
-  course: 'O ensino das enfermidades terá enfoque na fisiopatologia e aspectos macro
-    e microscópicos dos grandes processos que acometem os diferentes sistemas, bem
-    como especificamente da etiologia e patogenia de processos de importância em medicina
-    veterinária.
-
-    Aulas Teórico-práticas:
-
-    1. Patologia do Sistema Respiratório
-
-    2. Patologia do Sistema Hematopoiético e Linfopoiético
-
-    3. Patologia do Sistema Circulatório
-
-    4. Patologia do Sistema Digestório
-
-    5. Patologia das Glândulas Anexas ao Sistema Digestório
-
-    6. Patologia das Glândulas Endócrinas
-
-    6. Patologia do Sistema Urinário
-
-    7. Patologia do Sistema Genital Feminino e do Sistema Genital Masculino
-
-    8. Patologia do Sistema Nervoso
-
-    9. Patologia do Sistema tegumentar
-
-    10. Doenças causadas por ectoparasitos
-
-    11. Patologia do sistema músculo-esquelético
-
-    12. Patologia do olho e ouvido
-
-    13. Patologia forense.'
+    \ of domestic animals. 5.ed. Vols. 1,2 e 3. 2007.\n6.\tMcGavin, MD, Zachary, JF\
+    \ Bases da Patologia Veterinária. Tradução da 5ed. Mosby Elsevier, 2013.\n7.\t\
+    Santos, RL, Alessi, AC Patologia Veterinária. Editora Roca, São Paulo, 2011. 892p."
+  course: "O processo de ensino e aprendizagem da disciplina abordará a fisiopatologia\
+    \ e as grandes classes de processos patológicos com suas respectivas alterações\
+    \ anatomopatológicas que acometem os órgãos e sistemas dos animais domésticos.\n\
+    São empregadas aulas teóricas, práticas e discussões de casos sobre os seguintes\
+    \ temas:\n1.\tPatologia do Sistema Respiratório\n2.\tPatologia do Sistema Hematopoiético\
+    \ e Linfopoiético\n3.\tPatologia do Sistema Circulatório\n4.\tPatologia do Sistema\
+    \ Digestório\n5.\tPatologia das Glândulas Anexas ao Sistema Digestório\n6.\tPatologia\
+    \ das Glândulas Endócrinas\n6.\tPatologia do Sistema Urinário\n7.\tPatologia do\
+    \ Sistema Genital Feminino e do Sistema Genital Masculino\n8.\tPatologia do Sistema\
+    \ Nervoso\n9.\tPatologia do Sistema tegumentar\n11.\tPatologia do sistema músculo-esquelético\n\
+    12.\tPatologia do olho e ouvido"
   course_name: 'VPT2202 - Patologia Animal
 
     Animal Pathology'
@@ -58,14 +34,42 @@ courses:
 
     1122119 - Frederico Azevedo da Costa Pinto'
   lecture_credits: '7'
-  objectives: A disciplina tem o objetivo de proporcionar condições para que o aluno
-    compreenda as respostas teciduais por sistemas e reconheça e descreva as alterações
-    anatomopatológicas que são observadas em maior frequência nos diferentes sistemas
-    e nas diferentes espécies de animais.
+  objectives: 'da atividade
+
+    Prover aos interessados no encaminhamento dos cadáveres um relatório acerca das
+    alterações que colaboraram para o desfecho do caso encaminhado (óbito do animal
+    em questão); promover aos estudantes uma oportunidade de treinamento real no cotidiano
+    de trabalho de patologistas veterinários que trabalham com diagnóstico, possibilitando
+    a discussão de casos completos e o estabelecimento do raciocínio em saúde que
+    possibilita a compreensão global dos processos de adoecimento e morte.
+
+    Descrição da atividade
+
+    Para tanto, os estudantes realizarão o exame necroscópico completo do cadáver
+    nos próprios do Departamento de Patologia, redigirão um relatório minucioso descritivo
+    (que será anexado ao módulo de avaliacão de competências no e-disciplinas da USP),
+    além de treinar a coleta e encaminhamento de material para exame histopatológico;
+    posteriormente, os estudantes discutirão o caso completo com veterinários residentes
+    do serviço, bem como conosco (corpo docente) e eventuais profissionais interessados
+    nos casos em questão.
+
+    Indicadores de avaliação da atividade
+
+    Os relatórios submetidos no módulo de competências serão avaliados por docentes,
+    médicos veterinários associados ao serviço e eventualmente consultores externos;
+    serão contabilizados o número de exames necroscópicos realizados, confrontando-os
+    com o número de relatórios gerados e enviados aos interessados. Antecipamos que
+    cada estudante participante da atividade extensionista realizará um exame por
+    período de quatro horas, o que deve gerar quatro descrições, discussões e relatórios
+    ao longo do semestre.'
   practical_credits: '0'
-  total_workload: 105 h
+  total_workload: '105 h
+
+    Carga Horária de Extensão:
+
+    16 h'
   type: Semestral
-created_at: '20221003060708'
-digest: G2DXBDX5XASU4AEWFLTSAB7UV6SU4PUO
-updated_at: '20230205053250'
-url: https://web.archive.org/web/20230205053250id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT2202&verdis=2
+created_at: '20241211005939'
+digest: G52PZBG63QN4ZEYMWA7NNI6FB7HMWL2D
+updated_at: '20241211005939'
+url: https://web.archive.org/web/20241211005939id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT2202&codcur=10012&codhab=0
