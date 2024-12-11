@@ -1,0 +1,102 @@
+courses:
+  activation: 01/01/2018
+  assessment: 'Serão adotados os seguintes critérios para a recuperação:
+
+    a recuperação será composta de duas provas globais cumulativas, uma teórica e
+    uma prática a serem realizadas durante o período estabelecido pelo calendário
+    USP. A nota da recuperação (R) será calculada pela média ponderada dos conceitos
+    obtidos nas provas teórica ( peso 3) e prática ( peso 1). O conceito final (F)
+    da disciplina será calculado como segue:
+
+    Conceito final (F) = {nota da Disciplina (D) + nota de Recuperação (R)}/2'
+  bibliography: 'Em Português:
+
+    -Bowman, D.D.; Lynn, R.C.; Eberhard, M.L. & Alcaraz, A. (2010) Parasitologia Veterinária
+    de Georgis. Tradução de 9a edição (2008). Elsevier.
+
+    -Freitas, M.G. (1976). Helmintologia Veterinária. Editora Nobel.
+
+    -Freitas, M.G.; Costa, H.M.A.; Cortz, J.O. & Lide, P. (1978). Entomologia e Acarologia
+    Médica e Veterinária. 4ª ed., Editora Nobel.
+
+    -Foreyt, W.J. (2005). Parasitologia Veterinária. Tradução da 5a edição. Editora
+    Roca.
+
+    -Guimarães, & Barros-Battesti, D.M. (2001). Ectoparasitos de Importância Veterinária.
+    Editora Plêiade/FAPESP.
+
+    -Rey, L. (2008). Parasitologia. 4a edição. Editora Guanabara Koogan.
+
+    -Taylor, M.A.; Coop, R.L. & Wall, R.L. (2010). Parasitologia Veterinária.Tradução
+    da 3ª edição (2007). Editora Guanabara Koogan.
+
+    - Monteiro, S.G. (2011). Parasitologia na Medicina Veterinária. Editora Roca.
+
+    Em Inglês:
+
+    -Baker, A. (1999). Mites and Ticks of Domestic Animals – Na Identification Guide
+    and Information Source. The  Stationery Office, London, UK.
+
+    -Bowman, D.D. (2013). Georgi''s Parasitology for Veterinarians. 10th edition.
+    Saunders, USA.
+
+    -Bush, A.O.; Fernández, J.C.; Esch, G.W & Seed, J.R. (2001). Parasitism: The Diversity
+    and Ecology of Animal Parasites. Cambridge University Press, Cambridge, UK.
+
+    -Foreyt, W.J. (2001). Veterinary Parasitology: Reference Manual. 5th edition.
+    Blackwell Publishing Professional, Iowa, USA.
+
+    -Gardiner, C.H.; Fayer, R. & Dubey, J.P. (2000). An Atlas of Protozoan Parasites
+    In Animal Tissues. 2nd Edition. Amer Registry of Pathology, Washington DC, USA.
+
+    -Gardiner, C.H. & Poynton, S.L. (1999). An Atlas of Metazoan Parasites in Animal
+    Tissues. Armed Forces Institute of Pathology, Washington DC, USA.
+
+    -Mehlhorn, H. (2008). Encyclopedia of Parasitology. Third edition. Springer, Germany.
+
+    -Roberts, L.S.; Janovy Jr, J. & Nadler, S. (2012). Foundations of Parasitology.
+    Ninth Edition. McGraw-Hill Science/Engineering/Math, USA.
+
+    - Taira, N.; Ando, Y. & Williams, J.C. (2003). A Color Atlas of Clinical Helminthology
+    of Domestic Animals ( Revised edition) Elsevier Science BV, Amsterdam, The Netherlands.
+
+    -Wall, R. & Shearer, D. (2001). Veterinary Ectoparasites: Biology, Pathology and
+    Control. Second edition. Blackwell Publishing Limited, Oxford, UK.'
+  course: 'A disciplina abordará os seguintes conceitos: fundamentos de helmintologia,
+    protozoologia e artropodologia de parasitas de interesse médico-veterinário; aspectos
+    básicos de morfologia, taxonomia e ciclo evolutivo; mecanismos de interação parasita-hospedeiro
+    como colonização, adesão, invasão intracelular, evasão do sistema imune;técnicas
+    de colheita, conservação e envio de material biológico destinado ao diagnóstico
+    de parasitas, métodos para a identificação morfológica e molecular de parasitas;
+    principais drogas para o controle de parasitas.
+
+    Os principais parasitas de interesse médico veterinário serão abordados, tais
+    como protozoários (Coccidia, Haemosporida, Piroplasmida, Diplomonadida, Trichomonadida,
+    Kinetoplastida); artrópodes ( Acari, Diptera, Siphonaptera, Anoplura, Amblycera,
+    Ischnocera) e helmintos ( Nematoda: Ascaridida, Strongylida, Spirurida, Rhabditida,
+    Oxyurida; Cestoda:Taeniidae, Hymenolepididae, Davaineidae, Dipylidiidae, Anoplocephalidae;
+    Trematoda: Echinostomida, Strigeidida, Plagiorchiida; Acanthocephala).'
+  course_name: 'BMP0222 - Parasitologia Veterinária
+
+    Veterinary Parasitology'
+  deactivation: ''
+  instructors: '2085430 - Alda Maria Backx Noronha Madeira
+
+    2796430 - Arthur Gruber
+
+    92309 - Carlos Eduardo Winter
+
+    6310240 - Mauro Javier Cortez Véliz'
+  lecture_credits: '6'
+  objectives: Transmitir os conhecimentos básicos gerais sobre a morfologia e biologia
+    dos protozoários, artrópodes e helmintos de maior importância para a  Parasitologia
+    Veterinária. Identificar os principais grupos e realizar o diagnóstico desses
+    parasitas. Apresentar as relações entre parasitas e seus hospedeiros, e suas interações
+    com o meio ambiente.
+  practical_credits: '1'
+  total_workload: 120 h
+  type: Semestral
+created_at: '20241211031343'
+digest: V5SHO2ADPASU6LBQCAMWG2ENMRNYT5HX
+updated_at: '20241211031343'
+url: https://web.archive.org/web/20241211031343id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=BMP0222&codcur=10012&codhab=0
