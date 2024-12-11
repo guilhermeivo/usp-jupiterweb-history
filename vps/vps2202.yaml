@@ -1,0 +1,86 @@
+courses:
+  activation: 15/07/2024
+  assessment: 'Realização de prova até uma semana antes do término do período de retificação
+    de matrícula (estabelecido anualmente pelo Calendário USP). Computo da nota final:
+    média da avaliação final + recuperação ÷ 2.'
+  bibliography: '- Breilh, J. (2006). Epidemiologia crítica: ciência emancipadora
+    e interculturalidade.
+
+    - Broadbent, A. (2013). Philosophy of Epidemiology. Springer.
+
+    - Gordis, L. (2017). Epidemiologia-5a Edição. Thieme Revinter Publicações.
+
+    - Gotelli, N. J. (1995). A primer of ecology. Sinauer Associates Incorporated.
+
+    - Hinchliffe, S., Bingham, N., Allen, J., & Carter, S. (2016). Pathological lives:
+    Disease, space and biopolitics. John Wiley & Sons.
+
+    - Hyndman, R. J., & Athanasopoulos, G. (2014). Forecasting: principles and practice.
+    OTexts.
+
+    - Keeling, M. J., & Rohani, P. (2008). Modeling infectious diseases in humans
+    and animals. Princeton University Press.
+
+    - Krieger, N. (2021). Ecosocial theory, embodied truths, and the people''s health.
+    Oxford University Press.
+
+    - Richardson, E. T. (2020). Epidemic illusions: on the coloniality of global public
+    health. MIT Press.- Wallace, R. (2020). Pandemia e agronegócio: doenças infecciosas,
+    capitalismo e ciência. Editora Elefante.
+
+    - Rothman, K., Greenland, S., & Lash, T. (2016). Epidemiologia Moderna-3ª Edição.
+    Artmed Editora.
+
+    - Stevenson, M. (2008). An introduction to veterinary epidemiology. Palmerston
+    North: Massey University.
+
+    - Thrusfield, M. (2018). Veterinary epidemiology. John Wiley & Sons.
+
+    - World Health Organization. (2010). A conceptual framework for action on the
+    social determinants of health.'
+  course: '- Introdução à epidemiologia
+
+    - (Re)produção de situações epidêmicas
+
+    - Inferência causal em saúde
+
+    - Ecologia populacional e saúde
+
+    - Dinâmica populacional de doenças infecciosas
+
+    - Distribuição de eventos de saúde no tempo e no espaço
+
+    - Medidas de frequência de eventos de saúde
+
+    - Medidas de associação
+
+    - Estudos de coorte
+
+    - Estudos de caso-controle
+
+    - Estudos transversais e estudos ecológicos
+
+    - Estudos de intervenção
+
+    - Métodos diagnósticos
+
+    - Vigilância epidemiológica
+
+    - Análise de risco'
+  course_name: 'VPS2202 - Epidemiologia Veterinária
+
+    Veterinary Epidemiology'
+  deactivation: ''
+  instructors: 7749147 - Oswaldo Santos Baquero
+  lecture_credits: '5'
+  objectives: Introduzir a epidemiologia, enfatizando o raciocínio causal, a dinamicidade
+    dos processos de saúde e de doença, a quantificação de indicadores de eventos
+    de saúde, a identificação de possíveis alvos de intervenção, assim como os protocolos
+    diagnósticos de base populacional e a vigilância epidemiológica.
+  practical_credits: '0'
+  total_workload: 75 h
+  type: Semestral
+created_at: '20241211035714'
+digest: AF6W5IKV6RXKS5RRRDHDJYN5EIQMHJ6S
+updated_at: '20241211035714'
+url: https://web.archive.org/web/20241211035714id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS2202&codcur=10012&codhab=0
