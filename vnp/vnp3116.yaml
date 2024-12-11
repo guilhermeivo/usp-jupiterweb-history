@@ -1,11 +1,9 @@
 courses:
-  activation: 01/01/2021
-  assessment: 'A recuperação constará de duas provas sendo que a média da avaliação
-    final da disciplina entrará no computo da recuperação. Desta maneira, a média
-    final, após a recuperação, constará: média da avaliação final + média da recuperação
-    ÷ 2'
+  activation: 01/01/2024
+  assessment: 'A recuperação constará de uma nova prova teórica. A média final, após
+    a recuperação, constará: média da avaliação final + média da recuperação ÷ 2.'
   bibliography: 'ASSOCIATION OF AMERICAN FEED CONTROL OFFICIALS - AAFCO. Official
-    Publications. Association of American Feed Control Officials, 2012.
+    Publications. Association of American Feed Control Officials, 2022.
 
     CASE, L. P.; CAREY, E. P.; HIRAKAWA, D. A. Canine and Feline Nutrition. A resource
     for companion animal professionals. St. Louis: Mosby. 2010. 455p.
@@ -17,7 +15,7 @@ courses:
     Willey Blackwell. 2012. 388p.
 
     FEDIAF - Nutritional Guidelines for Complete and Complementary Pet Food for Cats
-    and Dogs, 2014.
+    and Dogs, 2022.
 
     HAND, M. S.; THATCHER, D. D.; REMILLARD, R. L.; ROUDEBUSH, P.; NOVOTNY, B. J.
     Small Animal Clinical Nutrition. 5th edition. Mark Morris Institute: Topeka. 2010.
@@ -31,72 +29,32 @@ courses:
 
     National Research Council. Nutrient Requirements of Dogs and Cats. The National
     Academy Press, p.230-231, 2006.'
-  course: '1. Avaliação nutricional do paciente canino e felino:
-
-    -1.1 Avaliação do escore de condição corporal ;
-
-    - 1.2 Avaliação do escore de massa muscular;
-
-    - 1.3 Técnicas de composição corporal;
-
-    - 1.4 Anamnese nutricional;
-
-    - 1.5 Exames laboratoriais auxiliares na determinação do estado nutricional do
-    paciente;
-
-    ● 2. Necessidades nutricionais e manejo nutricional do animal doente:
-
-    2.1 Relação entre nutrição-imunidade-infecção;
-
-    2.2 Importância da manutenção do balanço energético positivo na recuperação;
-
-    2.3 Suporte nutricional intensivo enteral e parenteral;
-
-    2.4 Doenças osteoarticulares do desenvolvimento: fatores nutricionais envolvidos
-    e manejo dietético;
-
-    2.5 Manejo nutricional das cardiopatias;
-
-    2.6 Manejo nutricional nos diferentes estágios da doença renal crônica;
-
-    2.7 Manejo nutricional das endocrinopatias;
-
-    2.8 Manejo nutricional das dermatopatias;
-
-    2.9 Manejo nutricional das hepatopatias;
-
-    2.10 Manejo nutricional das doenças gastrintestinais;
-
-    2.11 Manejo nutricional do paciente com câncer;
-
-    2.12 Manejo nutricional do pós-cirúrgico;
-
-    ● 3. Uso de alimentos funcionais e nutracêuticos na nutrologia de cães e gatos.'
+  course: ''
   course_name: 'VNP3116 - Nutrologia canina e felina
 
     Canine and feline nutrology'
-  deactivation: ''
-  instructors: 7686777 - Marcio Antonio Brunetto
+  deactivation: 31/12/2024
+  instructors: 94103 - Alexandre Augusto de Oliveira Gobesso
   lecture_credits: '3'
   objectives: 'Propiciar conhecimentos específicos para que os acadêmicos possam:
 
-    4.1.1 compreender o papel da nutrição na etiologia e patogenia de afecções que
-    acometem cães e gatos;
+    Compreender o papel da nutrição na etiologia e patogenia de afecções que acometem
+    cães e gatos;
 
-    4.1.2 compreender a influência da doença e das diferentes fases fisiológicas sobre
-    as necessidades e o metabolismo dos nutrientes na espécie canina e felina;
+    Compreender a influência da doença e das diferentes fases fisiológicas sobre as
+    necessidades e o metabolismo dos nutrientes na espécie canina e felina;
 
-    4.1.3 Compreender princípios gerais de avaliação nutricional do paciente;
+    Compreender princípios gerais de avaliação nutricional do paciente;
 
-    4.1.4 instituir a correção dietética pertinentes aos distúrbios nutricionais e
-    metabólicos de cães e gatos;
+    Instituir a correção dietética pertinentes aos distúrbios nutricionais e metabólicos
+    de cães e gatos;
 
-    4.1.5 utilizar nutrientes específicos na terapia de doenças e distúrbios metabólicos
+    Utilizar nutrientes específicos na terapia de doenças e distúrbios metabólicos
     e nutricionais de cães e gatos.'
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20230331002840'
-digest: NTIFAOPMCH55CZVSQ223AU7R6IDAM3FS
-updated_at: '20230331002840'
-url: https://web.archive.org/web/20230331002840id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3116
+created_at: '20241211040202'
+digest: UH6VIVOBXYIUOR4B7T3676GHK2OAS7QV
+updated_at: '20241211040202'
+url: https://web.archive.org/web/20241211040202id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3116&codcur=10012&codhab=0
