@@ -54,7 +54,7 @@ courses:
   course_name: 'VNP3102 - Produção de Aves
 
     Poultry Production'
-  deactivation: ''
+  deactivation: 31/12/2024
   instructors: 2558483 - Cristiane Soares da Silva Araujo
   lecture_credits: '2'
   objectives: Capacitar o aluno para o assessoramento e avaliação de sistemas de produção,
@@ -63,13 +63,13 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20221207010153'
-digest: 3EBK2VREGZJXEXL7XTDG5Y6URYKULIV5
+created_at: '20241211012326'
+digest: ILGR4OEZ5ATJ7TJC66SCYWF2PRRIOZPM
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 5'
   requirements:
   - code: BMB0212
     name: Fisiologia II
     type: Requisito
-updated_at: '20230402092319'
-url: https://web.archive.org/web/20230402092319id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?nomdis=&sgldis=VNP3102
+updated_at: '20241211012326'
+url: https://web.archive.org/web/20241211012326id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3102&codcur=10012&codhab=0
