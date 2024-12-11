@@ -1,0 +1,81 @@
+courses:
+  activation: 15/07/2017
+  assessment: 'OBSERVAÇÃO: Será oferecida prova de recuperação (Res. COG 3583/89)
+    nos meses de julho para as disciplinas do 1o semestre e em fevereiro para as disciplinas
+    do 2o semestre, exigindo-se média igual ou superior a 5,0 (cinco) para aprovação.'
+  bibliography: "1.\tFisiologia Básica. Rui Curi & Joaquim Procópio. Editora Guanabara-Koogan,\
+    \ Primeira edição, 2009.\n2.\tFisiologia. Margarida de Mello Aires. Editora Guanabara-Koogan,\
+    \ Quarta edição, 2012.\n3.\tCunningham's Textbook of Veterinary Physiology. Bradley\
+    \ G. Klein, Elsevier, 2013.\n4.\tMedical Physiology. Walter F. Boron and Emile\
+    \ L. Boulpaep, Saunders, 2012."
+  course: 'FISIOLOGIA DO SISTEMA CARDIOVASCULAR
+
+    1. Propriedades elétricas e mecânicas da fibra cardíaca. Eletrocardiograma.
+
+    2. O coração como bomba. Ciclo cardíaco.
+
+    3. Regulação do débito cardíaco.
+
+    4. Hemodinâmica vascular.
+
+    5. Circulação arterial, capilar e venosa: Perfil de ondas de pressão ao longo
+    do sistema. Dinâmica e funções. Propriedades da parede capilar. Dinâmica do fluxo
+    capilar. Retorno venoso e capacitância venosa.
+
+    6. Regulação do fluxo sanguíneo.
+
+    7. Regulação da pressão arterial.
+
+    FISIOLOGIA DO SISTEMA RESPIRATÓRIO
+
+    1. Mecânica respiratória.
+
+    2. Ventilação alveolar.  Espaço morto anatômico e fisiológico.
+
+    3. Circulação pulmonar. Relação ventilação-perfusão.
+
+    4. Transporte dos gases. Leis dos gases.
+
+    5. Regulação respiratória do equilíbrio ácido-base.
+
+    6. Regulação da respiração.
+
+    FISIOLOGIA DO SISTEMA RENAL
+
+    1. Néfron: hemodinâmica e filtração glomerular.
+
+    2. Função tubular: depuração, reabsorção e secreção.
+
+    3. Mecanismos de concentração urinária.
+
+    4. Regulação da osmolalidade e do volume dos líquidos corporais.
+
+    5. Regulação do potássio.
+
+    6. Regulação renal do equilíbrio ácido-base.
+
+    FISIOLOGIA DO SISTEMA DIGESTÓRIO
+
+    1. Organização e regulação do sistema gatrointestinal.
+
+    2. Motilidade do trato gastrointestinal.
+
+    3. Secreções, digestão e absorção: Processos não-fermentativos.
+
+    4. Secreções, digestão e absorção: Processos fermentativos.'
+  course_name: 'BMB0212 - Fisiologia II
+
+    Physiology II'
+  deactivation: ''
+  instructors: 3665004 - Luciana Venturini Rossoni
+  lecture_credits: '7'
+  objectives: 'Capacitar os alunos do curso de Medicina Veterinária e Zootecnia a
+    compreender os princípios fundamentais do funcionamento dos sistemas: cardiovascular,
+    respiratório, renal e digestório.'
+  practical_credits: '0'
+  total_workload: 105 h
+  type: Semestral
+created_at: '20241211005859'
+digest: QERQR5N5T772KZBQV2PTKWOFAHPFPNBJ
+updated_at: '20241211005859'
+url: https://web.archive.org/web/20241211005859id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=BMB0212&codcur=10012&codhab=0
