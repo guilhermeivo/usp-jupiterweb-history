@@ -1,0 +1,61 @@
+courses:
+  activation: 01/01/2021
+  assessment: O aluno reprovado deverá repetir o Estágio Curricular Obrigatório.
+  bibliography: Todas aquelas que constam das ementas das disciplinas obrigatórias
+    do curso de Medicina Veterinária.
+  course: 'O estágio poderá ser realizado após cumpridas as exigências que constam
+    do Projeto Político Pedagógico do curso de Medicina Veterinária da FMVZ-USP.
+
+    O estágio deverá ter duração mínima de 480 horas distribuídas entre as atividades
+    a seguir:
+
+    a) Plano de Estágio: estabelecido em comum acordo entre o aluno, o orientador
+    e o supervisor, devendo ser entregue à Comissão de Graduação antes do início das
+    atividades do estágio, a fim de convalidar sua matrícula no Serviço de Graduação
+    da FMVZ-USP.
+
+    b) Atividade de estágio propriamente dita: compreende um mínimo de 15 créditos-trabalho
+    (450 horas) de atividades desenvolvidas no local de estágio.
+
+    c) TCC: elaborado pelo aluno após o término das atividades do estágio, devendo
+    conter a descrição das atividades desenvolvidas e ser apresentado segundo as normas
+    da ABNT. À essa atividade serão atribuídos dois créditos-aula (30 horas).
+
+    d) Defesa pública do TCC: atividade curricular em que o aluno, perante banca examinadora
+    indicada pelo orientador e homologada pela Comissão de Graduação, será avaliado
+    quanto ao seu preparo, considerando-se os conhecimentos técnicos-científicos,
+    postura profissional e senso crítico.'
+  course_name: '0105201 - Estágio Curricular Obrigatório
+
+    Mandatory Internship'
+  deactivation: ''
+  instructors: '10649722 - Cesar Augusto Pospissil Garbossa
+
+    1463350 - Mayra Elena Ortiz D''Avila Assumpção
+
+    1965670 - Silvia Renata Gaido Cortopassi'
+  lecture_credits: '2'
+  objectives: O Estágio Curricular Obrigatório do curso de Medicina Veterinária da
+    FMVZ-USP, em regime intensivo e exclusivo, regido pelas normativas da USP, é um
+    requisito para a conclusão do curso que tem por finalidade propiciar a complementação
+    do ensino e da aprendizagem, constituindo-se em instrumento de integração, em
+    termos de treinamento prático, de aperfeiçoamento técnico-cultural, científico
+    e de relacionamento humano, preparando o aluno para o exercício profissional.
+    O Estágio Curricular Obrigatório é uma atividade curricular, devendo ser realizado
+    em tempo integral, no décimo semestre, junto as instituições de ensino, empresas,
+    institutos de pesquisa e profissionais liberais, e outras entidades de direito
+    público ou privado ligados aos campos de atividades profissionais ou áreas afins
+    da Medicina Veterinária.
+  practical_credits: '15'
+  total_workload: '480 h
+
+    (
+
+    Estágio: 450 h
+
+    )'
+  type: Semestral
+created_at: '20241211002127'
+digest: DL56KF53FDWHJTINC4EI6WUAJPDOZ4DY
+updated_at: '20241211002127'
+url: https://web.archive.org/web/20241211002127id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=0105201&codcur=10012&codhab=0
