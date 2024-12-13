@@ -109,7 +109,20 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20240612225619'
-digest: B5X2SWMVBZY3SB65V6GU2JMPP5YWF6YF
-updated_at: '20240612225619'
-url: https://web.archive.org/web/20240612225619id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=DTB0332&codcur=12033&codhab=4
+created_at: '20241213143424'
+digest: 5QGRLDJ2EKRQJSP2WK6DXPX7PYYR5M43
+requirements:
+- course: 'Curso: 12033  Bacharelado em Ciências Contábeis (diurno) - Período ideal:
+    5'
+  requirements:
+  - code: DFD0152
+    name: Instituições de Direito
+    type: Requisito fraco
+- course: 'Curso: 12033  Bacharelado em Ciências Contábeis (noturno) - Período ideal:
+    5'
+  requirements:
+  - code: DFD0152
+    name: Instituições de Direito
+    type: Requisito fraco
+updated_at: '20241213143424'
+url: https://web.archive.org/web/20241213143424id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=DTB0332
