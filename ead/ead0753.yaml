@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2014
+  activation: 01/01/2023
   assessment: O aluno será submetido a uma avaliação cuja nota terá peso de 50% na
     média final.
   bibliography: 'Complementar
@@ -59,30 +59,63 @@ courses:
 
     - Dowling, J.P. Schrödinger´s Killer App: race to build the first Quantum Computer.
     CRC, 2013'
-  course: "1.\tA Sociedade da Informação\n2.\tO impacto das redes sociais\n3.\tA adoção\
-    \ de inovações na sociedade da informação\n4.\tInclusão Digital e Governança da\
-    \ Internet\n5.\tApresentação, temas e evolução de Sistemas e Tecnologia de TI\n\
-    6.\tSistemas Empresariais\n7.\tRedes Sociais, Web 2.0 e Mídias Digitais\n8.\t\
-    Modelos de negócio em comércio eletrônico\n9.\tNovas Tecnologias de Informação\
-    \ e Inovação"
-  course_name: 'EAD0753 - Sistemas de Informações Empresariais e Negócios Digitais
+  course: 'Apresentação, Temas e Evolução de Sistemas e dos Modelos de Negócios Digitais
 
-    Business Information Systems and Digital Business'
-  deactivation: 31/12/2022
+    Transformação Digital
+
+    Sistemas Empresariais (ERP/CRM/SCM/BI/CE)
+
+    Modelos de Negócios Digitais - Conceituação
+
+    Modelos de Negócio em Comércio Eletrônico
+
+    Modelos de Negócio em Redes Sociais, Web 2.0 e Mídias Digitais
+
+    Modelos de Negócio em Aplicativos Móveis
+
+    Modelos de Negócio em Plataformas Multilaterais Digitais
+
+    Tecnologias Emergentes e Disruptivas (p.ex Blockchain, Smart Robots, Inteligência
+    Artificial, Big Data, Internet of Things, Realidade Virtual e Realidade Aumentada,
+    Veículos Autonomos...)
+
+    Desenvolvimento de um Modelo de Negócios Digital (trabalho semestral)'
+  course_name: 'EAD0753 - Transformação Digital e Negócios Digitais nas Organizações
+
+    Digital Transformation and Digital Business in Organizations'
+  deactivation: ''
   instructors: 606684 - Cesar Alexandre de Souza
   lecture_credits: '2'
-  objectives: "Apresentar visão sobre Sistemas e Tecnologias de Informação (TI) e\
-    \ conceitos atuais relacionados à aplicação e uso estratégico da Web e da TI nas\
-    \ organizações e na sociedade. Avaliar o potencial de inovação contínua e de ruptura\
-    \ para os negócios trazidos por novas tecnologias de informação. Apresentar e\
-    \ discutir os sistemas empresariais da atualidade \x96 ERP / CRM / BI / e-commerce\
-    \ / social-commerce / mobile-commerce. Apresentar e discutir os impactos das novas\
-    \ tecnologias de redes sociais e Web 2.0 nas organizações e na sociedade, bem\
-    \ como seus aspectos éticos."
+  objectives: 'Compreender os conceitos envolvidos na elaboração e apresentação de
+    novos modelos de negócio digitais e desenvolver a capacidade de elaboração dos
+    mesmos.
+
+    Compreender os impactos das tecnologias digitais disruptivas e emergentes (p,ex
+    Blockchain, Smart Robots, Big Data, Inteligência Artificial, Internet of Things,
+    Realidade Virtual/Aumentada, Veículos Autônomos...) nas organizações, nos seus
+    modelos de negócio e na sociedade.
+
+    Discutir os impactos das tecnologias de redes sociais, Web 2.0 e novas mídias
+    digitais nas organizações e na sociedade, bem como seus aspectos éticos.
+
+    Discutir os impactos das tecnologias de redes sociais, Web 2.0 e novas mídias
+    digitais nas organizações e na sociedade, bem como seus aspectos éticos.
+
+    Realizar trabalho semestral em grupo envolvendo a proposta e apresentação de modelo
+    de negócio digital baseado em tecnologia digital
+
+    Realizar a apresentação do trabalho semestral no formato de “pitch”
+
+    Desenvolver relatório escrito apresentado o modelo de negócios proposto no trabalho
+    semestral.
+
+    Compreender os conceitos atuais relacionados à aplicação de Sistemas de Informação
+    e Tecnologias de Informação Digitais (TDs) e seu uso estratégico em organizações
+    e em novos modelos de negócios digitais (NMND).'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20240803090210'
-digest: PEQ3QKVXXM7L4D5RY4LAI5OVG5QSL3IH
-updated_at: '20240803090210'
-url: https://web.archive.org/web/20240803090210id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0753&verdis=1
+created_at: '20250111031202'
+digest: L5FVVYLLSJ4TED7WLOKBTMBNVOXZHTN5
+updated_at: '20250111031202'
+url: https://web.archive.org/web/20250111031202id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0753&verdis=2
