@@ -1,58 +1,119 @@
 courses:
-  activation: 01/01/2020
+  activation: 01/01/2025
   assessment: Não é prevista recuperação.
-  bibliography: 'Literatura Básica:
+  bibliography: "Literatura Básica:\nWolfert, S., Ge, L., Verdouw, C. and Bogaardt,\
+    \ M.J., 2017. Big data in smart farming–a review. Agricultural\nsystems, 153,\
+    \ pp.69-80.\nQueiroz, D.M., Valente, D.S.M., de Carvalho Pinto, F.D.A. and Borém,\
+    \ A. eds., 2022. Agricultura digital.\nOficina de Textos.\nKim, W.S., Lee, W.S.\
+    \ and Kim, Y.J., 2020. A review of the applications of the internet of things\
+    \ (IoT) for\nagricultural automation. Journal of Biosystems Engineering, 45, pp.385-400.\n\
+    Saleem, M.H., Potgieter, J. and Arif, K.M., 2021. Automation in agriculture by\
+    \ machine and deep learning\ntechniques: A review of recent developments. Precision\
+    \ Agriculture, 22, pp.2053-2091.\nMucherino, A., Papajorgji, P. J., Pardalos,\
+    \ P. M. Data Mining in Agriculture. Springer New York, 274 p.\n2012. https://doi.org/10.1007/978-0-387-88615-2\n\
+    Rose, D. C., Chilvers, J. (2018). Agriculture 4.0: Broadening Responsible Innovation\
+    \ in an Era of Smart\nFarming. Frontiers in Sustainable Food Systems, 2(December),\
+    \ 1–7.\nRajak, P., Ganguly, A., Adhikary, S. and Bhattacharya, S., 2023. Internet\
+    \ of Things and smart sensors in\nagriculture: Scopes and challenges. Journal\
+    \ of Agriculture and Food Research, 14, p.100776.\nLiteratura Complementar:\n\
+    Kerry, R., Escolà, A. Sensing Approaches for Precision Agriculture. Springer Cham,\
+    \ 415 p. 2021.\nhttps://doi.org/10.1007/978-3-030-78431-7\nJha, K., Doshi, A.,\
+    \ Patel, P. and Shah, M., 2019. A comprehensive review on automation in agriculture\
+    \ using\nartificial intelligence. Artificial Intelligence in Agriculture, 2, pp.1-12.\n\
+    Massruhá, S. M. F. S.; Leite, M. A. de A.; Luchiari Junior, A.; Romani, L. A.\
+    \ S. (Ed.). Tecnologias da\ninformação e comunicação e suas relações com a agricultura.\
+    \ Brasília, DF: Embrapa, 2014.\nEl Bilali, H.; Allahyari, M. S. Transition towards\
+    \ sustainability in agriculture and food systems: Role of\ninformation and communication\
+    \ technologies Information Processing in Agriculture, v. 5, n 4, p. 456-464,\n\
+    2018\nVougioukas, S.G., 2019. Agricultural robotics. Annual review of control,\
+    \ robotics, and autonomous systems,\n2, pp.365-392.\nLacoste, M., Cook, S., McNee,\
+    \ M., Gale, D., Ingram, J., Bellon-Maurel, V., MacMillan, T., Sylvester\x02Bradley,\
+    \ R., Kindred, D., Bramley, R. and Tremblay, N., 2022. On-Farm Experimentation\
+    \ to transform global\nagriculture. Nature Food, 3(1), pp.11-18.\nLeCun, Y., Bengio,\
+    \ Y. and Hinton, G., 2015. Deep learning. nature, 521(7553), pp.436-444.\nJordan,\
+    \ M.I. and Mitchell, T.M., 2015. Machine learning: Trends, perspectives, and prospects.\
+    \ Science,\n349(6245), pp.255-260.\nTian, H., Wang, T., Liu, Y., Qiao, X. and\
+    \ Li, Y., 2020. Computer vision technology in agricultural\nautomation—A review.\
+    \ Information Processing in Agriculture, 7(1), pp.1-19.\nShepherd, M., Turner,\
+    \ J. A., Small, B., Wheeler, D. (2018). Priorities for science to overcome hurdles\n\
+    thwarting the full promise of the ‘digital agriculture’ revolution. Journal of\
+    \ the Science of Food and\nAgriculture, 100(14), 5083–5092.\nCook, S., Jackson,\
+    \ E. L., Fisher, M. J., Memoriam, I., Diepeveen, D., Cook, S., et al. (2021).\
+    \ Embedding\ndigital agriculture into sustainable Australian food systems: pathways\
+    \ and pitfalls to value creation.\nInternational Journal of Agricultural Sustainability.\n\
+    Klompenburg, T. V.; Kassahun, A.; Catal, C. (2020). Crop yield prediction using\
+    \ machine learning: a\nsystematic literature review. Computers and Electronics\
+    \ in Agriculture, 177.\nLiakos, K. G., Busato, P., Moshou, D., Pearson, S., Bochtis,\
+    \ D. (2018). Machine learning in agriculture: A\nreview. Sensors, 18(8), 1–29.\n\
+    Richetti, J., Diakogianis, F. I., Bender, A., Colaço, A. F., Lawes, R. (2022).\
+    \ Methods guideline for deep\nlearning for tabular data in agriculture with a\
+    \ case study to forecast cereal yield. Computers and Electronics in\nAgriculture.\
+    \ Volume 205, February 2023, 107642. https://doi.org/10.1016/j.compag.2023.107642\n\
+    Colaço, A. F., Richetti, J., Bramley, R. G. V., Lawes, R. A. (2021). How will\
+    \ the next-generation of sensor\x02based decision systems look in the context\
+    \ of intelligent agriculture? A case-study. Field Crops Research,\n270, 108205."
+  course: '1. Introdução: história da agricultura digital e suas principais tecnologias,
+    definições e conceitos
 
-    Massruhá, S. M. F. S.; Leite, M. A. de A.; Luchiari Junior, A.; Romani, L. A.
-    S. (Ed.). Tecnologias da informação e comunicação e suas relações com a agricultura.
-    Brasília, DF: Embrapa, 2014.
+    principais, importância, complexidade de sistemas agrícolas, tendências futuras,
+    o sistema de
 
-    Literatura Complementar:
+    produção do ponto de vista gerencial, sistemas de informação gerencial, agricultura
+    de precisão como
 
-    El Bilali, H.; Allahyari, M. S. Transition towards sustainability in agriculture
-    and food systems: Role of information and communication technologies Information
-    Processing in Agriculture, v. 5, n 4, p. 456-464, 2018
+    sistema de gestão
 
-    Kamilaris, A.; Kartakoullis, A.; Prenafeta-Boldú, F. X. A review on the practice
-    of big data analysis in agricultura. Computers and Electronics in Agriculture,
-    v. 143, p. 23-37, 2017
+    2. Sensoriamento e monitoramento inteligentes: diferentes tipos de sensores e
+    sensoriamento, IoT,
 
-    Shrivastava, S.; Marshall-Colon A. Big Data in Agriculture and Their Analyses.
-    Encyclopedia of Food Security and Sustainability, v. 1, p. 233-237, 2019.'
-  course: '1. História da coleta e uso de dados na agricultura
+    coleta de dados, diferentes tipos de dados, bancos de dados abertos relevantes
 
-    2. Aspectos fundamentais de ciência dos dados
+    3. Análise e planejamento inteligentes: conceitos de ciência de dados e inteligência
+    artificial, ciclo de
 
-    3. Aspectos fundamentais da coleta e processamento de sinais
+    vida dos dados e suas principais etapas, sistemas de suporte à decisão e experimentação
+    ‘on farm’
 
-    4. Conectividade e Internet das Coisas
+    4. Controle inteligente: robótica, tipos de robôs e suas principais características,
+    inteligência artificial
 
-    5. Fontes e consolidação de dados I (“Big Data”)
+    aplicada à robótica, automação, autonomia
 
-    6. Análise de dados (“Inteligência Artificial”)
+    5. Infraestrutura: processamento local, processamento em nuvem, armazenamento
+    de dados
 
-    7. Precisão em sistemas de produção agropecuários
+    6. Estudos de caso aplicados a diferentes culturas (anuais e perenes), tipos de
+    dados (tabulares e
 
-    8. Gestão de componentes de sistemas de produção
+    imagens), e componentes da agricultura digital (sensoriamento e monitoramento,
+    análise e
 
-    9. Automação e Robótica
-
-    10. Aplicações no âmbito da Engenharia de Biossistemas'
+    planejamento, controle inteligentes)'
   course_name: 'LEB2150 - Agricultura Digital: Princípios e aplicações
 
     Digital Agriculture: Principles and applications'
   deactivation: ''
-  instructors: 75290 - Marcos Milan
+  instructors: '5152378 - Andre Freitas Colaco
+
+    5411112 - Roberto Fray da Silva'
   lecture_credits: '2'
-  objectives: Capacitar os alunos para compreender e analisar criticamente as tecnologias
-    mais recentes embasadas na coleta e emprego maciço de dados para o planejamento
-    e gestão dos sistemas de produção agrícolas.  Promover o senso crítico e preparar
-    os alunos para que possam contribuir com os profissionais de outras áreas do conhecimento
-    no desenvolvimento de soluções adequadas aos sistemas agrícolas.
+  objectives: 'Capacitar os alunos para compreender e analisar criticamente as principais
+    tecnologias, métodos e técnicas
+
+    relacionados à agricultura digital, divididos em quatro áreas: sensoriamento e
+    monitoramento; análise e
+
+    planejamento; controle; e infraestrutura. Promover o senso crítico e preparar
+    os alunos para que possam
+
+    contribuir com os profissionais de outras áreas do conhecimento no desenvolvimento
+    de soluções adequadas
+
+    aos sistemas agrícolas.'
   practical_credits: '1'
   total_workload: 60 h
   type: Semestral
-created_at: '20231209045558'
-digest: LVCT6ZDB6ELEOSQTHKMBK6NNFC5J2CSV
-updated_at: '20231209051156'
-url: https://web.archive.org/web/20231209051156id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB2150&codcur=11010&codhab=0
+created_at: '20250112111624'
+digest: ONEIET3YC47VPUPCXHX4XUMYYZPGYODD
+updated_at: '20250112111624'
+url: https://web.archive.org/web/20250112111624id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=LEB2150&verdis=2
