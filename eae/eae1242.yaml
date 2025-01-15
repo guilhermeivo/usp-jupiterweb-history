@@ -76,7 +76,17 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20241203015650'
-digest: TEIE5YFOFYV3I67TH5TLDGEPFBJYQAII
-updated_at: '20241203015650'
-url: https://web.archive.org/web/20241203015650id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAE1242&codcur=12042&codhab=4
+created_at: '20250115193640'
+digest: JOG6N7Q3O2PW3VNKYP6JIVOSA5ASO256
+requirements:
+- course: 'Curso: 12042  Bacharelado em Ciências Atuariais (noturno) - Período ideal:
+    5'
+  requirements:
+  - code: EAE0111
+    name: Fundamentos de Macroeconomia
+    type: Requisito fraco
+  - code: MAT2454
+    name: Cálculo Diferencial e Integral II
+    type: Requisito fraco
+updated_at: '20250115193640'
+url: https://web.archive.org/web/20250115193640id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAE1242
