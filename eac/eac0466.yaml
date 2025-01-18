@@ -60,7 +60,14 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20241203030449'
-digest: 5OD5ZPRFHWBEW5LKEY5SQP74N3YBMNS3
-updated_at: '20241203030449'
-url: https://web.archive.org/web/20241203030449id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0466&codcur=12042&codhab=4
+created_at: '20250118065954'
+digest: WJL6FR77HTOYM7YVOBNB3NBTB65M2YM3
+requirements:
+- course: 'Curso: 12042  Bacharelado em Ciências Atuariais (noturno) - Período ideal:
+    6'
+  requirements:
+  - code: MAE0499
+    name: Processos Estocásticos
+    type: Requisito fraco
+updated_at: '20250118065954'
+url: https://web.archive.org/web/20250118065954id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAC0466
