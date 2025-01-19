@@ -58,7 +58,14 @@ courses:
   practical_credits: '1'
   total_workload: 60 h
   type: Semestral
-created_at: '20241203025551'
-digest: OTY2RZWFP6PSENO77U24YYVUQCZ6Y7T3
-updated_at: '20241203025551'
-url: https://web.archive.org/web/20241203025551id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0593&codcur=12042&codhab=4
+created_at: '20250119204534'
+digest: KQRUJID56FBTDWQAW5CRTM7QB2JXLNTP
+requirements:
+- course: 'Curso: 12042  Bacharelado em Ciências Atuariais (noturno) - Período ideal:
+    6'
+  requirements:
+  - code: EAC0355
+    name: Modelos de Regressão
+    type: Requisito fraco
+updated_at: '20250119204534'
+url: https://web.archive.org/web/20250119204534id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAC0593
