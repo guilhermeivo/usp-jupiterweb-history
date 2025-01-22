@@ -31,7 +31,14 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20240712013658'
-digest: KYLA2GCRTAANAKJWF6MXFTHSH44ZGP6H
-updated_at: '20241203032408'
-url: https://web.archive.org/web/20241203032408id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0554&codcur=12042&codhab=4
+created_at: '20250122084543'
+digest: 2ZU5HOF6WRIUUNLNV6V3N7XPGN7JP4PN
+requirements:
+- course: 'Curso: 12042  Bacharelado em Ciências Atuariais (noturno) - Período ideal:
+    7'
+  requirements:
+  - code: EAC0465
+    name: Matemática Atuarial Não-Vida I
+    type: Requisito fraco
+updated_at: '20250122084543'
+url: https://web.archive.org/web/20250122084543id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAC0554
