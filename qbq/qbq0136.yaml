@@ -36,7 +36,13 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20241211192027'
-digest: 72TEYIYREDXOYOOZZMHGSWM7LXOYGJKB
-updated_at: '20241211192027'
-url: https://web.archive.org/web/20241211192027id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QBQ0136&codcur=10012&codhab=0
+created_at: '20250122190625'
+digest: OTGI5DSZYPSO4GETFYTEHZXE5SZNUDSK
+requirements:
+- course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 2'
+  requirements:
+  - code: QBQ0116
+    name: 'Bioquímica: Estrutura de Biomoléculas e Metabolismo'
+    type: Requisito
+updated_at: '20250122190625'
+url: https://web.archive.org/web/20250122190625id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=QBQ0136
