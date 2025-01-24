@@ -88,6 +88,17 @@ courses:
 
     Controllership'
   deactivation: ''
+  instructors: '3767752 - Andson Braga de Aguiar
+
+    214113 - Carlos Alberto Pereira
+
+    8091887 - Daniel Magalhães Mucci
+
+    1106326 - Fabio Frezatti
+
+    3770882 - Marcio Luiz Borinelli
+
+    64919 - Reinaldo Guerreiro'
   lecture_credits: '4'
   objectives: 'da atividade
 
@@ -161,8 +172,8 @@ courses:
 
     30 h'
   type: Semestral
-created_at: '20241213151438'
-digest: ZF473K4E2GP4YQWHJZBTEDLEVPFC4JND
+created_at: '20250124030828'
+digest: 2ZYAY5ELITFNYE4JNF5QIT7I7WXXBPZN
 requirements:
 - course: 'Curso: 12033  Bacharelado em Ciências Contábeis (diurno) - Período ideal:
     5'
@@ -176,5 +187,5 @@ requirements:
   - code: EAC0578
     name: Planejamento Estratégico e Orçamento Empresarial
     type: Requisito fraco
-updated_at: '20241213151438'
-url: https://web.archive.org/web/20241213151438id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAC0599
+updated_at: '20250124030828'
+url: https://web.archive.org/web/20250124030828id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0599
