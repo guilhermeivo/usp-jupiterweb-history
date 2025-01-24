@@ -54,7 +54,14 @@ courses:
   practical_credits: '1'
   total_workload: 60 h
   type: Semestral
-created_at: '20241203031643'
-digest: TTMFHCA7DP43L5WVBZ45MPPDF4N3V7EG
-updated_at: '20241203031643'
-url: https://web.archive.org/web/20241203031643id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0592&codcur=12042&codhab=4
+created_at: '20250124040245'
+digest: GXUAUFEKR77UWGUQHCRFBOZ54ROS6YQ3
+requirements:
+- course: 'Curso: 12042  Bacharelado em Ciências Atuariais (noturno) - Período ideal:
+    5'
+  requirements:
+  - code: EAC0324
+    name: Teoria Geral das Operações de Seguros
+    type: Requisito fraco
+updated_at: '20250124040245'
+url: https://web.archive.org/web/20250124040245id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAC0592
