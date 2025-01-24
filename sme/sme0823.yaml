@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2013
+  activation: 01/01/2020
   assessment: "de aprovação: a nota final (MF) do aluno que realizou provas de recuperação\
     \ dependerá da média do semestre (MS) e da média das provas de recuperação (MR),\
     \ como segue:\n\x95 MF = 5 se 5 <= MR <= (10 - MS)\n\x95 MF = (MS + MR) / 2 se\
@@ -13,25 +13,28 @@ courses:
 
     - Demetrio, C. G. B. (2002). Modelos Lineares Generalizados em Experimentação
     Agronômica. ESALQ/USP.'
-  course: 'Modelos Lineares Generalizados: Definição. Função desvio. Métodos de Estimação.Teste
-    de hipóteses. Técnicas de diagnóstico. Aplicações. Regressão Logística: Métodos
-    clássicos. Regressão Logística linear. Modelos de dose-resposta. Técnicas de diagnóstico.
-    Seleção de modelos. Regressão logística condicional. Aplicações. Regressão de
-    Poisson: Métodos clássicos. Modelos log-lineares. Classificação de modelos. Relação
-    com modelos multinomiais. Aplicações. Modelos de Quase-Verrossimilhança: Definição.
-    Estimação e Testes. Aplicações
+  course: 'Aprendizado Supervisionado versus Aprendizado Não-Supervisionado. Modelos
+    Lineares Generalizados: Definição. Função desvio. Métodos de Estimação. Teste
+    de hipóteses. Técnicas de diagnóstico. Aplicações: Modelos Lineares Generalizados
+    versus Classificação. Regressão Logística: Métodos clássicos. Regressão Logística
+    linear. Modelos de dose-resposta. Técnicas de diagnóstico. Seleção de modelos.
+    Aplicações. Regressão de Poisson: Métodos clássicos. Modelos log-lineares. Classificação
+    de modelos. Regressão Logística Múltipla. Aplicações. Modelos de Quase-Verrossimilhança:
+    Definição. Estimação e Testes. Aplicações. Avaliação da capacidade preditiva dos
+    modelos. Compromisso entre viés e variância.
 
-    Generalized linear models: Definition. Deviance function. Methods of estimation.
-    Hypothesis testing. Diagnostic techniques. Applications. Logistic Regression:
+    Supervised versus Unsupervised Learning. Generalized linear models: Definition.
+    Deviance function. Methods of estimation. Hypothesis testing. Diagnostic techniques.
+    Applications: Generalized linear models versus Classification. Logistic Regression:
     Classical methods. Linear Logistic regression. Dose-response models. Diagnostic
-    techniques. Model selection. Conditional Logistic Regression. Applications. Poisson
-    regression: Classical methods. Log-linear Models. Model classification. Relation
-    with multinomial models. Applications. Quasi-likelihood methods: Definition. Estimation
-    and tests. Applications.'
-  course_name: 'SME0823 - Modelos Lineares Generalizados
+    techniques. Selection model. Applications. Poisson regression: Classical methods.
+    Log-linear Models. Classification of Models. Multiple Logistic Regression. Applications.
+    Quasi-likelihood methods: Definition. Estimation and tests. Applications. Evaluation
+    of the predictive capacity of the models. Bias-variance trade-off.'
+  course_name: 'SME0823 - Modelos de Regressão e Aprendizado  Supervisionado II
 
-    Generalized Linear Models'
-  deactivation: 31/12/2018
+    Regression Models and Supervised Learning II'
+  deactivation: ''
   instructors: 3455521 - Cibele Maria Russo Novelli
   lecture_credits: '4'
   objectives: 'Apresentar conceitos introdutórios de modelos lineares generalizados
@@ -39,11 +42,11 @@ courses:
 
     Present introductory concepts of generalized linear models in a computational
     approach.'
-  practical_credits: '0'
-  total_workload: 60 h
+  practical_credits: '1'
+  total_workload: 90 h
   type: Semestral
-created_at: '20240815145751'
-digest: 35MIL4EHI7IBPB7HMVFA2WMMJVCQNUKQ
+created_at: '20250124172344'
+digest: R4NI53NCBXFZHYCDUZBTEV54QZGWH776
 requirements:
 - course: "Curso: 55030  Matemática - Habilitação: Bacharelado em Matemática \r\n\
     \                          (integral) - Período ideal: 6"
@@ -91,5 +94,5 @@ requirements:
   - code: SME0620
     name: Estatística I
     type: Requisito fraco
-updated_at: '20240815145751'
-url: https://web.archive.org/web/20240815145751id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=SME0823
+updated_at: '20250124172344'
+url: https://web.archive.org/web/20250124172344id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SME0823&codcur=55030&codhab=200
