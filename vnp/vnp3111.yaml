@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2019
+  activation: 01/01/2025
   assessment: 'A recuperação constará de duas provas sendo que a média da avaliação
     final da disciplina entrará no computo da recuperação. Desta maneira, a média
     final, após a recuperação, constará: média da avaliação final + média da recuperação
@@ -77,16 +77,47 @@ courses:
   course_name: 'VNP3111 - Sociologia e Extensão
 
     Sociology and Extension'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: 2150307 - Augusto Hauber Gameiro
   lecture_credits: '2'
-  objectives: Fornecer aos alunos fundamentos da Sociologia aplicados à profissão
-    do Médico Veterinário e discutir a prática da extensão e os processos de difusão
-    de inovações tecnológicas, com ênfase na produção animal.
+  objectives: 'da atividade
+
+    A atividade extensionista vinculada a esta disciplina tem como objetivo principal
+    proporcionar ao estudante a vivência e a experiência de, junto à sociedade e seus
+    diferentes segmentos – portanto, fora do ambiente universitário –, identificar
+    problemas relacionados à prática da Medicina Veterinária e, a partir dessa identificação,
+    discutir, refletir, gerar conhecimento a respeito e retornar à sociedade o conteúdo
+    elaborado com possíveis soluções, respostas ou encaminhamentos pertinentes ao
+    problema identificado.
+
+    Descrição da atividade
+
+    Organizados em grupos de quatro estudantes, eles devem – com o auxílio do professor
+    desta e de outras disciplinas – identificar problemas relacionados à prática da
+    Medicina Veterinária. Essa busca deve ser feita externamente à Universidade, ainda
+    que possa ser embasada em conteúdo publicado nos mais diferentes meios. Uma vez
+    identificado o problema, o público-alvo do conteúdo a ser gerado deverá ser definido
+    pelos alunos. A partir da interação com as pessoas envolvidas a campo e mediante
+    pesquisa técnica e científica a respeito do problema, os estudantes devem gerar
+    um roteiro com a fundamentação teórica e com a proposta de elaboração de conteúdo.
+    Sugere-se que o conteúdo seja colocado em formato eletrônico, como vídeos ou áudios.
+    Conteúdo de divulgação como cartazes, folders e cartilhas também são recomendados.  O
+    conteúdo produzido é então levado à sociedade pelo próprio grupo, e disponibilizado
+    amplamente pelos canais de comunicação da Universidade.
+
+    Indicadores de avaliação da atividade
+
+    Serão avaliados os seguintes elementos dos trabalhos de extensão: i) proposta;
+    ii) fundamentação teórica; iii) qualidade do conteúdo gerado; iv) formato e estética
+    do conteúdo; v) atendimento geral à proposta original.'
   practical_credits: '0'
-  total_workload: 30 h
+  total_workload: '30 h
+
+    Carga Horária de Extensão:
+
+    5 h'
   type: Semestral
-created_at: '20241211032051'
-digest: W6PYCHBNJWTI7AEPJOOIVQIMZM4VINBX
-updated_at: '20241211032051'
-url: https://web.archive.org/web/20241211032051id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3111&codcur=10012&codhab=0
+created_at: '20250213225625'
+digest: W44Y32NHXJSZ3UQ5KM3MPYXCCUTZEKZB
+updated_at: '20250213225625'
+url: https://web.archive.org/web/20250213225625id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3111
