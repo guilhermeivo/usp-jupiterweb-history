@@ -82,7 +82,32 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20240308155241'
-digest: DXN7WX7QXWYW7H4NFAMOOZRREF5X7IBW
-updated_at: '20250125193259'
-url: https://web.archive.org/web/20250125193259id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=DIN0426&nomdis=
+created_at: '20250215233948'
+digest: KUIRSCGRCXFPWLIHAQIN3WFLHKTNPQN5
+requirements:
+- course: 'Curso: 87001  Bacharelado em Relações Internacionais (vespertino) - Período
+    ideal: 4'
+  requirements:
+  - code: BRI0025
+    name: 'Teoria do Estado II: Constitucionalismo Comparado'
+    type: Requisito
+- course: 'Curso: 87001  Bacharelado em Relações Internacionais (noturno) - Período
+    ideal: 4'
+  requirements:
+  - code: BRI0025
+    name: 'Teoria do Estado II: Constitucionalismo Comparado'
+    type: Requisito
+- course: 'Curso: 87002  Bacharelado em Relações Internacionais (vespertino) - Período
+    ideal: 4'
+  requirements:
+  - code: BRI0025
+    name: 'Teoria do Estado II: Constitucionalismo Comparado'
+    type: Requisito
+- course: 'Curso: 87002  Bacharelado em Relações Internacionais (noturno) - Período
+    ideal: 4'
+  requirements:
+  - code: BRI0025
+    name: 'Teoria do Estado II: Constitucionalismo Comparado'
+    type: Requisito
+updated_at: '20250215233948'
+url: https://web.archive.org/web/20250215233948id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=DIN0426
