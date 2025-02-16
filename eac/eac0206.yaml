@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2025
   assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
     na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
     que 5,0 (cinco) e frequência igual ou superior a 70%.
@@ -9,7 +9,7 @@ courses:
     a 5,0 (cinco).'
   bibliography: 'BIBLIOGRAFIA PRINCIPAL:
 
-    MARTINS, Eliseu. Contabilidade de custos. 10. ed. São Paulo: Atlas, 2010.
+    MARTINS, Eliseu. Contabilidade de custos. 11. ed. São Paulo: Atlas, 2018.
 
     GUERREIRO, Reinaldo. Estruturação de sistemas de custos para a gestão da rentabilidade.
     1. ed. São Paulo: Atlas, 2010.
@@ -25,7 +25,10 @@ courses:
     HORNGREN, Charles T.; DATAR, Srikant M.; FOSTER, George. Contabilidade de custos.
     Volumes 1 e 2. 11. ed. São Paulo: Prentice Hall, 2004.
 
-    MAHER, Michael. Contabilidade de custos. 1. ed. São Paulo: Atlas, 2001.'
+    MAHER, Michael. Contabilidade de custos. 1. ed. São Paulo: Atlas, 2001.
+
+    MARTINS, Eliseu; ROCHA, Welington. Métodos de custeio comparados: custos e margens
+    analisados sob diferentes perspectivas. 2. ed. São Paulo: Atlas, 2015.'
   course: '1. CONTEXTUALIZAÇÃO, TERMINOLOGIA CONTÁBIL E CLASSIFICAÇÕES DE CUSTOS
 
     1.1 A contabilidade de custos e seu relacionamento com a contabilidade societária,
@@ -71,6 +74,8 @@ courses:
     8091887 - Daniel Magalhães Mucci
 
     3770882 - Marcio Luiz Borinelli
+
+    3549898 - Patrícia Siqueira Varela
 
     64919 - Reinaldo Guerreiro'
   lecture_credits: '4'
@@ -138,7 +143,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220128230005'
-digest: DARXAWYT3CGIC3O2KX6WAB74KCQSMQ3O
-updated_at: '20240615140856'
-url: https://web.archive.org/web/20240615140856id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0206&codcur=12033&codhab=4
+created_at: '20250216022613'
+digest: FGLHFBRTDLM4KYOXU77MBKZXOXWY46DT
+updated_at: '20250216022613'
+url: https://web.archive.org/web/20250216022613id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0206&codcur=12033&codhab=4
