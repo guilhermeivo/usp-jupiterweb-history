@@ -1,54 +1,44 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2025
   assessment: Média aritmética simples entre a nota da Primeira Avaliação e a nota
     da Recuperação igual ou superior a 5 (cinco).
   bibliography: 'Nicholson, Walter, and Christopher M. Snyder. Microeconomic theory:
-    Basic principles  and extensions. Nelson Education, 2012.
+    Basic principles and
 
-    Varian, H. R. (2006). Microeconomia. Tradução da sétima edição americana, Editora  Pearson/Prentice
-    Hall.'
-  course: '1. Restrição Orçamentária
+    extensions. Nelson Education, 2012.
 
-    2. Preferências
+    Varian, H. R. (2006). Microeconomia. Tradução da sétima edição americana, Editora
 
-    3. Utilidade
-
-    4. Escolha
-
-    5. Preferência Revelada
-
-    6. Demanda
-
-    7. Equação de Slutsky
-
-    8. Tecnologia
-
-    9. Custos
-
-    10. Oferta'
+    Pearson/Prentice Hall.'
+  course: "1.\tRevisão Matemática\n1.1.\tRevisão de Otimização com e sem restrições\n\
+    1.2.\tTeorema de Karush-Kuhn-Tucker\n1.3.\tTeorema do Envelope\n2.\tTeoria da\
+    \ Demanda\n2.1.\tRestrição Orçamentária\n2.2.\tPreferências e Utilidade\n2.3.\t\
+    Maximização de Utilidade e Demanda Marshalliana\n2.4.\tMinimização de Despesa\
+    \ e Demanda Hicksiana\n2.5.\tEquação de Slutsky\n2.6.\tTeoria da Preferência Revelada\n\
+    2.7.\tAplicações sugeridas: escolha intertemporal e oferta de trabalho\n2.8.\t\
+    Escolha sob Incerteza\n3.\tTeoria da Produção\n3.1.\tTecnologia\n3.2.\tCustos\n\
+    3.3.\tOferta\n4.\tEquilíbrio Parcial Competitivo"
   course_name: 'EAE1201 - Microeconomia I
 
     Microeconomia I'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: '9145172 - Ariaster Baumgratz Chimeli
 
     8704232 - Rafael de Vasconcelos Xavier Ferreira'
   lecture_credits: '4'
-  objectives: 'Esta é a primeira parte da sequência de Microeconomia. O foco fundamental
-    do curso é  a modelagem do comportamento dos agentes econômicos. A disciplina
-    discorre sobre a  abordagem pela teoria microeconômica das duas principais classes
-    de agentes  econômicos: consumidores e firmas. A abordagem inclui aspectos positivos
-    (estudo do  comportamento) e normativos (análise de bem-estar). No final, é feita
-    uma pequena
-
-    24
-
-    introdução sobre o mecanismo de equilíbrio, que permite analisar a ação combinada
-    de  agentes dessas duas classes.'
-  practical_credits: '2'
-  total_workload: 120 h
+  objectives: Esta é a primeira parte da sequência de Microeconomia da graduação em
+    economia da FEA/USP. O curso começa com uma revisão dos conceitos de otimização.
+    Em seguida, apresenta a teoria da escolha individual em detalhes, com foco no
+    comportamento do consumidor, e aplicações. É apresentada também teoria da escolha
+    sob incerteza e teoria de preferências reveladas. Em seguida, o curso cobre a
+    teoria da produção, examinando tecnologia, custos e oferta de mercado. Por fim,
+    combina-se a teoria da demanda e a teoria da oferta para uma análise de equilíbrio
+    parcial competitivo, no curto e no longo prazo. A apresentação dos conteúdos teóricos
+    é combinada com a discussão de aplicações práticas dos modelos estudados.
+  practical_credits: '1'
+  total_workload: 90 h
   type: Semestral
-created_at: '20241203030645'
-digest: 3ZSOPZ6N4RRXRGQAXEZ44PRS2PRSHY3I
-updated_at: '20241203030645'
-url: https://web.archive.org/web/20241203030645id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAE1201&codcur=12042&codhab=4
+created_at: '20250307075853'
+digest: Y2XWBPDUNCOS5ZQILSPDZZNNT5B3GFJR
+updated_at: '20250307075853'
+url: https://web.archive.org/web/20250307075853id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAE1201&codcur=45070&codhab=404
