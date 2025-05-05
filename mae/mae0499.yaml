@@ -1,8 +1,10 @@
 courses:
   activation: 01/01/2012
   assessment: Usuais.
-  bibliography: 'S. M. Ross, Introduction to Probability Models, 10th ed., Amsterdam:
-    Academic Press, 2010.
+  bibliography: 'Básica
+
+    S. M. Ross, Introduction to Probability Models, 10th ed., Amsterdam: Academic
+    Press, 2010.
 
     P. A. Ferrari, A. Galves, Acoplamento em Processos Estocásticos e Aplicações,
     XXI Colóquio Brasileiro de Matemática, IMPA, 1997.
@@ -14,7 +16,7 @@ courses:
     \ estocásticos, trajetórias e séries temporais (motivação).\n4.\tCadeias de Markov:\
     \ passeios aleatórios simples, Galton-Watson, nascimento e morte.\n5.\tProcesso\
     \ de Poisson e tempos exponenciais.\n6.\tProcessos de Markov.\n7.\tNoções de processos\
-    \ estacionários."
+    \ estacionários.\nInstrumentos e Critérios de Avaliação"
   course_name: 'MAE0499 - Processos Estocásticos
 
     Stochastic Processes'
@@ -24,7 +26,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20190821012226'
-digest: M26ZGCNQPAB3U4ORQCDJQZI5NJHHRQSJ
-updated_at: '20241203015949'
-url: https://web.archive.org/web/20241203015949id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAE0499&codcur=12042&codhab=4
+created_at: '20250505065811'
+digest: LLOABTGXZNAZ63XA7WWTNEX65B3DGWSD
+updated_at: '20250505065811'
+url: https://web.archive.org/web/20250505065811id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAE0499&codcur=45070&codhab=604
