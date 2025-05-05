@@ -2,8 +2,10 @@ courses:
   activation: 01/01/2002
   assessment: O aluno será avaliado continuamente e, em caso de performance não compatível,
     será submetido a uma reavaliação final, a título de recuperação
-  bibliography: '· ARRUDA, Maria Cecília Coutinho de, e outros, FUNDAMENTOS DE ÉTICA
-    EMPRESARIAL E ECONÔMICA, São Paulo: Editora Atlas, 2001.
+  bibliography: 'Básica
+
+    · ARRUDA, Maria Cecília Coutinho de, e outros, FUNDAMENTOS DE ÉTICA EMPRESARIAL
+    E ECONÔMICA, São Paulo: Editora Atlas, 2001.
 
     · FERREIRA, Ademir Antonio, e outros, GESTÃO EMPRESARIAL, São Paulo: Pioneira,
     1997.
@@ -61,7 +63,9 @@ courses:
 
     - Administração participativa
 
-    - Novos modelos de Administração'
+    - Novos modelos de Administração
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'EAD0610 - Fundamentos de Administração
 
     Fundamentals of Business Administration'
@@ -77,7 +81,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20210625041249'
-digest: I7E6R3XXTFS2SNJ344LPUFBVPUB6WX4X
-updated_at: '20250306102029'
-url: https://web.archive.org/web/20250306102029id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?codhab=404&sgldis=EAD0610&codcur=45070
+created_at: '20250505065635'
+digest: WWDBNRKQKX6M6EJ6ROWOXUT2E4IEJCIS
+updated_at: '20250505065635'
+url: https://web.archive.org/web/20250505065635id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAD0610&codcur=45070&codhab=404
