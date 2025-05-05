@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2018
+  activation: 01/01/2025
   assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
     na disciplina caso obtenha
 
@@ -11,54 +11,74 @@ courses:
 
     média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
     (cinco).'
-  bibliography: 'BIBLIOGRAFIA BÁSICA:
+  bibliography: 'Básica
+
+    BIBLIOGRAFIA BÁSICA:
+
+    DICKSON, D.C.M; HARDY, M. R; WATERS, H.R. (2013). Actuarial Mathematics for Life
+    Contingent Risks. Second Edition.
 
     JORDAN, C. W. (1991). Society of Actuaries’ Textbook on Life Contingencies. The
     Society of
 
     Actuaries, 2. ed. 349 p.
 
-    BOWERS, N. L.; GERBER, H. U; HICKMAN, J. C.; JONES, D. A.; NESBITT, C. J. (1997).
-
-    ACTUARIAL MATHEMATICS. The Society of Actuaries, 2. ed. 753 p.
-
     BIBLIOGRAFIA COMPLEMENTAR:
 
-    DICKSON, D.C.M; HARDY, M. R; WATERS, H.R. Actuarial Mathematics for Life Contingent
+    BOWERS, N. L.; GERBER, H. U; HICKMAN, J. C.; JONES, D. A.; NESBITT, C. J. (1997).
 
-    Risks. Second Edition. 2013'
-  course: '1. Revisão de Análise de Sobrevivência.
+    ACTUARIAL MATHEMATICS. The Society of Actuaries, 2. ed. 753 p.'
+  course: '1. Revisão de anuidades financeiras antecipadas, postecipadas e contínuas;
 
-    2. Seguros pagáveis por morte.
+    2. Modelos de sobrevivência: a variável aleatória tempo de vida de um recém-nascido
+    e tempo de vida para um indivíduo que já completou x anos de idade. Funções densidade
+    de probabilidade, acumulada, de sobrevida e força de mortalidade.
 
-    3. Seguros pagáveis por sobrevivência.
+    3. Função tábua de sobreviventes, probabilidades de morte/sobrevivência, expectativa
+    de vida e seu desvio-padrão;
 
-    4. Prêmios Puros Nivelados.
+    4. Idades Fracionadas: hipótese da distribuição uniforme de mortes e da força
+    de mortalidade constante;
 
-    5. Reservas.
+    5. O modelo de Gompertz-Makeham;
 
-    6. Seguros Quitados e Estendidos.'
+    6. Modelos de precificação de seguros de vida inteira, diferidos e temporários,
+    em tempo discreto e contínuo: estimação de prêmio estatístico e prêmio puro;
+
+    7. Modelos de precificação de dotais puros e mistos: estimação de prêmio estatístico
+    e prêmio puro;
+
+    8. Modelos de precificação de anuidades atuariais antecipadas, postecipadas e
+    contínuas: estimação de prêmio estatístico e prêmio puro;
+
+    9. Estimação de prêmio puro nivelado para produtos securitários de vida: uma introdução.
+    Definição da variável aleatória que captura a perda futura e sua relação com o
+    princípio de equivalência;
+
+    10. Estimação da provisão matemática de benefícios a conceder e de benefícios
+    concedidos por meio da variável aleatória que captura a perda futura;
+
+    11. Comutações para seguros de vida, dotais e anuidades atuariais.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'EAC0422 - Matemática Atuarial Vida I
 
     Actuarial Mathematics I - Life'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: '4894284 - João Vinícius de França Carvalho
 
-    1064696 - Luiz Jurandir Simões de Araujo
+    2112537 - Ricardo Pacheco
 
-    2112537 - Ricardo Pacheco'
+    5664682 - Roberto Bomgiovani Cazzari'
   lecture_credits: '4'
-  objectives: 'Apresentar os conceitos e teorias que regem o cálculo de seguros de
-    vida e previdência. Ao final do
-
-    curso os alunos estarão habilitados a tarifar prêmios puros, avaliar provisões
-    técnicas e desenhar
-
-    produtos securitários pagáveis por morte e por sobrevivência.'
+  objectives: Apresentar os conceitos e teorias básicas que regem a precificação de
+    seguros de vida, dotais e anuidades atuariais. Complementarmente, espera-se que
+    o aluno desenvolva o arcabouço matemático para estimar as provisões matemáticas
+    associadas a estes produtos.
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20241203025052'
-digest: FA5UCJGS7IIE4ZQNJNEM4AVBELIMKHQX
-updated_at: '20241203025052'
-url: https://web.archive.org/web/20241203025052id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0422&codcur=12042&codhab=4
+created_at: '20250505143840'
+digest: D4IKEMHCBET3ZLT6URBXI3E4YEFEBHQZ
+updated_at: '20250505143840'
+url: https://web.archive.org/web/20250505143840id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0422&codcur=45070&codhab=1004
