@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2018
+  activation: 01/01/2025
   assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
     na disciplina caso obtenha
 
@@ -13,63 +13,66 @@ courses:
 
     média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
     (cinco).'
-  bibliography: 'BIBLIOGRAFIA BÁSICA:
+  bibliography: 'Básica
+
+    BIBLIOGRAFIA BÁSICA:
+
+    DICKSON, D.C.M; HARDY, M. R; WATERS, H.R. (2013). Actuarial Mathematics for Life
+    Contingent Risks. Second Edition.
 
     JORDAN, C. W. (1991). Society of Actuaries’ Textbook on Life Contingencies. The
     Society of
 
     Actuaries, 2. ed. 349 p.
 
-    BOWERS, N. L.; GERBER, H. U; HICKMAN, J. C.; JONES, D. A.; NESBITT, C. J. (1997).
-
-    ACTUARIAL MATHEMATICS. The Society of Actuaries, 2. ed. 753 p.
-
     BIBLIOGRAFIA COMPLEMENTAR:
 
-    DICKSON, D.C.M; HARDY, M. R; WATERS, H.R. Actuarial Mathematics for Life Contingent
+    BOWERS, N. L.; GERBER, H. U; HICKMAN, J. C.; JONES, D. A.; NESBITT, C. J. (1997).
 
-    Risks. Second Edition. 2013'
-  course: '1. Probabilidades de morte/sobrevivência envolvendo mais de uma vida;
+    ACTUARIAL MATHEMATICS. The Society of Actuaries, 2. ed. 753 p.'
+  course: '1. Revisão de Matemática Atuarial Vida I;
 
-    2. Funções de vidas conjuntas;
+    2. Comutações para seguros de vida, dotais e anuidades atuariais.
 
-    3. Seguros em casos gerais de vidas múltiplas e de último sobrevivente;
+    3. Anuidades atuariais fracionadas. A aproximação de Woolhouse;
 
-    4. Anuidades reversíveis e pensões;
+    4. A variável aleatória função de vida conjunta: probabilidades de morte e vida,
+    expectativas de vida conjunta e seu desvio-padrão;
 
-    5. Introdução aos Multi-Decrementos;
+    5. A variável aleatória último sobrevivente: probabilidades de morte e vida, expectativas
+    de vida do último sobrevivente e seu desvio-padrão;
 
-    6. Tópicos Complementares.'
+    6. Modelos de precificação de seguros de vida aplicados sobre o contexto de múltiplas
+    vidas: seguro de vida conjunta, seguro do último sobrevivente e seguro contingente.
+    Estimação de prêmio estatístico e prêmio puro;
+
+    7. Modelos de anuidades atuariais aplicadas sobre o contexto de múltiplas vidas:
+    anuidade de vida conjunta, anuidade do último sobrevivente e anuidade reversível.
+    Estimação de prêmio estatístico e prêmio puro;
+
+    8. Uma introdução aos múltiplos decrementos e suas aplicações: construção de tábuas
+    multi-decrementais e precificação de produtos como aposentadoria por invalidez;
+
+    9. Tópicos complementares
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'EAC0424 - Matemática Atuarial Vida II
 
     Actuarial Mathematics II - Life'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: '4894284 - João Vinícius de França Carvalho
 
-    1064696 - Luiz Jurandir Simões de Araujo
+    2112537 - Ricardo Pacheco
 
-    2112537 - Ricardo Pacheco'
+    5664682 - Roberto Bomgiovani Cazzari'
   lecture_credits: '4'
-  objectives: 'O curso tem como objetivo complementar os conhecimentos de seguros
-    do ramo vida adquiridos no
-
-    curso de Matemática Atuarial de Vida I, fundamentais aos alunos de ciências atuariais
-    para o seu
-
-    exercício profissional nas áreas de Vida e Previdência, bem como prepará-los com
-    o conhecimento
-
-    específico para o exame obrigatório de habilitação profissional. Inicialmente
-    serão estendidos os
-
-    resultados para múltiplas vidas. Por fim, serão abordados os casos mais gerais
-    de previdência, além
-
-    de alguns tópicos complementares.'
+  objectives: Complementar o conhecimento adquirido no curso de Matemática Atuarial
+    Vida I. Abordar os conceitos e teorias básicas que regem as vidas múltiplas, bem
+    como os multi-decrementos.
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20241203020924'
-digest: GZCYB7P7ATZG6YJJX5MFYNKD2DIKTD3E
-updated_at: '20241203020924'
-url: https://web.archive.org/web/20241203020924id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0424&codcur=12042&codhab=4
+created_at: '20250505071152'
+digest: K54EFGHGWLNJZE5XMIY2S2AX47TJR74I
+updated_at: '20250505071152'
+url: https://web.archive.org/web/20250505071152id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0424&codcur=45070&codhab=1004
