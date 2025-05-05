@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2018
+  activation: 01/01/2025
   assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
     na disciplina caso obtenha
 
@@ -13,25 +13,22 @@ courses:
 
     média final + nota obtida na reavaliação, que deverá ser igual ou superior a 5,0
     (cinco).'
-  bibliography: 'BIBLIOGRAFIA BÁSICA:
+  bibliography: 'Básica
 
-    Klugman S. A; Panjer, H.; Willmot, G.E. (2012). Loss Models: From Data to Decisions.
-    John
+    BIBLIOGRAFIA BÁSICA:
 
-    Wiley and Sons.
+    BOWERS, N. L.; GERBER, H. U.; HICKMAN, J. C.; JONES, D. A.; NESBITT, C. J. (1997).
+    Actuarial Mathematics. The Society of Actuaries, 2nd. ed. 753 p.
 
-    Pacheco, R.. Matemática Atuarial de seguros de danos. Atlas, 2014.
+    KAAS, R.; GOOVAERTS, M.; DHAENE, J.; DENUIT, M. (2008). Modern Actuarial Risk
+    Theory. 6th ed. Kluwer Academic Publishers.
 
     BIBLIOGRAFIA COMPLEMENTAR:
 
-    Dickson, D. C.M., Insurance Risk and Ruin (International Series on Actuarial Science),
-    Cambridge,
+    PACHECO, R. (2014). Matemática Atuarial de Seguros de Danos. São Paulo: Atlas.
 
-    2010.
-
-    BOWERS, N. L.; GERBER, H. U; HICKMAN, J. C.; JONES, D. A.; NESBITT, C. J. (1997).
-
-    ACTUARIAL MATHEMATICS. The Society of Actuaries, 2. ed. 753 p.'
+    KLUGMAN S. A; PANJER, H.; WILLMOT, G. E. (2012). Loss Models: From Data to Decisions.
+    4th ed. John Wiley and Sons.'
   course: '1. Fundamentos básicos da Teoria das probabilidades presentes nos diversos
     cálculos atuariais.
 
@@ -41,39 +38,32 @@ courses:
 
     4. Teoria do risco coletivo aplicada a seguros.
 
-    5. Modificações nas distribuições de probabilidade e seus impactos na distribuição
+    5. Racionalidade da oferta e Princípios de prêmios de seguros
+
+    6. Modificações nas distribuições de probabilidade e seus impactos na distribuição
     do Sinistro
 
     Agregado.
 
-    6. Métodos de aproximação de sinistros agregados.'
+    7. Métodos de aproximação de sinistros agregados.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'EAC0465 - Matemática Atuarial Não-Vida I
 
     Actuarial Mathematics I  Non-Life'
-  deactivation: 31/12/2024
-  instructors: '4894284 - João Vinícius de França Carvalho
-
-    1064696 - Luiz Jurandir Simões de Araujo
-
-    2112537 - Ricardo Pacheco'
+  deactivation: ''
+  instructors: 4894284 - João Vinícius de França Carvalho
   lecture_credits: '4'
-  objectives: 'Esta disciplina visa desenvolver os modelos probabilísticos mais comuns
-    para cálculo de frequência
-
-    e severidade de sinistros. Articular a Teoria de Probabilidade no cálculo de prêmios
-    de seguros,
-
-    resseguros, prêmio estatístico, prêmio puro, carregamento, ruína, tarifação. Entender
-    como
-
-    distribuições de probabilidade, adequadamente escolhidas, são instrumentos de
-    estimação e gestão
-
-    de carteiras de sinistros.'
+  objectives: Esta disciplina visa desenvolver os modelos probabilísticos mais comuns
+    para cálculo de frequência e severidade de sinistros. Articular a Teoria das Probabilidades
+    no cálculo de prêmios de seguros, resseguros, prêmio estatístico, prêmio puro,
+    carregamento, ruína, tarifação. Entender como distribuições de probabilidade,
+    adequadamente escolhidas, são instrumentos de estimação e gestão de carteiras
+    de seguros.
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20241203031931'
-digest: XA26VAMBQITWJX5ZHCYGRFPM72P62ORY
-updated_at: '20241203031931'
-url: https://web.archive.org/web/20241203031931id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0465&codcur=12042&codhab=4
+created_at: '20250505141556'
+digest: CEB6TVAYIVJH2U2KRFJKSPRXFE2BHNR3
+updated_at: '20250505141556'
+url: https://web.archive.org/web/20250505141556id_/http://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0465&codcur=45070&codhab=1004
