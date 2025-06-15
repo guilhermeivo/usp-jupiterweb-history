@@ -1,10 +1,12 @@
 courses:
-  activation: 01/01/2024
+  activation: 01/01/2025
   assessment: 'A recuperação constará de uma prova a ser realizada antes do término
     do período de retificação de matrícula (estabelecido anualmente pelo Calendário
     USP). A média da avaliação final da disciplina entrará no computo da recuperação,
     sendo: média da avaliação final + média da recuperação ÷ 2.'
-  bibliography: 'BENESCH, F. Tratado de Obstetricia y Ginecología Veterinarias. 1963.
+  bibliography: 'Básica
+
+    BENESCH, F. Tratado de Obstetricia y Ginecología Veterinarias. 1963.
 
     ROBERTS, S.J. Veterinary obstetrics and genital diseases (Theriogenology). Michigan:
     Ann Arbor, 1971.
@@ -88,11 +90,13 @@ courses:
     Laboratório Didático: Duração 4 horas/aula prática. 4. CBRA-Pirassununga e Visitas
     técnicas/Atividades de campo. Duração: 20 horas/turma
 
-    Todas as aulas práticas serão ministradas a grupo de 15 a 20 alunos.'
+    Todas as aulas práticas serão ministradas a grupo de 15 a 20 alunos.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VRA4201 - Obstetrícia
 
     Obstetrics'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: '6726400 - Claudia Barbosa Fernandes
 
     5509246 - Gisele Almeida Lima da Veiga'
@@ -103,8 +107,8 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20250615182206'
-digest: HCUG76C3ET47XUTNDT7RNQBUOL7XS43O
+created_at: '20250615182209'
+digest: PKTEGIYTFO7OGYJ3WHKRUQ4YQ4KZKDOV
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
@@ -117,5 +121,5 @@ requirements:
   - code: VCI4101
     name: Anestesiologia e Técnicas de Terapia Intensiva no Paciente Cirúrgico
     type: Requisito
-updated_at: '20250615182206'
-url: https://web.archive.org/web/20250615182206id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VRA4201
+updated_at: '20250615182209'
+url: https://web.archive.org/web/20250615182209id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA4201
