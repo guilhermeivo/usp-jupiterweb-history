@@ -1,14 +1,16 @@
 courses:
-  activation: 01/01/2024
+  activation: 01/01/2025
   assessment: '1 - A recuperação constará de duas provas a serem realizadas até uma
     semana antes do término do período de retificação de matrícula (estabelecido anualmente
     pelo Calendário USP)
 
     2 - A média da avaliação final da disciplina será avaliada levando em consideração:
     média final = média da avaliação final + média da recuperação ÷ 2.'
-  bibliography: 'BARUSELLI, P.S., MADUREIRA, E.H. (eds) Controle farmacológico do
-    ciclo estral em ruminantes. São Paulo: Fundação da Faculdade de Medicina Veterinária
-    e Zootecnia/USP, 2000. 332p.
+  bibliography: 'Básica
+
+    BARUSELLI, P.S., MADUREIRA, E.H. (eds) Controle farmacológico do ciclo estral
+    em ruminantes. São Paulo: Fundação da Faculdade de Medicina Veterinária e Zootecnia/USP,
+    2000. 332p.
 
     GONÇALVES, P. B. D.; FIGUEIREDO, J. R.; FREITAS, V. J. F. Biotécnicas aplicadas
     à Reprodução Animal. Varela: São Paulo, 2002.
@@ -40,21 +42,51 @@ courses:
     reprodutivo em bubalinos; Manejo reprodutivo em ovinos e caprinos; Manejo reprodutivo
     de equinos; Manejo reprodutivo de aves; Manejo reprodutivo de cães; Manejo reprodutivo
     em suínos. Curso Prático: O ensino prático da Disciplina constará de visitas a
-    estabelecimentos agropecuários para avaliação do manejo reprodutivo.'
+    estabelecimentos agropecuários para avaliação do manejo reprodutivo.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VRA3201 - Manejo Reprodutivo em Animais Domésticos
 
     Reproductive Management in Farm Animals'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: '1492328 - Pietro Sampaio Baruselli
 
     3399196 - Ricardo José Garcia Pereira'
   lecture_credits: '2'
-  objectives: Estudo dos diferentes tipos de manejos com o intuito de melhorar a eficiência
-    reprodutiva em animais domésticos.
+  objectives: 'da atividade
+
+    Produção vídeos desenvolvidos pelos próprios estudantes com uma linguagem simples
+    e moderna para detalhar e desmistificar manejos reprodutivos geralmente feitos
+    com animais domésticas para maximização de resultados.
+
+    Descrição da atividade
+
+    Solicitaremos que os estudantes formem grupos (7-8 pessoas) e elaborem vídeos
+    educativos de curta duração (2-3 minutos) ao longo do semestre explicando as necessidades,
+    importância, vantagens e metodologia de certos manejos reprodutivos realizados
+    nas diferentes espécies domésticas (1 vídeo por grupo). Os melhores vídeos serão
+    veiculados em reuniões de produtores, cooperativas e empresas dos setores produtivo
+    e veterinário. Também vislumbramos a divulgação desses vídeos em redes sociais
+    e mídias digitais para a educação do público leigo.
+
+    Indicadores de avaliação da atividade
+
+    Inicialmente, os vídeos serão avaliados pelos docentes responsáveis para críticas,
+    melhorias e seleção dos melhores. Depois, os vídeos selecionados serão divulgados
+    em reuniões de produtores, cooperativas e empresas dos setores produtivo e veterinário,
+    e as instituições envolvidas darão aos docentes responsáveis uma devolutiva sobre
+    as impressões dos produtores, profissionais e afins sobre os materiais. Adicionalmente,
+    para aqueles vídeos que forem divulgados nas redes sociais da FMVZ e USP (p.e.
+    Facebook, Instagram, Linkedln, etc.) e em mídias digitais (p.e. Youtube), serão
+    avaliados o número de acessos, curtidas, comentários, compartilhamentos, etc.'
   practical_credits: '0'
-  total_workload: 30 h
+  total_workload: '30 h
+
+    Carga Horária de Extensão:
+
+    3 h'
   type: Semestral
-created_at: '20241013114942'
-digest: BNRYRPYWADSZSORPT3RBQGZBTDZLV4NY
-updated_at: '20241211191054'
-url: https://web.archive.org/web/20241211191054id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA3201&codcur=10012&codhab=0
+created_at: '20250615181431'
+digest: W6P4Q2INRP6IULJEO7Y4IN6PPXEB2NK3
+updated_at: '20250615181431'
+url: https://web.archive.org/web/20250615181431id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA3201
