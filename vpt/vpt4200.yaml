@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2020
+  activation: 15/07/2023
   assessment: 'A recuperação constará de duas provas a serem realizadas até uma semana
     antes do termino do período de retificação de matrículas (estabelecido anualmente
     pelo Calendário USP).
@@ -7,8 +7,9 @@ courses:
     A média da avaliação final da disciplina entrará no computo da recuperação, sendo:
 
     média = média de avaliação final + média da recuperação ÷ 2.'
-  bibliography: 'McGavin, Zachary Bases da Patologia em Veterinária, 4ª edição (2009),
-    (Mosby/Elsevier);
+  bibliography: 'Básica
+
+    McGavin, Zachary Bases da Patologia em Veterinária, 4ª edição (2009), (Mosby/Elsevier);
 
     Grandi F, Beserra HE, da Costa LD. Citologia Veterinária Diagnostica. Med.Vet,
     São Paulo, 2014, 164p.
@@ -43,28 +44,30 @@ courses:
     9. Apresentação e discussão dos métodos tradicionais e inovadores para o tratamento
     das neoplasias em Medicina Veterinária.
 
-    10. Principais modelos para a pesquisa em oncologia veterinária.'
+    10. Principais modelos para a pesquisa em oncologia veterinária.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VPT4200 - Bases da Oncologia Veterinária Comparada
 
     Basis of Veterinary and Comparative Oncology'
   deactivation: ''
   instructors: 52433 - Maria Lucia Zaidan Dagli
-  lecture_credits: '4'
+  lecture_credits: '2'
   objectives: Animais domésticos e selvagens tem apresentado preocupante aumento de
     casos de neoplasias, e o Médico Veterinário precisa estar preparado para melhor
     interceder nestes casos. A Oncologia Veterinária é uma especialidade crescente
     na Medicina Veterinária. O objetivo desta disciplina é apresentar aos alunos de
     graduação as bases da Oncologia Veterinária Comparada.
   practical_credits: '0'
-  total_workload: 60 h
+  total_workload: 30 h
   type: Semestral
-created_at: '20230326033517'
-digest: TSQJQTM5VSHJZGETOSOAFQANXSV3PFQW
+created_at: '20250615183104'
+digest: EPIW3GDEQQO556ZMYPXDLTT45P3ACWFH
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
   - code: VPT2202
     name: Patologia Animal
     type: Requisito
-updated_at: '20230326033517'
-url: https://web.archive.org/web/20230326033517id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VPT4200
+updated_at: '20250615183104'
+url: https://web.archive.org/web/20250615183104id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT4200
