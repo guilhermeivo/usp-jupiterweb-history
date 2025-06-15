@@ -5,8 +5,10 @@ courses:
     A média final após a recuperação será a média aritmética da nota da avaliação
     final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
     + média da recuperação)/2].'
-  bibliography: 'ALEXANDER, J. W. The pathogenesis of canine hip dysplasia. Vet Clin
-    North Am Small Anim Pract, v. 22, n. 3, p. 503-511, 1992.
+  bibliography: 'Básica
+
+    ALEXANDER, J. W. The pathogenesis of canine hip dysplasia. Vet Clin North Am Small
+    Anim Pract, v. 22, n. 3, p. 503-511, 1992.
 
     BEALE, B. S.; HULSE, D. A.; SHULZ, K.; WHITNEY, W. O. Small Animal Arthroscopy.
     Saunders, 2003. 256 p.
@@ -37,12 +39,16 @@ courses:
 
     ● Amputação do membro locomotor
 
-    ● Técnicas de osteossíntese e artrodese'
+    ● Técnicas de osteossíntese e artrodese
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VCI0535 - Ortopedia
 
     Orthopedics'
   deactivation: ''
   instructors: '177752 - André Luis do Valle de Zoppa
+
+    3334593 - Fátima Maria Caetano Caldeira
 
     40155 - Julia Maria Matera'
   lecture_credits: '2'
@@ -52,13 +58,13 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20250615183236'
-digest: A2USLPMRCAZQF6RAJCDP4KI24BUYMYXY
+created_at: '20250615183252'
+digest: 2DMY25MJLXEMRKNXRNJ2ZNWQEOMB5GHY
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
   - code: VCI4103
     name: Técnica Cirúrgica
     type: Requisito
-updated_at: '20250615183236'
-url: https://web.archive.org/web/20250615183236id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VCI0535
+updated_at: '20250615183252'
+url: https://web.archive.org/web/20250615183252id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI0535
