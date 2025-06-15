@@ -4,8 +4,10 @@ courses:
     sobre todo o conteúdo da disciplina (Peso 1); 2) Prova oral versando o conteúdo
     prático da disciplina. (Peso 1). A nota final será  a Média Final + Média da Recuperação
     ÷ 2.'
-  bibliography: 'ACHA, P.N. & SZYFRES, B. Zoonosis y enfermidades transmissibles comunes
-    al hombre y a los animales. Volumem I: bacteriosis y micosis. Organizacion Panamericana
+  bibliography: 'Básica
+
+    ACHA, P.N. & SZYFRES, B. Zoonosis y enfermidades transmissibles comunes al hombre
+    y a los animales. Volumem I: bacteriosis y micosis. Organizacion Panamericana
     de La Salud. 3 ed. Washington, p. 266-283, 2001 (Publicación Científica, 580).
 
     ACHA, P.N. & SZYFRES, B. Zoonosis y enfermidades transmissibles comunes al hombre
@@ -35,10 +37,12 @@ courses:
 
     Valvassoura, T.A.; Ferreira Neto, J.S. Tuberculose em primatas. São Paulo: Faculdade
     de Medicina Veterinária e Zootecnia da USP, 2014, 193p. (disponível em http://www.leb.fmvz.usp.br/publicacoes).'
-  course: Conceitos de Zoonoses. Zoonoses na clínica de pequenos animais. Zoonoses
+  course: 'Conceitos de Zoonoses. Zoonoses na clínica de pequenos animais. Zoonoses
     emergentes. Zoonoses transmitidas por carrapatos. Toxoplasmose. Leishmanioses.
     Toxinfecções alimentares. Tuberculose. Brucelose. Complexos Equinococose-Hidatidose
     e Teníase-Cisticercose. Raiva. Leptospirose.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VPS3201 - Zoonoses (Saúde Pública Veterinária)
 
     Zoonoses (Veterinary Public Health)'
@@ -54,13 +58,13 @@ courses:
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20250615180824'
-digest: KPXMMEEWAU4OBTKC5A2OTW74DI42EBS7
+created_at: '20250615180826'
+digest: SI3BODHL65IQML3JHYNK4TTYUTEWDNTA
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
   requirements:
   - code: VPS2202
     name: Epidemiologia Veterinária
     type: Requisito
-updated_at: '20250615180824'
-url: https://web.archive.org/web/20250615180824id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VPS3201
+updated_at: '20250615180826'
+url: https://web.archive.org/web/20250615180826id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3201
