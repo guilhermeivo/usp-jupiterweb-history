@@ -5,9 +5,10 @@ courses:
     A média final após a recuperação será a média aritmética da nota da avaliação
     final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
     + média da recuperação)/2]'
-  bibliography: 'ALVES, J. C. et al. Evaluation of four clinical metrology instruments
-    for the assessment of osteoarthritis in dogs. Animals (Basel), v. 12, n. 20, Oct
-    17 2022.
+  bibliography: 'Básica
+
+    ALVES, J. C. et al. Evaluation of four clinical metrology instruments for the
+    assessment of osteoarthritis in dogs. Animals (Basel), v. 12, n. 20, Oct 17 2022.
 
     FANTONI, D. T.; IDA, K. K.; LOPES, T. F.; OTSUKI, D. A. et al. A comparison of
     the cardiopulmonary effects of pressure controlled ventilation and volume controlled
@@ -61,12 +62,14 @@ courses:
 
     ● Anestesia no paciente submetido a cirurgia torácica
 
-    ● Procedimentos especiais em cães braquicefálicos'
+    ● Procedimentos especiais em cães braquicefálicos
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VCI0542 - Controle da dor e técnicas anestésicas especiais em cães
     e gatos
 
     Anesthetic Techniques in Dogs and Cats'
-  deactivation: ''
+  deactivation: 14/07/2025
   instructors: 71622 - Denise Tabacchi Fantoni
   lecture_credits: '2'
   objectives: Ampliar o conhecimento no diagnóstico e tratamento da dor em cães e
@@ -75,13 +78,13 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20250615183126'
-digest: ODKGD6JGPCMFV6KQMWFVZXSGCPTLWMZ3
+created_at: '20250615183134'
+digest: 63SYYPM2NYF4FZDROWSX6JMPERAGRER3
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
   - code: VCI4101
     name: Anestesiologia e Técnicas de Terapia Intensiva no Paciente Cirúrgico
     type: Requisito
-updated_at: '20250615183126'
-url: https://web.archive.org/web/20250615183126id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VCI0542
+updated_at: '20250615183134'
+url: https://web.archive.org/web/20250615183134id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI0542
