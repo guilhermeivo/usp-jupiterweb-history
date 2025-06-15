@@ -83,7 +83,13 @@ courses:
   practical_credits: '1'
   total_workload: 45 h
   type: Semestral
-created_at: '20250615181627'
-digest: TZU573EGZ25APTJWOI4XBM7GP6WGOICS
-updated_at: '20250615181627'
-url: https://web.archive.org/web/20250615181627id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3205
+created_at: '20250615181628'
+digest: WGDJAK6KPXDOE7Y4IEWF6GABOTYAPCLS
+requirements:
+- course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
+  requirements:
+  - code: VPS2201
+    name: Higiene e Segurança dos Alimentos I
+    type: Requisito
+updated_at: '20250615181628'
+url: https://web.archive.org/web/20250615181628id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VPS3205
