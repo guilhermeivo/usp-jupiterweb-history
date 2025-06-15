@@ -1,13 +1,15 @@
 courses:
-  activation: 01/01/2021
+  activation: 01/01/2025
   assessment: 'A recuperação constará de duas provas a serem realizadas até uma semana
     antes do término do período de retificação de matrícula (estabelecido anualmente
     pelo Calendário USP).
 
     A média da avaliação final da disciplina entrará no computo da recuperação, sendo:
     média = média da avaliação final + média da recuperação ÷ 2.'
-  bibliography: '1. AAAP. A laboratory manual the isolation and identification of
-    avian pathogens. 4th ed. 1998.
+  bibliography: 'Básica
+
+    1. AAAP. A laboratory manual the isolation and identification of avian pathogens.
+    4th ed. 1998.
 
     2. Revolledo, L & Ferreira, A. J. P. Patologia Aviária. Ed. Manole, 2008.
 
@@ -34,11 +36,13 @@ courses:
     Curso Prático:
 
     O curso prático constará de aulas de métodos de coleta de material biológico,
-    exame necroscópico e técnicas de vacinação em aves.'
+    exame necroscópico e técnicas de vacinação em aves.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VPT3201 - Ornitopatologia
 
     Avian Pathology'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: '55839 - Antônio José Piantino Ferreira
 
     3160492 - Tânia de Freitas Raso'
@@ -54,8 +58,8 @@ courses:
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20250615181330'
-digest: XEYIA4SACMG6XOIE6V3F22O37PWFXHNU
+created_at: '20250615181332'
+digest: AA6IOFXXGCH7ZJEM5DW7CY3FVG5QTKV2
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
   requirements:
@@ -65,5 +69,5 @@ requirements:
   - code: VPS2202
     name: Epidemiologia Veterinária
     type: Requisito
-updated_at: '20250615181330'
-url: https://web.archive.org/web/20250615181330id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VPT3201
+updated_at: '20250615181332'
+url: https://web.archive.org/web/20250615181332id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT3201
