@@ -2,7 +2,9 @@ courses:
   activation: 01/01/2019
   assessment: 'A recuperação constará de uma prova. A média final, após a recuperação,
     constará de : (média da avaliação final + media de recuperação) : 2'
-  bibliography: 'KAY, R.D. Gestão de propriedades rurais ( 7 ed.). Mc Graw Hill, 2014.
+  bibliography: 'Básica
+
+    KAY, R.D. Gestão de propriedades rurais ( 7 ed.). Mc Graw Hill, 2014.
 
     MENDES, J.T.G.; PADILHA JUNIOR, J.B. Agronegócio - uma abordagem econômica. Atlas,
     2007.
@@ -43,7 +45,9 @@ courses:
 
     Princípios de comércio internacional de produtos de origem animal; e
 
-    Desafios e ameaças à indústria animal.'
+    Desafios e ameaças à indústria animal.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VRA3200 - Gestão do Agronegócio
 
     Agrobusiness Management'
@@ -60,7 +64,7 @@ courses:
   practical_credits: '0'
   total_workload: 15 h
   type: Semestral
-created_at: '20241013110843'
-digest: AXNVV3QTVW6A5ZIZJTY2VDPWWEOBQT54
-updated_at: '20241013110843'
-url: https://web.archive.org/web/20241013110843id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA3200&codcur=10012&codhab=0
+created_at: '20250615182500'
+digest: MQ3QPZXP2DEC55S54P6M2XW4GXILKNAL
+updated_at: '20250615182500'
+url: https://web.archive.org/web/20250615182500id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA3200
