@@ -86,7 +86,46 @@ courses:
 
     3 h'
   type: Semestral
-created_at: '20250615181431'
-digest: W6P4Q2INRP6IULJEO7Y4IN6PPXEB2NK3
-updated_at: '20250615181431'
-url: https://web.archive.org/web/20250615181431id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA3201
+created_at: '20250615181433'
+digest: CHMAXCWTJJG2CSAA6NJRI3Q33VK2BN6E
+requirements:
+- course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
+  requirements:
+  - code: VNP3113
+    name: Nutrição e Criação de Cães e Gatos
+    type: Requisito
+  - code: VRA2101
+    name: Fisiologia da Reprodução
+    type: Requisito
+  - code: VNP3112
+    name: Economia Aplicada
+    type: Requisito
+  - code: VNP3102
+    name: Produção de Aves
+    type: Requisito
+  - code: VNP3107
+    name: Produção de Bovinos de Leite
+    type: Requisito
+  - code: VNP3103
+    name: Produção de Suínos
+    type: Requisito
+  - code: VNP3106
+    name: Produção de Búfalos, Caprinos e Ovinos
+    type: Requisito
+  - code: VNP3108
+    name: Produção de Bovinos de Corte
+    type: Requisito
+  - code: VNP3104
+    name: Produção de Equinos
+    type: Requisito
+  - code: VNP3105
+    name: Nutrição Animal
+    type: Requisito
+  - code: VRA2201
+    name: Biotecnologia da Reprodução
+    type: Requisito
+  - code: VNP3109
+    name: Melhoramento Animal
+    type: Requisito
+updated_at: '20250615181433'
+url: https://web.archive.org/web/20250615181433id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VRA3201
