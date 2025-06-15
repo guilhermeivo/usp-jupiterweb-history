@@ -3,8 +3,9 @@ courses:
   assessment: 'Realização de prova até uma semana antes do término do período de retificação
     de matrícula (estabelecido anualmente pelo Calendário USP). Computo da nota final:
     média da avaliação final + recuperação ÷ 2.'
-  bibliography: '- Breilh, J. (2006). Epidemiologia crítica: ciência emancipadora
-    e interculturalidade.
+  bibliography: 'Básica
+
+    - Breilh, J. (2006). Epidemiologia crítica: ciência emancipadora e interculturalidade.
 
     - Broadbent, A. (2013). Philosophy of Epidemiology. Springer.
 
@@ -66,7 +67,9 @@ courses:
 
     - Vigilância epidemiológica
 
-    - Análise de risco'
+    - Análise de risco
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VPS2202 - Epidemiologia Veterinária
 
     Veterinary Epidemiology'
@@ -80,7 +83,7 @@ courses:
   practical_credits: '0'
   total_workload: 75 h
   type: Semestral
-created_at: '20241211035714'
-digest: AF6W5IKV6RXKS5RRRDHDJYN5EIQMHJ6S
-updated_at: '20241211035714'
-url: https://web.archive.org/web/20241211035714id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS2202&codcur=10012&codhab=0
+created_at: '20250615180553'
+digest: WTY6S4CMOJJZUZMW7BWMIAFBPUDFZZFT
+updated_at: '20250615180553'
+url: https://web.archive.org/web/20250615180553id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS2202
