@@ -1,13 +1,15 @@
 courses:
-  activation: 01/01/2021
+  activation: 01/01/2025
   assessment: 'Uma prova teórica e uma prova teórico-prática de recuperação serão
     realizadas em data previamente agendada, sendo a nota final de recuperação igual
     à média aritmética das duas provas (teórica e
 
     prática). E a média final da disciplina será calculada pela média aritmética da
     média obtida no semestre letivo e a média das provas de recuperação.'
-  bibliography: 'BONAGURA, J.D; TWEDT, D. Kirk’s Current Veterinary Therapy XIV. Missouri,
-    Saunders Elsevier, 2009.
+  bibliography: 'Básica
+
+    BONAGURA, J.D; TWEDT, D. Kirk’s Current Veterinary Therapy XIV. Missouri, Saunders
+    Elsevier, 2009.
 
     DiBARTOLA, S.P. Fluid, Electrolyte, and Acid-base Disorders in Small Animal Practice.
     3 ed. Saunders Elsevier, 2006.
@@ -87,11 +89,13 @@ courses:
 
     Principais doenças cardíacas
 
-    Principais doenças respiratórias'
+    Principais doenças respiratórias
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VCM4201 - Clínica Médica de Pequenos Animais
 
     Small Animal Internal Medicine'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: '407831 - Archivaldo Reche Junior
 
     233956 - Denise Saretta Schwartz'
@@ -106,8 +110,8 @@ courses:
   practical_credits: '0'
   total_workload: 90 h
   type: Semestral
-created_at: '20250615182324'
-digest: TEGHVOVNEAZOOOMJURJPOFDI4A5D3PHA
+created_at: '20250615182326'
+digest: ORBSWCRIQPYZPZPM7Z63CPODNDZN3HFF
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
@@ -120,5 +124,5 @@ requirements:
   - code: VCM4101
     name: Semiologia
     type: Requisito
-updated_at: '20250615182324'
-url: https://web.archive.org/web/20250615182324id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VCM4201
+updated_at: '20250615182326'
+url: https://web.archive.org/web/20250615182326id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCM4201
