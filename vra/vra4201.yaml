@@ -103,7 +103,19 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20241013115138'
-digest: 4B4RGQUM3B24M63TJJYJGUD2GZCUBF3A
-updated_at: '20241211041601'
-url: https://web.archive.org/web/20241211041601id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA4201&codcur=10012&codhab=0
+created_at: '20250615182206'
+digest: HCUG76C3ET47XUTNDT7RNQBUOL7XS43O
+requirements:
+- course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
+  requirements:
+  - code: VCI4103
+    name: Técnica Cirúrgica
+    type: Requisito
+  - code: VRA2101
+    name: Fisiologia da Reprodução
+    type: Requisito
+  - code: VCI4101
+    name: Anestesiologia e Técnicas de Terapia Intensiva no Paciente Cirúrgico
+    type: Requisito
+updated_at: '20250615182206'
+url: https://web.archive.org/web/20250615182206id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VRA4201
