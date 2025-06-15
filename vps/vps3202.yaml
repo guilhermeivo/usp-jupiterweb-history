@@ -90,7 +90,13 @@ courses:
 
     17 h'
   type: Semestral
-created_at: '20250615180830'
-digest: KTEYGUYPMYR5KQVOS2HKKU35CZ4PI47I
-updated_at: '20250615180830'
-url: https://web.archive.org/web/20250615180830id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3202
+created_at: '20250615180832'
+digest: XGUQ3ZS3GVEFXVLKFU5F26ZCZNWGGWQZ
+requirements:
+- course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
+  requirements:
+  - code: BMP0222
+    name: Parasitologia Veterinária
+    type: Requisito
+updated_at: '20250615180832'
+url: https://web.archive.org/web/20250615180832id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VPS3202
