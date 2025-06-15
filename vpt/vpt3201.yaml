@@ -54,7 +54,16 @@ courses:
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20241211190023'
-digest: M2ACRUH2KEK4BBWNU3TBZCYFALWH35YT
-updated_at: '20241211190023'
-url: https://web.archive.org/web/20241211190023id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT3201&codcur=10012&codhab=0
+created_at: '20250615181330'
+digest: XEYIA4SACMG6XOIE6V3F22O37PWFXHNU
+requirements:
+- course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
+  requirements:
+  - code: VNP3102
+    name: Produção de Aves
+    type: Requisito
+  - code: VPS2202
+    name: Epidemiologia Veterinária
+    type: Requisito
+updated_at: '20250615181330'
+url: https://web.archive.org/web/20250615181330id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VPT3201
