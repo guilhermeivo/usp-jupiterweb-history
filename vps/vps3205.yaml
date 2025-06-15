@@ -1,10 +1,10 @@
 courses:
   activation: 01/01/2021
   assessment: 1 prova discursiva (peso 1) + 1 prova de múltipla escolha (peso 1)/2.
-  bibliography: "BRASIL. MAPA. Portaria n° 46, de 10 de fevereiro de 1998.\nInstitui\
-    \ o Sistema de Análise de Perigos e Pontos Críticos de Controle - APPCC a ser\
-    \ implantado, gradativamente, nas indústrias de produtos de origem animal sob\
-    \ o regime do Serviço de Inspeção Federal - SIF, de acordo com o MANUAL GENÉRICO\
+  bibliography: "Básica\nBRASIL. MAPA. Portaria n° 46, de 10 de fevereiro de 1998.\n\
+    Institui o Sistema de Análise de Perigos e Pontos Críticos de Controle - APPCC\
+    \ a ser implantado, gradativamente, nas indústrias de produtos de origem animal\
+    \ sob o regime do Serviço de Inspeção Federal - SIF, de acordo com o MANUAL GENÉRICO\
     \ DE PROCEDIMENTOS, anexo à referida Portaria.\nBRASIL. MAPA. Portaria Nº368 de\
     \ 04 de setembro de 1997.\nAprova o Regulamento Técnico sobre as condições Higiênico-Sanitárias\
     \ e de Boas Práticas de Fabri-cação para Estabelecimentos Elaboradores Industrializadores\
@@ -57,10 +57,12 @@ courses:
     2)\tAnálise de Perigos e Pontos Críticos de Controle – HACCP. Disponível em: \
     \ http://bvs.panalimentos.org/local/file/manual_haccp_fasciculo_haccp3.pdf\n3)\t\
     Métodos modernos de ensino em GMP/HACCP/auditoria. Disponível em: http://bvs.panalimentos.org/local/file/MANUAL_HACCP_FASCICULO_METODOS_ENSINO5.pdf"
-  course: Perigos físicos, químicos e biológicos que podem ser veiculados pelos alimentos
+  course: 'Perigos físicos, químicos e biológicos que podem ser veiculados pelos alimentos
     e as medidas preventivas. Análise de Perigos e Pontos Críticos de Controle (APPCC).
     Análise microbiológica de alimentos. Papel da Microbiologia Preditiva (MP) e da
     Análise de Risco (AA) na segurança dos alimentos.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VPS3205 - Higiene e Segurança Alimentar II
 
     Food Hygiene and Safety II'
@@ -81,7 +83,7 @@ courses:
   practical_credits: '1'
   total_workload: 45 h
   type: Semestral
-created_at: '20241211011228'
-digest: VG6VCQZZL75MFT2OOAUYFIUI3ZOND4QI
-updated_at: '20241211011228'
-url: https://web.archive.org/web/20241211011228id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3205&codcur=10012&codhab=0
+created_at: '20250615181627'
+digest: TZU573EGZ25APTJWOI4XBM7GP6WGOICS
+updated_at: '20250615181627'
+url: https://web.archive.org/web/20250615181627id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3205
