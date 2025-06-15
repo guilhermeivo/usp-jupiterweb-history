@@ -1,7 +1,7 @@
 courses:
-  activation: 01/01/2021
+  activation: 01/01/2025
   assessment: Duas provas. Média Final + Média da Recuperação ÷ 2
-  bibliography: "1)\tBroom, D.M. and Fraser, A.F. (2007) Domestic animal behaviour\
+  bibliography: "Básica\n1)\tBroom, D.M. and Fraser, A.F. (2007) Domestic animal behaviour\
     \ and welfare. CABI International, Oxfordshire, OX10 8DE, UK. 438 páginas\n2)\t\
     Fraser, D. (2008) Understanding animal welfare: the  science in its cultural context.\
     \ John Wiley & Sons, Oxford, OX4 2DQ, UK. 324 páginas.\n3)\tHeleski, C.R.; Zanella,\
@@ -45,11 +45,12 @@ courses:
     \ para mensurar experiências subjetivas: conforto, contentamento, dor, medo, \
     \ memoria, ansiedade em animais\n3)\tUtilização prática de protocolos validados\
     \ de avaliação de bem-estar animal em várias espécies de animais\n4)\tCompetição\
-    \ de avaliação de bem-estar animal (Heleski, Zanella & Pajor, 2003)"
+    \ de avaliação de bem-estar animal (Heleski, Zanella & Pajor, 2003)\nInstrumentos\
+    \ e Critérios de Avaliação"
   course_name: 'VPS3208 - Avaliação Científica de Bem-estar animal
 
     Scientific Evaluation of Animal Welfare'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: 8651895 - Adroaldo José Zanella
   lecture_credits: '2'
   objectives: 'Capacitar médicos-veterinários para que utilizem e desenvolvam métodos
@@ -61,7 +62,7 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20241211030845'
-digest: 5HII3HXFXJXBYRYTY5FAKQKM7PSRB2U7
-updated_at: '20241211030845'
-url: https://web.archive.org/web/20241211030845id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3208&codcur=10012&codhab=0
+created_at: '20250615181426'
+digest: 2UOJ4QGUFEAOMIAWDCSXWDJS62BAD5HS
+updated_at: '20250615181426'
+url: https://web.archive.org/web/20250615181426id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3208
