@@ -5,9 +5,9 @@ courses:
     A média final após a recuperação será a média aritmética da nota da avaliação
     final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
     + média da recuperação)/2].'
-  bibliography: "1.\tCarlton WW, McGavin MD Patologia veterinária especial de Thomson.\
-    \ 2ed. Artmed, Porto Alegre, 1998, 672p.\n2.\tGross, TJ, Ihrke, PJ;, Walder, EJ,\
-    \ Affolter, VK Skin diseases of the dog and cat. Clinical amd Histopathologic\
+  bibliography: "Básica\n1.\tCarlton WW, McGavin MD Patologia veterinária especial\
+    \ de Thomson. 2ed. Artmed, Porto Alegre, 1998, 672p.\n2.\tGross, TJ, Ihrke, PJ;,\
+    \ Walder, EJ, Affolter, VK Skin diseases of the dog and cat. Clinical amd Histopathologic\
     \ diagnosis. 2nd Edition. Blackwell Publishing, 2005. 932p.\n3.\tJones, TC, Hunt\
     \ RD, & King NW Veterinary Pathology. 6ed. Lippincott Williams & Wilkins, Philadelphia,\
     \ EUA, 1997, 1392p.\n4.\tJones, TC, Hunt RD, & King NW Patologia Veterinária.\
@@ -25,7 +25,7 @@ courses:
     \ das Glândulas Endócrinas\n6.\tPatologia do Sistema Urinário\n7.\tPatologia do\
     \ Sistema Genital Feminino e do Sistema Genital Masculino\n8.\tPatologia do Sistema\
     \ Nervoso\n9.\tPatologia do Sistema tegumentar\n11.\tPatologia do sistema músculo-esquelético\n\
-    12.\tPatologia do olho e ouvido"
+    12.\tPatologia do olho e ouvido\nInstrumentos e Critérios de Avaliação"
   course_name: 'VPT2202 - Patologia Animal
 
     Animal Pathology'
@@ -69,13 +69,13 @@ courses:
 
     16 h'
   type: Semestral
-created_at: '20250119192101'
-digest: TQARE6URIXBIPTTUI4JRJRIYELOSF4KW
+created_at: '20250615180606'
+digest: C3W4YWMXWJ6TYTWRNJXD3QVJTF7AEFIW
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 4'
   requirements:
   - code: VPT2101
     name: Patologia Geral
     type: Requisito
-updated_at: '20250119192101'
-url: https://web.archive.org/web/20250119192101id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VPT2202
+updated_at: '20250615180606'
+url: https://web.archive.org/web/20250615180606id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT2202
