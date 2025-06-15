@@ -70,12 +70,12 @@ courses:
     16 h'
   type: Semestral
 created_at: '20250615180606'
-digest: C3W4YWMXWJ6TYTWRNJXD3QVJTF7AEFIW
+digest: 2PWR7KQUF7DHRXZDD6MJXPNXK425SDPO
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 4'
   requirements:
   - code: VPT2101
     name: Patologia Geral
     type: Requisito
-updated_at: '20250615180606'
-url: https://web.archive.org/web/20250615180606id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT2202
+updated_at: '20250615180711'
+url: https://web.archive.org/web/20250615180711id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VPT2202
