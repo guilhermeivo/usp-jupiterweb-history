@@ -30,7 +30,9 @@ courses:
     techniques. Selection model. Applications. Poisson regression: Classical methods.
     Log-linear Models. Classification of Models. Multiple Logistic Regression. Applications.
     Quasi-likelihood methods: Definition. Estimation and tests. Applications. Evaluation
-    of the predictive capacity of the models. Bias-variance trade-off.'
+    of the predictive capacity of the models. Bias-variance trade-off.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'SME0823 - Modelos de Regressão e Aprendizado  Supervisionado II
 
     Regression Models and Supervised Learning II'
@@ -45,8 +47,8 @@ courses:
   practical_credits: '1'
   total_workload: 90 h
   type: Semestral
-created_at: '20250124172344'
-digest: R4NI53NCBXFZHYCDUZBTEV54QZGWH776
+created_at: '20250814212544'
+digest: XQRTFEOY623BXFOK3KJYCTH2O4W6CL5U
 requirements:
 - course: "Curso: 55030  Matemática - Habilitação: Bacharelado em Matemática \r\n\
     \                          (integral) - Período ideal: 6"
@@ -94,5 +96,5 @@ requirements:
   - code: SME0620
     name: Estatística I
     type: Requisito fraco
-updated_at: '20250124172344'
-url: https://web.archive.org/web/20250124172344id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SME0823&codcur=55030&codhab=200
+updated_at: '20250814212544'
+url: https://web.archive.org/web/20250814212544id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?codcur=55090&codhab=0&sgldis=SME0823
