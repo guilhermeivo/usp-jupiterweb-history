@@ -1,9 +1,9 @@
 courses:
-  activation: 01/01/2024
-  assessment: 'de Aprovação: NP+(Mrec/2,5), se Mrec >= 7,5; ou Max {NP,Mrec}, se Mrec
-    <= 5,0;
-
-    ou 5,0,  se 5,0 <= Mrec < 7,5.( NP=1ª avaliação, Mrec=prova recuperação)'
+  activation: 15/07/2024
+  assessment: 'dos projetos pela comunidade participante para verificar se a solução
+    proposta atende a demanda.   Aplicação de Conhecimentos Teóricos: Avaliação da
+    capacidade dos alunos de aplicar os conhecimentos adquiridos em sala de aula para
+    desenvolver soluções para a comunidade atendida.'
   bibliography: 'Complementar:
 
     - PFLEEGER, SHARI L. "Engenharia de Software - Teoria e Prática", 2ª Edição, Makron
@@ -24,7 +24,13 @@ courses:
     - VON MAYRHAUSER, A. Software engineering: methods and management, Academic Press,
     1990.
 
-    - FAIRLEY,R.E. Software Engineering Concepts, New York, McGraw-Hill, 1987 (364p).'
+    - FAIRLEY,R.E. Software Engineering Concepts, New York, McGraw-Hill, 1987 (364p).
+
+    Atividades de Extensão
+
+    Grupo social alvo da atividade
+
+    Entidades sociais que possam se beneficiar de projetos de engenharia de software.'
   course: 'Introdução e objetivos da Engenharia de Software. Processo de Desenvolvimento
     de Software. Modelos de Processo: do linear aos interativos e ágeis. Métodos e
     Técnicas de Análise e Especificação de Requisitos: características, problemas,
@@ -34,34 +40,42 @@ courses:
     Métodos e Técnicas para Verificação e Validação de Software: inspeção e teste.
     Manutenção de Software.
 
-    Atividades de extensão: Aplicação de técnicas de engenharia de software vistas
-    em sala de aula a problemas relatados na indústria, oferecendo soluções que ficam
-    documentadas e disponíveis para uso pelas empresas ou por outros alunos como forma
-    de aprendizagem baseada em problemas. A carga horária corresponde a 15 horas.
-
     Introduction and goals of Software Engineering. Software Development Process.
     Process Models: from linear to interactive and agile. Methods and Techniques to
     Analysis and Specification of Requirements: characteristics, problems and basic
     concepts. Overview of Software Analysis and Design Phases. Software Project Management:
     planning, metrics and estimates. Software Configuration Management. Software Quality:
     quality process and quality product. Methods and Techniques for Software Verification
-    and Validation: inspection and testing. Software Maintenance.'
+    and Validation: inspection and testing. Software Maintenance.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'SSC0130 - Engenharia de Software
 
     Software Engineering'
-  deactivation: 14/07/2024
+  deactivation: ''
   lecture_credits: '4'
-  objectives: 'Oferecer uma visão geral do processo de desenvolvimento de software
-    e dos métodos e técnicas que podem ser utilizadas em cada fase do ciclo de vida
-    do software.
+  objectives: 'da atividade
 
-    Provide an overview of the software development process as well as the methods
-    and  techniques that can be used during the software development.'
+    Promover a interação entre a universidade e sociedade, com a participação dos
+    alunos, buscando resolver problemas que possam envolver soluções computacionais
+
+    Descrição da atividade
+
+    Aplicação de técnicas de engenharia de software vistas em sala de aula a problemas
+    relatados na indústria, oferencendo  soluções que ficam documentadas e disponíveis
+    para uso pelas empresas ou por outros alunos como forma de aprendizagem baseada
+    em problemas.
+
+    Indicadores de avaliação da atividade'
   practical_credits: '1'
-  total_workload: 90 h
+  total_workload: '90 h
+
+    Carga Horária de Extensão:
+
+    15 h'
   type: Semestral
-created_at: '20240621013332'
-digest: K2X564DKEWV23YJXBRNJ3XIDTRI7CEQF
+created_at: '20250815232559'
+digest: IF34DJ7YTIOYFWTQX23AJSO3HCRC3STC
 requirements:
 - course: 'Curso: 55041  Bacharelado em Ciências de Computação (integral) - Período
     ideal: 5'
@@ -75,5 +89,5 @@ requirements:
   - code: SSC0124
     name: Análise e Projeto Orientados a Objetos
     type: Requisito fraco
-updated_at: '20240621013332'
-url: https://web.archive.org/web/20240621013332id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0130&c
+updated_at: '20250815232559'
+url: https://web.archive.org/web/20250815232559id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?codcur=55090&codhab=0&sgldis=SSC0130
