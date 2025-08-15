@@ -1,5 +1,5 @@
 courses:
-  activation: 15/07/2024
+  activation: 15/07/2025
   assessment: A possibilidade de recuperação depende de análise, caso a caso, feita
     pela Comissão de Graduação do CCM.
   bibliography: 'Curso de Física de Berkeley, vol. 2, Eletricidade e Magnetismo, E.M.
@@ -13,7 +13,13 @@ courses:
 
     The Feynman Lectures on Physics, vol. 2. Addison-Wesley Publishing Company.
 
-    online: https://www.feynmanlectures.caltech.edu/II_toc.html'
+    online: https://www.feynmanlectures.caltech.edu/II_toc.html
+
+    Atividades de Extensão
+
+    Grupo social alvo da atividade
+
+    Escolas, Museus, Espaços não formais de educação, Público geral.'
   course: "1. Visão geral do eletromagnetismo.\n(a)\tForças elétricas e magnéticas.\n\
     (b)\tA noção de campo.\n(c)\tO impacto do eletromagnetismo na ciência e na tecnologia\n\
     2. Revisão do cálculo vetorial integral e diferencial.\n3. Eletrostática.\n(a)\t\
@@ -49,7 +55,7 @@ courses:
     \ Mechanics.\n(c) Ferromagnetism.\n(d) Boundary Conditions in Magnetic Materials.\n\
     8. Maxwell's Equations.\n(a) Displacement Current.\n(b) Propagation of Electric\
     \ and Magnetic Fields.\n(c) Plane and Spherical Electromagnetic Waves.\n(d) Fields\
-    \ of an Oscillating Dipole."
+    \ of an Oscillating Dipole.\nInstrumentos e Critérios de Avaliação"
   course_name: 'CCM0212 - Fisica III
 
     Physics III'
@@ -58,15 +64,30 @@ courses:
 
     6783947 - Nathália Beretta Tomazio'
   lecture_credits: '5'
-  objectives: Introduzir os conceitos básicos que explicam os diversos fenômenos físicos
-    relacionados com a eletricidade e magnetismo. Utilizar o cálculo diferencial e
-    integral para descrever esses fenômenos. Sintetizar a teoria nas quatro equações
-    de Maxwell. Desenvolver no estudante a habilidade para compreender e resolver
-    problemas relacionados com o eletromagnetismo.
+  objectives: 'da atividade
+
+    disseminação do conhecimento para escolas do fundamental e ensino médio e em espaços
+    não formais de educação(físicos ou virtuais). Instigar a curiosidade e o saber
+    científico através de atividades lúdicas e artísticas.
+
+    Descrição da atividade
+
+    desenvolvimento de projetos quanto a preparação e ações envolvendo demonstrações
+    físicas ou virtuais e a exploração de linguagens artísticas dos conceitos e fenômenos
+    desenvolvidos na disciplina em consonância com demandas e desafios da sociedade(Energia
+    e Sustentabilidade) e aplicações cotidianas, realçando o papel social da Física.
+
+    Indicadores de avaliação da atividade
+
+    avaliação via questionário quanto ao perfil, satisfação e métricas de sucesso.'
   practical_credits: '0'
-  total_workload: 75 h
+  total_workload: '75 h
+
+    Carga Horária de Extensão:
+
+    15 h'
   type: Semestral
-created_at: '20240912183740'
-digest: MBVCXDLCRLBXPGQS6R6QQWYDPCTIUZVF
-updated_at: '20240912183740'
-url: https://web.archive.org/web/20240912183740id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0212
+created_at: '20250815220501'
+digest: DV5VWAGWRYWCGCRW7KZCSJHNWMD5NYRN
+updated_at: '20250815220501'
+url: https://web.archive.org/web/20250815220501id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0212
