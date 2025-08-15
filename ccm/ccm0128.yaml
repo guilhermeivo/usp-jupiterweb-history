@@ -1,7 +1,6 @@
 courses:
-  activation: 15/07/2021
-  assessment: A possibilidade de recuperação depende de análise, caso a caso, feita
-    pela Comissão de Graduação do CCM.
+  activation: 01/01/2025
+  assessment: Frequência maior que 70% e nota final entre 3,0 e 4,9
   bibliography: '1. R. Sedgewick, K. Wayne, Introduction to programming in Java: an
 
     interdisciplinary approach, Addison-Wesley, 2008.
@@ -23,7 +22,7 @@ courses:
   course_name: 'CCM0128 - Computação II
 
     Computer Science II'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: '3180800 - André Fujita
 
     91288 - Carlos Eduardo Ferreira
@@ -41,8 +40,8 @@ courses:
     To introduce more advanced practices in computer programming and its applications,
     through the study of fundamental algorithms, data structures and abstract data
     types and programming exercises.'
-  practical_credits: '2'
-  total_workload: 120 h
+  practical_credits: '1'
+  total_workload: 90 h
   type: 's abstratos de dados (ADTs), uso de ADTs, e implementação de ADTs através
     da classes.  Algoritmos de ordenação elementares, linearítmicos e lineares.  ADTs
     fundamentais: pilhas, filas, filas de prioridade e tabelas de símbolos.  Estruturas
@@ -56,8 +55,10 @@ courses:
     classes.  Elementary, linearithmic and linear time sorting algorithms.  Basic
     ADTs: stacks, queues, priority queues and symbol tables.  Basic data structures:
     linked lists, search trees and hashing.  Examples involving text processing; search
-    in graphs; interdisciplinary applications.  Extensive programming practice.'
-created_at: '20241111105915'
-digest: BDVW6SHUBPRNREM3RGY3MVVCHAH4BIL2
-updated_at: '20241111105915'
-url: https://web.archive.org/web/20241111105915id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0128
+    in graphs; interdisciplinary applications.  Extensive programming practice.
+
+    Instrumentos e Critérios de Avaliação'
+created_at: '20250815203907'
+digest: V4L2AJWWGVWIWYHGO3NROVYABL2WNYU7
+updated_at: '20250815203907'
+url: https://web.archive.org/web/20250815203907id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0128
