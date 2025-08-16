@@ -1,57 +1,18 @@
 courses:
-  activation: 01/07/1994
-  assessment: A possibilidade de recuperação depende de análise, caso a caso, feita
-    pela Comissão de Graduação do CCM.
+  activation: 01/01/2025
+  assessment: Pode fazer recuperação se tiver frequência maior que 70% e nota final
+    entre 3,0 e 4,9.
   bibliography: '- R. P. Feynmann, Lectures on Physics, Vol. I.
 
     - H. M. Nussenzveig, Curso de Física Básica, Vol. II (não trata da teoria da relatividade).'
-  course: "1. Fluidos.\n(a) Pressão.\n(b) Equilíbrio num campo de forças.\n(c) Princípio\
-    \ de Arquimedes.\n(d) Conservação da massa; equação da continuidade.\n(e) Forças\
-    \ num fluido em movimento.\n(f) Equação de Bernoulli.\n(g) Viscosidade.\n2. Oscilações\
-    \ e ondas.\n(a) Oscilações harmônicas.\n(b) Superposição de movimentos harmônicos\
-    \ simples.\n(c) Oscilações forçadas e amortecidas.\n(d) Ressonância; transientes.\n\
-    (e) O conceito de onda.\n(f) Exemplo: radiação eletromagnética (ver Feynmann,\
-    \ cap. 28).\n(g) Radiação de dipolo.\n(h) Interferência.\n(i) Difração.\n(j) A\
-    \ origem do índice de refração.\n(k) Espalhamento da luz.\n(l) Polarização\n(m)\
-    \ Efeitos relativísticos na radiação (ver Feynmann, cap. 34)\n3. Temperatura e\
-    \ calor\n(a) Equilíbrio térmico; lei zero da termodinâmica.\n(b) Temperatura e\
-    \ sua medida empírica.\n(c) Dilatação.\n(d) Quantidade de calor; o equivalente\
-    \ mecânico da caloria.\n(e) A primeira lei da termodinâmica.\n(f) Processos reversíveis.\n\
-    4. Propriedades dos gases ideais.\n(a) Equação de estado.\n(b) Energia interna.\n\
-    (c) Capacidades térmicas molares.\n(d) Processos adiabáticos.\n5. A segunda lei\
-    \ da termodinâmica.\n(a) Enunciados de Clausius e Kelvin.\n(b) Motor térmico;\
-    \ refrigerador.\n(c) Equivalência dos enunciados de Clausius e Kelvin.\n(d) A\
-    \ escala termodinâmica de temperatura.\n(e) O teorema de Clausius.\n(f) Entropia;\
-    \ processos reversíveis.\n(g) O princípio do aumento de entropia.\n6. Teoria cinética\
-    \ dos gases\n(a) A teoria atômica da matéria.\n(b) A teoria cinética dos gases.\n\
-    (c) A teoria cinética da pressão.\n(d) A lei dos gases perfeitos.\n(e) Calores\
-    \ específicos e equipartição da energia.\n(f) Livre caminho médio.\n(g) A equação\
-    \ de van der Waals para gases ideais.\n7.Noções de mecânica estatística.\n(a)\
-    \ A distribuição de Maxwell.\n(b) O movimento browniano.\n(c) Interpretação estatística\
-    \ da entropia.\nCCM 0122 - Physics II\nProgram:\n1.\tHydrostatics\n1.1\tProperties\
-    \ of fluids, pressure, equilibrium\n1.2\tFluids in a gravitational field; variation\
-    \ of pressure with height\n1.3\tArchimedes principle\n2.\tHydrodynamics\n2.1\t\
-    Flow. Conservation of Mass. Continuity equation\n2.2\tForces on a fluid. Bernoulli\
-    \ equation\n2.3\tCirculation\n2.4\tViscosity\n3.\tThe Harmonic Oscillator\n3.1\t\
-    Harmonic Oscillations.\n3.2\tComplex Notation. Superposition.\n3.3\tDamped Oscillations.\
-    \ Coupled Oscillators\n3.4\tEnergy\n4.\tWaves\n4.1\tWaves in one dimension. The\
-    \ String.\n4.2\tWave equation. Wave Intensity\n4.3\tInterference. Reflection\n\
-    4.4\tNormal Modes. Fourier Analysis\n5.\tSound\n5.1\tSound waves. Harmonic Sounds.\
-    \ Intensity\n5.2\tMusical Sounds. Tone and timbre. Sound sources\n5.3\tWaves in\
-    \ three dimensions. The Huygens principle\n5.4\tReflection, refraction, interference.\n\
-    5.5\tDoppler effect. The Mach cone\n6.\tTemperature\n6.1\tThermical equilibrium.\
-    \ The thermodynamics zeroth law\n6.2\tThe gas thermometer\n6.3\tThermodilation\n\
-    7.\tHeat and the first law\n7.1\tHeat. Conduction of heat.\n7.2\tHeat and equivalent\
-    \ work\n7.3\tThe first Law of thermodynamics\n7.4\tReversible processes\n8.\t\
-    Gases\n8.1\tIdeal gases and equation of state\n8.2\tInternal Energy\n8.3\tAdiabatic\
-    \ processes\n9.\tThe Second Law\n9.1\tClausius and Kelvin formulations\n9.2\t\
-    Thermic engine. Refrigerator\n9.3\tCarnot cycle. Thermodynamical temperature scale\n\
-    9.4\tClausius theorem. Entropy. Reversible processes\n9.5\tIrreversible processes.\
-    \ Entropy variation.\n10.\tKinetic theory of gases\n10.1\tAtomic theory of matter\
-    \ and kinetic theory of gases. Pressure.\n10.2\tPerfect gases Specific heat, equipartition\
-    \ of energy, mean free path.\n10.3\tVan de Walls equation\n11.\tStatistical Mechanics\n\
-    11.1\tMaxwell Distribution. Experimental proof\n11.2\tBrownian motion. Statistical\
-    \ interpretation of Entropy\n11.3\tThe time arrow"
+  course: "1.\tEstática dos Fluídos\n2.\tNoções de Hidrodinâmica\n3.\tOscilações e\
+    \ ondas.\n4.\tTemperatura e calor\n5.\tPropriedades dos gases ideais.\n6.\tA segunda\
+    \ lei da termodinâmica.\n7.\tTeoria cinética dos gases\n8.\tNoções de mecânica\
+    \ estatística.\nCCM 0122 - Physics II\nProgram:\nProgram:\n1.\tHydrostatics\n\
+    2.\tHydrodynamics\n3.\tThe Harmonic Oscillator\n4.\tWaves\n5.\tSound\n6.\tTemperature\n\
+    7.\tHeat and the first law\n8.\tGases\n9.\tThe Second Law\n10.\tKinetic theory\
+    \ of gases\n11.\tIntroduction to Statistical Mechanics\nInstrumentos e Critérios\
+    \ de Avaliação"
   course_name: 'CCM0122 - Física II
 
     Physics II'
@@ -69,7 +30,7 @@ courses:
     2143560 - Paulo Alberto Nussenzveig
 
     2780401 - Renata Zukanovich Funchal'
-  lecture_credits: '6'
+  lecture_credits: '5'
   objectives: Apresentar aos alunos conceitos de oscilações livres, amortecidas e
     forçadas, com o correspondente formalismo matemático. Também serão estudadas propriedades
     gerais de ondas, interferência e batimento entre ondas. Estudo de estática e dinâmica
@@ -79,9 +40,9 @@ courses:
     Estatística. Os estudantes aprovados na disciplina deverão ser capazes de formular,
     entender,  equacionar e resolver problemas físicos relativos aos tópicos acima.
   practical_credits: '0'
-  total_workload: 90 h
+  total_workload: 75 h
   type: Semestral
-created_at: '20240228222638'
-digest: PX3KAZCBGTMNKZ3VLBYY2HYBLUGQ7FNA
-updated_at: '20240804015232'
-url: https://web.archive.org/web/20240804015232id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0122
+created_at: '20250816194556'
+digest: 2HJOQEQSTSXCL6EUIXS3QCHTOZOPMVW2
+updated_at: '20250816194556'
+url: https://web.archive.org/web/20250816194556id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0122
