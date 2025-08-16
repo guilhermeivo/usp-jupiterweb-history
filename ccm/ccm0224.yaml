@@ -1,6 +1,6 @@
 courses:
-  activation: 15/07/2023
-  assessment: A critério do docente
+  activation: 01/01/2025
+  assessment: Frequência maior que 70% e nota final entre 3,0 e 4,9
   bibliography: '1) Introduction to Organic Chemistry, W.H. Brown, T. Poon, Wiley,
     5th 2014 and 6th ed. 2017 (on line
 
@@ -33,13 +33,19 @@ courses:
 
     10. Reações de substituição acílica
 
-    11. Substituição no anel aromático'
+    11. Substituição no anel aromático
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'CCM0224 - Quimica IV
 
     Chemistry IV'
   deactivation: ''
-  instructors: 4893780 - Lucas Carvalho Veloso Rodrigues
-  lecture_credits: '6'
+  instructors: '2990698 - Erick Leite Bastos
+
+    80981 - Frank Herbert Quina
+
+    4893780 - Lucas Carvalho Veloso Rodrigues'
+  lecture_credits: '5'
   objectives: 'Apresentar os princípios básicos da Química Orgânica, exemplificados
     através de estruturas e reações
 
@@ -48,9 +54,9 @@ courses:
 
     conhecimento.'
   practical_credits: '0'
-  total_workload: 90 h
+  total_workload: 75 h
   type: Semestral
-created_at: '20240304180050'
-digest: M33XK263XHIYWISXE2ZVTETJPHLUQZSY
-updated_at: '20240718170237'
-url: https://web.archive.org/web/20240718170237id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0224
+created_at: '20250816113024'
+digest: B6SEW4MN4B3CESVSHBVIRB3VFKEC7ZHD
+updated_at: '20250816113024'
+url: https://web.archive.org/web/20250816113024id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=CCM0224
