@@ -6,12 +6,14 @@ courses:
     S.I.R. Costa, V.L. Figueiredo e H.G. Wetzler, ÁLGEBRA LINEAR, 3a ed., Ed. Harper-Row
     do Brasil. 3) C.A. Callioli, H.H. Domingues, R.C.F. Costa, ÁLGEBRA LINEAR E APLICAÇÕES,
     4a ed., Ed. Atual.
-  course: Espaços Vetorias reais e complexos. Dependência e independência linear.
+  course: 'Espaços Vetorias reais e complexos. Dependência e independência linear.
     Base. Dimensão. Subespaços. Soma direta. Transformações lineares. Núcleo e imagem.
     Isomorfismo. Matriz de uma transformação linear. Autovalores e Autovetores. Subespaços
     invariantes. Diagonalização de operadores. Noções de forma canônica de Jordan.
     Espaços com produto interno. Ortogonalidade. Isometrias. Uma introdução aos operadores
     auto-adjuntos.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'MAT3211 - Álgebra Linear
 
     Linear Algebra'
@@ -22,7 +24,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20190721063756'
-digest: WAESU2LBUH5IFWWJNRCEEJSCVY6PV7QZ
-updated_at: '20250310074526'
-url: https://web.archive.org/web/20250310074526id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?codhab=4&sgldis=MAT3211&codcur=45070
+created_at: '20250920123539'
+digest: UI56MGMJX75RKG3CM7DJ2COEHOWUNUDB
+updated_at: '20250920123539'
+url: https://web.archive.org/web/20250920123539id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT3211&codcur=45070&codhab=4
