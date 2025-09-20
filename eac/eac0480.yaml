@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2025
   assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
     na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
     que 5,0 (cinco) e frequência igual ou superior a 70%.
@@ -46,11 +46,12 @@ courses:
     Capital Social\n5.3.\tReservas de Capital e Reservas de Lucros\n5.4.\tAjustes\
     \ de avaliação patrimonial\n5.5.\tAções em Tesouraria\n5.6.\tDividendos: conceito,\
     \ critérios de cálculo e contabilização\n5.7.\tJuros sobre o Capital Próprio:\
-    \ conceito, critérios de cálculo e contabilização"
+    \ conceito, critérios de cálculo e contabilização\nInstrumentos e Critérios de\
+    \ Avaliação"
   course_name: 'EAC0480 - Contabilidade Intermediária I
 
     Intermediate Accounting I'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: '2209375 - Bruno Meirelles Salotti
 
     5859588 - Fernando Dal-Ri Murcia
@@ -60,6 +61,8 @@ courses:
     1364179 - Mara Jane Contrera Malacrida
 
     8593894 - Raquel Wille Sarquis
+
+    5918868 - Samantha Valentim Telles
 
     1727872 - Tânia Regina Sordi Relvas'
   lecture_credits: '4'
@@ -82,8 +85,8 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20241111213409'
-digest: JI4FKFJLR7SS4D75IQVWIARKB4GRMSLG
+created_at: '20250920165216'
+digest: N5LOC7CL3G3ERU6T2UMNQAPSTBM6N5AU
 requirements:
 - course: 'Curso: 12033  Bacharelado em Ciências Contábeis (diurno) - Período ideal:
     2'
@@ -121,5 +124,5 @@ requirements:
   - code: EAC0111
     name: Fundamentos de Contabilidade
     type: Requisito fraco
-updated_at: '20241111213409'
-url: https://web.archive.org/web/20241111213409id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0480
+updated_at: '20250920165216'
+url: https://web.archive.org/web/20250920165216id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?codhab=1&sgldis=EAC0480&codcur=12051
