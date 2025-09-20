@@ -100,7 +100,9 @@ courses:
 
     4.4.4.2 Fluxo de Caixa Livre para a Firma
 
-    4.4.4.3 Valor terminal (perpetuidade)'
+    4.4.4.3 Valor terminal (perpetuidade)
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'EAC0583 - Análise de Demonstrações Contábeis e Avaliação de Empresas
 
     Financial Statements Analysis and Business Valuation'
@@ -136,8 +138,8 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20220524205200'
-digest: 3IDGIC45NAOHPYYGDTTSCICMIBXWCB5L
+created_at: '20250920110507'
+digest: WFOCLMUR7NNGN4ZDFI26X54CNQT6GRLN
 requirements:
 - course: 'Curso: 12033  Bacharelado em Ciências Contábeis (diurno) - Período ideal:
     7'
@@ -175,5 +177,5 @@ requirements:
   - code: EAE1232
     name: Matemática Financeira e Análise de Projetos
     type: Requisito fraco
-updated_at: '20220808220407'
-url: https://web.archive.org/web/20220808220407id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0583&codcur=12033&codhab=4
+updated_at: '20250920110507'
+url: https://web.archive.org/web/20250920110507id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0583&codcur=12051&codhab=1
