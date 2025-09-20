@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2025
   assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
     na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
     que 5,0 (cinco) e frequência igual ou superior a 70%.
@@ -7,29 +7,53 @@ courses:
     b) A média para aprovação com reavaliação será obtida por meio da média aritmética
     simples da média final + nota obtida na reavaliação, que deverá ser igual ou superior
     a 5,0 (cinco).'
-  bibliography: "BIBLIOGRAFIA PRINCIPAL:\nGELBCKE, Ernesto Rubens; SANTOS, Ariovaldo\
-    \ dos; IUDÍCIBUS, Sérgio de; MARTINS, Eliseu (2018).  Manual de Contabilidade\
-    \ Societária. 3a ed. São Paulo: Atlas.\nCONSELHO FEDERAL DE CONTABILIDADE (CFC).\
-    \ NBC TSP - Estrutura Conceitual para Elaboração e Divulgação de Informação Contábil\
-    \ de Propósito Geral pelas Entidades do Setor Público. Disponível em:  http://www1.cfc.org.br/sisweb/SRE/docs/NBCTSPEC.pdf\n\
-    SANTOS, Ariovaldo dos (2007). Demonstração do Valor Adicionado: como elaborar\
-    \ e analisar a DVA. 2a ed. São Paulo: Atlas.\nLei 6.404/76 e alterações posteriores.\n\
-    Pronunciamentos, interpretações e orientações do Comitê de Pronunciamentos Contábeis\
-    \ (CPC), sendo os principais:\n•\tCPC 09 – Demonstração do Valor Adicionado.\n\
-    •\tCPC 15 – Combinação de Negócios.\n•\tCPC 18 – Investimentos em Coligada, em\
-    \ Controlada e em Empreendimento Controlado em Conjunto.\n•\tCPC 19 – Negócios\
-    \ em Conjunto.\n•\tCPC 28 – Propriedades para Investimento.\n•\tCPC 31 – Ativo\
-    \ Não Circulante Mantido para Venda e Operação Descontinuada.\n•\tCPC 36 – Demonstrações\
-    \ Consolidadas\n•\tCPC 45 – Divulgação de Participações em Outras Entidades.\n\
-    •\tCPC 46 – Mensuração do Valor justo.\nBIBLIOGRAFIA COMPLEMENTAR:\nSALOTTI, Bruno\
-    \ Meirelles; LIMA, Gerlando Augusto Sampaio Franco; MURCIA, Fernando Dal-Ri; MALACRIDA,\
-    \ Mara Jane Contrera; PIMENTEL, Renê Coppe (2019). Contabilidade Financeira. 1a\
-    \ ed. São Paulo: Atlas.\nMALACRIDA, Mara Jane Contrera; YAMAMOTO, Marina Mitiyo;\
-    \ PACCEZ, João Domiraci (2019). Fundamentos da Contabilidade - A Contabilidade\
-    \ no Contexto Global. 2a ed. São Paulo: Atlas.\nGORDON, Elizabeth A.; RAEDY, Jana\
-    \ S.; SANNELLA, Alexander J. (2018). Intermediate Accounting. 2a ed. Pearson.\n\
-    WAHLEN, James M.; JONES, Jefferson P.; PAGACH, Donald P. (2019). Intermediate\
-    \ Accounting. 3a ed. Cengage Learning"
+  bibliography: 'BIBLIOGRAFIA PRINCIPAL:
+
+    GELBCKE, Ernesto Rubens; SANTOS, Ariovaldo dos; IUDÍCIBUS, Sérgio de; MARTINS,
+    Eliseu (2018).  Manual de Contabilidade Societária. 3a ed. São Paulo: Atlas.
+
+    SANTOS, Ariovaldo dos (2007). Demonstração do Valor Adicionado: como elaborar
+    e analisar a DVA. 2a ed. São Paulo: Atlas.
+
+    Lei 6.404/76 e alterações posteriores.
+
+    Pronunciamentos, interpretações e orientações do Comitê de Pronunciamentos Contábeis
+    (CPC), sendo os principais:
+
+    CPC 09 – Demonstração do Valor Adicionado.
+
+    CPC 15 – Combinação de Negócios.
+
+    CPC 18 – Investimentos em Coligada, em Controlada e em Empreendimento Controlado
+    em Conjunto.
+
+    CPC 19 – Negócios em Conjunto.
+
+    CPC 28 – Propriedades para Investimento.
+
+    CPC 31 – Ativo Não Circulante Mantido para Venda e Operação Descontinuada.
+
+    CPC 36 – Demonstrações Consolidadas
+
+    CPC 45 – Divulgação de Participações em Outras Entidades.
+
+    CPC 46 – Mensuração do Valor justo.
+
+    BIBLIOGRAFIA COMPLEMENTAR:
+
+    SALOTTI, Bruno Meirelles; LIMA, Gerlando Augusto Sampaio Franco; MURCIA, Fernando
+    Dal-Ri; MALACRIDA, Mara Jane Contrera; PIMENTEL, Renê Coppe (2019). Contabilidade
+    Financeira. 1a ed. São Paulo: Atlas.
+
+    MALACRIDA, Mara Jane Contrera; YAMAMOTO, Marina Mitiyo; PACCEZ, João Domiraci
+    (2019). Fundamentos da Contabilidade - A Contabilidade no Contexto Global. 2a
+    ed. São Paulo: Atlas.
+
+    GORDON, Elizabeth A.; RAEDY, Jana S.; SANNELLA, Alexander J. (2018). Intermediate
+    Accounting. 2a ed. Pearson.
+
+    WAHLEN, James M.; JONES, Jefferson P.; PAGACH, Donald P. (2019). Intermediate
+    Accounting. 3a ed. Cengage Learning'
   course: '1. INVESTIMENTOS
 
     1.1 Propriedades para investimento: conceitos básicos e critérios para reconhecimento
@@ -115,72 +139,84 @@ courses:
 
     5.6 DVA como um instrumento gerencial.
 
-    6. CONTABILIDADE APLICADA AO SETOR PÚBLICO
-
-    6.1 Características das entidades do setor público
-
-    6.2 Objetivos, usuários e escopo das informações contábeis
-
-    6.3 Normas de contabilidade aplicada ao setor público'
+    Instrumentos e Critérios de Avaliação'
   course_name: 'EAC0481 - Contabilidade Intermediária II
 
     Intermediate Accounting II'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: '90328 - Ariovaldo dos Santos
 
     2209375 - Bruno Meirelles Salotti
 
     5859588 - Fernando Dal-Ri Murcia
 
-    3549898 - Patrícia Siqueira Varela
-
     8593894 - Raquel Wille Sarquis
 
     3132692 - Renê Coppe Pimentel
 
+    5918868 - Samantha Valentim Telles
+
     1727872 - Tânia Regina Sordi Relvas'
   lecture_credits: '4'
-  objectives: "APRESENTAÇÃO DA DISCIPLINA:\nA disciplina busca aprofundar os conhecimentos\
-    \ dos alunos na área de contabilidade financeira abordando normas contábeis mais\
-    \ específicas, por meio da discussão de conceitos teóricos e de casos práticos.\
-    \ Especificamente, a disciplina aborda os principais conceitos e critérios contábeis\
-    \ para reconhecimento, mensuração e divulgação de propriedades para investimentos,\
-    \ de investimentos societários em outras entidades e de combinação de negócios,\
-    \ bem como para elaboração das demonstrações contábeis consolidadas e da Demonstração\
-    \ do Valor Adicionado (DVA), além dos critérios para classificação e mensuração\
-    \ de ativos não circulantes mantidos para venda e operações descontinuadas. Adicionalmente,\
-    \ objetiva introduzir aspectos específicos da Contabilidade Aplicada ao Setor\
-    \ Público.\nOBJETIVOS DE APRENDIZAGEM:\nEspera-se que, ao final da disciplina,\
-    \ os alunos estejam aptos a:\n1.\tIdentificar e utilizar o tratamento contábil\
-    \ adequado para reconhecimento, mensuração e divulgação de Propriedades para Investimento\
-    \ (PPI).\n2.\tDistinguir entre os diferentes tipos de investimentos societários\
-    \ (coligadas, negócios em conjunto e controladas) e aplicar os procedimentos contábeis\
-    \ necessários para reconhecimento, mensuração e divulgação de cada um desses tipos\
-    \ de investimentos.\n3.\tAplicar o método de equivalência patrimonial para mensuração\
-    \ dos investimentos societários e avaliar o efeito de transações entre empresas\
-    \ do mesmo grupo econômico no cálculo do resultado de equivalência patrimonial.\n\
-    4.\tIdentificar a existência de investimentos em controladas e entender a importância\
-    \ da elaboração de demonstrações contábeis consolidadas.\n5.\tAvaliar os principais\
-    \ ajustes e eliminações que são necessários para elaboração de demonstrações contábeis\
-    \ consolidadas.\n6.\tDistinguir e descrever as principais formas de reorganização\
-    \ societária (aquisição e alienação de participações societárias, incorporação,\
-    \ fusão e cisão de empresas).\n7.\tEntender a diferença entre combinação de negócios\
-    \ entre entidades sob controle comum e entre partes independentes, bem como identificar\
-    \ as diferenças nos procedimentos contábeis requeridos.\n8.\tAplicar o Método\
-    \ de Aquisição para contabilização de combinação de negócios entre partes independentes,\
-    \ conforme previsto pelo Pronunciamento Técnico CPC 15 (R1) – Combinação de Negócios.\n\
-    9.\tAvaliar os critérios para reconhecimento, mensuração e divulgação de ativos\
-    \ não circulantes classificados como mantidos para venda.\n10.\tAvaliar os critérios\
-    \ para reconhecimento, mensuração e divulgação de operações descontinuadas\n11.\t\
-    Compreender o conceito de valor adicionado e distinguir entre as perspectivas\
-    \ contábil e econômica.\n12.\tElaborar e interpretar a Demonstração do Valor Adicionado\
-    \ (DVA).\n13.\tIdentificar características das entidades do setor público e das\
-    \ transações e eventos que a elas são típicos e que implicam em especificidades\
-    \ quanto ao escopo das informações contábeis, seus usos e usuários."
+  objectives: 'APRESENTAÇÃO DA DISCIPLINA:
+
+    A disciplina busca aprofundar os conhecimentos dos alunos na área de contabilidade
+    financeira abordando normas contábeis mais específicas, por meio da discussão
+    de conceitos teóricos e de casos práticos. Especificamente, a disciplina aborda
+    os principais conceitos e critérios contábeis para reconhecimento, mensuração
+    e divulgação de propriedades para investimentos, de investimentos societários
+    em outras entidades e de combinação de negócios, bem como para elaboração das
+    demonstrações contábeis consolidadas e da Demonstração do Valor Adicionado (DVA),
+    além dos critérios para classificação e mensuração de ativos não circulantes mantidos
+    para venda e operações descontinuadas. Adicionalmente, objetiva introduzir aspectos
+    específicos da Contabilidade Aplicada ao Setor Público.
+
+    OBJETIVOS DE APRENDIZAGEM:
+
+    Espera-se que, ao final da disciplina, os alunos estejam aptos a:
+
+    1. Identificar e utilizar o tratamento contábil adequado para reconhecimento,
+    mensuração e divulgação de Propriedades para Investimento (PPI).
+
+    2. Distinguir entre os diferentes tipos de investimentos societários (coligadas,
+    negócios em conjunto e controladas) e aplicar os procedimentos contábeis necessários
+    para reconhecimento, mensuração e divulgação de cada um desses tipos de investimentos.
+
+    3. Aplicar o método de equivalência patrimonial para mensuração dos investimentos
+    societários e avaliar o efeito de transações entre empresas do mesmo grupo econômico
+    no cálculo do resultado de equivalência patrimonial.
+
+    4. Identificar a existência de investimentos em controladas e entender a importância
+    da elaboração de demonstrações contábeis consolidadas.
+
+    5. Avaliar os principais ajustes e eliminações que são necessários para elaboração
+    de demonstrações contábeis consolidadas.
+
+    6. Distinguir e descrever as principais formas de reorganização societária (aquisição
+    e alienação de participações societárias, incorporação, fusão e cisão de empresas).
+
+    7. Entender a diferença entre combinação de negócios entre entidades sob controle
+    comum e entre partes independentes, bem como identificar as diferenças nos procedimentos
+    contábeis requeridos.
+
+    8. Aplicar o Método de Aquisição para contabilização de combinação de negócios
+    entre partes independentes, conforme previsto pelo Pronunciamento Técnico CPC
+    15 (R1) – Combinação de Negócios.
+
+    9. Avaliar os critérios para reconhecimento, mensuração e divulgação de ativos
+    não circulantes classificados como mantidos para venda.
+
+    10. Avaliar os critérios para reconhecimento, mensuração e divulgação de operações
+    descontinuadas
+
+    11. Compreender o conceito de valor adicionado e distinguir entre as perspectivas
+    contábil e econômica.
+
+    12. Elaborar e interpretar a Demonstração do Valor Adicionado (DVA).'
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20241114070259'
-digest: RDZ4BCODOBGL5O7VREK4JTT4JZRC6CJF
-updated_at: '20241114070259'
-url: https://web.archive.org/web/20241114070259id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0481&codcur=12033&codhab=4
+created_at: '20250920135729'
+digest: XWDLBENWA7PBR5IRLWAUMH6LSUPI7PFJ
+updated_at: '20250920135729'
+url: https://web.archive.org/web/20250920135729id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?codhab=1&sgldis=EAC0481&codcur=12051
