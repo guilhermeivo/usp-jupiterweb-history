@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2025
   assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
     na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
     que 5,0 (cinco) e frequência igual ou superior a 70%.
@@ -104,7 +104,9 @@ courses:
 
     5.2 Riscos emergentes
 
-    5.3 Sistemas de gerenciamento de riscos'
+    5.3 Sistemas de gerenciamento de riscos
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'EAC0413 - Gestão de Riscos, Governança e Compliance
 
     Risk Management, Governance, and Compliance'
@@ -157,7 +159,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20240612225801'
-digest: TWM3GAXBMSF73KT54LVGOC3V3ETGVDXH
-updated_at: '20240612225801'
-url: https://web.archive.org/web/20240612225801id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0413&codcur=12033&codhab=4
+created_at: '20250920170251'
+digest: W6VSLXSNA47N5D4JMAXCWRQ5XRHGGBAY
+updated_at: '20250920170251'
+url: https://web.archive.org/web/20250920170251id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0413&codcur=12051&codhab=1
