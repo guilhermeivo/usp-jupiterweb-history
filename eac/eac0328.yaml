@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2022
+  activation: 01/01/2025
   assessment: 'a) O aluno poderá participar do processo de reavaliação (recuperação)
     na disciplina caso obtenha nota média final maior ou igual a 3,0 (três) e menor
     que 5,0 (cinco) e frequência igual ou superior a 70%.
@@ -116,11 +116,13 @@ courses:
     6.2.3. Definições, conceitos e princípios de identificação, reconhecimento, mensuração
     e desreconhecimento
 
-    6.2.4. Princípios de Apresentação e Divulgação.'
+    6.2.4. Princípios de Apresentação e Divulgação.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'EAC0328 - Contabilidade Avançada
 
     Advanced Accounting'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: '90328 - Ariovaldo dos Santos
 
     8476037 - Eduardo da Silva Flores
@@ -131,7 +133,9 @@ courses:
 
     1364179 - Mara Jane Contrera Malacrida
 
-    8593894 - Raquel Wille Sarquis'
+    8593894 - Raquel Wille Sarquis
+
+    5918868 - Samantha Valentim Telles'
   lecture_credits: '4'
   objectives: 'APRESENTAÇÃO DA DISCIPLINA:
 
@@ -157,8 +161,8 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20241213224510'
-digest: MCPI5ISPULDBWW7E5DNITYBG4AKGOFUX
+created_at: '20250920172348'
+digest: TXSODU2QHUYMMRC6FJ3NCUEJY2ANW4LC
 requirements:
 - course: 'Curso: 12033  Bacharelado em Ciências Contábeis (diurno) - Período ideal:
     6'
@@ -196,5 +200,5 @@ requirements:
   - code: EAC0481
     name: Contabilidade Intermediária II
     type: Requisito fraco
-updated_at: '20241213224510'
-url: https://web.archive.org/web/20241213224510id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=EAC0328
+updated_at: '20250920172348'
+url: https://web.archive.org/web/20250920172348id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?codhab=1&sgldis=EAC0328&codcur=12051
