@@ -21,12 +21,13 @@ courses:
 
     Cartesian coordinates. Vectors. Linear dependence. Basis. Dot product. Vector
     product. Translation and rotation. Lines and planes. Distance and angle. Conics.  Reduced
-    equation of a quadric surface. Polar, cylindrical and spherical coordinates.'
+    equation of a quadric surface. Polar, cylindrical and spherical coordinates.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'SMA0300 - Geometria Analítica
 
     Analytic Geometry'
   deactivation: ''
-  instructors: 5765587 - Paulo Leandro Dattori da Silva
   lecture_credits: '4'
   objectives: 'Visa familiarizar os alunos com a geometria analítica no plano e no
     espaço, com ênfase nos seus aspectos geométricos e suas traduções em coordenadas
@@ -38,7 +39,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20201029111629'
-digest: EQDRNXLY6XRXZJFL7XF6U5PPP6WCCK55
-updated_at: '20241211191347'
-url: https://web.archive.org/web/20241211191347id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0300
+created_at: '20251005040709'
+digest: H2MVMFJEF37NFIFRSD7UTTI7A625OBLJ
+updated_at: '20251005040709'
+url: https://web.archive.org/web/20251005040709id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SMA0300&codcur=55041&codhab=0
