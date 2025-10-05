@@ -1,8 +1,15 @@
 courses:
-  activation: 01/01/2024
-  assessment: 'Realização: Até a primeira semana de aulas do semestre posterior -Critério
-    de Aprovação: NP+(Mrec/2,5), se Mrec > ou =7,5; ou Max {NP,Mrec}, se Mrec < ou
-    = 5,0; ou 5,0, se 5,0 < ou = Mrec < 7,5.( NP=1ª avaliação, Mrec=prova)'
+  activation: 15/07/2024
+  assessment: 'dos projetos pela comunidade participante para verificar se a solução
+    proposta atende a demanda. Avaliação da receptividade e participação da comunidade
+    nos projetos desenvolvidos.
+
+    Aplicação de Conhecimentos Teóricos: Avaliação da capacidade dos alunos de aplicar
+    os conhecimentos adquiridos em sala de aula para desenvolver soluções para a comunidade
+    atendida.
+
+    Produção Acadêmica: Qualidade e relevância dos relatórios, projetos e materiais
+    educativos produzidos pelos alunos como resultado da atividade extensionista.'
   bibliography: 'Complementar:
 
     - HAREL, D. Algorithmics – The Spirit of Computing. Addison-Wesley, 2. ed., 1992.
@@ -26,7 +33,14 @@ courses:
     4. ed., 2001, Sagra Luzzatto
 
     - TOSCANI & VELOSO Complexidade de Algoritmos, Série Livros Didáticos 13, IF UFRGS,
-    1. ed., 2001, Sagra Luzzatto.'
+    1. ed., 2001, Sagra Luzzatto.
+
+    Atividades de Extensão
+
+    Grupo social alvo da atividade
+
+    Comunidade externa (alunos de escola pública, pessoas que pretendem ingressar
+    na universidade e público em geral).'
   course: 'Linguagens Regulares: Autômatos finitos determinísticos e não-determinísticos;
     expressões regulares; técnicas para identificar e descrever linguagens regulares;
     técnicas para mostrar que uma linguagem não é regular; propriedades de tais linguagens.
@@ -39,13 +53,6 @@ courses:
     Limitações sobre a nossa habilidade de computar; problemas indecidíveis. Teoria
     de Complexidade: Complexidade de Tempo, Complexidade de Espaço, Intratabilidade.
 
-    Atividades de Extensão: Produção de vídeos disponibilizados publicamente sobre
-    a história da ciência e, considerando a grande relevância da Informática no mundo,
-    sobre questões que possam ser de interesse da sociedade. Também podem ser promovidos
-    seminários abertos sobre esses assuntos.
-
-    Carga Horária: 10 horas.
-
     Regular Languages: deterministic and non-deterministic finite automata, regular
     expressions, techniques to identify and describe regular languages, techniques
     to show that a language is not regular, properties of such languages. Context-Free
@@ -55,7 +62,9 @@ courses:
     Turing machines, basic definitions and its relation to the notion of an algorithm/program.
     Power of Turing Machines and the Church-Turing Thesis. Indecibilidade: Universal
     Turing Machines; limitations on our ability to compute; undecidable problems.
-    Complexity Theory: Time Complexity, Space Complexity, intractability.'
+    Complexity Theory: Time Complexity, Space Complexity, intractability.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'SCC0205 - Teoria da Computação e Linguagens Formais
 
     Theory of Computation and Formal Languages'
@@ -66,22 +75,31 @@ courses:
 
     3761610 - Thiago Alexandre Salgueiro Pardo'
   lecture_credits: '4'
-  objectives: 'Dar ao aluno noção formal de algoritmo, computabilidade e do problema
-    de decisão, de modo a deixá-lo consciente das limitações da ciência da computação.
-    Aparelhá-lo com as ferramentas de modo a habilitá-lo a melhor enfrentar a solução
-    de problemas com o auxílio do computador. Dar subsídios para o aluno poder definir
-    linguagens de programação, isto é, sua sintaxe e semântica, através do estudo
-    das gramáticas formais.
+  objectives: 'da atividade
 
-    Give the students the formal notion of algorithm, computability, and decision
-    problem, in order to make them aware of the limitations of computer science. Provide
-    the tools to enable them to better address the solution of problems with the help
-    of computer. Assist students in defining programming languages, ie, its syntax
-    and semantics, through the study of formal grammars.'
+    Promover a interação entre a universidade e sociedade, com a participação dos
+    alunos, buscando o comprometimento da comunidade universitária com interesses
+    e necessidades do grupo alvo.
+
+    Descrição da atividade
+
+    Produção de vídeos disponibilizados publicamente sobre a história da ciência (como
+    a vida e as contribuições científicas de Alan Turing, Stephen Cook e Noam Chomsky)
+    e, considerando a grande relevância da Informática no mundo, sobre questões que
+    possam ser de interesse da sociedade (como o que pode e o que não pode ser resolvido
+    por computador e os tipos de problemas computacionais que existem). Promoção de
+
+    seminários abertos sobre esses assuntos.
+
+    Indicadores de avaliação da atividade'
   practical_credits: '2'
-  total_workload: 120 h
+  total_workload: '120 h
+
+    Carga Horária de Extensão:
+
+    10 h'
   type: Semestral
-created_at: '20240414143410'
-digest: H56VRAERJM7WKPBBWLUGIWHVYRPLLBCR
-updated_at: '20240414143410'
-url: https://web.archive.org/web/20240414143410id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SCC0205&amp
+created_at: '20251005040654'
+digest: CHACCY47WSE2CF2U6FHBJNA7LGZGIGUT
+updated_at: '20251005040654'
+url: https://web.archive.org/web/20251005040654id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SCC0205&codcur=55041&codhab=0
