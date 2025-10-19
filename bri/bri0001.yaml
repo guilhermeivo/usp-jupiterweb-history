@@ -1,18 +1,76 @@
 courses:
-  activation: 15/07/2023
+  activation: 15/07/2025
   assessment: Alunos com nota entre 3,0 e 4,9 e frequência mínima de 70% (setenta
     por cento) poderão participar da recuperação.
-  bibliography: Será indicada em função dos temas das conferências.
-  course: 'A disciplina oferece ao aluno no segundo semestre letivo um tema estruturante
+  bibliography: 'ACEMOGLU, Daron & ROBINSON, James A. Por que as Nações Fracassam:
+    As Origens do Poder, da Prosperidade e da Pobreza. Rio de Janeiro, Intrínseca,
+    2022.
+
+    BARRETO, Fernando de Mello. Diplomacia: Tradições, Mudanças e Desafios. Versões
+    em português e inglês (Diplomacy: Traditions, Changes and Challenges). Brasília:
+    Fundação Alexandre de Gusmão (Funag), 2024. Disponíveis em: https://funag.gov.br/bibliotecanova/produto/1-1294
+    https://funag.gov.br/biblioteca-nova/produto/1-1295
+
+    CÁTEDRA JOSÉ BONIFÁCIO. Coleção de livros publicados anualmente desde 2013 pelo
+    Centro Ibero-Americano da Universidade de São Paulo (Ciba/USP). São Paulo: Editora
+    da Universidade de São Paulo (Edusp). Disponíveis em:
+
+    https://www.livrosabertos.edusp.usp.br/edusp/catalog/category/relacoes-internacionais
+
+    HERZ, Mônica & HOFFMANN, Andrea Ribeiro. Organizações Internacionais: Histórias
+    e Práticas. Rio de Janeiro: Elsevier, 2004.
+
+    HOBSBAWM, Eric. A Era das Revoluções: 1789-1848. Rio de Janeiro: Paz e Terra,
+    2012.
+
+    ____. A Era dos Impérios: 1875-1914. Rio de Janeiro: Paz e Terra, 2012.
+
+    ____. Era dos Extremos: O Breve Século XX, 1914-1991. São Paulo, Companhia das
+    Letras, 1995.
+
+    HUNTINGTON, Samuel P. O Choque de Civilizações e a Recomposição da Ordem Mundial.
+    Rio
+
+    de Janeiro: Objetiva, 1997.
+
+    KISSINGER, Henry. Diplomacia. Rio de Janeiro, Francisco Alves, 2001.
+
+    LAFER, Celso. Relações Internacionais, Política Externa e Diplomacia: Pensamento
+    e Ação. Brasília: Fundação Alexandre de Gusmão (Funag), 2018, 2 vols. Disponíveis
+    em: https://funag.gov.br/biblioteca/download/relacoes-internacionais-politica-externadiplomacia-brasileira-volume-1.pdf
+    https://funag.gov.br/biblioteca/download/relacoesinternacionais-politica-externa-diplomacia-brasileira-volume-2.pdf
+
+    MARCOVITCH, Jacques (org.). Sérgio Vieira de Mello: Pensamento e Memória. São
+    Paulo: Edusp/Saraiva, 2004.
+
+    ____. & DALLARI, Pedro B. A. Relações Internacionais de Âmbito Subnacional: A
+    Experiência de Estados e Municípios no Brasil. Universidade de São Paulo, Instituto
+    de Relações Internacionais, 2014. Disponível em: https://www.livrosabertos.abcd.usp.br/portaldelivrosUSP/catalog/view/266/239/1062
+
+    MORGENTHAU, Hans. A Política entre as Nações: A Luta pelo Poder e pela Paz. Brasília:
+    Fundação Alexandre de Gusmão (Funag), 2003. Disponível em: https://funag.gov.br/loja/download/0179_politica_entre_as_nacoes.pdf
+
+    SCHWARCZ, Lilia Moritz & STARLING, Heloisa Murgel. Brasil: Uma Biografia. São
+    Paulo:
+
+    Companhia das Letras, 2015.'
+  course: 'A disciplina ministrada no segundo semestre letivo analisa um tema estruturante
     e relevante para as relações internacionais na perspectiva brasileira. Cada tema
     é desenvolvido por meio de uma abordagem conceitual e de encontros com profissionais
-    de reconhecido talento e competência que têm se destacado no campo das relações
-    internacionais. A origem institucional diversificada dos expositores convidados
-    permitirá ao aluno o contato com uma diversidade de referências de tempo e valores.
-    Para registro, os temas abordados nos anos anteriores foram: O Brasil e a Cooperação
-    Internacional (2011), O Brasil na América do Sul (2012) e Relações Internacionais
-    nos Estados e Municípios Brasileiros (2013). Relações Internacionais e  Empresas
-    Transnacionais (2014).'
+    de reconhecida competência que têm se destacado no campo das relações internacionais.
+    A origem institucional diversificada dos expositores convidados permite ao aluno
+    o contato com uma diversidade de referências de tempo e valores. Os temas abordados
+    em anos anteriores foram: O Brasil e a Cooperação Internacional (2011); O Brasil
+    na América do Sul (2012); Relações Internacionais nos Estados e Municípios Brasileiros
+    (2013); e “Relações Internacionais e Empresas Transnacionais” (2014). Relações
+    internacionais e organizações não-governamentais (2015); Entidades Multilaterais
+    e Relações Internacionais (2016); Tendências e Riscos Globais (2017); Desafios
+    e tendências no mundo em transformação (2018,2021); Tendências Globais: rupturas
+    e desafios (2019). Relações Internacionais na construção da nova era (2020) Relações
+    Internacionais no mundo em transformação (2022,2023) Desafios geopolíticos rumo
+    a nova era em construção (2024).
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'BRI0001 - Temas e Prática em Relações Internacionais
 
     Themes and Pratice in International Relations'
@@ -21,20 +79,21 @@ courses:
 
     1518253 - Pedro Bohomoletz de Abreu Dallari'
   lecture_credits: '2'
-  objectives: A disciplina consiste num projeto acadêmico sobre temas relacionados
-    às Relações Internacionais oferecendo ao aluno possibilidades de aplicação dos
-    conhecimentos adquiridos no curso. Além disso, a disciplina "Temas e Prática em
-    Relações Internacionais" esta estruturada para induzir o aluno a pensar no seu
-    projeto de vida como cidadão e profissional. Como cidadão, acompanhando com maior
-    profundidade e posicionando-se criticamente quanto à evolução das relações internacionais.
-    A percepção de um mesmo fato sob perspectivas distintas, às vezes opostas, desenvolve
-    este posicionamento crítico.  Como futuro profissional identificando, no convívio
-    com o outro, suas próprias habilidades e atitudes a serem valorizadas, assim como
-    as competências a serem desenvolvidas à luz de sua visão de futuro.
+  objectives: '"Temas e Prática em Relações Internacionais" consiste num projeto acadêmico
+    sobre a prática das Relações Internacionais. A disciplina tem por objetivo apresentar
+    e discutir uma análise das tendências mundiais que marcam o contexto internacional.
+    Em seguida, oferece aos estudantes alternativas de aplicação dos conhecimentos
+    adquiridos para induzir o pensar no seu projeto de vida como cidadão e profissional.
+    Como cidadão, acompanhando com maior profundidade e posicionando-se criticamente
+    quanto à evolução das relações internacionais. A percepção de um mesmo fato sob
+    perspectivas distintas, às vezes opostas, desenvolve este posicionamento crítico.
+    Como futuro profissional, identificando, no convívio com o outro, suas próprias
+    habilidades e atitudes a serem valorizadas, assim como as competências a serem
+    desenvolvidas à luz de sua visão de futuro.'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20240308155241'
-digest: 4S53GAXA67MSOL3VH5Z3LKOQU2MI3MEO
-updated_at: '20240308155241'
-url: https://web.archive.org/web/20240308155241id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?codcur=1050&codhab=104&sgldis=BRI0001
+created_at: '20251019051901'
+digest: YWC6NFBXCOYRYRB4ZHUN3Z5HTUFROG6N
+updated_at: '20251019051901'
+url: https://web.archive.org/web/20251019051901id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=BRI0001&codcur=87003&codhab=3
