@@ -86,7 +86,7 @@ courses:
     \ controles internos\n3.6\tAmostragem\n3.7\tTestes de controles com CAATs\n3.8\t\
     Diferenciação dos trabalhos dos auditores externos e internos e interação com\
     \ trabalhos de auditores internos\n3.9\tDeterminação do risco residual\n3.10\t\
-    Comunicações sobre controles internos"
+    Comunicações sobre controles internos\nInstrumentos e Critérios de Avaliação"
   course_name: 'EAC0401 - Auditoria I
 
     Auditing I'
@@ -138,8 +138,8 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20240815144256'
-digest: AB2DWZZ47VQQZWIA7LBAPDGOEJNKYPNR
+created_at: '20251027005413'
+digest: RAPAALAO6TDQRL6I2UP6AB2FONIVI3FS
 requirements:
 - course: 'Curso: 12033  Bacharelado em Ciências Contábeis (diurno) - Período ideal:
     5'
@@ -153,5 +153,5 @@ requirements:
   - code: EAC0481
     name: Contabilidade Intermediária II
     type: Requisito fraco
-updated_at: '20241110094235'
-url: https://web.archive.org/web/20241110094235id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0401&codcur=12033&codhab=4
+updated_at: '20251027005413'
+url: https://web.archive.org/web/20251027005413id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EAC0401&codcur=12033&codhab=1
