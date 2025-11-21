@@ -5,11 +5,9 @@ courses:
     A média final após a recuperação será a média aritmética da nota da avaliação
     final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
     + média da recuperação)/2].'
-  bibliography: 'Básica
-
-    Para cada aula, o professor responsável enviará por email ou por plataforma digital
-    compartilhada a bibliografia relacionada ao tema da aula, que será complementar
-    ao conteúdo abordado nas aulas teóricas e práticas.
+  bibliography: 'Para cada aula, o professor responsável enviará por email ou por
+    plataforma digital compartilhada a bibliografia relacionada ao tema da aula, que
+    será complementar ao conteúdo abordado nas aulas teóricas e práticas.
 
     Livros Básicos recomendados:
 
@@ -20,7 +18,13 @@ courses:
     Lea and Febiger, Philadelphia, 7ed, 1982.
 
     UENO, H., & GUTIERRES, V.C. Manual para diagnóstico das helmintoses de ruminantes.
-    Japan International Cooperation Agency. Toquio, Japão, 1994.'
+    Japan International Cooperation Agency. Toquio, Japão, 1994.
+
+    Atividades de Extensão
+
+    Grupo social alvo da atividade
+
+    Pequenos produtores rurais'
   course: 'Coccidiose dos ruminantes. Coccidiose de cães e gatos. Criptosporidiose.
     Giardiase-Tricomonose. Tristeza parasitária bovina. Hemoparasitoses de equinos.
     Hemoparasitoses de cães e gatos. Tripanossomoses bovina e equina. Ixodídeos de
@@ -90,13 +94,13 @@ courses:
 
     17 h'
   type: Semestral
-created_at: '20250615180832'
-digest: XGUQ3ZS3GVEFXVLKFU5F26ZCZNWGGWQZ
+created_at: '20251121110728'
+digest: WX2Y77UONHZNPXZ5YSSWD45MJYXUFRQ4
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
   requirements:
   - code: BMP0222
     name: Parasitologia Veterinária
     type: Requisito
-updated_at: '20250615180832'
-url: https://web.archive.org/web/20250615180832id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VPS3202
+updated_at: '20251121110728'
+url: https://web.archive.org/web/20251121110728id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3202&verdis=3
