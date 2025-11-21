@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2024
+  activation: 01/01/2025
   assessment: Relatorio de atividades.
   bibliography: 'CAMARGO, M.X.; CHIEFFI, A , Ezoognósia, São Paulo, Instituto de zootecnia,
     1971.
@@ -52,13 +52,16 @@ courses:
     \ e sua inter-relação com o exercício profissional e a realidade brasileira, no\
     \ contexto das criações de:\n•\tAves / Coelhos\n•\tBovinos de Corte\n•\tBovinos\
     \ de Leite\n•\tCaprinos / Ovinos\n•\tEquinos\n•\tSuínos\n•\tCães e Gatos\nAulas\
-    \ de Campo – Campus da USP “Fernando Costa” - Pirassununga"
+    \ de Campo – Campus da USP “Fernando Costa” - Pirassununga\nInstrumentos e Critérios\
+    \ de Avaliação"
   course_name: 'VNP0135 - Introdução ao Estudo da Medicina Veterinária em Sistemas
     de Criações
 
     Introduction to the Study of Veterinary Medicine in Production Systems'
-  deactivation: 31/12/2024
-  instructors: 9124662 - Ricardo Vieira Ventura
+  deactivation: ''
+  instructors: '10649722 - Cesar Augusto Pospissil Garbossa
+
+    9124662 - Ricardo Vieira Ventura'
   lecture_credits: '3'
   objectives: Oferecer ao acadêmico ingressante, conhecimentos iniciais ligados aos
     diferentes sistemas de criação dos animais, através de atividades de rotina específicas
@@ -67,7 +70,7 @@ courses:
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20241211000423'
-digest: DXLPSXKYNXWCDSO5JN7ZRNHUPOWEYCAG
-updated_at: '20241211000423'
-url: https://web.archive.org/web/20241211000423id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP0135&codcur=10012&codhab=0
+created_at: '20251121142935'
+digest: JVWFROKTXKN7BFMQDHTYJ7OLRAGV3US4
+updated_at: '20251121142935'
+url: https://web.archive.org/web/20251121142935id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP0135&verdis=5
