@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2019
+  activation: 01/01/2025
   assessment: 'A recuperação constará de uma única prova sendo que a média da avaliação
     final da disciplina entrará no computo da nota da recuperação. Desta maneira,
     a média final, após a recuperação, constará: média da avaliação final + média
@@ -131,11 +131,13 @@ courses:
 
     Introdução; Montagem do Arquivo de Dados; Modelo apropriado ao Delineamento; Escolha
     do Procedimento apropriado; Gravação dos Arquivos de Saída (output’s) ;Interpretação
-    dos Resultados das Análises.'
+    dos Resultados das Análises.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VNP3125 - Métodos Estatísticos aplicados à Nutrição e Produção Animal
 
     Statistical Methods applied to Animal Nutrition and Production'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: 3571174 - Júlio César de Carvalho Balieiro
   lecture_credits: '2'
   objectives: Auxiliar na capacitação teórica e prática dos alunos, visando o desenvolvimento
@@ -144,13 +146,13 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20241211001110'
-digest: WHI4WBQUN22UBOUHK6ICO6AYLQL7P5UN
+created_at: '20251121094123'
+digest: LETRJRDCFVMYC65RFGGXMYSB4P5VGR3A
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 5'
   requirements:
   - code: VPS1201
     name: Métodos Quantitativos em Medicina Veterinária
     type: Requisito
-updated_at: '20241211001110'
-url: https://web.archive.org/web/20241211001110id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3125&codcur=10012&codhab=0
+updated_at: '20251121094123'
+url: https://web.archive.org/web/20251121094123id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3125&verdis=2
