@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2021
+  activation: 01/01/2025
   assessment: 'A recuperação constará de duas provas sendo que a média da avaliação
     final da disciplina entrará no computo da recuperação. Desta maneira, a média
     final, após a recuperação, constará: média da avaliação final + média da recuperação
@@ -77,11 +77,11 @@ courses:
     \ para o país;\n2-\tFunções econômicas e distribuição pelo país;\n3-\tInstalações\
     \ e equipamentos;\n4-\tCuidados durante a criação;\n5-\tProdução de lã, carne\
     \ e peles;\n6-\tEscrituração zootécnica.\nViagens Técnicas\nVisita a propriedades\
-    \ particulares."
+    \ particulares.\nInstrumentos e Critérios de Avaliação"
   course_name: 'VNP3106 - Produção de Búfalos, Caprinos e Ovinos
 
     Buffaloes, Sheep and Goat Production'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: 9124662 - Ricardo Vieira Ventura
   lecture_credits: '2'
   objectives: Demonstrar aos alunos os conceitos gerais relacionados à produção de
@@ -91,7 +91,7 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20241211001509'
-digest: MYA7HWEM3GCZBMRDPY3BIVINGRKNLKNP
-updated_at: '20241211001509'
-url: https://web.archive.org/web/20241211001509id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3106&codcur=10012&codhab=0
+created_at: '20251121070932'
+digest: OQTZXTKL6Z7CQ7NLCEUD2O3P22P7ZI66
+updated_at: '20251121070932'
+url: https://web.archive.org/web/20251121070932id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3106&verdis=3
