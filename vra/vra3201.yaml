@@ -6,11 +6,9 @@ courses:
 
     2 - A média da avaliação final da disciplina será avaliada levando em consideração:
     média final = média da avaliação final + média da recuperação ÷ 2.'
-  bibliography: 'Básica
-
-    BARUSELLI, P.S., MADUREIRA, E.H. (eds) Controle farmacológico do ciclo estral
-    em ruminantes. São Paulo: Fundação da Faculdade de Medicina Veterinária e Zootecnia/USP,
-    2000. 332p.
+  bibliography: 'BARUSELLI, P.S., MADUREIRA, E.H. (eds) Controle farmacológico do
+    ciclo estral em ruminantes. São Paulo: Fundação da Faculdade de Medicina Veterinária
+    e Zootecnia/USP, 2000. 332p.
 
     GONÇALVES, P. B. D.; FIGUEIREDO, J. R.; FREITAS, V. J. F. Biotécnicas aplicadas
     à Reprodução Animal. Varela: São Paulo, 2002.
@@ -35,20 +33,25 @@ courses:
     (Theriogenogia). Hemisferio Sur: Buenos Aires, 1986.
 
     YOUNGQUIST, R. S. Currents Therapy in Large Animal Theriogenology. Saunders: Philadelphia,
-    1997, 898p.'
+    1997, 898p.
+
+    Atividades de Extensão
+
+    Grupo social alvo da atividade
+
+    Associações de produtores, cooperativas, funcionários e profissionais de empresas
+    ligadas aos setores produtivo e medicina veterinária.'
   course: 'Curso Teórico: Cálculo e avaliação dos índices reprodutivos; Técnicas de
     sincronização do ciclo estral: impacto no manejo reprodutivo; Nutrição e reprodução;
     Manejo reprodutivo em gado de corte; Manejo reprodutivo em gado de leite; Manejo
     reprodutivo em bubalinos; Manejo reprodutivo em ovinos e caprinos; Manejo reprodutivo
     de equinos; Manejo reprodutivo de aves; Manejo reprodutivo de cães; Manejo reprodutivo
     em suínos. Curso Prático: O ensino prático da Disciplina constará de visitas a
-    estabelecimentos agropecuários para avaliação do manejo reprodutivo.
-
-    Instrumentos e Critérios de Avaliação'
+    estabelecimentos agropecuários para avaliação do manejo reprodutivo.'
   course_name: 'VRA3201 - Manejo Reprodutivo em Animais Domésticos
 
     Reproductive Management in Farm Animals'
-  deactivation: ''
+  deactivation: 31/12/2025
   instructors: '1492328 - Pietro Sampaio Baruselli
 
     3399196 - Ricardo José Garcia Pereira'
@@ -86,8 +89,8 @@ courses:
 
     3 h'
   type: Semestral
-created_at: '20250615181433'
-digest: CHMAXCWTJJG2CSAA6NJRI3Q33VK2BN6E
+created_at: '20251121095650'
+digest: JSAQSZ7BBZBCYH6TCO2LIJ3SAG662GRD
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
   requirements:
@@ -127,5 +130,5 @@ requirements:
   - code: VNP3109
     name: Melhoramento Animal
     type: Requisito
-updated_at: '20250615181433'
-url: https://web.archive.org/web/20250615181433id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VRA3201
+updated_at: '20251121095650'
+url: https://web.archive.org/web/20251121095650id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA3201&verdis=4
