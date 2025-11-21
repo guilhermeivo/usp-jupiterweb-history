@@ -5,16 +5,22 @@ courses:
     A média final após a recuperação será a média aritmética da nota da avaliação
     final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
     + média da recuperação)/2].'
-  bibliography: "Básica\n1.\tCarlton WW, McGavin MD Patologia veterinária especial\
-    \ de Thomson. 2ed. Artmed, Porto Alegre, 1998, 672p.\n2.\tGross, TJ, Ihrke, PJ;,\
-    \ Walder, EJ, Affolter, VK Skin diseases of the dog and cat. Clinical amd Histopathologic\
+  bibliography: "1.\tCarlton WW, McGavin MD Patologia veterinária especial de Thomson.\
+    \ 2ed. Artmed, Porto Alegre, 1998, 672p.\n2.\tGross, TJ, Ihrke, PJ;, Walder, EJ,\
+    \ Affolter, VK Skin diseases of the dog and cat. Clinical amd Histopathologic\
     \ diagnosis. 2nd Edition. Blackwell Publishing, 2005. 932p.\n3.\tJones, TC, Hunt\
     \ RD, & King NW Veterinary Pathology. 6ed. Lippincott Williams & Wilkins, Philadelphia,\
     \ EUA, 1997, 1392p.\n4.\tJones, TC, Hunt RD, & King NW Patologia Veterinária.\
     \ Tradução 6ed. Editora Manole.\n5.\tJUBB, KV; KENNEDY, PC.; PALMER, N. Pathology\
     \ of domestic animals. 5.ed. Vols. 1,2 e 3. 2007.\n6.\tMcGavin, MD, Zachary, JF\
     \ Bases da Patologia Veterinária. Tradução da 5ed. Mosby Elsevier, 2013.\n7.\t\
-    Santos, RL, Alessi, AC Patologia Veterinária. Editora Roca, São Paulo, 2011. 892p."
+    Santos, RL, Alessi, AC Patologia Veterinária. Editora Roca, São Paulo, 2011. 892p.\n\
+    Atividades de Extensão\nGrupo social alvo da atividade\nResponsáveis por animais\
+    \ que vieram a óbito no HOVET-USP, interessados externos que encaminharam cadáveres\
+    \ para serem avaliados pelo Serviço de Patologia Animal da nossa Unidade, médicos\
+    \ veterinários interessados no desfecho do caso de animais por eles encaminhados,\
+    \ representantes de órgãos públicos com interesse (tais como secretarias de saúde,\
+    \ centros de controles de zoonoses, delegados e outros), dentre outros possíveis."
   course: "O processo de ensino e aprendizagem da disciplina abordará a fisiopatologia\
     \ e as grandes classes de processos patológicos com suas respectivas alterações\
     \ anatomopatológicas que acometem os órgãos e sistemas dos animais domésticos.\n\
@@ -32,7 +38,9 @@ courses:
   deactivation: ''
   instructors: '9128068 - Claudia Momo
 
-    1122119 - Frederico Azevedo da Costa Pinto'
+    1122119 - Frederico Azevedo da Costa Pinto
+
+    5153772 - Juliana Mariotti Guerra'
   lecture_credits: '7'
   objectives: 'da atividade
 
@@ -69,13 +77,13 @@ courses:
 
     16 h'
   type: Semestral
-created_at: '20250615180606'
-digest: 2PWR7KQUF7DHRXZDD6MJXPNXK425SDPO
+created_at: '20251121183143'
+digest: AOFXULB6AT2NUIJHD5WSJZPAY2T64NPZ
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 4'
   requirements:
   - code: VPT2101
     name: Patologia Geral
     type: Requisito
-updated_at: '20250615180711'
-url: https://web.archive.org/web/20250615180711id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VPT2202
+updated_at: '20251121183143'
+url: https://web.archive.org/web/20251121183143id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=3&sgldis=VPT2202
