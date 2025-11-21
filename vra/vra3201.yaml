@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2025
+  activation: 01/01/2026
   assessment: '1 - A recuperação constará de duas provas a serem realizadas até uma
     semana antes do término do período de retificação de matrícula (estabelecido anualmente
     pelo Calendário USP)
@@ -35,23 +35,36 @@ courses:
     YOUNGQUIST, R. S. Currents Therapy in Large Animal Theriogenology. Saunders: Philadelphia,
     1997, 898p.
 
+    Viagem Didática
+
+    É estruturante?
+
+    Não
+
+    Atividades a serem desenvolvidas
+
+    Aula teórico-prática em propriedades rurais para avaliar a eficiência das técnicas
+    de manejo reprodutivo
+
     Atividades de Extensão
 
     Grupo social alvo da atividade
 
     Associações de produtores, cooperativas, funcionários e profissionais de empresas
     ligadas aos setores produtivo e medicina veterinária.'
-  course: 'Curso Teórico: Cálculo e avaliação dos índices reprodutivos; Técnicas de
-    sincronização do ciclo estral: impacto no manejo reprodutivo; Nutrição e reprodução;
+  course: 'Curso Teórico- Cálculo e avaliação dos índices reprodutivos; Técnicas de
+    sincronização do ciclo estral; Impacto no manejo reprodutivo; Nutrição e reprodução;
     Manejo reprodutivo em gado de corte; Manejo reprodutivo em gado de leite; Manejo
     reprodutivo em bubalinos; Manejo reprodutivo em ovinos e caprinos; Manejo reprodutivo
     de equinos; Manejo reprodutivo de aves; Manejo reprodutivo de cães; Manejo reprodutivo
-    em suínos. Curso Prático: O ensino prático da Disciplina constará de visitas a
-    estabelecimentos agropecuários para avaliação do manejo reprodutivo.'
+    em suínos.
+
+    Curso Prático: O ensino prático da Disciplina constará de visitas a estabelecimentos
+    agropecuários para avaliação do manejo reprodutivo.'
   course_name: 'VRA3201 - Manejo Reprodutivo em Animais Domésticos
 
     Reproductive Management in Farm Animals'
-  deactivation: 31/12/2025
+  deactivation: ''
   instructors: '1492328 - Pietro Sampaio Baruselli
 
     3399196 - Ricardo José Garcia Pereira'
@@ -89,8 +102,8 @@ courses:
 
     3 h'
   type: Semestral
-created_at: '20251121095650'
-digest: JSAQSZ7BBZBCYH6TCO2LIJ3SAG662GRD
+created_at: '20251121105654'
+digest: QEXNND2QHA5NI4YM74SN2VUDBJKVFFWG
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
   requirements:
@@ -130,5 +143,5 @@ requirements:
   - code: VNP3109
     name: Melhoramento Animal
     type: Requisito
-updated_at: '20251121095650'
-url: https://web.archive.org/web/20251121095650id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA3201&verdis=4
+updated_at: '20251121105654'
+url: https://web.archive.org/web/20251121105654id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=5&sgldis=VRA3201
