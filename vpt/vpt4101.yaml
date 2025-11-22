@@ -1,72 +1,85 @@
 courses:
-  activation: 01/01/2020
+  activation: 01/01/2024
   assessment: 'A recuperação constará de duas provas a serem realizadas até uma semana
-    antes do término
+    antes do término do período de retificação de matrícula (estabelecido anualmente
+    pelo Calendário USP). A média da avaliação final da disciplina entrará no computo
+    da recuperação, sendo: média = média da avaliação final + média da recuperação
+    ÷ 2.'
+  bibliography: 'Catozo, R.G.; Paula, J.F.; Lima, L.R.; Spinosa, H.S.  Intoxicação
+    em gatos atendidos em um hospital veterinário universitário da cidade de São Paulo:
+    análise retrospectiva de 2010 a 2021. Revista de Educação Continuada em Medicina
+    Veterinária e Zootecnia do CRMV-SP, v. 20, n. 1, e38329, p. 1-10, 2022. DOI: https://doi.org/10.36440/recmvz.v20i1.38329.
 
-    do período de retificação de matrícula (estabelecido anualmente pelo Calendário
-    USP).
+    De Paula, J.F; Spinosa, H.S; Catozo, R,G.; Lima, L,R.; Baldini, B.P. Estudo retrospectivo
+    de casos suspeitos de intoxicação em cães atendidos em um hospital veterinário
+    universitário de São Paulo no período de 2010 a 2021. Archives of Veterinary Science,
+    v.27, n. 3, p. 1-9, 2022.  http://dx.doi.org/10.5380/avs.v27i3.86608.
 
-    A média da avaliação final da disciplina entrará no computo da recuperação, sendo:
-    média =
-
-    média da avaliação final + média da recuperação ÷ 2.'
-  bibliography: 'Andrade-Filho, A; Campolina, D.; Dias, M.B. Toxicologia na prática
-    clínica. Belo Horizonte, Folium, 2001.
-
-    Cardoso, J.L.C.; França, F.O.S.; Wen, F.H.; Málaque, C.M.S.; Haddad Jr., V. Animais
-    peçonhentos no
-
-    Brasil. Biologia, clínica e terapêutica dos acidentes. São Paulo, Savier-FAPESP,
-    2003.
-
-    Fowler, M.E. Plant poisoning in small companion animals. St. Louis, Ralston Purina
-    Co, 1981.
-
-    Gupta, R.C. Veterinary toxicology: basic and clinical principles. New York, Elsevier,
-    2007.
+    Gupta, R.C. Veterinary toxicology: basic and clinical principles. 3d. New York,
+    Elsevier, 2018.
 
     Hayes, A. W.; Kruger, C.L. Principles and methods of toxicology. 6 ed. Boca Raton,
     CRC Press, 2014.
 
-    Klassen, C.D. Toxicology: the basic science of poisonous. 8ª ed., New York, MacMillan,
-    2013.
+    Klassen, C.D. Toxicology: the basic science of poisonous. 9ª ed., New York, MacMillan,
+    2019.
 
-    Larini, L. Toxicologia dos praguicidas. São Paulo, Editora Manole, 1999.
+    Lauri, L.S.; Górniak, S.L. Plantas ornamentais e alimentos de origem vegetal tóxicos
+    para animais de companhia: um guia para o médico-veterinário. São Paulo: Troféu,
+    2021.
+
+    Monaco, L.M.; Meireles, F.C.; Abdullatif, M.T.G.V. Animais venenosos: serpentes,
+    anfíbios, aranhas, escorpiões, insetos e lacraias. 2.ed.rev.ampl. – São Paulo:
+    Instituto Butantan, 2017. (https://publicacoeseducativas.butantan.gov.br/web/animais-venenosos/pages/pdf/animais_venenosos.pdf)
 
     Oga, S.; Camargo, M.M.A.; Batistuzzo, J.A.O. Fundamentos de Toxicologia. São Paulo,
     Atheneu, 2014.
 
     Spinosa, H.S.; Górniak, S.L.; Palermo-Neto, J. Toxicologia aplicada à Medicina
-    Veterinária. Barueri,
+    Veterinária. 2.ed. Barueri, Manole, 2020.
 
-    Manole, 2008.
+    Tokarnia, C.H.; Brito, M.F.; Barbosa, J.D.; Peixoto, P.V.; Dobereiner, J. Plantas
+    toxicas do Brasil para animais de produção. 2.ed. Rio de Janeiro, Helianthus,
+    2012.
 
-    Tokarnia, C.H.; Dobereiner, J.; Peixoto, P.V. Plantas tóxicas do Brasil. Rio de
-    janeiro, Helianthus, 2000'
+    Waldvogel, J.F.; Lauri, L.S.; Górniak, S.L. Plantas ornamentais e alimentos tóxicos
+    para animais de companhia. Boletim Apamvet, v. 13, n. 2, p. 9-12, 2022.'
   course: 'Introdução à toxicologia veterinária: aspectos históricos e conceitos.
     Toxicocinética: vias de exposição, absorção, distribuição, biotransformação e
-    eliminação dos agentes tóxicos. Toxicodinâmica:mecanismos de ação dos agentes
+    eliminação dos agentes tóxicos. Toxicodinâmica: mecanismos de ação dos agentes
     tóxicos, relação concentração/dose-efeito nocivo. Avaliação da toxicidade. Diagnóstico
     das intoxicações e noções de toxicologia forense. Conduta de urgência nas intoxicações.
     Toxicologia do desenvolvimento. Plantas tóxicas ornamentais e de interesse agropecuário.
-    Praguicidas: organoclorados e piretróides, organofosforados e carbamatos, herbicidas,acaricidas,
-    fungicidas e raticidas. Toxicologia dos medicamentos. Intoxicação por metais.
-    Intoxicação por produtos domissanitários. Imunotoxicologia. Micotoxicoses. Zootoxinas.
-    Toxicologia forense. Resíduos de substâncias químicas em produtos de origem animal.'
+    Praguicidas: organoclorados e piretróides, organofosforados e carbamatos, herbicidas,
+    acaricidas, fungicidas e raticidas. Toxicologia dos medicamentos. Intoxicação
+    por metais. Intoxicação por produtos domissanitários. Imunotoxicologia. Micotoxicoses.
+    Alimentos tóxicos para animais e drogas de uso ilícito. Zootoxinas. Toxicologia
+    forense. Resíduos de substâncias químicas em produtos de origem animal. Viagem
+    didática para o campus USP Fernando Costa, em Pirassununga, para realização de
+    aula prática, visando o diagnóstico de intoxicação em animais de produção, em
+    condições de campo.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VPT4101 - Toxicologia aplicada à Medicina Veterinária
 
-    Toxicology'
+    Applied Toxicology in Veterinary Medicine'
   deactivation: ''
   instructors: 91736 - Silvana Lima Gorniak
   lecture_credits: '3'
   objectives: Proporcionar aos alunos os conhecimentos de toxicologia veterinária,
     capacitando-os a compreender os fatores envolvidos na toxicidade de diversos agentes
-    e seus efeitos nocivos no organismo animal e, ainda, habilitar o aluno na prevenção,
-    diagnóstico e tratamento das intoxicações dos animais domésticos.
+    e seus efeitos nocivos no organismo animal, bem como as implicações na saúde humana
+    de resíduos de produtos de uso veterinário e de agentes tóxicos nos animais de
+    produção. Habilitar o aluno na prevenção, diagnóstico e tratamento das intoxicações
+    dos animais domésticos. Possibilitar a vivência de realização do diagnóstico de
+    intoxicação em animais de produção, em condições de campo (Fazenda Escola, em
+    Pirassununga), por meio de treinamento prático, com coleta de informações com
+    o tratador do animal, avaliação das condições de armazenamentos de insumos e coletas
+    de agentes tóxicos, como, por exemplo, plantas tóxicas.
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20221003051545'
-digest: QTV4MJIATRTI4MF5E74WX4KB4RX4MFK3
-updated_at: '20230205044136'
-url: https://web.archive.org/web/20230205044136id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT4101&codcur=10012&codhab=0
+created_at: '20251122171723'
+digest: VGTYGHSYQFLW4FEZLBBW6JK2HTLZPDSW
+updated_at: '20251122171723'
+url: https://web.archive.org/web/20251122171723id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT4101&verdis=2
