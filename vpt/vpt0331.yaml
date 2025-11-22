@@ -7,14 +7,13 @@ courses:
     A média da avaliação final da disciplina entrará no computo da recuperação, sendo:
 
     média  = média da avaliação final + média da recuperação  ÷ 2'
-  bibliography: 'Básica
-
-    GOOLDMAN & GILMAN. As bases farmacológicas da terapêutica. 8.ed., 1991.ALEXANDER,
-    F. Veterinary Pharmacology. 4.ed., New York, Churchill Livingstone, 1985, 429p.SILVA,
-    P. Farmacologia. 3.ed., 1989.GRAEFF, F.G. Drogas psicotrópicas e seu modo de ação.
-    2.ed., São Paulo, EPU. 1990. 135p.BOOTH, N.H.; McDONALD, L.E. Farmacologia e Terapêutica
-    em Veteriná-ria. 6.ed., Rio de Janeiro, Guanabara Koogan, 1992. 997p.HALL, L.W.;
-    CLARKE, K.W. Anestesia Veterinária.1.ed., São Paulo, Manole. 1987. 451p.'
+  bibliography: GOOLDMAN & GILMAN. As bases farmacológicas da terapêutica. 8.ed.,
+    1991.ALEXANDER, F. Veterinary Pharmacology. 4.ed., New York, Churchill Livingstone,
+    1985, 429p.SILVA, P. Farmacologia. 3.ed., 1989.GRAEFF, F.G. Drogas psicotrópicas
+    e seu modo de ação. 2.ed., São Paulo, EPU. 1990. 135p.BOOTH, N.H.; McDONALD, L.E.
+    Farmacologia e Terapêutica em Veteriná-ria. 6.ed., Rio de Janeiro, Guanabara Koogan,
+    1992. 997p.HALL, L.W.; CLARKE, K.W. Anestesia Veterinária.1.ed., São Paulo, Manole.
+    1987. 451p.
   course: '1. Transmissão neuro-humoral e o SNC.                                            2.
     Avaliação do comportamento animal.                                            3.
     Sistema catecolaminérgico e função motora.                                  4.
@@ -44,13 +43,13 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20250615182508'
-digest: MR5X6PEJK4WITPVG3SZICO5WIZG7226X
+created_at: '20251122133007'
+digest: DCCHX23OGUU7YAA2CMIK2KIYH3ZUPICC
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
   requirements:
   - code: VPT2201
     name: Farmacologia Aplicada à Medicina Veterinária
     type: Requisito
-updated_at: '20250615182508'
-url: https://web.archive.org/web/20250615182508id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT0331
+updated_at: '20251122133007'
+url: https://web.archive.org/web/20251122133007id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT0331&verdis=2
