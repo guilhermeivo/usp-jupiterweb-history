@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2021
+  activation: 01/01/2025
   assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
     de cada disciplina, a serem realizadas até uma semana antes do término do período
     de retificação de matrícula (estabelecido anualmente pelo Calendário USP)
@@ -32,11 +32,13 @@ courses:
     será subdividido na infraclasse Marsupialia e nas ordens Rodentia, Pilosa, Cetacea,
     Artiodactyla, Carnivora e Chiroptera). Paralelamente, quando houver a disponibilidade,
     haverão visitas técnicas a grupos de pesquisa que empregam biotécnicas para o
-    auxílio na reprodução de animais selvagens.'
+    auxílio na reprodução de animais selvagens.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VRA0443 - Reprodução em Animais Silvestres
 
     Wild Animal Reproduction'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: 3399196 - Ricardo José Garcia Pereira
   lecture_credits: '3'
   objectives: Estudo da reprodução em animais silvestres, com ênfase na fisiologia
@@ -48,7 +50,7 @@ courses:
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20241211012227'
-digest: ARGPYC2LS3BT3GBHOBWBT5TKSGKJONQW
-updated_at: '20241211012227'
-url: https://web.archive.org/web/20241211012227id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA0443&codcur=10012&codhab=0
+created_at: '20251122154441'
+digest: 77LLOG7MMXUE7TRT5OXQRDM3XL22YYKI
+updated_at: '20251122154441'
+url: https://web.archive.org/web/20251122154441id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA0443&verdis=5
