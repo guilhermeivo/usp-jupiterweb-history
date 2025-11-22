@@ -6,10 +6,8 @@ courses:
 
     prática). E a média final da disciplina será calculada pela média aritmética da
     média obtida no semestre letivo e a média das provas de recuperação.'
-  bibliography: 'Básica
-
-    BONAGURA, J.D; TWEDT, D. Kirk’s Current Veterinary Therapy XIV. Missouri, Saunders
-    Elsevier, 2009.
+  bibliography: 'BONAGURA, J.D; TWEDT, D. Kirk’s Current Veterinary Therapy XIV. Missouri,
+    Saunders Elsevier, 2009.
 
     DiBARTOLA, S.P. Fluid, Electrolyte, and Acid-base Disorders in Small Animal Practice.
     3 ed. Saunders Elsevier, 2006.
@@ -110,8 +108,8 @@ courses:
   practical_credits: '0'
   total_workload: 90 h
   type: Semestral
-created_at: '20250615182326'
-digest: ORBSWCRIQPYZPZPM7Z63CPODNDZN3HFF
+created_at: '20251122154216'
+digest: EAZS3TOOBR3BXXHS6TKMDWHX6Y73BNCV
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
@@ -124,5 +122,5 @@ requirements:
   - code: VCM4101
     name: Semiologia
     type: Requisito
-updated_at: '20250615182326'
-url: https://web.archive.org/web/20250615182326id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCM4201
+updated_at: '20251122154216'
+url: https://web.archive.org/web/20251122154216id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCM4201&verdis=4
