@@ -1,14 +1,13 @@
 courses:
-  activation: 15/07/2023
+  activation: 15/07/2025
   assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
     de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
     A média final após a recuperação será a média aritmética da nota da avaliação
     final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
-    + média da recuperação)/2]'
-  bibliography: 'Básica
-
-    ALVES, J. C. et al. Evaluation of four clinical metrology instruments for the
-    assessment of osteoarthritis in dogs. Animals (Basel), v. 12, n. 20, Oct 17 2022.
+    + média da recuperação)/2].'
+  bibliography: 'ALVES, J. C. et al. Evaluation of four clinical metrology instruments
+    for the assessment of osteoarthritis in dogs. Animals (Basel), v. 12, n. 20, Oct
+    17 2022.
 
     FANTONI, D. T.; IDA, K. K.; LOPES, T. F.; OTSUKI, D. A. et al. A comparison of
     the cardiopulmonary effects of pressure controlled ventilation and volume controlled
@@ -36,7 +35,7 @@ courses:
 
     NAGASHIMA, J. K.; GONÇALVES, L. A.; PEREIRA, M. A.; TALIB, M. S. et al. Microcirculation
     assessment of dexmedetomidine constant rate infusion during anesthesia of dogs
-    with sepsis from pyometra: a randomized clinical study. Vet Anaesth Analg, v.
+    with sépsis from pyometra: a randomized clinical study. Vet Anaesth Analg, v.
     49, n. 6, p. 536-545, 2022.
 
     RODRIGUES, R. R.; AMBRÓSIO, A. M.; ENGBRUCH, A. M.; GONÇALVES, L. A. et al. Intraoperative
@@ -68,9 +67,9 @@ courses:
   course_name: 'VCI0542 - Controle da dor e técnicas anestésicas especiais em cães
     e gatos
 
-    Anesthetic Techniques in Dogs and Cats'
-  deactivation: 14/07/2025
-  instructors: 71622 - Denise Tabacchi Fantoni
+    Pain control and special anesthetic techniques in dogs and cats'
+  deactivation: ''
+  instructors: 1965670 - Silvia Renata Gaido Cortopassi
   lecture_credits: '2'
   objectives: Ampliar o conhecimento no diagnóstico e tratamento da dor em cães e
     gatos. Conhecer as modalidades anestésicas e de sedação em procedimentos específicos
@@ -78,13 +77,13 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20250615183134'
-digest: 63SYYPM2NYF4FZDROWSX6JMPERAGRER3
+created_at: '20251123123258'
+digest: U62RCPIWJJZN3Z3CZA4PI2OHIZTJ7ZZU
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
   - code: VCI4101
     name: Anestesiologia e Técnicas de Terapia Intensiva no Paciente Cirúrgico
     type: Requisito
-updated_at: '20250615183134'
-url: https://web.archive.org/web/20250615183134id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI0542
+updated_at: '20251123123258'
+url: https://web.archive.org/web/20251123123258id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=4&sgldis=VCI0542
