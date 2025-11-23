@@ -1,36 +1,31 @@
 courses:
-  activation: 01/01/2021
-  assessment: 'A recuperação constará de duas provas sendo que a média da avaliação
-    final da disciplina entrará no computo da recuperação. Desta maneira, a média
-    final, após a recuperação, constará: média da avaliação final + média da recuperação
-    ÷ 2'
-  bibliography: "BORDON, R. M. Understanding Animal Breeding. Prentice Hall, Upper\
-    \ Saddle River, NJ. 523p., 1997.\nBECKER, W.A. Manual of Procedures in Quantitative\
-    \ Genetics. 3 ed. Washington, Washington State University Press, 1995.\nELER,\
-    \ P.J. Teorias e Métodos em Melhoramento Genético Animal 2 2ed. Rer e ampl.- Pirassununga\
-    \ SP: FZEA, 258 pp, 2001.\nFALCONER, D. S.; MACKAY, T. F. C. Introduccion a la\
-    \ genética cuantitativa. Zaragoza, Espanha, 4ª ed., 2001. 469 p.\nHENDERSON, C.R.\
-    \ Applications of linear models in animal breeding. University of Guelph: Guelph,\
-    \ Canada, 1984, 462p.\nLASLEY, J.F. Genetics of livestock improvement. 3th ed.\
-    \ New Jersey: pretice Hall, 1978, 492p.\nKINGHORN, B.; VAN DER WERF, J.; RYAN,\
-    \ M. Melhoramento animal: uso de novas tecnologias. Piracicaba: FEALQ, 2006. p.15-26.\n\
-    MRODE, R.A. Linear models for the prediction of animal breeding values. CAB INTERNATIONAL:\
-    \ Wallingford, Oxon, UK, 1996. 187p.\nPEREIRA, J.C.C. Melhoramento genético aplicado\
-    \ a produção animal, FEPMVZ. Editora,  Belo Horizonte, 555p, 2001.\nVAN VLECK,\
-    \ L.D.; POLLAK, E.J.; OLTENACU, E.A.B. Genetics for the Animal Sciences. Freeman\
-    \ and co., New York. 391 p, 1987.\nVAN VLECK, L.D. Selection Index and Introduction\
-    \ to Mixed Model Methods. CRC Pres. Boca Raton, Fl., 1987.\nEssa Bibliografia\
-    \ indicada não tem a pretensão de suprir todas as necessidades para a formação\
-    \ profissional do médico veterinário que queira atuar em melhoramento animal.\
-    \ Recomenda-se aos alunos Revistas Especializadas tais como: Animal Genetics,\
-    \ Journal of Animal Science, Journal of Dairy Science, Livestock Production, Genetic,\
-    \ Selection and Evolution, \tJournal Animal Breeding and Genetics, dentre outros,\
-    \ visando complementação e evolução dos tópicos discutidos em aula."
-  course: 'Introdução e Aspectos Históricos.
+  activation: 01/01/2025
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    semestral + média da recuperação)/2].'
+  bibliography: 'Complementar
 
-    Evolução do Melhoramento Animal.
+    Essa bibliografia básica indicada acima não tem a pretensão de suprir todas as
+    necessidades para a formação profissional do médico veterinário que queira atuar
+    na área do melhoramento genético animal. Recomenda-se aos alunos leitura de periódicos
+    especializadas, tais como: Animal Genetics, Journal of Animal Science, Journal
+    of Dairy Science, Livestock Production, Genetic, Selection and Evolution, Journal
+    Animal Breeding and Genetics, BMC Genetics, BMC Genomics, dentre outros, visando
+    complementação e evolução dos tópicos discutidos em aula.
 
-    Conceitos Básicos em Genética de Populações e Quantitativa
+    Atividades de Extensão
+
+    Grupo social alvo da atividade
+
+    Produtores Rurais, Empreendedores e demais profissionais relacionadas à grande
+    área do Setor de Produção Animal.'
+  course: '• Introdução e aspectos históricos.
+
+    • Evolução do Melhoramento Animal.
+
+    • Conceitos Básicos em Genética de Populações e Quantitativa
 
     - Cálculo de Frequências Genotípicas e Gênicas
 
@@ -38,7 +33,7 @@ courses:
 
     - Fatores que alteram as Frequências Gênicas e Genotípicas
 
-    Conceitos Básicos em Estatística e Quantitativa
+    • Conceitos Básicos em Estatística e Quantitativa
 
     - Comparação de Caracteres Qualitativos versus Quantitativos
 
@@ -48,22 +43,141 @@ courses:
     - Modelo aditivo-dominate
 
     - Parâmetros genéticos e fenotípicos (Métodos de Estimação de herdabilidade; Variação
-    dentro de Linha Isogênica. Regressão dos Valores Fenotípicos dos Progenitores
-    e das Progênies; Decomposição da Variação Total por meio de Momentos)'
+    dentro de Linha Isogênica. Regressão dos Valores Fenotípicos do Progenitores e
+    das Progênies; Decomposição da Variação Total por meio de Momentos)
+
+    • Métodos de Melhoramento Genético Animal.
+
+    - Seleção
+
+    - Diferencial de seleção
+
+    - Progresso genético
+
+    - Resposta à seleção
+
+    - Exercícios ilustrativos
+
+    •  Repetibilidade.
+
+    - Métodos de Estimação da Repetibilidade.
+
+    - Diferenças entre herdabilidade e repetibilidade.
+
+    • Exercícios ilustrativos.
+
+    • Seleção de duas ou mais Características
+
+    - Consecutiva;
+
+    - Níveis Independentes de Eliminação;
+
+    - Índices de seleção.
+
+    • Sistemas de Acasalamento
+
+    - Endogamia ou consanguinidade
+
+    - Vantagens e desvantagens
+
+    - Considerações gerais
+
+    - Exogamia ou cruzamento
+
+    - Heterose
+
+    - Estratégia geral dos cruzamentos
+
+    - Tipos de cruzamentos
+
+    - Cruzamento Simples ou industrial;
+
+    - Cruzamentos Duplos;
+
+    - Cruzamento Triplo,
+
+    - Cruzamento Contínuo (ou Absorvente)
+
+    - Cruzamento Rotativo com duas ou três raças
+
+    - Formação de Compostos
+
+    • Avaliação Genética
+
+    - Introdução
+
+    - Equações de Modelos Mistos;
+
+    - Avaliação Genética para uma Característica: exemplo de aplicação;
+
+    - Produtos das Avaliações Genéticas: Sumários e Catálogos;
+
+    - Interpretações dos Resultados das Avaliações Genéticas;
+
+    - Escolha de Reprodutores com base em Sumários e Catálogos;
+
+    • Seleção Genômica
+
+    - Introdução
+
+    - Estudos de Associação Genômica Ampla
+
+    - Seleção Genômica
+
+    - Valores Genéticos Genômicos
+
+    • Ciências Ômicas aplicadas ao Melhoramento Animal
+
+    - Dogma Central da Biologia no visão atual;
+
+    - Conceitos básicos em Transcriptômica aplicada ao Melhoramento Animal;
+
+    - Conceitos básicos em Proteômica aplicada ao Melhoramento Animal;
+
+    - Conceitos básicos em de Metabolômica aplicada ao Melhoramento Animal;
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VNP3109 - Melhoramento Animal
 
     Animal Breeding'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: 3571174 - Júlio César de Carvalho Balieiro
   lecture_credits: '2'
-  objectives: Estudo de bases e métodos de melhoramento genético animal, aplicados
-    a  sistemas de produção dos animais domésticos, oferecendo subsídios ao exercício
-    profissional e qualificando-o para a exploração e remanejamento genético de animais
-    destinados à produção animal.
+  objectives: 'da atividade
+
+    Transmitir conhecimentos na vanguarda da grande área da Nutrição e Produção Animal,
+    por meio de minicursos teóricos, práticos e aplicados, para Produtores Rurais,
+    Empreendedores e demais profissionais do Setor Produção Animal.
+
+    Descrição da atividade
+
+    A atividade de extensão proposta tem por objetivo oferecer atualizações na área
+    grande área da Produção Animal para produtores rurais, empreendedores e demais
+    profissionais do Setor da Produção Animal. Os alunos do Curso de Medicina Veterinária
+    do 5º semestre, serão responsáveis pela: (i) organização; (ii) divulgação; (iii)
+    preparação dos minicursos, palestras, e/ou atividades práticas; (iv) criação dos
+    indicadores de avaliação de cada atividades; (v) compilação dos resultados da
+    avaliação das atividades; (vi) confecção de relatório final contemplando os pontos
+    fortes e fracos de cada atividade e do Evento. Os alunos serão assistidos pelos
+    Professores do Departamento ao longo de todo processo.
+
+    Indicadores de avaliação da atividade
+
+    Os indicadores de avaliação das atividades serão realizados por meio questões
+    múltipla-escolha (por meio de escalas de cinco pontos), além de duas abertas para
+    identificação de pontos fortes e fracos de cada minicurso/palestra/atividade.
+    O objetivo é avaliar a eficácia de cada atividade, fornecendo aos participantes
+    a opção de avaliar sua experiência em cada atividade. As avaliações serão disponibilizadas
+    para os participantes por meio de formulário impresso, link e/ou QR Code, sem
+    a necessidade de identificação dos participantes.'
   practical_credits: '0'
-  total_workload: 30 h
+  total_workload: '30 h
+
+    Carga Horária de Extensão:
+
+    2 h'
   type: Semestral
-created_at: '20241211041857'
-digest: NY2UMVIYIW4FL27TYFZJPABJ6M5WY73C
-updated_at: '20241211041857'
-url: https://web.archive.org/web/20241211041857id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3109&codcur=10012&codhab=0
+created_at: '20251123012720'
+digest: BZHMQ7K63HXI2FAJHPOBBECFZXWG2OQ2
+updated_at: '20251123012720'
+url: https://web.archive.org/web/20251123012720id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3109&verdis=3
