@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2021
+  activation: 01/01/2025
   assessment: Prova escrita para composição de média com a nota obtida na avaliação
     durante o semestre letivo.
   bibliography: 'BECK, S.L. Equinos, Raças, Manejo, Equitação. São Paulo. Editora
@@ -59,11 +59,13 @@ courses:
 
     - Utilização do cavalo no esporte
 
-    - Criação de jumentos e muares'
+    - Criação de jumentos e muares
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VNP3104 - Produção de Equinos
 
     Equine Science'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: 94103 - Alexandre Augusto de Oliveira Gobesso
   lecture_credits: '2'
   objectives: Capacitar o aluno para a implantação e avaliação de sistemas de produção
@@ -77,13 +79,13 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20241211034619'
-digest: ZSUCTAMNXHWZM7EPED7DBXCZXUZWXZUJ
+created_at: '20251123012355'
+digest: CEW2CGPF7YAIXPR7STULL6UUQWDZV5CL
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 5'
   requirements:
   - code: BMB0212
     name: Fisiologia II
     type: Requisito
-updated_at: '20241211034619'
-url: https://web.archive.org/web/20241211034619id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3104&codcur=10012&codhab=0
+updated_at: '20251123012355'
+url: https://web.archive.org/web/20251123012355id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3104&verdis=3
