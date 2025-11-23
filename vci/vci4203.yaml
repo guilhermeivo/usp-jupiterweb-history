@@ -5,10 +5,8 @@ courses:
     no período indicado pelo calendário USP. A média final após a recuperação será
     a média aritmética da nota da avaliação final e da média da recuperação [Média
     pós-recuperação: (nota da avaliação final + média da recuperação)/2]'
-  bibliography: 'Básica
-
-    BARR, F.; KIRBERGER, R. BSAVA Manual of Canine and Feline Musculoskeletal Imaging.
-    British Small Animal Veterinary Association, 2006.
+  bibliography: 'BARR, F.; KIRBERGER, R. BSAVA Manual of Canine and Feline Musculoskeletal
+    Imaging. British Small Animal Veterinary Association, 2006.
 
     BUTLER, J.; COLLES, C.; DYSON, S.; KOLD, S. Clinical Radiology of the Horse. 4th
     ed. Wiley-Blachwell, 2016.
@@ -117,7 +115,9 @@ courses:
   deactivation: ''
   instructors: '514319 - Carla Aparecida Batista Lorigados
 
-    294371 - Caterina Muramoto'
+    294371 - Caterina Muramoto
+
+    1662387 - Stefano Carlo Filippo Hagen'
   lecture_credits: '3'
   objectives: Difundir conceitos e interpretação dos métodos de diagnóstico por imagem
     em Medicina Veterinária. Desenvolver estudo sobre anatomia, semiologia e patologia
@@ -126,13 +126,13 @@ courses:
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20250615182224'
-digest: L5JWFIAYFUON3LRMLCTIMPHNL3DSCELE
+created_at: '20251123123016'
+digest: 5FM6HSIOYWRTCVATYVOLNNKZE7BPP5TM
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
   - code: VCI4104
     name: Diagnóstico por Imagem I
     type: Requisito
-updated_at: '20250615182224'
-url: https://web.archive.org/web/20250615182224id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI4203
+updated_at: '20251123123016'
+url: https://web.archive.org/web/20251123123016id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=4&sgldis=VCI4203
