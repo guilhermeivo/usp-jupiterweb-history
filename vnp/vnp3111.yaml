@@ -45,7 +45,18 @@ courses:
     1990.
 
     ZYLBERSZTAJN, D.; NEVES, M.F. (org.) Economia e Gestão dos Negócios Agroalimentares.
-    São Paulo: Pioneira, 2000.'
+    São Paulo: Pioneira, 2000.
+
+    Atividades de Extensão
+
+    Grupo social alvo da atividade
+
+    O grupo social será definido pelos grupos de trabalho, com o apoio do professor.
+    É exigência básica que o grupo alvo seja especificamente definido, em função do
+    tipo de conteúdo a ser gerado pelos alunos em sua atividade extensionista. Exemplos
+    de grupos sociais são: i) produtores rurais; ii) consumidores; iii) estudantes
+    de diferentes níveis acadêmicos; iv) técnicos e profissionais; e/ou v) população
+    no geral.'
   course: 'Introdução a Sociologia.
 
     Objeto da Sociologia; conceitos básicos; a Sociologia no Brasil; bases para o
@@ -73,11 +84,13 @@ courses:
     A relação homem x animal nos sistemas de produção: a questão do bem-estar animal
     do ponto de vista socioeconômico.
 
-    Políticas atuais de desenvolvimento rural.'
+    Políticas atuais de desenvolvimento rural.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VNP3111 - Sociologia e Extensão
 
     Sociology and Extension'
-  deactivation: ''
+  deactivation: 31/12/2025
   instructors: 2150307 - Augusto Hauber Gameiro
   lecture_credits: '2'
   objectives: 'da atividade
@@ -117,7 +130,7 @@ courses:
 
     5 h'
   type: Semestral
-created_at: '20250213225625'
-digest: W44Y32NHXJSZ3UQ5KM3MPYXCCUTZEKZB
-updated_at: '20250213225625'
-url: https://web.archive.org/web/20250213225625id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3111
+created_at: '20251123014132'
+digest: IHJ54TAJPWZTR3EVCLHNGTTJGO4HEZVD
+updated_at: '20251123014132'
+url: https://web.archive.org/web/20251123014132id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=2&sgldis=VNP3111
