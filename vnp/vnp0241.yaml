@@ -121,7 +121,7 @@ courses:
     \ of grouth hormone gene sequences integrated into the germ line. Cell, 35: 647-655.WHITE,\
     \ R. (1985). DNA sequence polimorphisms revitalize linkage approaches in human\
     \ genetics. Trends in Genet., 1: 177-80."
-  course: Módulo citogenético                                                                         a)
+  course: 'Módulo citogenético                                                                         a)
     Divisão celular.                                                                             b)
     Cromossomos e genes.                                                                c)
     Divisões cromossômicas irregulares.                                              d)
@@ -143,10 +143,12 @@ courses:
     Colibaciloses e suas implicações imunogenéticas.                          f) BLAD                                                                                        Genética
     do escargot Achatina fulica e seu potencial como criação        alternativa na
     Produção Animal.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VNP0241 - Tópicos Avançados em Genética Veterinária
 
     Advanced Topics in Veterinay Genetics'
-  deactivation: ''
+  deactivation: 31/12/2025
   instructors: 83636 - Maria de Fatima Martins
   lecture_credits: '2'
   objectives: Discutir através de aulas formais, seminários e visitas técnicas, os
@@ -156,7 +158,7 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20241211003402'
-digest: ELJSV4QCI7UQBLSW65HXRX5II5XBEPYB
-updated_at: '20241211003402'
-url: https://web.archive.org/web/20241211003402id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP0241&codcur=10012&codhab=0
+created_at: '20251123121047'
+digest: QATAYM2JWURW2PATLVGX2ZE6EYTT4TR7
+updated_at: '20251123121047'
+url: https://web.archive.org/web/20251123121047id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=3&sgldis=VNP0241
