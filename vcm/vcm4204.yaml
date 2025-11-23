@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2023
+  activation: 01/01/2025
   assessment: 'A recuperação será realizada até uma semana antes do término do período
     de retificação de matrícula, e consta de duas provas, sendo uma teórica e outra
     prática, realizadas no mesmo dia. A média final será dada pela fórmula: Média
@@ -65,11 +65,13 @@ courses:
 
     4 - Afecções do Sistema Músculo-esquelético
 
-    5 - Afecções do Sistema Nervoso'
+    5 - Afecções do Sistema Nervoso
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VCM4204 - Clínica Médica de Equídeos
 
     Equine Internal Medicine'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: '320543 - Carla Bargi Belli
 
     1736701 - Raquel Yvonne Arantes Baccarin'
@@ -80,7 +82,7 @@ courses:
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20241210235549'
-digest: YDK7KHF3ILLLPQBW2MWIAB7JE472MFH3
-updated_at: '20241210235549'
-url: https://web.archive.org/web/20241210235549id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCM4204&codcur=10012&codhab=0
+created_at: '20251123054619'
+digest: XVW7XGIZXXPZCWX4SBJYYYMEOUW3RP54
+updated_at: '20251123054619'
+url: https://web.archive.org/web/20251123054619id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=5&sgldis=VCM4204
