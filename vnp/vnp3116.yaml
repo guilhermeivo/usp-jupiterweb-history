@@ -2,10 +2,8 @@ courses:
   activation: 01/01/2025
   assessment: 'A recuperação constará de uma nova prova teórica. A média final, após
     a recuperação, constará: média da avaliação final + média da recuperação ÷ 2.'
-  bibliography: 'Básica
-
-    ASSOCIATION OF AMERICAN FEED CONTROL OFFICIALS - AAFCO. Official Publications.
-    Association of American Feed Control Officials, 2022.
+  bibliography: 'ASSOCIATION OF AMERICAN FEED CONTROL OFFICIALS - AAFCO. Official
+    Publications. Association of American Feed Control Officials, 2022.
 
     CASE, L. P.; CAREY, E. P.; HIRAKAWA, D. A. Canine and Feline Nutrition. A resource
     for companion animal professionals. St. Louis: Mosby. 2010. 455p.
@@ -36,7 +34,7 @@ courses:
 
     Canine and feline nutrology'
   deactivation: ''
-  instructors: 94103 - Alexandre Augusto de Oliveira Gobesso
+  instructors: 6517960 - Thiago Henrique Annibale Vendramini
   lecture_credits: '3'
   objectives: 'Propiciar conhecimentos específicos para que os acadêmicos possam:
 
@@ -56,7 +54,7 @@ courses:
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20250615182524'
-digest: MBCYN752MDNIVVZPWE23XHTTHAK7ZZOA
-updated_at: '20250615182524'
-url: https://web.archive.org/web/20250615182524id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3116
+created_at: '20251124192510'
+digest: DCBL3ATHTENASNT7GYLR7E6GS3WJB75L
+updated_at: '20251124192510'
+url: https://web.archive.org/web/20251124192510id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3116&verdis=4
