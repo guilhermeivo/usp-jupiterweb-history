@@ -6,10 +6,8 @@ courses:
 
     A média da avaliação final da disciplina entrará no computo da recuperação, sendo:
     média = média da avaliação final + média da recuperação ÷ 2.'
-  bibliography: 'Básica
-
-    1. AAAP. A laboratory manual the isolation and identification of avian pathogens.
-    4th ed. 1998.
+  bibliography: '1. AAAP. A laboratory manual the isolation and identification of
+    avian pathogens. 4th ed. 1998.
 
     2. Revolledo, L & Ferreira, A. J. P. Patologia Aviária. Ed. Manole, 2008.
 
@@ -58,8 +56,8 @@ courses:
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20250615181332'
-digest: AA6IOFXXGCH7ZJEM5DW7CY3FVG5QTKV2
+created_at: '20251125024032'
+digest: CMTTWUL6FDJK2REZAGIK4J2S4QUPX55C
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
   requirements:
@@ -69,5 +67,5 @@ requirements:
   - code: VPS2202
     name: Epidemiologia Veterinária
     type: Requisito
-updated_at: '20250615181332'
-url: https://web.archive.org/web/20250615181332id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT3201
+updated_at: '20251125024032'
+url: https://web.archive.org/web/20251125024032id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT3201&verdis=3
