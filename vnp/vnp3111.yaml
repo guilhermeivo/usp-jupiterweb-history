@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2025
+  activation: 01/01/2026
   assessment: 'A recuperação constará de duas provas sendo que a média da avaliação
     final da disciplina entrará no computo da recuperação. Desta maneira, a média
     final, após a recuperação, constará: média da avaliação final + média da recuperação
@@ -57,40 +57,18 @@ courses:
     de grupos sociais são: i) produtores rurais; ii) consumidores; iii) estudantes
     de diferentes níveis acadêmicos; iv) técnicos e profissionais; e/ou v) população
     no geral.'
-  course: 'Introdução a Sociologia.
-
-    Objeto da Sociologia; conceitos básicos; a Sociologia no Brasil; bases para o
-    estudo da Sociologia Rural.
-
-    O pensamento sociológico clássico.
-
-    Desenvolvimento econômico e social.
-
-    Desenvolvimento rural e sustentabilidade.
-
-    Breve histórico da agricultura brasileira.
-
-    O agronegócio brasileiro.
-
-    Introdução à Extensão.
-
-    Trajetória e histórico da Extensão Rural no Brasil; desafios e perspectivas para
-    o futuro.
-
-    Processos de comunicação e de ensino-aprendizagem; métodos em extensão rural.
-
-    Movimentos sociais, conflitos; a questão agrária no Brasil.
-
-    A relação homem x animal nos sistemas de produção: a questão do bem-estar animal
-    do ponto de vista socioeconômico.
-
-    Políticas atuais de desenvolvimento rural.
-
-    Instrumentos e Critérios de Avaliação'
+  course: i) Introdução a Sociologia; ii) Objeto da Sociologia; conceitos básicos;
+    a Sociologia no Brasil; bases para o estudo da Sociologia Rural; iii) O pensamento
+    sociológico clássico; iv) Desenvolvimento econômico e social; v) Desenvolvimento
+    rural e sustentabilidade; vi) Breve histórico da agricultura brasileira; vii)
+    Introdução à Extensão; Trajetória e histórico da Extensão rural no Brasil; desafios
+    e perspectivas para o futuro; viii) Processos de comunicação e de ensino-aprendizagem;
+    métodos em extensão rural; ix) Movimentos sociais, conflitos; a questão agrária
+    no Brasil; x) Políticas públicas; xi) A relação homem x animal.
   course_name: 'VNP3111 - Sociologia e Extensão
 
     Sociology and Extension'
-  deactivation: 31/12/2025
+  deactivation: ''
   instructors: 2150307 - Augusto Hauber Gameiro
   lecture_credits: '2'
   objectives: 'da atividade
@@ -130,7 +108,7 @@ courses:
 
     5 h'
   type: Semestral
-created_at: '20251123014132'
-digest: IHJ54TAJPWZTR3EVCLHNGTTJGO4HEZVD
-updated_at: '20251123014132'
-url: https://web.archive.org/web/20251123014132id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=2&sgldis=VNP3111
+created_at: '20251125225358'
+digest: RGLUO4VX2M7VNGOSXHP2MJSMGN6HB3XA
+updated_at: '20251125225358'
+url: https://web.archive.org/web/20251125225358id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3111&verdis=3
