@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2021
+  activation: 01/01/2025
   assessment: Não haverá recuperação.
   bibliography: 'Andrade, D. R. and G. S. Yasui (2003). "O manejo da reprodução natural
     e artificial e sua importância na produção de peixes no Brasil." Revista Brasileira
@@ -35,17 +35,19 @@ courses:
     Aquaculture
 
     Aquaculture International'
-  course: Introdução e histórico da piscicultura no Brasil. Importância da propagação
+  course: 'Introdução e histórico da piscicultura no Brasil. Importância da propagação
     de peixes. Estratégias e táticas reprodutivas. Fisiologia da reprodução, anatomia.
     Visita a CEPTA / ICMBio instalações de campo e laboratoriais. Manutenção de peixes
     em laboratório. Características dos gametas de peixes. Principais espécies de
     peixes nativos e desafios da reprodução. Propagação artificial de peixes. Fertilização
     in vitro e suas potencialidades na produção animal. Embriologia e larvicultura
     de peixes. Biotecnologia da reprodução de peixes.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VRA3100 - Reprodução de peixes
 
     Fish reproduction'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: 1463350 - Mayra Elena Ortiz D'Avila Assumpção
   lecture_credits: '3'
   objectives: Discutir os principais fatores bióticos e abióticos que afetam a reprodução
@@ -56,7 +58,7 @@ courses:
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20241013101916'
-digest: HHHWUVUMTZHKDQUYW6ECZG2T7K7YZ753
-updated_at: '20241013101916'
-url: https://web.archive.org/web/20241013101916id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA3100&codcur=10012&codhab=0
+created_at: '20251127080335'
+digest: TVQP6UDD2UILUHYXSM6MFXLLR6CGC6RL
+updated_at: '20251127080335'
+url: https://web.archive.org/web/20251127080335id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA3100&verdis=3
