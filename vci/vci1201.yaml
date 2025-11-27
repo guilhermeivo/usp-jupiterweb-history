@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2026
+  activation: 15/07/2023
   assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
     de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
     A média final após a recuperação será a média aritmética da nota da avaliação
@@ -44,11 +44,13 @@ courses:
     ● Sistema genital masculino: Órgãos genitais. Constituição, estruturas, aspectos
     funcionais do mecanismo de ereção.
 
-    ● Sistema genital feminino: Morfologia geral dos órgãos genitais.'
-  course_name: 'VCI1201 - Anatomia dos Animais Domésticos II
+    ● Sistema genital feminino: Morfologia geral dos órgãos genitais.
+
+    Instrumentos e Critérios de Avaliação'
+  course_name: 'VCI1201 - Anatomia Descritiva dos Animais Domésticos II
 
     Anatomy of Domestic Animals II'
-  deactivation: ''
+  deactivation: 31/12/2025
   instructors: '3247032 - Antônio Chaves de Assís Neto
 
     1030785 - José Roberto Kfoury Junior'
@@ -64,7 +66,7 @@ courses:
   practical_credits: '0'
   total_workload: 75 h
   type: Semestral
-created_at: '20251122105106'
-digest: KAX3POGHBERRBLLKGE5QOC7NORSGMNCR
-updated_at: '20251122105106'
-url: https://web.archive.org/web/20251122105106id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI1201&verdis=5
+created_at: '20251127151544'
+digest: OGAQCBFLYNMHPTQBJURJYSVY3U6DZYGK
+updated_at: '20251127151544'
+url: https://web.archive.org/web/20251127151544id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI1201&verdis=4
