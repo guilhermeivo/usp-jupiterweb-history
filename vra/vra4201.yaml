@@ -4,9 +4,7 @@ courses:
     do período de retificação de matrícula (estabelecido anualmente pelo Calendário
     USP). A média da avaliação final da disciplina entrará no computo da recuperação,
     sendo: média da avaliação final + média da recuperação ÷ 2.'
-  bibliography: 'Básica
-
-    BENESCH, F. Tratado de Obstetricia y Ginecología Veterinarias. 1963.
+  bibliography: 'BENESCH, F. Tratado de Obstetricia y Ginecología Veterinarias. 1963.
 
     ROBERTS, S.J. Veterinary obstetrics and genital diseases (Theriogenology). Michigan:
     Ann Arbor, 1971.
@@ -107,8 +105,8 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20250615182209'
-digest: PKTEGIYTFO7OGYJ3WHKRUQ4YQ4KZKDOV
+created_at: '20251128131022'
+digest: KVTKOR2254D27SDMX5ETWCNXR7KAI7DX
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
@@ -121,5 +119,5 @@ requirements:
   - code: VCI4101
     name: Anestesiologia e Técnicas de Terapia Intensiva no Paciente Cirúrgico
     type: Requisito
-updated_at: '20250615182209'
-url: https://web.archive.org/web/20250615182209id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA4201
+updated_at: '20251128131022'
+url: https://web.archive.org/web/20251128131022id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=6&sgldis=VRA4201
