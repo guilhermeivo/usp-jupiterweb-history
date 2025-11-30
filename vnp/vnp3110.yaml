@@ -1,59 +1,111 @@
 courses:
-  activation: 01/01/2019
-  assessment: 'A recuperação constará de duas  provas a ser realizada até uma semana
-    antes do término do período de retificação de matrículas (estabelecido anualmente
-    pelo calendário USP). A média da avaliação final da disciplina entrará no computo
-    da recuperação, sendo: Média = média da avaliação final + média da recuperação
-    / 2.'
-  bibliography: 'FONSECA, D.M. e MARTUSCELLO, J.A. Plantas Forrageiras. Editora UFV.
-    2010.
+  activation: 01/01/2025
+  assessment: A recuperação constará de uma prova referente ao conteúdo total da disciplina
+    ou  apresenta de trabalho do tema escolhido pela professora responsável.
+  bibliography: 'Mendes e Martins, 2023. Manejo de pastagem rotacionado na pecuária
+    de corte com ênfase no bem-estar do animal: revisão de literatura. Disponível
+    em https://jnt1.websiteseguro.com/index.php/JNT/article/view/1639/1126
 
-    SILVA, S.C.; NASCIMENTO JUNIOR, D.; EUCLIDES, V.B.P. Pastagens: Conceitos Básicos,
-    Produção e Manejo. Editora: Produção Independente. 2008.
+    Silva et al., 2023. SILAGEM DE CAPIAÇU NA ALIMENTAÇÃO DE BOVINOS LEITEIROS, Revista
+    Multidisciplinar do Nordeste Mineiro,v.12,2023
 
-    HUMPHREYS, L. R. Tropical pasture utilization. Cambridge University Press, 1991.
-    206 p.
+    ALMEIDA, R G. 2020. Forrageiras em sistemas de produção de bovinos em integração.
+    Embrapa, Disponível em: https://www.embrapa.br/busca-de-publicacoes/-/publicacao/1112935/forrageiras-em-sistemas-de-producao-de-bovinos-em-integracao
 
-    PEIXOTO A. M.; MOURA, J. C.; FARIA, V. P. Manejo do Capim Elefante. Piracicaba,
-    FEALQ, 1994. 329p.
+    ANDRADE, C. M. S. Pastejo Rotacionado. Embrapa, 2021. Disponível em: http://iquiri.cpafac.embrapa.br/prodleite/pdf/pastejo_mauricio.pdf
 
-    PEIXOTO A. M.; MOURA, J. C.; FARIA, V. P. Produção de bovinos a pasto. Ed: Peixoto,
-    A. M. e outros. Piracicaba, FEALQ, 1997. 352p.
+    BARBOSA, A. A. F. B Manejo das pastagens, 2021. Disponível em:  https://docs.ufpr.br/~freitasjaf/artigos/leitepasto.pdf
 
-    PEIXOTO A. M.; MOURA, J. C.; FARIA, V. P. Fundamentos do Pastejo Rotacionado.
-    Ed: Peixoto, A. M. e outros. Piracicaba, FEALQ, 1997. 327p
+    BIFFI, N. O que é pastejo rotacionado? Nutrição e saúde animal, 2021. Disponível
+    em: https://nutricaoesaudeanimal.com.br/o-que-e-pastejo-rotacionado/
 
-    BARNES, R.F. e outros. The science of grassland agriculture. v.2 -, Ames, Iowa,
-    USA : Iowa State University Press, 1995.
+    DIAS FILHO, M. B. Degradação de pastagens: o que é e como evitar. Brasília-DF,
+    2017.
 
-    GOMIDE, J.A.  Anais do simpósio internacional sobre produção animal em pastejo
-    Viçosa : UFV, 1997.
+    COSTA, N. L. Formação e manejo de pastagens. Cnptia Embrapa, 2013. Disponível
+    em: https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/984110/1/RT27pastagem
 
-    HODGSON, J. Grazing management: science into practice / Burnt Mill, Harlow, Essex,
-    England; New York : Longman Scientific & Technical: Wiley, 1990, 203p.
+    Espécies forrageiras no inverno. Certified Humane Brasil, 2020. Disponível em:
+    https://certifiedhumanebrasil.org/especies-forrageiras-podem-ser-solucao-para-melhorardieta-dos-bovinos-no-inverno/
 
-    HODGSON, J.; ILLIUS, A.W. The ecology and management of grazing systems, Wallingford,
-    Oxon, UK : CAB International, 1996, 466 p.'
-  course: "Teóricos:\n•\tImportância das pastagens para a pecuária.\n•\tAnatomia e\
-    \ fisiologia de plantas forrageiras.\n•\tPrincípios do manejo de plantas forrageiras\
-    \ tropicais.\n•\tManejo de cultivares de Panicum e Pennisetum.\n•\tAspectos de\
-    \ adubação de plantas forrageiras.\n•\tIrrigação de pastagens.\n•\tManejo intensivo\
-    \ da Brachiaria e Cynodon.\n•\tVolumosos suplementares.\nPrático:\n•\tReconhecimento\
-    \ de espécies forrageiras.\n•\tOrçamentação forrageira."
+    CEZAR, I.M. et al. Sistemas de Produção de Gado de Corte no Brasil: uma descrição
+    com ênfase no regime alimentar e no abate. Embrapa Gado de Corte, Campo Grande,
+    MS. 2005
+
+    DIAS-FILHO, M.B. Diagnóstico das Pastagens no Brasil. Documentos 402. Embrapa
+    Amazônia Oriental, Belém, PA. 2014. Disponível em: https://www.infoteca.cnptia.embrapa.br/bitstream/doc/986147/1/DOC402.pdf
+
+    DIAS-FILHO, M.B. Degradação de pastagens: processos, causas e estratégias de recuperação.
+    4ed. Belém. 2011. 215p
+
+    EVANGELISTA, A.R.; LIMA, J.A. Produção de feno. Informe Agropecuário, Belo Horizonte,
+    v.34, n.277, p.43-52, 2013.
+
+    PEREIRA, L.E.T. Gramíneas forrageiras de clima temperado e tropical. Pirassununga,
+    2016. Disponível em: https://e978c2e7-3837-4d28-83ec-1789406c515d.filesusr.com/ugd/58f11a_c6b376dad4e94c50b3a54f18cdea1a82.pdf
+
+    PEREIRA, L.E.T.; HERLING, V.R. Leguminosas forrageiras de clima temperado e tropical.
+    Pirassununga, 2016. Disponível em: https://e978c2e7-3837-4d28-83ec-1789406c515d.filesusr.com/ugd/58f11a_c6b376dad4e94c50b3a54f18cdea1a82.pdf
+
+    REIS, R.A.; BERNARDES, T.F.; SIQUEIRA, G.R. (Ed.). Forragicultura: ciência, tecnologia
+    e gestão dos recursos forrageiros. Jaboticabal: M. de L. Brandel-ME, 2013. 714
+    p.
+
+    Atividades de Extensão
+
+    Grupo social alvo da atividade
+
+    Produtores Rurais, Empreendedores e demais profissionais relacionadas à grande
+    área do Setor de Produção Animal.'
+  course: "Teóricos:\n•\tImportância das pastagens para a pecuária e produção sustentável.\n\
+    •\tAnatomia e fisiologia de plantas forrageiras.\n•\tPrincípios do manejo de plantas\
+    \ forrageiras tropicais e temperadas.\n•\tManejo das pastagens e capineiras cultivares\
+    \ de Panicum e Pennisetum.\n•\tConservação de forragens\n•\tManejo intensivo da\
+    \ Brachiaria e Cynodon.\n•\tVolumosos suplementares.\nPrático:\n•\tDeterminação\
+    \ da matéria seca\n•\tReconhecimento de espécies forrageiras.\n•\tProdução de\
+    \ silagem\n•\tOrçamentação forrageira.\nInstrumentos e Critérios de Avaliação"
   course_name: 'VNP3110 - Agrostologia
 
     Forages'
-  deactivation: 31/12/2024
+  deactivation: ''
   instructors: 6968672 - Nara Regina Brandão Cônsolo
   lecture_credits: '2'
-  objectives: "O programa a ser desenvolvido tem como objetivo tornar o aluno capacitado\
-    \ a:\n1)\tEntender os fundamentos de estabelecimento e manejo de pastagens tropicais\
-    \ visando à alimentação animal,\n2)\tReconhecer os principais gêneros e espécies\
-    \ de plantas forrageiras tropicais."
+  objectives: 'da atividade
+
+    Transmitir conhecimentos na vanguarda da grande área de Agrostologia e Nutrição
+    e Produção Animal. Capacitar os participantes sobre as principais tendências e
+    tecnologias das áreas em questão, por meio do oferecimento de atividades de extensão,  minicursos
+    teóricos, práticos e aplicados, para Produtores Rurais, Empreendedores e demais
+    profissionais do Setor Produção Animal.
+
+    Descrição da atividade
+
+    Objetiva-se nesta atividade atualizar e treinar na área de Agrostologia e Produção
+    animal os produtores rurais, associados de Cooperativas, empreendedores e demais
+    profissionais deste Setor. Os estudantes do Curso de Medicina Veterinária do 5º
+    semestre, serão responsáveis pela: (i) organização; (ii) divulgação; (iii) preparação
+    dos minicursos, palestras, e/ou atividades práticas; (iv) criação dos indicadores
+    de avaliação de cada atividades; (v) compilação dos resultados da avaliação das
+    atividades; (vi) confecção de relatório final, sob orientação do professor responsável
+    pela disciplina.
+
+    Indicadores de avaliação da atividade
+
+    Os indicadores de avaliação das atividades serão realizados com questões múltipla-escolha
+    (por meio de escalas de cinco pontos), além de duas abertas para identificação
+    de pontos fortes e fraquezas de cada minicurso/palestra/atividade. Assim, haverá
+    a possibilidade de avaliar a eficácia das atividades propostas, fornecendo aos
+    participantes a opção de analisar sua experiência em cada atividade. As avaliações
+    serão disponibilizadas para os participantes por meio de formulários, por ex:
+    google forms, sem a identificação dos participantes, necessariamente.'
   practical_credits: '0'
-  total_workload: 30 h
+  total_workload: '30 h
+
+    Carga Horária de Extensão:
+
+    2 h'
   type: Semestral
-created_at: '20241211034425'
-digest: ATQSRWFN2XNSICZHYPGEWK2OMQFN4K5R
-updated_at: '20241211034425'
-url: https://web.archive.org/web/20241211034425id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3110&codcur=10012&codhab=0
+created_at: '20251130074356'
+digest: R2NYOZPYMMP6CUJVGH6KHUA4J77HFJQG
+updated_at: '20251130074356'
+url: https://web.archive.org/web/20251130074356id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3110&verdis=2
