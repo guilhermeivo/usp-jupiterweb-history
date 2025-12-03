@@ -1,11 +1,35 @@
 courses:
-  activation: 01/01/2025
+  activation: 15/07/2025
   assessment: 'A recuperação constará de duas provas, a serem realizadas no período
     indicado pelo calendário USP. A média final após a recuperação será a média aritmética
     da nota da avaliação final e da média da recuperação [Média pós-recuperação: (nota
     da avaliação final + média da recuperação)/2].'
-  bibliography: '- Atkinson K. Wasps-Bees-Mushrooms-Children: Reimagining Multispecies
-    Relations in Early Childhood Pedagogies. Canadian Children. 2015 Spring;40(2):67–79.
+  bibliography: '- Rede de Saúde Multiespécie (Rede SAME). https:redesame.fmvz.usp.br/
+
+    - Taylor A, Pacini-Ketchabaw V. Learning with children, ants, and worms in the
+    Anthropocene: towards a common world pedagogy of multispecies vulnerability. Pedagogy,
+    Culture & Society. 2015 Oct 2;23(4):507–29.
+
+    - Atkinson K. Wasps-Bees-Mushrooms-Children: Reimagining Multispecies Relations
+    in Early Childhood Pedagogies. Canadian Children. 2015 Spring;40(2):67–79.
+
+    - O’Brien S. Speculating the Symbio: Possibilities for Multispecies and Multi-Entity
+    World Making in Childhood. Jchildhood. 2022;47(1):45–55.
+
+    - Nxumalo F, Pacini-Ketchabaw V. “Staying with the trouble” in child-insect-educator
+    common worlds. Environmental Education Research. 2017 Nov 26;23(10):1414–26.
+
+    - Tammi T, Hohti R, Rautio P. From Child–Animal Relations to Multispecies Assemblages
+    and Other-Than-Human Childhoods. Barn – forskning om barn og barndom i Norden
+    [Internet]. 2023 Aug 16 [cited 2024 May 3];41(2–3). Available from: https://tidsskriftetbarn.no/index.php/barn/article/view/5475
+
+    - Nelson N, Drew J. Multispecies collaboratories: reconfiguring children’s more-than-human
+    entanglement with colonization, urban development and climate change. Children’s
+    Geographies. 2024 Jan 2;22(1):165–81.
+
+    - Westerlaken M. What is the opposite of speciesism? On relational care ethics
+    and illustrating multi-species-isms. International Journal of Sociology and Social
+    Policy. 2020 Jan 1;41(3/4):522–40.
 
     - Fatyass R, Casella N. Hacer ciencia con niñas y niños: experiencias, saberes
     y desafíos situados en un barrio popular de Córdoba, Argentina. ReHuSo: Revista
@@ -14,29 +38,11 @@ courses:
     - Haraway. D. Ficar com o problema: fazer parentes no Chthuluceno (2023, capítulo
     8). n-1 edições.
 
-    - Nelson N, Drew J. Multispecies collaboratories: reconfiguring children’s more-than-human
-    entanglement with colonization, urban development and climate change. Children’s
-    Geographies. 2024 Jan 2;22(1):165–81.
+    Atividades de Extensão
 
-    - Nxumalo F, Pacini-Ketchabaw V. “Staying with the trouble” in child-insect-educator
-    common worlds. Environmental Education Research. 2017 Nov 26;23(10):1414–26.
+    Grupo social alvo da atividade
 
-    - O’Brien S. Speculating the Symbio: Possibilities for Multispecies and Multi-Entity
-    World Making in Childhood. Jchildhood. 2022;47(1):45–55.
-
-    - Rede de Saúde Multiespécie (Rede SAME). https:redesame.fmvz.usp.br/
-
-    - Tammi T, Hohti R, Rautio P. From Child–Animal Relations to Multispecies Assemblages
-    and Other-Than-Human Childhoods. Barn – forskning om barn og barndom i Norden
-    [Internet]. 2023 Aug 16 [cited 2024 May 3];41(2–3). Available from: https://tidsskriftetbarn.no/index.php/barn/article/view/5475
-
-    - Taylor A, Pacini-Ketchabaw V. Learning with children, ants, and worms in the
-    Anthropocene: towards a common world pedagogy of multispecies vulnerability. Pedagogy,
-    Culture & Society. 2015 Oct 2;23(4):507–29.
-
-    - Westerlaken M. What is the opposite of speciesism? On relational care ethics
-    and illustrating multi-species-isms. International Journal of Sociology and Social
-    Policy. 2020 Jan 1;41(3/4):522–40.'
+    Crianças de uma periferia urbana.'
   course: '1. Introdução à saúde multiespécie e suas pedagogias periféricas.
 
     2. Revisão e discussão de literatura.
@@ -45,11 +51,19 @@ courses:
 
     4. Preparação de atividade didática de educação em saúde com crianças.
 
-    5. Elaboração de proposta especulativa.'
+    5. Elaboração de um relatório sobre a situação atual e perspectivas em saúde da
+    comunidade estudada.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'VPS1101 - Pedagogias periféricas da saúde multiespécie
 
     Peripheral pedagogies of multispecies health'
   deactivation: ''
+  instructors: '602530 - Evelise Oliveira Telles
+
+    1032471 - Fabio Gregori
+
+    7749147 - Oswaldo Santos Baquero'
   lecture_credits: '4'
   objectives: 'da atividade
 
@@ -73,7 +87,7 @@ courses:
 
     60 h'
   type: Semestral
-created_at: '20241211183217'
-digest: RWMMEVSEYIADCBHA43WGTP5CIDSKBPDM
-updated_at: '20241211183217'
-url: https://web.archive.org/web/20241211183217id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS1101&codcur=10012&codhab=0
+created_at: '20251203143658'
+digest: VJ7FDQAPGWHGXVDQHSIZCWY5W5TDTTJQ
+updated_at: '20251203143658'
+url: https://web.archive.org/web/20251203143658id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS1101&verdis=2
