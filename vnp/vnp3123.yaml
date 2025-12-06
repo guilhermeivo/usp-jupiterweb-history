@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2024
+  activation: 01/01/2025
   assessment: 'A recuperação constará de uma prova. A média final, após a recuperação,
     constará de: (média da avaliação final + nota da recuperação) ÷ 2.'
   bibliography: 'CHIAVENATO, I. Introdução à Teoria Geral da Administração. 8ed. Campus,
@@ -14,12 +14,13 @@ courses:
     \ de produtos (alimentos, medicamentos, acessórios) para pets;\n•\tDesenvolvimento\
     \ de Médicos Veterinários;\n•\tPlanejamento estratégico e negócios do segmento\
     \ pet;\n•\tInstalação e gestão de clínica veterinária;\n•\tAdministração de empresas\
-    \ e estabelecimentos veterinários.\n•\tVisitas técnicas em empresas."
+    \ e estabelecimentos veterinários.\n•\tVisitas técnicas em empresas.\nInstrumentos\
+    \ e Critérios de Avaliação"
   course_name: 'VNP3123 - Gestão do Segmento Pet
 
     Pet Market Management'
-  deactivation: 31/12/2024
-  instructors: 3076741 - Francisco Palma Rennó
+  deactivation: ''
+  instructors: 6517960 - Thiago Henrique Annibale Vendramini
   lecture_credits: '1'
   objectives: Fornecer ao aluno do curso de Medicina Veterinária, através de entrevistas
     de gestores e membros da empresa (convidados externos) fundamentos e conceitos
@@ -29,13 +30,13 @@ courses:
   practical_credits: '0'
   total_workload: 15 h
   type: Semestral
-created_at: '20241211034310'
-digest: M6ZULJ6EXCUKIX6BV7AXUGVRHC5P6MJO
+created_at: '20251206191915'
+digest: 4YQJ32HFHFZS2J3QYO4CXHFPOSUDSPKA
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 5'
   requirements:
   - code: VNP3122
     name: Gestão Aplicada para Médicos Veterinários
     type: Indicação de Conjunto
-updated_at: '20241211034310'
-url: https://web.archive.org/web/20241211034310id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3123&codcur=10012&codhab=0
+updated_at: '20251206191915'
+url: https://web.archive.org/web/20251206191915id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3123&verdis=3
