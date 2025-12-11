@@ -1,11 +1,9 @@
 courses:
-  activation: 01/01/2018
+  activation: 01/01/2023
   assessment: 'A recuperação constará de uma prova teórica, respeitando-se a normatização
-    da USP.
-
-    A média da avaliação final da disciplina entrará no cômputo da recuperação, sendo:
-
-    Nota Final = (Média da Avaliação Final + Média da prova de Recuperação) / 2'
+    da USP. A média da avaliação final da disciplina entrará no cômputo da recuperação,
+    sendo: Nota Final = (Média da Avaliação Final + Média da prova de Recuperação)
+    / 2'
   bibliography: 'ANDRADE, A; PINTO, SC; OLIVEIRA, RS. (Org.) Animais de Laboratório
     – Criação e Experimentação. Rio de Janeiro: Editora FIOCRUZ. (2002). 387 p.
 
@@ -14,7 +12,7 @@ courses:
 
     BACHINSKI R., TRÉZ T., ALVES G. G., DE C M GARCIA R., OLIVEIRA S. T., DA S ALONSO
     L., HECK J. X., DIAS C. M., COSTA NETO J. M., ROCHA A. A., RUIZ V. R., PAIXÃO
-    R. L.. Humane Education in Brazil: Organization, Challenges and Opportunities.
+    R. L..Humane Education in Brazil: Organization, Challenges and Opportunities.
     Alternatives to Laboratory Animals, v, 43, n. 5, p. 337-344, Nov., 2015.
 
     CANADIAN COUNCIL ON ANIMAL CARE. Guide to the care and use of experimental animals.
@@ -34,7 +32,7 @@ courses:
     São Paulo: Polo Gráfica. 2012. 271 p.
 
     NATIONAL RESEARCH COUNCIL Guide for the care and use of laboratory animals. 8
-    ed. Washington: National Academies Press. 2011. 22 p. > Disponível em  http://www.ncbi.nlm.nih.gov/books/NBK54050/
+    ed. Washington: National Academies Press. 2011. 22 p. > Disponível em http://www.ncbi.nlm.nih.gov/books/NBK54050/
 
     RIVERA, EAB; AMARAL, MH; NASCIMENTO, VP Ética e bioética aplicadas à Medicina
     Veterinária. Goiânia: Gráfica UFG. 2006. 298 p.
@@ -52,48 +50,51 @@ courses:
     Sites:
 
     Canadian Council on Animal Care. Disponível em: < http://www.ccac.ca >. Acesso
-    em 02 de maio 2017.
+    em 21 de julho 2022.
 
     Conselho Nacional de Controle de Experimentação Animal (CONCEA). Disponível em:
-    < http://www.mct.gov.br/index.php/content/view/310553.html >. Acesso em 02 de
-    maio 2017.
+    https://www.gov.br/mcti/pt-br/composicao/conselhos/concea. Acesso em 21 de julho
+    2022
 
-    Conselho Regional de Medicina Veterinária – SP. Disponível em: < http://www.crmvsp.gov.br/site/
-    >. Acesso em 02 de maio 2017.
+    Conselho Regional de Medicina Veterinária – SP. Disponível em: https://crmvsp.gov.br/.
+    Acesso em 21 de julho 2022.
 
-    Conselho Federal de Medicina Veterinária. Disponível em: > http://portal.cfmv.gov.br/portal/
-    >. Acesso em 02 de maio 2017.
+    Conselho Federal de Medicina Veterinária. Disponível em: https://www.cfmv.gov.br/
+    . Acesso em 21 de julho 2022.
 
-    Federation of European Laboratory Animal Science. Disponível em: > http://www.felasa.eu/
-    >. Acesso em 02 de maio 2017.
+    Federation of European Laboratory Animal Science. Disponível em: http://www.felasa.eu/
+    . Acesso em 21 de julho 2022.
 
-    Institutional Animal Care and Use Committee. Disponível em: > http://www.iacuc.org
-    >. Acesso em 02 de maio 2017.
+    Sociedade Brasileira de Ciências em Animais de Laboratório. Disponível em: https://www.sbcal.org.br/.
+    Acesso em 21 de julho 2022.
 
-    Sociedade Brasileira de Ciências em Animais de Laboratório. Disponível em: > http://www.cobea.org.br
-    >. Acesso em 02 de maio 2017.
+    InterNICHE - International Network for Humane Education. Disponível em www.interniche.org//.
+    Acesso em 21 de julho 2022.
 
-    InterNICHE - International Network for Humane Education. Disponível em < www.interniche.org//
-    >. Acesso em 02 de maio 2017.
+    Training Resources OACU – Office of Animal Care and Use – NIH. Disponível em https://oacu.oir.nih.gov/training-resources
+    . Acesso em 21 de julho 2022.
 
-    Procedures With Care. Disponível em < www.procedureswithcare.org.uk/ >. Acesso
-    em 02 de maio 2017.
+    National Centre for the Replacement, Refinement and Reduction of Animals in Research
+    – NC3Rs. Disponível em https://www.nc3rs.org.uk/ Acesso em 21 de julho 2022
 
-    Training Resources OACU – Office of Animal Care and Use – NIH. Disponível em <
-    https://oacu.oir.nih.gov/training-resources >. Acesso em 02 de maio 2017..'
+    Boas Práticas em Experimentação Animal (BPEA). Disponível em: http://bpeanimal.iq.usp.br/
+    . Acesso em 21 de julho 2022'
   course: "1.\tIntrodução à ciência de animais de laboratório.\n2.\tHistórico da utilização\
     \ de animais no ensino e na pesquisa.\n3.\tÉtica na utilização de animais no ensino\
     \ e na pesquisa.\n4.\tLegislação na utilização de animais no ensino e na pesquisa.\n\
     5.\tBem-estar em animais de laboratório.\n6.\tO papel do médico veterinário na\
     \ ciência de animais de laboratório.\n7.\tModelos animais e procedimentos experimentais.\n\
     8.\tEutanásia em animais de laboratório.\n9.\tObjeção de consciência.\n10.\tMétodos\
-    \ substitutivos e alternativos ao uso de animais."
+    \ substitutivos e alternativos ao uso de animais.\nInstrumentos e Critérios de\
+    \ Avaliação"
   course_name: 'VPT1101 - Princípios Éticos e Legais no Uso de Animais no Ensino e
     na Pesquisa
 
     Ethical and Legal Principles on the Use of Animals in Education and Research'
-  deactivation: 31/12/2022
-  instructors: 141703 - Claudia Madalena Cabrera Mori
+  deactivation: ''
+  instructors: '141703 - Claudia Madalena Cabrera Mori
+
+    1240998 - Paulo César Maiorka'
   lecture_credits: '2'
   objectives: Seguindo uma tendência internacional, o uso de animais no ensino de
     graduação tem sido progressivamente substituído por alternativas, tais como programas
@@ -108,7 +109,7 @@ courses:
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20221003040827'
-digest: QTDEYD6YSYU3PFRJ67TH7VGQDWK2RQUW
-updated_at: '20221003040827'
-url: https://web.archive.org/web/20221003040827id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT1101&codcur=10012&codhab=0
+created_at: '20251211133253'
+digest: E4HMYLTHHDZIBCNM5MAC6XVRTJHX2TUO
+updated_at: '20251211133253'
+url: https://web.archive.org/web/20251211133253id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT1101&verdis=2
