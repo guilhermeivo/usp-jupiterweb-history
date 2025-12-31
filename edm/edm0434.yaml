@@ -1,5 +1,5 @@
 courses:
-  activation: 15/07/2019
+  activation: 15/07/2024
   assessment: '1. Realização integral dos estágios e apresentação de relatório.
 
     2. Trabalho escrito sobre os conteúdos desenvolvidos'
@@ -43,7 +43,15 @@ courses:
     in the Living Word: Teaching Taxonomy & Systematics in Schools, NABT, 1993.
 
     AMERICAN FEDERATION OF TEACHERS.. What College-Bound Sudents Abroad Are Expected
-    to Know About Biology. National Center for Improving Science Education, 1994'
+    to Know About Biology. National Center for Improving Science Education, 1994
+
+    Atividades de Extensão
+
+    Grupo social alvo da atividade
+
+    Estudantes, professores, educadores de espaços não formais, além das comunidades
+    escolares da educação básica e dos espaços não formais em ações voltadas ao ensino
+    e à aprendizagem de biologia e ciências em geral.'
   course: "1.Orientações e projetos para realização de estágio.\n2. A situação da\
     \ Biologia no currículo escolar.\n3. Planejamento curricular no ensino de Biologia.\n\
     4. Avaliação.\n5. O ambiente - atividades e segurança no laboratório e no campo.\n\
@@ -54,21 +62,44 @@ courses:
     \ tais como exposições dialogadas, práticas de laboratório e de campo, exercícios\
     \ simulados, jogos, etc. Parte fundamental da disciplina corresponde \x91as atividades\
     \ realizadas durante os estágios; tais atividades serão acompanhadas ao longo\
-    \ das aulas, documentadas pelos alunos e constituirão um relatório."
+    \ das aulas, documentadas pelos alunos e constituirão um relatório.\nInstrumentos\
+    \ e Critérios de Avaliação"
   course_name: 'EDM0434 - Metodologia do Ensino de Ciências Biológicas II
 
-    Methodology of the Teaching of Biological Sciences II'
+    Biological Sciences Teaching Methodologies II'
   deactivation: ''
   instructors: '2987179 - Martha Marandino
 
-    80098 - Silvia Luzia Frateschi Trivellato'
+    5128439 - Rena de Paula Orofino Silva'
   lecture_credits: '4'
-  objectives: "1. Analisar os currículos de Ciências Biológicas e disciplinas correlatas\
-    \ em vigor na escola de ensino fundamental e médio.\n2. Realizar e executar planejamentos\
-    \ curriculares.\n3. Analisar e elaborar instrumentos e material para avaliação.\n\
-    4. Analisar e selecionar recursos necessários \x91a execução de cursos de Ciências\
-    \ Biológicas\n5.Vivenciar situações práticas do exercício profissional por meio\
-    \ da realização de estágios"
+  objectives: 'da atividade
+
+    Partindo do princípio da indissociabilidade entre ensino, pesquisa e extensão,
+    as ações extensionistas no âmbito das disciplinas das Licenciaturas têm, como
+    objetivo geral, contribuir para a ampliação da inserção social da FEUSP. Do ponto
+    de vista das/dos discentes, as iniciativas visam possibilitar-lhes experiências
+    formativas por meio do envolvimento em atividades realizadas em instituições e
+    espaços educativos formais e não formais. Do ponto de vista dos grupos sociais
+    envolvidos, as ações buscam promover impacto social decorrente da construção de
+    conhecimentos advindos da relação universidade-sociedade no enfrentamento de problemas
+    sociais, sobretudo aqueles relacionados à vida escolar e demais espaços educativos.
+
+    Descrição da atividade
+
+    Leitura e discussão de textos; participação em atividades de ensino e divulgação
+    voltadas à comunidade escolar e não escolar, por meio de acompanhamento, planejamento
+    e implementação de propostas; discussões e avaliação sobre experiências ocorridas
+    nos momentos de estágio; apresentação de registros e relatos críticos sobre as
+    experiências.
+
+    Formas de acompanhamento das atividades desenvolvidas pelos estudantes: O acompanhamento
+    acontecerá a partir de relatos e registros produzidos de modo oral, escrito e
+    digital, pelos estagiários e em discussões estabelecidas em sala de aula e em
+    momentos de supervisão com os docentes responsáveis e estagiários de pós-graduação.
+
+    Indicadores de avaliação da atividade
+
+    Engajamento com as propostas e posicionamento crítico frente às atividades.'
   practical_credits: '3'
   total_workload: '150 h
 
@@ -76,10 +107,14 @@ courses:
 
     Estágio: 90 h
 
-    )'
+    )
+
+    Carga Horária de Extensão:
+
+    30 h'
   type: Semestral
-created_at: '20210723195847'
-digest: TCKSYOKGJOUN6BWYUXMLEFTBPA6MY72H
+created_at: '20251231055803'
+digest: 3SV3GYDBOBVZDGXTI2FJYILE7P53KE34
 requirements:
 - course: "Curso: 41012  Ciências Biológicas - Habilitação: Licenciatura em Ciências\
     \ Biológicas \r\n                          (integral) - Período ideal: 6"
@@ -93,5 +128,5 @@ requirements:
   - code: EDM0433
     name: Metodologia do Ensino de Ciências Biológicas I
     type: Requisito
-updated_at: '20231023032932'
-url: https://web.archive.org/web/20231023032932id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EDM0434&codc
+updated_at: '20251231055803'
+url: https://web.archive.org/web/20251231055803id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=EDM0434
