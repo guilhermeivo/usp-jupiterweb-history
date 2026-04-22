@@ -31,7 +31,9 @@ courses:
     associados.
 
     A disciplina será oferecida de forma remota e síncrona, utilizando como base as
-    plataformas e-Disciplinas e e-Aulas da USP.'
+    plataformas e-Disciplinas e e-Aulas da USP.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'PRG0018 - Processamento de Linguagem Natural
 
     Natural Language Processing'
@@ -53,7 +55,7 @@ courses:
   practical_credits: '1'
   total_workload: 60 h
   type: Semestral
-created_at: '20230204062539'
-digest: 44OHPNYL66EZPOCFYJCIDYLF72HZA2YV
-updated_at: '20240913154511'
-url: https://web.archive.org/web/20240913154511id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=PRG0018&codcur=1020&codhab=0
+created_at: '20260422150802'
+digest: CINDONLAOSTAERVN4WO7GWRH2MWTXBAQ
+updated_at: '20260422150802'
+url: https://web.archive.org/web/20260422150802id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?codcur=1020&codhab=0&sgldis=PRG0018
