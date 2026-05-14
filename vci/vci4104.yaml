@@ -91,7 +91,16 @@ courses:
   practical_credits: '0'
   total_workload: 15 h
   type: Semestral
-created_at: '20251121150319'
-digest: KBPNMY2ERV5W4DI2HO3GL3QA56NWX7K7
-updated_at: '20251121150319'
-url: https://web.archive.org/web/20251121150319id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI4104&verdis=3
+created_at: '20260514162837'
+digest: NUDBWRJAXJS7GUJBE2A4EX3FBE5M7AQL
+requirements:
+- course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 7'
+  requirements:
+  - code: VCI1201
+    name: Anatomia dos Animais Domésticos II
+    type: Requisito
+  - code: VCI1101
+    name: Anatomia dos Animais Domésticos I
+    type: Requisito
+updated_at: '20260514162837'
+url: https://web.archive.org/web/20260514162837id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VCI4104
