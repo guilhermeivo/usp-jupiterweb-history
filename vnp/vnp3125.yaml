@@ -1,9 +1,10 @@
 courses:
-  activation: 01/01/2025
-  assessment: 'A recuperação constará de uma única prova sendo que a média da avaliação
-    final da disciplina entrará no computo da nota da recuperação. Desta maneira,
-    a média final, após a recuperação, constará: média da avaliação final + média
-    da recuperação ÷ 2'
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
   bibliography: 'AITKIN, M. A. Statistical inference : an integrated Bayesian / likelihood
     approach. Editora Chapman & Hall/CRC, 2010, 236 p.
 
@@ -29,130 +30,96 @@ courses:
 
     TRIOLA, M. F. Introdução à Estatística. Rio de Janeiro: LTC Editora, 7ª Ed., 1999.
     410 p.'
-  course: 'Conceitos Básicos em Estatística Experimental:
+  course: '-Conceitos Básicos em Estatística Experimental: Parâmetros; Estimadores;
+    Estimativas; Hipóteses; Erros tipo I e II.
 
-    Parâmetros;
+    -Testes de Hipóteses: Teste para uma Média Amostral: Exemplos Práticos; Teste
+    para duas Variâncias Amostrais: Exemplos Práticos; Teste para duas Amostras Independentes:
+    Exemplos Práticos; Teste para duas Amostras Dependentes: Exemplos Práticos.
 
-    Estimadores;
+    -Contraste entre Grupos de Médias: Definição; Estimativa do contraste: Exemplo
+    Prático; Variância do contraste: Exemplo Prático; Covariância entre contraste
+    e ortogonalidade: Exemplos Práticos.
 
-    Estimativas;
+    -Princípios Básicos da Experimentação: Alguns Conceitos Básicos; Princípio da
+    Repetição; Princípio da Casualização; Princípio do Controle local. Fontes de Variação
+    de um Experimento.
 
-    Hipóteses;
+    -Delineamento Inteiramente Casualizados (DIC): Introdução; Vantagens e Desvantagens;
+    Modelo Estatístico; Quadro de Tabulação das Dados; Análise de Variância; Exemplos
+    Práticos.
 
-    Erros tipo I e II.
+    -Testes de Comparações de Médias e de Grupos de Médias: Introdução; Alguns Procedimentos
+    para Comparações Múltiplas: Teste de Tukey: Exemplo Prático; Teste de Duncan:
+    Exemplo Prático; Teste de Scheffé: Exemplo Prático. Vantagens e Desvantagens dos
+    Procedimentos de Comparações Múltiplas; Fatores Qualitativos versus Fatores Quantitativos.
 
-    Testes de Hipóteses:
+    -Delineamento em Blocos Casualizados (DBC): Introdução; Modelo Estatístico; Quadro
+    de Tabulação dos Dados; Análise de Variância; Exemplos Práticos.
 
-    Teste para uma Média Amostral: Exemplos Práticos;
+    -Delineamento em Qualdrado Latino (DQL): Introdução; Modelo Estatístico; Quadro
+    de Tabulação dos Dados; Análise de Variância; Exemplos Práticos.
 
-    Teste para duas Variâncias Amostrais: Exemplos Práticos;
-
-    Teste para duas Amostras Independentes: Exemplos Práticos;
-
-    Teste para duas Amostras Dependentes: Exemplos Práticos.
-
-    Contraste entre Grupos de Médias:
-
-    Definição;
-
-    Estimativa do contraste: Exemplo Prático;
-
-    Variância do contraste: Exemplo Prático;
-
-    Covariância entre contraste e ortogonalidade: Exemplos Práticos.
-
-    Princípios Básicos da Experimentação:
-
-    Alguns Conceitos Básicos;
-
-    Princípio da Repetição;
-
-    Princípio da Casualização;
-
-    Princípio do Controle local.
-
-    Fontes de Variação de um Experimento.
-
-    Delineamento Inteiramente Casualizados (DIC):
-
-    Introdução;
-
-    Vantagens e Desvantagens;
-
-    Modelo Estatístico;
-
-    Quadro de Tabulação das Dados;
-
-    Análise de Variância;
-
-    Exemplos Práticos.
-
-    Testes de Comparações de Médias e de Grupos de Médias:
-
-    Introdução;
-
-    Alguns Procedimentos para Comparações Múltiplas:
-
-    Teste de Tukey: Exemplo Prático;
-
-    Teste  de Duncan: Exemplo Prático;
-
-    Teste de Scheffé: Exemplo Prático.
-
-    Vantagens e Desvantagens dos Procedimentos de Comparações Múltiplas;
-
-    Fatores Qualitativos versus Fatores Quantitativos.
-
-    Delineamento em Blocos Casualizados (DBC):
-
-    Introdução;
-
-    Modelo Estatístico;
-
-    Quadro de Tabulação dos Dados;
-
-    Análise de Variância;
-
-    Exemplos Práticos.
-
-    Delineamento em Qualdrado Latino (DQL):
-
-    Introdução;
-
-    Modelo Estatístico;
-
-    Quadro de Tabulação dos Dados;
-
-    Análise de Variância;
-
-    Exemplos Práticos.
-
-    Uso de Computadores em Análises Experimentais:
-
-    Introdução; Montagem do Arquivo de Dados; Modelo apropriado ao Delineamento; Escolha
-    do Procedimento apropriado; Gravação dos Arquivos de Saída (output’s) ;Interpretação
-    dos Resultados das Análises.
-
-    Instrumentos e Critérios de Avaliação'
+    -Uso de Computadores em Análises Experimentais: Introdução; Montagem do Arquivo
+    de Dados; Modelo apropriado ao Delineamento; Escolha do Procedimento apropriado;
+    Gravação dos Arquivos de Saída (output’s); Interpretação dos Resultados das Análises.'
   course_name: 'VNP3125 - Métodos Estatísticos aplicados à Nutrição e Produção Animal
 
     Statistical Methods applied to Animal Nutrition and Production'
   deactivation: ''
   instructors: 3571174 - Júlio César de Carvalho Balieiro
   lecture_credits: '2'
-  objectives: Auxiliar na capacitação teórica e prática dos alunos, visando o desenvolvimento
-    do raciocínio lógico para reconhecer os principais delineamentos experimentais
-    utilizados na experimentação animal voltada à Nutrição e Produção Animal.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 2)
+
+    Fome Zero e Agricultura Sustentável:
+
+    acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover
+    a agricultura sustentável;
+
+    n° 3)
+
+    Saúde e Bem-Estar:
+
+    assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades;
+
+    n° 12)
+
+    Consumo e Produção Responsáveis:
+
+    assegurar padrões de produção e de consumo sustentáveis;
+
+    n° 13)
+
+    Ação Contra a Mudança Global do Clima:
+
+    tomar medidas urgentes para combater a mudança climática e seus impactos;
+
+    n° 14)
+
+    Vida na Água:
+
+    conservação e uso sustentável dos oceanos, dos mares, e dos recursos marinhos
+    para o desenvolvimento sustentável;
+
+    n° 15)
+
+    Vida Terrestre:
+
+    proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres,
+    gerir de forma sustentável as florestas, combater a desertificação, deter e reverter
+    a degradação da Terra e deter a perda da biodiversidade;'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20251121094123'
-digest: LETRJRDCFVMYC65RFGGXMYSB4P5VGR3A
+created_at: '20260514151247'
+digest: DIFNXNPJF5OVEJDD2IH5TJBEWOWTEGVJ
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 5'
   requirements:
   - code: VPS1201
     name: Métodos Quantitativos em Medicina Veterinária
     type: Requisito
-updated_at: '20251121094123'
-url: https://web.archive.org/web/20251121094123id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3125&verdis=2
+updated_at: '20260514151247'
+url: https://web.archive.org/web/20260514151247id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3125
