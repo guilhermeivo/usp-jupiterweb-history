@@ -1,59 +1,83 @@
 courses:
-  activation: 01/01/2025
-  assessment: 'A recuperação constará de duas provas sendo que a média da avaliação
-    final da disciplina entrará no computo da recuperação. Desta maneira, a média
-    final, após a recuperação, constará: média da avaliação final + média da recuperação
-    ÷ 2.'
-  bibliography: 'ASSOCIATION OF AMERICAN FEED CONTROL OFFICIALS - AAFCO. Official
-    Publications. Association of American Feed Control Officials, 2010.
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação) / 2].'
+  bibliography: 'ASSOCIATION OF AMERICAN FEED CONTROL OFFICIALS - AAFCO.
 
-    CASE, L. P.; CAREY, E. P.; HIRAKAWA, D. A. Canine and feline nutrition. A resource
-    for companion animal professionals. St. Louis: Mosby. 2010. 455p.
+    Official Publications
 
-    FEDIAF - Nutritional guidelines for complete and complementary pet food for cats
-    and dogs, 2014.
+    . Association of American Feed Control Officials, 2010.
+
+    CASE, L. P.; CAREY, E. P.; HIRAKAWA, D. A.
+
+    Canine and feline nutrition
+
+    . A resource for companion animal professionals. St. Louis: Mosby. 2010. 455p.
+
+    FEDIAF -
+
+    Nutritional guidelines for complete and complementary pet food for cats and dogs
+
+    , 2014.
 
     GRANDJEAN, D.; PIERSON, P.; RIVIÉRE, S.; GRELLET, A.; BOOGAERTS, C.; COLLIARD,
-    L.; THOREL, J.; OVERALL, K.; ZABEL, U. Pratical guide dog breeding. 4ed. Diffo
-    Print: Aimargues, 2009, 431p.
+    L.; THOREL, J.; OVERALL, K.; ZABEL, U.
 
-    National Research Council. Nutrient Requirements of Dogs and Cats. The National
-    Academy Press, p.230-231, 2006.'
-  course: "Mercado pet food: tendências e oportunidades;\n•\tFisiologia digestiva\
-    \ e comportamento alimentar de cães e gatos: semelhanças e particularidades;\n\
-    •\tCarboidratos e fibras na nutrição e alimentação de cães e gatos: metabolismo,\
-    \ fontes e recomendações;\n•\tGorduras e ácidos graxos na nutrição e alimentação\
-    \ de cães e gatos: metabolismo, fontes e recomendações;\n•\tProteinas e aminoácidos\
-    \ na nutrição e alimentação de cães e gatos: metabolismo, fontes e recomendações;\n\
-    •\tEnergia: medidas e necessidades; técnicas de avaliação do gasto energético\
-    \ em cães e gatos;\n•\tVitaminas, minerais e antioxidantes: necessidades e recomendações;\n\
-    •\tManejo nutricional e alimentar nas diferentes fases de vida: crescimento, manutenção,\
-    \ gestação, lactação e geriatria;\n•\tNutrição do cão atleta e de trabalho;\n\
-    •\tProtocolos de avaliação de alimentos para cães e gatos (digestibilidade, palatabilidade,\
-    \ pH urinário e saúde a longo prazo);\n•\tAlimentos comerciais e avaliação de\
-    \ rótulo: como diferenciar diferentes alimentos com base nessas informações;\n\
-    •\tNoções gerais sobre raças de cães e gatos e particularidades nutricionais relacionadas;\n\
-    •\tNoções gerais sobre construções e instalações para canis e gatis de acordo\
-    \ com cada fase de vida;\nAtividades práticas:\n•\tCondução de ensaio de digestibilidade\
-    \ e pH urinário (aula no canil/gatil);\n•\tAvaliação de escore de condição corporal\
-    \ em cães e gatos (aula no canil/gatil);\n•\tAvaliação de escore de massa muscular\
-    \ em cães e gatos (aula no canil/gatil);\n•\tVisitas à fábricas de alimentos (empresas);\n\
-    Instrumentos e Critérios de Avaliação"
+    Pratical guide dog breeding
+
+    . 4ed. Diffo Print: Aimargues, 2009, 431p.
+
+    National Research Council.
+
+    Nutrient Requirements of Dogs and Cats
+
+    . The National Academy Press, p.230-231, 2006.'
+  course: "•\tHistória evolutiva de cães e gatos;\n•\tFisiologia digestiva e comportamento\
+    \ alimentar de cães e gatos: semelhanças e particularidades;\n•\tNecessidades\
+    \ nutricionais e alimentares de cães e gatos;\n•\tCarboidratos e fibras na nutrição\
+    \ e alimentação de cães e gatos: metabolismo, fontes e recomendações;\n•\tGorduras\
+    \ e ácidos graxos na nutrição e alimentação de cães e gatos: metabolismo, fontes\
+    \ e recomendações;\n•\tProteínas e aminoácidos na nutrição e alimentação de cães\
+    \ e gatos: metabolismo, fontes e recomendações;\n•\tEnergia: medidas e necessidades;\
+    \ técnicas de avaliação do gasto energético em cães e gatos;\n•\tVitaminas, minerais\
+    \ e antioxidantes: necessidades e recomendações;\n•\tManejo nutricional e alimentar\
+    \ nas diferentes fases de vida: crescimento, manutenção, gestação, lactação e\
+    \ geriatria;\n•\tProtocolos de avaliação de alimentos para cães e gatos (digestibilidade,\
+    \ palatabilidade, pH urinário e saúde a longo prazo);\n•\tAlimentos comerciais\
+    \ e avaliação de rótulo: como diferenciar diferentes alimentos com base nessas\
+    \ informações.\nAtividades práticas:\n•\tCondução de ensaio de digestibilidade,\
+    \ palatabilidade e aceitabilidade (aula no canil/gatil);\n•\tAvaliação de escore\
+    \ de condição corporal e escore de massa muscular em cães e gatos (aula no canil/gatil);\n\
+    •\tCondução de teste de pH urinário (aula no canil/gatil);\n•\tAvaliação de rótulos\
+    \ de alimentos (empresas);"
   course_name: 'VNP3113 - Nutrição e Criação de Cães e Gatos
 
     Nutrition and breeding of dogs and cats'
   deactivation: ''
   instructors: 6517960 - Thiago Henrique Annibale Vendramini
   lecture_credits: '2'
-  objectives: "•\tCompreender aspectos da digestão, metabolismo dos nutrientes e necessidades\
-    \ nutricionais de cães e gatos;\n•\tCapacitar o acadêmico a avaliar alimentos\
-    \ para cães e gatos;\n•\tCapacitar o aluno a estabelecer um adequado plano nutricional\
-    \ para cães e gatos, nas diferentes fases de vida;\n•\tPropiciar noções gerais\
-    \ sobre raças, manejo e instalações para criação de cães e gatos."
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 4)
+
+    Educação de Qualidade:
+
+    assegurar a educação inclusiva, e equitativa e de qualidade, e promover oportunidades
+    de aprendizagem ao longo da vida para todos;
+
+    n° 17)
+
+    Parcerias e Meios de Implementação:
+
+    fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento
+    sustentável'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20251121110846'
-digest: Y7LRSVPWSDXMWOF54GONMCXFOESWZM2Z
-updated_at: '20251121110846'
-url: https://web.archive.org/web/20251121110846id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3113&verdis=4
+created_at: '20260514161512'
+digest: CLBEJSZFYGLRYFN657TF6XLE54YZMFX7
+updated_at: '20260514161512'
+url: https://web.archive.org/web/20260514161512id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3113
