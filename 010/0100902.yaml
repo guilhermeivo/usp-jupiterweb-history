@@ -1,49 +1,79 @@
 courses:
-  activation: 01/01/2025
+  activation: 15/07/2026
   assessment: A disciplina não oferece segunda avaliação
   bibliography: Todas aquelas que constam das ementas das disciplinas obrigatórias
     do curso de Medicina Veterinária.
-  course: "1.\tClínica Médica e Cirúrgica de Pequenos Animais\no\tDiagnóstico e manejo\
-    \ de doenças comuns em cães e gatos.\no\tPrincipais procedimentos cirúrgicos e\
-    \ cuidados pré e pós-operatórios.\no\tAtendimento emergencial e manejo intensivo.\n\
-    2.\tSaúde Pública Veterinária\no\tZoonoses e doenças de interesse em saúde pública.\n\
-    o\tControle de surtos e atuação em emergências sanitárias.\no\tInspeção e controle\
-    \ de qualidade de produtos de origem animal.\n3.\tProdução Animal e Reprodução\n\
-    o\tGestão de propriedades rurais e sistemas de produção animal.\no\tNutrição,\
-    \ sanidade e manejo reprodutivo de animais de produção.\no\tBem-estar animal e\
-    \ sustentabilidade na produção agropecuária.\n4.\tÉtica e Deontologia Veterinária\n\
-    o\tPrincípios éticos na prática veterinária.\no\tRelação veterinário-cliente e\
-    \ responsabilidade profissional.\no\tRegulamentações e legislações pertinentes\
-    \ à Medicina Veterinária.\nInstrumentos e Critérios de Avaliação"
+  course: '1. Clínica Médica e Cirúrgica de Pequenos Animais
+
+    o Diagnóstico e manejo de doenças comuns em cães e gatos.
+
+    o Principais procedimentos cirúrgicos e cuidados pré e pós-operatórios.
+
+    o Atendimento emergencial e manejo intensivo.
+
+    2. Clínica Médica e Cirúrgica de Grandes Animais
+
+    o Principais patologias de interesse em bovinos, equinos e suínos.
+
+    o Técnicas de diagnóstico, terapia e cirurgia em grandes animais.
+
+    o Manejo reprodutivo e zootécnico de espécies de produção.
+
+    3. Saúde Pública Veterinária
+
+    o Zoonoses e doenças de interesse em saúde pública.
+
+    o Controle de surtos e atuação em emergências sanitárias.
+
+    o Inspeção e controle de qualidade de produtos de origem animal.
+
+    4. Produção Animal e Reprodução
+
+    o Gestão de propriedades rurais e sistemas de produção animal.
+
+    o Nutrição, sanidade e manejo reprodutivo de animais de produção.
+
+    o Bem-estar animal e sustentabilidade na produção agropecuária.
+
+    5. Ética e Deontologia Veterinária
+
+    o Princípios éticos na prática veterinária.
+
+    o Relação veterinário-cliente e responsabilidade profissional.
+
+    o Regulamentações e legislações pertinentes à Medicina Veterinária.'
   course_name: '0100902 - Ênfase de Formação em Serviço - Módulo II
 
     In-service formation training - Module II'
   deactivation: ''
   instructors: 1463350 - Mayra Elena Ortiz D'Avila Assumpção
   lecture_credits: '0'
-  objectives: 'Específicos:
+  objectives: 'da atividade
 
-    o Aplicar, na prática, os conhecimentos generalistas adquiridos ao longo do curso
-    em diferentes áreas da Medicina Veterinária, como clínica médica e cirúrgica,
-    medicina veterinária preventiva, saúde pública, saúde animal, produção e reprodução
-    animal e inspeção e tecnologia de produtos de origem animal.
+    Treinamento de habilidades técnicas, trabalho em equipe e comunicação interpessoal
+    no atendimento veterinário junto ao HOVET, fazendas e empresas, ao grupo social
+    alvo da atividade.
 
-    o Desenvolver habilidades técnicas e interpessoais para realizar diagnósticos,
-    tratamentos e procedimentos clínicos com precisão e segurança.
+    Descrição da atividade
 
-    o Promover a integração entre teoria e prática, estimulando a tomada de decisões
-    baseadas em evidências científicas.
+    Recepção do responsável e do paciente, atendimento com avaliação clínica e coleta
+    de material biológico, solicitação e interpretação de exames complementares, discussão
+    do caso clinico/cirúrgico, acompanhamento do procedimento cirúrgico e pós-operatório.
+    Manejo produtivo, reprodutivo, sanitário e de planejamento nas propriedades rurais
+    e empresas do setor.
 
-    o Aprimorar a comunicação e o relacionamento com proprietários e equipe técnica.
+    Indicadores de avaliação da atividade
 
-    o Capacitar o estudante a gerenciar casos clínicos complexos e situações emergenciais.
-
-    o Fomentar a postura ética, a responsabilidade social e o compromisso com o bem-estar
-    animal.'
+    A cada cliente, o responsável responde um questionário avaliativo do atendimento
+    prestado pelos alunos.'
   practical_credits: '8'
-  total_workload: 240 h
+  total_workload: '240 h
+
+    Carga Horária de Extensão:
+
+    120 h'
   type: Semestral
-created_at: '20251127144752'
-digest: 662H664DMAC6DSCJQORVYIVADTS37QAN
-updated_at: '20251127144752'
-url: https://web.archive.org/web/20251127144752id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=0100902&verdis=1
+created_at: '20260514164132'
+digest: NNXOBP636B7HU4PDYFPA3M5QYDLWVVTL
+updated_at: '20260514164132'
+url: https://web.archive.org/web/20260514164132id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=0100902
