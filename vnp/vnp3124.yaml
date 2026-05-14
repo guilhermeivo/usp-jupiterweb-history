@@ -1,7 +1,10 @@
 courses:
-  activation: 01/01/2023
-  assessment: A recuperação constará de novo projeto final, contemplando 100% dos
-    pontos oferecidos.
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
   bibliography: 'https://support.office.com/en-us/excel
 
     Gondro, C. (2015). Primer to Analysis of Genomic Data Using R. Springer International
@@ -20,35 +23,18 @@ courses:
     https://plotly.com/
 
     Literatura específica: Periódicos internacionais'
-  course: 'Introdução à Bioinformática aplicada à Produção Animal e Medicina Veterinária.
-
-    Introdução aos conceitos sobre visão computacional, Big Data, Aprendizado de Máquina
-    e banco de dados, todos relacionados a possíveis aplicações em Veterinária.
-
-    Noções sobre dados relacionadas à Produção Animal de Precisão
-
-    Novos fenótipos mensurados em Bovinocultura de Leite, Corte e Suinocultura
-
-    Conceitos básicos sobre o uso do EXCEL para fins de exploração inicial dos dados
-
-    Introdução à lógica de programação e linguagem R
-
-    Ferramentas visuais: ggplot2, plotly e Power BI
-
-    Apresentação e discussão de projetos/pesquisas envolvendo dados de Precisão (Imagem,
-    vídeo, sensores e áudio)
-
-    Simulação de dados
-
-    Projeto Final
-
-    Bioinformática na Prática: problemas ligados à Bovinocultura de Leite
-
-    Bioinformática na Prática: problemas ligados à Bovinocultura de Corte
-
-    Bioinformática na Prática: problemas ligados à Suinocultura
-
-    Instrumentos e Critérios de Avaliação'
+  course: "•\tIntrodução à Bioinformática aplicada à Produção Animal e Medicina Veterinária.\n\
+    •\tIntrodução aos conceitos sobre visão computacional, Big Data, Aprendizado de\
+    \ Máquina e banco de dados, todos relacionados a possíveis aplicações em Veterinária.\n\
+    •\tNoções sobre dados relacionadas à Produção Animal de Precisão\n•\tNovos fenótipos\
+    \ mensurados em Bovinocultura de Leite, Corte e Suinocultura\n•\tConceitos básicos\
+    \ sobre o uso do EXCEL para fins de exploração inicial dos dados\n•\tIntrodução\
+    \ a lógica de programação e linguagem R\n•\tFerramentas visuais: ggplot2, plotly\
+    \ e Power BI\n•\tApresentacao e discussao de projetos/pesquisas envolvendo dados\
+    \ de Precisão (Imagem, vídeo, sensores e áudio)\n•\tSimulação de dados\n•\tProjeto\
+    \ Final\n•\tBioinformática na Prática: problemas ligados à Bovinocultura de Leite\n\
+    •\tBioinformática na Prática: problemas ligados à Bovinocultura de Corte\n•\t\
+    Bioinformática na Prática: problemas ligados à Suinocultura"
   course_name: 'VNP3124 - Bioinformática aplicada à Medicina Veterinária e Pecuária
     de Precisão
 
@@ -56,30 +42,32 @@ courses:
   deactivation: ''
   instructors: 9124662 - Ricardo Vieira Ventura
   lecture_credits: '2'
-  objectives: 'Novos projetos relacionados à área de produção animal estão gerando
-    grandes quantidades de dados biológicos, o que em muitos casos requer estratégias
-    específicas sobre armazenamento, e visualização, previamente as etapas de análise
-    estatística e emprego de modelagens específicas. Esta disciplina fornecerá aos
-    alunos uma visão geral e conhecimento inicial sobre possíveis aplicações de técnicas
-    computacionais com foco na manipulação de dados biológicos, fontes de projetos
-    aplicados às áreas de Medicina Veterinária e Zootecnia de Precisão. Adicionalmente,
-    irá capacitar os estudantes possibilitando o aprendizado da linguagem computacional
-    R, utilizada para manipulação e visualização de dados, além de noções sobre ferramentas
-    de visualização de dados. A disciplina tem como objetivos específicos: introduzir/rever
-    conceitos básicos sobre linguagem EXCEL; introduzir conceitos sobre lógica de
-    programação e linguagem R; apresentar as ferramentas ggplot, plotly e PowerBI;
-    Discutir brevemente sobre projetos na área de veterinária que envolvam áreas como
-    visão computacional, Big Data, aprendizado de Máquina, banco de dados, e reconhecimento
-    de padrões envolvendo dados como imagens, vídeos e áudios. Espera-se que, ao final
-    do curso, o aluno possa ter capacidade de utilização da ferramenta EXCEL, R, além
-    de aplicar ferramentas gráficas para fins de manipulação e interpretação inicial
-    de dados simplificados. Adicionalmente, almeja-se também que se possa acumular
-    noções gerais para participação em projetos que envolvam dados e novas técnicas
-    relacionadas à Zootecnia e Medicina Veterinária de Precisão.'
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 4)
+
+    Educação de Qualidade:
+
+    assegurar a educação inclusiva, e equitativa e de qualidade, e promover oportunidades
+    de aprendizagem ao longo da vida para todos;
+
+    n° 8)
+
+    Trabalho Decente e Crescimento Econômico:
+
+    promover o crescimento econômico sustentado, inclusivo e sustentável, emprego
+    pleno e produtivo, e trabalho decente para todos;
+
+    n° 9)
+
+    Indústria, Inovação e Infraestrutura:
+
+    construir infraestrutura resiliente, promover a industrialização inclusiva e sustentável,
+    e fomentar a inovação;'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20251122153951'
-digest: IUVEGGCKLPW4VFSY7AQUHG6KQ2GKAIN2
-updated_at: '20251122153951'
-url: https://web.archive.org/web/20251122153951id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3124&verdis=2
+created_at: '20260514151544'
+digest: JG7RMSF7SCWCU43WGIDNG4JHBB5QZDF5
+updated_at: '20260514151544'
+url: https://web.archive.org/web/20260514151544id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3124
