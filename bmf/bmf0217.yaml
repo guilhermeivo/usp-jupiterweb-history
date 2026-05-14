@@ -75,7 +75,9 @@ courses:
 
     Inibidores do sistema renina-angiotensina
 
-    Fármacos inotrópicos positivos'
+    Fármacos inotrópicos positivos
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'BMF0217 - Farmacologia
 
     Pharmacology'
@@ -91,13 +93,13 @@ courses:
   practical_credits: '0'
   total_workload: 90 h
   type: Semestral
-created_at: '20260514154025'
-digest: BKYUP2ELPNDTGCHKSGVIRZJ7GPNJMUIH
+created_at: '20260514154032'
+digest: AHG2EPBMXAEBRMV466GHCCOVYQPBOB46
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 3'
   requirements:
   - code: BMB0127
     name: Fisiologia I
     type: Requisito
-updated_at: '20260514154025'
-url: https://web.archive.org/web/20260514154025id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=BMF0217
+updated_at: '20260514154032'
+url: https://web.archive.org/web/20260514154032id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=BMF0217
