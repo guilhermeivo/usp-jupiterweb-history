@@ -1,10 +1,8 @@
 courses:
-  activation: 01/01/2020
+  activation: 15/07/2025
   assessment: Nota da 2ª Avaliação = Nota da 1ª Avaliação + 2 x (Nota da prova de
     recuperação) dividido por 3.
-  bibliography: 'Básica
-
-    Bioquímica Básica - A. Marzzocco e B. B. Torres
+  bibliography: 'Bioquímica Básica - A. Marzzocco e B. B. Torres
 
     Princípios de Bioquímica de Lehninger, D. L. Nelson & M. M. Cox
 
@@ -27,15 +25,15 @@ courses:
   course_name: 'QBQ0116 - Bioquímica: Estrutura de Biomoléculas e Metabolismo
 
     Biochemistry: Structure of Biomolecules and Metabolism'
-  deactivation: 14/07/2025
+  deactivation: ''
   instructors: 7105312 - Daniela Sanchez Bassères
-  lecture_credits: '8'
+  lecture_credits: '7'
   objectives: Proporcionar aos alunos uma visão global dos princípios gerais da Bioquímica,
     incluindo estrutura de biomoléculas.
   practical_credits: '0'
-  total_workload: 120 h
+  total_workload: 105 h
   type: Semestral
-created_at: '20250505065621'
-digest: MVYTAJFHTH3AAY7HQTWFOOLAXTXCNJBU
-updated_at: '20250505065621'
-url: https://web.archive.org/web/20250505065621id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QBQ0116
+created_at: '20260514145347'
+digest: IGDYZFC7Y7MWZLH5DRONBXOVWASPQMGX
+updated_at: '20260514145347'
+url: https://web.archive.org/web/20260514145347id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QBQ0116
