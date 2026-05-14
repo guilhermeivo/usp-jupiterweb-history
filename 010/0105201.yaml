@@ -57,7 +57,16 @@ courses:
 
     )'
   type: Semestral
-created_at: '20251203025423'
-digest: WMNKB472NSCAOJ5YQEEWZQG46LL4F3S3
-updated_at: '20260514150133'
-url: https://web.archive.org/web/20260514150133id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=0105201
+created_at: '20260514150144'
+digest: E2VU4Z346LJENRTPJDXMUGW3YHDLYPLY
+requirements:
+- course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 10'
+  requirements:
+  - code: 0100902
+    name: Ênfase de Formação em Serviço - Módulo II
+    type: Requisito
+  - code: 0100901
+    name: Ênfase de Formação em Serviço - Módulo I
+    type: Requisito
+updated_at: '20260514150144'
+url: https://web.archive.org/web/20260514150144id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=0105201
