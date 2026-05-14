@@ -1,60 +1,48 @@
 courses:
-  activation: 15/07/2025
-  assessment: 'A recuperação constará de duas provas, a serem realizadas no período
-    indicado pelo calendário USP. A média final após a recuperação será a média aritmética
-    da nota da avaliação final e da média da recuperação [Média pós-recuperação: (nota
-    da avaliação final + média da recuperação)/2].'
-  bibliography: '- Rede de Saúde Multiespécie (Rede SAME). https:redesame.fmvz.usp.br/
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
+  bibliography: 'Complementar
 
-    - Taylor A, Pacini-Ketchabaw V. Learning with children, ants, and worms in the
-    Anthropocene: towards a common world pedagogy of multispecies vulnerability. Pedagogy,
-    Culture & Society. 2015 Oct 2;23(4):507–29.
-
-    - Atkinson K. Wasps-Bees-Mushrooms-Children: Reimagining Multispecies Relations
-    in Early Childhood Pedagogies. Canadian Children. 2015 Spring;40(2):67–79.
-
-    - O’Brien S. Speculating the Symbio: Possibilities for Multispecies and Multi-Entity
-    World Making in Childhood. Jchildhood. 2022;47(1):45–55.
-
-    - Nxumalo F, Pacini-Ketchabaw V. “Staying with the trouble” in child-insect-educator
-    common worlds. Environmental Education Research. 2017 Nov 26;23(10):1414–26.
-
-    - Tammi T, Hohti R, Rautio P. From Child–Animal Relations to Multispecies Assemblages
-    and Other-Than-Human Childhoods. Barn – forskning om barn og barndom i Norden
-    [Internet]. 2023 Aug 16 [cited 2024 May 3];41(2–3). Available from: https://tidsskriftetbarn.no/index.php/barn/article/view/5475
-
-    - Nelson N, Drew J. Multispecies collaboratories: reconfiguring children’s more-than-human
-    entanglement with colonization, urban development and climate change. Children’s
-    Geographies. 2024 Jan 2;22(1):165–81.
-
-    - Westerlaken M. What is the opposite of speciesism? On relational care ethics
-    and illustrating multi-species-isms. International Journal of Sociology and Social
-    Policy. 2020 Jan 1;41(3/4):522–40.
-
-    - Fatyass R, Casella N. Hacer ciencia con niñas y niños: experiencias, saberes
+    1) FATYASS, R.; CASELLA, N. Hacer ciencia con niñas y niños: experiencias, saberes
     y desafíos situados en un barrio popular de Córdoba, Argentina. ReHuSo: Revista
-    de Ciencias Humanísticas y Sociales. 2023 Jul 1;8(2):106–24.
+    de Ciencias Humanísticas y Sociales, v. 8, n. 2, p. 106–124, 2023. Disponível
+    em:
 
-    - Haraway. D. Ficar com o problema: fazer parentes no Chthuluceno (2023, capítulo
-    8). n-1 edições.
+    https://www.redalyc.org/articulo.oa?id=673175363007
 
-    Atividades de Extensão
+    2) NELSON, N.; DREW, J. Multispecies collaboratories: reconfiguring children’s
+    more-than-human entanglement with colonization, urban development and climate
+    change. Children’s Geographies, v. 22, n. 1, p. 165-181, 2 jan. 2024. Disponível
+    em:
 
-    Grupo social alvo da atividade
+    https://doi.org/10.1080/14733285.2023.2253184
 
-    Crianças de uma periferia urbana.'
+    3) TAMMI, T.; HOHTI, R.; RAUTIO, P. From child–animal relations to multispecies
+    assemblages and other-than-human childhoods. Barn - forskning om barn og barndom
+    i Norden, v. 41, n. 2-3, 16 ago. 2023. Disponível em:
+
+    https://doi.org/10.23865/barn.v41.5475
+
+    4) WESTERLAKEN, M. What is the opposite of speciesism? On relational care ethics
+    and illustrating multi-species-isms. International Journal of Sociology and Social
+    Policy, v. 41, n. 3-4, p. 522–540, 2020. Disponível em:
+
+    https://doi.org/10.1108/IJSSP-09-2019-0176'
   course: '1. Introdução à saúde multiespécie e suas pedagogias periféricas.
 
     2. Revisão e discussão de literatura.
 
-    3. Trabalho de campo.
+    3. Trabalho de campo (visita ao território e respectivas instituições).
 
-    4. Preparação de atividade didática de educação em saúde com crianças.
+    4. Preparação e aplicação de atividade de educação em saúde multiespécie no território
+    com crianças.
 
-    5. Elaboração de um relatório sobre a situação atual e perspectivas em saúde da
-    comunidade estudada.
-
-    Instrumentos e Critérios de Avaliação'
+    5. Elaboração de proposta especulativa quanto a promoção da saúde multiespécie
+    no território.'
   course_name: 'VPS1101 - Pedagogias periféricas da saúde multiespécie
 
     Peripheral pedagogies of multispecies health'
@@ -67,18 +55,18 @@ courses:
   lecture_credits: '4'
   objectives: 'da atividade
 
-    Realizar atividades educação em saúde.
+    realizar atividades educação em saúde multiespécie.
 
     Descrição da atividade
 
-    Com base em revisão de literatura, trabalhos de campo e conversa com educadores
+    com base em revisão de literatura, trabalhos de campo e conversa com educadores
     de uma instituição parceira que trabalha com crianças, os estudantes organizarão
-    e realizarão atividades de educação em saúde adequadas às situações cotidianas
-    das crianças.
+    e realizarão atividades de educação em saúde multiespcie adequadas às situações
+    cotidianas da comunidade em que vivem.
 
     Indicadores de avaliação da atividade
 
-    Comentários das crianças, dos estudantes, da avaliação conjunta dos três docentes
+    comentários das crianças, dos estudantes, da avaliação conjunta dos três docentes
     responsáveis pela disciplina e de representantes da instituição parceira.'
   practical_credits: '0'
   total_workload: '60 h
@@ -87,7 +75,7 @@ courses:
 
     60 h'
   type: Semestral
-created_at: '20251203143658'
-digest: VJ7FDQAPGWHGXVDQHSIZCWY5W5TDTTJQ
-updated_at: '20251203143658'
-url: https://web.archive.org/web/20251203143658id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS1101&verdis=2
+created_at: '20260514153758'
+digest: MRNWQL7MVVG7WDHIEODI4BV2XYOX463R
+updated_at: '20260514153758'
+url: https://web.archive.org/web/20260514153758id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS1101
