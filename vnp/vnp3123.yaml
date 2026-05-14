@@ -1,9 +1,18 @@
 courses:
-  activation: 01/01/2025
-  assessment: 'A recuperação constará de uma prova. A média final, após a recuperação,
-    constará de: (média da avaliação final + nota da recuperação) ÷ 2.'
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
   bibliography: 'CHIAVENATO, I. Introdução à Teoria Geral da Administração. 8ed. Campus,
     2011.
+
+    FREITAS, F.J.S. Ensino de administração nos cursos de medicina veterinária e a
+    visão dos profissionais sobre a gestão dos serviços veterinários para pequenos
+    animais diante da expansão do mercado pet. 2016. Dissertação (Mestrado em Gestão
+    e Inovação na Indústria Animal) - Faculdade de Zootecnia e Engenharia de Alimentos,
+    Universidade de São Paulo, Pirassununga, 2016.
 
     GIOSO, M.A. Gestão da Clínica Veterinária: Como Gerenciar Finanças, Equipes e
     Marketing a seu Favor. Elsevier, 2013.
@@ -14,29 +23,37 @@ courses:
     \ de produtos (alimentos, medicamentos, acessórios) para pets;\n•\tDesenvolvimento\
     \ de Médicos Veterinários;\n•\tPlanejamento estratégico e negócios do segmento\
     \ pet;\n•\tInstalação e gestão de clínica veterinária;\n•\tAdministração de empresas\
-    \ e estabelecimentos veterinários.\n•\tVisitas técnicas em empresas.\nInstrumentos\
-    \ e Critérios de Avaliação"
+    \ e estabelecimentos veterinários."
   course_name: 'VNP3123 - Gestão do Segmento Pet
 
     Pet Market Management'
   deactivation: ''
   instructors: 6517960 - Thiago Henrique Annibale Vendramini
   lecture_credits: '1'
-  objectives: Fornecer ao aluno do curso de Medicina Veterinária, através de entrevistas
-    de gestores e membros da empresa (convidados externos) fundamentos e conceitos
-    de administração focada no mercado de serviços e produtos para animais de companhia,
-    mais especificamente na gestão de clínicas de pequenos animais, hospitais veterinários,
-    negócios e serviços do segmento pet.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 12)
+
+    Consumo e Produção Responsáveis:
+
+    assegurar padrões de produção e de consumo sustentáveis;
+
+    n° 17)
+
+    Parcerias e Meios de Implementação:
+
+    fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento
+    sustentável'
   practical_credits: '0'
   total_workload: 15 h
   type: Semestral
-created_at: '20251206191915'
-digest: 4YQJ32HFHFZS2J3QYO4CXHFPOSUDSPKA
+created_at: '20260514151500'
+digest: LWTK6AU5HZVUSROY5W7NJLCMV5WCPUE5
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 5'
   requirements:
   - code: VNP3122
     name: Gestão Aplicada para Médicos Veterinários
     type: Indicação de Conjunto
-updated_at: '20251206191915'
-url: https://web.archive.org/web/20251206191915id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3123&verdis=3
+updated_at: '20260514151500'
+url: https://web.archive.org/web/20260514151500id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3123
