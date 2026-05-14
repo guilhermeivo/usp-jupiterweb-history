@@ -70,7 +70,13 @@ courses:
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20260514153103'
-digest: 4QSOSOQNFXL7O7CATSGFWPM22QPNMMGT
-updated_at: '20260514153103'
-url: https://web.archive.org/web/20260514153103id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA0443
+created_at: '20260514153122'
+digest: Y4BIAPWG6QVIVVGLLDBEU5YEJWP22DKL
+requirements:
+- course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 7'
+  requirements:
+  - code: VRA2101
+    name: Fisiologia da Reprodução
+    type: Requisito
+updated_at: '20260514153122'
+url: https://web.archive.org/web/20260514153122id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VRA0443
