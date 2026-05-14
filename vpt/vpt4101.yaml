@@ -1,25 +1,62 @@
 courses:
-  activation: 01/01/2024
-  assessment: 'A recuperação constará de duas provas a serem realizadas até uma semana
-    antes do término do período de retificação de matrícula (estabelecido anualmente
-    pelo Calendário USP). A média da avaliação final da disciplina entrará no computo
-    da recuperação, sendo: média = média da avaliação final + média da recuperação
-    ÷ 2.'
-  bibliography: 'Catozo, R.G.; Paula, J.F.; Lima, L.R.; Spinosa, H.S.  Intoxicação
-    em gatos atendidos em um hospital veterinário universitário da cidade de São Paulo:
-    análise retrospectiva de 2010 a 2021. Revista de Educação Continuada em Medicina
-    Veterinária e Zootecnia do CRMV-SP, v. 20, n. 1, e38329, p. 1-10, 2022. DOI: https://doi.org/10.36440/recmvz.v20i1.38329.
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas a serem realizadas no período
+    indicado pelo calendário USP. A média final após a recuperação será a média aritmética
+    da nota da avaliação final e da média da recuperação [Média pós-recuperação: (nota
+    da avaliação final + média da recuperação)/2.'
+  bibliography: 'Complementar
 
-    De Paula, J.F; Spinosa, H.S; Catozo, R,G.; Lima, L,R.; Baldini, B.P. Estudo retrospectivo
-    de casos suspeitos de intoxicação em cães atendidos em um hospital veterinário
-    universitário de São Paulo no período de 2010 a 2021. Archives of Veterinary Science,
-    v.27, n. 3, p. 1-9, 2022.  http://dx.doi.org/10.5380/avs.v27i3.86608.
+    Derelanko; M. J.;
 
-    Gupta, R.C. Veterinary toxicology: basic and clinical principles. 3d. New York,
-    Elsevier, 2018.
+    Auletta
 
-    Hayes, A. W.; Kruger, C.L. Principles and methods of toxicology. 6 ed. Boca Raton,
-    CRC Press, 2014.
+    ,
+
+    C.S. 2014. Handbook of Toxicology. 3 ed. CRC Press.
+
+    Fukushima, A.R.; Spinosa, H.S. Manual de análises toxicológicas forense focado
+    em crimes contra animais. São Paulo, Intertox, 2017. 41p. (ISBN: 978-85-89843-034).
+    (
+
+    http://www.intertox.com.br/manual
+
+    -
+
+    de
+
+    -
+
+    analises
+
+    -
+
+    toxicologicas
+
+    -
+
+    forenses
+
+    focado
+
+    -
+
+    em
+
+    -
+
+    crimes
+
+    -
+
+    contra
+
+    -
+
+    animais
+
+    )
+
+    .
 
     Klassen, C.D. Toxicology: the basic science of poisonous. 9ª ed., New York, MacMillan,
     2019.
@@ -30,13 +67,14 @@ courses:
 
     Monaco, L.M.; Meireles, F.C.; Abdullatif, M.T.G.V. Animais venenosos: serpentes,
     anfíbios, aranhas, escorpiões, insetos e lacraias. 2.ed.rev.ampl. – São Paulo:
-    Instituto Butantan, 2017. (https://publicacoeseducativas.butantan.gov.br/web/animais-venenosos/pages/pdf/animais_venenosos.pdf)
+    Instituto Butantan, 2017
+
+    (https://publicacoeseducativas.butantan.gov.br/web/animaisvenenosos/pages/pdf/animais_venenosos.pdf
+
+    )
 
     Oga, S.; Camargo, M.M.A.; Batistuzzo, J.A.O. Fundamentos de Toxicologia. São Paulo,
     Atheneu, 2014.
-
-    Spinosa, H.S.; Górniak, S.L.; Palermo-Neto, J. Toxicologia aplicada à Medicina
-    Veterinária. 2.ed. Barueri, Manole, 2020.
 
     Tokarnia, C.H.; Brito, M.F.; Barbosa, J.D.; Peixoto, P.V.; Dobereiner, J. Plantas
     toxicas do Brasil para animais de produção. 2.ed. Rio de Janeiro, Helianthus,
@@ -44,48 +82,104 @@ courses:
 
     Waldvogel, J.F.; Lauri, L.S.; Górniak, S.L. Plantas ornamentais e alimentos tóxicos
     para animais de companhia. Boletim Apamvet, v. 13, n. 2, p. 9-12, 2022.'
-  course: 'Introdução à toxicologia veterinária: aspectos históricos e conceitos.
-    Toxicocinética: vias de exposição, absorção, distribuição, biotransformação e
-    eliminação dos agentes tóxicos. Toxicodinâmica: mecanismos de ação dos agentes
-    tóxicos, relação concentração/dose-efeito nocivo. Avaliação da toxicidade. Diagnóstico
-    das intoxicações e noções de toxicologia forense. Conduta de urgência nas intoxicações.
-    Toxicologia do desenvolvimento. Plantas tóxicas ornamentais e de interesse agropecuário.
-    Praguicidas: organoclorados e piretróides, organofosforados e carbamatos, herbicidas,
-    acaricidas, fungicidas e raticidas. Toxicologia dos medicamentos. Intoxicação
-    por metais. Intoxicação por produtos domissanitários. Imunotoxicologia. Micotoxicoses.
-    Alimentos tóxicos para animais e drogas de uso ilícito. Zootoxinas. Toxicologia
-    forense. Resíduos de substâncias químicas em produtos de origem animal. Viagem
-    didática para o campus USP Fernando Costa, em Pirassununga, para realização de
-    aula prática, visando o diagnóstico de intoxicação em animais de produção, em
-    condições de campo.
-
-    Instrumentos e Critérios de Avaliação'
+  course: "1.\tIntrodução à toxicologia veterinária: aspectos históricos e conceitos.\n\
+    2.\tToxicocinética: vias de exposição, absorção, distribuição, biotransformação\
+    \ e eliminação dos agentes tóxicos.\n3.\tToxicodinâmica: mecanismos de ação dos\
+    \ agentes tóxicos, relação concentração/doseefeito nocivo.\n4.\tAvaliação da toxicidade.\n\
+    5.\tDiagnóstico das intoxicações e noções de toxicologia forense.\n6.\tConduta\
+    \ de urgência nas intoxicações.\n7.\tToxicologia do desenvolvimento.\n8.\tPlantas\
+    \ tóxicas ornamentais e de interesse agropecuário.\n9.\tPraguicidas: piretroides,\
+    \ organofosforados e carbamatos, acaricidas, fungicidas e raticidas.\n10.\tToxicologia\
+    \ dos medicamentos.\n11.\tImunotoxicologia.\n12.\tIntoxicação por produtos domissanitários.\n\
+    13.\tMicotoxicoses.\n14.\tAlimentos tóxicos para animais e drogas de uso ilícito.\n\
+    15.\tZootoxinas.\n16.\tResíduos de substâncias químicas em produtos de origem\
+    \ animal."
   course_name: 'VPT4101 - Toxicologia aplicada à Medicina Veterinária
 
-    Applied Toxicology in Veterinary Medicine'
+    Toxicology Applied to Veterinary Medicine'
   deactivation: ''
-  instructors: 91736 - Silvana Lima Gorniak
+  instructors: '5832442 - André Tadeu Gotardo
+
+    91736 - Silvana Lima Gorniak'
   lecture_credits: '3'
-  objectives: Proporcionar aos alunos os conhecimentos de toxicologia veterinária,
-    capacitando-os a compreender os fatores envolvidos na toxicidade de diversos agentes
-    e seus efeitos nocivos no organismo animal, bem como as implicações na saúde humana
-    de resíduos de produtos de uso veterinário e de agentes tóxicos nos animais de
-    produção. Habilitar o aluno na prevenção, diagnóstico e tratamento das intoxicações
-    dos animais domésticos. Possibilitar a vivência de realização do diagnóstico de
-    intoxicação em animais de produção, em condições de campo (Fazenda Escola, em
-    Pirassununga), por meio de treinamento prático, com coleta de informações com
-    o tratador do animal, avaliação das condições de armazenamentos de insumos e coletas
-    de agentes tóxicos, como, por exemplo, plantas tóxicas.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 2)
+
+    Fome Zero e Agricultura Sustentável:
+
+    acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover
+    a agricultura sustentável;
+
+    n° 3)
+
+    Saúde e Bem-Estar:
+
+    assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades;
+
+    n° 4)
+
+    Educação de Qualidade:
+
+    assegurar a educação inclusiva, e equitativa e de qualidade, e promover oportunidades
+    de aprendizagem ao longo da vida para todos;
+
+    n° 9)
+
+    Indústria, Inovação e Infraestrutura:
+
+    construir infraestrutura resiliente, promover a industrialização inclusiva e sustentável,
+    e fomentar a inovação;
+
+    n° 11)
+
+    Cidades e Comunidades Sustentáveis:
+
+    tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes
+    e sustentáveis;
+
+    n° 12)
+
+    Consumo e Produção Responsáveis:
+
+    assegurar padrões de produção e de consumo sustentáveis;
+
+    n° 15)
+
+    Vida Terrestre:
+
+    proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres,
+    gerir de forma sustentável as florestas, combater a desertificação, deter e reverter
+    a degradação da Terra e deter a perda da biodiversidade;
+
+    n° 17)
+
+    Parcerias e Meios de Implementação:
+
+    fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento
+    sustentável
+
+    Viagem Didática
+
+    É estruturante?
+
+    Sim
+
+    Atividades a serem desenvolvidas
+
+    Viagem didática para o campus USP Fernando Costa, em Pirassununga, para realização
+    de aula prática, visando o diagnóstico de intoxicação em animais de produção,
+    em condições de campo.'
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20260514163843'
-digest: 3SWVOVX3IVEMC3HR5DMALXVH2L4DKJGR
+created_at: '20260514163845'
+digest: W6GPO24ZHUROCFTT7GB2T5JQYNQ5MUYN
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 7'
   requirements:
   - code: VPT2201
     name: Farmacologia Aplicada à Medicina Veterinária
     type: Requisito
-updated_at: '20260514163843'
-url: https://web.archive.org/web/20260514163843id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VPT4101
+updated_at: '20260514163845'
+url: https://web.archive.org/web/20260514163845id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT4101
