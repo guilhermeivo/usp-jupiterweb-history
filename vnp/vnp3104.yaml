@@ -1,7 +1,10 @@
 courses:
-  activation: 01/01/2025
-  assessment: Prova escrita para composição de média com a nota obtida na avaliação
-    durante o semestre letivo.
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação) / 2].'
   bibliography: 'BECK, S.L. Equinos, Raças, Manejo, Equitação. São Paulo. Editora
     dos Criadores, 1985.
 
@@ -59,33 +62,44 @@ courses:
 
     - Utilização do cavalo no esporte
 
-    - Criação de jumentos e muares
-
-    Instrumentos e Critérios de Avaliação'
+    - Criação de jumentos e muares'
   course_name: 'VNP3104 - Produção de Equinos
 
     Equine Science'
   deactivation: ''
   instructors: 94103 - Alexandre Augusto de Oliveira Gobesso
   lecture_credits: '2'
-  objectives: Capacitar o aluno para a implantação e avaliação de sistemas de produção
-    no que diz respeito aos aspectos de criação, visando maior produtividade de equídeos,
-    oferecendo-lhes subsídios para o exercício adequado de sua profissão. Proporcionar
-    amplo entendimento dos princípios biológicos e desenvolver a capacidade de incorporar
-    o uso destes princípios para a indústria do cavalo. Uma compreensão de princípios
-    de negócios/econômico e sua aplicação às empresas de equídeos. Capacidade de avaliar
-    criticamente questões indústria equina e propor a resolução de problemas e habilidades
-    de liderança que melhoram o sucesso profissional.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 4)
+
+    Educação de Qualidade:
+
+    assegurar a educação inclusiva, e equitativa e de qualidade, e promover oportunidades
+    de aprendizagem ao longo da vida para todos;
+
+    n° 8)
+
+    Trabalho Decente e Crescimento Econômico:
+
+    promover o crescimento econômico sustentado, inclusivo e sustentável, emprego
+    pleno e produtivo, e trabalho decente para todos;
+
+    n° 12)
+
+    Consumo e Produção Responsáveis:
+
+    assegurar padrões de produção e de consumo sustentáveis;'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20251123012355'
-digest: CEW2CGPF7YAIXPR7STULL6UUQWDZV5CL
+created_at: '20260514155605'
+digest: TVWKKB4OTFGNCIGBQ7OMA2WZQANPFQJ2
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 5'
   requirements:
   - code: BMB0212
     name: Fisiologia II
     type: Requisito
-updated_at: '20251123012355'
-url: https://web.archive.org/web/20251123012355id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3104&verdis=3
+updated_at: '20260514155605'
+url: https://web.archive.org/web/20260514155605id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3104&codcur=10012&codhab=0
