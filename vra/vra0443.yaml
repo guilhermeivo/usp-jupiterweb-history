@@ -1,56 +1,76 @@
 courses:
-  activation: 01/01/2025
-  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
-    de cada disciplina, a serem realizadas até uma semana antes do término do período
-    de retificação de matrícula (estabelecido anualmente pelo Calendário USP)
+  activation: 15/07/2026
+  assessment: '- A recuperação constará de uma prova a ser realizadas até uma semana
+    antes do término
 
-    A média da avaliação final da disciplina entrará no computo da recuperação, sendo:
+    do período de retificação de matrícula (estabelecido anualmente pelo Calendário
+    USP)
 
-    média  = média da avaliação final + média da recuperação  ÷ 2'
-  bibliography: "Livros\nANDRADE, A., ANDRADE, M.C.R., MARINHO, A.M., FILHO, J.F.\
-    \ Biologia da Reprodução, Biologia\n- Manejo e medicina de primatas não-humanos\
-    \ na pesquisa biomédica. FIOCRUZ. 2010. 410 p.\n(ISBN: 978-85-7541-191-9)\nBERTA,\
-    \ A., SUMICH, J.L., KOVACS, K.M. Marine mammals \x96 Evolutionary biology 2o Edition.\n\
-    Academic Press. 2006. 547 p. (ISBN 10: 0-12-088552-2)\nCRICHTON, E.G., KRUTZSCH,\
-    \ P.H. Reproductive biology of bats. Academic Press. 2000.(ISBN 0-12-195670-9)\n\
-    CUBAS, Z.S.; SILVA, J.C.R.; CATÃO-DIAS, J.L. (eds). Tratado de Animais Selvagens\
-    \ \x96 Medicina Veterinária 2a Edição. São Paulo, Editora Roca, 2014, 3359 p.\
-    \ (ISBN 978-85-277-2618-4)\nMADER, D.R. Reproductive Biology - Reptile Medicine\
-    \ and Surgery. Saunders \x96 Elsevier. 2006. 1242 p. (ISBN: 978-0-7216-9327-9)\n\
-    MILLER, D.L. Reproductive biology and phylogeny of cetácea \x96 whales, dolphins\
-    \ and porpoises. Science Publishers. 2007. 428 p. (ISBN 978-1-57808-360-2)\nNORRIS,\
-    \ D.O., LOPEZ, K.H. Hormones and Reproduction of Vertebrates \x96 Volume 2 Amphibians.\
-    \ Academic Press \x96 Elsevier. 2011. 219 p. (ISBN: 978-0-12-374931-4)\nNORRIS,\
-    \ D.O., LOPEZ, K.H. Hormones and Reproduction of Vertebrates \x96 Volume 5 Mammals.\
-    \ 2011. 380 p. (ISBN: 978-0-12-374928-4)\nWYNEKEN, J., GODFREY, M.H., BELS, V.\
-    \ Biology of turtles. CRC Press. 2008. 389 p. (ISBN 978-0-8493-3339-2)\nArtigos\
-    \ de periódicos\nAnimal Reproduction Science, ILAR Journal, Mammalian Review,\
-    \ Revista Brasileira de Reprodução Animal, Theriogenology, Zoo Biology, European\
-    \ Journal of Wildlife Research entre outros."
-  course: 'A disciplina compreenderá os seguintes tópicos: Reprodução de anfíbios;
-    Reprodução de Aves; Reprodução de Répteis e Reprodução de Mamíferos (tópico que
-    será subdividido na infraclasse Marsupialia e nas ordens Rodentia, Pilosa, Cetacea,
-    Artiodactyla, Carnivora e Chiroptera). Paralelamente, quando houver a disponibilidade,
-    haverão visitas técnicas a grupos de pesquisa que empregam biotécnicas para o
-    auxílio na reprodução de animais selvagens.
+    - A média da avaliação final da disciplina será avaliada levando em consideração:
+    média final = média da avaliação final + média da recuperação ÷ 2.'
+  bibliography: 'Complementar
 
-    Instrumentos e Critérios de Avaliação'
-  course_name: 'VRA0443 - Reprodução em Animais Silvestres
+    ANDRADE, A., ANDRADE, M.C.R., MARINHO, A.M., FILHO, J.F. Biologia da Reprodução,
+    Biologia - Manejo e medicina de primatas não-humanos na pesquisa biomédica. FIOCRUZ.
+    2010. 410 p. (ISBN: 978-85-7541-191-9)
 
-    Wild Animal Reproduction'
+    BERTA, A., SUMICH, J.L., KOVACS, K.M. Marine mammals – Evolutionary biology 2o
+    Edition. Academic Press. 2006. 547 p. (ISBN 10: 0-12-088552-2)
+
+    CRICHTON, E.G., KRUTZSCH, P.H. Reproductive biology of bats. Academic Press. 2000.
+    510 p. (ISBN 0-12-195670-9)
+
+    MILLER, D.L. Reproductive biology and phylogeny of cetácea – whales, dolphins
+    and porpoises. Science Publishers. 2007. 428 p. (ISBN 978-1-57808-360-2)
+
+    NORRIS, D.O., LOPEZ, K.H. Hormones and Reproduction of Vertebrates – Volume 2
+    Amphibians. Academic Press – Elsevier. 2011. 219 p. (ISBN: 978-0-12-374931-4)
+
+    NORRIS, D.O., LOPEZ, K.H. Hormones and Reproduction of Vertebrates – Volume 5
+    Mammals. 2011. 380 p. (ISBN: 978-0-12-374928-4)
+
+    WYNEKEN, J., GODFREY, M.H., BELS, V. Biology of turtles. CRC Press. 2008. 389
+    p. (ISBN 978-0-8493-3339-2).
+
+    Artigos de periódicos
+
+    Animal Reproduction Science, ILAR Journal, Mammalian Review, Revista Brasileira
+    de Reprodução Animal, Theriogenology, Zoo Biology, European Journal of Wildlife
+    Research, entre outros.'
+  course: 'Curso Teórico – Características fisiológicas e comportamentais nas diferentes
+    espécies silvestres, procurando enfatizar os mecanismos endócrinos de controle
+    da função reprodutiva. A disciplina compreenderá os seguintes tópicos: Reprodução
+    de anfíbios; Reprodução de Aves; Reprodução de Répteis e Reprodução de Mamíferos
+    (tópico que será subdividido na infraclasse Marsupialia e nas ordens Rodentia,
+    Pilosa, Primata Cetacea, Artiodactyla, Carnivora e Chiroptera).'
+  course_name: 'VRA0443 - Reprodução de Animais Selvagens
+
+    Reproduction in Wild Animals'
   deactivation: ''
-  instructors: 3399196 - Ricardo José Garcia Pereira
+  instructors: '7786149 - George Shigueki Yasui
+
+    3399196 - Ricardo José Garcia Pereira'
   lecture_credits: '3'
-  objectives: Estudo da reprodução em animais silvestres, com ênfase na fisiologia
-    reprodutiva de diferentes táxons. Debater as características fisiológicas e comportamentais
-    nos diferentes classes (e ordens) de animais silvestres, procurando ressaltar
-    os complexos mecanismos endócrinos envolvidos no controle da atividade reprodutiva,
-    assim como, os aspectos evolutivos que moldaram as estratégias reprodutivas adotadas
-    pelas mais variadas ordens.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 14)
+
+    Vida na Água:
+
+    conservação e uso sustentável dos oceanos, dos mares, e dos recursos marinhos
+    para o desenvolvimento sustentável;
+
+    n° 15)
+
+    Vida Terrestre:
+
+    proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres,
+    gerir de forma sustentável as florestas, combater a desertificação, deter e reverter
+    a degradação da Terra e deter a perda da biodiversidade;'
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20251122154441'
-digest: 77LLOG7MMXUE7TRT5OXQRDM3XL22YYKI
-updated_at: '20251122154441'
-url: https://web.archive.org/web/20251122154441id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA0443&verdis=5
+created_at: '20260514153103'
+digest: 4QSOSOQNFXL7O7CATSGFWPM22QPNMMGT
+updated_at: '20260514153103'
+url: https://web.archive.org/web/20260514153103id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA0443
