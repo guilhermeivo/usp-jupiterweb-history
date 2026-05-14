@@ -1,68 +1,111 @@
 courses:
-  activation: 01/01/2022
+  activation: 15/07/2026
   assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
-    de cada disciplina, a serem realizadas até uma semana antes do término do período
-    de retificação de matrícula (estabelecido anualmente pelo Calendário USP) A média
-    da avaliação final da disciplina entrará no computo da recuperação, sendo: média
-    = média da avaliação final + média da recuperação ÷ 2'
-  bibliography: '1) Abitbol, M. M., Monheit, A. G., Stone, M. L. Aterial PO2, PCO2,
-    and pH versus transcutaneous PO2 and PCO2 and tissue pH in the fetal dog. Journal
-    of Obstetrics and Gynecology, v. 155, n. 2, p. 437-443, 1986.
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
+  bibliography: 'Complementar
 
-    2) Bellows, R. A., Lammoglia, M. A. Effects of severity of dystocia on cold tolerance
-    and seum concentrations of glucose and cortisol in neonatal beef calves. Theriogenology,
-    v. 53, n. 3, p. 803-813, 2000.
+    ABITBOL, M. M., MONHEIT, A. G., STONE, M. L. Arterial PO2, PCO2, and pH versus
+    transcutaneous PO2 and PCO2 and tissue pH in the fetal dog.
 
-    3) Challis, J. R. G., Richardson, B. S., Rurak, D., Wlodek, M. E., Patrick, J.
-    E. Plasma adrnocorticotropic hormone and cortisol and adrenal blood flow during
-    sustained hypoxemia in fetal sheep. Amercian Journal of Obstetrics and Gynecology,
-    v. 155, p. 1332-1336, 1986.
+    Journal of Obstetrics and Gynecology
 
-    4) Davidson, A. P. Approaches to reducing neontal mortality in dogs. In: Concannon,
-    P .W., Englnad, G., Verstegen, J., Linde-Forsberg, C. Recent Advances in Small
-    Animal Reproduction. New York: International Veterinary Information Service <
-    http://www.ivis.org >, 2003.
+    , v. 155, n. 2, p. 437-443, 1986.
 
-    5) Johnston, S. D., Kustritz, M. V. R., Olson, P. N. S. Canine and Feline Theriogenology.
-    Philadelphia: W. B. Saunders, 2001.
+    BELLOWS, R. A., LAMMOGLIA, M. A. Effects of severity of dystocia on cold tolerance
+    and serum concentrations of glucose and cortisol in neonatal beef calves.
 
-    6) Nattie, E. E., Edwards, W. H. The effects of acute total asphyxia and metabolic
-    acidosis on cerebrospinal fluid bicarbonate regulation in newborn puppies. Pediatric
-    Research, v. 14, n. 4, p. 286-290, 1980.
+    Theriogenology
 
-    7) Noakes, D. E., Parkinson, T. J., England, G. C. W. Arthur’s Veterinary Reproduction
-    and Obstetrics. Philadelphia: W. B. Saunders, 2001.
+    , v. 53, n. 3, p. 803-813, 2000.
 
-    8) Patterson, D. J., Bellows, R. A., Burfening, P. J., Carr, J. B. Ocuurence of
+    CHALLIS, J. R. G., RICHARDSON, B. S., RURAK, D., WLODEK, M. E., PATRICK, J. E.
+    Plasma adrnocorticotropic hormone and cortisol and adrenal blood flow during sustained
+    hypoxemia in fetal sheep.
+
+    American Journal of Obstetrics and Gynecology
+
+    , v. 155, p. 1332-1336, 1986.
+
+    DAVIDSON, A. P. Approaches to reducing neontal mortality in dogs. In: Concannon,
+    P .W., Englnad, G., Verstegen, J., Linde-Forsberg, C.
+
+    Recent Advances in Small Animal Reproduction
+
+    . New York: International Veterinary Information Service < http://www.ivis.org
+    >, 2003.
+
+    NATTIE, E. E., EDWARDS, W. H. The effects of acute total asphyxia and metabolic
+    acidosis on cerebrospinal fluid bicarbonate regulation in newborn puppies.
+
+    Pediatric Research
+
+    , v. 14, n. 4, p. 286-290, 1980.
+
+    PATTERSON, D. J., BELLOWS, R. A., BURFENING, P. J., CARR, J. B. Occurrence of
     neonatal and postnatal mortality in range beef cattle. I. Calf loss incidence
     from birth to weaning, backward and breech presentation and effects of calf loss
-    on subsequent pregnancy rate of dams. Theriogenology, v. 28, n. 5, p. 557-571,
-    1987.
+    on subsequent pregnancy rate of dams.
 
-    9) Simpson, G. M., England, G. C. W., Harvey, M. Manual of Small Animal Reproduction
-    and Neonatology. Hampshire: British Small Animal Veterinary Association, 1998.
+    Theriogenology
 
-    10) Toombs, R. E., Wikse, S. E., Kasari, T. R. The incidence, causes, and financial
-    impact of perinatal mortality in North America beef herds. Veterinary Clinics
-    of North America: Food Animal Practice, v. 10, n. 1, p. 137-46, 1994.'
-  course: Implicações do sofrimento fetal agudo no neonato.
+    , v. 28, n. 5, p. 557-571, 1987.
+
+    SIMPSON, G. M., ENGLAND, G. C. W., HARVEY, M.
+
+    Manual of Small Animal Reproduction and Neonatology
+
+    . Hampshire: British Small Animal Veterinary Association, 1998.
+
+    TOOMBS, R. E., WIKSE, S. E., KASARI, T. R. The incidence, causes, and financial
+    impact of perinatal mortality in North America beef herds.
+
+    Veterinary Clinics of North America: Food Animal Practice
+
+    , v. 10, n. 1, p. 137-46, 1994.'
+  course: 'Conteúdo teórico: Transição fisiológica feto-neonatal, Fisiologia neonatal
+    e particularidades dos exames complementares, Transferência de imunidade passiva
+    colostral, Semiologia neonatal, Terapêutica neonatal: vias de acesso e farmacologia,
+    Reanimação, urgência e intensivismo neonatal, Tríade neonatal, Sepse Neonatal,
+    Particularidades do neonato ruminante, Particularidades do neonato em animais
+    selvagens, Particularidades do neonato felino, Particularidades do neonato equino.
+
+    Conteúdo prático: Procedimentos de manejo neonatal, Procedimentos ambulatoriais
+    no neonato, Técnicas de Reanimação neonatal.'
   course_name: 'VRA4203 - Neonatologia Veterinária
 
     Veterinary Neonatology'
   deactivation: ''
   instructors: 486906 - Camila Infantosi Vannucchi
   lecture_credits: '2'
-  objectives: '1) Estudar os mecanismos fisiológicos e patológicos dos recém-nascidos.
+  objectives: 'da atividade
 
-    2) Avaliar os meios de assistência intra-parto a neonatos hígidos e em situações
-    críticas.
+    Realizar atendimento à comunidade junto ao Serviço de Ginecologia e Obstetrícia
+    do HOVET e Laboratório de Perinatologia do Departamento de Reprodução Animal.
 
-    3) Estudar os parâmetros de avaliação clínica disponíveis em Neonatologia Veterinária.'
+    Descrição da atividade
+
+    Atendimento ambulatorial em neonatos de diferentes espécies animais (anamnese,
+    exame físico, colheita de material biológico para exame, diagnóstico e tratamento)
+    e assistência neonatal imediata ao nascimento em partos cirúrgicos.
+
+    Indicadores de avaliação da atividade
+
+    Relatórios dos atendimentos registrados no sistema hospitalar, verificados pelo
+    docente responsável quanto à sua completude, conteúdo e sequência. Verificação
+    junto ao público-alvo da qualidade de atendimento, resolução de problemas e indicação
+    terapêutica.'
   practical_credits: '0'
-  total_workload: 30 h
+  total_workload: '30 h
+
+    Carga Horária de Extensão:
+
+    2 h'
   type: Semestral
-created_at: '20250124041551'
-digest: YNQV4RA3VZ76CRRC6EI7IRIIJTZGNSZN
+created_at: '20260514153727'
+digest: DW5H2Y3D24NYF5RQ4ZQ6AV3RZSWRIB6H
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
@@ -87,5 +130,5 @@ requirements:
   - code: VCM4101
     name: Semiologia
     type: Requisito
-updated_at: '20251125143708'
-url: https://web.archive.org/web/20251125143708id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA4203&verdis=2
+updated_at: '20260514153727'
+url: https://web.archive.org/web/20260514153727id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA4203
