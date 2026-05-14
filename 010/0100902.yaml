@@ -73,7 +73,97 @@ courses:
 
     120 h'
   type: Semestral
-created_at: '20260514164132'
-digest: NNXOBP636B7HU4PDYFPA3M5QYDLWVVTL
-updated_at: '20260514164132'
-url: https://web.archive.org/web/20260514164132id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=0100902
+created_at: '20260514164137'
+digest: LCVQTZFG77YPTB24BMYV2OL3RESD5L3K
+requirements:
+- course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 9'
+  requirements:
+  - code: 0100901
+    name: Ênfase de Formação em Serviço - Módulo I
+    type: Indicação de Conjunto
+  - code: VPS3206
+    name: Inspeção Sanitária dos Produtos de Origem Animal
+    type: Requisito
+  - code: VCI4203
+    name: Diagnóstico por Imagem II
+    type: Requisito
+  - code: VPS3204
+    name: Sanidade Suína
+    type: Requisito
+  - code: VPS1201
+    name: Métodos Quantitativos em Medicina Veterinária
+    type: Requisito
+  - code: VPS3207
+    name: Gerenciamento em Saúde Animal e Saúde Pública
+    type: Requisito
+  - code: VCI4201
+    name: Clínica Cirúrgica de Grandes Animais
+    type: Requisito
+  - code: VCM4203
+    name: Clínica das Doenças Nutricionais e Metabólicas
+    type: Requisito
+  - code: VCM4201
+    name: Clínica Médica de Pequenos Animais
+    type: Requisito
+  - code: VNP3114
+    name: Comportamento e Bem-Estar Animal
+    type: Requisito
+  - code: VNP3110
+    name: Agrostologia
+    type: Requisito
+  - code: VPS3203
+    name: Epidemiologia das Doenças Infecciosas dos Animais Domésticos
+    type: Requisito
+  - code: VPS3201
+    name: Zoonoses (Saúde Pública Veterinária)
+    type: Requisito
+  - code: '0102201'
+    name: Deontologia em Medicina Veterinária
+    type: Requisito
+  - code: VNP3111
+    name: Sociologia e Extensão
+    type: Requisito
+  - code: VRA4202
+    name: Patologia e Clínica da Reprodução
+    type: Requisito
+  - code: VCI4202
+    name: Clínica Cirúrgica de Pequenos Animais
+    type: Requisito
+  - code: VCI4102
+    name: Anatomia Aplicada
+    type: Requisito
+  - code: '0100101'
+    name: Introdução ao Estudo da Medicina Veterinária
+    type: Requisito
+  - code: BIO0225
+    name: Genética e Evolução
+    type: Requisito
+  - code: VRA4201
+    name: Obstetrícia
+    type: Requisito
+  - code: VPT4101
+    name: Toxicologia aplicada à Medicina Veterinária
+    type: Requisito
+  - code: VPS3208
+    name: Avaliação Científica de Bem-estar animal
+    type: Requisito
+  - code: VRA3201
+    name: Manejo Reprodutivo em Animais Domésticos
+    type: Requisito
+  - code: VPS3202
+    name: Epidemiologia das Doenças Parasitárias dos Animais Domésticos
+    type: Requisito
+  - code: VPT2203
+    name: Ciência de Animais de Laboratório
+    type: Requisito
+  - code: VCM4204
+    name: Clínica Médica de Equídeos
+    type: Requisito
+  - code: VCM4202
+    name: Clínica Médica de Ruminantes
+    type: Requisito
+  - code: VPT3201
+    name: Ornitopatologia
+    type: Requisito
+updated_at: '20260514164137'
+url: https://web.archive.org/web/20260514164137id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=0100902
