@@ -111,7 +111,16 @@ courses:
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20251221125457'
-digest: 6AOM4JFBL7QIL2AUGV7ZAFSIL56J2WXX
-updated_at: '20251221125457'
-url: https://web.archive.org/web/20251221125457id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCM4103&verdis=1
+created_at: '20260514163845'
+digest: K2HE4EQ3VC3RJJC4W2X2CK4YZCYUBB4H
+requirements:
+- course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 7'
+  requirements:
+  - code: VCM4102
+    name: Patologia Clínica Veterinária
+    type: Indicação de Conjunto
+  - code: VCM4101
+    name: Semiologia
+    type: Indicação de Conjunto
+updated_at: '20260514163845'
+url: https://web.archive.org/web/20260514163845id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VCM4103
