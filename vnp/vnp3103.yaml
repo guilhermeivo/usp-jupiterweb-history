@@ -1,9 +1,10 @@
 courses:
-  activation: 01/01/2025
-  assessment: 'A recuperação constará de duas provas sendo que a média da avaliação
-    final da disciplina entrará no computo da recuperação. Desta  maneira, a média
-    final, após a recuperação, constará: média da avaliação final + média da recuperação
-    ÷ 2.'
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação) / 2].'
   bibliography: 'STRAW, B.E.; ZIMMERMAN, J.J.; D’ALLAIRE, S.; TAYLOR, D.J. Diseases
     of Swine. 9a edição, EUA: Blackwell Publishing, p. 1153, 2006.
 
@@ -103,29 +104,25 @@ courses:
 
     - http://www.abipecs.org.br
 
-    - http://www.pigprogress.net
-
-    Atividades de Extensão
-
-    Grupo social alvo da atividade
-
-    Produtores Rurais, Empreendedores e demais profissionais relacionadas à grande
-    área do Setor de Produção Animal.'
-  course: "Teórico\n1. Introdução ao Estudo dos Suínos e do sistema de produção\n\
-    a) classificação zoológica, origem e domesticação\nb) raças de suínos\nc) objetivos\
-    \ da exploração de suínos\nd) aspectos gerais da suinocultura nacional e mundial\n\
-    2. Manejo das fêmeas nas diferentes fases do ciclo de produção e a relação com\
-    \ o sistema\na) puberdade e idade à reprodução\nb) gestação\nc) lactação e  desmame\n\
-    d) Conhecimento e análise dos parâmetros de produção\n3. Manejo dos machos reprodutores\
-    \ no ciclo de produção\n4. Manejo dos leitões nas fases de creche, recria e terminação\n\
-    5. Programa de Alimentação em Suínos\na)\tPrograma em fêmeas e machos reprodutores\
-    \ no ciclo de produção\nb)\tPrograma em leitões no aleitamento, creche, recria\
-    \ e terminação\n6. Seleção de Machos e Fêmeas destinados à Reprodução, Renovação\
-    \ do\nPlantel e Descarte de Fêmeas Improdutivas.\n7. Biosseguridade do sistema\
-    \ de produção\n8. Manejo de dejetos\n9. Construções e Equipamentos\na) dimensionamento\
-    \ do sistema de produção de suínos.\nb) quantificação das baias e equipamentos\
-    \ nas diferentes fases da criação.\nc) especificação das principais construções\
-    \ associadas ao dimensionamento\nda construção.\nInstrumentos e Critérios de Avaliação"
+    - http://www.pigprogress.net'
+  course: "Conhecimento do sistema de produção e a suinocultura como um todo. Manejo\
+    \ geral e específico nas diferentes fases da criação. Programas de alimentação\
+    \ para as fases. Biosseguridade. Dimensionamento do rebanho, quantificação de\
+    \ baias e gaiolas.\nTeórico\n1. Introdução ao Estudo dos Suínos e do sistema de\
+    \ produção\na) classificação zoológica, origem e domesticação\nb) raças de suínos\n\
+    c) objetivos da exploração de suínos\nd) aspectos gerais da suinocultura nacional\
+    \ e mundial\n2. Manejo das fêmeas nas diferentes fases do ciclo de produção e\
+    \ a relação com o sistema\na) puberdade e idade à reprodução\nb) gestação\nc)\
+    \ lactação e  desmame\nd) Conhecimento e análise dos parâmetros de produção\n\
+    3. Manejo dos machos reprodutores no ciclo de produção\n4. Manejo dos leitões\
+    \ nas fases de creche, recria e terminação\n5. Programa de Alimentação em Suínos\n\
+    a)\tPrograma em fêmeas e machos reprodutores no ciclo de produção\nb)\tPrograma\
+    \ em leitões no aleitamento, creche, recria e terminação\n6. Seleção de Machos\
+    \ e Fêmeas destinados à Reprodução, Renovação do  Plantel e Descarte de Fêmeas\
+    \ Improdutivas.\n7. Biosseguridade do sistema de produção\n8. Manejo de dejetos\n\
+    9. Construções e Equipamentos\na) dimensionamento do sistema de produção de suínos.\n\
+    b) quantificação das baias e equipamentos nas diferentes fases da criação.\nc)\
+    \ especificação das principais construções associadas ao dimensionamento da construção"
   course_name: 'VNP3103 - Produção de Suínos
 
     Swine Production'
@@ -166,7 +163,7 @@ courses:
 
     2 h'
   type: Semestral
-created_at: '20251121071214'
-digest: ZH7X64GMFWLADMLPQ27R3X47CM5I2THS
-updated_at: '20251121071214'
-url: https://web.archive.org/web/20251121071214id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3103&verdis=3
+created_at: '20260514155510'
+digest: 2CGG3E52EEITM3E35TBPU63UPXJU7XKE
+updated_at: '20260514155510'
+url: https://web.archive.org/web/20260514155510id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3103&codcur=10012&codhab=0
