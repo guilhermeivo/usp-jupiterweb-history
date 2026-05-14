@@ -1,98 +1,77 @@
 courses:
-  activation: 15/07/2023
-  assessment: 'A recuperação constará de uma prova, cuja natureza ficará a cargo da
-    disciplina a serem
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
+  bibliography: 'Complementar
 
-    realizadas, até uma semana antes do término do período de retificação de matrículas
+    OKUNO, E.; YOSHIMURA, E. Física das Radiações. Oficina de textos, 2010.
 
-    (estabelecido pelo Calendário USP). A média da avaliação final entrará no compito
-    da
+    Apostila:
 
-    recuperação, sendo: Média = média da avaliação final + média da recuperação ÷
-    2'
-  bibliography: 'BUTLER, J.; COLLES, C.; DYSON, S.; KOLD, S. Clinical Radiology of
-    the Horse. 4th ed. Wiley-Blachwell, 2016.
+    Fundamentos de radiografia
 
-    BURK, R. L; ACKERMAN, N. Small animal radiology and ultrasonography. A diagnostic
-    atlas and text. 2nd ed. St. Louis: Saunders, 2003.
+    , KODAK, 7ªed. Impressão espanhola, 1976.
 
-    KEALY J. K.; MCALLISTER H.; GRAHAM J. P. Diagnostic Radiology and Ultrasonography
-    of the Dog and Cat. 5th ed. Saunders, 2011.
+    BUTLER, J.; COLLES, C.; DYSON, S.; KOLD, S.
 
-    KRAMER, M.; MIHALJEVIC, H. G. M. CT- und MRT-Atlas, 2009.
+    Clinical Radiology of the Horse
 
-    MATTOON, John S.; NYLAND, Thomas G. Small Animal Diagnostic Ultrasound, 3 ed.
-    Saunders, 2015.
+    (Capítulos 1 e 2) 4th ed. Wiley-Blachwell, 2016.
 
-    OWENS, J.; BIERY, D. Radiographic Interpretation for the Small Animal Clinician.
-    2th ed. Wiley-Blachwell, 2012.
+    KEALY J. K.; MCALLISTER H.; GRAHAM J. P.
 
-    SCHEBITZ, H.; WILKENS, H. Atlas of radiographic anatomy of the dog and cats. 5th
-    ed. Berlin: Paul Parey, 2000.
+    Diagnostic Radiology and Ultrasonography of the Dog and Cat
 
-    SCHWARTZ, T.; SAUNDERS, J. Veterinary Computed Tomography. 1th ed. Iowa, Wiley-Blachwell,
-    2011.
+    . 5th ed. Saunders, 2011.
 
-    THRALL, D. E. Textbook of veterinary diagnostic radiology. 7th ed. Canada: Elsevier,
-    2017.
+    THRALL, D. E.
 
-    THRALL, D. E.; ROBERTSON,I. D. Atlas of Normal Radiographic Anatomy and Anatomic
-    Variants in the Dog and Cat, 3th ed. Elsevier, 2022.
+    Thrall´s Textbook of Veterinary Diagnostic Radiology
 
-    WISNER, E.; ZWINGENBERGER, A. Atlas of Small Animal CT and MR. 1thed.Wiley Blackwell,
-    2015.'
-  course: 'Visando oferecer os conhecimentos básicos sobre a formação de imagem das
-    diferentes modalidades
-
-    diagnósticas, anatomia e semiologia radiográfica, ultrassonográfica, por tomografia
-    computadorizada,
-
-    ressonância magnética e radioproteção serão abordados temas, tanto no âmbito teórico
-    quanto
-
-    prático, relacionados à aquisição de imagens radiográficas simples e contrastadas,
-    ultrassonográficas,
-
-    de tomografia computadorizada e por ressonância magnética dos diferentes sistemas.
-
-    Curso Teórico
-
-    1. Radiodiagnóstico: Fundamentos da técnica radiográfica.
-
-    2. Ultrassonografia. Princípios físicos e de formação da imagem.
-
-    3. Tomografia computadorizada. Princípios físicos e formação da imagem.
-
-    4. Ressonância magnética. Princípios físicos e formação da imagem.
-
-    5. Proteção radiológica.
-
-    6. Anatomia nas diferentes sob a perspectiva das diferentes modalidades de imagem.
-
-    Curso Prático:
-
-    1. Funcionamento e operação de equipamentos
-
-    2. Anatomia nas diferentes sob a perspectiva das diferentes modalidades de imagem.
-
-    Instrumentos e Critérios de Avaliação'
+    . 8th ed. Saunders/ Elsevier, 2024.'
+  course: "●\tRadiodiagnóstico: Fundamentos da técnica radiográfica e formação da\
+    \ imagem.\n●\tProteção radiológica.\n●\tUltrassonografia. Princípios físicos e\
+    \ de formação da imagem.\n●\tTomografia computadorizada. Princípios físicos e\
+    \ formação da imagem.\n●\tRessonância magnética. Princípios físicos e formação\
+    \ da imagem.\n●\tFuncionamento e operação de equipamentos."
   course_name: 'VCI4104 - Diagnóstico por Imagem I
 
     Diagnostic Imaging I'
   deactivation: ''
-  instructors: 1662387 - Stefano Carlo Filippo Hagen
-  lecture_credits: '1'
-  objectives: 'Introduzir o aluno aos conceitos de formação de imagem diagnóstica,
-    proteção e segurança
+  instructors: '514319 - Carla Aparecida Batista Lorigados
 
-    radiológica, anatomia da imagem, funcionamento de equipamentos de imagem para
-    as modalidades radiográfica, ultrassonográfica de tomografia computadorizada e
-    imagem por ressonância magnética.'
+    294371 - Caterina Muramoto
+
+    1662387 - Stefano Carlo Filippo Hagen'
+  lecture_credits: '1'
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 3)
+
+    Saúde e Bem-Estar:
+
+    assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades;
+
+    n° 4)
+
+    Educação de Qualidade:
+
+    assegurar a educação inclusiva, e equitativa e de qualidade, e promover oportunidades
+    de aprendizagem ao longo da vida para todos;
+
+    n° 12)
+
+    Consumo e Produção Responsáveis:
+
+    assegurar padrões de produção e de consumo sustentáveis;'
   practical_credits: '0'
   total_workload: 15 h
   type: Semestral
-created_at: '20260514162837'
-digest: NUDBWRJAXJS7GUJBE2A4EX3FBE5M7AQL
+created_at: '20260514162905'
+digest: 74OBSD632LJUUQVTN3YB7I26A34IWOUP
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 7'
   requirements:
@@ -102,5 +81,5 @@ requirements:
   - code: VCI1101
     name: Anatomia dos Animais Domésticos I
     type: Requisito
-updated_at: '20260514162837'
-url: https://web.archive.org/web/20260514162837id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VCI4104
+updated_at: '20260514162905'
+url: https://web.archive.org/web/20260514162905id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI4104
