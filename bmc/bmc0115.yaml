@@ -1,62 +1,89 @@
 courses:
-  activation: 01/01/2017
+  activation: 15/07/2025
   assessment: 'Provas teóricas sob a forma de testes objetivos e/ou dissertativas.
 
     Provas práticas pelo reconhecimento e diagnóstico das estruturas presentes em
-    modelos, micrografias e lâminas histológicas ao microscópio.
+    modelos, micrografias e
 
-    _______________________________
+    lâminas histológicas ao microscópio.
 
-    OBSERVAÇÃO: Será oferecida prova de recuperação (Res. COG 3583/89) nos meses de
-    julho para as disciplinas do 1o semestre e em fevereiro para as disciplinas do
-    2o semestre, exigindo-se média igual ou superior a 5,0 (cinco) para aprovação.'
-  bibliography: 'Jr., W. J. e Bacha, L. M. Color Atlas of Veterinary Histology, Lippincott
-    Willians & Wilkins, Philadelphia, 2 ed. 2000.
+    Será oferecida prova de recuperação (Res. COG 3583/89) nos meses de julho para
+    as disciplinas do 1o semestre
 
-    Banks, W. J. Histologia Veterinária Aplicada, Ed. Manole. Ltda., 2 ed. 1992.
+    e em fevereiro para as disciplinas do 2o semestre, para alunos com nota final
+    entre 3,0 a 4,9 e frequência
 
-    Behmer, O. A., Tolosa, E. M. C. e Neto, A. G. F., Manual de Técnicas para Histologia
-    Normal e Patológica, EDART-EDUSP, 1976.
+    mínima de 70%, exigindo-se média igual ou superior a 5,0 (cinco) para aprovação.
+    A nota da prova de
 
-    Dellmann, H. D. e Eurell, J. Veterinary Histology, 5 ed., Baltimore, Williams
-    & Wilkins, 380p, 1998.
+    recuperação substituirá a média obtida anteriormente.'
+  bibliography: 'Básica:
 
-    Freeman , W. H. e Bracegirdle, B. Atlas de Histologia, Interamericana, 2 ed.,
-    1985.
+    CARNEIRO J, JUNQUEIRA LC. Histologia Básica. 12a ou 13a ed. Guanabara Koogan LARSE,
+    2013, 2017.
 
-    Gage, S. H. e Kingsbury, S. H. Vertebrate Histology, Comstok Publishing Company,
-    New York, 1899-2000.
+    BANKS, W. J.- Histologia Veterinária Aplicada. Ed. Manole, S.Paulo. 2a ed. 1991.
 
-    Gartner, L. P. e Hiatt, J. L. Atlas de Histologia, Ed. Guanabara Koogan, 1993.
+    EURELL JA, Frappier, BL Histologia Veterinária de Dellman Edi. Manole Saúde 2012
 
-    Gilbert, S.F., Biologia do Desenvolvimento, ed. SBG-Riberião Preto, 578p, 1994.
+    HYTTEL M, SINOWATZ P, VEJLSTED F Embriologia Veterinária 1a edição, Elsevier,
+    2012
 
-    Junqueira, L. C. e Carneiro, J. Histologia Básica, Guanabara Koogan, 9 ed., 1999.
+    SCHOENWOLF GC, BELYL SB, BRAUER PR, FRANCIS-WEST PH Larsen- Embriologia Humana
+    Ed. Elsevier 4a edição
 
-    Junqueira, L. C. e Zago, D. Embriologia Médica e Comparada, Ed. Guanabara Kloogan,
-    RJ, 1982
+    2009
 
-    Junqueira, L. C. e Carneiro, J. Biologia Celular e Molecular, Guanabara Koogan,
-    9 ed., 1999.
+    MOORE KL, PERSAUDE TVN, TORCHIA MG Embriologia Clínica Editora Gen 11a edição
+    2020
 
-    Young, B. and Heath, J. W. Wheater''s Functional Histology a text and color atlas.
-    Churchill Livingstone, 4a. ed., 2000, 413pp.'
-  course: Biologia Celular, Embriologia I e tecidos ( conjuntivo, epitelial, nervoso,
-    muscular, tecido conjuntivo especial), osso e ossificação, sistema digestório.
+    CARNEIRO J, JUNQUEIRA LC. Biologia Celular e Molecular. Guanabara Koogan, 10ª
+    ed. 2023.
+
+    Alberts, B.; Bray, D.;, Hopkin,K.; Johnson, A.; Lewis, J.; Raff, M.; Roberts,
+    K.; Walter, P.; Fundamentos da Biologia
+
+    Celular; Ed. Artmed; 4.ed.; 2017.
+
+    Complementar:
+
+    GARTNER L, HIATT JL. Tratado de Histologia em Cores. Elsevier,3a ed, 2007 ou mais
+    recente.
+
+    KIERSZENBAUM A, TRES LL. Histologia e Biologia Molecular Uma Introdução à Patologia.
+    Elsevier, 3a ed, 2012 ou
+
+    mais recente.'
+  course: 'I- Biologia Celular: 1- Membranas celulares; 2- Citoesqueleto; 3-Matriz
+    extracelular; 4- Transporte vesicular; 5-Sinalização celular; 6- Ciclo celular;
+    7- Morte celular.
+
+    II- Histologia: 1- Tecidos epiteliais; 2- Tecidos conjuntivos próprio e adiposo;
+    3- Tecido Nervoso; 4- Tecido
+
+    Muscular; 5- Sangue; 6- Sistema Endócrino.
+
+    III- Embriologia: 1- Gametogênese e Fecundação 2- Blastocisto, Gastrulação, Neurulação
+    e Dobramento do
+
+    corpo; 3- Desenvolvimento do Sistema Nervoso e Sensorial 4- Desenvolvimento do
+    Sistema Locomotor e
+
+    Miogênese
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'BMC0115 - Biologia Celular, Tecidual I e do Desenvolvimento
 
     Cell, Tissue I, and Developmental Biology'
   deactivation: ''
   instructors: 3665011 - Chao Yun Irene Yan
   lecture_credits: '7'
-  objectives: Fornecer aos alunos noções básicas sobre a estrutura, função e formação
-    das células e dos tecidos, preparando-os para as disciplinas de Histologia e Embriologia
-    Especiais (BMH-121) e também os embasando para a posterior compreensão das disciplinas
-    de Anatomia e Patologia.
+  objectives: Proporcionar aos alunos conhecimentos sobre Biologia Celular, Biologia
+    Tecidual de tecidos básicos e sistemas, bem como Embriologia
   practical_credits: '0'
   total_workload: 105 h
   type: Semestral
-created_at: '20241211012245'
-digest: 37WVUU4HXSCSO57FV46NOMMTIAUMFO4W
-updated_at: '20241211012245'
-url: https://web.archive.org/web/20241211012245id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=BMC0115&codcur=10012&codhab=0
+created_at: '20260514145709'
+digest: ZUTPCJ7JCBIFKNBRTBOBIHORZR5PPBYO
+updated_at: '20260514145709'
+url: https://web.archive.org/web/20260514145709id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=BMC0115
