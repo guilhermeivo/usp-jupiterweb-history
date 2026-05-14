@@ -1,118 +1,177 @@
 courses:
-  activation: 01/01/2020
-  assessment: 'A recuperação constará de duas provas, até uma semana antes do término
-    do período de
+  activation: 15/07/2026
+  assessment: 'Serão oferecidas duas provas de recuperação a serem realizadas em data
+    a ser determinada. A média final será calculada da seguinte forma: (Média das
+    provas + média da recuperação) ÷ 2.'
+  bibliography: 'BROWN, C. M.; BERTONE, J.
 
-    retificação de matrículas (estabelecido pelo calendário USP). A média da avaliação
-    final
+    Consulta Veterinária em 5 Minutos - Espécie Eqüina
 
-    entrará no computo da recuperação, sendo: Média = média da avaliação final + média
-    da
+    , Manole, 2004. DAVENPORT, H.W. ABC da Quimica ácido-básica do sangue. 5ed.
+    127 p., 1973.
 
-    recuperação'
-  bibliography: 'BROWN, C. M.; BERTONE, J. Consulta Veterinária em 5 Minutos - Espécie
-    Eqüina, Manole, 2004.
+    DE LAHUNTA, A.; GLASS, E.
 
-    188
+    Veterinary Neuroanatomy and Clinical Neurology
 
-    DAVENPORT, H.W. ABC da Quimica ácido-básica do sangue. 5ed. 127 p., 1973
+    . 3. ed. Saunders, 2008. ETTINGER, S.J. & FELDMAN, E.D.
 
-    DE LAHUNTA, A.; GLASS, E. Veterinary Neuroanatomy and Clinical Neurology. 3. ed.
-    Saunders, 2008.
+    Textbook of Veterinary Internal Medicine: diseases of the dogs and cats
 
-    ETTINGER, S.J. & FELDMAN, E.D. Textbook of Veterinary Internal Medicine: diseases
-    of the dogs and
+    . 7a ed. Philadelphia, W. B. Saunders, 2010.
 
-    cats. 7ª ed. Philadelphia, W. B. Saunders, 2010.
+    ETTINGER, S.J.; FELDMAN, E.C.
 
-    ETTINGER, S.J.; FELDMAN, E.C. Textbook of Veterinary Internal Medicine. 6.ed.
-    2v. Elsevier Saunders,
+    Textbook of Veterinary Internal Medicine
 
-    2005.
+    . 6.ed. 2v. Elsevier Saunders, 2005. FENNER, W.R.
 
-    FENNER, W.R. Consulta Rápida em Clínica Veterinária. 3.ed. Guanabara-Koogan, 2003
+    Consulta Rápida em Clínica Veterinária
 
-    KANEKO, JJ. Clinical Bio Bichemistry of domestic animals, 6 ed. 928p, 2008
+    . 3.ed. GuanabaraKoogan, 2003.
 
-    LORENZ, M.D.; KORNEGAY, J.N. Neurologia Veterinária. 4. ed. Manole, 2006.
+    JERICÓ, M.M.; ANDRADE NETO, J.P.; KOGIKA, M.M. Tratado de Medicina Interna de
+    Cães e Gatos. 1a edição, 2 volumes, Rio de Janeiro, Grupo Gen – Roca, 2015.
 
-    MYAHEW, I.G. Large animal neurology. 2.ed. Wiley-Blackwell, 2008.
+    KANEKO, JJ. Clinical Biochemistry of domestic animals, 6 ed. 928p, 2008.
 
-    NELSON, R. W. e COUTO, G. C. Small Animal Internal Medicine, Veterinary Clinics
-    of North America:
+    LARSSON, C.E.; LUCAS, R.
 
-    Small Animal Practice, St. Louis, Elsevier Saunders, 4. ed., 2009,
+    Tratado de Medicina Externa - Dermatologia Veterinária.
 
-    RADOSTITS, O.M.; GAY, C.C.; HINCHCLIFF, K.W. et al. Veterinary Medicine. A textbook
-    of the diseases
+    1a edição, Interbook Editorial, 2015.
 
-    of cattle, horses, sheep, pigs and goats. 10.ed. Saunders, 2007.
+    LORENZ, M.D.; KORNEGAY, J.N.
 
-    ROBINSON, W.F.; HUXTABLE, C.R.R. Clinicopathologic Principles for Veterinary Medicine.
-    Cambridge
+    Neurologia Veterinária
 
-    University Press, 2003, 452p.
+    . 4. ed. Manole, 2006.
 
-    SMITH, B.P. Medicina Interna de Grandes Animais. 3.ed. São Paulo: Manole, 2006.
+    MYAHEW,I.G.
 
-    TILLEY, L.P.; SMITH JR, F.W.;Ç OYAMA, M.A.; SLEEPER, M.M."Manual of Canine and
-    Feline Cardiology".
+    Largeanimalneurology
 
-    4.ed., Saunders Elsevier:St Louis, 2008.
+    .2.ed. Wiley-Blackwell,2008.
 
-    WARE, W.A. "Cardiovascular Disease in Small Animal medicicne", Manson Publishing
-    Ltd., London,
+    NELSON, R. W. e COUTO, G. C.
 
-    2007. 396pp.
+    Small Animal Internal Medicine, Veterinary Clinics of North America: Small Animal
+    Practice
 
-    WEISS, D.J & WARDROP, K.J. Schalm´s Veterinary Hematology. 6. ed. Wiley-Blackwell,
-    2010.
+    , St. Louis, Elsevier Saunders, 4. ed., 2009.
 
-    ROCKETT, J. e BOSTED, S. Precedimentos clinicos veterinários na prática de grandes
-    animais. 636.089.
+    RADOSTITS, O.M.; GAY, C.C.; HINCHCLIFF, K.W. et al.
 
-    Cengage Learning. p.556'
-  course: '- Enfermidades do sistema respiratório: tosse, traqueites, bronquites e
-    bronquiolites, pneumonias,
+    Veterinary Medicine. A textbook of the diseases of cattle, horses, sheep, pigs
+    and goats.
 
-    -pleurisia e edema pulmonar.
+    10.ed. Saunders, 2007.
 
-    -Enfermidades do sistema circulatório: valvulopatias, miocardiopatias, arritmias,
-    insuficiência cardíaca.
+    ROBINSON, W.F.; HUXTABLE, C.R.R.
 
-    - Enfermidades do sistema digestório: síndrome icterícia, insuficiência hepática,
-    diarreia.
+    Clinicopathologic Principles for Veterinary Medicine
 
-    - Enfermidades do sangue e do sistema hematopoético: estados hemorrágicos, estados
-    anêmicos,
+    . Cambridge University Press, 2003, 452p.
 
-    neoplasias hematopoéticas.
+    SMITH, B.P.
 
-    - Enfermidades do sistema urinário: síndromes nefrótico e urêmico. Insuficiência
-    renal.
+    Medicina Interna de Grandes Animais
 
-    - Sistema nervoso: paralisia, ataxia. Distúrbios convulsivos.
+    . 3.ed. São Paulo: Manole, 2006. TILLEY, L.P.; SMITH JR, F.W.;Ç OYAMA, M.A.;
+    SLEEPER, M.M."
 
-    - Síndromes e desequilíbrios: febre, poliúria e polidipsia, endotoxemia, distúrbios
-    eletrolíticos.
+    Manual of Canine and Feline Cardiology
 
-    Instrumentos e Critérios de Avaliação'
+    ". 4.ed., Saunders Elsevier:St Louis, 2008.
+
+    WARE, W.A.
+
+    "Cardiovascular Disease in Small Animal medicine
+
+    ", Manson Publishing Ltd., London, 2007. 396pp.
+
+    WEISS, D.J & WARDROP, K.J.
+
+    Schalm ́s Veterinary Hematology
+
+    . 6. ed. Wiley-Blackwell, 2010.
+
+    ROCKETT, J. e BOSTED, S. Precedimentos clinicos veterinários na prática de grandes
+    animais. 636.089. Cengage Learning. p.556'
+  course: 'Anemias
+
+    Distúrbios da Coagulação
+
+    Tranqueíte, bronquite, bronquiolite – tosse
+
+    Pneumonias
+
+    Injúria renal aguda e síndromes urêmica e nefrótica
+
+    Doença renal crônica
+
+    Insuficiência Hepática
+
+    Metabolismo de Lipídeos/Dislipidemias
+
+    Diarréia
+
+    Sepse
+
+    Febre
+
+    Neoplasias Hematopoiéticas
+
+    Doenças Imunomediadas
+
+    Doenças Valvares
+
+    Cardiomiopatias
+
+    Insuficiência Cardíaca
+
+    Efusão pleural e edema pulmonar não cardiogênico
+
+    Convulsões
+
+    Paralisias e ataxia
+
+    Dermatopatias fúngicas'
   course_name: 'VCM4103 - Patologia Médica
 
-    Internal Medicine'
+    Medical Pathology'
   deactivation: ''
   instructors: '407831 - Archivaldo Reche Junior
 
     8791658 - Fernanda Chicharo Chacar'
   lecture_credits: '3'
-  objectives: O escopo da disciplina é a abordagem teórica multidisciplinar dos quadros
-    nosológicos das diferentes enfermidades e síndromas mórbidos passíveis de tratamento
-    que acometem as diversas espécies de animais domésticos.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 3)
+
+    Saúde e Bem-Estar:
+
+    assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades;
+
+    n° 4)
+
+    Educação de Qualidade:
+
+    assegurar a educação inclusiva, e equitativa e de qualidade, e promover oportunidades
+    de aprendizagem ao longo da vida para todos;
+
+    n° 15)
+
+    Vida Terrestre:
+
+    proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres,
+    gerir de forma sustentável as florestas, combater a desertificação, deter e reverter
+    a degradação da Terra e deter a perda da biodiversidade;'
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20260514163845'
-digest: K2HE4EQ3VC3RJJC4W2X2CK4YZCYUBB4H
+created_at: '20260514163849'
+digest: JSXXWZIOBQZSX4V3BTDB3UATMAOPEHKR
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 7'
   requirements:
@@ -122,5 +181,5 @@ requirements:
   - code: VCM4101
     name: Semiologia
     type: Indicação de Conjunto
-updated_at: '20260514163845'
-url: https://web.archive.org/web/20260514163845id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VCM4103
+updated_at: '20260514163849'
+url: https://web.archive.org/web/20260514163849id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCM4103
