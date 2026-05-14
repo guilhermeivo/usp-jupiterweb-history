@@ -1,31 +1,27 @@
 courses:
-  activation: 01/01/2025
+  activation: 15/07/2026
   assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
     de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
     A média final após a recuperação será a média aritmética da nota da avaliação
     final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
-    semestral + média da recuperação)/2].'
+    + média da recuperação)/2].'
   bibliography: 'Complementar
 
     Essa bibliografia básica indicada acima não tem a pretensão de suprir todas as
     necessidades para a formação profissional do médico veterinário que queira atuar
     na área do melhoramento genético animal. Recomenda-se aos alunos leitura de periódicos
-    especializadas, tais como: Animal Genetics, Journal of Animal Science, Journal
-    of Dairy Science, Livestock Production, Genetic, Selection and Evolution, Journal
-    Animal Breeding and Genetics, BMC Genetics, BMC Genomics, dentre outros, visando
-    complementação e evolução dos tópicos discutidos em aula.
+    especializadas, tais como:
 
-    Atividades de Extensão
+    Animal Genetics, Journal of Animal Science, Journal of Dairy Science, Livestock
+    Production, Genetic, Selection and Evolution, Journal Animal Breeding and Genetics,
+    BMC Genetics, BMC Genomics
 
-    Grupo social alvo da atividade
-
-    Produtores Rurais, Empreendedores e demais profissionais relacionadas à grande
-    área do Setor de Produção Animal.'
+    , dentre outros, visando complementação e evolução dos tópicos discutidos em aula.'
   course: '• Introdução e aspectos históricos.
 
     • Evolução do Melhoramento Animal.
 
-    • Conceitos Básicos em Genética de Populações e Quantitativa
+    • Conceitos Básicos em Genética de Populações
 
     - Cálculo de Frequências Genotípicas e Gênicas
 
@@ -33,18 +29,18 @@ courses:
 
     - Fatores que alteram as Frequências Gênicas e Genotípicas
 
-    • Conceitos Básicos em Estatística e Quantitativa
+    • Conceitos Básicos em Estatística e Genética Quantitativa
 
     - Comparação de Caracteres Qualitativos versus Quantitativos
 
     - Estatística aplicada ao Melhoramento (medidas de tendência central, medidas
     de dispersão e de relacionamento entre variáveis)
 
-    - Modelo aditivo-dominate
+    - Modelo aditivo-dominante
 
     - Parâmetros genéticos e fenotípicos (Métodos de Estimação de herdabilidade; Variação
     dentro de Linha Isogênica. Regressão dos Valores Fenotípicos do Progenitores e
-    das Progênies; Decomposição da Variação Total por meio de Momentos)
+    das Progênies; Decomposição da Variação Total por meio do Método de Momentos)
 
     • Métodos de Melhoramento Genético Animal.
 
@@ -134,9 +130,7 @@ courses:
 
     - Conceitos básicos em Proteômica aplicada ao Melhoramento Animal;
 
-    - Conceitos básicos em de Metabolômica aplicada ao Melhoramento Animal;
-
-    Instrumentos e Critérios de Avaliação'
+    - Conceitos básicos em de Metabolômica aplicada ao Melhoramento Animal'
   course_name: 'VNP3109 - Melhoramento Animal
 
     Animal Breeding'
@@ -177,7 +171,7 @@ courses:
 
     2 h'
   type: Semestral
-created_at: '20251123012720'
-digest: BZHMQ7K63HXI2FAJHPOBBECFZXWG2OQ2
-updated_at: '20251123012720'
-url: https://web.archive.org/web/20251123012720id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3109&verdis=3
+created_at: '20260514160757'
+digest: MKDTGCKPHBRBVTT3YCYAGV55ZHYMYBBS
+updated_at: '20260514160757'
+url: https://web.archive.org/web/20260514160757id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3109
