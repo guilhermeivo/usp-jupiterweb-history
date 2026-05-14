@@ -1,7 +1,10 @@
 courses:
-  activation: 01/01/2025
-  assessment: A recuperação constará de uma prova referente ao conteúdo total da disciplina
-    ou  apresenta de trabalho do tema escolhido pela professora responsável.
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação) / 2].'
   bibliography: 'Mendes e Martins, 2023. Manejo de pastagem rotacionado na pecuária
     de corte com ênfase no bem-estar do animal: revisão de literatura. Disponível
     em https://jnt1.websiteseguro.com/index.php/JNT/article/view/1639/1126
@@ -10,11 +13,13 @@ courses:
     Multidisciplinar do Nordeste Mineiro,v.12,2023
 
     ALMEIDA, R G. 2020. Forrageiras em sistemas de produção de bovinos em integração.
-    Embrapa, Disponível em: https://www.embrapa.br/busca-de-publicacoes/-/publicacao/1112935/forrageiras-em-sistemas-de-producao-de-bovinos-em-integracao
+    Embrapa,
+
+    Disponível em: https://www.embrapa.br/busca-de-publicacoes/-/publicacao/1112935/forrageirasem-sistemas-de-producao-de-bovinos-em-integracao
 
     ANDRADE, C. M. S. Pastejo Rotacionado. Embrapa, 2021. Disponível em: http://iquiri.cpafac.embrapa.br/prodleite/pdf/pastejo_mauricio.pdf
 
-    BARBOSA, A. A. F. B Manejo das pastagens, 2021. Disponível em:  https://docs.ufpr.br/~freitasjaf/artigos/leitepasto.pdf
+    BARBOSA, A. A. F. B Manejo das pastagens, 2021. Disponível em: https://docs.ufpr.br/~freitasjaf/artigos/leitepasto.pdf
 
     BIFFI, N. O que é pastejo rotacionado? Nutrição e saúde animal, 2021. Disponível
     em: https://nutricaoesaudeanimal.com.br/o-que-e-pastejo-rotacionado/
@@ -26,7 +31,10 @@ courses:
     em: https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/984110/1/RT27pastagem
 
     Espécies forrageiras no inverno. Certified Humane Brasil, 2020. Disponível em:
-    https://certifiedhumanebrasil.org/especies-forrageiras-podem-ser-solucao-para-melhorardieta-dos-bovinos-no-inverno/
+
+    https://certifiedhumanebrasil.org/especies-forrageiras-podem-ser-solucao-para-melhorardieta-dosbovinos-
+
+    no-inverno/
 
     CEZAR, I.M. et al. Sistemas de Produção de Gado de Corte no Brasil: uma descrição
     com ênfase no regime alimentar e no abate. Embrapa Gado de Corte, Campo Grande,
@@ -49,24 +57,15 @@ courses:
 
     REIS, R.A.; BERNARDES, T.F.; SIQUEIRA, G.R. (Ed.). Forragicultura: ciência, tecnologia
     e gestão dos recursos forrageiros. Jaboticabal: M. de L. Brandel-ME, 2013. 714
-    p.
-
-    Atividades de Extensão
-
-    Grupo social alvo da atividade
-
-    Produtores Rurais, Empreendedores e demais profissionais relacionadas à grande
-    área do Setor de Produção Animal.'
-  course: "Teóricos:\n•\tImportância das pastagens para a pecuária e produção sustentável.\n\
+    p.'
+  course: "Teórico:\n•\tImportância das pastagens para a pecuária e produção sustentável.\n\
     •\tAnatomia e fisiologia de plantas forrageiras.\n•\tPrincípios do manejo de plantas\
     \ forrageiras tropicais e temperadas.\n•\tManejo das pastagens e capineiras cultivares\
     \ de Panicum e Pennisetum.\n•\tConservação de forragens\n•\tManejo intensivo da\
-    \ Brachiaria e Cynodon.\n•\tVolumosos suplementares.\nPrático:\n•\tDeterminação\
-    \ da matéria seca\n•\tReconhecimento de espécies forrageiras.\n•\tProdução de\
-    \ silagem\n•\tOrçamentação forrageira.\nInstrumentos e Critérios de Avaliação"
+    \ Brachiaria e Cynodon.\n•\tVolumosos suplementares."
   course_name: 'VNP3110 - Agrostologia
 
-    Forages'
+    Agrostology'
   deactivation: ''
   instructors: 6968672 - Nara Regina Brandão Cônsolo
   lecture_credits: '2'
@@ -105,7 +104,7 @@ courses:
 
     2 h'
   type: Semestral
-created_at: '20251130074356'
-digest: R2NYOZPYMMP6CUJVGH6KHUA4J77HFJQG
-updated_at: '20251130074356'
-url: https://web.archive.org/web/20251130074356id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3110&verdis=2
+created_at: '20260514160855'
+digest: QH764AEU74UFHXGXITUGAWPKYFGABQLA
+updated_at: '20260514160855'
+url: https://web.archive.org/web/20260514160855id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3110
