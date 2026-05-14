@@ -1,11 +1,19 @@
 courses:
-  activation: 01/01/2025
-  assessment: 'A recuperação constará de duas provas sendo que a média da avaliação
-    final da disciplina entrará no computo da recuperação. Desta maneira, a média
-    final, após a recuperação, constará: média da avaliação final + média da recuperação
-    ÷ 2'
-  bibliography: 'ASSUMPÇÃO, J.C. de. Bufalando sério. Livraria e Editora Agropecuária
-    Ltda. Guaíba, 131 p., 1996.736p.,1987.
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação) / 2].'
+  bibliography: 'Exigências Nutricionais de Caprinos e Ovinos – BR-Caprinos & Ovinos.
+    São Carlos: Editora Scienza, 2024. 270 p. ISBN 978-65-5668-183-2.
+
+    SOARES, R. F. et al. Zootechnical performance of Dorper x Santa Inês lambs raised
+    in different production systems. Pesquisa Agropecuária Brasileira, v. 59, e27399,
+    2024.
+
+    ASSUMPÇÃO, J.C. de. Bufalando sério. Livraria e Editora Agropecuária Ltda. Guaíba,
+    131 p., 1996.736p.,1987.
 
     BARUSELLI, P.S. Manejo reprodutivo de bubalinos. SAASP/IZ EEZVR, 46 P., 1993.
 
@@ -66,32 +74,71 @@ courses:
     Revista Brasileira de Zootecnia
 
     Revista dos Criadores'
-  course: "Bubalinocultura\n1-\tImportância da Bubalinocultura;\n2-\tSituação mundial\
-    \ e brasileira da Bubalinocultura;\n3-\tRaças e exterior de bubalinos;\n4-\tAdaptação\
-    \ e tolerância ambiental;\n5-\tPotencial de bubalinos para produção de leite,\
-    \ carne e como produtor de trabalho;\n6-\tInstalações e equipamentos utilizados\
-    \ em bubalinocultura;\nCaprinocultura\n1-\tRaças nacionais e estrangeiras de interesse\
-    \ no país;\n2-\tFunções econômicas e distribuição pelo país;\n3-\t Instalações\
-    \ e equipamentos;\n4-\tCuidados durante a criação;\n5-\tEscrituração zootecnia;\n\
-    6-\tProdução de leite.\nOvinocultura\n1-\tRaças nacionais e estrangeiras de interesse\
-    \ para o país;\n2-\tFunções econômicas e distribuição pelo país;\n3-\tInstalações\
-    \ e equipamentos;\n4-\tCuidados durante a criação;\n5-\tProdução de lã, carne\
-    \ e peles;\n6-\tEscrituração zootécnica.\nViagens Técnicas\nVisita a propriedades\
-    \ particulares.\nInstrumentos e Critérios de Avaliação"
+  course: "Bubalinocultura no Brasil e no Mundo; Raças de Búfalos; Produção de leite\
+    \ e carne com bubalinos; Importância da Caprinocultura, Raças de Caprinos; Práticas\
+    \ de manejo e criação;  Importância da Ovinocultura, Raças de Ovinos; Práticas\
+    \ de manejo e criação.\nBubalinocultura\n1-\tImportância da Bubalinocultura;\n\
+    2-\tSituação mundial e brasileira da Bubalinocultura;\n3-\tRaças e exterior de\
+    \ bubalinos;\n4-\tAdaptação e tolerância ambiental;\n5-\tPotencial de bubalinos\
+    \ para produção de leite, carne e como produtor de trabalho;\n6-\tInstalações\
+    \ e equipamentos utilizados em bubalinocultura;\nCaprinocultura\n1-\tRaças nacionais\
+    \ e estrangeiras de interesse no país;\n2-\tFunções econômicas e distribuição\
+    \ pelo país;\n3-\t Instalações e equipamentos;\n4-\tCuidados durante a criação;\n\
+    5-\tEscrituração zootecnia;\n6-\tProdução de leite.\nOvinocultura\n1-\tRaças nacionais\
+    \ e estrangeiras de interesse para o país;\n2-\tFunções econômicas e distribuição\
+    \ pelo país;\n3-\tInstalações e equipamentos;\n4-\tCuidados durante a criação;\n\
+    5-\tProdução de lã, carne e peles;\n6-\tEscrituração zootécnica.\nViagens Técnicas\n\
+    Visita a propriedades particulares."
   course_name: 'VNP3106 - Produção de Búfalos, Caprinos e Ovinos
 
     Buffaloes, Sheep and Goat Production'
   deactivation: ''
   instructors: 9124662 - Ricardo Vieira Ventura
   lecture_credits: '2'
-  objectives: Demonstrar aos alunos os conceitos gerais relacionados à produção de
-    búfalos, caprinos e ovinos e desenvolver a capacidade de avaliação crítica de
-    sistema de produção de leite e carne, e das técnicas de manejo e criação empregadas,
-    possibilitando formação adequada para o exercício de sua profissão.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 3)
+
+    Saúde e Bem-Estar:
+
+    assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades;
+
+    n° 4)
+
+    Educação de Qualidade:
+
+    assegurar a educação inclusiva, e equitativa e de qualidade, e promover oportunidades
+    de aprendizagem ao longo da vida para todos;
+
+    n° 8)
+
+    Trabalho Decente e Crescimento Econômico:
+
+    promover o crescimento econômico sustentado, inclusivo e sustentável, emprego
+    pleno e produtivo, e trabalho decente para todos;
+
+    n° 9)
+
+    Indústria, Inovação e Infraestrutura:
+
+    construir infraestrutura resiliente, promover a industrialização inclusiva e sustentável,
+    e fomentar a inovação;
+
+    n° 12)
+
+    Consumo e Produção Responsáveis:
+
+    assegurar padrões de produção e de consumo sustentáveis;
+
+    n° 13)
+
+    Ação Contra a Mudança Global do Clima:
+
+    tomar medidas urgentes para combater a mudança climática e seus impactos;'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20251121070932'
-digest: OQTZXTKL6Z7CQ7NLCEUD2O3P22P7ZI66
-updated_at: '20251121070932'
-url: https://web.archive.org/web/20251121070932id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3106&verdis=3
+created_at: '20260514160113'
+digest: NTNZA7F4BBGKRWZQ7Y2RGGOZGUUGQI6N
+updated_at: '20260514160113'
+url: https://web.archive.org/web/20260514160113id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3106
