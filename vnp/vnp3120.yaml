@@ -1,9 +1,10 @@
 courses:
-  activation: 01/01/2019
-  assessment: 'A recuperação constará de duas provas sendo que a média da avaliação
-    final da disciplina entrará no computo da recuperação. Desta maneira, a média
-    final, após a recuperação, constará: média da avaliação final + média da recuperação
-    ÷ 2'
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
   bibliography: "1)\tBELOTI, V. (Org.). Leite: obtenção, inspeção e qualidade/\
     \ Vanerli Beloti, Ronaldo Tamanini, Luis A. Nero, Maria A. S. Moreira, Livia C.\
     \ C da Silva, Rafael Fagnani, Karla T. M. G Reis - Londrina: Editora Planta, 2015\n\
@@ -30,27 +31,37 @@ courses:
 
     Principais medidas de manejo de ordenha;
 
-    Principais medidas de controle de mastite contagiosa e ambiental.
-
-    Instrumentos e Critérios de Avaliação'
+    Principais medidas de controle de mastite contagiosa e ambiental.'
   course_name: 'VNP3120 - Qualidade do leite e controle de mastite bovina
 
     Milk quality and bovine mastitis control'
   deactivation: ''
   instructors: 1203273 - Marcos Veiga dos Santos
   lecture_credits: '2'
-  objectives: 'Que o aluno seja capaz de: a) descrever a situação atual da qualidade
-    do leite e controle de mastite no Brasil; b) diagnosticar a situação da mastite
-    clínica e subclínica em rebanhos leiteiros; c) analisar os principais indicadores
-    de monitoramento de mastite clínica e subclínica de rebanhos; d) estimar perdas
-    de produção causadas pela mastite e impactos sobre a qualidade do leite; estimar
-    custos de mastite clínica e subclínica; e) descrever os principais agentes causadores
-    de mastite; f) descrever as principais medidas de manejo de ordenha; g) descrever
-    as principais medidas de controle de mastite contagiosa e ambiental.'
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 1)
+
+    Erradicação da Pobreza:
+
+    acabar com a pobreza em todas as suas formas, em todos os lugares;
+
+    n° 2)
+
+    Fome Zero e Agricultura Sustentável:
+
+    acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover
+    a agricultura sustentável;
+
+    n° 13)
+
+    Ação Contra a Mudança Global do Clima:
+
+    tomar medidas urgentes para combater a mudança climática e seus impactos;'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20251124092729'
-digest: LTY4WME7RYWJJGJX6NN5WOAFI46ZE4VA
-updated_at: '20251124092729'
-url: https://web.archive.org/web/20251124092729id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3120&verdis=1
+created_at: '20260514152002'
+digest: 52ENWYWE366NMA4GVYVGHLJORVFKWFDP
+updated_at: '20260514152002'
+url: https://web.archive.org/web/20260514152002id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3120
