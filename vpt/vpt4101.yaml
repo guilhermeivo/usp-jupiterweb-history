@@ -79,7 +79,13 @@ courses:
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20251122171723'
-digest: VGTYGHSYQFLW4FEZLBBW6JK2HTLZPDSW
-updated_at: '20251122171723'
-url: https://web.archive.org/web/20251122171723id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT4101&verdis=2
+created_at: '20260514163843'
+digest: 3SWVOVX3IVEMC3HR5DMALXVH2L4DKJGR
+requirements:
+- course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 7'
+  requirements:
+  - code: VPT2201
+    name: Farmacologia Aplicada à Medicina Veterinária
+    type: Requisito
+updated_at: '20260514163843'
+url: https://web.archive.org/web/20260514163843id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VPT4101
