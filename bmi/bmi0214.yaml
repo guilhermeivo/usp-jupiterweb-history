@@ -60,7 +60,19 @@ courses:
   practical_credits: '0'
   total_workload: 75 h
   type: Semestral
-created_at: '20260514154033'
-digest: 2QG2CUELF54XZ6B2BF5WPR46XBSYQVET
-updated_at: '20260514154033'
-url: https://web.archive.org/web/20260514154033id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=BMI0214
+created_at: '20260514154035'
+digest: DGTPII3TRXKZQLXOBWUVEOTB22GUSYZL
+requirements:
+- course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 3'
+  requirements:
+  - code: QBQ0136
+    name: Biologia Molecular
+    type: Requisito
+  - code: QBQ0116
+    name: 'Bioquímica: Estrutura de Biomoléculas e Metabolismo'
+    type: Requisito
+  - code: BMC0115
+    name: Biologia Celular, Tecidual I e do Desenvolvimento
+    type: Requisito
+updated_at: '20260514154035'
+url: https://web.archive.org/web/20260514154035id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=BMI0214
