@@ -1,5 +1,5 @@
 courses:
-  activation: 01/01/2025
+  activation: 15/07/2026
   assessment: Não haverá recuperação.
   bibliography: 'Andrade, D. R. and G. S. Yasui (2003). "O manejo da reprodução natural
     e artificial e sua importância na produção de peixes no Brasil." Revista Brasileira
@@ -35,30 +35,64 @@ courses:
     Aquaculture
 
     Aquaculture International'
-  course: 'Introdução e histórico da piscicultura no Brasil. Importância da propagação
+  course: Introdução e histórico da piscicultura no Brasil. Importância da propagação
     de peixes. Estratégias e táticas reprodutivas. Fisiologia da reprodução, anatomia.
     Visita a CEPTA / ICMBio instalações de campo e laboratoriais. Manutenção de peixes
     em laboratório. Características dos gametas de peixes. Principais espécies de
     peixes nativos e desafios da reprodução. Propagação artificial de peixes. Fertilização
     in vitro e suas potencialidades na produção animal. Embriologia e larvicultura
     de peixes. Biotecnologia da reprodução de peixes.
-
-    Instrumentos e Critérios de Avaliação'
   course_name: 'VRA3100 - Reprodução de peixes
 
     Fish reproduction'
   deactivation: ''
-  instructors: 1463350 - Mayra Elena Ortiz D'Avila Assumpção
+  instructors: '7786149 - George Shigueki Yasui
+
+    1463350 - Mayra Elena Ortiz D''Avila Assumpção'
   lecture_credits: '3'
-  objectives: Discutir os principais fatores bióticos e abióticos que afetam a reprodução
-    de peixes, e os procedimentos práticos para a propagação artificial em larga escala.
-    A disciplina visa capacitar alunos na área de reprodução de peixes, abordando
-    aspectos teóricos e práticos para a produção de juvenis em larga escala, tanto
-    para a produção quanto à conservação de espécies ameaçadas de extinção.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 2)
+
+    Fome Zero e Agricultura Sustentável:
+
+    acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover
+    a agricultura sustentável;
+
+    n° 4)
+
+    Educação de Qualidade:
+
+    assegurar a educação inclusiva, e equitativa e de qualidade, e promover oportunidades
+    de aprendizagem ao longo da vida para todos;
+
+    n° 12)
+
+    Consumo e Produção Responsáveis:
+
+    assegurar padrões de produção e de consumo sustentáveis;
+
+    n° 14)
+
+    Vida na Água:
+
+    conservação e uso sustentável dos oceanos, dos mares, e dos recursos marinhos
+    para o desenvolvimento sustentável;
+
+    Viagem Didática
+
+    É estruturante?
+
+    Sim
+
+    Atividades a serem desenvolvidas
+
+    Idas ao CEPTA, Cachoeira de Emas, Pirassununga SP, local onde será realizada a
+    disciplina.'
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20251127080335'
-digest: TVQP6UDD2UILUHYXSM6MFXLLR6CGC6RL
-updated_at: '20251127080335'
-url: https://web.archive.org/web/20251127080335id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA3100&verdis=3
+created_at: '20260514152729'
+digest: DHAWJ6V6ZNS2UMTZTOEURN2GXYTETQGV
+updated_at: '20260514152729'
+url: https://web.archive.org/web/20260514152729id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA3100
