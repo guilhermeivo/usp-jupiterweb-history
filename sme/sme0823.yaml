@@ -48,7 +48,7 @@ courses:
   total_workload: 90 h
   type: Semestral
 created_at: '20250814212544'
-digest: 7H2M4AYUELYVWCGUVWBT2R35WD3VZS4W
+digest: 33AAW36FT42B7HDJXR6E7QAFFMN7DDEK
 requirements:
 - course: "Curso: 55030  Matemática - Habilitação: Bacharelado em Matemática \r\n\
     \                          (integral) - Período ideal: 6"
@@ -96,5 +96,5 @@ requirements:
   - code: SME0620
     name: Estatística I
     type: Requisito fraco
-updated_at: '20260117152240'
-url: https://web.archive.org/web/20260117152240id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SME0823&codcur=55090&codhab=0
+updated_at: '20260610213001'
+url: https://web.archive.org/web/20260610213001id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?codhab=200&sgldis=SME0823&codcur=55030
