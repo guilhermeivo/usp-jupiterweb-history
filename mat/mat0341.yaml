@@ -3,13 +3,11 @@ courses:
   assessment: Cada docentes (ou equipe), deverá decidir qual o peso p onde 1<=p<=4.
     A média final, será média ponderada da nota do semestre com a da recuperação com
     o peso acima.
-  bibliography: 'Básica
-
-    G.B. Boyer, História da Matemática, Edgard Blucher, 1996. A. Aaboe, Episódios
-    da História Antiga da Matemática, Sociedade Brasileira de Matemática, 2001. G.
-    Ifrah, História Universal dos Algarismos, Nova Fronteira, 1995. F. Cajori, A History
-    of Mathematical Notations (Vol. I), The Open Court, 1928. F. SWETZ et. al. (org.),
-    Learn From the Masters, The Mathematical Association of America, 1994.'
+  bibliography: G.B. Boyer, História da Matemática, Edgard Blucher, 1996. A. Aaboe,
+    Episódios da História Antiga da Matemática, Sociedade Brasileira de Matemática,
+    2001. G. Ifrah, História Universal dos Algarismos, Nova Fronteira, 1995. F. Cajori,
+    A History of Mathematical Notations (Vol. I), The Open Court, 1928. F. SWETZ et.
+    al. (org.), Learn From the Masters, The Mathematical Association of America, 1994.
   course: '1. Números: Primeiros sistemas de numeração. Teoria dos números na escola
     pitagórica. Os numerais na Índia. A introdução dos numerais indo-arábicos na Europa.
     Fibonacci. 2. Geometria: Gêneses: Babilônia, Egito, China, Grécia. Os problemas
@@ -34,7 +32,7 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20250505151330'
-digest: TAMWZUXKURMZLMATAUGGAF2ZNICKOO4D
-updated_at: '20250505151330'
-url: https://web.archive.org/web/20250505151330id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=MAT0341&codcur=45024&codhab=4
+created_at: '20260615230854'
+digest: CIZM4662HKO37VMIFUID4BFJBIPFG3KI
+updated_at: '20260615230854'
+url: https://web.archive.org/web/20260615230854id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?codhab=0&sgldis=MAT0341&codcur=43031
