@@ -1,57 +1,28 @@
 courses:
-  activation: 01/01/2025
-  assessment: 'A recuperação constará de uma prova a ser realizada antes do término
-    do período de retificação de matrícula (estabelecido anualmente pelo Calendário
-    USP). A média da avaliação final da disciplina entrará no computo da recuperação,
-    sendo: média da avaliação final + média da recuperação ÷ 2.'
-  bibliography: 'BENESCH, F. Tratado de Obstetricia y Ginecología Veterinarias. 1963.
-
-    ROBERTS, S.J. Veterinary obstetrics and genital diseases (Theriogenology). Michigan:
-    Ann Arbor, 1971.
-
-    ARTHUR, G.H. Reprodução e obstetrícia em Veterinária. Rio de Janeiro: Guanabara
-    Koogan, 1975.
-
-    GRUNERT, E.; BOVE, S.; STOPIGLIA, V. Manual de Obstetrícia Veterinária. 3.ed.
-    1977.
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
+  bibliography: 'Complementar
 
     MORROW, D.A. Current therapy in theriogenology: diagnosis, treatment and prevention
-    of
-
-    reproductive diseases in animals. Philadelphia: W. B. Saunders, 1980.
-
-    GRUNERT, E.; BIRGEL, E.H. Obstetrícia veterinária. Porto Alegre: Sulina, 1982.
-
-    TONIOLLO, G.H. Manual de obstetrícia veterinária. São Paulo: Varela, 1993.
-
-    KAHN, W. Veterinary reproductive ultrasonography. Hannover, Mosby-Wolfe, 1994.
+    of reproductive diseases in animals. Philadelphia: W. B. Saunders, 1980.
 
     YOUNGQUIST, R.S. Current therapy in large animal theriogenology. Philadelphia,
     W.B.Saunders, 1997.
 
-    SENGER, P.L. Pathways to pregnancy and parturition. Pullman: Current Conception,
-    2003.
-
     JOHNSON, S.D.; KUSTRITZ, M.V.R.; OLSON, P.N. Canine and Feline Theriogenology,
     2001.
 
-    FOSSUM, T.W. Small Animal Surgery, 2002.
-
-    TONIOLLO, G.H; VICENTE, W.R.R. Manual de Obstetrícia Veterinária. 2003.
-
-    PRESTES, N.C.; LANDIN-ALVARENGA, F.C. Obstetrícia veterinária. 2006.
-
-    NOAKES, D.E.; PARKINSON, T.J.; ENGLAND, G.C.W. Veterinary reproduction and obsetrics.
-    9. ed. 2009.
-
-    DES-CÔTEAUX, L.; COLLOTON, J.; GNEMMI, G. Ruminant and camelid reproductive ultrasonographie.
-
-    2010.
-
     MCKINNON, A. O.; SQUIRES, E. L.; VAALA, W.E.; VARNER. D.D. Equine Reproduction,
-    2nd Edition (2 Vol
+    2nd Edition (2 Vol Set). 2011.
 
-    Set). 2011.'
+    LUZ, M.R.; CELEGHINI, E.C.C.; BRANDÃO, F.Z. Reprodução animal – equinos, Manole.
+    2024.
+
+    VANNUCCHI, C.I. Reprodução de pequenos animais, Atheneu, 2025.'
   course: 'Fisiologia e endocrinologia da gestação.
 
     Diagnóstico de gestação e afecções da gestação de origem materna e fetal.
@@ -62,35 +33,7 @@ courses:
 
     Operações obstétricas cruentas e incruentas.
 
-    Afecções puerperais e neonatologia.
-
-    Atividades Didáticas: Aulas teóricas, Teórico-práticas, Práticas, Visitas técnicas
-    e Atividades de campo.
-
-    1) Aulas teóricas Aulas expositivas, com o uso de recursos audiovisuais.
-
-    Duração aproximada de 120 minutos.
-
-    Alunos - toda turma
-
-    2) Aulas Teórico-Práticas: atendimento e discussão de casos de ambulatório; demonstração
-    de técnicas obstétricas que serão executadas por docentes, precedidas ou seguidas
-    de exposição explicativa; manobras obstétricas com manequim.
-
-    Duração 4 horas.
-
-    Alunos -15 a 20/grupo.
-
-    3) Práticas Dirigidas.
-
-    Demonstração e treinamento de procedimentos para os quais serão utilizadas as
-    áreas onde se desenvolve o aprendizado: 1. Ambulatório 2. Centro cirúrgico 3.
-    Laboratório Didático: Duração 4 horas/aula prática. 4. CBRA-Pirassununga e Visitas
-    técnicas/Atividades de campo. Duração: 20 horas/turma
-
-    Todas as aulas práticas serão ministradas a grupo de 15 a 20 alunos.
-
-    Instrumentos e Critérios de Avaliação'
+    Afecções puerperais e neonatologia.'
   course_name: 'VRA4201 - Obstetrícia
 
     Obstetrics'
@@ -99,14 +42,30 @@ courses:
 
     5509246 - Gisele Almeida Lima da Veiga'
   lecture_credits: '4'
-  objectives: Transmitir aos alunos os conceitos fundamentais de fisiopatologia da
-    gestação e periparto, capacitando-os a realizar diagnósticos, tratamentos e manobras
-    obstétricas em animais de companhia, ruminantes e equídeos.
+  objectives: 'da atividade
+
+    Treinamento de habilidades técnicas, trabalho em equipe e comunicação interpessoal
+    no atendimento obstétrico veterinário, ao grupo social alvo da atividade.
+
+    Descrição da atividade
+
+    Recepção do responsável e do paciente, atendimento com avaliação clinica e coleta
+    de material biológico, solicitação e interpretação de exames complementares, discussão
+    do caso clinico/cirúrgico, acompanhamento do procedimento cirúrgico e pós operatório.
+
+    Indicadores de avaliação da atividade
+
+    A cada cliente, o responsável responde um questionário avaliativo do atendimento
+    prestado pelos alunos.'
   practical_credits: '0'
-  total_workload: 60 h
+  total_workload: '60 h
+
+    Carga Horária de Extensão:
+
+    5 h'
   type: Semestral
-created_at: '20251128131022'
-digest: KVTKOR2254D27SDMX5ETWCNXR7KAI7DX
+created_at: '20260705140159'
+digest: AQ7FRVQBJWJAHTZJTWD5DRQ6VWD7KMUK
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
@@ -119,5 +78,5 @@ requirements:
   - code: VCI4101
     name: Anestesiologia e Técnicas de Terapia Intensiva no Paciente Cirúrgico
     type: Requisito
-updated_at: '20251128131022'
-url: https://web.archive.org/web/20251128131022id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=6&sgldis=VRA4201
+updated_at: '20260705140159'
+url: https://web.archive.org/web/20260705140159id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA4201
