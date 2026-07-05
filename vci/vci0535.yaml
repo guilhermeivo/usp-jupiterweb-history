@@ -1,68 +1,71 @@
 courses:
-  activation: 15/07/2023
-  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
-    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
-    A média final após a recuperação será a média aritmética da nota da avaliação
-    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
-    + média da recuperação)/2].'
-  bibliography: 'ALEXANDER, J. W. The pathogenesis of canine hip dysplasia. Vet Clin
-    North Am Small Anim Pract, v. 22, n. 3, p. 503-511, 1992.
+  activation: 15/07/2026
+  assessment: A recuperação constará de duas provas práticas, a serem realizadas no
+    período indicado pelo calendário USP. A média final após a recuperação será a
+    média aritmética da nota da avaliação final e da média da recuperação.
+  bibliography: 'Complementar
 
-    BEALE, B. S.; HULSE, D. A.; SHULZ, K.; WHITNEY, W. O. Small Animal Arthroscopy.
-    Saunders, 2003. 256 p.
+    MINTO, B. W.; DIAS, L. G. G. G.
 
-    JOHNSON, A. L; HOULTON, J. E. F.; VANINI, R. AO Principles of Fracture Management
-    in the Dog and Cat. Thieme Medical Publishers, 2005. 529 p.
+    Tratado de ortopedia em cães e gatos.
 
-    JOHNSON, K. A. Piermattei’s atlas of surgical approaches to the bones and joints
-    of the dog and cat. 5th ed. Saunders, 2013. 488 p.
+    1. ed. Curitiba: Medvep, 2022.
 
-    MILLIS, D. L.; LEVINE, D.; TAYLOR, R. A. Canine Rehabilitation and Physical Therapy.
-    Saunders, 2004. 544 p.
+    DENEWETH, L. R.
 
-    PIERMATTEI, D. L.; FLO, G. L.; DECAMP, C. E. Handbook of Small Animal Orthopedics
-    and Fracture Repair. 4th ed. St. Louis: Saunders Elsevier, 2006. 818 p.
+    Ortopedia em cães e gatos.
 
-    ROUSH, J. K. Stifle Surgery. Vet Clin North Am Small Anim Pract, v. 23, n. 4,
-    p. 691-920, 1993.'
-  course: '● Abordagem anátomo-cirúrgica da articulação escápulo-umeral
+    São Paulo: MedVet, 2017.
 
-    ● Abordagem anátomo-cirúrgica da articulação úmero-rádio-ulnar
+    MILLIS, D.; LEVINE, D.
 
-    ● Abordagem anátomo-cirúrgica da articulação coxofemoral
+    Fisioterapia e reabilitação de cães
 
-    ● Abordagem anátomo-cirúrgica da articulação fêmuro-tíbio-patelar
-
-    ● Abordagem anátomo-cirúrgica dos ossos longos
-
-    ● Amputação do membro locomotor
-
-    ● Técnicas de osteossíntese e artrodese
-
-    Instrumentos e Critérios de Avaliação'
+    . 2. ed. São Paulo: MedVet, 2016.'
+  course: "1.\tAbordagem anátomo-cirúrgica da articulação escápulo-umeral, com vistas\
+    \ ao tratamento da osteocondrose/osteocondrite dissecante;\n2.\tAbordagem anátomo-cirúrgica\
+    \ da articulação úmero-rádio-ulnar, com vistas ao tratamento da displasia do cotovelo\
+    \ (fragmentação do processo coronoide medial; não união do processo ancôneo; osteocondrose/osteocondrite\
+    \ dissecante da região medial do côndilo umeral);\n3.\tAbordagem anátomo-cirúrgica\
+    \ da articulação coxofemoral, para tratamento da fratura do colo femoral, luxação\
+    \ traumática da cabeça e colo femorais e displasia coxofemoral;\n4.\tAbordagem\
+    \ anátomo-cirúrgica da articulação fêmoro-tíbio-patelar, para tratamento da luxação\
+    \ de patela e/ou insuficiência do ligamento cruzado cranial;\n5.\tAbordagem anátomo-cirúrgica\
+    \ dos ossos longos, para tratamento das fraturas, sendo empregados os implantes\
+    \ ortopédicos;\n6.\tAmputação do membro locomotor"
   course_name: 'VCI0535 - Ortopedia
 
     Orthopedics'
   deactivation: ''
   instructors: '177752 - André Luis do Valle de Zoppa
 
-    3334593 - Fátima Maria Caetano Caldeira
-
-    40155 - Julia Maria Matera'
+    3334593 - Fátima Maria Caetano Caldeira'
   lecture_credits: '2'
-  objectives: Ensino das afecções dos ossos e articulações dos animais domésticos
-    para preparar e embasar o aluno que optar pela área Ortopedia no Estágio Obrigatório
-    e vida profissional.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 4)
+
+    Educação de Qualidade:
+
+    assegurar a educação inclusiva, e equitativa e de qualidade, e promover oportunidades
+    de aprendizagem ao longo da vida para todos;
+
+    n° 8)
+
+    Trabalho Decente e Crescimento Econômico:
+
+    promover o crescimento econômico sustentado, inclusivo e sustentável, emprego
+    pleno e produtivo, e trabalho decente para todos;'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20251123192157'
-digest: NXO2VO5FCC4AK6V7RQGJY6QZ3747AJEA
+created_at: '20260705142655'
+digest: HMDJPLJJ7BIOJDEDDD2LJR6KPVVNJPGL
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
   - code: VCI4103
     name: Técnica Cirúrgica
     type: Requisito
-updated_at: '20251123192157'
-url: https://web.archive.org/web/20251123192157id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI0535&verdis=4
+updated_at: '20260705142655'
+url: https://web.archive.org/web/20260705142655id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI0535
