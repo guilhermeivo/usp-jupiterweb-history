@@ -1,39 +1,42 @@
 courses:
-  activation: 01/01/2025
+  activation: 15/07/2026
   assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
     de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
     A média final após a recuperação será a média aritmética da nota da avaliação
     final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
     + média da recuperação)/2].'
-  bibliography: 'Para cada aula, o professor responsável enviará por email ou por
-    plataforma digital compartilhada a bibliografia relacionada ao tema da aula, que
-    será complementar ao conteúdo abordado nas aulas teóricas e práticas.
+  bibliography: 'Complementar
 
-    Livros Básicos recomendados:
+    A bibliografia complementar será disponibilizada previamente a cada aula ou atividade
+    didática por meio da plataforma e-Disciplinas (Moodle).
 
-    MARQUARDT, W. C.; DEMAREE, R. S.; GRIEVE, R. B. Parasitology Vector Biology. 2ª
-    Ed., Academic Press, San Diego, 2000.-
+    Consistirá em artigos científicos atualizados, artigos de divulgação técnico-científica,
+    notas técnicas, documentos oficiais, diretrizes sanitárias, reportagens especializadas
+    e outros materiais relevantes para aprofundamento dos temas abordados.
 
-    SOULSBY, E.J.L. Helminths, Arthropods and Protozooa of domesticated animals. London.
-    Lea and Febiger, Philadelphia, 7ed, 1982.
-
-    UENO, H., & GUTIERRES, V.C. Manual para diagnóstico das helmintoses de ruminantes.
-    Japan International Cooperation Agency. Toquio, Japão, 1994.
-
-    Atividades de Extensão
-
-    Grupo social alvo da atividade
-
-    Pequenos produtores rurais'
-  course: 'Coccidiose dos ruminantes. Coccidiose de cães e gatos. Criptosporidiose.
-    Giardiase-Tricomonose. Tristeza parasitária bovina. Hemoparasitoses de equinos.
-    Hemoparasitoses de cães e gatos. Tripanossomoses bovina e equina. Ixodídeos de
-    equinos e cães. Ixodídeos de bovinos. Moscas sinantrópicas. Miíases. Gastrenterites
-    parasitárias de ruminantes. Gastrenterites parasitárias de equinos. Gastrenterites
-    parasitárias de cães e gatos. Verminoses pulmonares. Fasciolose e euritrematose.
-    Pulgas, piolhos e sarnas.
-
-    Instrumentos e Critérios de Avaliação'
+    Os materiais serão fornecidos por meio de links para acesso online ou em formato
+    PDF, visando subsidiar a construção de conhecimento específico, atualizado e contextualizado
+    às demandas contemporâneas da epidemiologia das doenças parasitárias dos animais
+    domésticos.'
+  course: "•\tFundamentos de epidemiologia aplicada às doenças parasitárias: conceitos\
+    \ de cadeia epidemiológica, dinâmica de transmissão, fatores de risco, indicadores\
+    \ epidemiológicos e estratégias de vigilância.\n•\tProtozooses de ruminantes:\
+    \ coccidiose (Eimeriose), criptosporidiose, giardíase, tricomonose, neosporose\
+    \ bovina e tripanossomose bovina.\n•\tHemoparasitoses de ruminantes e equinos:\
+    \ tristeza parasitária bovina e piroplasmose.\n•\tHemoparasitoses de cães e gatos.\n\
+    •\tParasitoses gastrointestinais de ruminantes: helmintoses gastrintestinais\n\
+    •\tVerminoses pulmonares (dictiocaulose), fasciolose e euritrematose.\n•\tParasitoses\
+    \ gastrointestinais de equinos.\n•\tParasitoses gastrointestinais de cães e gatos.\n\
+    •\tEctoparasitoses de importância veterinária: carrapatos de bovinos, equinos\
+    \ e cães (Ixodídeos); pulgas; piolhos; sarnas (escabioses); moscas sinantrópicas\
+    \ e miíases.\n•\tDiagnóstico parasitológico: métodos coproparasitológicos, identificação\
+    \ de ectoparasitas, técnicas para hemoparasitos e interpretação de resultados\
+    \ laboratoriais.\n•\tPlanejamento e controle das doenças parasitárias: medidas\
+    \ profiláticas, manejo integrado de parasitas, resistência antiparasitária, biossegurança\
+    \ e estratégias sustentáveis de controle em sistemas de produção e em animais\
+    \ de companhia.\n•\tAtividade prática de campo: diagnóstico situacional em propriedades\
+    \ rurais, coleta de amostras, análise laboratorial, discussão epidemiológica e\
+    \ elaboração de relatório técnico com recomendações de controle e prevenção."
   course_name: 'VPS3202 - Epidemiologia das Doenças Parasitárias dos Animais Domésticos
 
     Epidemiology of Parasitic Diseases of Domestic Animals'
@@ -44,49 +47,32 @@ courses:
 
     1953541 - Rodrigo Martins Soares'
   lecture_credits: '5'
-  objectives: 'da atividade
-
-    Capacitar os alunos a executarem um diagnóstico de situação das doenças Parasitárias
-    numa propriedade rural de criação de ruminantes domésticos, e a partir daí, gerar
-    um relatório técnico com recomendações de melhorias e implementação de novas tecnologias
-    para o controle e prevenção das doenças parasitárias de animais domésticos, dentro
-    da realidade dos pequenos produtores rurais.
-
-    Descrição da atividade
-
-    Anualmente, a turma de alunos da disciplina VPS3202 tem uma média de 80 anos,
-    a qual é sempre dividida em quatro grupos, cada um com cerca de 20 alunos. Nesta
-    atividade prática, cada grupo visita uma propriedade rural de pequeno porte na
-    região de Pirassununga, sempre na companhia do professor responsável, totalizando
-    quatro propriedades rurais diferentes. Em cada uma das propriedades, os alunos
-    primeiro fazem uma entrevista com o proprietário ou responsável técnico, referente
-    a questões do manejo geral da propriedade e dos métodos que vem sendo empregados
-    para controle das principais doenças parasitárias que afetam ruminantes domésticos,
-    tais como as causadas por helmintos, artrópodes e protozoários, conforme o programa
-    da disciplina. Após o questionário, os alunos executam coleta de amostras clínicas
-    (fezes, ectoparasitas, esfregaços sanguíneos) dos animais da propriedade (bovinos
-    principalmente, e quando presentes, ovinos e equinos). Essas amostras são levadas
-    ao laboratório, onde são examinadas pelos próprios alunos para diagnóstico de
-    parasitas por métodos usuais rotineiramente utilizados para tais fins. Os resultados
-    são discutidos entre os alunos e professores, visando o entendimento da situação
-    epidemiológica das doenças parasitárias na propriedade em questão. Após isso,
-    os alunos confeccionam um relatório técnico numa linguagem acessível, que é encaminhado
-    ao proprietário ou responsável técnico pela propriedade rural visitada. Neste
-    relatório, além de uma breve descrição das atividades realizadas pelos alunos,
-    são descritos os resultados dos exames laboratoriais e uma série de recomendações
-    técnicas com vistas à melhoria do manejo da propriedade quanto às doenças parasitárias,
-    sempre tendo em mente a realidade prática do pequeno produtor rural na região
-    visitada.
-
-    Indicadores de avaliação da atividade
-
-    -Discussão com os alunos no final do módulo, sobre a impressão pessoal de cada
-    um sobre a semana de aulas práticas em Pirassununga;
-
-    -Avaliação dos alunos através do Conselho de Classe;
-
-    -Percepção do proprietário sobre nossa visita a sua propriedade rural e sobre
-    o relatório técnico encaminhado a ele ao final das atividades práticas.'
+  objectives: "da atividade\n•\tContribuir para a melhoria das condições sanitárias\
+    \ das propriedades visitadas, com foco no controle das doenças parasitárias de\
+    \ ruminantes domésticos;\n•\tPromover a troca de conhecimentos entre universidade\
+    \ e produtores rurais, valorizando saberes técnicos e práticos;\n•\tCapacitar\
+    \ os estudantes para realizar diagnóstico situacional em campo, integrando aspectos\
+    \ epidemiológicos, clínicos e de manejo;\n•\tElaborar recomendações técnicas viáveis\
+    \ e compatíveis com a realidade socioeconômica do produtor;\n•\tEstimular a adoção\
+    \ de práticas sustentáveis de controle parasitário, considerando biossegurança,\
+    \ bem-estar animal e saúde única.\nDescrição da atividade\nA atividade de extensão\
+    \ é desenvolvida durante a viagem didática ao município de Pirassununga, quando\
+    \ os estudantes, organizados em grupos e acompanhados pelo docente responsável,\
+    \ visitam propriedades rurais de pequeno ou médio porte.\nInicialmente, é realizada\
+    \ entrevista estruturada com o pecuarista ou responsável técnico, abordando manejo\
+    \ sanitário, histórico de doenças parasitárias e práticas de controle adotadas.\
+    \ Em seguida, os estudantes realizam coleta de amostras biológicas (fezes, ectoparasitas\
+    \ e, quando pertinente, amostras sanguíneas), que são processadas e analisadas\
+    \ em laboratório didático.\nCom base nos resultados obtidos e na análise epidemiológica\
+    \ da propriedade, os estudantes elaboram um relatório técnico em linguagem acessível,\
+    \ contendo diagnóstico situacional e recomendações práticas de prevenção e controle.\
+    \ O relatório é encaminhado ao produtor como devolutiva formal da atividade.\n\
+    Indicadores de avaliação da atividade\n•\tQualidade técnica e aplicabilidade das\
+    \ recomendações apresentadas nos relatórios;\n•\tParticipação e engajamento dos\
+    \ estudantes nas atividades de campo e laboratório;\n•\tDiscussão reflexiva com\
+    \ os estudantes ao final do módulo prático;\n•\tPercepção do pecuarista quanto\
+    \ à utilidade das orientações recebidas;\n•\tIntegração efetiva entre ensino,\
+    \ extensão e realidade produtiva regional."
   practical_credits: '0'
   total_workload: '75 h
 
@@ -94,13 +80,13 @@ courses:
 
     17 h'
   type: Semestral
-created_at: '20251121110728'
-digest: WX2Y77UONHZNPXZ5YSSWD45MJYXUFRQ4
+created_at: '20260705131717'
+digest: C6P22TCKC33EAI3P4OCLYXWOAL4LJWAT
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
   requirements:
   - code: BMP0222
     name: Parasitologia Veterinária
     type: Requisito
-updated_at: '20251121110728'
-url: https://web.archive.org/web/20251121110728id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3202&verdis=3
+updated_at: '20260705131717'
+url: https://web.archive.org/web/20260705131717id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3202
