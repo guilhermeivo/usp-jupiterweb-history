@@ -1,58 +1,31 @@
 courses:
-  activation: 01/01/2026
-  assessment: '1 - A recuperação constará de duas provas a serem realizadas até uma
-    semana antes do término do período de retificação de matrícula (estabelecido anualmente
-    pelo Calendário USP)
+  activation: 15/07/2026
+  assessment: '- A recuperação constará de duas provas a serem realizadas até uma
+    semana antes do término
 
-    2 - A média da avaliação final da disciplina será avaliada levando em consideração:
-    média final = média da avaliação final + média da recuperação ÷ 2.'
-  bibliography: 'BARUSELLI, P.S., MADUREIRA, E.H. (eds) Controle farmacológico do
-    ciclo estral em ruminantes. São Paulo: Fundação da Faculdade de Medicina Veterinária
-    e Zootecnia/USP, 2000. 332p.
+    do período de retificação de matrícula (estabelecido anualmente pelo Calendário
+    USP)
 
-    GONÇALVES, P. B. D.; FIGUEIREDO, J. R.; FREITAS, V. J. F. Biotécnicas aplicadas
-    à Reprodução Animal. Varela: São Paulo, 2002.
+    - A média da avaliação final da disciplina será avaliada levando em consideração:
+    média final = média da avaliação final + média da recuperação ÷ 2'
+  bibliography: 'Complementar
 
-    GRUNERT, E.; GREGORY, R.M. Diagnóstico e terapêutica da infertilidade na vaca.
-    Porto Alegre, Sulina, 1984, 174p.
+    SENGER, P.L. Pathways to Pregnancy and Parturition. Ed Current Conceptions. 3
+    ed. 2012. 381 p.
 
-    HAFEZ, E. S. E. Reprodução Animal. Manole: São Paulo, 1995.
+    NOAKES, D. E.; PARKINSON, T. J.; ENGLAND, G. C. W.; ARTHUR, G. H. Veterinary reproduction
+    and obstetrics. 10. ed. Philadelphia: Saunders Elsevier, 2018. cap. 23.
 
-    MARROW D.A. Current therapy in terogenology. End.ed., Philadelphia, W.B. Saunders
-    Company, 1986, 1143p.
+    HOPPER, Richard M. Bovine Reproduction. 2. ed. Hoboken, NJ: Wiley-Blackwell, 2021.
+    ISBN 978-1-119-60236-1
 
-    McDONALD, L.E. Veterinary endocrinology and reproduction. 4th.ed., Philadelphia,
-    Lea & Febiger, 1989, 571p.
+    LEESON, L; SUMMERS, JD. Broiler Breeder Production. Nottingham University Press.
 
-    McENTEE, K. Reproductive Pathology of Domestic Mammals. Academics Press: San Diego,
-    1990.MIES FILHO, A. Inseminação Artificial. Sulina: Porto Alegre, 1987.
+    2a Edição. 2009.
 
-    MIES FILHO, A. Reprodução dos Animal. Sulina: Porto Alegre, 1987.
-
-    ROBERTS, S. J.; EDUARDO, P. Obstetrícia Veterinaria y Patologia de la Reproduccion
-    (Theriogenogia). Hemisferio Sur: Buenos Aires, 1986.
-
-    YOUNGQUIST, R. S. Currents Therapy in Large Animal Theriogenology. Saunders: Philadelphia,
-    1997, 898p.
-
-    Viagem Didática
-
-    É estruturante?
-
-    Não
-
-    Atividades a serem desenvolvidas
-
-    Aula teórico-prática em propriedades rurais para avaliar a eficiência das técnicas
-    de manejo reprodutivo
-
-    Atividades de Extensão
-
-    Grupo social alvo da atividade
-
-    Associações de produtores, cooperativas, funcionários e profissionais de empresas
-    ligadas aos setores produtivo e medicina veterinária.'
-  course: 'Curso Teórico- Cálculo e avaliação dos índices reprodutivos; Técnicas de
+    LUZ, MR; CELEGHINI, ECC; BRANDÃO, FZ. Reprodução Animal - Fisiologia e biotecnologia
+    avançada. 1ª Edição. Editora Manole. 2024.'
+  course: 'Curso Teórico: Cálculo e avaliação dos índices reprodutivos; Técnicas de
     sincronização do ciclo estral; Impacto no manejo reprodutivo; Nutrição e reprodução;
     Manejo reprodutivo em gado de corte; Manejo reprodutivo em gado de leite; Manejo
     reprodutivo em bubalinos; Manejo reprodutivo em ovinos e caprinos; Manejo reprodutivo
@@ -65,7 +38,9 @@ courses:
 
     Reproductive Management in Farm Animals'
   deactivation: ''
-  instructors: '1492328 - Pietro Sampaio Baruselli
+  instructors: '10635470 - Lucas Oliveira e Silva
+
+    1492328 - Pietro Sampaio Baruselli
 
     3399196 - Ricardo José Garcia Pereira'
   lecture_credits: '2'
@@ -73,7 +48,9 @@ courses:
 
     Produção vídeos desenvolvidos pelos próprios estudantes com uma linguagem simples
     e moderna para detalhar e desmistificar manejos reprodutivos geralmente feitos
-    com animais domésticas para maximização de resultados.
+    com animais domésticas para maximização de resultados. Os melhores vídeos de cada
+    turma serão divulgados em mídias sociais para informar e instruir diferentes seguimentos
+    da sociedade.
 
     Descrição da atividade
 
@@ -82,8 +59,8 @@ courses:
     importância, vantagens e metodologia de certos manejos reprodutivos realizados
     nas diferentes espécies domésticas (1 vídeo por grupo). Os melhores vídeos serão
     veiculados em reuniões de produtores, cooperativas e empresas dos setores produtivo
-    e veterinário. Também vislumbramos a divulgação desses vídeos em redes sociais
-    e mídias digitais para a educação do público leigo.
+    e veterinário. Também serão divulgados em redes sociais e mídias digitais para
+    a educação do público leigo.
 
     Indicadores de avaliação da atividade
 
@@ -102,8 +79,8 @@ courses:
 
     3 h'
   type: Semestral
-created_at: '20251121105654'
-digest: QEXNND2QHA5NI4YM74SN2VUDBJKVFFWG
+created_at: '20260705133816'
+digest: 7BLONKB6WRJZ2STNZ6IVPE4SH755A4HG
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
   requirements:
@@ -143,5 +120,5 @@ requirements:
   - code: VNP3109
     name: Melhoramento Animal
     type: Requisito
-updated_at: '20251121105654'
-url: https://web.archive.org/web/20251121105654id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=5&sgldis=VRA3201
+updated_at: '20260705133816'
+url: https://web.archive.org/web/20260705133816id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA3201
