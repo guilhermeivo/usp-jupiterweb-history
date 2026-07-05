@@ -62,7 +62,9 @@ courses:
 
     3. Secreções, digestão e absorção: Processos não-fermentativos.
 
-    4. Secreções, digestão e absorção: Processos fermentativos.'
+    4. Secreções, digestão e absorção: Processos fermentativos.
+
+    Instrumentos e Critérios de Avaliação'
   course_name: 'BMB0212 - Fisiologia II
 
     Physiology II'
@@ -75,13 +77,13 @@ courses:
   practical_credits: '0'
   total_workload: 105 h
   type: Semestral
-created_at: '20250615180130'
-digest: RBU3JYW5GPQ62RL66D43G6RSALBHQNOQ
+created_at: '20260705122308'
+digest: M57MJBIRCCOBFMPUCMVIT7M56EXX3P32
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 2'
   requirements:
   - code: BMB0127
     name: Fisiologia I
     type: Requisito
-updated_at: '20250615180130'
-url: https://web.archive.org/web/20250615180130id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=BMB0212
+updated_at: '20260705122308'
+url: https://web.archive.org/web/20260705122308id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=BMB0212
