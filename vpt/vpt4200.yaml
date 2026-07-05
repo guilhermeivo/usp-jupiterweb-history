@@ -1,12 +1,10 @@
 courses:
-  activation: 15/07/2023
-  assessment: 'A recuperação constará de duas provas a serem realizadas até uma semana
-    antes do termino do período de retificação de matrículas (estabelecido anualmente
-    pelo Calendário USP).
-
-    A média da avaliação final da disciplina entrará no computo da recuperação, sendo:
-
-    média = média de avaliação final + média da recuperação ÷ 2.'
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
   bibliography: 'McGavin, Zachary Bases da Patologia em Veterinária, 4ª edição (2009),
     (Mosby/Elsevier);
 
@@ -22,7 +20,7 @@ courses:
     Hoff PM Tratado de Oncologia, Atheneu, São Paulo, 2012, 2 volumes.
 
     Weinberg RA. The Biology of Cancer, 2nd Edition, 2013, 960p.'
-  course: '1. Conceito de  neoplasias, diferenças entre tumores benignos e malignos,
+  course: '1. Conceito de neoplasias, diferenças entre tumores benignos e malignos,
     biologia do crescimento neoplásico, disseminação das neoplasias.
 
     2. Patologia molecular das neoplasias.
@@ -43,30 +41,32 @@ courses:
     9. Apresentação e discussão dos métodos tradicionais e inovadores para o tratamento
     das neoplasias em Medicina Veterinária.
 
-    10. Principais modelos para a pesquisa em oncologia veterinária.
-
-    Instrumentos e Critérios de Avaliação'
+    10. Principais modelos para a pesquisa em oncologia veterinária.'
   course_name: 'VPT4200 - Bases da Oncologia Veterinária Comparada
 
     Basis of Veterinary and Comparative Oncology'
   deactivation: ''
-  instructors: 52433 - Maria Lucia Zaidan Dagli
+  instructors: '478132 - Cristina de Oliveira Massoco Salles Gomes
+
+    52433 - Maria Lucia Zaidan Dagli'
   lecture_credits: '2'
-  objectives: Animais domésticos e selvagens tem apresentado preocupante aumento de
-    casos de neoplasias, e o Médico Veterinário precisa estar preparado para melhor
-    interceder nestes casos. A Oncologia Veterinária é uma especialidade crescente
-    na Medicina Veterinária. O objetivo desta disciplina é apresentar aos alunos de
-    graduação as bases da Oncologia Veterinária Comparada.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 3)
+
+    Saúde e Bem-Estar:
+
+    assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades;'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20251122204000'
-digest: MX2OLNQTKL73EB4DFD4C4LOBNV6DAM2Z
+created_at: '20260705144512'
+digest: RJQXCT2AE3B4ACOUAVM7UV27QUAONMPC
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
   - code: VPT2202
     name: Patologia Animal
     type: Requisito
-updated_at: '20251122204000'
-url: https://web.archive.org/web/20251122204000id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT4200&verdis=2
+updated_at: '20260705144512'
+url: https://web.archive.org/web/20260705144512id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT4200
