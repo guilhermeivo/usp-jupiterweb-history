@@ -1,18 +1,8 @@
 courses:
-  activation: 01/01/2019
+  activation: 15/07/2026
   assessment: 'A recuperação constará de uma prova. A média final, após a recuperação,
-    constará de : (média da avaliação final + media de recuperação) : 2'
-  bibliography: 'KAY, R.D. Gestão de propriedades rurais ( 7 ed.). Mc Graw Hill, 2014.
-
-    MENDES, J.T.G.; PADILHA JUNIOR, J.B. Agronegócio - uma abordagem econômica. Atlas,
-    2007.
-
-    NEVES, M.F.; CÕNSOLI, M.A. (org) Estratégias para o leite no Brasil. Atlas, 2006.
-
-    SILVA, R.A.G. Administração Rural: Teoria e Prática. Juruá, 2013
-
-    STOCK, L.A. ZOCCAL, R.; CARVALHO, G.R.; SIQUEIRA, K.B. Competitividade do agronegócio
-    do leite brasileiro. EMBRAPA, 2011.
+    constará de : (média da avaliação final + media de recuperação)/2'
+  bibliography: 'Complementar
 
     ZUIN, L.F.S; QUEIROZ, T.R. (org). Agronegócios: Gestão, Inovação e Sustentabilidade.
     Saraiva, 2015.
@@ -43,26 +33,52 @@ courses:
 
     Princípios de comércio internacional de produtos de origem animal; e
 
-    Desafios e ameaças à indústria animal.
-
-    Instrumentos e Critérios de Avaliação'
+    Desafios e ameaças à indústria animal.'
   course_name: 'VRA3200 - Gestão do Agronegócio
 
     Agrobusiness Management'
   deactivation: ''
   instructors: '2150307 - Augusto Hauber Gameiro
 
+    10635470 - Lucas Oliveira e Silva
+
     1492328 - Pietro Sampaio Baruselli'
   lecture_credits: '1'
-  objectives: Fornecer ao aluno do curso de Medicina Veterinária fundamentos e conceitos
-    de Administração aplicada aos negócios e empreendimentos relacionados aos sistemas
-    agroindústrias de produção animal, tais como gestão de fazendas, de empresas de
-    insumos e serviços veterinários/zootécnicos; gestão de frigoríficos, laticínios
-    e varejos.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 2)
+
+    Fome Zero e Agricultura Sustentável:
+
+    acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover
+    a agricultura sustentável;
+
+    n° 9)
+
+    Indústria, Inovação e Infraestrutura:
+
+    construir infraestrutura resiliente, promover a industrialização inclusiva e sustentável,
+    e fomentar a inovação;
+
+    n° 12)
+
+    Consumo e Produção Responsáveis:
+
+    assegurar padrões de produção e de consumo sustentáveis;
+
+    Viagem Didática
+
+    É estruturante?
+
+    Não
+
+    Atividades a serem desenvolvidas
+
+    Visita técnica a sistemas agroindustriais e preparação de relatório.'
   practical_credits: '0'
   total_workload: 15 h
   type: Semestral
-created_at: '20251123155230'
-digest: SVHEWEIFZ536U6ZQ7GLC4KP5IQ67DF7N
-updated_at: '20251123155230'
-url: https://web.archive.org/web/20251123155230id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA3200&verdis=1
+created_at: '20260705142006'
+digest: 67RTVB4HAMQWVL2HFWJ5TN6CAG346PJ2
+updated_at: '20260705142006'
+url: https://web.archive.org/web/20260705142006id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VRA3200
