@@ -1,37 +1,30 @@
 courses:
-  activation: 15/07/2024
+  activation: 15/07/2026
   assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
     de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
     A média final após a recuperação será a média aritmética da nota da avaliação
     final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
     + média da recuperação)/2].'
-  bibliography: "1.\tCarlton WW, McGavin MD Patologia veterinária especial de Thomson.\
-    \ 2ed. Artmed, Porto Alegre, 1998, 672p.\n2.\tGross, TJ, Ihrke, PJ;, Walder, EJ,\
-    \ Affolter, VK Skin diseases of the dog and cat. Clinical amd Histopathologic\
-    \ diagnosis. 2nd Edition. Blackwell Publishing, 2005. 932p.\n3.\tJones, TC, Hunt\
-    \ RD, & King NW Veterinary Pathology. 6ed. Lippincott Williams & Wilkins, Philadelphia,\
-    \ EUA, 1997, 1392p.\n4.\tJones, TC, Hunt RD, & King NW Patologia Veterinária.\
-    \ Tradução 6ed. Editora Manole.\n5.\tJUBB, KV; KENNEDY, PC.; PALMER, N. Pathology\
-    \ of domestic animals. 5.ed. Vols. 1,2 e 3. 2007.\n6.\tMcGavin, MD, Zachary, JF\
-    \ Bases da Patologia Veterinária. Tradução da 5ed. Mosby Elsevier, 2013.\n7.\t\
-    Santos, RL, Alessi, AC Patologia Veterinária. Editora Roca, São Paulo, 2011. 892p.\n\
-    Atividades de Extensão\nGrupo social alvo da atividade\nResponsáveis por animais\
-    \ que vieram a óbito no HOVET-USP, interessados externos que encaminharam cadáveres\
-    \ para serem avaliados pelo Serviço de Patologia Animal da nossa Unidade, médicos\
-    \ veterinários interessados no desfecho do caso de animais por eles encaminhados,\
-    \ representantes de órgãos públicos com interesse (tais como secretarias de saúde,\
-    \ centros de controles de zoonoses, delegados e outros), dentre outros possíveis."
-  course: "O processo de ensino e aprendizagem da disciplina abordará a fisiopatologia\
-    \ e as grandes classes de processos patológicos com suas respectivas alterações\
-    \ anatomopatológicas que acometem os órgãos e sistemas dos animais domésticos.\n\
-    São empregadas aulas teóricas, práticas e discussões de casos sobre os seguintes\
-    \ temas:\n1.\tPatologia do Sistema Respiratório\n2.\tPatologia do Sistema Hematopoiético\
-    \ e Linfopoiético\n3.\tPatologia do Sistema Circulatório\n4.\tPatologia do Sistema\
-    \ Digestório\n5.\tPatologia das Glândulas Anexas ao Sistema Digestório\n6.\tPatologia\
-    \ das Glândulas Endócrinas\n6.\tPatologia do Sistema Urinário\n7.\tPatologia do\
-    \ Sistema Genital Feminino e do Sistema Genital Masculino\n8.\tPatologia do Sistema\
-    \ Nervoso\n9.\tPatologia do Sistema tegumentar\n11.\tPatologia do sistema músculo-esquelético\n\
-    12.\tPatologia do olho e ouvido\nInstrumentos e Critérios de Avaliação"
+  bibliography: 'Complementar
+
+    Jubb, Kennedy, and Palmer’s Pathology of Domestic Animals (ISBN 9780443279119)'
+  course: 'O ensino de patologia animal envolve o estudo teórico e prático da maneira
+    como as principais moléstias que acometem os animais domésticos se desenvolvem
+    e progridem ao longo do tempo; visto que processos com a mesma base ou causa podem
+    se apresentar de modos distintos em órgãos e sistemas diversos e, mais, dependem
+    muitas vezes da espécie animal em que ocorrem, o estudo de patologia animal emprega
+    uma abordagem por sistemas e foca nos principais mecanismos de doenças específicas
+    de cada sistema que possuem relevância nas diversas espécies de animais avaliadas.
+
+    Portanto, enquanto o programa teórico analisa processos de doenças agrupados por
+    sistemas orgânicos, o curso prático emprega aulas de técnica necroscópica (dissecção
+    de cadáveres) tanto com a finalidade de aprendizado motor quanto treino do reconhecimento
+    de lesões macroscópicas (e, de forma importante, diferenciá-las de alterações
+    “post-mortem”) e discussão de casos completos de necropsia, permitindo assim aos
+    estudantes o aprofundamento no reconhecimento de lesões em imagens digitalizadas,
+    bem como o raciocínio lógico necessário para que muitas informações diversas sejam
+    confrontadas durante o estabelecimento de uma hipotese mais plausível para explicar
+    a causa de morte do indivíduo estudado.'
   course_name: 'VPT2202 - Patologia Animal
 
     Animal Pathology'
@@ -77,13 +70,13 @@ courses:
 
     16 h'
   type: Semestral
-created_at: '20251121183143'
-digest: AOFXULB6AT2NUIJHD5WSJZPAY2T64NPZ
+created_at: '20260705125939'
+digest: SBIOQIT66BJTL3BV7GPD2V6SFEDMLYKX
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 4'
   requirements:
   - code: VPT2101
     name: Patologia Geral
     type: Requisito
-updated_at: '20251121183143'
-url: https://web.archive.org/web/20251121183143id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=3&sgldis=VPT2202
+updated_at: '20260705125939'
+url: https://web.archive.org/web/20260705125939id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT2202
