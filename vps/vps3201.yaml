@@ -1,70 +1,62 @@
 courses:
-  activation: 01/01/2021
-  assessment: 'A recuperação constará de 2 provas: 1) Prova escrita dissertativa versando
-    sobre todo o conteúdo da disciplina (Peso 1); 2) Prova oral versando o conteúdo
-    prático da disciplina. (Peso 1). A nota final será  a Média Final + Média da Recuperação
-    ÷ 2.'
-  bibliography: 'Básica
+  activation: 15/07/2026
+  assessment: A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+  bibliography: 'Complementar
 
-    ACHA, P.N. & SZYFRES, B. Zoonosis y enfermidades transmissibles comunes al hombre
-    y a los animales. Volumem I: bacteriosis y micosis. Organizacion Panamericana
-    de La Salud. 3 ed. Washington, p. 266-283, 2001 (Publicación Científica, 580).
-
-    ACHA, P.N. & SZYFRES, B. Zoonosis y enfermidades transmissibles comunes al hombre
-    y a los animales. Volumem II. Organizacion Panamericana de La Salud. 3 ed. Washington,
-    p. 351-383, 2001 (Publicación Científica, 580).
-
-    ACHA, P.N. & SZYFRES, B. Zoonosis y enfermidades transmissibles comunes al hombre
-    y a losanimales. Volumem III. Organizacion Panamericana de La Salud. 3 ed. Washington,
-    p. 171-180, 2001 (Publicación Científica, 580).
-
-    ORGANIZACION PANAMERICANA DE LA SALUD. El control de las enfermedadestransmissibles
-    en el hombre. 15 ed. OPAS, Washington, 1992 (Publicacion Científica, 538).
-
-    SCHWABE, C.W. Veterinary medicine and human health. 3 ed. William & Wlkins, 1984.
-
-    STEELE, J.H. Handbook series in zoonosis. Section B: viral zoonosis. CRC Press,
-    Boca Raton, 1994.
-
-    STEELE, J.H. Handbook series in zoonosis. Section C: parasitic zoonosis. CRC Press,
-    Boca Raton, 1982.
-
-    STEELE, J.H.; BERAN, G.W. Handbook series in zoonosis. Section A: bacterial, rickettsial,
-    chlamydial and mycotic zoonosis. CRC Press, Boca Raton, 1994.
-
-    PAULIN, L.M.; FERREIRA NETO, J.S. O combate à brucelose bovina. Situação brasileira.
-    Funep, Jaboticabal, p.154, 2003.
-
-    Valvassoura, T.A.; Ferreira Neto, J.S. Tuberculose em primatas. São Paulo: Faculdade
-    de Medicina Veterinária e Zootecnia da USP, 2014, 193p. (disponível em http://www.leb.fmvz.usp.br/publicacoes).'
-  course: 'Conceitos de Zoonoses. Zoonoses na clínica de pequenos animais. Zoonoses
-    emergentes. Zoonoses transmitidas por carrapatos. Toxoplasmose. Leishmanioses.
-    Toxinfecções alimentares. Tuberculose. Brucelose. Complexos Equinococose-Hidatidose
-    e Teníase-Cisticercose. Raiva. Leptospirose.
-
-    Instrumentos e Critérios de Avaliação'
+    Fornecida no primeiro dia de aula, atualizada anualmente.'
+  course: Conceitos de Zoonoses. Epidemiologia da Febre Amarela e Arboviroses transmitidas
+    por vetores. Epidemiologia das Zoonoses Transmitidas por Carrapatos. Epidemiologia
+    da Toxoplasmose. Epidemiologia da Leishmanioses. Epidemiologia das Toxinfecções
+    Alimentares. Epidemiologia da Tuberculose. Epidemiologia da Brucelose. Epidemiologia
+    da Esporotricose; Epidemiologia do Complexos Equinococose-Hidatidose e Teníase-Cisticercose.
+    Epidemiologia da Leptospirose; Epidemiologia dos Acidentes com Animais Peçonhentos.
   course_name: 'VPS3201 - Zoonoses (Saúde Pública Veterinária)
 
     Zoonoses (Veterinary Public Health)'
   deactivation: ''
-  instructors: '2090109 - José Soares Ferreira Neto
+  instructors: '189043 - Adriano Pinter dos Santos
+
+    2090109 - José Soares Ferreira Neto
 
     1426657 - Marcos Bryan Heinemann'
   lecture_credits: '3'
-  objectives: 'Em relação às zoonoses ministradas, o aluno deverá ser capaz de: construir
-    as cadeias epidemiológicas, discriminar os mecanismos de transmissão nas populações
-    animais e destas para a humana, propor medidas de prevenção e controle e avaliar
-    o andamento das intervenções.'
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 2)
+
+    Fome Zero e Agricultura Sustentável:
+
+    acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover
+    a agricultura sustentável;
+
+    n° 12)
+
+    Consumo e Produção Responsáveis:
+
+    assegurar padrões de produção e de consumo sustentáveis;
+
+    Viagem Didática
+
+    É estruturante?
+
+    Não
+
+    Atividades a serem desenvolvidas
+
+    A atividade a ser desenvolvida na viagem didática é uma atividade de controle
+    de animais peçonhentos (escorpiões), esta atividade é desenvolvida em parceria
+    com a prefeitura do município de São Paulo.'
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20250615180826'
-digest: SI3BODHL65IQML3JHYNK4TTYUTEWDNTA
+created_at: '20260705130819'
+digest: ZRA3RSJIQY6NBJG5OYNU7KRJ5VSSKH5V
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
   requirements:
   - code: VPS2202
     name: Epidemiologia Veterinária
     type: Requisito
-updated_at: '20250615180826'
-url: https://web.archive.org/web/20250615180826id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3201
+updated_at: '20260705130819'
+url: https://web.archive.org/web/20260705130819id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS3201
