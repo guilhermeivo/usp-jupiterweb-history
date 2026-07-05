@@ -1,88 +1,71 @@
 courses:
-  activation: 15/07/2024
-  assessment: 'Realização de prova até uma semana antes do término do período de retificação
-    de matrícula (estabelecido anualmente pelo Calendário USP). Computo da nota final:
-    média da avaliação final + recuperação ÷ 2.'
-  bibliography: '- Breilh, J. (2006). Epidemiologia crítica: ciência emancipadora
-    e interculturalidade.
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
+  bibliography: 'STEVENSON, M.
 
-    - Broadbent, A. (2013). Philosophy of Epidemiology. Springer.
+    An introduction to veterinary epidemiology
 
-    - Gordis, L. (2017). Epidemiologia-5a Edição. Thieme Revinter Publicações.
+    . Palmerston North: Massey University, 2008. Disponível em:
 
-    - Gotelli, N. J. (1995). A primer of ecology. Sinauer Associates Incorporated.
+    https://www.scribd.com/document/735337082/An-Introduction-to-Vet-Epidemiology-Stevenson'
+  course: '- Introdução à Epidemiologia;
 
-    - Hinchliffe, S., Bingham, N., Allen, J., & Carter, S. (2016). Pathological lives:
-    Disease, space and biopolitics. John Wiley & Sons.
+    - (Re)produção de situações epidêmicas;
 
-    - Hyndman, R. J., & Athanasopoulos, G. (2014). Forecasting: principles and practice.
-    OTexts.
+    - Inferência causal em saúde;
 
-    - Keeling, M. J., & Rohani, P. (2008). Modeling infectious diseases in humans
-    and animals. Princeton University Press.
+    - Ecologia populacional e saúde;
 
-    - Krieger, N. (2021). Ecosocial theory, embodied truths, and the people''s health.
-    Oxford University Press.
+    - Dinâmica populacional de doenças infecciosas;
 
-    - Richardson, E. T. (2020). Epidemic illusions: on the coloniality of global public
-    health. MIT Press.- Wallace, R. (2020). Pandemia e agronegócio: doenças infecciosas,
-    capitalismo e ciência. Editora Elefante.
+    - Distribuição de eventos de saúde no tempo e no espaço;
 
-    - Rothman, K., Greenland, S., & Lash, T. (2016). Epidemiologia Moderna-3ª Edição.
-    Artmed Editora.
+    - Medidas de frequência de eventos de saúde;
 
-    - Stevenson, M. (2008). An introduction to veterinary epidemiology. Palmerston
-    North: Massey University.
+    - Medidas de associação;
 
-    - Thrusfield, M. (2018). Veterinary epidemiology. John Wiley & Sons.
+    - Estudos de coorte;
 
-    - World Health Organization. (2010). A conceptual framework for action on the
-    social determinants of health.'
-  course: '- Introdução à epidemiologia
+    - Estudos de caso-controle;
 
-    - (Re)produção de situações epidêmicas
+    - Estudos transversais e estudos ecológicos;
 
-    - Inferência causal em saúde
+    - Estudos de intervenção;
 
-    - Ecologia populacional e saúde
+    - Métodos diagnósticos;
 
-    - Dinâmica populacional de doenças infecciosas
+    - Vigilância epidemiológica;
 
-    - Distribuição de eventos de saúde no tempo e no espaço
-
-    - Medidas de frequência de eventos de saúde
-
-    - Medidas de associação
-
-    - Estudos de coorte
-
-    - Estudos de caso-controle
-
-    - Estudos transversais e estudos ecológicos
-
-    - Estudos de intervenção
-
-    - Métodos diagnósticos
-
-    - Vigilância epidemiológica
-
-    - Análise de risco
-
-    Instrumentos e Critérios de Avaliação'
+    - Análise de risco.'
   course_name: 'VPS2202 - Epidemiologia Veterinária
 
     Veterinary Epidemiology'
   deactivation: ''
-  instructors: 7749147 - Oswaldo Santos Baquero
+  instructors: 2048911 - Ricardo Augusto Dias
   lecture_credits: '5'
-  objectives: Introduzir a epidemiologia, enfatizando o raciocínio causal, a dinamicidade
-    dos processos de saúde e de doença, a quantificação de indicadores de eventos
-    de saúde, a identificação de possíveis alvos de intervenção, assim como os protocolos
-    diagnósticos de base populacional e a vigilância epidemiológica.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 3)
+
+    Saúde e Bem-Estar:
+
+    assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades;
+
+    n° 15)
+
+    Vida Terrestre:
+
+    proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres,
+    gerir de forma sustentável as florestas, combater a desertificação, deter e reverter
+    a degradação da Terra e deter a perda da biodiversidade;'
   practical_credits: '0'
   total_workload: 75 h
   type: Semestral
-created_at: '20251121125912'
-digest: MOMUQXDOTRKA2EQKZTXFIOXENKGGYSND
-updated_at: '20251121125912'
-url: https://web.archive.org/web/20251121125912id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=2&sgldis=VPS2202
+created_at: '20260705124442'
+digest: IWBF377H7D2ZIHAPLUD3OSFXYLK6PN56
+updated_at: '20260705124442'
+url: https://web.archive.org/web/20260705124442id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPS2202
