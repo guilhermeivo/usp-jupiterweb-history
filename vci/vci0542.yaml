@@ -1,69 +1,49 @@
 courses:
-  activation: 15/07/2025
-  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
-    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
-    A média final após a recuperação será a média aritmética da nota da avaliação
-    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
-    + média da recuperação)/2].'
-  bibliography: 'ALVES, J. C. et al. Evaluation of four clinical metrology instruments
-    for the assessment of osteoarthritis in dogs. Animals (Basel), v. 12, n. 20, Oct
-    17 2022.
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, a serem realizadas no período
+    indicado no calendário da USP. A média final após a recuperação será a média aritmética
+    da nota da avaliação final e da média da recuperação [Média pós-recuperação: (nota
+    da avaliação final + média da recuperação)/2].'
+  bibliography: 'Complementar
 
-    FANTONI, D. T.; IDA, K. K.; LOPES, T. F.; OTSUKI, D. A. et al. A comparison of
-    the cardiopulmonary effects of pressure controlled ventilation and volume controlled
-    ventilation in healthy anesthetized dogs. J Vet Emerg Crit Care (San Antonio),
-    v. 26, n. 4, p. 524-530, Jul 2016.
+    SPINOSA, H.S.; GORNIAK, S.L.; BERNARDI, M.M.
 
-    FANTONI, D. T. Tratamento da Dor na Clínica de Pequenos Animais. Rio de Janeiro:
-    Elsevier, 2012.
+    Farmacologia Aplicada a
 
-    FANTONI, D. T.; CORTOPASSI, S. R. G. Anestesia em Cães e Gatos. 2. ed. São Paulo:
-    Roca, 2010.
+    ̀ Medicina Veterinaria
 
-    JIMÉNEZ, G. et al. Osteoarthritis: Trauma vs Disease. Adv Exp Med Biol, v. 1059,
-    p. 63-83, 2018.
+    ́
 
-    MASSONE. F. Anestesiologia Veterinária - Farmacologia e Técnica. 7. ed. Rio de
-    Janeiro: Guanabara Koogan, 2020.
+    . 7ª Ed. Rio de Janeiro: Guanabara Koogan, 2023 .
 
-    MANICA, J. Anestesiologia. 4. ed. Porto Alegre: Artmed, 2018.
+    MASSONE, F.L.
 
-    MATSUBARA, L. et al. Psychometric properties of the Brazilian version of the Canine
-    Brief Pain Inventory (CBPI) for dogs with clinical signs of osteoarthritis and
-    preliminary evidence of its clinical utility Arq Bras Med Vet Zootec, v. 74, n.4,
-    p., 2022 v. 74, p. 592-602, 2022.
+    Anestesiologia veterinária. Farmacologia e técnicas.
 
-    NAGASHIMA, J. K.; GONÇALVES, L. A.; PEREIRA, M. A.; TALIB, M. S. et al. Microcirculation
-    assessment of dexmedetomidine constant rate infusion during anesthesia of dogs
-    with sépsis from pyometra: a randomized clinical study. Vet Anaesth Analg, v.
-    49, n. 6, p. 536-545, 2022.
+    7.ed., Rio de Janeiro: Guanabara Koogan, 2019.
 
-    RODRIGUES, R. R.; AMBRÓSIO, A. M.; ENGBRUCH, A. M.; GONÇALVES, L. A. et al. Intraoperative
-    Protective Mechanical Ventilation in Dogs: A Randomized Clinical Trial. Front
-    Vet Sci, v. 9, p. 842613, 2022.
+    AUTRAN DE MORAIS, H.; HOPPER, K.; DIBARTOLA, S. P. Advances in Fluid, Electrolyte,
+    and Acid-Base Disorders.
 
-    SPINOZA, H. S.; GORNIAK, S. L.; BERNARDI, M. M. Farmacologia Aplicada à Medicina
-    Veterinária. 6. ed. Rio de Janeiro: Guanabara Koogan, 2022.
+    Vet Clin North Am Small Anim Pract
 
-    YE, C. et al. Advances in the pharmaceutical treatment options for canine osteoarthritis.
-    J Small Anim Pract, v. 63, n. 10, p. 721-738, 2022.'
-  course: '● Princípios do tratamento da dor: fisiopatologia e reconhecimento da dor
+    ., v. 56, n. 1, p. xvii-xviii, 2026.
 
-    ● Principais agentes analgésicos: opioides, AINEs e adjuvantes
+    FANTONI, D.T.; CORTOPASSI, S.R.G.
 
-    ● Uso racional dos analgésicos na dor aguda
+    Anestesia em cães e gatos.
 
-    ● Tratamento da dor crônica e da osteoartrite em cães e gatos
+    2. ed. São Paulo: Roca, 2010. GAYNOR, J.S.; MUIR, W.W.
 
-    ● Anestesia em pacientes de risco: o que monitorar
+    Manual de Controle da Dor em Medicina Veterinária.
 
-    ● Anestesia no paciente cardiopata
-
-    ● Anestesia no paciente submetido a cirurgia torácica
-
-    ● Procedimentos especiais em cães braquicefálicos
-
-    Instrumentos e Critérios de Avaliação'
+    2ª Ed, MedVet, SP, 2009.'
+  course: "●\tPrincípios do tratamento da dor: fisiopatologia e reconhecimento da\
+    \ dor;\n●\tPrincipais agentes analgésicos: opioides, AINEs e adjuvantes ;\n●\t\
+    Uso racional dos analgésicos na dor aguda;\n●\tTratamento da dor crônica e da\
+    \ osteoartrite em cães e gatos;\n●\tAnestesia em pacientes de risco: o que monitorar;\n\
+    ●\tAnestesia no paciente cardiopata;\n●\tAnestesia no paciente submetido a cirurgia\
+    \ torácica;\n●\tProcedimentos especiais em cães braquicefálicos."
   course_name: 'VCI0542 - Controle da dor e técnicas anestésicas especiais em cães
     e gatos
 
@@ -71,19 +51,52 @@ courses:
   deactivation: ''
   instructors: 1965670 - Silvia Renata Gaido Cortopassi
   lecture_credits: '2'
-  objectives: Ampliar o conhecimento no diagnóstico e tratamento da dor em cães e
-    gatos. Conhecer as modalidades anestésicas e de sedação em procedimentos específicos
-    e utilizar tais recursos de forma customizada e racional.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 3)
+
+    Saúde e Bem-Estar:
+
+    assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades;
+
+    n° 4)
+
+    Educação de Qualidade:
+
+    assegurar a educação inclusiva, e equitativa e de qualidade, e promover oportunidades
+    de aprendizagem ao longo da vida para todos;
+
+    n° 8)
+
+    Trabalho Decente e Crescimento Econômico:
+
+    promover o crescimento econômico sustentado, inclusivo e sustentável, emprego
+    pleno e produtivo, e trabalho decente para todos;
+
+    n° 16)
+
+    Paz, Justiça e Instituições Eficazes:
+
+    promover sociedades pacíficas e inclusivas par ao desenvolvimento sustentável,
+    proporcionar o acesso à justiça para todos e construir instituições eficazes,
+    responsáveis e inclusivas em todos os níveis;
+
+    n° 17)
+
+    Parcerias e Meios de Implementação:
+
+    fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento
+    sustentável'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20251123123258'
-digest: U62RCPIWJJZN3Z3CZA4PI2OHIZTJ7ZZU
+created_at: '20260705143309'
+digest: JIZVPTDR72BYHG6J2TUSJNCNF4SASM4N
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
   - code: VCI4101
     name: Anestesiologia e Técnicas de Terapia Intensiva no Paciente Cirúrgico
     type: Requisito
-updated_at: '20251123123258'
-url: https://web.archive.org/web/20251123123258id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=4&sgldis=VCI0542
+updated_at: '20260705143309'
+url: https://web.archive.org/web/20260705143309id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCI0542
