@@ -1,63 +1,62 @@
 courses:
-  activation: 01/01/2025
-  assessment: 'A recuperação constará de duas provas a serem realizadas até uma semana
-    antes do término do período de retificação de matrícula (estabelecido anualmente
-    pelo Calendário USP).
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas a serem realizadas no período
+    indicado pelo calendário USP. A média final após a recuperação será a média aritmética
+    da nota da avaliação final e da média da recuperação [Média pós-recuperação: (nota
+    da avaliação final  média da recuperação)/2].'
+  bibliography: 'SWAYNE, D.E. et al. (2023) Diseases of Poultry. 13th ed. Wiley-Blackwell,
+    USA.
 
-    A média da avaliação final da disciplina entrará no computo da recuperação, sendo:
-    média = média da avaliação final + média da recuperação ÷ 2.'
-  bibliography: '1. AAAP. A laboratory manual the isolation and identification of
-    avian pathogens. 4th ed. 1998.
+    REVOLLEDO, L. & FERREIRA, A.J.P. (2008) Patologia Aviária. Editora Manole, São
+    Paulo, SP.
 
-    2. Revolledo, L & Ferreira, A. J. P. Patologia Aviária. Ed. Manole, 2008.
-
-    3. Berchieri, JR., A. & Macari, M. Doenças das aves. FACTA, 2000.
-
-    4. Berchieri, JR., A. et al. Doenças das aves. 2ª Edição, FACTA, 2009.
-
-    5. McLelland, J. Color atlas of avian anatomy. WP, London, UK, 1990.'
-  course: 'Curso Teórico:
-
-    1. Doenças bacterianas - micoplasmose aviária, colibacilose aviária, salmoneloses,
-    pasteurelose, coriza infecciosa das galinhas, clostridioses, ornitobacteriose,
-    clamidiose e enterites bacterianas.
-
-    2. Doenças virais - enterites virais, doença de Newcastle, doença de Marek, reticuloendoteliose,
-    leucoses (complexo tumoral viral), doença de Gumboro, bouba aviária, anemia infecciosa
-    das galinhas, laringotraqueíte infecciosa, adenoviroses, encefalomielite aviária,
-    artrite viral, bronquite infecciosa das galinhas e pneumovirose.
-
-    3. Doenças parasitárias - coccidiose, ectoparasitas e endoparasitas.
-
-    4. Doenças metabólicas - síndrome ascítica e síndrome da morte súbita.
-
-    Curso Prático:
-
-    O curso prático constará de aulas de métodos de coleta de material biológico,
-    exame necroscópico e técnicas de vacinação em aves.
-
-    Instrumentos e Critérios de Avaliação'
+    ANDREATTI, R. et al. (2020) Doenças das Aves. 3 ed. Editora Facta, Campinas, SP.'
+  course: O curso será de conteúdo teórico-prático abordando inicialmente os conceitos
+    e definições do Plano Nacional de Saúde Aviária – PNSA, biosseguridade e anatomia
+    de aves comerciais. Capacitar o aluno para o conhecimento das doenças virais (influenza,
+    doença de Newcastle, bronquite infecciosa das galinhas, pneumovirose, doença de
+    Gumboro, anemia das galinhas, complexo tumoral viral, doença de Marek, reticuloendoteliose,
+    leucose linfóide e mielóide, poxvirose, adenovirose, encefalomielite aviária,
+    artrite viral, enterites virais e outras doenças virais), doenças bacterianas
+    (micoplasmose aviária, colibacilose, salmoneloses, pasteurelose, coriza infecciosa,
+    clostridioses, ornitobacterioses e enterites bacterianas), doenças parasitárias
+    (coccidiose, ectoparasitas, endoparasitas) e doenças metabólicas. O curso prático
+    não utiliza animais e sim métodos alternativos de videoaulas, como por exemplo,
+    vacinação, e deverá capacitar o aluno para a adequada anamnese, contenção física,
+    exame clínico, técnicas de colheita de material biológico, bem como realização
+    de necropsia e identificação das alterações anatomopatológicas em aves.
   course_name: 'VPT3201 - Ornitopatologia
 
     Avian Pathology'
   deactivation: ''
   instructors: '55839 - Antônio José Piantino Ferreira
 
-    3160492 - Tânia de Freitas Raso'
+    3160492 - Tânia de Freitas Raso
+
+    1733991 - Terezinha Knöbl'
   lecture_credits: '3'
-  objectives: A disciplina abordará os temas específicos sobre as doenças de importância
-    econômica e/ou epidemiológica que acometem as aves de produção (galinhas de postura,
-    frangos, reprodutoras, perus e outras aves), seu impacto à saúde das aves e suas
-    consequências para a saúde humana. O enfoque será dado ao estudo dos agentes etiológicos,
-    patogenia, sinais clínicos, lesões anatomopatológicas e métodos de diagnóstico
-    das enfermidades. Ao final do curso o aluno estará capacitado para diagnosticas
-    doenças em aves de produção e propor medidas preventivas e/ou curativas para minimizar
-    o impacto das doenças nos planteis avícolas.
+  objectives: 'da atividade
+
+    reduzir perdas econômicas no setor, atuando no manejo sanitário de aves comerciais
+
+    Descrição da atividade
+
+    discussão de casos clínicos reais e proposição de estratégias de mitigação e redução
+    de danos sanitários e econômicos
+
+    Indicadores de avaliação da atividade
+
+    número de profissionais capacitados e inseridos no mercado de trabalho (formação
+    de recursos humanos).'
   practical_credits: '0'
-  total_workload: 45 h
+  total_workload: '45 h
+
+    Carga Horária de Extensão:
+
+    4 h'
   type: Semestral
-created_at: '20251125024032'
-digest: CMTTWUL6FDJK2REZAGIK4J2S4QUPX55C
+created_at: '20260705133808'
+digest: CQRWEZIDAXYS5SMKIMTAWQVIQHZMO3S3
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 6'
   requirements:
@@ -67,5 +66,5 @@ requirements:
   - code: VPS2202
     name: Epidemiologia Veterinária
     type: Requisito
-updated_at: '20251125024032'
-url: https://web.archive.org/web/20251125024032id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT3201&verdis=3
+updated_at: '20260705133808'
+url: https://web.archive.org/web/20260705133808id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT3201
