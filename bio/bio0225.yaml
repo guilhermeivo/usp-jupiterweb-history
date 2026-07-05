@@ -1,19 +1,33 @@
 courses:
-  activation: 15/07/2021
-  assessment: A nota da recuperação será o resultado da média aritmética entre a nota
-    final obtida na disciplina e a nota obtida na prova de recuperação.  A prova de
-    recuperação será oferecida na época estabelecida pelo Calendário Escolar da USP.
-  bibliography: '- Otto, P. G. 2006. Genética Básica para Veterinária. 4a  Edição.
-    Editora Roca. São Paulo.
+  activation: 15/07/2026
+  assessment: 'Poderão realizar a recuperação os estudantes que obtiverem frequência
+    mínima de 70% e média final entre 3,0 е
 
-    - Griffiths, A. J. F., Wessler, S. R., Lewontin, R. C., Carrol, S. B. 2009. Introdução
-    à Genética. 9a Edição. Editora Guanabara Koogan. Rio de Janeiro.'
-  course: 'Conceitos Fundamentais em Genética e Evolução; Padrões de Herança Mendeliana;
-    Padrões Não-Clássicos de herança; Aberrações Cromossômicas; Fundamentos de Biologia
-    Molecular; Genômica; Genética Quantitativa; Conceitos fundamentais em Evolução;
-    Genética de Populações.
+    4,9 na primeira avaliação. A recuperação consistirá em uma prova adicional, cuja
+    nota será utilizada para o cálculo da média final, obtida pela média aritmética
+    entre a nota final obtida na disciplina e a nota obtida na prova de recuperação.
+    Será considerado aprovado o estudante que obtiver média final igual ou superior
+    a 5,0 após a recuperação. A prova de recuperação será oferecida na época estabelecida
+    pelo Calendário Escolar da USP.'
+  bibliography: 'Complementar
 
-    Instrumentos e Critérios de Avaliação'
+    BURNS, G. W. Introdução à Hereditariedade. 5 ed. Rio de Janeiro, Interamericana,
+    1984 [capítulo 9, Herança Poligênica, p.169-177; capítulo 10, Conceitos e Métodos
+    Estatisticos, p. 178-190]
+
+    FUTUYMA, D. J. Biologia evolutiva. 2. ed. Ribeirão Preto, Sociedade Brasileira
+    de Genética, 1992.
+
+    NICHOLAS, F.W. Introdução à genética veterinária. 3a Edição. Ed. Artmed, Porto
+    Alegre, 2011.
+
+    RAVIV, L., JACOBSON, S. L., PLOTNIK, J. M., BOWMAN, J., LYNCH, V., BENÍTEZ-BURRACO,
+    A. (2023). Elephants as an animal model for self-domestication. Proceedings of
+    the National Academy of Sciences of the United States of America, 120(15), e2208607120.'
+  course: Herança Mendeliana; Padrões não-clássicos de herança; Ligação e Mapeamento;
+    Base cromossômica da herança, determinação do sexo e alterações cromossômicas;
+    Genética Quantitativa; Conceitos fundamentais em Evolução; Genética de Populações;
+    Domesticação.
   course_name: 'BIO0225 - Genética e Evolução
 
     Genetics and Evolution'
@@ -22,17 +36,26 @@ courses:
 
     7339675 - Tatiana Teixeira Torres'
   lecture_credits: '3'
-  objectives: Os fenótipos apresentados por todos os organismos dependem da coordenação
-    espacial e  temporal da expressão de conjuntos de genes e de sua interação com
-    o ambiente, desde embriogênese ao indivíduo adulto. Entender os mecanismos de
-    funcionamento, herança e evolução destes genes e a arquitetura das redes constituídas
-    por eles são as questões centrais da Genética. Assim, o objetivo da disciplina
-    é estudar os processos subjacentes aos fenótipos observados e seus mecanismos
-    de herança e evolução aplicados a questões veterinárias.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 4)
+
+    Educação de Qualidade:
+
+    assegurar a educação inclusiva, e equitativa e de qualidade, e promover oportunidades
+    de aprendizagem ao longo da vida para todos;
+
+    n° 15)
+
+    Vida Terrestre:
+
+    proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres,
+    gerir de forma sustentável as florestas, combater a desertificação, deter e reverter
+    a degradação da Terra e deter a perda da biodiversidade;'
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20251231055424'
-digest: N2SO7UIRZU4V56JXJRLELWCDMQDPPCYU
-updated_at: '20251231174351'
-url: https://web.archive.org/web/20251231174351id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=BIO0225&nomdis=
+created_at: '20260705121734'
+digest: 5NIER5HEIJLGNCXL5NJTKCLQ5P62RYTU
+updated_at: '20260705121734'
+url: https://web.archive.org/web/20260705121734id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=BIO0225
