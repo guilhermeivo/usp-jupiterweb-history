@@ -2,9 +2,8 @@ courses:
   activation: 01/01/2020
   assessment: Nota da 2ª Avaliação = Nota da 1ª Avaliação + 2 x (Nota da prova de
     recuperação) dividido por 3.
-  bibliography: 'Básica
-
-    Biologia Molecular Básica, A. Zaha, H. Bunselmeyer-Ferrreira & L.M.P. Passaglia.
+  bibliography: 'Biologia Molecular Básica, A. Zaha, H. Bunselmeyer-Ferrreira & L.M.P.
+    Passaglia.
 
     Princípios de Bioquímica de Lehninger, D. L. Nelson & M. M. Cox
 
@@ -39,13 +38,13 @@ courses:
   practical_credits: '0'
   total_workload: 60 h
   type: Semestral
-created_at: '20250615180548'
-digest: 64A4BEAJN7ZUVOBE7XY37ZPT5JQATGE6
+created_at: '20260705122732'
+digest: NBSM6GYDNV23K5WRNPPPZRXWWC7QKUTZ
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 2'
   requirements:
   - code: QBQ0116
     name: 'Bioquímica: Estrutura de Biomoléculas e Metabolismo'
     type: Requisito
-updated_at: '20250615180548'
-url: https://web.archive.org/web/20250615180548id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QBQ0136
+updated_at: '20260705122732'
+url: https://web.archive.org/web/20260705122732id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=QBQ0136
