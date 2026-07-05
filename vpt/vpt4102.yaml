@@ -1,88 +1,143 @@
 courses:
-  activation: 01/01/2022
-  assessment: 'A recuperação constará de duas provas a serem realizadas até uma semana
-    antes do término do período de retificação de matrícula (estabelecido anualmente
-    pelo Calendário USP). A média da avaliação final da disciplina entrará no computo
-    da recuperação, sendo: média = média da avaliação final + média da recuperação
-    ÷ 2'
-  bibliography: 'Palermo-Neto, J.; Spinosa, H.S.; Gómiak, S.L. Farmacologia Aplicada
-    à Avicultura: boas práticas no manejo de medicamentos. Roca Ed. l" Edição, 2005.
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas a serem realizadas no período
+    indicado pelo calendário USP. A média final após a recuperação será a média aritmética
+    da nota da avaliação final e da média da recuperação: Média pós-recuperação =
+    (nota da avaliação final + média da recuperação)/2.'
+  bibliography: 'Complementar
+
+    Associação Brasileira dos Criadores de Suínos (ABCS). Suinocultura: o uso prudente
+    e eficaz de antibióticos na suinocultura: uma abordagem integrada. 1 ed., 2022.
+    Brasília, DF. Disponível em:
+
+    https://ainfo.cnptia.embrapa.br/digital/bitstream/doc/1144476/1/final9970.pdf
+
+    .
+
+    Conselho Nacional de Controle de Experimentação Animal, MCTI. Resolução Normativa
+    Nº 25, de 29 de setembro de 2015. Guia Brasileiro de Produção, Manutenção ou Utilização
+    de Animais para Atividades de Ensino ou Pesquisa Científica do CONCEA. 2015. Disponível
+    em:
+
+    https://www.in.gov.br/materia/-
+
+    /asset_publisher/Kujrw0TZC2Mb/content/id/33252781/DiarioOficialdaUniao.
+
+    Kibenge, F.S.B; Baldisserotto,B; Chong R. S. Aquaculture Pharmacology. Oxford,
+    Academic Press, 1 ed., 2021.
+
+    Conselho Regional de Medicina Veterinária do Estado de São Paulo (CRMV-SP). Guia
+    de Boas Práticas Clínicas para Avaliação de Produtos Veterinários. 1 ed., 2021.
+    Disponível em:
+
+    https://crmvsp.gov.br/wp-content/uploads/2021/03/Guia_de_Boas_Praticas_Clinicas_para_Avaliacao_de_P
+    rodutos_Veterinarios.pdf
+
+    . Acesso em 25 de julho de 2024.
+
+    Conselho Regional de Medicina Veterinária do Estado de São Paulo (CRMV-SP). Guia
+    Básico para Condução de Pesquisa Clínica Veterinária. Disponível em:
+
+    https://crmvsp.gov.br/wp-content/uploads/2024/04/19.04.2024_Guia_para_a_conducao_de_pesquisa_clini
+
+    ca.pdf.
 
     Riviere, I.E.; Papich, M.G. Veterinary pharmacology & therapeutics. 10 ed. Ames,
     Blackwell, 2018.
 
-    Spinosa, H.S.; Palermo-Neto, J.; Gómiak, S.L. Medicamentos em Animais de produção.
-    Grupo Gen (ROCA) Ia Edição, 2014.
-
-    Spinosa, H.S.; Gómiak, S.L.; Bemardi, M.M. Farmacologia Aplicada à Medicina Veterinária.
-    6 ed. Guanabara Koogan, Y Edição, 2017.
-
-    As demais bibliografias serão fornecidas durante as aulas.'
-  course: 'Aulas teóricas expositivas dialogadas:
-
-    1. Panorama nacional e internacional sobre o uso de medicamentos em animais de
-    produção.
-
-    2. Relevância dos estudos de farmacocinética em animais de produção.
-
-    3. Tipos de medicação em animais de produção.
-
-    4. Aditivos zootécnicos: digestivos, equilibradores da flora e melhoradores do
-    desempenho zootécnico.
-
-    5. Medicamentos usados terapêutica e metafilaticamente.
-
-    6. O Codex alimentarius e a qualidade dos alimentos de origem animal: análises
-    de risco de resíduos de medicamentos veterinários;
-
-    7. Legislação brasileira para registro de medicamentos veterinários.
-
-    8. Legislação internacional relativa ao uso de medicamentos veterinários: a OMC
-    e o comércio internacional de alimentos.
-
-    Seminários e Discussões em grupos.
-
-    1. Resistência bacteriana e uso de antimicrobianos em animais de produção.
-
-    2. Cálculo do período de carência para medicamentos veterinários e aditivos de
-    uso em animais de produção.
-
-    3. Protocolos para estudos de eficácia e segurança de medicamentos veterinários
-    de uso em animais de produção.
-
-    4. Os padrões de referência para segurança de medicamentos veterinários do Codex
-    alimentarius, da EMA (European Medical Agency), do FDA (US Food and Drug Administration)
-    e de outros organismos internacionais.
-
-    5. Normas para registro de medicamentos Veterinários no MAPA
-
-    Instrumentos e Critérios de Avaliação'
+    VICH GL 57 (MRK) –RESIDUES IN FISH February 2019. Studies to Evaluate the Metabolism
+    and Residue Kinetics of Veterinary Drugs in Food-producing Species: Marker Residue
+    Depletion Studies to Establish Product Withdrawal Periods in Aquatic Species.'
+  course: "1.\tMedicamentos em animais de produção: conceitos fundamentais.\n2.\t\
+    Boas práticas para estudos de eficácia e segurança de produtos veterinários.\n\
+    3.\tFarmacovigilância\n4.\tPanorama regulatório e fiscalização de produtos medicamentosos.\n\
+    5.\tMedicamentos em rações e programas de qualidade.\n6.\tO emprego de medicamentos\
+    \ na psicultura.\n7.\tResistência bacteriana e uso de antimicrobianos em animais\
+    \ de produção\n8.\tAditivos zootécnicos e melhoradores de desempenho.\n9.\tLegislação\
+    \ internacional e comércio internacional de produtos de origem animal.\n10.\t\
+    Análise de risco e resíduos em alimentos de origem animal.\n11.\tBem-estar animal\
+    \ e uso racional de medicamentos.\n12.\tDebate técnico sobre resíduos e impacto\
+    \ regulatório."
   course_name: 'VPT4102 - Medicamentos em Animais de Produção
 
-    Drugs in food animals'
+    Drugs in Food-Producing Animals'
   deactivation: ''
   instructors: '5832442 - André Tadeu Gotardo
 
     91736 - Silvana Lima Gorniak'
   lecture_credits: '2'
-  objectives: Contribuir para a formação de profissionais ligados à área de animais
-    de produção para os quais o conhecimento e o desenvolvimento de habilidades e
-    do raciocínio na área de Farmacologia e Toxicologia são fundamentais para a manutenção
-    da saúde dos animais, da qualidade dos alimentos deles derivados e, via de consequência,
-    da saúde pública (do consumidor). Pretende-se, também, contribuir para o entendimento
-    e avaliação crítica das legislações nacionais (MAPA, ANVISA) e internacionais
-    (Codex alimentarius, FAO/OMS, European Medical Agency - EMA, United States Food
-    and Drug Administration - FDA) ligadas ao tema.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 2)
+
+    Fome Zero e Agricultura Sustentável:
+
+    acabar com a fome, alcançar a segurança alimentar e melhoria da nutrição e promover
+    a agricultura sustentável;
+
+    n° 3)
+
+    Saúde e Bem-Estar:
+
+    assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades;
+
+    n° 4)
+
+    Educação de Qualidade:
+
+    assegurar a educação inclusiva, e equitativa e de qualidade, e promover oportunidades
+    de aprendizagem ao longo da vida para todos;
+
+    n° 6)
+
+    Água Potável e Saneamento:
+
+    garantir disponibilidade e manejo sustentável da água e saneamento para todos;
+
+    n° 9)
+
+    Indústria, Inovação e Infraestrutura:
+
+    construir infraestrutura resiliente, promover a industrialização inclusiva e sustentável,
+    e fomentar a inovação;
+
+    n° 11)
+
+    Cidades e Comunidades Sustentáveis:
+
+    tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes
+    e sustentáveis;
+
+    n° 12)
+
+    Consumo e Produção Responsáveis:
+
+    assegurar padrões de produção e de consumo sustentáveis;
+
+    n° 15)
+
+    Vida Terrestre:
+
+    proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres,
+    gerir de forma sustentável as florestas, combater a desertificação, deter e reverter
+    a degradação da Terra e deter a perda da biodiversidade;
+
+    n° 17)
+
+    Parcerias e Meios de Implementação:
+
+    fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento
+    sustentável'
   practical_credits: '0'
   total_workload: 30 h
   type: Semestral
-created_at: '20250615183114'
-digest: D7LFIBZM3JPEJ52FFXBMJ4VI2ETOM64Y
+created_at: '20260705141647'
+digest: NUE4ES2X4FS2KQHY3N3XYSN5PLADK6AO
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
   - code: VPT2201
     name: Farmacologia Aplicada à Medicina Veterinária
     type: Requisito
-updated_at: '20251127005654'
-url: https://web.archive.org/web/20251127005654id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=2&sgldis=VPT4102
+updated_at: '20260705141647'
+url: https://web.archive.org/web/20260705141647id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VPT4102
