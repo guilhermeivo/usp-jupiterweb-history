@@ -1,74 +1,31 @@
 courses:
-  activation: 01/01/2025
-  assessment: 'Uma prova teórica e uma prova teórico-prática de recuperação serão
-    realizadas em data previamente agendada, sendo a nota final de recuperação igual
-    à média aritmética das duas provas (teórica e
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
+  bibliography: 'Complementar
 
-    prática). E a média final da disciplina será calculada pela média aritmética da
-    média obtida no semestre letivo e a média das provas de recuperação.'
-  bibliography: 'BONAGURA, J.D; TWEDT, D. Kirk’s Current Veterinary Therapy XIV. Missouri,
-    Saunders Elsevier, 2009.
+    Davies,C. & Shell, L. Common Small Animal Diagnoses: An Algorithmic Approach
 
-    DiBARTOLA, S.P. Fluid, Electrolyte, and Acid-base Disorders in Small Animal Practice.
-    3 ed. Saunders Elsevier, 2006.
+    https://www.vin.com/members/cms/project/DefaultAdv1.aspx?pid=5618
 
-    ETTINGER, S.J. & FELDMAN, E.D. Textbook of Veterinary Internal Medicine: diseases
-    of the dogs and cats. 6th Ed. Philadelphia, W. B. Saunders, 2005.
+    (
 
-    FEITOSA, F.L.F. Semiologia Veterinária a Arte do Diagnóstico. 2 ed. Roca, 2008,
-    p. 642 – 76.
+    https://www.vin.com/vin/
 
-    FELDMAN, E.C.; NELSON, R.W. Canine and Feline Endocrinology and Reproduction.
-    3a. ed. St Louis, Saunders, 2004.
+    - inscrição necessária - grátis para estudantes com email USP)
 
-    GREENE, C.E. Clinical, Microbiological and Infectious, Diseases of the dog and
-    cat. 3ª ed. Philadelphia, W. B. Saunders, 2005.
+    Manual MSD para Profissionais
 
-    GUAQUIERE & PRELAUD. A Practical Guide to Feline Dermatology. Merial, 2000.
+    -
 
-    HOLX WORTH, J. Diseases of the cat. Philadelphia, W.B. Saunders, 1987.
+    Apps on Google Play
 
-    JERICÓ, M.M.; ANDRADE NETO, J.P.; KOGIKA, M.M. Tratado de Medicina Interna de
-    Cães e Gatos. 1ª edição, 2 volumes, Rio de Janeiro, Grupo Gen – Roca, 2015.
+    -
 
-    KELLY, W.R. Diagnóstico Clínico Veterinário. 3ª ed. Interamericana, 1986.
-
-    KIRK, R.W. & BONAGURA, J.D. Current Veterinary Therapy XI. Philadelphia, W. B.
-    Saunders, 1992.
-
-    LARSSON, C.E.; LUCAS, R. Tratado de Medicina Externa - Dermatologia Veterinária.
-    1a  edição,  Interbook Editorial, 2015.
-
-    LEE GROSS et al. Skin Diseases of the Dog and Cat. 2 ed. Oxford Blackwell Science,
-    2015.
-
-    LORENZ, M.D. & CORNELIUS, L.M. Diagnóstico Clínico e Tratamento em Pequenos Animais.
-    Ed. Interlivros Edições Ltda, 1989.
-
-    MILLER, M.S. & TILLEY, S.J. Manual of Canine and Feline Cardiology. 2ª ed. Philadelphia,
-    W.B. Saunders, 1995.
-
-    MINOVICH & PALUDI. Medicina Felina Practica. 3 ed. Barcelona Multimédica, 2011,
-    p. 427-81.
-
-    MILLER, GRIFFIN & CAMPBELL. Muller & Kirk´s Small Animal Dermatology. 7 ed. St
-    Louis. Elsevier, 2013.
-
-    LARSSON, C.E. & LUCAS, R. Tratado de Medicina Externa Dermatológica Veterinária
-    2a Ed. 2019 Interbook. ISBN 9788589450119.
-
-    NELSON, R.W.; COUTO, C.G. Small Animal Internal Medicine. 4th ed. Missouri, Mosby
-    Elsevier, 2009.
-
-    PADRID, P. Respiratory Medicine and Surgery. The Veterinary Clinics of North America.
-    Small Animal Practice. V.30, n.6, 2000.
-
-    RAND, J. Problem-Based Feline Medicine. ISBN 978-0-7020-2488-7 Saunders Ltd.2006
-
-    https://doi.org/10.1016/B978-0-7020-2488-7.X5001-7
-
-    TILLEY, L.P.& SMITH Jr, F.W.K. The 5-Minute Veterinary Consult. Canine and Feline.
-    2nd ed. Baltimore, Lippincott Williams & Wilkins, 2000.'
+    https://play.google.com/store/apps/details?id=com.msd.professionalPortugese'
   course: 'Abordagem ao Raciocínio Clínico
 
     Princípios de Fluidoterapia
@@ -77,7 +34,7 @@ courses:
 
     Particularidades no tratamento de felinos
 
-    Principais doenças infecciosas
+    Principais doenças infecciosas de cães e gatos
 
     Principais doenças dermatológicas
 
@@ -85,31 +42,54 @@ courses:
 
     Principais doenças do sistema urinário
 
-    Principais doenças cardíacas
-
-    Principais doenças respiratórias
-
-    Instrumentos e Critérios de Avaliação'
+    Principais doenças respiratórias (vias anteriores)'
   course_name: 'VCM4201 - Clínica Médica de Pequenos Animais
 
     Small Animal Internal Medicine'
   deactivation: ''
   instructors: '407831 - Archivaldo Reche Junior
 
-    233956 - Denise Saretta Schwartz'
+    8791658 - Fernanda Chicharo Chacar'
   lecture_credits: '6'
-  objectives: A disciplina compreende a verificação do histórico e dos sintomas associadas
-    às alterações funcionais e/ou metabólicas que acometem os pequenos animais, principalmente
-    cães e gatos. O intuito será de desenvolver metodologia para o raciocínio que
-    irá relacionar os achados clínico-laboratoriais com as principais doenças que
-    possam estar envolvidas. O curso teórico e prático permitirá, com base nas informações
-    referidas, a determinação quanto a etiologia, diagnóstico provável, prognóstico,tratamento
-    e profilaxia.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 3)
+
+    Saúde e Bem-Estar:
+
+    assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades;
+
+    n° 4)
+
+    Educação de Qualidade:
+
+    assegurar a educação inclusiva, e equitativa e de qualidade, e promover oportunidades
+    de aprendizagem ao longo da vida para todos;
+
+    n° 12)
+
+    Consumo e Produção Responsáveis:
+
+    assegurar padrões de produção e de consumo sustentáveis;
+
+    n° 13)
+
+    Ação Contra a Mudança Global do Clima:
+
+    tomar medidas urgentes para combater a mudança climática e seus impactos;
+
+    n° 15)
+
+    Vida Terrestre:
+
+    proteger, recuperar e promover o uso sustentável dos ecossistemas terrestres,
+    gerir de forma sustentável as florestas, combater a desertificação, deter e reverter
+    a degradação da Terra e deter a perda da biodiversidade;'
   practical_credits: '0'
   total_workload: 90 h
   type: Semestral
-created_at: '20260705135045'
-digest: 7HQI5YVWI2OSVCRPUGMHPIHPTT37OBHY
+created_at: '20260705135046'
+digest: RZSB3KNQ3563PPGQM3VXV5HHLIXARSEI
 requirements:
 - course: 'Curso: 10012  Medicina Veterinária (integral) - Período ideal: 8'
   requirements:
@@ -134,5 +114,5 @@ requirements:
   - code: VCM4101
     name: Semiologia
     type: Requisito
-updated_at: '20260705135045'
-url: https://web.archive.org/web/20260705135045id_/https://uspdigital.usp.br/jupiterweb/listarCursosRequisitos?coddis=VCM4201
+updated_at: '20260705135046'
+url: https://web.archive.org/web/20260705135046id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCM4201
