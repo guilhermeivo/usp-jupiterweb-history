@@ -1,15 +1,17 @@
 courses:
-  activation: 01/01/2025
-  assessment: 'A recuperação será realizada até uma semana antes do término do período
-    de retificação de matrícula, e consta de duas provas, sendo uma teórica e outra
-    prática, realizadas no mesmo dia. A média final será dada pela fórmula: Média
-    = média da avaliação final + média da recuperação /2.'
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, sendo uma teórica e outra prática,
+    realizadas no mesmo dia, a serem realizadas no período indicado pelo calendário
+    USP. A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
   bibliography: 'Complementar
 
     Baccarin, R.Y.A.; Brossi, P.M.; Silva, L.C.L.C. Guia Ilustrado para Injeção Perineural
     em Membros Locomotores de Equinos. Quiron Comunicação, 2015.
 
-    Beech, J. Equine respiratory disorders. Philadelphia, Lea&Febiger, 1991.
+    Baxter, G.M. (ed) Adams and Stashak''s Lameness in Horses. 7.ed. Wiley-Blackwel,
+    2020.
 
     Bertone, J. Equine Geriatric Medicine and Surgery. Elsevier, 2006.
 
@@ -21,18 +23,15 @@ courses:
     Easley, J.; Dixon, P.M.; Schumacher, J. Equine Dentistry. 3.ed. Saunders, 2010.
 
     Guiguère, S. et al. Terapia Antimicrobiana em Medicina Veterinária. 4. ed. São
-    Paulo: Roca, 2010.
-
-    Knottenbelt, D. C. Pascoe''s Principles and Practice of Equine Dermatology. 2.ed.
-    Saunders, 2009.
-
-    Knottenbelt, D.C.; Pascoe, R.R. Afecções e distúrbios do cavalo, Ed. Manole, 1998.
+    Paulo: Roca, 2010. Knottenbelt, D. C. Pascoe''s Principles and Practice of Equine
+    Dermatology. 2.ed. Saunders, 2009. Knottenbelt, D.C.; Pascoe, R.R. Afecções e
+    distúrbios do cavalo, Ed. Manole, 1998.
 
     Knottenbelt, D. C. et al. Equine Neonatology - Medicine and Surgery. WB Saunders
     Company, 2006.
 
     Larsson, C.E.; Lucas, R. Tratado de Medicina Externa – Dermatologia Veterinária.
-    2.ed. Interbook, 2020. 1172p.
+    2.ed. Interbook, 2020. 1172p
 
     McGorum, B. C. Equine Respiratory Medicine and Surgery. WB Saunders Company, 2007.
 
@@ -40,10 +39,10 @@ courses:
 
     Mikail, S.; Pedro, C. R. Fisioterapia Veterinária. 2.ed. Manole, 2009.
 
+    Reed, S.M.; Bayly, W.M. Equine Internal Medicine. 4.ed. Elsevier, 2017.
+
     Ross, M. W.; Dyson, S. J. Diagnosis and Management of Lameness in the Horse. 2.ed.
     Elsevier, 2011.
-
-    Savage, C. J. Segredos em Medicina de Eqüinos. Artmed, 2001.
 
     Schumacher, J.; Moll, H. D. Manual de Procedimentos Diagnósticos em Eqüinos. Editora
     Roca, 2007.
@@ -55,19 +54,11 @@ courses:
 
     Slovis, N.M. Atlas of Equine Endoscopy. Mosby, 2003.
 
-    Stashak, T.S. Claudicações em eqüinos segundo Adams. 5 ed. Rio de Janeiro: Rocca,
+    Stashak, T.S. Claudicações em eqüinos segundo Adams. 5. ed. Rio de Janeiro: Rocca,
     2006.'
-  course: '1 – Principais afecções dos potros
-
-    2 - Afecções do Sistema Digestório
-
-    3 - Afecções do Sistema Respiratório
-
-    4 - Afecções do Sistema Músculo-esquelético
-
-    5 - Afecções do Sistema Nervoso
-
-    Instrumentos e Critérios de Avaliação'
+  course: Principais afecções dos potros; Afecções do Sistema Digestório; Afecções
+    do Sistema Respiratório; Afecções do Sistema Músculo-esquelético; Afecções do
+    Sistema Nervoso.
   course_name: 'VCM4204 - Clínica Médica de Equídeos
 
     Equine Internal Medicine'
@@ -76,13 +67,24 @@ courses:
 
     1736701 - Raquel Yvonne Arantes Baccarin'
   lecture_credits: '3'
-  objectives: A disciplina objetiva o estudo da etiopatogenia, do quadro sintomático,
-    da terapêutica e da profilaxia dos principais quadros mórbidos que acometem os
-    equinos de tração, esporte e lazer.
+  objectives: 'de Desenvolvimento Sustentável (ONU)
+
+    n° 3)
+
+    Saúde e Bem-Estar:
+
+    assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades;
+
+    n° 4)
+
+    Educação de Qualidade:
+
+    assegurar a educação inclusiva, e equitativa e de qualidade, e promover oportunidades
+    de aprendizagem ao longo da vida para todos;'
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20251123054619'
-digest: XVW7XGIZXXPZCWX4SBJYYYMEOUW3RP54
-updated_at: '20251123054619'
-url: https://web.archive.org/web/20251123054619id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?verdis=5&sgldis=VCM4204
+created_at: '20260705135900'
+digest: KM56NMSWMGWYISI7KZMJ54YLUOPVTALG
+updated_at: '20260705135900'
+url: https://web.archive.org/web/20260705135900id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VCM4204
