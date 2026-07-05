@@ -1,34 +1,51 @@
 courses:
-  activation: 01/01/2025
-  assessment: 'A recuperação constará de uma nova prova teórica. A média final, após
-    a recuperação, constará: média da avaliação final + média da recuperação ÷ 2.'
-  bibliography: 'ASSOCIATION OF AMERICAN FEED CONTROL OFFICIALS - AAFCO. Official
-    Publications. Association of American Feed Control Officials, 2022.
+  activation: 15/07/2026
+  assessment: 'A recuperação constará de duas provas, cuja natureza ficará a cargo
+    de cada disciplina, a serem realizadas no período indicado pelo calendário USP.
+    A média final após a recuperação será a média aritmética da nota da avaliação
+    final e da média da recuperação [Média pós-recuperação: (nota da avaliação final
+    + média da recuperação)/2].'
+  bibliography: 'ASSOCIATION OF AMERICAN FEED CONTROL OFFICIALS - AAFCO.
 
-    CASE, L. P.; CAREY, E. P.; HIRAKAWA, D. A. Canine and Feline Nutrition. A resource
-    for companion animal professionals. St. Louis: Mosby. 2010. 455p.
+    Official Publications
 
-    CHAN, D. Nutritional Management of Hospitalized Small Animals. London: Willey
-    Blackwell. 2015. 272p.
+    . Association of American Feed Control Officials, 2019.
 
-    FASCETTI, A. J.; DELANEY, S. J. Applied Veterinary Clinical Nutrition. Davis-CA:
-    Willey Blackwell. 2012. 388p.
+    CASE, L. P.; CAREY, E. P.; HIRAKAWA, D. A.
 
-    FEDIAF - Nutritional Guidelines for Complete and Complementary Pet Food for Cats
-    and Dogs, 2022.
+    Canine and feline nutrition
 
-    HAND, M. S.; THATCHER, D. D.; REMILLARD, R. L.; ROUDEBUSH, P.; NOVOTNY, B. J.
-    Small Animal Clinical Nutrition. 5th edition. Mark Morris Institute: Topeka. 2010.
-    1314p.
+    . A resource for companion animal professionals. St. Louis: Mosby. 2010. 455p.
 
-    HARO, C. V.; ABAD, H. A. Manual Práctico de Nutrición Clínica en el Perro y el
-    Gato. Barcelona-ES: Multimédica Ediciones Veterinárias. 2015. 186p.
+    FASCETTI, A. J.; DELANEY, S. J.
 
-    KANEKO, J. J., HARVEY, J. W., BRUSS, M. L. Clinical Biochemistry of Domestic Animals.
-    5ed. San Diego: Academic Press, 2009. 932p.
+    Applied veterinary clinical nutrition
 
-    National Research Council. Nutrient Requirements of Dogs and Cats. The National
-    Academy Press, p.230-231, 2006.'
+    . John Wiley & Sons, 2012.
+
+    FEDIAF - European Pet Food Industry Federation.
+
+    Nutritional guidelines for complete and complementary pet food for cats and dogs
+
+    , 2019.
+
+    HAND, M. S.; THATCHER, C. D.; REMILLARD, R. L.
+
+    Small animal clinical nutrition.
+
+    5th. Topeka: Mark Morris Institute, 2010.1314p.
+
+    NRC - National Research Council.
+
+    Nutrient Requirements of Dogs and Cats
+
+    . The National Academy Press, 2006.
+
+    WSAVA - Nutritional Assessment Guidelines Task Force Members.
+
+    WSAVA Nutritional assessment guidelines
+
+    . Journal of Small Animal Practice, v. 52, p. 385-396, 2011.'
   course: ''
   course_name: 'VNP3116 - Nutrologia canina e felina
 
@@ -36,25 +53,18 @@ courses:
   deactivation: ''
   instructors: 6517960 - Thiago Henrique Annibale Vendramini
   lecture_credits: '3'
-  objectives: 'Propiciar conhecimentos específicos para que os acadêmicos possam:
+  objectives: 'de Desenvolvimento Sustentável (ONU)
 
-    Compreender o papel da nutrição na etiologia e patogenia de afecções que acometem
-    cães e gatos;
+    n° 17)
 
-    Compreender a influência da doença e das diferentes fases fisiológicas sobre as
-    necessidades e o metabolismo dos nutrientes na espécie canina e felina;
+    Parcerias e Meios de Implementação:
 
-    Compreender princípios gerais de avaliação nutricional do paciente;
-
-    Instituir a correção dietética pertinentes aos distúrbios nutricionais e metabólicos
-    de cães e gatos;
-
-    Utilizar nutrientes específicos na terapia de doenças e distúrbios metabólicos
-    e nutricionais de cães e gatos.'
+    fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento
+    sustentável'
   practical_credits: '0'
   total_workload: 45 h
   type: Semestral
-created_at: '20251124192510'
-digest: DCBL3ATHTENASNT7GYLR7E6GS3WJB75L
-updated_at: '20251124192510'
-url: https://web.archive.org/web/20251124192510id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3116&verdis=4
+created_at: '20260705141110'
+digest: GQ35W5UIJXSYBGIOFHXRQZ7LZPNEJKSS
+updated_at: '20260705141110'
+url: https://web.archive.org/web/20260705141110id_/https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=VNP3116
