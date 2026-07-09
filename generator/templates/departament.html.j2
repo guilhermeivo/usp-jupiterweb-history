@@ -1,0 +1,15 @@
+{% extends "base.html.j2" %}
+
+{% block title %}{{ departament }}{% endblock %}
+
+{% block content %}
+    <ul>
+        {% for c in courses %}
+            <li class="toctree-l1">
+                <a class="reference internal" href="{{ base_url }}/{{ c.departament }}/{{ c.file.stem }}.html">
+                    {{ c.file.stem }}
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+{% endblock %}
