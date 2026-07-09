@@ -1,0 +1,79 @@
+{% extends "base.html.j2" %}
+
+{% block title %}{{ course["course_name"] }}{% endblock %}
+
+{% block content %}
+    <h1 class="paragraph-text" data-pagefind-meta="title" data-pagefind-sort="department[data-department]" data-department="{{ department }}">
+        {{ course["course_name"]|trim -}}
+        <a class="headerlink" href="#curso" title="{{ course["course_name"]|trim }}">¶</a>
+    </h1>
+
+    {% if course["lecture_credits"] != "0" %}
+        <span class="sd-badge sd-outline-dark">{{ course["lecture_credits"]|trim }} Créditos Aula</span>
+    {% endif %}
+
+    {% if course["practical_credits"] != "0" %}
+        <span class="sd-badge sd-outline-dark">{{ course["practical_credits"]|trim }} Créditos Trabalho</span>
+    {% endif %}
+
+    <span class="sd-badge sd-outline-dark">{{ course["total_workload"]|trim }} Carga Horária Total</span>
+
+    <span class="sd-badge sd-outline-dark">{{ course["type"]|trim }}</span>
+
+    {% if course["objectives"] %}
+        <h2>
+            Objetivos
+            <a class="headerlink" href="#objetivos" title="Objetivos">¶</a>
+        </h2>
+
+        <p class="paragraph-text">{{ course["objectives"]|trim }}</p>
+    {% endif %}
+
+    {% if course["course"] %}
+        <h2>
+            Disciplina
+            <a class="headerlink" href="#disciplina" title="Disciplina">¶</a>
+        </h2>
+
+        <p class="paragraph-text">{{ course["course"]|trim }}</p>
+    {% endif %}
+
+    {% if course["bibliography"] %}
+        <h2>
+            Bibliografia
+            <a class="headerlink" href="#bibliografia" title="Bibliografia">¶</a>
+        </h2>
+
+        <p class="paragraph-text">{{ course["bibliography"]|trim }}</p>
+    {% endif %}
+
+    {% if course["instructors"] %}
+        <h2>
+            Docente(s) Responsável(eis)
+            <a class="headerlink" href="#docente-responsavel" title="Docente(s) Responsável(eis)">¶</a>
+        </h2>
+
+        <p class="paragraph-text">{{ course["instructors"]|trim }}</p>
+    {% endif %}
+
+    <div class="requirements">
+        {% for g in graphs %}
+            <div>
+                <img src="{{ base_url }}/{{ g }}"/>
+            </div>
+        {% endfor %}
+    </div>
+
+    <br/>
+
+    <div class="metadatas">
+        {% if course["activation"] %}
+            <p>Ativação: {{ course["activation"]|trim }}</p>
+        {% endif %}
+        {% if course["deactivation"] %}
+            <p>Desativação: {{ course["deactivation"]|trim }}</p>
+        {% endif %}
+        <p>Atualização: {{ timestamp|trim }}</p>
+        <a class="reference external" href="{{ url }}" target="_blank">{{ url|trim }}</a>
+    </div>
+{% endblock %}
