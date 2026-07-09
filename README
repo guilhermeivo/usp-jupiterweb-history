@@ -1,0 +1,78 @@
+USP JupiterWeb History
+======================
+
+This repository is a historical archive of course information published by USP's JupiterWeb system.
+
+The archive is reconstructed from snapshots preserved by the Internet Archive Wayback Machine. Each detected historical revision is stored as an individual Git commit, allowing the evolution of every course to be explored using standard Git tools.
+
+Motivation
+----------
+
+The current JupiterWeb only exposes the latest version of each course description.
+
+When a syllabus, bibliography, learning objectives or workload changes, previous versions become difficult-or impossible-to access.
+
+This project reconstructs that history by importing archived versions of course pages and recording each historical revision independently.
+
+As a result, Git serves as a version control system for historical course information.
+
+Data source
+-----------
+
+Course pages are collected from:
+
+* USP JupiterWeb
+* Internet Archive Wayback Machine (CDX API)
+
+Only snapshots with unique page contents are imported, avoiding duplicate historical revisions.
+
+Repository structure
+--------------------
+
+Each course is stored in a single YAML file organized by department.
+
+<department>/
+    <course>.yaml
+
+Example:
+
+MAC/
+    MAC0110.yaml
+
+MAT/
+    MAT2453.yaml
+
+PCS/
+    PCS3616.yaml
+
+The working tree always contains the latest archived revision of each course.
+
+Earlier versions can be viewed through the Git history.
+
+Each commit represents the complete state of one or more courses at the time of the archived snapshot.
+
+Example:
+
+timestamp: "20130518123344"
+digest: ...
+url: ...
+course:
+  Disciplina: ...
+  Objetivos: ...
+  Programa: ...
+  Bibliografia básica: ...
+
+Limitations
+-----------
+
+* The archive is limited to pages preserved by the Internet Archive.
+* Missing snapshots cannot be reconstructed.
+* Older page layouts may require additional parsing rules.
+* Some archived pages contain incomplete course information.
+
+License
+-------
+
+Course information originates from the University of São Paulo.
+
+Archived copies are preserved by the Internet Archive.
