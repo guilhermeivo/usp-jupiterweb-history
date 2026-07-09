@@ -1,0 +1,15 @@
+{% extends "base.html.j2" %}
+
+{% block title %}USP JupiterWeb History{% endblock %}
+
+{% block content %}
+    <ul>
+        {% for d in departaments %}
+            <li class="toctree-l1">
+                <a class="reference internal" href="{{ base_url }}/{{ d }}.html">
+                    {{ d }}
+                </a>
+            </li>
+        {% endfor %}
+    </ul>
+{% endblock %}
