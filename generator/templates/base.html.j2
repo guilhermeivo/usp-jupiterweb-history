@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+
+    <link href="{{ base_url }}/pagefind/pagefind-component-ui.css" rel="stylesheet">
+    <script src="{{ base_url }}/pagefind/pagefind-component-ui.js" type="module"></script>
+    <script type="module">
+        await import('{{ base_url }}/pagefind/pagefind-highlight.js');
+        new PagefindHighlight({ highlightParam: "highlight" });
+    </script>
+
+    <link rel="stylesheet" href="{{ base_url }}/assets/basic.css">
+    <link rel="stylesheet" href="{{ base_url }}/assets/style.css">
+    <link rel="stylesheet" href="{{ base_url }}/assets/custom.css">
+</head>
+<body>
+    <div class="document">
+        <aside class="sphinxsidebar" role="navigation" data-pagefind-ignore>
+            <div class="sphinxsidebarwrapper">
+                <pagefind-config
+                    bundle-path="{{ base_url }}/pagefind/"
+                    highlight-param="highlight"
+                ></pagefind-config>
+
+                <pagefind-modal-trigger></pagefind-modal-trigger>
+                <pagefind-modal></pagefind-modal>
+
+                <h3>USP JupiterWeb History</h3>
+
+                <ul>
+                    <li class="toctree-l1">
+                        <a class="reference internal" href="{{ base_url }}/index.html">
+                            Departamentos
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </aside>
+        <main class="documentwrapper" data-pagefind-body>
+            <div class="bodywrapper">
+                <div class="body" role="main">
+                    {% block content %}{% endblock %}
+                </div>
+            </div>
+        </main>
+    </div>
+</body>
+</html>
