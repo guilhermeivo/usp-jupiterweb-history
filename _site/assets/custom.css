@@ -5,6 +5,10 @@
 .requirements {
     display: flex;
     flex-direction: column;
+
+    object {
+        max-width: 100%;
+    }
 }
 
 .metadatas {
