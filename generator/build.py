@@ -101,7 +101,7 @@ def build():
         def search_child(course, requirement, dot, number = 65, last_number = 65):
             dot.node(chr(number), course["file"].stem)
             if number != last_number:
-                dot.edge(chr(last_number), chr(number))
+                dot.edge(chr(number), chr(last_number))
             last_number = number
 
             class_name = get_class_name(requirement)
