@@ -120,7 +120,6 @@ def build():
         def search_child(course, requirement, dot, number = 65, last_number = 65, edge_type = ""):
             dot.node(chr(number), course["file"].stem)
             if number != last_number:
-                print(edge_type)
                 dot.edge(chr(number), chr(last_number), label=edge_type)
             last_number = number
 
@@ -131,6 +130,7 @@ def build():
                 best_course = find_nearest_course(courses, course, r)
                 if best_course is None:
                     number += 1
+                    print(normalize_code(r.get("code")))
                     dot.node(chr(number), normalize_code(r.get("code")))
                     dot.edge(chr(last_number), chr(number))
 
