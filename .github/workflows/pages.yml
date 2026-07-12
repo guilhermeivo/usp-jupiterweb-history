@@ -17,6 +17,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - run: |
+          sudo apt update && sudo apt install -y graphviz
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
