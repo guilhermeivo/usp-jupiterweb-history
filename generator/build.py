@@ -117,7 +117,7 @@ def build():
         raw_date = str(course_data.get("updated_at", "19700101000000"))
         timestamp = datetime.strptime(raw_date, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
 
-        def search_child(course, requirement, dot, number = 65, last_number = 65, edge_type = ""):
+        def search_child(course, requirement, dot, number = 0, last_number = 0, edge_type = ""):
             dot.node(f"n{number}", course["file"].stem)
             if number != last_number:
                 dot.edge(f"n{number}", f"n{last_number}", label=edge_type)
