@@ -118,6 +118,8 @@ def build():
         timestamp = datetime.strptime(raw_date, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
 
         def search_child(course, requirement, dot, number = 65, last_number = 65, edge_type = ""):
+
+            print(course["file"].stem)
             dot.node(chr(number), course["file"].stem)
             if number != last_number:
                 dot.edge(chr(number), chr(last_number), label=edge_type)
@@ -130,7 +132,6 @@ def build():
                 best_course = find_nearest_course(courses, course, r)
                 if best_course is None:
                     number += 1
-                    print(normalize_code(r.get("code")))
                     dot.node(chr(number), normalize_code(r.get("code")))
                     dot.edge(chr(last_number), chr(number))
 
