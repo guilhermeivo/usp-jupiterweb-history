@@ -3,7 +3,7 @@
 {% block title %}{{ departament }}{% endblock %}
 
 {% block content %}
-    <ul>
+    <ul data-pagefind-ignore>
         {% for c in courses %}
             <li class="toctree-l1">
                 <a class="reference internal" href="{{ base_url }}/{{ c.departament }}/{{ c.file.stem }}.html">
