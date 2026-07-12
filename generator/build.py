@@ -152,6 +152,7 @@ def build():
         output_graphs = []
         for requirement in requirements:
             dot = graphviz.Digraph(comment='Requirements')
+            dot.graph_attr['stylesheet'] = f'{SITE_PREFIX}/assets/style.css'
             dot.attr(rankdir='RL')
             search_child(course, requirement, dot)
             filename_graph = course["file"].stem + f'__{get_class_name(requirement)}'
