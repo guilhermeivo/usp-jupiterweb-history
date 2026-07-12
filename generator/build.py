@@ -130,7 +130,7 @@ def build():
                 best_course = find_nearest_course(courses, course, r)
                 if best_course is None:
                     number += 1
-                    dot.node(f"n{number}", normalize_code(r.get("code")), URL=f"{SITE_PREFIX}/{departament}/{course["file"].stem}.html")
+                    dot.node(f"n{number}", normalize_code(r.get("code")))
                     dot.edge(f"n{last_number}", f"n{number}", label=edge_type)
 
                     continue
