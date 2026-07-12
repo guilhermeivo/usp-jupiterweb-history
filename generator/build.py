@@ -118,7 +118,12 @@ def build():
         timestamp = datetime.strptime(raw_date, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
 
         def search_child(course, requirement, dot, number = 0, last_number = 0, edge_type = ""):
-            dot.node(f"n{number}", course["file"].stem, URL=f"{SITE_PREFIX}/{departament}/{course["file"].stem}.html")
+            dot.node(
+                f"n{number}",
+                course["file"].stem,
+                URL=f"{SITE_PREFIX}/{departament}/{course["file"].stem}.html",
+                **{'class': 'reference internal'}
+            )
             if number != last_number:
                 dot.edge(f"n{last_number}", f"n{number}", label=edge_type)
             last_number = number
