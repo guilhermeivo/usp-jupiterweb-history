@@ -98,10 +98,10 @@ def build():
         raw_date = str(course_data.get("updated_at", "19700101000000"))
         timestamp = datetime.strptime(raw_date, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
 
-        def search_child(course, requirement, dot, number = 65, last_number = 65):
+        def search_child(course, requirement, dot, number = 65, last_number = 65, edge_type = ""):
             dot.node(chr(number), course["file"].stem)
             if number != last_number:
-                dot.edge(chr(number), chr(last_number))
+                dot.edge(chr(number), chr(last_number), label=edge_type)
             last_number = number
 
             class_name = get_class_name(requirement)
@@ -118,7 +118,7 @@ def build():
                 for rr in best_course["data"].get("requirements", []):
                     if get_class_name(rr) == class_name:
                         number += 1
-                        search_child(best_course, rr, dot, number, last_number)
+                        search_child(best_course, rr, dot, number, last_number, edge_type=r.get("type"))
                         break
 
         requirements = course_data.get("requirements", [])
