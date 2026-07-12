@@ -75,7 +75,9 @@ def get_class_name(requirement):
         course_name = (
             splits[0]
             .replace("\n", " ")
+            .replace("\\n", " ")
             .replace("\r", " ")
+            .replace("\\r", " ")
         )
         course_name = (
             re.sub(r"\s+", " ", course_name)
