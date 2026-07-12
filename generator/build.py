@@ -73,7 +73,12 @@ def get_class_name(requirement):
     splits = course_name.split('-')
     if len(splits) > 0:
         course_name = (
-            re.sub(r"\s+", " ", splits[0])
+            splits[0]
+            .replace("\n", " ")
+            .replace("\r", " ")
+        )
+        course_name = (
+            re.sub(r"\s+", " ", course_name)
             .strip()
             .removeprefix("Curso:")
             .strip()
