@@ -148,6 +148,8 @@ def build():
             search_child(course, requirement, dot)
             output_graph = output_dir / course["file"].stem / f'__{get_class_name(requirement)}'
             output_graphs.append(Path(departament) / course["file"].stem / f'__{get_class_name(requirement)}.svg')
+
+            print(output_graph)
             dot.render(output_graph, format='svg')
 
         html = course_template.render(
