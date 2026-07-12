@@ -2,6 +2,7 @@ from configparser import ConfigParser
 from datetime import datetime, timezone
 from pathlib import Path
 import re
+import unicodedata
 import yaml
 from jinja2 import Environment, FileSystemLoader
 import graphviz
@@ -68,24 +69,31 @@ def find_nearest_course(courses, course, requirement):
     return best_course
 
 
+def normalize_string(text: str) -> str:
+    text = "".join(
+        c for c in unicodedata.normalize("NFD", text)
+        if unicodedata.category(c) != "Mn"
+    )
+
+    text = re.sub(r"[\r\n]+", " ", text)
+    text = re.sub(r"\s+", " ", text)
+
+    text = text.strip()
+
+    text = text.lower()
+
+    return text
+
+
 def get_class_name(requirement):
     course_name = requirement.get("course", "")
     splits = course_name.split('-')
     if len(splits) > 0:
         course_name = (
-            splits[0]
-            .replace("\n", " ")
-            .replace("\\n", " ")
-            .replace("\r", " ")
-            .replace("\\r", " ")
-        )
-        course_name = (
-            re.sub(r"\s+", " ", course_name)
-            .strip()
-            .removeprefix("Curso:")
+            normalize_string(splits[0])
+            .removeprefix("curso:")
             .strip()
             .replace(" ", "_")
-            .lower()
         )
     return course_name
 
