@@ -150,7 +150,7 @@ def build():
             output_graph = output_dir / filename
             output_graphs.append(Path(departament) / f'{filename}.svg')
 
-            print(output_graph.strip())
+            print(output_graph)
             dot.render(output_graph, format='svg')
 
         html = course_template.render(
