@@ -146,9 +146,9 @@ def build():
             dot = graphviz.Digraph(comment='Requirements')
             dot.attr(rankdir='RL')
             search_child(course, requirement, dot)
-            filename = course["file"].stem + f'__{get_class_name(requirement)}'
-            output_graph = output_dir / filename
-            output_graphs.append(Path(departament) / f'{filename}.svg')
+            filename_graph = course["file"].stem + f'__{get_class_name(requirement)}'
+            output_graph = output_dir / filename_graph
+            output_graphs.append(Path(departament) / f'{filename_graph}.svg')
 
             dot.render(output_graph, format='svg')
 
