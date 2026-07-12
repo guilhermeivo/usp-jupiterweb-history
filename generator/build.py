@@ -131,7 +131,7 @@ def build():
                 if best_course is None:
                     number += 1
                     dot.node(f"n{number}", normalize_code(r.get("code")))
-                    dot.edge(f"n{last_number}", f"n{number}")
+                    dot.edge(f"n{number}", f"n{last_number}", label=edge_type)
 
                     continue
                 for rr in best_course["data"].get("requirements", []):
