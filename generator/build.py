@@ -98,7 +98,7 @@ def build():
         raw_date = str(course_data.get("updated_at", "19700101000000"))
         timestamp = datetime.strptime(raw_date, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
 
-        def search(course, requirement, dot, number = 65, last_number = 65):
+        def search_child(course, requirement, dot, number = 65, last_number = 65):
             dot.node(chr(number), course["file"].stem)
             if number != last_number:
                 dot.edge(chr(last_number), chr(number))
@@ -118,7 +118,7 @@ def build():
                 for rr in best_course["data"].get("requirements", []):
                     if get_class_name(rr) == class_name:
                         number += 1
-                        search(best_course, rr, dot, number, last_number)
+                        search_child(best_course, rr, dot, number, last_number)
                         break
 
         requirements = course_data.get("requirements", [])
@@ -126,9 +126,9 @@ def build():
         for requirement in requirements:
             dot = graphviz.Digraph(comment='Requirements')
             dot.attr(rankdir='LR')
-            search(course, requirement, dot)
-            output_graph = output_dir / f'{get_class_name(requirement)}'
-            output_graphs.append(Path(departament) / f'{get_class_name(requirement)}.svg')
+            search_child(course, requirement, dot)
+            output_graph = output_dir / course["file"].stem / f'__{get_class_name(requirement)}'
+            output_graphs.append(Path(departament) / course["file"].stem / f'__{get_class_name(requirement)}.svg')
             dot.render(output_graph, format='svg')
 
         html = course_template.render(
