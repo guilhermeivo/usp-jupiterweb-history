@@ -122,6 +122,7 @@ def build():
                 f"n{number}",
                 course["file"].stem,
                 URL=f"{SITE_PREFIX}/{departament}/{course["file"].stem}.html",
+                target='_blank',
                 **{'class': 'reference internal'}
             )
             if number != last_number:
