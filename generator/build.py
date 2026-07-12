@@ -118,9 +118,9 @@ def build():
         timestamp = datetime.strptime(raw_date, "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc)
 
         def search_child(course, requirement, dot, number = 65, last_number = 65, edge_type = ""):
-            dot.node(chr(number), course["file"].stem)
+            dot.node(f"n{number}", course["file"].stem)
             if number != last_number:
-                dot.edge(chr(number), chr(last_number), label=edge_type)
+                dot.edge(f"n{number}", f"n{last_number}", label=edge_type)
             last_number = number
 
             class_name = get_class_name(requirement)
@@ -130,8 +130,8 @@ def build():
                 best_course = find_nearest_course(courses, course, r)
                 if best_course is None:
                     number += 1
-                    dot.node(chr(number), normalize_code(r.get("code")))
-                    dot.edge(chr(last_number), chr(number))
+                    dot.node(f"n{number}", normalize_code(r.get("code")))
+                    dot.edge(f"n{last_number}", f"n{number}")
 
                     continue
                 for rr in best_course["data"].get("requirements", []):
@@ -150,7 +150,6 @@ def build():
             output_graph = output_dir / filename
             output_graphs.append(Path(departament) / f'{filename}.svg')
 
-            print(dot.source)
             dot.render(output_graph, format='svg')
 
         html = course_template.render(
