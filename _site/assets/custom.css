@@ -16,6 +16,16 @@
     font-size: 0.75rem;
 }
 
+g.reference a {
+    text-decoration: underline;
+    text-decoration-style: dashed;
+    text-underline-offset: 4px;
+}
+
+g.reference:hover a {
+    text-decoration-style: solid;
+}
+
 /*
     Adapted from Bootstrap v5.0.2 (https://getbootstrap.com/)
     Copyright 2011-2019 The Bootstrap Authors
