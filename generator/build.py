@@ -78,6 +78,8 @@ def normalize_string(text: str) -> str:
     text = re.sub(r"[\r\n]+", " ", text)
     text = re.sub(r"\s+", " ", text)
 
+    text = text.replace("\\", "/")
+
     text = text.strip()
 
     text = text.lower()
