@@ -1,6 +1,7 @@
 from configparser import ConfigParser
 from datetime import datetime, timezone
 from pathlib import Path
+import re
 import yaml
 from jinja2 import Environment, FileSystemLoader
 import graphviz
@@ -71,13 +72,14 @@ def get_class_name(requirement):
     course_name = requirement.get("course", "")
     splits = course_name.split('-')
     if len(splits) > 0:
-        course_name = splits[0] \
-            .strip() \
-            .strip("Curso:") \
-            .strip() \
-            .replace("  ", " ") \
-            .replace(" ", "_") \
+        course_name = (
+            re.sub(r"\s+", " ", splits[0])
+            .strip()
+            .removeprefix("Curso:")
+            .strip()
+            .replace(" ", "_")
             .lower()
+        )
     return course_name
 
 def build():
