@@ -3,7 +3,7 @@
 {% block title %}USP JupiterWeb History{% endblock %}
 
 {% block content %}
-    <ul>
+    <ul data-pagefind-ignore>
         {% for d in departaments %}
             <li class="toctree-l1">
                 <a class="reference internal" href="{{ base_url }}/{{ d }}.html">
