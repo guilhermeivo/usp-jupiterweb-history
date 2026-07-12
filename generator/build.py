@@ -137,8 +137,10 @@ def build():
                 for rr in best_course["data"].get("requirements", []):
                     if get_class_name(rr) == class_name:
                         number += 1
-                        search_child(best_course, rr, dot, number, last_number, edge_type=r.get("type"))
+                        number = search_child(best_course, rr, dot, number, last_number, edge_type=r.get("type"))
                         break
+
+            return number
 
         requirements = course_data.get("requirements", [])
         output_graphs = []
